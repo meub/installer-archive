@@ -106,9 +106,10 @@ function buildStatBadges() {
 
   const catCounts = new Map();
   for (const r of recs) if (r.category) catCounts.set(r.category, (catCounts.get(r.category) || 0) + 1);
-  for (const key of Object.keys(CATEGORY_LABELS)) {
-    const n = catCounts.get(key);
-    if (!n || key === "other") continue;
+  const ordered = [...catCounts.entries()]
+    .filter(([key, n]) => n && key !== "other" && CATEGORY_LABELS[key])
+    .sort((a, b) => b[1] - a[1]);
+  for (const [key, n] of ordered) {
     const btn = document.createElement("button");
     btn.type = "button";
     btn.className = `stat-badge stat-badge-cat badge-${key}`;

@@ -64,15 +64,8 @@ button { font: inherit; color: inherit; }
   -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--border);
 }
-.topbar-inner { padding-top: 12px; padding-bottom: 11px; }
-.search-row { display: flex; gap: 10px; margin-bottom: 10px; }
-.topbar .chip-row {
-  flex-wrap: nowrap;
-  overflow-x: auto;
-  margin-bottom: 0;
-  scrollbar-width: none;
-}
-.topbar .chip-row::-webkit-scrollbar { display: none; }
+.topbar-inner { padding-top: 14px; padding-bottom: 16px; }
+.search-row { display: flex; gap: 10px; }
 .searchbox { position: relative; flex: 1; display: flex; align-items: center; }
 .search-icon {
   position: absolute; left: 12px; width: 16px; height: 16px;
@@ -124,7 +117,13 @@ button { font: inherit; color: inherit; }
 .chip-row-tags .chip { font-size: 12.5px; padding: 3px 10px; }
 
 .chip-row-wrap { display: flex; align-items: center; gap: 12px; }
-.chip-row-wrap .chip-row { flex: 1; min-width: 0; }
+.chip-row-wrap .chip-row {
+  flex: 1; min-width: 0;
+  flex-wrap: nowrap; overflow-x: auto;
+  margin-bottom: 0;
+  scrollbar-width: none;
+}
+.chip-row-wrap .chip-row::-webkit-scrollbar { display: none; }
 .more-filters-btn {
   background: none; border: none; padding: 2px 0;
   color: var(--text-faint); font-size: 13px; cursor: pointer;
