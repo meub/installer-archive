@@ -1,0 +1,188 @@
+/* Windows 98 theme — active only under :root[data-theme="win98"].
+   Pairs with vendor/98/98.css (enabled by JS in this mode only, since it
+   styles native elements globally). Same DOM as the clean theme (SPEC §7.3):
+   the app becomes a viewport-height window on the teal desktop, results
+   scroll inside a sunken panel like an Explorer listview. */
+
+:root[data-theme="win98"] {
+  --bg: #008080;
+  --bg-elev: silver;
+  --text: #000;
+  --text-muted: #000;
+  --text-faint: #444;
+  --border: #808080;
+  --border-strong: #404040;
+  --accent: #000080;
+  --accent-soft: silver;
+  --focus: #000;
+  --chip-bg: silver;
+  --chip-bg-active: silver;
+  --chip-fg-active: #000;
+  --kbd-bg: silver;
+  color-scheme: light;
+}
+
+/* 98.css raised / sunken / pressed bevels */
+[data-theme="win98"] {
+  --raised: inset -1px -1px #0a0a0a, inset 1px 1px #fff, inset -2px -2px grey, inset 2px 2px #dfdfdf;
+  --pressed: inset -1px -1px #fff, inset 1px 1px #0a0a0a, inset -2px -2px #dfdfdf, inset 2px 2px grey;
+  --sunken: inset -1px -1px #fff, inset 1px 1px grey, inset -2px -2px #dfdfdf, inset 2px 2px #0a0a0a;
+}
+
+/* ---------- desktop + window ---------- */
+[data-theme="win98"] body {
+  background: #008080;
+  font-family: "Pixelated MS Sans Serif", Arial, sans-serif;
+  font-size: 11px;
+  line-height: 1.4;
+  -webkit-font-smoothing: none;
+  height: 100vh;
+  overflow: hidden;
+  padding: 14px 10px;
+  display: flex;
+}
+[data-theme="win98"] .app-window {
+  width: 100%;
+  max-width: 880px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+[data-theme="win98"] .win98-only { display: flex; }
+[data-theme="win98"] .wrap { max-width: none; padding: 0 10px; }
+
+/* ---------- header ---------- */
+[data-theme="win98"] .site-head { padding: 8px 10px 0; }
+[data-theme="win98"] .site-head h1 { font-size: 12px; font-weight: bold; }
+[data-theme="win98"] .tagline { margin: 4px 0 8px; font-size: 11px; }
+[data-theme="win98"] .tagline a { color: #000080; }
+[data-theme="win98"] .link-btn {
+  color: #000080; text-decoration: underline; font-size: 11px;
+}
+
+/* ---------- toolbar ---------- */
+[data-theme="win98"] .topbar {
+  position: static;
+  background: silver;
+  border-bottom: none;
+  -webkit-backdrop-filter: none; backdrop-filter: none;
+}
+[data-theme="win98"] .topbar-inner { padding: 4px 10px 6px; gap: 6px; }
+[data-theme="win98"] .search-icon,
+[data-theme="win98"] .slash-hint { display: none; }
+[data-theme="win98"] #q {
+  border: none;
+  border-radius: 0;
+  background: #fff;
+  box-shadow: var(--sunken);
+  padding: 4px 7px;
+  font: inherit;
+}
+[data-theme="win98"] #sort {
+  border: none;
+  border-radius: 0;
+  font: inherit;
+  color: #000;
+  min-width: 100px;
+  padding: 3px 26px 4px 6px;
+}
+
+/* ---------- filter chips as 98 buttons ---------- */
+[data-theme="win98"] .filters { padding: 2px 0 0; }
+[data-theme="win98"] .chip-row { gap: 3px; margin-bottom: 4px; padding: 0 10px; }
+[data-theme="win98"] .chip,
+[data-theme="win98"] .tag {
+  border: none;
+  border-radius: 0;
+  background: silver;
+  color: #000;
+  box-shadow: var(--raised);
+  padding: 3px 10px;
+  font-size: 11px;
+  font-family: inherit;
+  min-width: 0;
+}
+[data-theme="win98"] .chip:hover, [data-theme="win98"] .tag:hover { color: #000; }
+[data-theme="win98"] .chip[aria-pressed="true"] {
+  box-shadow: var(--pressed);
+  font-weight: bold;
+  background: #dfdfdf;
+}
+[data-theme="win98"] .chip-label { color: #000; font-size: 11px; }
+[data-theme="win98"] .chip-row-tags .chip { padding: 2px 8px; }
+
+/* ---------- results: Explorer-style listview ---------- */
+[data-theme="win98"] .status-row { padding: 4px 10px 4px; }
+[data-theme="win98"] .count { color: #000; font-size: 11px; }
+[data-theme="win98"] main {
+  flex: 1;
+  min-height: 120px;
+  overflow-y: scroll;
+  background: #fff;
+  box-shadow: var(--sunken);
+  margin: 2px 10px 4px;
+  padding: 4px 8px;
+}
+[data-theme="win98"] .rec {
+  gap: 10px;
+  padding: 8px 4px;
+  border-bottom: 1px dotted #b0b0b0;
+}
+[data-theme="win98"] .cat-icon { display: block; margin-top: 1px; }
+[data-theme="win98"] .badge { display: none; }
+[data-theme="win98"] .rec-name {
+  font-size: 12px;
+  color: #000080;
+  text-decoration: underline;
+}
+[data-theme="win98"] .rec-blurb { font-size: 11px; margin: 3px 0 4px; color: #000; }
+[data-theme="win98"] .rec-meta { font-size: 10px; color: #444; gap: 5px; }
+[data-theme="win98"] .rec-meta a { color: #444; }
+
+/* row selection highlight, like a listview */
+[data-theme="win98"] .rec:hover { background: #000080; }
+[data-theme="win98"] .rec:hover .rec-name,
+[data-theme="win98"] .rec:hover .rec-blurb,
+[data-theme="win98"] .rec:hover .rec-meta,
+[data-theme="win98"] .rec:hover .rec-meta a,
+[data-theme="win98"] .rec:hover .rec-meta span { color: #fff; }
+[data-theme="win98"] .rec:hover .tag { color: #000; }
+
+/* skeletons + empty state */
+[data-theme="win98"] .skeleton::after { background: #dfdfdf; }
+[data-theme="win98"] .empty { color: #000; }
+[data-theme="win98"] .btn {
+  border: none; border-radius: 0;
+  background: silver; color: #000;
+  box-shadow: var(--raised);
+  padding: 5px 14px; font: inherit;
+}
+
+/* ---------- status bar + footer ---------- */
+[data-theme="win98"] #status98 { margin: 0 10px 8px; gap: 2px; }
+[data-theme="win98"] .site-foot { display: none; }
+
+/* ---------- about dialog as a 98 window ---------- */
+[data-theme="win98"] dialog {
+  border-radius: 0;
+  border: none;
+  padding: 2px;
+  max-width: 420px;
+}
+[data-theme="win98"] dialog h2 { display: none; }
+[data-theme="win98"] dialog p { font-size: 11px; margin: 10px 8px; color: #000; }
+[data-theme="win98"] dialog form { margin: 4px 8px 8px; text-align: right; }
+[data-theme="win98"] dialog a { color: #000080; }
+
+/* ---------- misc ---------- */
+[data-theme="win98"] :focus-visible { outline: 1px dotted #000; outline-offset: 0; }
+[data-theme="win98"] .del-btn { border-radius: 0; }
+[data-theme="win98"] .admin-bar { font-family: inherit; }
+
+[data-theme="win98"] body.admin-on { padding-bottom: 60px; }
+
+@media (max-width: 560px) {
+  [data-theme="win98"] body { padding: 4px; }
+  [data-theme="win98"] .head-btns { gap: 8px; }
+}

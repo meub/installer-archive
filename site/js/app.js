@@ -1,6 +1,6 @@
 import MiniSearch from "../vendor/minisearch.js";
-import { readState, writeState, resetState } from "./urlstate.js?v=3";
-import { CATEGORY_LABELS, SECTION_LABELS, sectionLabel, createRenderer, fmtNum } from "./render.js?v=3";
+import { readState, writeState, resetState } from "./urlstate.js?v=4";
+import { CATEGORY_LABELS, SECTION_LABELS, sectionLabel, createRenderer, fmtNum } from "./render.js?v=4";
 
 const $ = (id) => document.getElementById(id);
 const state = readState();
@@ -104,6 +104,35 @@ function toggleTag(tag, doApply = true) {
   if (doApply) apply();
 }
 
+// -------------------------------------------------------------------- theme
+// 98.css styles native elements globally, so it stays a disabled <link>
+// except in 98 mode. ?theme=98 enables; ?theme=modern (or the ✕) exits.
+
+const themeParam = new URLSearchParams(location.search).get("theme");
+if (themeParam === "98") localStorage.setItem("installer-theme", "98");
+else if (themeParam) localStorage.removeItem("installer-theme");
+
+const win98 = () => localStorage.getItem("installer-theme") === "98";
+
+function applyTheme() {
+  const on = win98();
+  document.documentElement.dataset.theme = on ? "win98" : "";
+  $("css-98").disabled = !on;
+  $("theme-btn").textContent = on ? "Switch to modern mode" : "💾 98 mode";
+}
+
+$("theme-btn").addEventListener("click", () => {
+  if (win98()) localStorage.removeItem("installer-theme");
+  else localStorage.setItem("installer-theme", "98");
+  applyTheme();
+});
+$("win98-close").addEventListener("click", () => {
+  localStorage.removeItem("installer-theme");
+  applyTheme();
+});
+$("about-close-98").addEventListener("click", () => $("about").close());
+applyTheme();
+
 // ---------------------------------------------------------------- admin mode
 // ?admin=1 reveals per-row delete buttons for data cleanup. Marks live in
 // localStorage; "Download deletions.json" feeds `python -m scraper delete`.
@@ -206,6 +235,9 @@ function apply() {
   $("count").textContent = filtersActive()
     ? `${fmtNum(list.length)} of ${fmtNum(recs.length)}`
     : `${fmtNum(recs.length)} recommendations`;
+  $("status98-count").textContent = `${fmtNum(list.length)} object(s)`;
+  $("status98-filter").textContent = state.cat
+    ? CATEGORY_LABELS[state.cat] : (filtersActive() ? "Filtered" : "All categories");
   $("empty").hidden = list.length > 0;
   $("clear-btn").hidden = !filtersActive();
   for (const c of chips) c.refresh?.();

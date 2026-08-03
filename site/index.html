@@ -12,16 +12,31 @@
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💾</text></svg>">
   <link rel="stylesheet" href="css/base.css">
   <link rel="stylesheet" href="css/theme-clean.css">
+  <link rel="stylesheet" href="css/theme-98.css">
+  <link rel="stylesheet" href="vendor/98/98.css" id="css-98" disabled>
   <!-- Analytics (planned, see SPEC §10): enable once the GoatCounter account exists.
   <script data-goatcounter="https://installerarchive.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
   -->
 </head>
 <body>
 
+<div class="app-window window">
+<div class="title-bar win98-only">
+  <div class="title-bar-text">Installer Archive</div>
+  <div class="title-bar-controls">
+    <button aria-label="Minimize" type="button"></button>
+    <button aria-label="Maximize" type="button"></button>
+    <button aria-label="Close" type="button" id="win98-close"></button>
+  </div>
+</div>
+
 <header class="site-head wrap">
   <div class="site-title-row">
     <h1>💾 Installer Archive</h1>
-    <button class="link-btn" id="about-btn" type="button">About</button>
+    <div class="head-btns">
+      <button class="link-btn" id="theme-btn" type="button">💾 98 mode</button>
+      <button class="link-btn" id="about-btn" type="button">About</button>
+    </div>
   </div>
   <p class="tagline" id="tagline">Everything The Verge’s <a href="https://www.theverge.com/installer-newsletter" rel="noopener">Installer</a> newsletter has ever recommended.</p>
 </header>
@@ -65,6 +80,12 @@
   <noscript><p class="empty">This index needs JavaScript to search ~3,000 recommendations client-side.</p></noscript>
 </main>
 
+<div class="status-bar win98-only" id="status98">
+  <p class="status-bar-field" id="status98-count"></p>
+  <p class="status-bar-field" id="status98-filter">All categories</p>
+  <p class="status-bar-field">The Verge’s Installer, indexed</p>
+</div>
+
 <footer class="wrap site-foot">
   <p>An unofficial fan index — not affiliated with The Verge or Vox Media. Newsletter excerpts belong to
   <a href="https://www.theverge.com/installer-newsletter" rel="noopener">The Verge</a>; every entry links back to its issue.</p>
@@ -72,6 +93,7 @@
   built by <a href="https://alexmeub.com" rel="noopener">Alex Meub</a> ·
   content concerns: alexmeub@gmail.com</p>
 </footer>
+</div> <!-- /app-window -->
 
 <div id="admin-bar" class="admin-bar" hidden>
   <strong>ADMIN</strong>
@@ -82,7 +104,13 @@
   <button class="link-btn" id="admin-exit" type="button">Exit admin</button>
 </div>
 
-<dialog id="about">
+<dialog id="about" class="window">
+  <div class="title-bar win98-only">
+    <div class="title-bar-text">About Installer Archive</div>
+    <div class="title-bar-controls">
+      <button aria-label="Close" type="button" id="about-close-98"></button>
+    </div>
+  </div>
   <h2>About</h2>
   <p><a href="https://www.theverge.com/installer-newsletter" rel="noopener">Installer</a> is The Verge’s
   weekly newsletter by David Pierce — apps, games, shows, gadgets, and reader finds, every Saturday.
@@ -94,6 +122,6 @@
   <form method="dialog"><button class="btn">Close</button></form>
 </dialog>
 
-<script type="module" src="js/app.js?v=3"></script>
+<script type="module" src="js/app.js?v=4"></script>
 </body>
 </html>

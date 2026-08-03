@@ -88,7 +88,11 @@ button { font: inherit; color: inherit; }
 .link-btn:hover { text-decoration: underline; }
 
 .rec-list { list-style: none; margin: 0; padding: 0; }
-.rec { padding: 15px 2px 14px; border-bottom: 1px solid var(--border); }
+.rec { display: flex; gap: 12px; padding: 15px 2px 14px; border-bottom: 1px solid var(--border); }
+.rec-body { flex: 1; min-width: 0; }
+.cat-icon { display: none; image-rendering: pixelated; flex-shrink: 0; }
+.win98-only { display: none; }
+.head-btns { display: flex; gap: 14px; }
 .rec-head { display: flex; align-items: baseline; gap: 10px; }
 .rec-name {
   font-weight: 600; font-size: 15.5px;

@@ -27,8 +27,21 @@ function el(tag, className, text) {
 
 function sep() { return el("span", "sep", "·"); }
 
+// Win98 category icons (win98icons.alexmeub.com), shown in 98 mode
+const iconFor = (c) => `icons/${CATEGORY_LABELS[c] ? c : "other"}.png`;
+
 function rowFor(rec, issue, onTag, onDelete) {
   const li = el("li", "rec");
+
+  const icon = el("img", "cat-icon");
+  icon.src = iconFor(rec.category);
+  icon.alt = "";
+  icon.width = 32;
+  icon.height = 32;
+  icon.loading = "lazy";
+  li.append(icon);
+
+  const body = el("div", "rec-body");
 
   const head = el("div", "rec-head");
   if (onDelete) {
@@ -51,9 +64,9 @@ function rowFor(rec, issue, onTag, onDelete) {
   if (rec.category) {
     head.append(el("span", `badge badge-${rec.category}`, rec.category));
   }
-  li.append(head);
+  body.append(head);
 
-  if (rec.blurb) li.append(el("p", "rec-blurb", rec.blurb));
+  if (rec.blurb) body.append(el("p", "rec-blurb", rec.blurb));
 
   const meta = el("div", "rec-meta");
   for (const tag of rec.tags) {
@@ -79,7 +92,8 @@ function rowFor(rec, issue, onTag, onDelete) {
   if (rec.recommender) {
     meta.append(sep(), el("span", null, `via ${rec.recommender}`));
   }
-  li.append(meta);
+  body.append(meta);
+  li.append(body);
   return li;
 }
 
