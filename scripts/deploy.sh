@@ -4,13 +4,8 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
-S3_BUCKET="${S3_BUCKET:-installer-archive-site}"
-CF_DISTRIBUTION_ID="${CF_DISTRIBUTION_ID:-}"
-
-if [[ -z "$CF_DISTRIBUTION_ID" ]]; then
-  echo "CF_DISTRIBUTION_ID not set — set it in your env or edit scripts/deploy.sh" >&2
-  exit 1
-fi
+S3_BUCKET="${S3_BUCKET:-installerarchive.alexmeub.com}"
+CF_DISTRIBUTION_ID="${CF_DISTRIBUTION_ID:-E2WF0FL59J3X6E}"
 
 # Long-ish cache for static assets, short for the entry point + data.
 aws s3 sync site/ "s3://$S3_BUCKET/" --delete \

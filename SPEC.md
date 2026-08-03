@@ -297,7 +297,7 @@ A full 98.css-based skin was shipped and then removed: fun, but not readable eno
 
 ## 8. Hosting & deploy
 
-Standard alexmeub.com stack — nothing new required:
+Standard alexmeub.com stack. **Provisioned 2026-08-03:** bucket `installerarchive.alexmeub.com` (us-west-2, private, OAC), CloudFront `E2WF0FL59J3X6E` (d10r9xxu2rtznc.cloudfront.net), per-site ACM cert in us-east-1, A/AAAA aliases in zone `Z2VOTYZXTEEK0F`.
 
 - Private S3 bucket (`installer-archive-site`) + CloudFront with OAC, ACM cert (us-east-1) for `installerarchive.alexmeub.com`, Route53 A/AAAA alias. Compression (brotli+gzip), HTTP/2+3, default root object `index.html`. No custom error pages needed (query-param routing only).
 - **Cache strategy:** `index.html` + `data/archive.json` → `Cache-Control: public, max-age=300, must-revalidate`; css/js/vendor/fonts → `max-age=31536000, immutable` only if we later add content hashes — until then, 1 day + deploy-time invalidation.
@@ -314,7 +314,7 @@ Standard alexmeub.com stack — nothing new required:
 | 4 | Site v1 (clean theme) | Search/filter/sort/URL-state/keyboard all work; perf budget met; deployed to prod |
 | 5 | Weekly loop proven | Two consecutive Saturdays updated in <10 min each |
 | 6 | Win98 theme | Toggle ships; theme parity on all states (loading/empty/error) |
-| 7+ | Ideas parking lot | GoatCounter analytics (decided yes — wire up post-launch), dedupe view ("recommended 4×" grouped by canonical URL), stats page (most-recommended, per-year), per-issue pages, OG images, RSS feed of the archive itself |
+| 7+ | Ideas parking lot | GoatCounter analytics (decided yes — wire up post-launch); **dedupe pass: same item recommended multiple times → keep the earliest entry, remove later ones**; **generic-name fix: rename entries titled by anchor fragments ("a tool") to the actual thing ("Earth.fm") — LLM-assistable from blurb+URL**; stats page (most-recommended, per-year), per-issue pages, OG images, RSS feed of the archive itself |
 
 Suggested build order runs data-first (milestones 1–3 before 4): the UI is the point, but it's only as good as the dataset under it, and curation is the long pole.
 
