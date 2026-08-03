@@ -34,6 +34,32 @@ button { font: inherit; color: inherit; }
 .bar-icon svg { width: 18px; height: 18px; }
 @media (max-width: 560px) { .bar-updated { display: none; } }
 
+.theme-toggle {
+  position: relative; flex-shrink: 0;
+  width: 42px; height: 24px; padding: 0;
+  background: var(--chip-bg);
+  border: 1px solid var(--chip-border, var(--border));
+  border-radius: 999px;
+  cursor: pointer;
+  transition: border-color 0.12s ease;
+}
+.theme-toggle:hover { border-color: var(--border-strong); }
+.theme-knob {
+  position: absolute; top: 2px; left: 2px;
+  width: 18px; height: 18px; border-radius: 50%;
+  background: var(--switch-knob);
+  display: flex; align-items: center; justify-content: center;
+  color: var(--text);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+  transition: transform 0.16s ease;
+}
+.theme-knob svg { width: 11px; height: 11px; }
+:root[data-theme="dark"] .theme-knob { transform: translateX(18px); }
+.theme-toggle .ico-moon { display: none; }
+:root[data-theme="dark"] .theme-toggle .ico-sun { display: none; }
+:root[data-theme="dark"] .theme-toggle .ico-moon { display: block; }
+@media (prefers-reduced-motion: reduce) { .theme-knob { transition: none; } }
+
 .site-head { padding-top: 26px; padding-bottom: 4px; }
 .tagline {
   color: var(--text-muted); font-size: 15.5px; line-height: 1.5;
@@ -242,6 +268,7 @@ dialog {
 dialog::backdrop { background: rgba(0, 0, 0, 0.45); }
 dialog h2 { margin-top: 0; }
 dialog p { color: var(--text-muted); font-size: 14px; }
+dialog a { color: var(--accent); }
 
 :focus-visible { outline: 2px solid var(--focus); outline-offset: 1px; }
 

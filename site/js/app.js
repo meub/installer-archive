@@ -5,6 +5,33 @@ import { CATEGORY_LABELS, SECTION_LABELS, sectionLabel, createRenderer, fmtDate,
 const $ = (id) => document.getElementById(id);
 const state = readState();
 
+// -------------------------------------------------------------------- theme
+// The inline <head> script already resolved and applied the theme; this wires
+// the toggle and keeps following the OS until an explicit choice is stored.
+
+const darkMedia = window.matchMedia("(prefers-color-scheme: dark)");
+const themeBtn = $("theme-btn");
+const storedTheme = () => {
+  const v = localStorage.getItem("installer-theme");
+  return v === "dark" || v === "light" ? v : null;
+};
+
+function applyTheme(theme) {
+  document.documentElement.dataset.theme = theme;
+  themeBtn.setAttribute("aria-checked", String(theme === "dark"));
+  themeBtn.title = theme === "dark" ? "Switch to light mode" : "Switch to dark mode";
+}
+
+themeBtn.addEventListener("click", () => {
+  const next = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
+  localStorage.setItem("installer-theme", next);
+  applyTheme(next);
+});
+darkMedia.addEventListener("change", (e) => {
+  if (!storedTheme()) applyTheme(e.matches ? "dark" : "light");
+});
+applyTheme(document.documentElement.dataset.theme === "dark" ? "dark" : "light");
+
 // ---------------------------------------------------------------- data load
 
 let data;

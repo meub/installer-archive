@@ -1,7 +1,47 @@
-/* Installer Archive — the theme. A committed dark palette (no light variant);
-   all colors live here as custom properties, base.css consumes them. */
+/* Installer Archive — light and dark palettes.
+   The inline script in <head> resolves the active theme before first paint
+   (stored preference, else the OS setting) and stamps data-theme on <html>,
+   so there's no flash of the wrong theme and no duplicated media-query block. */
 
-:root {
+:root,
+:root[data-theme="light"] {
+  color-scheme: light;
+
+  --bg: #f7f8fa;
+  --bg-elev: #ffffff;
+  --bg-topbar: rgba(247, 248, 250, 0.9);
+  --card: #ffffff;
+  --card-border: #e4e7ec;
+  --card-hover: #ffffff;
+  --card-hover-border: #c3cad4;
+
+  --text: #14161a;
+  --text-muted: #545b66;
+  --text-faint: #6b737e;
+  --border: #e4e7ec;
+  --border-strong: #cfd4dc;
+
+  --accent: #6d28d9;
+  --accent-strong: #5b21b6;
+  --accent-soft: #f1eafd;
+  --focus: #6d28d9;
+
+  --chip-bg: #eef0f4;
+  --chip-border: #dfe3e9;
+  --chip-bg-active: #14161a;
+  --chip-fg-active: #f7f8fa;
+  --kbd-bg: #eef0f4;
+  --switch-knob: #ffffff;
+
+  --badge-app-bg: #ede9fe;     --badge-app-fg: #5b21b6;
+  --badge-game-bg: #dcfce7;    --badge-game-fg: #15803d;
+  --badge-media-bg: #dbeafe;   --badge-media-fg: #1d4ed8;
+  --badge-gadget-bg: #ffedd5;  --badge-gadget-fg: #9a3412;
+  --badge-feature-bg: #ccfbf1; --badge-feature-fg: #0f766e;
+  --badge-other-bg: #eef0f4;   --badge-other-fg: #545b66;
+}
+
+:root[data-theme="dark"] {
   color-scheme: dark;
 
   --bg: #0e0f12;
@@ -28,6 +68,7 @@
   --chip-bg-active: #e9ebee;
   --chip-fg-active: #0e0f12;
   --kbd-bg: #1a1d22;
+  --switch-knob: #3d434e;
 
   --badge-app-bg: #2b2444;     --badge-app-fg: #c4b5fd;
   --badge-game-bg: #14301f;    --badge-game-fg: #6ee7a0;
