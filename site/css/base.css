@@ -1,4 +1,7 @@
 *, *::before, *::after { box-sizing: border-box; }
+/* author `display` declarations outrank the UA sheet's [hidden] rule — this
+   keeps the attribute authoritative for anything JS toggles (admin bar, etc.) */
+[hidden] { display: none !important; }
 html { -webkit-text-size-adjust: 100%; }
 body {
   margin: 0;
