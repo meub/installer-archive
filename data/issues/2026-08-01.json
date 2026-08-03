@@ -167,21 +167,6 @@
    "recommender": "Brian"
   },
   {
-   "id": "2026-08-01-obsidian",
-   "name": "Obsidian",
-   "url": "https://obsidian.md/",
-   "alt_urls": [],
-   "category": "app",
-   "tags": [
-    "productivity",
-    "free",
-    "cross-platform"
-   ],
-   "blurb": "I have been a big Obsidian user the past two years, but it’s been failing me in those areas.",
-   "section": "screen-share",
-   "recommender": "Brian"
-  },
-  {
    "id": "2026-08-01-sunflower",
    "name": "Sunflower",
    "url": "https://sunflower.me/",
@@ -212,31 +197,6 @@
    "url": "https://extra.email/",
    "alt_urls": [],
    "category": "app",
-   "tags": [],
-   "blurb": "It’s beautifully designed and has some tasteful AI features, like summarizing your inbox, chatting with your email, and an Autopilot feature which seems to be perpetually “Coming Soon.”",
-   "section": "screen-share",
-   "recommender": "Brian"
-  },
-  {
-   "id": "2026-08-01-cora",
-   "name": "Cora",
-   "url": "https://cora.computer/",
-   "alt_urls": [],
-   "category": "app",
-   "tags": [
-    "ai",
-    "productivity"
-   ],
-   "blurb": "It’s beautifully designed and has some tasteful AI features, like summarizing your inbox, chatting with your email, and an Autopilot feature which seems to be perpetually “Coming Soon.”",
-   "section": "screen-share",
-   "recommender": "Brian"
-  },
-  {
-   "id": "2026-08-01-didnt-stick",
-   "name": "didn’t stick",
-   "url": "https://bthdonohue.com/2025/04/02/cora-time-shifted-email.html",
-   "alt_urls": [],
-   "category": "other",
    "tags": [],
    "blurb": "It’s beautifully designed and has some tasteful AI features, like summarizing your inbox, chatting with your email, and an Autopilot feature which seems to be perpetually “Coming Soon.”",
    "section": "screen-share",
@@ -279,45 +239,6 @@
    "category": "other",
    "tags": [],
    "blurb": "The first is Andrew Jones, who has been building free & open-source alternatives to paid software (e.g.",
-   "section": "screen-share",
-   "recommender": "Brian"
-  },
-  {
-   "id": "2026-08-01-granola",
-   "name": "Granola",
-   "url": "https://x.com/dremnik/status/2081879207509217473",
-   "alt_urls": [],
-   "category": "app",
-   "tags": [
-    "ai",
-    "productivity"
-   ],
-   "blurb": "Granola, Wispr Flow ) — fingers crossed Instapaper is not next.",
-   "section": "screen-share",
-   "recommender": "Brian"
-  },
-  {
-   "id": "2026-08-01-wispr-flow",
-   "name": "Wispr Flow",
-   "url": "https://x.com/dremnik/status/2082142748187267532",
-   "alt_urls": [],
-   "category": "app",
-   "tags": [
-    "ai",
-    "productivity"
-   ],
-   "blurb": "Granola, Wispr Flow ) — fingers crossed Instapaper is not next.",
-   "section": "screen-share",
-   "recommender": "Brian"
-  },
-  {
-   "id": "2026-08-01-andrew-jones-2",
-   "name": "Andrew Jones",
-   "url": "https://x.com/vpinyokool",
-   "alt_urls": [],
-   "category": "other",
-   "tags": [],
-   "blurb": "The second is Q, a designer who has been building small, single-purpose websites for himself that I find inspiring.",
    "section": "screen-share",
    "recommender": "Brian"
   },
@@ -380,19 +301,6 @@
    "recommender": "Kurt (reader)"
   },
   {
-   "id": "2026-08-01-through-books",
-   "name": "through books",
-   "url": "https://murdoku.com/print?lang=en",
-   "alt_urls": [],
-   "category": "other",
-   "tags": [
-    "book"
-   ],
-   "blurb": "I am hopelessly hooked on the game Murdoku. It’s free online, or you can play old school through books. It’s a logic game where you solve crimes by process of elimination.",
-   "section": "crowdsourced",
-   "recommender": "Kurt (reader)"
-  },
-  {
    "id": "2026-08-01-paradiso",
    "name": "Paradiso",
    "url": "https://www.paradiso-film.app/",
@@ -431,20 +339,6 @@
    "blurb": "I love Anker stuff and tend to choose it over everything else. But I have the Anker 3-in-1 travel charger and… this ESR one (a brand I hadn’t really heard of) is the better product in every way. The Apple Watch charger is in a better place, it’s thinner, and the cooling fan works better.",
    "section": "crowdsourced",
    "recommender": "Peter (reader)"
-  },
-  {
-   "id": "2026-08-01-claude-2",
-   "name": "Claude",
-   "url": "https://claude.ai/",
-   "alt_urls": [],
-   "category": "app",
-   "tags": [
-    "ai",
-    "productivity"
-   ],
-   "blurb": "Finally switched from a mess of read-it-later apps to a second brain with Obsidian + Claude, inspired by Karpathy’s LLM Wiki concept. Hoping this setup is the one that actually sticks…",
-   "section": "crowdsourced",
-   "recommender": "Kartik (reader)"
   },
   {
    "id": "2026-08-01-karpathys-llm-wiki",

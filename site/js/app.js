@@ -1,6 +1,6 @@
 import MiniSearch from "../vendor/minisearch.js";
-import { readState, writeState, resetState } from "./urlstate.js";
-import { CATEGORY_LABELS, SECTION_LABELS, sectionLabel, createRenderer, fmtNum } from "./render.js";
+import { readState, writeState, resetState } from "./urlstate.js?v=3";
+import { CATEGORY_LABELS, SECTION_LABELS, sectionLabel, createRenderer, fmtNum } from "./render.js?v=3";
 
 const $ = (id) => document.getElementById(id);
 const state = readState();
@@ -161,6 +161,7 @@ $("admin-exit").addEventListener("click", () => {
 
 const renderer = createRenderer($("results"), $("sentinel"), issuesByDate,
   (t) => toggleTag(t), admin, markDeleted);
+window.__ia = renderer; // debug handle
 let randOrder = null;
 
 function currentList() {

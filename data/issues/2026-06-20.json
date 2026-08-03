@@ -323,20 +323,6 @@
    "recommender": "Connor (reader)"
   },
   {
-   "id": "2026-06-20-claude",
-   "name": "Claude",
-   "url": "https://claude.ai/",
-   "alt_urls": [],
-   "category": "app",
-   "tags": [
-    "ai",
-    "productivity"
-   ],
-   "blurb": "I’m studying for a technical exam and put all the materials into Claude. I had it break down the material into daily, 30-minute study chunks to be emailed to me over the next two weeks. Each email has a prompt to do a short quiz at the end. A little wonky to start but it’s working well so far.",
-   "section": "crowdsourced",
-   "recommender": "Ian (reader)"
-  },
-  {
    "id": "2026-06-20-dirty-little-zine",
    "name": "Dirty Little Zine",
    "url": "https://dirtylittlezine.com/",

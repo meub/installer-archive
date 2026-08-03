@@ -206,23 +206,6 @@
    "recommender": null
   },
   {
-   "id": "2026-07-18-kindle",
-   "name": "Kindle",
-   "url": "https://www.amazon.com/kindle?&linkCode=ll2&tag=vergenewsletter-20&linkId=58bf887b4cc1f8a0cadc28f79f4e6846&language=en_US&tag=theverge02-20",
-   "alt_urls": [
-    "https://www.apple.com/ipad-mini",
-    "https://us.kobobooks.com/products/kobo-clara-bw",
-    "https://us.kobobooks.com/products/kobo-libra-colour",
-    "https://www.xteink.com/products/xteink-x4",
-    "https://shop.boox.com/products/palma2"
-   ],
-   "category": "gadget",
-   "tags": [],
-   "blurb": "The Kindle and the iPad Mini are the big winners among reading devices. No big surprise there, really. But I also heard from Kobo fans (both Clara and Libra ), more than one devoted iPod Touch fan, and lots of believers in the Xteink X4. Oh, and of course, the Boox Palma remains a winner.",
-   "section": "group-project",
-   "recommender": null
-  },
-  {
    "id": "2026-07-18-kindle-2",
    "name": "Kindle",
    "url": "https://www.amazon.com/b?node=16571048011&linkCode=ll2&tag=vergenewsletter-20&linkId=9ed41f7b71a1dccf9d587c6927718f2d&language=en_US&tag=theverge02-20",

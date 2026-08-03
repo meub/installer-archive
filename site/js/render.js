@@ -97,10 +97,24 @@ export function createRenderer(listEl, sentinelEl, issuesByDate, onTag, admin, o
     listEl.append(frag);
   }
 
-  const observer = new IntersectionObserver((entries) => {
-    if (entries.some((e) => e.isIntersecting) && shown < list.length) more();
-  }, { rootMargin: "600px" });
+  // Load-more must not depend on IntersectionObserver or rAF alone: both are
+  // gated on rendering frames, which Chrome suspends for occluded windows and
+  // can skip under fast momentum scrolling — stalling the feed permanently.
+  // maybeMore() is synchronous and idempotent; it fills until the sentinel is
+  // safely below the viewport. Wired to observer + scroll + a slow interval
+  // backstop so no stall state can survive.
+  function maybeMore() {
+    if (!list.length || shown >= list.length) return;
+    while (shown < list.length &&
+           sentinelEl.getBoundingClientRect().top < window.innerHeight + 600) {
+      more();
+    }
+  }
+
+  const observer = new IntersectionObserver(() => maybeMore(), { rootMargin: "600px" });
   observer.observe(sentinelEl);
+  window.addEventListener("scroll", maybeMore, { passive: true });
+  setInterval(maybeMore, 700);
 
   return {
     set(newList) {
@@ -108,6 +122,9 @@ export function createRenderer(listEl, sentinelEl, issuesByDate, onTag, admin, o
       shown = 0;
       listEl.textContent = "";
       more();
+      maybeMore();
     },
+    maybeMore,
+    debug: () => ({ shown, listLen: list.length }),
   };
 }
