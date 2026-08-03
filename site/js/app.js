@@ -1,6 +1,6 @@
 import MiniSearch from "../vendor/minisearch.js";
-import { readState, writeState, resetState } from "./urlstate.js?v=7";
-import { CATEGORY_LABELS, SECTION_LABELS, sectionLabel, createRenderer, fmtNum } from "./render.js?v=7";
+import { readState, writeState, resetState } from "./urlstate.js?v=8";
+import { CATEGORY_LABELS, SECTION_LABELS, sectionLabel, createRenderer, fmtDate, fmtNum } from "./render.js?v=8";
 
 const $ = (id) => document.getElementById(id);
 const state = readState();
@@ -25,6 +25,7 @@ const issuesByDate = new Map(data.issues.map((i) => [i.date, i]));
 
 $("stat-recs").textContent = fmtNum(data.rec_count);
 $("stat-issues").textContent = fmtNum(data.issue_count);
+if (data.issues.length) $("updated").textContent = `Updated ${fmtDate(data.issues[0].date)}`;
 
 // -------------------------------------------------------------- search index
 
@@ -64,13 +65,9 @@ function buildChips() {
       () => { state.cat = state.cat === key ? null : key; }));
   }
 
+  // section chips come from the data: canonical order first, then any
+  // recurring one-off segments (>= 20 recs); rare ones stay reachable via URL
   const sec = $("section-chips");
-  const secLabel = document.createElement("span");
-  secLabel.className = "chip-label";
-  secLabel.textContent = "Section";
-  sec.append(secLabel);
-  // chips come from the data: canonical order first, then any recurring
-  // one-off segments (>= 20 recs); rare ones stay reachable via URL
   const secCounts = new Map();
   for (const r of recs) secCounts.set(r.section, (secCounts.get(r.section) || 0) + 1);
   const shown = [
@@ -82,20 +79,19 @@ function buildChips() {
     sec.append(makeChip(sectionLabel(key), () => state.section === key,
       () => { state.section = state.section === key ? null : key; }));
   }
+
+  const yearRow = $("year-chips");
   for (const y of years) {
-    sec.append(makeChip(y, () => state.year === y,
+    yearRow.append(makeChip(y, () => state.year === y,
       () => { state.year = state.year === y ? null : y; }));
   }
 
   const tagRow = $("tag-chips");
-  const tagLabel = secLabel.cloneNode(true);
-  tagLabel.textContent = "Tags";
-  tagRow.append(tagLabel);
   const shownTags = [...new Set([...topTags, ...state.tags])];
   for (const t of shownTags) {
     tagRow.append(makeChip(t, () => state.tags.includes(t), () => toggleTag(t, false)));
   }
-  chips.push(...cat.children, ...sec.children, ...tagRow.children);
+  chips.push(...cat.children, ...sec.children, ...yearRow.children, ...tagRow.children);
 }
 
 function toggleTag(tag, doApply = true) {

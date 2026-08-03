@@ -21,6 +21,12 @@ button { font: inherit; color: inherit; }
   padding-top: 14px; padding-bottom: 14px;
 }
 .site-name { font-size: 17px; letter-spacing: -0.01em; margin: 0; }
+.bar-links { display: flex; align-items: center; gap: 16px; }
+.bar-updated { color: var(--text-faint); font-size: 12.5px; }
+.bar-icon { color: var(--text-muted); display: inline-flex; }
+.bar-icon:hover { color: var(--accent); }
+.bar-icon svg { width: 18px; height: 18px; }
+@media (max-width: 560px) { .bar-updated { display: none; } }
 
 .site-head { padding-top: 30px; padding-bottom: 6px; }
 .tagline {
@@ -105,7 +111,6 @@ button { font: inherit; color: inherit; }
   color: var(--chip-fg-active);
   border-color: var(--chip-bg-active);
 }
-.chip-label { color: var(--text-faint); font-size: 13px; align-self: center; margin-right: 2px; }
 .chip-row-tags .chip { font-size: 12.5px; padding: 3px 10px; }
 
 .more-filters-btn {
@@ -113,7 +118,20 @@ button { font: inherit; color: inherit; }
   color: var(--text-faint); font-size: 13px; cursor: pointer;
 }
 .more-filters-btn:hover { color: var(--accent); }
-#more-filters { margin-top: 10px; }
+#more-filters {
+  margin-top: 12px;
+  padding: 16px 18px 8px;
+  background: var(--bg-elev);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+.filter-group { margin-bottom: 14px; }
+.filter-label {
+  margin: 0 0 8px;
+  font-size: 11.5px; font-weight: 600;
+  text-transform: uppercase; letter-spacing: 0.07em;
+  color: var(--text-faint);
+}
 
 /* ---------- results ---------- */
 .status-row {
