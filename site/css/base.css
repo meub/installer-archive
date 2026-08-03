@@ -64,7 +64,7 @@ button { font: inherit; color: inherit; }
   -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--border);
 }
-.topbar-inner { padding-top: 14px; padding-bottom: 16px; }
+.topbar-inner { padding-top: 14px; padding-bottom: 20px; }
 .search-row { display: flex; gap: 10px; }
 .searchbox { position: relative; flex: 1; display: flex; align-items: center; }
 .search-icon {
@@ -95,7 +95,7 @@ button { font: inherit; color: inherit; }
 }
 
 /* ---------- filter chips ---------- */
-.filters { padding-top: 12px; }
+.filters { padding-top: 20px; }
 .chip-row { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
 .chip {
   border: 1px solid var(--chip-border, var(--border));
