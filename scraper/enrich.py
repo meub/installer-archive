@@ -101,19 +101,24 @@ Entries:
 
 
 LLM_BATCH = 80
+LLM_MODEL = "claude-opus-5"
 
 
-def llm_pass(issues: list[dict]) -> int:
+def llm_pass(loaded: list[tuple], model: str = LLM_MODEL) -> int:
+    """Categorize leftovers via `claude -p`, batched — and SAVED after every
+    batch, so an interrupted run keeps everything already paid for."""
+    by_id = {}
     pending = []
-    for issue in issues:
+    for path, issue in loaded:
         for rec in issue["recommendations"]:
             if rec["category"] is None:
                 pending.append({"id": rec["id"], "name": rec["name"], "blurb": rec["blurb"][:160]})
+                by_id[rec["id"]] = (path, issue, rec)
     if not pending:
         return 0
     allowed = sorted(vocab())
-
-    proposals = {}
+    allowed_set = set(allowed)
+    applied = 0
     batches = [pending[i:i + LLM_BATCH] for i in range(0, len(pending), LLM_BATCH)]
     print(f"  llm: {len(pending)} recs in {len(batches)} batches")
     for n, batch in enumerate(batches, 1):
@@ -121,14 +126,16 @@ def llm_pass(issues: list[dict]) -> int:
         prompt = LLM_PROMPT.format(vocab=", ".join(allowed), entries=entries)
         try:
             out = subprocess.run(
-                ["claude", "-p", prompt], capture_output=True, text=True, timeout=600,
+                ["claude", "-p", prompt, "--model", model],
+                capture_output=True, text=True, timeout=600,
             ).stdout
         except FileNotFoundError:
-            print("  ! claude CLI not found — skipping LLM pass")
-            return 0
+            print("  ! claude CLI not found — stopping LLM pass")
+            return applied
         except subprocess.TimeoutExpired:
             print(f"  ! claude timed out on batch {n}/{len(batches)} — continuing")
             continue
+        touched = {}
         got = 0
         for line in out.splitlines():
             line = line.strip().strip("`")
@@ -138,43 +145,37 @@ def llm_pass(issues: list[dict]) -> int:
                 p = json.loads(line)
             except json.JSONDecodeError:
                 continue
-            if p.get("id") and p.get("category") in CATEGORIES:
-                proposals[p["id"]] = p
-                got += 1
-        print(f"  llm: batch {n}/{len(batches)} -> {got}/{len(batch)} categorized")
-
-    applied = 0
-    allowed_set = set(allowed)
-    for issue in issues:
-        for rec in issue["recommendations"]:
-            p = proposals.get(rec["id"])
-            if p and rec["category"] is None:
-                rec["category"] = p["category"]
-                for t in p.get("tags", []):
-                    if t in allowed_set and t not in rec["tags"]:
-                        rec["tags"].append(t)
-                applied += 1
+            if p.get("id") in by_id and p.get("category") in CATEGORIES:
+                path, issue, rec = by_id[p["id"]]
+                if rec["category"] is None:
+                    rec["category"] = p["category"]
+                    for t in p.get("tags", []):
+                        if t in allowed_set and t not in rec["tags"]:
+                            rec["tags"].append(t)
+                    touched[path] = issue
+                    got += 1
+        for path, issue in touched.items():
+            path.write_text(json.dumps(issue, indent=1, ensure_ascii=False) + "\n",
+                            encoding="utf-8")
+        applied += got
+        print(f"  llm: batch {n}/{len(batches)} -> {got}/{len(batch)} categorized, saved")
     return applied
 
 
-def run(dates: list[str] | None = None, llm: bool = False) -> None:
+def run(dates: list[str] | None = None, llm: bool = False, model: str = LLM_MODEL) -> None:
     paths = sorted(ISSUES.glob("*.json"))
     if dates:
         paths = [p for p in paths if any(p.name.startswith(d) for d in dates)]
     loaded = [(p, json.loads(p.read_text())) for p in paths]
-    changed_paths = set()
 
     for path, issue in loaded:
         if enrich_issue(issue):
-            changed_paths.add(path)
+            path.write_text(json.dumps(issue, indent=1, ensure_ascii=False) + "\n",
+                            encoding="utf-8")
     if llm:
-        if llm_pass([i for _, i in loaded]):
-            changed_paths.update(p for p, _ in loaded)
+        llm_pass(loaded, model=model)
 
-    for path, issue in loaded:
-        if path in changed_paths:
-            path.write_text(json.dumps(issue, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
     uncategorized = sum(
         1 for _, i in loaded for r in i["recommendations"] if r["category"] is None
     )
-    print(f"enrich: {len(changed_paths)} files updated, {uncategorized} recs still uncategorized")
+    print(f"enrich: {uncategorized} recs still uncategorized")

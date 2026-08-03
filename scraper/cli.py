@@ -130,6 +130,7 @@ def main(argv=None) -> int:
     e = sub.add_parser("enrich", help="propose categories/tags")
     e.add_argument("--date", action="append", help="limit to issue date(s)")
     e.add_argument("--llm", action="store_true", help="use `claude -p` for leftovers")
+    e.add_argument("--model", default="claude-opus-5", help="model for the LLM pass")
 
     b = sub.add_parser("build", help="validate + compile site/data/archive.json")
     b.add_argument("--allow-shrink", action="store_true")
@@ -147,7 +148,7 @@ def main(argv=None) -> int:
     if args.cmd == "parse":
         return cmd_parse(args)
     if args.cmd == "enrich":
-        enrich.run(dates=args.date, llm=args.llm)
+        enrich.run(dates=args.date, llm=args.llm, model=args.model)
         return 0
     if args.cmd == "build":
         return build.run(allow_shrink=args.allow_shrink)
