@@ -1,0 +1,649 @@
+{
+ "schema": 1,
+ "date": "2023-11-05",
+ "post_type": "issue",
+ "title": "How AI brought the Beatles back together one more time",
+ "url": "https://www.theverge.com/2023/11/5/23945399/beatles-ai-fortnite-og-macbook-pro-installer-newsletter",
+ "author": "David Pierce",
+ "number": 13,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "deep-dive",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:35+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2023-11-05-barbarian",
+   "name": "Barbarian",
+   "url": "https://www.themoviedb.org/movie/913290-barbarian?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been watching Barbarian and No Hard Feelings , reading about the challenges of building “the next Twitter” and Marvel’s complicated future , using Pager to make sense of all my screenshots, and sending everyone this article about aphantasia to explain that no, I really don’t see…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-05-no-hard-feelings",
+   "name": "No Hard Feelings",
+   "url": "https://www.themoviedb.org/movie/884605-no-hard-feelings?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been watching Barbarian and No Hard Feelings , reading about the challenges of building “the next Twitter” and Marvel’s complicated future , using Pager to make sense of all my screenshots, and sending everyone this article about aphantasia to explain that no, I really don’t see…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-05-the-challenges-of-building-the-next-twitter",
+   "name": "the challenges of building “the next Twitter”",
+   "url": "https://medium.com/gabor/from-t2-to-pebble-the-rise-challenges-and-lessons-of-building-a-twitter-alternative-553652f1d1e7",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching Barbarian and No Hard Feelings , reading about the challenges of building “the next Twitter” and Marvel’s complicated future , using Pager to make sense of all my screenshots, and sending everyone this article about aphantasia to explain that no, I really don’t see…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-05-marvels-complicated-future",
+   "name": "Marvel’s complicated future",
+   "url": "https://variety.com/2023/film/features/marvel-jonathan-majors-problem-the-marvels-reshoots-kang-1235774940/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching Barbarian and No Hard Feelings , reading about the challenges of building “the next Twitter” and Marvel’s complicated future , using Pager to make sense of all my screenshots, and sending everyone this article about aphantasia to explain that no, I really don’t see…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-05-pager",
+   "name": "Pager",
+   "url": "https://pager.xyz/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching Barbarian and No Hard Feelings , reading about the challenges of building “the next Twitter” and Marvel’s complicated future , using Pager to make sense of all my screenshots, and sending everyone this article about aphantasia to explain that no, I really don’t see…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-05-this-article-about-aphantasia",
+   "name": "this article about aphantasia",
+   "url": "https://nautil.us/my-brain-doesnt-picture-things-407444/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching Barbarian and No Hard Feelings , reading about the challenges of building “the next Twitter” and Marvel’s complicated future , using Pager to make sense of all my screenshots, and sending everyone this article about aphantasia to explain that no, I really don’t see…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-05-bitwarden",
+   "name": "Bitwarden",
+   "url": "https://bitwarden.com/",
+   "alt_urls": [
+    "https://www.anrdoezrs.net/links/8836598/type/dlg/https://1password.com/",
+    "https://bitwarden.com/help/releasenotes/#2023-10-0"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "If you only ever take my advice once, make it this: use a password manager. It’s the best place for all your logins, loyalty numbers, license codes, and all the other stuff you need online all the time.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-05-google-keep",
+   "name": "Google Keep",
+   "url": "https://keep.google.com",
+   "alt_urls": [
+    "https://www.theverge.com/2023/8/25/23837296/google-keep-app-formatting-version-history",
+    "https://9to5google.com/2023/11/01/google-keep-shopping-list-assistant-notes/’"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I am perpetually afraid Google is going to kill Keep, its excellent and useful note-taking tool, but I think instead it might be… investing in it? What a world!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-05-the-new-macbook-pro",
+   "name": "The new MacBook Pro",
+   "url": "https://www.apple.com/macbook-pro/",
+   "alt_urls": [
+    "https://www.theverge.com/2023/10/30/23938783/apple-macbook-pro-m3-max-specs-features-price-release-date"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The M3 chip lineup is slightly confusing this year, and I really wish the space black were more black and less gray, but the outcome is still this: the new Pros appear to be faster than ever, and I can’t think of a spec that excites me more than “22 hours of battery life.”",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-05-blank-check-with-griffin-david-the-social-networ",
+   "name": "Blank Check with Griffin & David : “The Social Network.”",
+   "url": "https://audioboom.com/posts/8391457-the-social-network",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is not what you would call a “focused” podcast. It’s longer than the movie it’s ostensibly about. But it’s super fun and funny and does in fact talk a lot about Facebook, Mark Zuckerberg, being cool, and the legacy of one of my all-time favorite movies.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-05-fortnite-og",
+   "name": "Fortnite OG",
+   "url": "https://www.fortnite.com/news/fortnite-og-drop-back-into-battle-royale-chapter-1",
+   "alt_urls": [
+    "https://www.theverge.com/2023/11/3/23943701/fortnite-og-new-season-tilted-towers-baller"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "My Fortnite sweet spot was in the 2019–2020 era, which means I have fond memories of Tilted Towers and roaming the terrain in shopping carts. For its new season, the game is going back through its history , with some new twists along the way.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-05-ruin-money-ego-and-deception-at-ftx",
+   "name": "RUIN: Money, Ego and Deception at FTX",
+   "url": "https://www.youtube.com/watch?v=3QpdU9LS540",
+   "alt_urls": [
+    "https://www.theverge.com/2023/11/2/23944485/sam-bankman-fried-guilty-verdict-parents"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Now that we know the end of the story — that Sam Bankman-Fried was just found guilty of fraud — this Bloomberg documentary about the whole rise and fall of FTX feels even more interesting and ominous.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-05-brave-leo",
+   "name": "Brave Leo",
+   "url": "https://brave.com/leo/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "An AI assistant that doesn’t store your data, doesn’t keep a record of your chats, and doesn’t use everything you do and say to train its model? Brave’s onto something here, especially if it can make a privacy-first product that doesn’t end up as “ChatGPT but worse.”",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-05-raycast-quick-ai",
+   "name": "Raycast Quick AI",
+   "url": "https://www.raycast.com/",
+   "alt_urls": [
+    "https://www.raycast.com/changelog/1-61-0"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Speaking of cool AI things: Raycast is one of my favorite and most-used Mac apps, and it just got access to GPT-4’s real-time web results. It’s now the fastest way I have to search “Who won the Warriors game” or “Was SBF found guilty.”",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-05-the-matic-robot-vacuum",
+   "name": "The Matic robot vacuum",
+   "url": "https://maticrobots.com/",
+   "alt_urls": [
+    "https://www.theverge.com/2023/11/2/23942607/matic-robot-vacuum-price-release-date-features"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Ugh, it’s $1,800, which is ridiculous. But I find this thing fascinating : it has some really clever hardware to keep it from getting stuck, and it never needs to be online. It’s also just a tiny bit adorable, which never hurts.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-05-the-12-minute-mini-doc",
+   "name": "the 12-minute mini doc",
+   "url": "https://www.youtube.com/watch?v=APJAQoSCwuA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The first thing you should do is watch the 12-minute mini doc about how the song came together, the AI tech that helped make it happen, and why “Now and Then” couldn’t have existed before now. It sets the scene perfectly.",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-05-a-great-backstory",
+   "name": "a great backstory",
+   "url": "https://www.vulture.com/2022/11/the-beatles-revolver-super-deluxe-peter-jackson-get-back.html",
+   "alt_urls": [
+    "https://www.bbc.co.uk/sounds/brand/m001s6hw",
+    "https://www.bbc.co.uk/sounds/play/m001rzkp"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Vulture also has a great backstory of how “Now and Then” came together, and the BBC’s Eras podcast (which has six Beatles episodes, all of which you should listen to) has an excellent 30-minute episode on the song’s history.",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-05-listen-to-the-song",
+   "name": "listen to the song",
+   "url": "https://www.youtube.com/watch?v=AW55J2zE3N4",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=Opxhh9Oh3rg",
+    "https://www.youtube.com/watch?v=LEHmEC9aWis"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Then listen to the song . And then listen to it a few more times. Then watch the music video a few times. Then check out the new mix of “Love Me Do.” Then back to “Now and Then.”",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-05-this-20-minute-interview",
+   "name": "this 20-minute interview",
+   "url": "https://www.youtube.com/watch?v=HN7evYFUWts",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=Y_TDyPlLbbM",
+    "https://www.youtube.com/watch?v=sBR5VNWJZmw"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "You honestly should watch all 6,000 hours of Get Back, Peter Jackson’s documentary series in which the MAL tech figures prominently, but this 20-minute interview does a good job of explaining how the tech works. Jackson also has his own delightful 10-minute explanation of de-mixing.",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-05-iphone-15-pro",
+   "name": "iPhone 15 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 15 Pro",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2023-11-05-duolingo",
+   "name": "Duolingo",
+   "url": "https://www.duolingo.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I started with Duolingo two years ago before having the epiphany all Japanese learners have — Duolingo isn’t meant for Japanese. Since then, I’ve tried all sorts of different apps.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2023-11-05-anki",
+   "name": "Anki",
+   "url": "https://apps.ankiweb.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I started with Duolingo two years ago before having the epiphany all Japanese learners have — Duolingo isn’t meant for Japanese. Since then, I’ve tried all sorts of different apps.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2023-11-05-bunpro",
+   "name": "Bunpro",
+   "url": "https://bunpro.jp/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I started with Duolingo two years ago before having the epiphany all Japanese learners have — Duolingo isn’t meant for Japanese. Since then, I’ve tried all sorts of different apps.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2023-11-05-signal",
+   "name": "Signal",
+   "url": "https://signal.org/#signal",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Otherwise, it’s the usual: Signal and Authenticator for work; YNAB because I’m a dullard with finances and envelope budgeting saves me from myself; and Letterboxd , arguably the one social media app I’ve kept. Though pro tip for Letterboxd: write it for yourself and nobody else.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2023-11-05-authenticator",
+   "name": "Authenticator",
+   "url": "https://support.google.com/accounts/answer/1066447",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Otherwise, it’s the usual: Signal and Authenticator for work; YNAB because I’m a dullard with finances and envelope budgeting saves me from myself; and Letterboxd , arguably the one social media app I’ve kept. Though pro tip for Letterboxd: write it for yourself and nobody else.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2023-11-05-ynab",
+   "name": "YNAB",
+   "url": "https://www.ynab.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Otherwise, it’s the usual: Signal and Authenticator for work; YNAB because I’m a dullard with finances and envelope budgeting saves me from myself; and Letterboxd , arguably the one social media app I’ve kept. Though pro tip for Letterboxd: write it for yourself and nobody else.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2023-11-05-letterboxd",
+   "name": "Letterboxd",
+   "url": "https://letterboxd.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Otherwise, it’s the usual: Signal and Authenticator for work; YNAB because I’m a dullard with finances and envelope budgeting saves me from myself; and Letterboxd , arguably the one social media app I’ve kept. Though pro tip for Letterboxd: write it for yourself and nobody else.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2023-11-05-overcast",
+   "name": "Overcast",
+   "url": "https://overcast.fm/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Oh, and Overcast . I use the widget so I can hit pause when I’m doing chores.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2023-11-05-happy-end",
+   "name": "Happy End",
+   "url": "https://en.wikipedia.org/wiki/Happy_End_(band)",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Happy End . It’s hard to say one thing in particular inspired me to learn a language in my 30s, but these albums play a major part. I learned about this Japanese pop / rock / folk band in college when Rolling Stone Japan named one of their albums the “great Japanese rock album of all time.”",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2023-11-05-pitchfork-wrote-a-review-band-history-last-year",
+   "name": "Pitchfork wrote a review / band history last year",
+   "url": "https://pitchfork.com/reviews/albums/happy-end-kazemachi-roman/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Happy End . It’s hard to say one thing in particular inspired me to learn a language in my 30s, but these albums play a major part. I learned about this Japanese pop / rock / folk band in college when Rolling Stone Japan named one of their albums the “great Japanese rock album of all time.”",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2023-11-05-godzilla-minus-one",
+   "name": "Godzilla Minus One",
+   "url": "https://www.themoviedb.org/movie/940721-1-0/watch",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Happy End . It’s hard to say one thing in particular inspired me to learn a language in my 30s, but these albums play a major part. I learned about this Japanese pop / rock / folk band in college when Rolling Stone Japan named one of their albums the “great Japanese rock album of all time.”",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2023-11-05-ive-seen-it-it-rules",
+   "name": "I’ve seen it. It rules",
+   "url": "https://www.polygon.com/reviews/23940888/godzilla-minus-one-review",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Happy End . It’s hard to say one thing in particular inspired me to learn a language in my 30s, but these albums play a major part. I learned about this Japanese pop / rock / folk band in college when Rolling Stone Japan named one of their albums the “great Japanese rock album of all time.”",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2023-11-05-the-besties-podcast",
+   "name": "The Besties podcast",
+   "url": "https://podcasts.apple.com/us/podcast/the-besties/id505516789",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
+   "blurb": "Happy End . It’s hard to say one thing in particular inspired me to learn a language in my 30s, but these albums play a major part. I learned about this Japanese pop / rock / folk band in college when Rolling Stone Japan named one of their albums the “great Japanese rock album of all time.”",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2023-11-05-my-brother-my-brother-and-me",
+   "name": "My Brother, My Brother and Me",
+   "url": "https://www.themcelroy.family/mbmbam",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Happy End . It’s hard to say one thing in particular inspired me to learn a language in my 30s, but these albums play a major part. I learned about this Japanese pop / rock / folk band in college when Rolling Stone Japan named one of their albums the “great Japanese rock album of all time.”",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2023-11-05-the-adventure-zone",
+   "name": "The Adventure Zone",
+   "url": "https://www.themcelroy.family/theadventurezone",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Happy End . It’s hard to say one thing in particular inspired me to learn a language in my 30s, but these albums play a major part. I learned about this Japanese pop / rock / folk band in college when Rolling Stone Japan named one of their albums the “great Japanese rock album of all time.”",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2023-11-05-moonring",
+   "name": "Moonring",
+   "url": "https://store.steampowered.com/app/2373630/Moonring/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Happy End . It’s hard to say one thing in particular inspired me to learn a language in my 30s, but these albums play a major part. I learned about this Japanese pop / rock / folk band in college when Rolling Stone Japan named one of their albums the “great Japanese rock album of all time.”",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2023-11-05-baldurs-gate-3",
+   "name": "Baldur’s Gate 3",
+   "url": "https://baldursgate3.game/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Happy End . It’s hard to say one thing in particular inspired me to learn a language in my 30s, but these albums play a major part. I learned about this Japanese pop / rock / folk band in college when Rolling Stone Japan named one of their albums the “great Japanese rock album of all time.”",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2023-11-05-shortwave",
+   "name": "Shortwave",
+   "url": "https://www.shortwave.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My inbox has absolutely been saved by Shortwave — finally get to relive the glory of those Inbox by Gmail days.",
+   "section": "crowdsourced",
+   "recommender": "Hillary (reader)"
+  },
+  {
+   "id": "2023-11-05-cleanshot-x",
+   "name": "CleanShot X",
+   "url": "https://cleanshot.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I find myself explaining how to use computers for a large portion of my life. At work, nothing is a better aid than CleanShot X . Nothing, nothing makes me happier than sending a 15-second GIF on how to complete a task instead of 10 bullet points in a Slack message.",
+   "section": "crowdsourced",
+   "recommender": "Liam (reader)"
+  },
+  {
+   "id": "2023-11-05-genie",
+   "name": "Genie",
+   "url": "https://lumalabs.ai/genie",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I thought Genie was pretty cool. It lets you make 3D models with gen AI the way you would with Midjourney or DALL-E. I’ve been on their Luma Labs beta for a while, and what they have is pretty dang good.",
+   "section": "crowdsourced",
+   "recommender": "Matt (reader)"
+  },
+  {
+   "id": "2023-11-05-frinkiac",
+   "name": "Frinkiac",
+   "url": "https://frinkiac.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Found this amazing website called Frinkiac with millions of screengrabs of the Simpsons series (till season 17). I use it all the time to make GIFs and share stills. You can search by quotes or even season and episode. It’s such a simple idea but a technical marvel.",
+   "section": "crowdsourced",
+   "recommender": "Priyantan (reader)"
+  },
+  {
+   "id": "2023-11-05-yoshua-bengios-lectures",
+   "name": "Yoshua Bengio’s lectures",
+   "url": "https://www.youtube.com/watch?v=llGG62fNN64",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Somehow, I ended up binge-watching Yoshua Bengio’s lectures on YouTube for hours on end. That led to books on ML, and now I’m reading neuroscience books? The connection between those is fascinating. Don’t know what got into me, but that’s been pretty much the last two weeks of my life.",
+   "section": "crowdsourced",
+   "recommender": "Kruti (reader)"
+  },
+  {
+   "id": "2023-11-05-retro",
+   "name": "Retro",
+   "url": "https://retro.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Big fan of Retro at the moment.",
+   "section": "crowdsourced",
+   "recommender": "Tim (reader)"
+  },
+  {
+   "id": "2023-11-05-music-league",
+   "name": "Music League",
+   "url": "https://musicleague.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been enjoying Music League . We have a weekly league set up, and the winner chooses the theme for the next week.",
+   "section": "crowdsourced",
+   "recommender": "Michael (reader)"
+  },
+  {
+   "id": "2023-11-05-book-tracker",
+   "name": "Book Tracker",
+   "url": "https://booktrack.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Stumbled upon Book Tracker this week. No extras, clean, basic UI, fair price.",
+   "section": "crowdsourced",
+   "recommender": "Zook (reader)"
+  },
+  {
+   "id": "2023-11-05-the-country-of-the-blind",
+   "name": "The Country of the Blind",
+   "url": "https://www.penguinrandomhouse.com/books/635964/the-country-of-the-blind-by-andrew-leland/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am listening to and loving Andrew Leland’s memoir, The Country of the Blind . I also want to recommend getting a laptop stand and separate peripherals for people working from home all day.",
+   "section": "crowdsourced",
+   "recommender": "Jeanne (reader)"
+  },
+  {
+   "id": "2023-11-05-twelve-south-folding-thing",
+   "name": "Twelve South folding thing",
+   "url": "https://www.twelvesouth.com/products/curve-flex-for-macbook",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am listening to and loving Andrew Leland’s memoir, The Country of the Blind . I also want to recommend getting a laptop stand and separate peripherals for people working from home all day.",
+   "section": "crowdsourced",
+   "recommender": "Jeanne (reader)"
+  },
+  {
+   "id": "2023-11-05-the-lazarus-heist",
+   "name": "The Lazarus Heist",
+   "url": "https://www.bbc.co.uk/programmes/w13xtvg9",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Lazarus Heist , a BBC podcast about how North Korean government-sponsored hackers nearly stole $1B.",
+   "section": "crowdsourced",
+   "recommender": "Dave (reader)"
+  },
+  {
+   "id": "2023-11-05-daylight-saving-time",
+   "name": "daylight saving time",
+   "url": "https://www.tiktok.com/@gracelapaille/video/7296890917167009070?q=daylight%20saving&t=1699018674379",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s the daylight saving time switchover this weekend, which means people all over the US will change their clocks back an hour and grumble about it for the rest of the weekend.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-05-tiktok",
+   "name": "TikTok",
+   "url": "https://www.tiktok.com/@mondralajuan/video/7158851741373467947?q=daylight%20saving&t=1699018674379",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s the daylight saving time switchover this weekend, which means people all over the US will change their clocks back an hour and grumble about it for the rest of the weekend.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-05-all",
+   "name": "all",
+   "url": "https://www.tiktok.com/@thewadeempire/video/7162599888507669802?q=daylight%20saving&t=1699018674379",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s the daylight saving time switchover this weekend, which means people all over the US will change their clocks back an hour and grumble about it for the rest of the weekend.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-05-my",
+   "name": "my",
+   "url": "https://www.tiktok.com/@jimenezzz._/video/7163078313672723758?q=daylight%20saving&t=1699018674379",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s the daylight saving time switchover this weekend, which means people all over the US will change their clocks back an hour and grumble about it for the rest of the weekend.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-05-once",
+   "name": "once",
+   "url": "https://www.tiktok.com/@mum_and_a_mic/video/7294954314458582305?q=daylight%20saving&t=1699018674379",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s the daylight saving time switchover this weekend, which means people all over the US will change their clocks back an hour and grumble about it for the rest of the weekend.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

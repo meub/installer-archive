@@ -1,0 +1,490 @@
+{
+ "schema": 1,
+ "date": "2023-09-03",
+ "post_type": "issue",
+ "title": "A super-simple way to organize your internet",
+ "url": "https://www.theverge.com/2023/9/3/23855448/bookmarking-apps-starfield-retro-games-quibi-history-installer-newsletter",
+ "author": "David Pierce",
+ "number": 4,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "weekend-project",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:35+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2023-09-03-twisted-metal",
+   "name": "Twisted Metal",
+   "url": "https://imp.i305175.net/c/482924/828265/11640",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been sick a good chunk of this week, so my internet experience has been significantly more couch-based and horizontal than usual.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-03-superstore",
+   "name": "Superstore",
+   "url": "https://www.themoviedb.org/tv/62649-superstore",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’ve been sick a good chunk of this week, so my internet experience has been significantly more couch-based and horizontal than usual.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-03-this-delightful-documentary-about-the-apple-newt",
+   "name": "this delightful documentary about the Apple Newton",
+   "url": "https://www.youtube.com/watch?v=5kxRi34PqWo",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’ve been sick a good chunk of this week, so my internet experience has been significantly more couch-based and horizontal than usual.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-03-the-booming-product-return-industry",
+   "name": "the booming product-return industry",
+   "url": "https://www.newyorker.com/magazine/2023/08/21/the-hidden-cost-of-free-returns",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been sick a good chunk of this week, so my internet experience has been significantly more couch-based and horizontal than usual.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-03-the-unmasking-of-a-huge-ransomware-gang",
+   "name": "the unmasking of a huge ransomware gang",
+   "url": "https://www.wired.com/story/trickbot-trickleaks-bentley/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been sick a good chunk of this week, so my internet experience has been significantly more couch-based and horizontal than usual.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-03-new-podcast-from-a-bunch-of-late-night-hosts",
+   "name": "new podcast from a bunch of late-night hosts",
+   "url": "https://pod.link/1704871055",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been sick a good chunk of this week, so my internet experience has been significantly more couch-based and horizontal than usual.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-03-starfield",
+   "name": "Starfield",
+   "url": "https://bethesda.net/en/game/starfield",
+   "alt_urls": [
+    "https://www.theverge.com/23852390/starfield-review-xbox-pc"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "A big, huge, epic, giant, massive sci-fi game that actually seems to live up to the hype . This is more of an “explore the universe” kind of game than a “shoot the bad guy” game, but that’s all the more reason you might find yourself spending way too many hours playing.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-03-can-you-start-a-youtube-channel-in-2023",
+   "name": "Can You Start a YouTube channel in 2023?",
+   "url": "https://www.youtube.com/watch?v=fmIvzU115y0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I could watch Marques Brownlee and Cleo Abram talk about the mechanics of running and growing a YouTube channel for hours. MKBHD and Huge If True are two excellent channels, obviously, and it’s fun to hear them talk about storytelling, fighting with algorithms, and not getting stuck.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-03-obscura-4",
+   "name": "Obscura 4",
+   "url": "https://obscura.camera/",
+   "alt_urls": [
+    "https://www.macstories.net/reviews/obscura-4-features-a-refreshed-design-new-features-and-a-different-business-model/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve always been kind of dubious of custom iPhone camera apps — the built-in one is good and so much easier to access and more reliable — but the new Obscura has me reconsidering. ( MacStories has a good breakdown of everything that’s new.)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-03-the-big-flop-quibi-bites-the-dust",
+   "name": "The Big Flop: Quibi Bites the Dust",
+   "url": "https://wondery.com/shows/the-big-flop/episode/13847-quibi-bites-the-dust-with-connor-ratliff-amp-matt-bellassai/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s so perfect and funny that you can tell the whole story of Quibi in one 37-minute podcast episode that is actually mostly just jokes about Quibi’s bad shows. But this is actually a pretty good recap and — call me crazy! — sort of convinced me that Quibi didn’t miss by too much.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-03-one-piece-on-netflix",
+   "name": "One Piece on Netflix",
+   "url": "https://www.netflix.com/title/80217863",
+   "alt_urls": [
+    "https://www.theverge.com/2023/9/1/23854257/netflix-one-piece-review",
+    "https://www.usatoday.com/story/entertainment/tv/2023/08/31/one-piece-review-netflix/70717134007/"
+   ],
+   "category": "media",
+   "tags": [],
+   "blurb": "The long-awaited live-action remake of One Piece, a popular manga and anime series, now has its full first season streaming on Netflix.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-03-aboard",
+   "name": "Aboard",
+   "url": "https://aboard.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A new app from Rich Ziade and Paul Ford, two people who tend to make good apps. The best way I can describe this one is “Trello meets Pinterest meets Google Sheets” — you can just dump in URLs, notes, images, spreadsheets, whatever, and organize it all in one place, alone or with others.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-03-the-making-of-karateka",
+   "name": "The Making of Karateka",
+   "url": "https://www.digitaleclipse.com/games/karateka",
+   "alt_urls": [
+    "https://www.theverge.com/23848883/karateka-making-of-digital-eclipse-game-preservation"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s a documentary, and also a video game, about the making of a video game. (The Verge’s Andrew Webster wrote a great story about it this week.)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-03-ollies-arcade",
+   "name": "Ollie’s Arcade",
+   "url": "https://blog.iconfactory.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Big week for old video games! This new iOS app is just a simple store for some simple retro games — so far, Snake , Ollie Soars (a Flappy Bird-style game), and a space-explorer game called Tranquility Touchdown . No ads, no sneaky subscriptions, just fun games for a couple bucks.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-03-the-analog-weekly-planner",
+   "name": "The Analog Weekly planner",
+   "url": "https://ugmonk.com/products/analog-weekly-kit?variant=42716905373846",
+   "alt_urls": [
+    "https://www.theverge.com/2022/10/15/23404275/ugmonk-gather-desk-accessories-jeff-sheldon",
+    "https://ugmonk.com/products/analog-starter-kit?variant=36903475150998&selling_plan=937066646"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been a fan of Jeff Sheldon and Ugmonk for a long time , and the standard Analog productivity system is one of those ridiculously luxurious things — it’s just paper and a paper holder, and it’s expensive! — that feels totally worth it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-03-raindrop-io",
+   "name": "Raindrop.io",
+   "url": "https://raindrop.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I use an app called Raindrop.io , which works on basically every platform, integrates really easily with other apps, and makes saving super easy. I’ll dump a URL in there, rename the weird page title to “Kaiden’s volleyball schedule,” and it’s right there next time I need it.",
+   "section": "weekend-project",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-03-anybox",
+   "name": "Anybox",
+   "url": "https://anybox.app/",
+   "alt_urls": [
+    "https://goodlinks.app/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "If you’re an Apple user looking for something a little sleeker (Raindrop is… not the best-looking app), you can use apps like Anybox or GoodLinks . GoodLinks is better if you’re also going to use it as a place to store and read articles, but Anybox is the more powerful organizer.",
+   "section": "weekend-project",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-03-evernote",
+   "name": "Evernote",
+   "url": "https://evernote.com/",
+   "alt_urls": [
+    "https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app?ms.url=onenotecom&rtc=1",
+    "https://www.notion.so/",
+    "https://obsidian.md/",
+    "https://bear.app/",
+    "https://www.amplenote.com/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "You can use a lot of note-taking apps as link buckets: Evernote , OneNote , and Notion all have good web clippers and good search, and you can have everything from Obsidian to Bear to Amplenote grab the full text of a page and save it for later.",
+   "section": "weekend-project",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-03-pocket",
+   "name": "Pocket",
+   "url": "https://getpocket.com/en/",
+   "alt_urls": [
+    "https://www.instapaper.com/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Read-later apps also fall into the not-exactly-right-but-does-work category. I don’t love Pocket as a reading app anymore, but as a place to save links and search through them later, it does fine; so does Instapaper . Anything with full-text search should do the job.",
+   "section": "weekend-project",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-03-iphone-14-pro-max-thats-not-purple-enough-and-im",
+   "name": "iPhone 14 Pro Max that’s not purple enough, and I’m still mad ‘bout it",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 14 Pro Max that’s not purple enough, and I’m still mad ‘bout it",
+   "section": "screen-share",
+   "recommender": "Victoria"
+  },
+  {
+   "id": "2023-09-03-exist",
+   "name": "EXIST",
+   "url": "https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61?autoplay=true",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "EXIST is EXO’s newly released seventh album. It’s a groovy summery album, and the title track, “ Cream Soda ,” is a bop. (The B-sides “ Hear Me Out ” and “ Let Me In ” are also great.) Why else do you think I have an EXO wallpaper at the moment?",
+   "section": "screen-share",
+   "recommender": "Victoria"
+  },
+  {
+   "id": "2023-09-03-cream-soda",
+   "name": "Cream Soda",
+   "url": "https://www.youtube.com/watch?v=i5nUufn_FmE&list=OLAK5uy_lvTiXJjecxTHvQllgDFFdJ-X4daSPL08Y",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "EXIST is EXO’s newly released seventh album. It’s a groovy summery album, and the title track, “ Cream Soda ,” is a bop. (The B-sides “ Hear Me Out ” and “ Let Me In ” are also great.) Why else do you think I have an EXO wallpaper at the moment?",
+   "section": "screen-share",
+   "recommender": "Victoria"
+  },
+  {
+   "id": "2023-09-03-hear-me-out",
+   "name": "Hear Me Out",
+   "url": "https://www.youtube.com/watch?v=r2VZQa2IgP4&list=OLAK5uy_lvTiXJjecxTHvQllgDFFdJ-X4daSPL08Y&index=3",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "EXIST is EXO’s newly released seventh album. It’s a groovy summery album, and the title track, “ Cream Soda ,” is a bop. (The B-sides “ Hear Me Out ” and “ Let Me In ” are also great.) Why else do you think I have an EXO wallpaper at the moment?",
+   "section": "screen-share",
+   "recommender": "Victoria"
+  },
+  {
+   "id": "2023-09-03-let-me-in",
+   "name": "Let Me In",
+   "url": "https://www.youtube.com/watch?v=91VhCIQNjIc&list=OLAK5uy_lvTiXJjecxTHvQllgDFFdJ-X4daSPL08Y&index=9",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "EXIST is EXO’s newly released seventh album. It’s a groovy summery album, and the title track, “ Cream Soda ,” is a bop. (The B-sides “ Hear Me Out ” and “ Let Me In ” are also great.) Why else do you think I have an EXO wallpaper at the moment?",
+   "section": "screen-share",
+   "recommender": "Victoria"
+  },
+  {
+   "id": "2023-09-03-two-part",
+   "name": "two-part",
+   "url": "https://www.tiktok.com/t/ZT8YXnf1G/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "EXIST is EXO’s newly released seventh album. It’s a groovy summery album, and the title track, “ Cream Soda ,” is a bop. (The B-sides “ Hear Me Out ” and “ Let Me In ” are also great.) Why else do you think I have an EXO wallpaper at the moment?",
+   "section": "screen-share",
+   "recommender": "Victoria"
+  },
+  {
+   "id": "2023-09-03-otamatone-rendition",
+   "name": "otamatone rendition",
+   "url": "https://www.tiktok.com/t/ZT8YXG6ge/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "EXIST is EXO’s newly released seventh album. It’s a groovy summery album, and the title track, “ Cream Soda ,” is a bop. (The B-sides “ Hear Me Out ” and “ Let Me In ” are also great.) Why else do you think I have an EXO wallpaper at the moment?",
+   "section": "screen-share",
+   "recommender": "Victoria"
+  },
+  {
+   "id": "2023-09-03-otamatone-tiktok-rabbit-hole",
+   "name": "otamatone TikTok rabbit hole",
+   "url": "https://www.tiktok.com/search?q=otamatone&t=1693495710821",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "EXIST is EXO’s newly released seventh album. It’s a groovy summery album, and the title track, “ Cream Soda ,” is a bop. (The B-sides “ Hear Me Out ” and “ Let Me In ” are also great.) Why else do you think I have an EXO wallpaper at the moment?",
+   "section": "screen-share",
+   "recommender": "Victoria"
+  },
+  {
+   "id": "2023-09-03-junk-journaling-videos",
+   "name": "Junk journaling videos",
+   "url": "https://www.tiktok.com/tag/junkjournal",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Junk journaling. This is another hobby served up by the TikTok algorithm. Junk journaling videos are so oddly soothing and satisfying.",
+   "section": "screen-share",
+   "recommender": "Victoria"
+  },
+  {
+   "id": "2023-09-03-gentler-streak",
+   "name": "Gentler Streak",
+   "url": "https://gentler.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The default fitness app for iOS has the ring system, but more than motivation, it can feel like a punishment. Say, if I am sick one day and I need a rest, there is no way I can pause the ring. Gentler Streak takes a new approach to workouts with intervals in between to rest.",
+   "section": "crowdsourced",
+   "recommender": "Utkarsh (reader)"
+  },
+  {
+   "id": "2023-09-03-voyager-for-lemmy",
+   "name": "Voyager for Lemmy",
+   "url": "https://github.com/aeharding/voyager",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "open-source"
+   ],
+   "blurb": "Voyager for Lemmy : If you were a Reddit user using Apollo, this app makes Lemmy feel right at home. What I like about this is because it’s a web app, I can use it on all my devices for a consistent experience.",
+   "section": "crowdsourced",
+   "recommender": "Travis (reader)"
+  },
+  {
+   "id": "2023-09-03-cinny",
+   "name": "Cinny",
+   "url": "https://matrix.org/ecosystem/clients/cinny/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Thank you so much for recommending Beeper. I’ve been following Matrix for a while now — from what I can tell, ActivityPub has the apps, but Matrix’s source code has more potential.",
+   "section": "crowdsourced",
+   "recommender": "Dallin (reader)"
+  },
+  {
+   "id": "2023-09-03-t2bot-io",
+   "name": "t2bot.io",
+   "url": "http://t2bot.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Thank you so much for recommending Beeper. I’ve been following Matrix for a while now — from what I can tell, ActivityPub has the apps, but Matrix’s source code has more potential.",
+   "section": "crowdsourced",
+   "recommender": "Dallin (reader)"
+  },
+  {
+   "id": "2023-09-03-forte-by-twelve-south",
+   "name": "Forté by Twelve South",
+   "url": "https://www.twelvesouth.com/products/forte-for-iphone",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Loved the Zen Magsafe stand, but I feel like my favorite version of this (which is about to get very important given the new ‘StandBy mode’ coming to iOS 17) is the Forté by Twelve South . It’s so clean and elegant that Apple actually used it in its own promotional stuff.",
+   "section": "crowdsourced",
+   "recommender": "Peter (reader)"
+  },
+  {
+   "id": "2023-09-03-reeder",
+   "name": "Reeder",
+   "url": "https://reederapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been trying our Reeder . I know it’s not a new app, but I’m trying to fill the news void I have since leaving Twitter with RSS.",
+   "section": "crowdsourced",
+   "recommender": "Zeublon (reader)"
+  },
+  {
+   "id": "2023-09-03-capacities",
+   "name": "Capacities",
+   "url": "https://capacities.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Capacities ! I found a great recommendation from a thread by Casey Newton related to the tinkerpaloozaas that are most personal knowledge managers. Capacities has a fresh approach. Fun and free to try!",
+   "section": "crowdsourced",
+   "recommender": "Nathan (reader)"
+  },
+  {
+   "id": "2023-09-03-a-thread-by-casey-newton",
+   "name": "a thread by Casey Newton",
+   "url": "https://www.threads.net/@crumbler/post/Cwax3zWvgoS",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Capacities ! I found a great recommendation from a thread by Casey Newton related to the tinkerpaloozaas that are most personal knowledge managers. Capacities has a fresh approach. Fun and free to try!",
+   "section": "crowdsourced",
+   "recommender": "Nathan (reader)"
+  },
+  {
+   "id": "2023-09-03-a-glow-in-the-dark-pocket",
+   "name": "a glow-in-the-dark Pocket",
+   "url": "https://www.analogue.co/editions/pocket-glow-in-the-dark",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m losing my mind over the fact that Analogue is releasing a glow-in-the-dark Pocket . Even though I already own one, I’m tempted to buy this version just because glow-in-the-dark is way cooler than the clear plastic trend that’s currently making a comeback.",
+   "section": "crowdsourced",
+   "recommender": "Matthew (reader)"
+  },
+  {
+   "id": "2023-09-03-molecano",
+   "name": "Molecano",
+   "url": "http://www.thomaskyoung.com/molecano/index.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Molecano is a cute little mobile game that has elements of both the NYT Spelling Bee and Scrabble. I’ve now played an ungodly number of levels.",
+   "section": "crowdsourced",
+   "recommender": "Jared (reader)"
+  },
+  {
+   "id": "2023-09-03-siri-shortcuts",
+   "name": "Siri Shortcuts",
+   "url": "https://support.apple.com/guide/shortcuts/welcome/ios",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Obsessively into Siri Shortcuts automations: Open Instagram, lowers my media volume (no more autoplay scares); Open YouTube/daycare livestream, turns off orientation lock (and vice versa); Battery percentages trigger low power (30%) or normal power mode (80%); 10:00pm triggers grayscale color…",
+   "section": "crowdsourced",
+   "recommender": "Johnson (reader)"
+  }
+ ]
+}

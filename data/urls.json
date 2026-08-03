@@ -1,0 +1,1226 @@
+{
+ "posts": {
+  "https://www.theverge.com/2023/10/22/23925495/super-mario-bros-wonder-oneplus-open-spiderman-2-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2023/10/22/23925495/super-mario-bros-wonder-oneplus-open-spiderman-2-installer-newsletter",
+   "date": "2023-10-22",
+   "title": "Mario and Spider-Man are both back in a big way",
+   "number": 11,
+   "file": "2023-10-22.json"
+  },
+  "https://www.theverge.com/2023/10/29/23935354/apple-journal-leica-m11p-hugo-awards-alan-wake-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2023/10/29/23935354/apple-journal-leica-m11p-hugo-awards-alan-wake-installer-newsletter",
+   "date": "2023-10-29",
+   "title": "Your guide to the internet\u2019s most (and least) important moments",
+   "number": 12,
+   "file": "2023-10-29.json"
+  },
+  "https://www.theverge.com/2023/11/12/23955681/best-apps-online-budget-money-mint-ynab-copilot-steam-deck-humane-ai": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2023/11/12/23955681/best-apps-online-budget-money-mint-ynab-copilot-steam-deck-humane-ai",
+   "date": "2023-11-12",
+   "title": "The best apps and tools for managing your money online",
+   "number": 14,
+   "file": "2023-11-12.json"
+  },
+  "https://www.theverge.com/2023/11/13/23959566/something-is-wrong-the-epic-installer-never-asked-me-to-turn-on-us": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/2023/11/19/23965623/gift-guides-gubbins-microsoft-loop-tadpole-webcam-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2023/11/19/23965623/gift-guides-gubbins-microsoft-loop-tadpole-webcam-installer-newsletter",
+   "date": "2023-11-19",
+   "title": "The silly word game you didn\u2019t know you needed",
+   "number": 15,
+   "file": "2023-11-19.json"
+  },
+  "https://www.theverge.com/2023/11/20/23969831/tim-sweeney-on-fortnite-installed-via-the-samsung-galaxy-store-its-not-doing-well": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/2023/11/5/23945399/beatles-ai-fortnite-og-macbook-pro-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2023/11/5/23945399/beatles-ai-fortnite-og-macbook-pro-installer-newsletter",
+   "date": "2023-11-05",
+   "title": "How AI brought the Beatles back together one more time",
+   "number": 13,
+   "file": "2023-11-05.json"
+  },
+  "https://www.theverge.com/2023/12/11/23996873/when-people-try-to-download-the-fortnite-installer-35-percent-of-those-people-dropped-off": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/2023/12/31/24019265/best-apps-games-movies-shows-2023": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2023/12/31/24019265/best-apps-games-movies-shows-2023",
+   "date": "2023-12-31",
+   "title": "The apps, movies, games, and everything else we loved in 2023",
+   "number": 19,
+   "file": "2023-12-31.json"
+  },
+  "https://www.theverge.com/2023/8/13/23828624/installer-newsletter-callsheet-nerf-lego-arc": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2023/8/13/23828624/installer-newsletter-callsheet-nerf-lego-arc",
+   "date": "2023-08-13",
+   "title": "The new app every movie lover needs",
+   "number": null,
+   "file": "2023-08-13.json"
+  },
+  "https://www.theverge.com/2023/9/10/23864841/polaroid-camera-wireless-speakers-best-smart-home-apps-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2023/9/10/23864841/polaroid-camera-wireless-speakers-best-smart-home-apps-installer-newsletter",
+   "date": "2023-09-10",
+   "title": "A new-old camera, Clubhouse pivots, and smart home apps galore",
+   "number": 5,
+   "file": "2023-09-10.json"
+  },
+  "https://www.theverge.com/2023/9/3/23855448/bookmarking-apps-starfield-retro-games-quibi-history-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2023/9/3/23855448/bookmarking-apps-starfield-retro-games-quibi-history-installer-newsletter",
+   "date": "2023-09-03",
+   "title": "A super-simple way to organize your internet",
+   "number": 4,
+   "file": "2023-09-03.json"
+  },
+  "https://www.theverge.com/2024/1/14/24036403/rabbit-r1-gpt-store-true-detective-ballie-ces-2024-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/1/14/24036403/rabbit-r1-gpt-store-true-detective-ballie-ces-2024-installer-newsletter",
+   "date": "2024-01-14",
+   "title": "\u2019Tis the season for AI apps and AI gadgets",
+   "number": 21,
+   "file": "2024-01-14.json"
+  },
+  "https://www.theverge.com/2024/1/7/24026904/copilot-ai-bitconned-storygraph-clicks-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/1/7/24026904/copilot-ai-bitconned-storygraph-clicks-installer-newsletter",
+   "date": "2024-01-07",
+   "title": "A better all-in-one AI app is finally here",
+   "number": 20,
+   "file": "2024-01-07.json"
+  },
+  "https://www.theverge.com/2024/10/13/24268065/nintendo-alarmo-money-electric-onedrive-mastodon-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/10/13/24268065/nintendo-alarmo-money-electric-onedrive-mastodon-installer",
+   "date": "2024-10-13",
+   "title": "Now we can all wake up like Mario",
+   "number": 56,
+   "file": "2024-10-13.json"
+  },
+  "https://www.theverge.com/2024/10/20/24273552/kindle-colorsoft-paperwhite-ipad-mini-sonos-arc-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/10/20/24273552/kindle-colorsoft-paperwhite-ipad-mini-sonos-arc-installer",
+   "date": "2024-10-20",
+   "title": "Time to upgrade your reading gadgets",
+   "number": 57,
+   "file": "2024-10-20.json"
+  },
+  "https://www.theverge.com/2024/10/27/24279432/batman-arkham-shadow-vr-quest-boox-palma-2-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/10/27/24279432/batman-arkham-shadow-vr-quest-boox-palma-2-installer",
+   "date": "2024-10-27",
+   "title": "The VR game I\u2019ve been waiting for",
+   "number": 58,
+   "file": "2024-10-27.json"
+  },
+  "https://www.theverge.com/2024/10/6/24262260/pebblebee-airtag-google-arc-search-copilot-chatgpt-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/10/6/24262260/pebblebee-airtag-google-arc-search-copilot-chatgpt-installer",
+   "date": "2024-10-06",
+   "title": "The much simpler way to keep track of everything",
+   "number": 55,
+   "file": "2024-10-06.json"
+  },
+  "https://www.theverge.com/2024/11/10/24291418/stardew-valley-mario-luigi-brothership-heretic-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/11/10/24291418/stardew-valley-mario-luigi-brothership-heretic-installer",
+   "date": "2024-11-10",
+   "title": "Chill games for a chill weekend",
+   "number": 60,
+   "file": "2024-11-10.json"
+  },
+  "https://www.theverge.com/2024/11/24/24303359/surveilled-buy-now-documentaries-tech-dune-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/11/24/24303359/surveilled-buy-now-documentaries-tech-dune-installer",
+   "date": "2024-11-24",
+   "title": "Two new tech documentaries you really need to see",
+   "number": 61,
+   "file": "2024-11-24.json"
+  },
+  "https://www.theverge.com/2024/11/3/24285425/chatgpt-search-mac-mini-pokemon-tcg-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/11/3/24285425/chatgpt-search-mac-mini-pokemon-tcg-installer",
+   "date": "2024-11-03",
+   "title": "The AI search engines are here \u2014 and getting better",
+   "number": 59,
+   "file": "2024-11-03.json"
+  },
+  "https://www.theverge.com/2024/12/1/24308191/tech-gifts-2024-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/12/1/24308191/tech-gifts-2024-installer-newsletter",
+   "date": "2024-12-01",
+   "title": "The 2024 Installer gift guide, part one",
+   "number": 62,
+   "file": "2024-12-01-the-2024-installer-gift.json"
+  },
+  "https://www.theverge.com/2024/12/15/24320546/monument-valley-3-mozi-supernote-joi-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/12/15/24320546/monument-valley-3-mozi-supernote-joi-installer",
+   "date": "2024-12-15",
+   "title": "A worthy update to my favorite mobile game ever",
+   "number": 64,
+   "file": "2024-12-15.json"
+  },
+  "https://www.theverge.com/2024/12/22/24325938/home-assistant-voice-sonic-3-flipboard-surf-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/12/22/24325938/home-assistant-voice-sonic-3-flipboard-surf-installer",
+   "date": "2024-12-22",
+   "title": "A new and better way to control your smart home",
+   "number": 65,
+   "file": "2024-12-22.json"
+  },
+  "https://www.theverge.com/2024/12/26/24329779/windows-11-october-november-installer-usb-media-secuity-update-bug": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/2024/12/8/24314959/y2k-movie-peloton-strength-plus-jeopardy-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/12/8/24314959/y2k-movie-peloton-strength-plus-jeopardy-installer",
+   "date": "2024-12-08",
+   "title": "The Installer gift guide, part two",
+   "number": 63,
+   "file": "2024-12-08-the-installer-gift-guide.json"
+  },
+  "https://www.theverge.com/2024/2/11/24067832/bluesky-gemini-ring-weather-app-icloud-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/2/11/24067832/bluesky-gemini-ring-weather-app-icloud-installer-newsletter",
+   "date": "2024-02-11",
+   "title": "The hottest new(ish) thing in social networks",
+   "number": 25,
+   "file": "2024-02-11.json"
+  },
+  "https://www.theverge.com/2024/2/18/24075077/bose-ultra-open-superlist-bulletin-text-files-note-apps-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/2/18/24075077/bose-ultra-open-superlist-bulletin-text-files-note-apps-installer",
+   "date": "2024-02-18",
+   "title": "How to live your life in text files",
+   "number": 26,
+   "file": "2024-02-18.json"
+  },
+  "https://www.theverge.com/2024/3/10/24094743/best-music-app-nothing-phone-2a-m3-macbook-air-rivian-r3-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/3/10/24094743/best-music-app-nothing-phone-2a-m3-macbook-air-rivian-r3-installer-newsletter",
+   "date": "2024-03-10",
+   "title": "The perfect music streaming app does not exist",
+   "number": 29,
+   "file": "2024-03-10.json"
+  },
+  "https://www.theverge.com/2024/3/24/24109107/3-body-problem-stardew-valley-warzone-mobile-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/3/24/24109107/3-body-problem-stardew-valley-warzone-mobile-installer-newsletter",
+   "date": "2024-03-24",
+   "title": "The biggest new battle royale is ready for your phone",
+   "number": 31,
+   "file": "2024-03-24.json"
+  },
+  "https://www.theverge.com/2024/3/31/24116047/cleft-notes-ai-voice-spider-verse-short-steve-believers-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/3/31/24116047/cleft-notes-ai-voice-spider-verse-short-steve-believers-installer-newsletter",
+   "date": "2024-03-31",
+   "title": "An AI voice notes app that really works",
+   "number": 32,
+   "file": "2024-03-31.json"
+  },
+  "https://www.theverge.com/2024/4/21/24135953/delta-emulator-airchat-limitless-ai-nothing-eara-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/4/21/24135953/delta-emulator-airchat-limitless-ai-nothing-eara-installer-newsletter",
+   "date": "2024-04-21",
+   "title": "The game emulator your phone has been missing",
+   "number": 35,
+   "file": "2024-04-21.json"
+  },
+  "https://www.theverge.com/2024/4/22/24136942/microsoft-store-installers-web-download-windows": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/2024/5/5/24148223/arc-browser-windows-claude-sofa-bose-beats-hacks-coffee-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/5/5/24148223/arc-browser-windows-claude-sofa-bose-beats-hacks-coffee-installer",
+   "date": "2024-05-05",
+   "title": "The best new browser for Windows",
+   "number": 36,
+   "file": "2024-05-05.json"
+  },
+  "https://www.theverge.com/2024/6/16/24178592/light-phone-3-yahoo-news-apple-passwords-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/6/16/24178592/light-phone-3-yahoo-news-apple-passwords-installer",
+   "date": "2024-06-16",
+   "title": "The super simple gadget trying to replace your phone",
+   "number": 42,
+   "file": "2024-06-16.json"
+  },
+  "https://www.theverge.com/2024/6/2/24168881/best-app-phone-video-kino-fitbit-ace-moviepass-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/6/2/24168881/best-app-phone-video-kino-fitbit-ace-moviepass-installer",
+   "date": "2024-06-02",
+   "title": "A better way to take video on your phone",
+   "number": 40,
+   "file": "2024-06-02.json"
+  },
+  "https://www.theverge.com/2024/6/23/24183235/copilot-pcs-elden-ring-erdtree-hank-green-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/6/23/24183235/copilot-pcs-elden-ring-erdtree-hank-green-installer",
+   "date": "2024-06-23",
+   "title": "The new and improved Windows PCs are finally here",
+   "number": 43,
+   "file": "2024-06-23.json"
+  },
+  "https://www.theverge.com/2024/7/21/24202162/notion-calendar-claude-android-tinypod-ea-football-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/7/21/24202162/notion-calendar-claude-android-tinypod-ea-football-installer",
+   "date": "2024-07-21",
+   "title": "Two new must-have Android apps",
+   "number": 46,
+   "file": "2024-07-21.json"
+  },
+  "https://www.theverge.com/2024/7/28/24206986/watch-olympics-multiview-apple-maps-meta-ai-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/7/28/24206986/watch-olympics-multiview-apple-maps-meta-ai-installer",
+   "date": "2024-07-28",
+   "title": "The best way to watch the Olympics",
+   "number": 47,
+   "file": "2024-07-28.json"
+  },
+  "https://www.theverge.com/2024/8/18/24222043/halide-process-zero-google-gemini-podcast-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/8/18/24222043/halide-process-zero-google-gemini-podcast-installer",
+   "date": "2024-08-18",
+   "title": "The app for taking better photos \u2014 with no AI",
+   "number": 48,
+   "file": "2024-08-18.json"
+  },
+  "https://www.theverge.com/2024/8/25/24226795/best-smartphone-photos-2024-hollywood-hack-blink-twice-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/8/25/24226795/best-smartphone-photos-2024-hollywood-hack-blink-twice-installer",
+   "date": "2024-08-25",
+   "title": "The best smartphone photos of the year",
+   "number": 49,
+   "file": "2024-08-25.json"
+  },
+  "https://www.theverge.com/2024/9/1/24232267/shokz-openrun-airpods-star-wars-outlaws-airwrap-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/9/1/24232267/shokz-openrun-airpods-star-wars-outlaws-airwrap-installer",
+   "date": "2024-09-01",
+   "title": "The headphones that replaced my AirPods",
+   "number": 50,
+   "file": "2024-09-01.json"
+  },
+  "https://www.theverge.com/2024/9/22/24249948/socialai-snap-spectacles-snapchat-penguin-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/9/22/24249948/socialai-snap-spectacles-snapchat-penguin-installer",
+   "date": "2024-09-22",
+   "title": "A social network where everyone\u2019s a bot",
+   "number": 53,
+   "file": "2024-09-22.json"
+  },
+  "https://www.theverge.com/2024/9/29/24256056/meta-orion-quest-3s-smart-glasses-balatro-mobile-zelda-game-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/9/29/24256056/meta-orion-quest-3s-smart-glasses-balatro-mobile-zelda-game-installer",
+   "date": "2024-09-29",
+   "title": "The AR and VR headsets you\u2019ll actually wear",
+   "number": 54,
+   "file": "2024-09-29.json"
+  },
+  "https://www.theverge.com/2024/9/8/24237639/reeder-app-internet-feeds-astro-bot-gopro-dji-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2024/9/8/24237639/reeder-app-internet-feeds-astro-bot-gopro-dji-installer",
+   "date": "2024-09-08",
+   "title": "An all-in-one app for the internet",
+   "number": 51,
+   "file": "2024-09-08.json"
+  },
+  "https://www.theverge.com/2025/1/12/24340864/ces-2025-tvs-nvidia-ai-gaming-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2025/1/12/24340864/ces-2025-tvs-nvidia-ai-gaming-installer",
+   "date": "2025-01-12",
+   "title": "The best actually real stuff at CES 2025",
+   "number": 66,
+   "file": "2025-01-12.json"
+  },
+  "https://www.theverge.com/2025/1/19/24346079/nintendo-switch-2-severance-apple-chatgpt-tasks-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2025/1/19/24346079/nintendo-switch-2-severance-apple-chatgpt-tasks-installer",
+   "date": "2025-01-19",
+   "title": "New year, new Switch, new Severance",
+   "number": 67,
+   "file": "2025-01-19.json"
+  },
+  "https://www.theverge.com/2025/1/26/24351363/samsung-s25-nvidia-5090-perplexity-openai-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/2025/1/26/24351363/samsung-s25-nvidia-5090-perplexity-openai-installer",
+   "date": "2025-01-26",
+   "title": "The 2025 Android upgrade cycle has begun",
+   "number": 68,
+   "file": "2025-01-26.json"
+  },
+  "https://www.theverge.com/23837263/ai-search-perplexity-section-230-tech-documentaries-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/23837263/ai-search-perplexity-section-230-tech-documentaries-installer",
+   "date": "2023-08-20",
+   "title": "Installer: An AI search engine and the coolest speakers ever",
+   "number": null,
+   "file": "2023-08-20.json"
+  },
+  "https://www.theverge.com/23845815/threads-web-fabric-car-tech-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/23845815/threads-web-fabric-car-tech-installer-newsletter",
+   "date": "2023-08-27",
+   "title": "Threads for web, AI for bookmarks, and the best new car tech",
+   "number": 3,
+   "file": "2023-08-27.json"
+  },
+  "https://www.theverge.com/23875308/widgets-wallpapers-iphone-15-earpods-elon-musk-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/23875308/widgets-wallpapers-iphone-15-earpods-elon-musk-installer-newsletter",
+   "date": "2023-09-17",
+   "title": "How to reinvent your phone without buying a new one",
+   "number": 6,
+   "file": "2023-09-17.json"
+  },
+  "https://www.theverge.com/23885600/ios-ipados-interactive-widgets-dalle-3-amazon-echo-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/23885600/ios-ipados-interactive-widgets-dalle-3-amazon-echo-installer-newsletter",
+   "date": "2023-09-24",
+   "title": "Apple\u2019s new software is widgets all the way down",
+   "number": 7,
+   "file": "2023-09-24.json"
+  },
+  "https://www.theverge.com/23896415/kagi-search-google-meta-quest-3-chatgpt-macos-sonoma-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/23896415/kagi-search-google-meta-quest-3-chatgpt-macos-sonoma-installer-newsletter",
+   "date": "2023-10-01",
+   "title": "The best Google alternative I\u2019ve tried yet",
+   "number": 8,
+   "file": "2023-10-01.json"
+  },
+  "https://www.theverge.com/23906577/ai-gadgets-humane-pin-pixel-8-asassins-creed-spotify-microsoft-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/23906577/ai-gadgets-humane-pin-pixel-8-asassins-creed-spotify-microsoft-installer",
+   "date": "2023-10-08",
+   "title": "The AI gadgets are coming",
+   "number": 9,
+   "file": "2023-10-08.json"
+  },
+  "https://www.theverge.com/23915813/sequel-sofa-media-tracking-apps-roblox-razr-big-vape-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/23915813/sequel-sofa-media-tracking-apps-roblox-razr-big-vape-installer-newsletter",
+   "date": "2023-10-15",
+   "title": "Everything you need to track your movies, music, books, and more",
+   "number": 10,
+   "file": "2023-10-15.json"
+  },
+  "https://www.theverge.com/23984296/youtube-tweaks-apps-extensions-cybertruck-spotify-wrapped-obliterated-netflix": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/23984296/youtube-tweaks-apps-extensions-cybertruck-spotify-wrapped-obliterated-netflix",
+   "date": "2023-12-03",
+   "title": "A better way to YouTube",
+   "number": 16,
+   "file": "2023-12-03.json"
+  },
+  "https://www.theverge.com/23993867/google-gemini-chatgpt-beeper-imessage-lego-fortnite-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/23993867/google-gemini-chatgpt-beeper-imessage-lego-fortnite-installer-newsletter",
+   "date": "2023-12-10",
+   "title": "Google finally gives ChatGPT some competition",
+   "number": 17,
+   "file": "2023-12-10.json"
+  },
+  "https://www.theverge.com/24003177/readwise-reader-gta-netflix-day-one-apple-journal-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/24003177/readwise-reader-gta-netflix-day-one-apple-journal-installer-newsletter",
+   "date": "2023-12-17",
+   "title": "The ultimate app for reading the internet",
+   "number": 18,
+   "file": "2023-12-17.json"
+  },
+  "https://www.theverge.com/24044630/notion-calendar-samsung-s24-prince-persia-after-midnight-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/24044630/notion-calendar-samsung-s24-prince-persia-after-midnight-installer-newsletter",
+   "date": "2024-01-21",
+   "title": "A new spin on a powerful calendar app",
+   "number": 22,
+   "file": "2024-01-21.json"
+  },
+  "https://www.theverge.com/24051717/masters-of-the-air-palworld-amie-ali-abdaal-psych-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/24051717/masters-of-the-air-palworld-amie-ali-abdaal-psych-installer-newsletter",
+   "date": "2024-01-28",
+   "title": "A star creator\u2019s go-to travel gear",
+   "number": 23,
+   "file": "2024-01-28.json"
+  },
+  "https://www.theverge.com/24059488/news-reading-apps-arc-search-mr-mrs-smith-project-tapestry-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/24059488/news-reading-apps-arc-search-mr-mrs-smith-project-tapestry-installer-newsletter",
+   "date": "2024-02-04",
+   "title": "How we all get news now",
+   "number": 24,
+   "file": "2024-02-04.json"
+  },
+  "https://www.theverge.com/24081130/balatro-fujifilm-x100vi-drive-to-survive-twitter-books-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/24081130/balatro-fujifilm-x100vi-drive-to-survive-twitter-books-installer",
+   "date": "2024-02-25",
+   "title": "The ultra-complex card game that will take over your weekend",
+   "number": 27,
+   "file": "2024-02-25.json"
+  },
+  "https://www.theverge.com/24087968/food-youtube-blogs-recipes-dune-final-fantasy-oneplus-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/24087968/food-youtube-blogs-recipes-dune-final-fantasy-oneplus-installer-newsletter",
+   "date": "2024-03-03",
+   "title": "The very best food stuff on the internet",
+   "number": 28,
+   "file": "2024-03-03.json"
+  },
+  "https://www.theverge.com/24102242/likewise-movie-recommendations-apple-car-proton-mail-evernote-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/24102242/likewise-movie-recommendations-apple-car-proton-mail-evernote-installer",
+   "date": "2024-03-17",
+   "title": "A better way to find stuff to watch",
+   "number": 30,
+   "file": "2024-03-17.json"
+  },
+  "https://www.theverge.com/24122230/ai-web-browsers-opera-brave-jon-stewart-john-oliver-delivery-lego-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/24122230/ai-web-browsers-opera-brave-jon-stewart-john-oliver-delivery-lego-installer-newsletter",
+   "date": "2024-04-07",
+   "title": "AI is taking over your web browser",
+   "number": 33,
+   "file": "2024-04-07.json"
+  },
+  "https://www.theverge.com/24128766/fallout-show-dji-avata-2-fairbuds-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/24128766/fallout-show-dji-avata-2-fairbuds-installer-newsletter",
+   "date": "2024-04-14",
+   "title": "Best video game TV show ever?",
+   "number": 34,
+   "file": "2024-04-14.json"
+  },
+  "https://www.theverge.com/24153472/apple-ipad-pro-animal-well-final-cut-camera-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/24153472/apple-ipad-pro-animal-well-final-cut-camera-installer-newsletter",
+   "date": "2024-05-12",
+   "title": "The new iPad Pro looks like a winner",
+   "number": 37,
+   "file": "2024-05-12.json"
+  },
+  "https://www.theverge.com/24158659/ai-assistant-chatgpt-gpt4o-google-search-dyson-washg1-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/24158659/ai-assistant-chatgpt-gpt4o-google-search-dyson-washg1-installer",
+   "date": "2024-05-19",
+   "title": "The AI assistants are getting better fast",
+   "number": 38,
+   "file": "2024-05-19.json"
+  },
+  "https://www.theverge.com/24163971/best-daily-games-internet-wordle-coffee-golf-connections": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/24163971/best-daily-games-internet-wordle-coffee-golf-connections",
+   "date": "2024-05-26",
+   "title": "A big list of the best tiny games on the internet",
+   "number": 39,
+   "file": "2024-05-26.json"
+  },
+  "https://www.theverge.com/24173628/ai-pc-raspberry-pi-hit-man-rivian-chromatic-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/24173628/ai-pc-raspberry-pi-hit-man-rivian-chromatic-installer",
+   "date": "2024-06-09",
+   "title": "An AI PC you\u2019ll want to tinker with",
+   "number": 41,
+   "file": "2024-06-09.json"
+  },
+  "https://www.theverge.com/24188267/best-portable-bluetooth-speakers-boom-beats-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/24188267/best-portable-bluetooth-speakers-boom-beats-installer",
+   "date": "2024-06-30",
+   "title": "The portable speakers you need this summer",
+   "number": 44,
+   "file": "2024-06-30.json"
+  },
+  "https://www.theverge.com/24197282/cmf-phone-1-diggnation-galaxy-ring-installer-newsletter": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/24197282/cmf-phone-1-diggnation-galaxy-ring-installer-newsletter",
+   "date": "2024-07-14",
+   "title": "A supercheap Android phone with looks to spare",
+   "number": 45,
+   "file": "2024-07-14.json"
+  },
+  "https://www.theverge.com/24243490/ps5-pro-airpods-4-huawei-mate-xt-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/24243490/ps5-pro-airpods-4-huawei-mate-xt-installer",
+   "date": "2024-09-15",
+   "title": "The fanciest game console you can buy",
+   "number": 52,
+   "file": "2024-09-15.json"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/apps/764070/russias-national-messenger-app-max-must-be-preinstalled-on-new-devices-soon": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/column/972937/foldable-phones-boring-apple": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/installer-newsletter/604192/bookshop-spider-man-mythic-quest-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/604192/bookshop-spider-man-mythic-quest-installer",
+   "date": "2025-02-02",
+   "title": "A better way to buy and read books",
+   "number": 69,
+   "file": "2025-02-02.json"
+  },
+  "https://www.theverge.com/installer-newsletter/608335/civilization-vii-tapestry-kingdom-come-deliverance-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/608335/civilization-vii-tapestry-kingdom-come-deliverance-installer",
+   "date": "2025-02-09",
+   "title": "Two new games you can play basically forever",
+   "number": 70,
+   "file": "2025-02-09.json"
+  },
+  "https://www.theverge.com/installer-newsletter/613174/snl-50-peacock-apple-tv-plus-powerbeats-pro-2-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/613174/snl-50-peacock-apple-tv-plus-powerbeats-pro-2-installer",
+   "date": "2025-02-16",
+   "title": "A treasure trove of comedy history",
+   "number": 71,
+   "file": "2025-02-16.json"
+  },
+  "https://www.theverge.com/installer-newsletter/617653/best-music-apps-iphone-android-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/617653/best-music-apps-iphone-android-installer",
+   "date": "2025-02-23",
+   "title": "Our favorite apps for listening to music",
+   "number": 72,
+   "file": "2025-02-23.json"
+  },
+  "https://www.theverge.com/installer-newsletter/621782/best-speakers-headphones-music-gear-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/621782/best-speakers-headphones-music-gear-installer",
+   "date": "2025-03-02",
+   "title": "Our favorite speakers, headphones, and other music gear",
+   "number": 73,
+   "file": "2025-03-02.json"
+  },
+  "https://www.theverge.com/installer-newsletter/626239/apple-ipad-macbook-air-split-fiction-digg-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/626239/apple-ipad-macbook-air-split-fiction-digg-installer",
+   "date": "2025-03-09",
+   "title": "Some nice upgrades for Apple\u2019s best gadgets",
+   "number": 74,
+   "file": "2025-03-09.json"
+  },
+  "https://www.theverge.com/installer-newsletter/629893/electric-state-mickey-17-mulaney-netflix-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/629893/electric-state-mickey-17-mulaney-netflix-installer",
+   "date": "2025-03-16",
+   "title": "A bad movie full of big ideas about tech",
+   "number": 75,
+   "file": "2025-03-16.json"
+  },
+  "https://www.theverge.com/installer-newsletter/633860/pebble-2-duo-assassins-creed-shadows-pixel-9a-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/633860/pebble-2-duo-assassins-creed-shadows-pixel-9a-installer",
+   "date": "2025-03-23",
+   "title": "An old smartwatch favorite makes a comeback",
+   "number": 76,
+   "file": "2025-03-23.json"
+  },
+  "https://www.theverge.com/installer-newsletter/638592/the-studio-apple-tv-plus-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/638592/the-studio-apple-tv-plus-installer",
+   "date": "2025-03-30",
+   "title": "Apple TV Plus is on a hot streak",
+   "number": 77,
+   "file": "2025-03-30.json"
+  },
+  "https://www.theverge.com/installer-newsletter/643890/plex-delta-skylight-switch-2-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/643890/plex-delta-skylight-switch-2-installer",
+   "date": "2025-04-06",
+   "title": "One streaming app to (almost) rule them all",
+   "number": 78,
+   "file": "2025-04-06.json"
+  },
+  "https://www.theverge.com/installer-newsletter/652291/blue-prince-great-circle-baldurs-gate-games-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/652291/blue-prince-great-circle-baldurs-gate-games-installer",
+   "date": "2025-04-20",
+   "title": "Everybody\u2019s got a favorite new game",
+   "number": 79,
+   "file": "2025-04-20.json"
+  },
+  "https://www.theverge.com/installer-newsletter/656510/star-wars-andor-razr-ultra-instagram-edits-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/656510/star-wars-andor-razr-ultra-instagram-edits-installer",
+   "date": "2025-04-27",
+   "title": "Star Wars is so back",
+   "number": 80,
+   "file": "2025-04-27.json"
+  },
+  "https://www.theverge.com/installer-newsletter/660376/one-million-chessboards-raycast-thunderbolts-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/660376/one-million-chessboards-raycast-thunderbolts-installer",
+   "date": "2025-05-04",
+   "title": "A worthy sequel to one of the best websites ever",
+   "number": 81,
+   "file": "2025-05-04.json"
+  },
+  "https://www.theverge.com/installer-newsletter/664397/backbone-pro-controller-surface-pro-poker-face-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/664397/backbone-pro-controller-surface-pro-poker-face-installer",
+   "date": "2025-05-11",
+   "title": "The one controller to (almost) rule them all",
+   "number": 82,
+   "file": "2025-05-11.json"
+  },
+  "https://www.theverge.com/installer-newsletter/668638/best-wireless-headphones-doom-murderbot-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/668638/best-wireless-headphones-doom-murderbot-installer",
+   "date": "2025-05-18",
+   "title": "The best wireless headphones get even better",
+   "number": 83,
+   "file": "2025-05-18.json"
+  },
+  "https://www.theverge.com/installer-newsletter/673547/mission-impossible-fortnite-stream-deck-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/673547/mission-impossible-fortnite-stream-deck-installer",
+   "date": "2025-05-25",
+   "title": "Summer blockbuster season is here",
+   "number": 84,
+   "file": "2025-05-25.json"
+  },
+  "https://www.theverge.com/installer-newsletter/677564/mountainhead-whatsapp-popsockets-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/677564/mountainhead-whatsapp-popsockets-installer",
+   "date": "2025-06-01",
+   "title": "A new movie taking on the tech bros",
+   "number": 85,
+   "file": "2025-06-01.json"
+  },
+  "https://www.theverge.com/installer-newsletter/681745/camera-app-iphone-mario-kart-switch-2-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/681745/camera-app-iphone-mario-kart-switch-2-installer",
+   "date": "2025-06-08",
+   "title": "The most fun camera app I\u2019ve used in forever",
+   "number": 86,
+   "file": "2025-06-08.json"
+  },
+  "https://www.theverge.com/installer-newsletter/687068/dia-browser-snapseed-f1-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/687068/dia-browser-snapseed-f1-installer",
+   "date": "2025-06-15",
+   "title": "Would you switch browsers for a chatbot?",
+   "number": 87,
+   "file": "2025-06-15.json"
+  },
+  "https://www.theverge.com/installer-newsletter/694482/f1-movie-apple-fairphone-death-stranding-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/694482/f1-movie-apple-fairphone-death-stranding-installer",
+   "date": "2025-06-29",
+   "title": "Apple\u2019s racing movie is finally here",
+   "number": 88,
+   "file": "2025-06-29.json"
+  },
+  "https://www.theverge.com/installer-newsletter/705979/samsung-galaxy-z-fold-flip-7-nothing-phone-headphone-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/705979/samsung-galaxy-z-fold-flip-7-nothing-phone-headphone-installer",
+   "date": "2025-07-13",
+   "title": "Foldables are in and suddenly really thin",
+   "number": 89,
+   "file": "2025-07-13.json"
+  },
+  "https://www.theverge.com/installer-newsletter/710157/donkey-kong-bananza-openai-chatgpt-agent-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/710157/donkey-kong-bananza-openai-chatgpt-agent-installer",
+   "date": "2025-07-20",
+   "title": "The Switch 2\u2019s next killer app is already here",
+   "number": 90,
+   "file": "2025-07-20.json"
+  },
+  "https://www.theverge.com/installer-newsletter/714227/apple-ios-26-beta-retro95-pc-phone-cases-ddr-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/714227/apple-ios-26-beta-retro95-pc-phone-cases-ddr-installer",
+   "date": "2025-07-27",
+   "title": "Apple beta season is here",
+   "number": 91,
+   "file": "2025-07-27.json"
+  },
+  "https://www.theverge.com/installer-newsletter/717693/elgato-facecam-4k-lg-stanbyme-2-time-flies-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/717693/elgato-facecam-4k-lg-stanbyme-2-time-flies-installer",
+   "date": "2025-08-03",
+   "title": "A webcam that\u2019s almost like a real camera",
+   "number": 92,
+   "file": "2025-08-03.json"
+  },
+  "https://www.theverge.com/installer-newsletter/753968/i-need-your-help-for-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/753968/i-need-your-help-for-installer",
+   "date": "2025-08-07",
+   "title": "I need your help for Installer!",
+   "number": null,
+   "file": "2025-08-07-i-need-your-help-for-ins.json"
+  },
+  "https://www.theverge.com/installer-newsletter/757086/openai-gpt-5-chatgpt-roku-howdy-camp-snap-cs-8-fortnite-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/757086/openai-gpt-5-chatgpt-roku-howdy-camp-snap-cs-8-fortnite-installer",
+   "date": "2025-08-10",
+   "title": "The next big AI model is here",
+   "number": 93,
+   "file": "2025-08-10.json"
+  },
+  "https://www.theverge.com/installer-newsletter/759427/i-need-your-help-for-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/759427/i-need-your-help-for-installer",
+   "date": "2025-08-14",
+   "title": "I need your help for Installer!",
+   "number": null,
+   "file": "2025-08-14-i-need-your-help-for-ins.json"
+  },
+  "https://www.theverge.com/installer-newsletter/760232/teenage-engineering-pc-case-fairphone-cables-charger-alien-earth-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/760232/teenage-engineering-pc-case-fairphone-cables-charger-alien-earth-installer",
+   "date": "2025-08-17",
+   "title": "Teenage Engineering did it again",
+   "number": 94,
+   "file": "2025-08-17.json"
+  },
+  "https://www.theverge.com/installer-newsletter/763590/i-need-your-help-for-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/763590/i-need-your-help-for-installer",
+   "date": "2025-08-21",
+   "title": "I need your help for Installer!",
+   "number": null,
+   "file": "2025-08-21-i-need-your-help-for-ins.json"
+  },
+  "https://www.theverge.com/installer-newsletter/764641/shutter-declutter-pixel-10-pro-fold-samsung-galaxy-buds-3-fe-herdling-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/764641/shutter-declutter-pixel-10-pro-fold-samsung-galaxy-buds-3-fe-herdling-installer",
+   "date": "2025-08-24",
+   "title": "The most fun way to look through old photos",
+   "number": 95,
+   "file": "2025-08-24.json"
+  },
+  "https://www.theverge.com/installer-newsletter/771621/i-need-your-help-for-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/771621/i-need-your-help-for-installer",
+   "date": "2025-09-04",
+   "title": "I need your help for Installer!",
+   "number": null,
+   "file": "2025-09-04-i-need-your-help-for-ins.json"
+  },
+  "https://www.theverge.com/installer-newsletter/773123/philips-hue-essentials-silksong-instagram-ipad-the-paper-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/773123/philips-hue-essentials-silksong-instagram-ipad-the-paper-installer",
+   "date": "2025-09-07",
+   "title": "A really cheap way to get really smart lights",
+   "number": 96,
+   "file": "2025-09-07.json"
+  },
+  "https://www.theverge.com/installer-newsletter/776474/what-are-you-into-this-week": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/776474/what-are-you-into-this-week",
+   "date": "2025-09-11",
+   "title": "What are you into this week?",
+   "number": null,
+   "file": "2025-09-11-what-are-you-into-this-w.json"
+  },
+  "https://www.theverge.com/installer-newsletter/777346/best-iphone-17-airpods-jeopardy-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/installer-newsletter/777346/best-iphone-17-airpods-jeopardy-installer",
+   "date": "2025-09-14",
+   "title": "The iPhone to get this year",
+   "number": 97,
+   "file": "2025-09-14.json"
+  },
+  "https://www.theverge.com/press-room/2023/8/11/23827622/the-verge-launches-installer-a-newsletter-about-the-next-big-things-to-download-watch-and-explore": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/tech/704138/i-need-your-help-for-installer": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/tech/708872/i-am-once-again-asking-for-your-help-for-installer": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/tech/712776/i-need-your-help-for-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/712776/i-need-your-help-for-installer",
+   "date": "2025-07-24",
+   "title": "I need your help for Installer!",
+   "number": null,
+   "file": "2025-07-24-i-need-your-help-for-ins.json"
+  },
+  "https://www.theverge.com/tech/716528/i-need-your-help-for-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/716528/i-need-your-help-for-installer",
+   "date": "2025-07-31",
+   "title": "I need your help for Installer!",
+   "number": null,
+   "file": "2025-07-31-i-need-your-help-for-ins.json"
+  },
+  "https://www.theverge.com/tech/781044/what-are-you-into-this-week-tell-me-for-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/781044/what-are-you-into-this-week-tell-me-for-installer",
+   "date": "2025-09-18",
+   "title": "What are you into this week? Tell me for Installer!",
+   "number": null,
+   "file": "2025-09-18-what-are-you-into-this-w.json"
+  },
+  "https://www.theverge.com/tech/782118/meta-smart-glasses-notion-3-skate-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/782118/meta-smart-glasses-notion-3-skate-installer",
+   "date": "2025-09-21",
+   "title": "The best smart glasses got a little better",
+   "number": 98,
+   "file": "2025-09-21.json"
+  },
+  "https://www.theverge.com/tech/787032/gopro-max-chatgpt-pulse-silent-hill-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/787032/gopro-max-chatgpt-pulse-silent-hill-installer",
+   "date": "2025-09-28",
+   "title": "I need a life cool enough for the new GoPro",
+   "number": 99,
+   "file": "2025-09-28.json"
+  },
+  "https://www.theverge.com/tech/790561/what-are-you-into-this-week": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/790561/what-are-you-into-this-week",
+   "date": "2025-10-02",
+   "title": "What are you into this week?",
+   "number": null,
+   "file": "2025-10-02-what-are-you-into-this-w.json"
+  },
+  "https://www.theverge.com/tech/791905/best-lists-apps-to-do-shopping-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/791905/best-lists-apps-to-do-shopping-installer",
+   "date": "2025-10-05",
+   "title": "The best lists to keep \u2014 and the best ways to keep them",
+   "number": 100,
+   "file": "2025-10-05.json"
+  },
+  "https://www.theverge.com/tech/798368/chatgpt-everything-app-chair-company-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/798368/chatgpt-everything-app-chair-company-installer",
+   "date": "2025-10-12",
+   "title": "ChatGPT is becoming an everything app",
+   "number": 101,
+   "file": "2025-10-12.json"
+  },
+  "https://www.theverge.com/tech/801870/pokemon-legends-za-apple-m5-macbook-scorsese-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/801870/pokemon-legends-za-apple-m5-macbook-scorsese-installer",
+   "date": "2025-10-19",
+   "title": "Time to catch \u2018em all again",
+   "number": 102,
+   "file": "2025-10-19.json"
+  },
+  "https://www.theverge.com/tech/806697/boox-palma-2-pro-chatgpt-atlas-galaxy-xr-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/806697/boox-palma-2-pro-chatgpt-atlas-galaxy-xr-installer",
+   "date": "2025-10-26",
+   "title": "My favorite e-reader just got a big update",
+   "number": 103,
+   "file": "2025-10-26.json"
+  },
+  "https://www.theverge.com/tech/811575/best-shows-rewatch-multiple-times-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/811575/best-shows-rewatch-multiple-times-installer",
+   "date": "2025-11-02",
+   "title": "The best things to watch over and over and over",
+   "number": 104,
+   "file": "2025-11-02.json"
+  },
+  "https://www.theverge.com/tech/816650/ikea-just-took-over-your-smart-home": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/816650/ikea-just-took-over-your-smart-home",
+   "date": "2025-11-09",
+   "title": "Ikea just took over your smart home",
+   "number": 105,
+   "file": "2025-11-09.json"
+  },
+  "https://www.theverge.com/tech/826971/raycast-kirby-comet-deadpool-vr-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/826971/raycast-kirby-comet-deadpool-vr-installer",
+   "date": "2025-11-23",
+   "title": "The app that will instantly improve your Windows PC",
+   "number": 106,
+   "file": "2025-11-23.json"
+  },
+  "https://www.theverge.com/tech/830153/the-2025-installer-gift-guide": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/830153/the-2025-installer-gift-guide",
+   "date": "2025-11-30",
+   "title": "The 2025 Installer gift guide",
+   "number": 107,
+   "file": "2025-11-30-the-2025-installer-gift.json"
+  },
+  "https://www.theverge.com/tech/839273/red-dead-redemption-fizzy-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/839273/red-dead-redemption-fizzy-installer",
+   "date": "2025-12-07",
+   "title": "An all-time great game makes a comeback",
+   "number": 108,
+   "file": "2025-12-07.json"
+  },
+  "https://www.theverge.com/tech/844117/letterboxd-store-skate-story-ifixit-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/844117/letterboxd-store-skate-story-ifixit-installer",
+   "date": "2025-12-14",
+   "title": "A new old idea about video stores",
+   "number": 109,
+   "file": "2025-12-14.json"
+  },
+  "https://www.theverge.com/tech/848567/best-tech-movies-gadgets-2025-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/848567/best-tech-movies-gadgets-2025-installer",
+   "date": "2025-12-21",
+   "title": "Our favorite stuff of 2025",
+   "number": 110,
+   "file": "2025-12-21.json"
+  },
+  "https://www.theverge.com/tech/859808/ces-2026-best-gadgets-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/859808/ces-2026-best-gadgets-installer",
+   "date": "2026-01-10",
+   "title": "The CES 2026 stuff I might actually buy",
+   "number": 111,
+   "file": "2026-01-10.json"
+  },
+  "https://www.theverge.com/tech/863614/animal-crossing-3-rip-netflix-cowork-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/863614/animal-crossing-3-rip-netflix-cowork-installer",
+   "date": "2026-01-17",
+   "title": "Our favorite cozy game is back",
+   "number": 112,
+   "file": "2026-01-17.json"
+  },
+  "https://www.theverge.com/tech/866946/todoist-ramble-nexphone-crossplay-installe": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/866946/todoist-ramble-nexphone-crossplay-installe",
+   "date": "2026-01-24",
+   "title": "Get stuff done by yelling at your phone",
+   "number": 113,
+   "file": "2026-01-24.json"
+  },
+  "https://www.theverge.com/tech/871493/apple-airtags-yahoo-scout-wonder-man-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/871493/apple-airtags-yahoo-scout-wonder-man-installer",
+   "date": "2026-01-31",
+   "title": "A nice upgrade for Apple\u2019s simplest gadget",
+   "number": 114,
+   "file": "2026-01-31.json"
+  },
+  "https://www.theverge.com/tech/875154/how-to-watch-olympics-nintendo-muppets-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/875154/how-to-watch-olympics-nintendo-muppets-installer",
+   "date": "2026-02-07",
+   "title": "The best way to watch the Olympics",
+   "number": 115,
+   "file": "2026-02-07.json"
+  },
+  "https://www.theverge.com/tech/879114/best-big-tech-app-alternatives-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/879114/best-big-tech-app-alternatives-installer",
+   "date": "2026-02-14",
+   "title": "How to un-Big Tech your online life",
+   "number": 116,
+   "file": "2026-02-14.json"
+  },
+  "https://www.theverge.com/tech/886462/acme-weather-samsung-s26-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/886462/acme-weather-samsung-s26-installer",
+   "date": "2026-02-28",
+   "title": "A legendary weather app makes a comeback",
+   "number": 117,
+   "file": "2026-02-28.json"
+  },
+  "https://www.theverge.com/tech/890785/macbook-neo-slay-spire-2-pokopia-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/890785/macbook-neo-slay-spire-2-pokopia-installer",
+   "date": "2026-03-07",
+   "title": "Apple\u2019s cheap laptop looks like a winner",
+   "number": 118,
+   "file": "2026-03-07.json"
+  },
+  "https://www.theverge.com/tech/894586/wordle-parseword-sonos-play-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/894586/wordle-parseword-sonos-play-installer",
+   "date": "2026-03-14",
+   "title": "Wordle\u2019s creator made a fun new puzzle game",
+   "number": 119,
+   "file": "2026-03-14.json"
+  },
+  "https://www.theverge.com/tech/898265/project-hail-mary-airpods-max-2-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/898265/project-hail-mary-airpods-max-2-installer",
+   "date": "2026-03-21",
+   "title": "An early contender for movie of the year",
+   "number": 120,
+   "file": "2026-03-21.json"
+  },
+  "https://www.theverge.com/tech/902558/flighty-airport-bait-show-notion-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/902558/flighty-airport-bait-show-notion-installer",
+   "date": "2026-03-28",
+   "title": "The must-have app for frequent flyers",
+   "number": 121,
+   "file": "2026-03-28.json"
+  },
+  "https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer",
+   "date": "2026-04-04",
+   "title": "The app for tracking TV, movies, podcasts, and everything",
+   "number": 122,
+   "file": "2026-04-04.json"
+  },
+  "https://www.theverge.com/tech/910422/audacity-artemis-maul-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/910422/audacity-artemis-maul-installer",
+   "date": "2026-04-11",
+   "title": "The new show making fun of tech bros",
+   "number": 123,
+   "file": "2026-04-11.json"
+  },
+  "https://www.theverge.com/tech/914429/the-ai-apps-are-coming-for-your-pc": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/914429/the-ai-apps-are-coming-for-your-pc",
+   "date": "2026-04-18",
+   "title": "The AI apps are coming for your PC",
+   "number": 124,
+   "file": "2026-04-18.json"
+  },
+  "https://www.theverge.com/tech/918695/framework-laptop-stranger-things-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/918695/framework-laptop-stranger-things-installer",
+   "date": "2026-04-25",
+   "title": "The most exciting laptop I\u2019ve seen in forever",
+   "number": 125,
+   "file": "2026-04-25.json"
+  },
+  "https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer",
+   "date": "2026-05-02",
+   "title": "The things we\u2019re building",
+   "number": 126,
+   "file": "2026-05-02.json"
+  },
+  "https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer",
+   "date": "2026-05-09",
+   "title": "The game that makes me actually want to exercise",
+   "number": 127,
+   "file": "2026-05-09.json"
+  },
+  "https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer",
+   "date": "2026-05-16",
+   "title": "The app you need to clean up your computer",
+   "number": 128,
+   "file": "2026-05-16.json"
+  },
+  "https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer",
+   "date": "2026-05-23",
+   "title": "I have a new go-to browser",
+   "number": 129,
+   "file": "2026-05-23.json"
+  },
+  "https://www.theverge.com/tech/940092/007-first-light-oura-ring-5-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/940092/007-first-light-oura-ring-5-installer",
+   "date": "2026-05-30",
+   "title": "This is the James Bond game we\u2019ve been waiting for",
+   "number": 130,
+   "file": "2026-05-30.json"
+  },
+  "https://www.theverge.com/tech/944942/amazing-digital-circus-lego-pokemon-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/944942/amazing-digital-circus-lego-pokemon-installer",
+   "date": "2026-06-06",
+   "title": "The next YouTube phenomenon hitting the big screen",
+   "number": 131,
+   "file": "2026-06-06.json"
+  },
+  "https://www.theverge.com/tech/949465/pool-screenshots-app-disclosure-day-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/949465/pool-screenshots-app-disclosure-day-installer",
+   "date": "2026-06-13",
+   "title": "A better way to manage all your screenshots",
+   "number": 132,
+   "file": "2026-06-13.json"
+  },
+  "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer",
+   "date": "2026-06-20",
+   "title": "Toy Story has the right take on tech",
+   "number": 133,
+   "file": "2026-06-20.json"
+  },
+  "https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer",
+   "date": "2026-06-27",
+   "title": "This might be the new best smart speaker",
+   "number": 134,
+   "file": "2026-06-27.json"
+  },
+  "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
+   "date": "2026-07-11",
+   "title": "The perfect kit for all your tiny repairs",
+   "number": 135,
+   "file": "2026-07-11.json"
+  },
+  "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+   "date": "2026-07-18",
+   "title": "The apps, gadgets, and tools every reader needs",
+   "number": 136,
+   "file": "2026-07-18.json"
+  },
+  "https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer",
+   "date": "2026-07-25",
+   "title": "Folding and flipping phones are getting seriously good",
+   "number": 137,
+   "file": "2026-07-25.json"
+  },
+  "https://www.theverge.com/tech/973055/how-to-take-better-smartphone-photos": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer",
+   "date": "2026-08-01",
+   "title": "The OG reading app just got a big update",
+   "number": 138,
+   "file": "2026-08-01.json"
+  },
+  "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak": {
+   "status": "rejected"
+  }
+ },
+ "generated_at": "2026-08-03T17:54:41+00:00"
+}

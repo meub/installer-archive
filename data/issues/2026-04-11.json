@@ -1,0 +1,497 @@
+{
+ "schema": 1,
+ "date": "2026-04-11",
+ "post_type": "issue",
+ "title": "The new show making fun of tech bros",
+ "url": "https://www.theverge.com/tech/910422/audacity-artemis-maul-installer",
+ "author": "David Pierce",
+ "number": 123,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:40+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-04-11-sam-altman",
+   "name": "Sam Altman",
+   "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sam Altman and Satoshi Nakamoto and chess drama and Iranian shitposters , buying the stuff I need to mod an old iPod , making videos with the clever new DualShot Recorder , watching Crime 101 now that it’s streaming, finally getting my Stream Deck Mini to control…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-11-satoshi-nakamoto",
+   "name": "Satoshi Nakamoto",
+   "url": "https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sam Altman and Satoshi Nakamoto and chess drama and Iranian shitposters , buying the stuff I need to mod an old iPod , making videos with the clever new DualShot Recorder , watching Crime 101 now that it’s streaming, finally getting my Stream Deck Mini to control…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-11-chess-drama",
+   "name": "chess drama",
+   "url": "https://www.vanityfair.com/culture/story/magnus-carsen-chess-excerpt",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sam Altman and Satoshi Nakamoto and chess drama and Iranian shitposters , buying the stuff I need to mod an old iPod , making videos with the clever new DualShot Recorder , watching Crime 101 now that it’s streaming, finally getting my Stream Deck Mini to control…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-11-iranian-shitposters",
+   "name": "Iranian shitposters",
+   "url": "https://nymag.com/intelligencer/article/iran-revolutionary-guard-social-media-behind-the-scenes.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sam Altman and Satoshi Nakamoto and chess drama and Iranian shitposters , buying the stuff I need to mod an old iPod , making videos with the clever new DualShot Recorder , watching Crime 101 now that it’s streaming, finally getting my Stream Deck Mini to control…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-11-mod-an-old-ipod",
+   "name": "mod an old iPod",
+   "url": "https://player-mods.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sam Altman and Satoshi Nakamoto and chess drama and Iranian shitposters , buying the stuff I need to mod an old iPod , making videos with the clever new DualShot Recorder , watching Crime 101 now that it’s streaming, finally getting my Stream Deck Mini to control…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-11-dualshot-recorder",
+   "name": "DualShot Recorder",
+   "url": "https://dualshotrecorder.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sam Altman and Satoshi Nakamoto and chess drama and Iranian shitposters , buying the stuff I need to mod an old iPod , making videos with the clever new DualShot Recorder , watching Crime 101 now that it’s streaming, finally getting my Stream Deck Mini to control…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-11-crime-101",
+   "name": "Crime 101",
+   "url": "https://www.themoviedb.org/movie/1171145-crime-101",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about Sam Altman and Satoshi Nakamoto and chess drama and Iranian shitposters , buying the stuff I need to mod an old iPod , making videos with the clever new DualShot Recorder , watching Crime 101 now that it’s streaming, finally getting my Stream Deck Mini to control…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-11-stream-deck-mini",
+   "name": "Stream Deck Mini",
+   "url": "https://www.elgato.com/us/en/p/stream-deck-mini",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sam Altman and Satoshi Nakamoto and chess drama and Iranian shitposters , buying the stuff I need to mod an old iPod , making videos with the clever new DualShot Recorder , watching Crime 101 now that it’s streaming, finally getting my Stream Deck Mini to control…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-11-my-office-lights",
+   "name": "my office lights",
+   "url": "https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-essential-starter-kit-2-e26-smart-bulbs-800-lm/046677608972",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sam Altman and Satoshi Nakamoto and chess drama and Iranian shitposters , buying the stuff I need to mod an old iPod , making videos with the clever new DualShot Recorder , watching Crime 101 now that it’s streaming, finally getting my Stream Deck Mini to control…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-11-17776-series",
+   "name": "17776 series",
+   "url": "https://www.sbnation.com/a/17776-football",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sam Altman and Satoshi Nakamoto and chess drama and Iranian shitposters , buying the stuff I need to mod an old iPod , making videos with the clever new DualShot Recorder , watching Crime 101 now that it’s streaming, finally getting my Stream Deck Mini to control…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-11-this-new-anker-power-strip",
+   "name": "this new Anker power strip",
+   "url": "https://www.amazon.com/dp/B0FFH5W1RV?th=1&linkCode=ll2&tag=vergenewsletter-20&linkId=6a83042975dcb4dd52b7047e404a4833&language=en_US&tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sam Altman and Satoshi Nakamoto and chess drama and Iranian shitposters , buying the stuff I need to mod an old iPod , making videos with the clever new DualShot Recorder , watching Crime 101 now that it’s streaming, finally getting my Stream Deck Mini to control…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-11-the-audacity",
+   "name": "The Audacity",
+   "url": "https://www.themoviedb.org/tv/258036-the-audacity",
+   "alt_urls": [
+    "https://deadline.com/2026/04/the-audacity-premiere-amc-tiktok-samsung-streaming-1236786580/"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I fear this show, like Silicon Valley and Mountainhead, might turn out to be so prescient it becomes hard to watch over time.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-11-artemis-ii-journey-to-the-moon",
+   "name": "Artemis II Journey to the Moon",
+   "url": "https://www.nasa.gov/gallery/journey-to-the-moon/",
+   "alt_urls": [
+    "https://www.nasa.gov/image-article/solar-eclipse-of-the-heart/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I cannot stop staring at the photos coming from the Artemis II crew. The photos of the Earth that show the atmosphere! The eclipse shots! Even the onboard photos of the crew are a blast. For me, though, it’s the dark side of the Moon that’s now permanently my desktop wallpaper.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-11-star-wars-maul-shadow-lord",
+   "name": "Star Wars: Maul — Shadow Lord",
+   "url": "https://www.themoviedb.org/tv/289219-maul-shadow-lord?language=en-US",
+   "alt_urls": [
+    "https://www.rottentomatoes.com/tv/star_wars_maul_shadow_lord"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "As I type this, this show has a ONE HUNDRED PERCENT score on Rotten Tomatoes . I won’t get my hopes up I won’t get my hopes up I won’t get my hopes up okay fine I cannot wait to dive into this gritty animated universe.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-11-pokemon-champions",
+   "name": "Pokémon Champions",
+   "url": "https://champions.pokemon.com/en-us/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The rap on this game so far is that it’s very fun but seems thoroughly unfinished. You might want to wait for an update or three before really diving in, but early players seem to already enjoy the basic battle systems here. So I’m optimistic.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-11-dimension-20-city-council-of-darkness",
+   "name": "Dimension 20: City Council of Darkness",
+   "url": "https://watch.dropout.tv/dimension-20/season:30",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=VlYlQoGHnng"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The D20 crew just never really seems to miss, and this season’s tabletop adventure is as bizarre and fun as ever. If the trailer alone doesn’t convince you to sign up for a Dropout subscription, well, I’ve got nothing for you.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-11-transcription",
+   "name": "Transcription",
+   "url": "https://us.macmillan.com/books/9780374618599/transcription/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I keep hearing great things about this new novel from Ben Lerner about what’s temporary and what’s permanent, what we record and what we remember, and what screens and devices do to us. I’ve been in kind of a reading rut recently, and I think this’ll get me out of it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-11-kara-swisher-wants-to-live-forever",
+   "name": "Kara Swisher Wants to Live Forever",
+   "url": "https://www.themoviedb.org/tv/318133-kara-swisher-wants-to-live-forever",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I find the whole immortality movement among tech people to be mostly pointless and silly, so I’m glad to see Kara Swisher have some fun at its expense — while trying some of the movement’s weirdest ideas on herself. Personally, I’ll stay here eating my Sun Chips, thanks.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-11-jackbox-party-essentials-on-netflix",
+   "name": "Jackbox Party Essentials on Netflix",
+   "url": "https://www.netflix.com/tudum/articles/jackbox-games-party-essentials-news",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "There was a period of the pandemic where Jackbox games formed a key part of my social life. ( Quiplash FTW!) These onscreen party games make perfect sense for Netflix, too — Jackbox stuff has always been a little expensive, but now it’s free with your subscription. Give a few of the games a whirl.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-11-obsidian-reader",
+   "name": "Obsidian Reader",
+   "url": "https://obsidian.md/clipper",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I missed this last week, but it’s worth catching up on. It doesn’t even require you to use Obsidian — it’s just the best way I’ve ever encountered to make any website more readable, highlightable, and saveable.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-11-iphone-17-pro-max",
+   "name": "iPhone 17 Pro Max",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 17 Pro Max.",
+   "section": "screen-share",
+   "recommender": "Tom"
+  },
+  {
+   "id": "2026-04-11-cascade-pack",
+   "name": "Cascade pack",
+   "url": "https://kirokustudio.co.uk/shop/cascade-wallpaper-pack/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: One of my own, from the Cascade pack (maybe my favourite we’ve ever made!).",
+   "section": "screen-share",
+   "recommender": "Tom"
+  },
+  {
+   "id": "2026-04-11-todoist",
+   "name": "Todoist",
+   "url": "https://todoist.com",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Todoist . I switched from Microsoft To Do and while it is better I think the UI is so dull. However, I like the fact you can use natural language to set tasks for “tomorrow” or “this evening” just by typing it — crazy useful.",
+   "section": "screen-share",
+   "recommender": "Tom"
+  },
+  {
+   "id": "2026-04-11-craft",
+   "name": "Craft",
+   "url": "https://www.craft.do/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Todoist . I switched from Microsoft To Do and while it is better I think the UI is so dull. However, I like the fact you can use natural language to set tasks for “tomorrow” or “this evening” just by typing it — crazy useful.",
+   "section": "screen-share",
+   "recommender": "Tom"
+  },
+  {
+   "id": "2026-04-11-resident-evil-requiem",
+   "name": "Resident Evil Requiem",
+   "url": "https://www.residentevil.com/requiem/en-us/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just completed Resident Evil Requiem , which was a blast, very much a tale of two games — one very scary and the other very silly and over the top. I’m still currently using a FIIO Echo Mini instead of Spotify for all my music when I’m travelling.",
+   "section": "screen-share",
+   "recommender": "Tom"
+  },
+  {
+   "id": "2026-04-11-fiio-echo-mini",
+   "name": "FIIO Echo Mini",
+   "url": "https://www.fiio.com/echomini",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just completed Resident Evil Requiem , which was a blast, very much a tale of two games — one very scary and the other very silly and over the top. I’m still currently using a FIIO Echo Mini instead of Spotify for all my music when I’m travelling.",
+   "section": "screen-share",
+   "recommender": "Tom"
+  },
+  {
+   "id": "2026-04-11-made-a-video",
+   "name": "made a video",
+   "url": "https://youtu.be/XaTRhWazMPs",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I just completed Resident Evil Requiem , which was a blast, very much a tale of two games — one very scary and the other very silly and over the top. I’m still currently using a FIIO Echo Mini instead of Spotify for all my music when I’m travelling.",
+   "section": "screen-share",
+   "recommender": "Tom"
+  },
+  {
+   "id": "2026-04-11-imac-g3",
+   "name": "iMac G3",
+   "url": "https://en.wikipedia.org/wiki/IMac_G3",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just completed Resident Evil Requiem , which was a blast, very much a tale of two games — one very scary and the other very silly and over the top. I’m still currently using a FIIO Echo Mini instead of Spotify for all my music when I’m travelling.",
+   "section": "screen-share",
+   "recommender": "Tom"
+  },
+  {
+   "id": "2026-04-11-mike-sunday",
+   "name": "Mike Sunday",
+   "url": "https://www.instagram.com/mike_sunday/?hl=en",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just completed Resident Evil Requiem , which was a blast, very much a tale of two games — one very scary and the other very silly and over the top. I’m still currently using a FIIO Echo Mini instead of Spotify for all my music when I’m travelling.",
+   "section": "screen-share",
+   "recommender": "Tom"
+  },
+  {
+   "id": "2026-04-11-timberborn",
+   "name": "Timberborn",
+   "url": "https://mechanistry.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m playing the heck out of Timberborn , a city builder set in a post-apocalyptic future where beavers rule the planet. It’s wonderful.",
+   "section": "crowdsourced",
+   "recommender": "Joonatan (reader)"
+  },
+  {
+   "id": "2026-04-11-the-odin-project",
+   "name": "The Odin Project",
+   "url": "https://www.theodinproject.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been learning web development from The Odin Project ! It’s a completely free and self-directed curriculum that starts with HTML, CSS, and JavaScript, then goes into backend technologies like NodeJS or Ruby on Rails. It curates free high-quality resources from around the web as well.",
+   "section": "crowdsourced",
+   "recommender": "Evancito (reader)"
+  },
+  {
+   "id": "2026-04-11-blindsight",
+   "name": "Blindsight",
+   "url": "https://us.macmillan.com/books/9781250237484/blindsight/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I re-read Blindsight , by Peter Watts. The part about the ship Rorschach and how intelligence without consciousness seems eerily similar to what AI is currently doing. Worth the re-read.",
+   "section": "crowdsourced",
+   "recommender": "Dawit (reader)"
+  },
+  {
+   "id": "2026-04-11-claude-cowork",
+   "name": "Claude Cowork",
+   "url": "https://claude.com/product/cowork",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Taught Claude Cowork to use NotePlan . It’s creating daily, weekly, and monthly notes. It’s creating notes that act as memories and referencing those notes as I drop in updates throughout the day. It‘s scheduling weekly reviews and prompting me for updates on all of my open projects.",
+   "section": "crowdsourced",
+   "recommender": "Christian (reader)"
+  },
+  {
+   "id": "2026-04-11-noteplan",
+   "name": "NotePlan",
+   "url": "https://noteplan.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Taught Claude Cowork to use NotePlan . It’s creating daily, weekly, and monthly notes. It’s creating notes that act as memories and referencing those notes as I drop in updates throughout the day. It‘s scheduling weekly reviews and prompting me for updates on all of my open projects.",
+   "section": "crowdsourced",
+   "recommender": "Christian (reader)"
+  },
+  {
+   "id": "2026-04-11-capy-reader",
+   "name": "Capy Reader",
+   "url": "https://capyreader.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m trying an RSS reader for Android named Capy Reader . It works great with Feedbin, which I use most. It’s free, no ads, and no in-app purchases. It does its job.",
+   "section": "crowdsourced",
+   "recommender": "Hansoll (reader)"
+  },
+  {
+   "id": "2026-04-11-daggerheart",
+   "name": "Daggerheart",
+   "url": "https://www.daggerheart.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been playing the TTRPG Daggerheart , from the folks at Critical Role. It has a good digital version, which works well with phones and tablets. Great system if you want more focus on storytelling, less rules and number crunching.",
+   "section": "crowdsourced",
+   "recommender": "Bobby (reader)"
+  },
+  {
+   "id": "2026-04-11-born-to-bowl",
+   "name": "Born to Bowl",
+   "url": "https://www.themoviedb.org/tv/314922-born-to-bowl",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Born to Bowl on HBO Max. Same narrator as Hard Knocks , which adds an unexpected twist to the awesomeness",
+   "section": "crowdsourced",
+   "recommender": "Brandon (reader)"
+  },
+  {
+   "id": "2026-04-11-tinystart",
+   "name": "TinyStart",
+   "url": "https://tinystart.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "TinyStart . It’s a new launcher for Mac and all it does is the basics. It’s faster than Spotlight and less overwhelming than Raycast. Perfect if all you want to do is search apps and pick emoji.",
+   "section": "crowdsourced",
+   "recommender": "Trystan (reader)"
+  },
+  {
+   "id": "2026-04-11-the-photography-behind-earthrise",
+   "name": "The photography behind Earthrise",
+   "url": "https://www.youtube.com/watch?v=B7KR1nCA4Js",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "With the attention devoted this week to the Artemis II mission, I was reminded of the video, ‘ The photography behind Earthrise ,’ from two years ago. It’s also a look at early photography by NASA astronauts.",
+   "section": "crowdsourced",
+   "recommender": "Craig (reader)"
+  },
+  {
+   "id": "2026-04-11-blue-marble",
+   "name": "Blue Marble",
+   "url": "https://en.wikipedia.org/wiki/The_Blue_Marble",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "With the attention devoted this week to the Artemis II mission, I was reminded of the video, ‘ The photography behind Earthrise ,’ from two years ago. It’s also a look at early photography by NASA astronauts.",
+   "section": "crowdsourced",
+   "recommender": "Craig (reader)"
+  },
+  {
+   "id": "2026-04-11-taskmaster-is-back",
+   "name": "Taskmaster is back",
+   "url": "https://www.youtube.com/watch?v=oRfHA2d3DhM",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Taskmaster is back ! I am obliged in this space to tell you every time Taskmaster is back, because Taskmaster is amazing and delightful and everyone should be watching it.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

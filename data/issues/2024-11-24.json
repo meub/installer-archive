@@ -1,0 +1,653 @@
+{
+ "schema": 1,
+ "date": "2024-11-24",
+ "post_type": "issue",
+ "title": "Two new tech documentaries you really need to see",
+ "url": "https://www.theverge.com/2024/11/24/24303359/surveilled-buy-now-documentaries-tech-dune-installer",
+ "author": "David Pierce",
+ "number": 61,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:36+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-11-24-venom",
+   "name": "venom",
+   "url": "https://www.nytimes.com/2024/11/13/magazine/venom-animals-drugs-ozempic.html?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I missed you all last week — thanks to everyone who told me you missed Installer , too! Warms my heart, and also makes me feel terrible for not being there, but mostly warms my heart. Let’s get back at it.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-24-deadly-car-races",
+   "name": "deadly car races",
+   "url": "https://www.essesmag.com/articles/racings-deadliest-day?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I missed you all last week — thanks to everyone who told me you missed Installer , too! Warms my heart, and also makes me feel terrible for not being there, but mostly warms my heart. Let’s get back at it.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-24-hockey-phenoms",
+   "name": "hockey phenoms",
+   "url": "https://www.chicagomag.com/chicago-magazine/december-2024/connor-bedards-no-days-off/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I missed you all last week — thanks to everyone who told me you missed Installer , too! Warms my heart, and also makes me feel terrible for not being there, but mostly warms my heart. Let’s get back at it.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-24-mac-mini",
+   "name": "Mac Mini",
+   "url": "https://www.apple.com/mac-mini/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I missed you all last week — thanks to everyone who told me you missed Installer , too! Warms my heart, and also makes me feel terrible for not being there, but mostly warms my heart. Let’s get back at it.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-24-the-day-of-the-jackal",
+   "name": "The Day of the Jackal",
+   "url": "https://www.themoviedb.org/tv/222766-the-day-of-the-jackal?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I missed you all last week — thanks to everyone who told me you missed Installer , too! Warms my heart, and also makes me feel terrible for not being there, but mostly warms my heart. Let’s get back at it.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-24-wolfs",
+   "name": "Wolfs",
+   "url": "https://www.themoviedb.org/movie/877817-wolfs?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I missed you all last week — thanks to everyone who told me you missed Installer , too! Warms my heart, and also makes me feel terrible for not being there, but mostly warms my heart. Let’s get back at it.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-24-dark-matter",
+   "name": "Dark Matter",
+   "url": "https://blakecrouch.com/books/dark-matter/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I missed you all last week — thanks to everyone who told me you missed Installer , too! Warms my heart, and also makes me feel terrible for not being there, but mostly warms my heart. Let’s get back at it.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-24-say-nothing",
+   "name": "Say Nothing",
+   "url": "https://www.penguinrandomhouse.com/books/90837/say-nothing-by-patrick-radden-keefe/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I missed you all last week — thanks to everyone who told me you missed Installer , too! Warms my heart, and also makes me feel terrible for not being there, but mostly warms my heart. Let’s get back at it.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-24-googles-gemini-app",
+   "name": "Google’s Gemini app",
+   "url": "https://gemini.google.com/app/download",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I missed you all last week — thanks to everyone who told me you missed Installer , too! Warms my heart, and also makes me feel terrible for not being there, but mostly warms my heart. Let’s get back at it.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-24-mymind",
+   "name": "MyMind",
+   "url": "https://mymind.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I missed you all last week — thanks to everyone who told me you missed Installer , too! Warms my heart, and also makes me feel terrible for not being there, but mostly warms my heart. Let’s get back at it.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-24-halt-and-catch-fire-soundtrack",
+   "name": "Halt and Catch Fire soundtrack",
+   "url": "https://open.spotify.com/album/6SREPA19KJrxIfMhijErlF",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "I missed you all last week — thanks to everyone who told me you missed Installer , too! Warms my heart, and also makes me feel terrible for not being there, but mostly warms my heart. Let’s get back at it.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-24-surveilled",
+   "name": "Surveilled",
+   "url": "https://www.themoviedb.org/movie/1369240-surveilled",
+   "alt_urls": [
+    "https://www.newyorker.com/news/news-desk/the-technology-the-trump-administration-could-use-to-hack-your-phone"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "First, read Ronan Farrow’s latest New Yorker article about how the US government could very easily hack your tech. Then watch this new doc about how this kind of thing is happening all over the world, and Farrow won’t seem so dramatic when he basically advocates hucking your phone out the window.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-24-buy-now-the-shopping-conspiracy",
+   "name": "Buy Now! The Shopping Conspiracy",
+   "url": "https://www.themoviedb.org/movie/1376704-buy-now-the-shopping-conspiracy",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This looks like it belongs in the legacy of The Great Hack and The Social Dilemma, which is to say, very alarming and somewhat overstated documentaries about how the world really works.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-24-teenage-engineerings-op-xy",
+   "name": "Teenage Engineering’s OP-XY",
+   "url": "https://teenage.engineering/store/op-xy/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The OP-1 is still Teenage Engineering’s classic and most iconic synthesizer, but this new synthesizer / sampler / sequencer looks like an even more powerful portable music maker. TE is maybe the only company that makes me wish I were a musician, just so I’d have a reason to buy this.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-24-dune-prophecy",
+   "name": "Dune: Prophecy",
+   "url": "https://www.themoviedb.org/tv/90228-dune-prophecy",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "My obsession with all things Dune is not a secret if you’ve been reading Installer for a while. So far, this super-prequel isn’t exactly fizzing with action, but it’s dramatic and big and I’m into it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-24-year-of-the-ring",
+   "name": "Year of the Ring",
+   "url": "https://www.polygon.com/24156672/polygon-book-year-of-the-ring-pre-order",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Our friends over at Polygon put together this epic tale about an epic tale: Lord of the Rings . Stories about the books, the movies, the characters, the fanfiction, and so much more. If you’re a Tolkien-head, you won’t want to miss this.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-24-queue",
+   "name": "Queue",
+   "url": "https://www.eikedrescher.com/queueapp",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A perfectly minimalist iPhone podcast app, this one. You add a show, it puts new episodes in a list, you play things from the list. The more I use it, the more I wonder why any podcast app does anything else.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-24-tokyo-override",
+   "name": "Tokyo Override",
+   "url": "https://www.themoviedb.org/tv/256324-tokyo-override",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Intense commentary about capitalism, fascism, AI, and the surveillance state, dressed up in a stylishly animated story about hackers riding motorcycles in futuristic Tokyo? Extremely into it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-24-the-amazon-echo-show-21",
+   "name": "The Amazon Echo Show 21",
+   "url": "https://www.amazon.com/dp/B0CDWWS127?&linkCode=ll1&tag=vergenewsletter-20&linkId=1c3a4127d0f2e5ef9d7e15412ae5edd3&language=en_US&tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "I’m sorry, but a 21-inch “smart display” is just a TV. But I think Amazon’s idea with these new, bigger Echo devices — which is basically to have one giant screen as the hub of your smart home — is the right one.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-24-one-billion-users",
+   "name": "One Billion Users",
+   "url": "https://www.kickstarter.com/projects/mmasnick/one-billion-users-the-social-media-card-game",
+   "alt_urls": [
+    "https://www.techdirt.com/ciagame/",
+    "https://startuptrail.engine.is/"
+   ],
+   "category": "gadget",
+   "tags": [
+    "kickstarter"
+   ],
+   "blurb": "The folks at Techdirt have a surprisingly strong hit rate for fun games. I bought their CIA card game a while back and played the heck out of Startup Trail . This one’s a card game about starting a social network, and it’ll be a hit at my Thanksgiving one of these years.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-24-the-jvc-ha-np1t-nearphones",
+   "name": "The JVC HA-NP1T “Nearphones”",
+   "url": "https://www.jvc.com/usa/headphones/true-wireless-earbuds/ha-np1t/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Another cool-looking set of open-ear headphones, which let you hear your music and the world around you. And unlike so many others, these don’t cost a fortune! A hundred bucks, in that dark green color, sounds like my kind of thing.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-24-img-0001",
+   "name": "IMG_0001",
+   "url": "https://walzr.com/IMG_0001",
+   "alt_urls": [
+    "https://ben-mini.github.io/2024/img-0416"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "A few weeks ago, Ben Wallace found a trove of videos on YouTube that had been uploaded directly from iPhones a dozen years ago or so. Riley Walz went and compiled 5 million of the videos, and they’re both incredibly mundane and often weirdly intimate?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-24-i-typically-carry-three-phones-with-me",
+   "name": "I typically carry three phones with me",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: I typically carry three phones with me... my primary SIM is in an iPhone, then I usually have the latest Samsung and Pixel for reference.",
+   "section": "screen-share",
+   "recommender": "Rich"
+  },
+  {
+   "id": "2024-11-24-backdrops",
+   "name": "Backdrops",
+   "url": "https://www.backdrops.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: My homescreen wallpaper is usually pretty boring. I don’t put a whole lot of thought into it. Sometimes I will have my kids pick something cool for me for the season, but otherwise, my wallpaper can linger for months. I always get it from the app Backdrops .",
+   "section": "screen-share",
+   "recommender": "Rich"
+  },
+  {
+   "id": "2024-11-24-youtube-music",
+   "name": "YouTube Music",
+   "url": "https://music.youtube.com/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "When it comes to my iPhone, I keep it pretty simple with just the apps that I use on a daily basis. I recently switched to YouTube Music from Spotify because it’s included in my YouTube Premium membership. I really like the supermixes that they generate.",
+   "section": "screen-share",
+   "recommender": "Rich"
+  },
+  {
+   "id": "2024-11-24-notion",
+   "name": "Notion",
+   "url": "https://www.notion.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have tried every single note-taking app in the world, and Notion actually seems to do a majority of the stuff I like. Before that, it was Obsidian, and I liked how it was sort of self-hosted, but Notion is much easier across various devices, and it just works.",
+   "section": "screen-share",
+   "recommender": "Rich"
+  },
+  {
+   "id": "2024-11-24-microsoft-to-do",
+   "name": "Microsoft To Do",
+   "url": "https://to-do.office.com/tasks/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have tried every single note-taking app in the world, and Notion actually seems to do a majority of the stuff I like. Before that, it was Obsidian, and I liked how it was sort of self-hosted, but Notion is much easier across various devices, and it just works.",
+   "section": "screen-share",
+   "recommender": "Rich"
+  },
+  {
+   "id": "2024-11-24-email-me",
+   "name": "Email Me",
+   "url": "https://apps.apple.com/us/app/quick-notes-email-me/id1090744587",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "I use my email inbox as sort of my to-do list, so all articles, random notes, and websites I want to check out later go there first, and I triage when I have time. That means I always have some sort of “email myself” app.",
+   "section": "screen-share",
+   "recommender": "Rich"
+  },
+  {
+   "id": "2024-11-24-emailme",
+   "name": "EmailMe",
+   "url": "https://play.google.com/store/apps/details?id=com.dnt_lab.emailme&hl=en_US&pli=1",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "I use my email inbox as sort of my to-do list, so all articles, random notes, and websites I want to check out later go there first, and I triage when I have time. That means I always have some sort of “email myself” app.",
+   "section": "screen-share",
+   "recommender": "Rich"
+  },
+  {
+   "id": "2024-11-24-elevenreader",
+   "name": "ElevenReader",
+   "url": "https://elevenlabs.io/text-reader",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Any time I put an article in a read-later app, I never ever get to it. I’m really trying to find a better way for that system, but I love how ElevenReader can read articles to me while I’m at the gym if I want to brush up on things before my radio show.",
+   "section": "screen-share",
+   "recommender": "Rich"
+  },
+  {
+   "id": "2024-11-24-claude",
+   "name": "Claude",
+   "url": "https://claude.ai/login?returnTo=/?",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My preferred AI is Claude . I love how it deals with more summarizations of things and the English language versus image generation and such.",
+   "section": "screen-share",
+   "recommender": "Rich"
+  },
+  {
+   "id": "2024-11-24-whisper-memos",
+   "name": "Whisper Memos",
+   "url": "https://whispermemos.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A couple of other apps that I absolutely love: one is an iOS app called Whisper Memos . It will use AI to transcribe what I say with eerie accuracy, and it will email that information to me so I can deal with it later.",
+   "section": "screen-share",
+   "recommender": "Rich"
+  },
+  {
+   "id": "2024-11-24-voicenotes",
+   "name": "Voicenotes",
+   "url": "https://voicenotes.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A couple of other apps that I absolutely love: one is an iOS app called Whisper Memos . It will use AI to transcribe what I say with eerie accuracy, and it will email that information to me so I can deal with it later.",
+   "section": "screen-share",
+   "recommender": "Rich"
+  },
+  {
+   "id": "2024-11-24-that-90s-show",
+   "name": "That ‘90s Show",
+   "url": "https://www.themoviedb.org/tv/135959-that-90s-show",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Because of my wild work schedule (I work early mornings, so I don’t have the typical downtime at night to just watch some TV), I rarely watch TV shows or movies. I mostly watch when I’m traveling — right now, I’m bingeing That ‘90s Show , which I find easy to digest and silly.",
+   "section": "screen-share",
+   "recommender": "Rich"
+  },
+  {
+   "id": "2024-11-24-teddy-wayne",
+   "name": "Teddy Wayne",
+   "url": "https://teddywayne.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Because of my wild work schedule (I work early mornings, so I don’t have the typical downtime at night to just watch some TV), I rarely watch TV shows or movies. I mostly watch when I’m traveling — right now, I’m bingeing That ‘90s Show , which I find easy to digest and silly.",
+   "section": "screen-share",
+   "recommender": "Rich"
+  },
+  {
+   "id": "2024-11-24-the-winner",
+   "name": "The Winner",
+   "url": "https://www.harpercollins.com/products/the-winner-teddy-wayne?variant=41102002946082",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Because of my wild work schedule (I work early mornings, so I don’t have the typical downtime at night to just watch some TV), I rarely watch TV shows or movies. I mostly watch when I’m traveling — right now, I’m bingeing That ‘90s Show , which I find easy to digest and silly.",
+   "section": "screen-share",
+   "recommender": "Rich"
+  },
+  {
+   "id": "2024-11-24-t-j-newman",
+   "name": "T.J. Newman",
+   "url": "https://tjnewmanauthor.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Because of my wild work schedule (I work early mornings, so I don’t have the typical downtime at night to just watch some TV), I rarely watch TV shows or movies. I mostly watch when I’m traveling — right now, I’m bingeing That ‘90s Show , which I find easy to digest and silly.",
+   "section": "screen-share",
+   "recommender": "Rich"
+  },
+  {
+   "id": "2024-11-24-techmeme-ride-home",
+   "name": "Techmeme Ride Home",
+   "url": "https://www.ridehome.info/show/techmeme-ride-home/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Because of my wild work schedule (I work early mornings, so I don’t have the typical downtime at night to just watch some TV), I rarely watch TV shows or movies. I mostly watch when I’m traveling — right now, I’m bingeing That ‘90s Show , which I find easy to digest and silly.",
+   "section": "screen-share",
+   "recommender": "Rich"
+  },
+  {
+   "id": "2024-11-24-techmeme",
+   "name": "Techmeme",
+   "url": "https://techmeme.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Because of my wild work schedule (I work early mornings, so I don’t have the typical downtime at night to just watch some TV), I rarely watch TV shows or movies. I mostly watch when I’m traveling — right now, I’m bingeing That ‘90s Show , which I find easy to digest and silly.",
+   "section": "screen-share",
+   "recommender": "Rich"
+  },
+  {
+   "id": "2024-11-24-snowfall",
+   "name": "SnowFall",
+   "url": "https://snowfallword.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A new timed crossword puzzle game called SnowFall . Love how it takes the elements of a crossword puzzle and throws them at you one at a time. Builds a little anxiety to the unlimited time of a traditional crossword. Starts easy but gets hard fast.",
+   "section": "crowdsourced",
+   "recommender": "Neal (reader)"
+  },
+  {
+   "id": "2024-11-24-silo",
+   "name": "Silo",
+   "url": "https://www.themoviedb.org/tv/125988-silo",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Deep in Apple TV Plus this past couple weeks. Silo is back, and the second season of Bad Sisters continues to be compelling TV. Small screen rules going into the holidays.",
+   "section": "crowdsourced",
+   "recommender": "Matthew (reader)"
+  },
+  {
+   "id": "2024-11-24-bad-sisters",
+   "name": "Bad Sisters",
+   "url": "https://www.themoviedb.org/tv/199318-bad-sisters",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Deep in Apple TV Plus this past couple weeks. Silo is back, and the second season of Bad Sisters continues to be compelling TV. Small screen rules going into the holidays.",
+   "section": "crowdsourced",
+   "recommender": "Matthew (reader)"
+  },
+  {
+   "id": "2024-11-24-cooked",
+   "name": "Cooked",
+   "url": "https://cooked.wiki/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Cooked has been a huge help turning my ever-growing collection of social media recipes into something actually usable.",
+   "section": "crowdsourced",
+   "recommender": "Dylan (reader)"
+  },
+  {
+   "id": "2024-11-24-thunderbird",
+   "name": "Thunderbird",
+   "url": "https://www.thunderbird.net/en-US/mobile/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I switched to Thunderbird on my Pixel device, and it is better IMO than the Gmail app. My biggest complaint with the Gmail app was not being able to see if my other accounts have emails without fully switching over to them.",
+   "section": "crowdsourced",
+   "recommender": "Sean (reader)"
+  },
+  {
+   "id": "2024-11-24-razer-wolverine",
+   "name": "Razer Wolverine",
+   "url": "https://razer.a9yw.net/c/482924/642901/10229?u=https%3A%2F%2Fwww.razer.com%2Fconsole-controllers%2Frazer-wolverine-v3-pro",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Trying to decide if I want to splurge on the new Razer Wolverine . It’s finally wireless for Xbox, but then the question becomes whether I can tolerate the software on PC. It’s been fascinating finally seeing wireless Xbox controllers from other brands.",
+   "section": "crowdsourced",
+   "recommender": "Luke (reader)"
+  },
+  {
+   "id": "2024-11-24-milo-rossi",
+   "name": "Milo Rossi",
+   "url": "https://www.youtube.com/@miniminuteman773",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Learning about the fascinating and morbid history of vampire burials with the hilarious Milo Rossi !",
+   "section": "crowdsourced",
+   "recommender": "Josh (reader)"
+  },
+  {
+   "id": "2024-11-24-sill",
+   "name": "Sill",
+   "url": "https://sill.social/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Sill , by Tyler Fisher, is a new tool that connects to your Bluesky and / or Mastodon accounts, collecting all links posted to your timeline and displaying the most popular ones in your network. It’s similar to Nuzzel for Twitter and free to use.",
+   "section": "crowdsourced",
+   "recommender": "Paulo (reader)"
+  },
+  {
+   "id": "2024-11-24-karmazoo",
+   "name": "KarmaZoo",
+   "url": "https://www.karmazoogame.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Lately, I’ve been really into KarmaZoo , a unique little multiplayer puzzle platformer that features you, as a cute little pixel animal, wordlessly teaming up with a bunch of other player-animals — each with their own special abilities — to navigate levels as a team.",
+   "section": "crowdsourced",
+   "recommender": "Dan (reader)"
+  },
+  {
+   "id": "2024-11-24-vehicle-motion-cues",
+   "name": "Vehicle Motion Cues",
+   "url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Vehicle Motion Cues on iOS to do two things: 1) Prevent motion sickness using the phone while riding in a car and 2) Remind myself that I should not use my phone while riding in a car.",
+   "section": "crowdsourced",
+   "recommender": "Johnson (reader)"
+  },
+  {
+   "id": "2024-11-24-3-in-1-chargers-from-anker",
+   "name": "3-in-1 chargers from Anker",
+   "url": "https://www.anker.com/products/a25m8-maggo-qi2-wireless-charging-station-magsafe-compatible?variant=44057193349270",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I bought a couple of these 3-in-1 chargers from Anker for traveling, and I love them so much. My fiance can never remember to bring both of his cords to charge his phone and his watch when we travel, so I’m very excited.",
+   "section": "crowdsourced",
+   "recommender": "Luke (reader)"
+  },
+  {
+   "id": "2024-11-24-interstellar-in-70mm-imax",
+   "name": "Interstellar in 70mm IMAX",
+   "url": "https://www.imax.com/movie/interstellar",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m excited that I scored tickets to see Interstellar in 70mm IMAX for its 10th anniversary. It’s one of my favorite movies of all time, and I just happen to live by one of the few theaters that can play it in 70mm. I’m pumped!",
+   "section": "crowdsourced",
+   "recommender": "Tony (reader)"
+  },
+  {
+   "id": "2024-11-24-doppler",
+   "name": "Doppler",
+   "url": "https://brushedtype.co/doppler/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been getting back into listening to music I actually own. It’s tough to find an aesthetic and useful FLAC-compatible music player on the Mac, but Doppler has been filling that role pretty well. A simple interface and Last.fm scrobbling are my favorite features.",
+   "section": "crowdsourced",
+   "recommender": "Russ (reader)"
+  },
+  {
+   "id": "2024-11-24-reeder",
+   "name": "Reeder",
+   "url": "https://reeder.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Reeder just added Bluesky account integration! Now, it has Mastodon, Bluesky, YouTube, RSS, podcasts… It is slowly becoming my first and only app open!",
+   "section": "crowdsourced",
+   "recommender": "Kelly (reader)"
+  },
+  {
+   "id": "2024-11-24-us-weekly-s-full-guide-to-the-season",
+   "name": "Us Weekly’ s full guide to the season",
+   "url": "https://www.usmagazine.com/entertainment/news/a-guide-to-every-holiday-movie-on-tv-this-2024-season/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s officially the most wonderful time of the year: Holiday Movie Season! I am almost embarrassed to explain how much I love crappy holiday movies and how excited I get when I both get to begin the rotation of the favorites ( The Holiday, Love Actually, Elf, and Home Alone are probably my Mount…",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

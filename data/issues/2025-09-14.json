@@ -1,0 +1,581 @@
+{
+ "schema": 1,
+ "date": "2025-09-14",
+ "post_type": "issue",
+ "title": "The iPhone to get this year",
+ "url": "https://www.theverge.com/installer-newsletter/777346/best-iphone-17-airpods-jeopardy-installer",
+ "author": "David Pierce",
+ "number": 97,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:39+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-09-14-entourage",
+   "name": "Entourage",
+   "url": "https://www.themoviedb.org/tv/1940-entourage?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I was going to do a whole “all the cool stuff I caught up on this summer” thing, but then it turned out I had a newborn baby, so all I had brainpower for was Entourage and Veep episodes on repeat.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-14-veep",
+   "name": "Veep",
+   "url": "https://www.themoviedb.org/tv/2947-veep?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I was going to do a whole “all the cool stuff I caught up on this summer” thing, but then it turned out I had a newborn baby, so all I had brainpower for was Entourage and Veep episodes on repeat.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-14-ai-doctors",
+   "name": "AI doctors",
+   "url": "https://restofworld.org/2025/ai-chatbot-china-sick/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I was going to do a whole “all the cool stuff I caught up on this summer” thing, but then it turned out I had a newborn baby, so all I had brainpower for was Entourage and Veep episodes on repeat.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-14-face-lift-culture",
+   "name": "face-lift culture",
+   "url": "https://www.thecut.com/article/undetectable-facelifts-trend-popularity-deep-plane-face-lift-vs-smas.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I was going to do a whole “all the cool stuff I caught up on this summer” thing, but then it turned out I had a newborn baby, so all I had brainpower for was Entourage and Veep episodes on repeat.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-14-glen-powell",
+   "name": "Glen Powell",
+   "url": "https://www.gq.com/story/glen-powell-on-what-makes-a-modern-leading-man",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I was going to do a whole “all the cool stuff I caught up on this summer” thing, but then it turned out I had a newborn baby, so all I had brainpower for was Entourage and Veep episodes on repeat.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-14-lofi-girl",
+   "name": "Lofi Girl",
+   "url": "https://www.404media.co/how-lofi-girl-became-a-chill-beats-empire/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I was going to do a whole “all the cool stuff I caught up on this summer” thing, but then it turned out I had a newborn baby, so all I had brainpower for was Entourage and Veep episodes on repeat.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-14-the-paper",
+   "name": "The Paper",
+   "url": "https://www.themoviedb.org/tv/253941-the-paper?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I was going to do a whole “all the cool stuff I caught up on this summer” thing, but then it turned out I had a newborn baby, so all I had brainpower for was Entourage and Veep episodes on repeat.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-14-nfl-retro-bowl",
+   "name": "NFL Retro Bowl",
+   "url": "https://www.newstargames.com/nfl-retro-bowl-26",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I was going to do a whole “all the cool stuff I caught up on this summer” thing, but then it turned out I had a newborn baby, so all I had brainpower for was Entourage and Veep episodes on repeat.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-14-the-engineering-inside-airpods",
+   "name": "the engineering inside AirPods",
+   "url": "https://www.youtube.com/watch?v=PB_8dGKh9JI",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I was going to do a whole “all the cool stuff I caught up on this summer” thing, but then it turned out I had a newborn baby, so all I had brainpower for was Entourage and Veep episodes on repeat.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-14-notion-ai",
+   "name": "Notion AI",
+   "url": "https://www.notion.com/product",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I was going to do a whole “all the cool stuff I caught up on this summer” thing, but then it turned out I had a newborn baby, so all I had brainpower for was Entourage and Veep episodes on repeat.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-14-craft",
+   "name": "Craft",
+   "url": "https://www.craft.do/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I was going to do a whole “all the cool stuff I caught up on this summer” thing, but then it turned out I had a newborn baby, so all I had brainpower for was Entourage and Veep episodes on repeat.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-14-the-iphone-17",
+   "name": "The iPhone 17",
+   "url": "https://www.apple.com/iphone-17/",
+   "alt_urls": [
+    "https://www.theverge.com/news/775802/apple-iphone-17-deal-compare-pro"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The Air looks great, the Pro has lots of impressive features, but for my money, the base iPhone 17 is the one to get this year . Screen upgrade, more durable, camera improvements, more storage, nice price. Other than the zoom camera, there’s not really much of a reason for people to go Pro.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-14-the-airpods-pro-3",
+   "name": "The AirPods Pro 3",
+   "url": "https://www.apple.com/airpods-pro/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The new Apple thing that I’m most excited about is actually the $250 headphones with better noise cancellation, better battery, more durability, and some useful health features. A slam-dunk upgrade to one of Apple’s best products.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-14-beats-iphone-17-pro-kickstand-case-with-magsafe",
+   "name": "Beats iPhone 17 Pro Kickstand Case with MagSafe and Camera Control",
+   "url": "https://www.apple.com/shop/product/MGTN4LL/A/beats-iphone-17-pro-kickstand-case-with-magsafe-and-camera-control-lime-stone?fnode=16b7c3651193b04a816c231847f00665e5f6eebe9f3ad70cef3da9243215e7dd68c86bbfd9bba72c73c0ace5ea8eca53f33b557ddd8468f592978687f985a1df3cfcf41114a62e1f98767ae3f362414c79335d00d5817edf370e51a57f1dfd7c",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Clunky name, clever product: an iPhone case with a lanyard that flips around and becomes a kickstand. I barely understand how this even works, but I love a way to prop my phone up on the counter.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-14-jeopardy",
+   "name": "Jeopardy!",
+   "url": "https://www.themoviedb.org/tv/2912-jeopardy",
+   "alt_urls": [
+    "https://www.peacocktv.com/watch/asset/tv/jeopardy/6362572760394042112",
+    "https://www.hulu.com/series/3ddd9f60-886c-4a43-a415-f065c2bf04c8",
+    "https://www.peacocktv.com/watch/playback/live/9061432184930959117"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Two things I’ve recently learned about Jeopardy : it is streaming new episodes as of this week, on both Peacock and Hulu , and it is absolutely A+ background television. The always-on channel is now a staple in my house.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-14-the-nikon-zr",
+   "name": "The Nikon ZR",
+   "url": "https://www.nikonusa.com/p/zr/2006/overview",
+   "alt_urls": [
+    "https://www.theverge.com/cameras/775373/nikons-first-red-co-brand-is-the-nikon-zr"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This video-centric new camera seems to be roughly what you’d expect a year and change after Nikon acquired RED: a great capture system with a massive amount of post-production flexibility. It’s not on sale until next month, though, so start putting aside the $2,200 now.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-14-the-long-walk",
+   "name": "The Long Walk",
+   "url": "https://www.themoviedb.org/movie/604079-the-long-walk?language=en-US",
+   "alt_urls": [
+    "https://www.theverge.com/movie-reviews/775654/the-long-walk-review"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Another day, another Stephen King movie. But evidently a pretty good one! It sounds like a pretty heavy evening at the theater, but with a little Hunger Games, a little Squid Game, and a bunch of good performances, I suspect it’ll be worth the trip.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-14-spotify-lossless",
+   "name": "Spotify Lossless",
+   "url": "https://newsroom.spotify.com/2025-09-10/lossless-listening-arrives-on-spotify-premium-with-a-richer-more-detailed-listening-experience/",
+   "alt_urls": [
+    "https://www.theverge.com/spotify/775189/spotify-lossless-streaming-flac-audio"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Only took most of a decade ! And at no extra cost. I think it’s great that there’s a higher-end streaming option, even though it’s not as hi-fi as some other streaming services, and I don’t think my laptop speakers are going to project much difference anyway.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-14-borderlands-4",
+   "name": "Borderlands 4",
+   "url": "https://borderlands.2k.com/borderlands-4/",
+   "alt_urls": [
+    "https://www.theverge.com/games/776148/borderlands-4-review-coop-looter-shooter-gearbox"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This might be a stupid thing to say, but I love a game that doesn’t try to be, like, thoughtful and smart and about something. Borderlands 4 makes no bones about what it is: it’s all plot, all action, no filler, no thinking involved. That’s exactly what I wanted it to be.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-14-rabbitos-2",
+   "name": "RabbitOS 2",
+   "url": "https://forum.rabbitcommunity.tech/t/rabbitos-2-is-here/15449",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I never ever thought that I’d mention Rabbit here again. And yet the new version of this device’s software is… sort of neat?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-14-right-now-ive-got-a-four-year-old-iphone-13-pro",
+   "name": "Right now, I’ve got a four-year-old iPhone 13 Pro, which means I’m looking forwa",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: Right now, I’ve got a four-year-old iPhone 13 Pro, which means I’m looking forward to upgrading this year. Once you get three to four years of mileage out of your phone, when you do finally trade up, the latest model feels absolutely heavenly, and I appreciate it more.",
+   "section": "screen-share",
+   "recommender": "Gina"
+  },
+  {
+   "id": "2025-09-14-obsidian",
+   "name": "Obsidian",
+   "url": "https://obsidian.md/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a big note-taker, and I use Obsidian , so I have an iOS shortcut called “Note.” It’s a direct link to an Obsidian note called “Inbox,” where I capture stuff to process later.",
+   "section": "screen-share",
+   "recommender": "Gina"
+  },
+  {
+   "id": "2025-09-14-lovable",
+   "name": "Lovable",
+   "url": "https://lovable.dev/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "In Health & Fitness, I’ve got a triathlon training app I vibe-coded on Lovable , driven by a personal Google Sheet. All it does is tell me one thing: whether I’m supposed to run, bike, or swim at the gym that day.",
+   "section": "screen-share",
+   "recommender": "Gina"
+  },
+  {
+   "id": "2025-09-14-the-oral-b-app",
+   "name": "The Oral-B app",
+   "url": "https://oralb.com/en-us/oral-b-app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As it turns out, I’m nearly five decades old and need a teeth-brushing coach. The Oral-B app paired with my electric toothbrush gamifies things, which works for me. It helps me get pressure and coverage right, and my full two minutes of brushing in because I won’t otherwise.",
+   "section": "screen-share",
+   "recommender": "Gina"
+  },
+  {
+   "id": "2025-09-14-superhuman",
+   "name": "Superhuman",
+   "url": "https://superhuman.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Superhuman is better than Gmail. Todoist is for deadlines. Citymapper is my favorite way to navigate New York City. Monarch is my where-does-the-money-go app. Checking ebooks out of the library with Libby brings me much joy.",
+   "section": "screen-share",
+   "recommender": "Gina"
+  },
+  {
+   "id": "2025-09-14-todoist",
+   "name": "Todoist",
+   "url": "https://www.todoist.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Superhuman is better than Gmail. Todoist is for deadlines. Citymapper is my favorite way to navigate New York City. Monarch is my where-does-the-money-go app. Checking ebooks out of the library with Libby brings me much joy.",
+   "section": "screen-share",
+   "recommender": "Gina"
+  },
+  {
+   "id": "2025-09-14-citymapper",
+   "name": "Citymapper",
+   "url": "https://citymapper.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Superhuman is better than Gmail. Todoist is for deadlines. Citymapper is my favorite way to navigate New York City. Monarch is my where-does-the-money-go app. Checking ebooks out of the library with Libby brings me much joy.",
+   "section": "screen-share",
+   "recommender": "Gina"
+  },
+  {
+   "id": "2025-09-14-monarch",
+   "name": "Monarch",
+   "url": "https://www.monarchmoney.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Superhuman is better than Gmail. Todoist is for deadlines. Citymapper is my favorite way to navigate New York City. Monarch is my where-does-the-money-go app. Checking ebooks out of the library with Libby brings me much joy.",
+   "section": "screen-share",
+   "recommender": "Gina"
+  },
+  {
+   "id": "2025-09-14-libby",
+   "name": "Libby",
+   "url": "https://libbyapp.com/interview/welcome#doYouHaveACard",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Superhuman is better than Gmail. Todoist is for deadlines. Citymapper is my favorite way to navigate New York City. Monarch is my where-does-the-money-go app. Checking ebooks out of the library with Libby brings me much joy.",
+   "section": "screen-share",
+   "recommender": "Gina"
+  },
+  {
+   "id": "2025-09-14-kpop-demon-hunters",
+   "name": "KPop Demon Hunters",
+   "url": "https://www.themoviedb.org/movie/803796-kpop-demon-hunters",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "KPop Demon Hunters ! My preteen has our whole family deep in it, and I am not mad about it.",
+   "section": "screen-share",
+   "recommender": "Gina"
+  },
+  {
+   "id": "2025-09-14-all-systems-red-the-murderbot-diaries",
+   "name": "All Systems Red: The Murderbot Diaries",
+   "url": "https://www.marthawells.com/murderbot1.htm",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "KPop Demon Hunters ! My preteen has our whole family deep in it, and I am not mad about it.",
+   "section": "screen-share",
+   "recommender": "Gina"
+  },
+  {
+   "id": "2025-09-14-the-ministry-of-time",
+   "name": "The Ministry of Time",
+   "url": "https://www.hachette.co.uk/titles/kaliane-bradley/the-ministry-of-time/9781399726344/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "KPop Demon Hunters ! My preteen has our whole family deep in it, and I am not mad about it.",
+   "section": "screen-share",
+   "recommender": "Gina"
+  },
+  {
+   "id": "2025-09-14-intermezzo",
+   "name": "Intermezzo",
+   "url": "https://www.faber.co.uk/product/9780571365494-intermezzo/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "KPop Demon Hunters ! My preteen has our whole family deep in it, and I am not mad about it.",
+   "section": "screen-share",
+   "recommender": "Gina"
+  },
+  {
+   "id": "2025-09-14-r-linkedinlunatics",
+   "name": "r/LinkedInLunatics",
+   "url": "https://www.reddit.com/r/LinkedInLunatics/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "KPop Demon Hunters ! My preteen has our whole family deep in it, and I am not mad about it.",
+   "section": "screen-share",
+   "recommender": "Gina"
+  },
+  {
+   "id": "2025-09-14-demon-slayer-the-hinomaki-chronicles",
+   "name": "Demon Slayer: The Hinomaki Chronicles",
+   "url": "https://demonslayer-hinokami.sega.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I ‘inherited’ my daughter’s Nintendo Switch and got Demon Slayer: The Hinomaki Chronicles on sale for $20. Getting myself hyped up for the movie this weekend.",
+   "section": "crowdsourced",
+   "recommender": "Michael (reader)"
+  },
+  {
+   "id": "2025-09-14-the-movie",
+   "name": "the movie",
+   "url": "https://www.themoviedb.org/tv/85937?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I ‘inherited’ my daughter’s Nintendo Switch and got Demon Slayer: The Hinomaki Chronicles on sale for $20. Getting myself hyped up for the movie this weekend.",
+   "section": "crowdsourced",
+   "recommender": "Michael (reader)"
+  },
+  {
+   "id": "2025-09-14-an-amazing-ios-shortcut",
+   "name": "an amazing iOS shortcut",
+   "url": "https://www.youtube.com/shorts/cAHXWsN8x7U",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Stephen Robles on YouTube has created an amazing iOS shortcut that can help protect your iPhone if it’s ever stolen. It sends you the location of your device along with photos from both the front and back cameras.",
+   "section": "crowdsourced",
+   "recommender": "Owen (reader)"
+  },
+  {
+   "id": "2025-09-14-frieren",
+   "name": "Frieren",
+   "url": "https://www.themoviedb.org/tv/209867?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I just started Frieren and man, the hype is warranted. I’m more of a rom-com, slice of life guy rather than fantasy, but the story is super compelling so far.",
+   "section": "crowdsourced",
+   "recommender": "Ryan (reader)"
+  },
+  {
+   "id": "2025-09-14-here-comes-the-sun-a-last-chance-for-climate-and",
+   "name": "Here Comes the Sun: A Last Chance for Climate and a Fresh Chance for Civilization",
+   "url": "https://wwnorton.com/books/Here-Comes-the-Sun/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have been thoroughly enjoying Bill McKibben’s Here Comes the Sun: A Last Chance for Climate and a Fresh Chance for Civilization .",
+   "section": "crowdsourced",
+   "recommender": "Hoto (reader)"
+  },
+  {
+   "id": "2025-09-14-2xko",
+   "name": "2XKO",
+   "url": "https://2xko.riotgames.com/en-us/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Currently checking out the beta of 2XKO , a free 2v2 tag-team fighting game set in the League of Legends universe. Appears to be great for newcomers.",
+   "section": "crowdsourced",
+   "recommender": "Daniel (reader)"
+  },
+  {
+   "id": "2025-09-14-garmin-forerunner-955",
+   "name": "Garmin Forerunner 955",
+   "url": "https://www.anrdoezrs.net/click-8836598-15205098?url=https://www.garmin.com/en-US/p/777655/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m cautiously enjoying a new feature on the Garmin Forerunner 955 . A recent software update ties in my travel plans to the watch, and I get recommendations for time zone adjustments. It gave decent suggestions when I went from the US to Italy, back to the US, then to France all within a week.",
+   "section": "crowdsourced",
+   "recommender": "Sean (reader)"
+  },
+  {
+   "id": "2025-09-14-long-story-short",
+   "name": "Long Story Short",
+   "url": "https://www.themoviedb.org/tv/262375-long-story-short",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I binged and loved Long Story Short by the creator(s) of BoJack Horseman .",
+   "section": "crowdsourced",
+   "recommender": "Tal (reader)"
+  },
+  {
+   "id": "2025-09-14-bojack-horseman",
+   "name": "BoJack Horseman",
+   "url": "https://www.themoviedb.org/tv/61222-bojack-horseman",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I binged and loved Long Story Short by the creator(s) of BoJack Horseman .",
+   "section": "crowdsourced",
+   "recommender": "Tal (reader)"
+  },
+  {
+   "id": "2025-09-14-1001-albums-generator",
+   "name": "1001 Albums Generator",
+   "url": "https://1001albumsgenerator.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "1001 Albums Generator recommends a new album every day (including weekends if you like) from the book 1001 Albums You Must Hear Before You Die . It’s a great way to listen to some of the best-regarded music and expand your listening habits beyond your music recommendation algorithm.”",
+   "section": "crowdsourced",
+   "recommender": "Sheila (reader)"
+  },
+  {
+   "id": "2025-09-14-1001-albums-you-must-hear-before-you-die",
+   "name": "1001 Albums You Must Hear Before You Die",
+   "url": "https://en.wikipedia.org/wiki/1001_Albums_You_Must_Hear_Before_You_Die",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "1001 Albums Generator recommends a new album every day (including weekends if you like) from the book 1001 Albums You Must Hear Before You Die . It’s a great way to listen to some of the best-regarded music and expand your listening habits beyond your music recommendation algorithm.”",
+   "section": "crowdsourced",
+   "recommender": "Sheila (reader)"
+  },
+  {
+   "id": "2025-09-14-alien-earth",
+   "name": "Alien: Earth",
+   "url": "https://www.themoviedb.org/tv/157239-alien-earth?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "1001 Albums Generator recommends a new album every day (including weekends if you like) from the book 1001 Albums You Must Hear Before You Die . It’s a great way to listen to some of the best-regarded music and expand your listening habits beyond your music recommendation algorithm.”",
+   "section": "crowdsourced",
+   "recommender": "Sheila (reader)"
+  },
+  {
+   "id": "2025-09-14-building-the-band",
+   "name": "Building the Band",
+   "url": "https://www.themoviedb.org/tv/261887-building-the-band?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Okay, so there is one show I watched this summer that I want to talk about, just for a second. It’s a Netflix show called Building the Band , and it is essentially American Idol meets Love is Blind meets The Circle. The premise makes no sense! It also totally works.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

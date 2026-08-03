@@ -1,0 +1,444 @@
+{
+ "schema": 1,
+ "date": "2024-02-11",
+ "post_type": "issue",
+ "title": "The hottest new(ish) thing in social networks",
+ "url": "https://www.theverge.com/2024/2/11/24067832/bluesky-gemini-ring-weather-app-icloud-installer-newsletter",
+ "author": "David Pierce",
+ "number": 25,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:36+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-02-11-mr-mrs-smith",
+   "name": "Mr. & Mrs. Smith",
+   "url": "https://www.themoviedb.org/tv/118642-mr-mrs-smith?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been watching Mr. & Mrs. Smith (which is awesome) and Argylle (which is not), reading about the tech vs. media wars , AI-created fake IDs , and multibillion-dollar arenas , debating canceling Amazon Prime , and trying out Crouton for managing recipes and grocery lists.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-argylle",
+   "name": "Argylle",
+   "url": "https://www.themoviedb.org/movie/848538-argylle?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been watching Mr. & Mrs. Smith (which is awesome) and Argylle (which is not), reading about the tech vs. media wars , AI-created fake IDs , and multibillion-dollar arenas , debating canceling Amazon Prime , and trying out Crouton for managing recipes and grocery lists.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-the-tech-vs-media-wars",
+   "name": "the tech vs. media wars",
+   "url": "https://nymag.com/intelligencer/article/kara-swisher-burn-book-excerpt-silicon-valley-media.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching Mr. & Mrs. Smith (which is awesome) and Argylle (which is not), reading about the tech vs. media wars , AI-created fake IDs , and multibillion-dollar arenas , debating canceling Amazon Prime , and trying out Crouton for managing recipes and grocery lists.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-ai-created-fake-ids",
+   "name": "AI-created fake IDs",
+   "url": "https://www.404media.co/inside-the-underground-site-where-ai-neural-networks-churns-out-fake-ids-onlyfake/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching Mr. & Mrs. Smith (which is awesome) and Argylle (which is not), reading about the tech vs. media wars , AI-created fake IDs , and multibillion-dollar arenas , debating canceling Amazon Prime , and trying out Crouton for managing recipes and grocery lists.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-multibillion-dollar-arenas",
+   "name": "multibillion-dollar arenas",
+   "url": "https://www.bloomberg.com/news/features/2024-01-29/new-la-clippers-intuit-dome-is-steve-ballmer-s-passion-project",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching Mr. & Mrs. Smith (which is awesome) and Argylle (which is not), reading about the tech vs. media wars , AI-created fake IDs , and multibillion-dollar arenas , debating canceling Amazon Prime , and trying out Crouton for managing recipes and grocery lists.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-canceling-amazon-prime",
+   "name": "canceling Amazon Prime",
+   "url": "https://www.wsj.com/tech/personal-tech/is-the-139-amazon-prime-subscription-still-worth-it-83a597c7",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching Mr. & Mrs. Smith (which is awesome) and Argylle (which is not), reading about the tech vs. media wars , AI-created fake IDs , and multibillion-dollar arenas , debating canceling Amazon Prime , and trying out Crouton for managing recipes and grocery lists.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-crouton",
+   "name": "Crouton",
+   "url": "https://crouton.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching Mr. & Mrs. Smith (which is awesome) and Argylle (which is not), reading about the tech vs. media wars , AI-created fake IDs , and multibillion-dollar arenas , debating canceling Amazon Prime , and trying out Crouton for managing recipes and grocery lists.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app/",
+   "alt_urls": [
+    "https://www.theverge.com/2024/2/6/24062837/bluesky-drops-invite-system-begins-federation-at-protocol"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The cool kids club of social media is now open to everyone ! And as every site is required to do, it promptly crashed in a bunch of big and funny ways as people poured in.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-google-gemini",
+   "name": "Google Gemini",
+   "url": "https://gemini.google.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Great news: Google heard your complaints that Installer is too heavy on iOS-only apps and released the new Gemini app exclusively on Android. (In your face, iOS.)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-why-shot-on-iphone-commercials-look-so-good",
+   "name": "Why ‘Shot On iPhone’ Commercials Look So Good!",
+   "url": "https://www.youtube.com/watch?v=yFbz1h29sE4",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Why ‘Shot On iPhone’ Commercials Look So Good! ” This video moves so fast, I had to check my settings to make sure I wasn’t accidentally on 2x.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-the-ring-battery-doorbell-pro",
+   "name": "The Ring Battery Doorbell Pro",
+   "url": "https://ring.com/video-doorbell-cameras",
+   "alt_urls": [
+    "https://www.theverge.com/2024/2/7/24063837/ring-battery-doorbell-pro-price-release-date-specs-features"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Not the cheapest Ring doorbell out there, nor the most powerful, but this does seem like the Goldilocks model — more accurate sensors, all the features you want, super easy to install. I agree with my colleague Jennifer Pattison Tuohy , though: the basic Ring look needs a redesign.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-craft",
+   "name": "Craft",
+   "url": "https://craft.do/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Craft is basically what Google Docs would be, if anyone at Google cared about making Google Docs nice to use. And this lovely little note-taking app just got a bunch of really nice collaboration features, which make it even more useful.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-icloud-for-windows",
+   "name": "iCloud for Windows",
+   "url": "https://support.apple.com/en-us/103232",
+   "alt_urls": [
+    "https://www.theverge.com/2024/2/8/24065866/apple-windows-apps-music-tv-devices-itunes"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Big week for iPhone-owning Windows users! The iCloud app got a big update , Apple Music and Apple TV are no longer in “preview” mode, and it’ll all just work better. And the best news? You basically don’t have to use iTunes ever again.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-tokyo-vice",
+   "name": "Tokyo Vice",
+   "url": "https://www.themoviedb.org/tv/90296-tokyo-vice?language=en-US",
+   "alt_urls": [
+    "https://www.wsj.com/arts-culture/television/tokyo-vice-season-2-review-max-ansel-elgort-ken-watanabe-e4c9266d"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This is such an underrated show. I didn’t really get it at first, but it has this intense, relentless energy that kept me hooked. Reviewers seem to think season 2 is even bigger and better, and I’m psyched to dive back in.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-the-weather-channel-app",
+   "name": "The Weather Channel app",
+   "url": "https://apps.apple.com/us/app/weather-the-weather-channel/id295646461",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "You know I love a weather app, and TWC’s new one is a huge upgrade: it’s much nicer-looking, has lots of alerts and personalization (I currently worry a lot about UV index, not so much about air quality), and some nice news integration. iOS-only for now, though, and I do still hate the icon.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-physical-media-strikes-back-with-tim-simons",
+   "name": "Physical Media Strikes Back With Tim Simons",
+   "url": "https://www.theringer.com/2024/2/2/24058665/physical-media-strikes-back-with-tim-simons",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "From the very good podcast The Big Picture , this is almost 90 minutes of talk about Blu-ray organization, box-set tips, what it means to own a movie, the changing entertainment industry, and much more. As the proud owner of exactly zero DVDs, this made me want to start a collection.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-mgie",
+   "name": "MGIE",
+   "url": "https://mllm-ie.github.io/",
+   "alt_urls": [
+    "https://www.theverge.com/2024/2/7/24065125/apple-generative-ai-image-editing-mgie-open-source-model"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Lest you think Apple is sitting out the generative AI revolution, here’s something cool : a model designed to make image edits just by describing them. “More blues!” “Move that thing over there!” “Make my face less bad!” Not a real product yet, but a really cool idea.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-iphone-15-pro",
+   "name": "iPhone 15 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 15 Pro.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-noteplan",
+   "name": "NotePlan",
+   "url": "https://noteplan.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My dock has the four categories of apps I use most, but the apps in there change depending on what I’m testing or pretending will make my life better.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-minical",
+   "name": "Minical",
+   "url": "https://minical.app/en/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My dock has the four categories of apps I use most, but the apps in there change depending on what I’m testing or pretending will make my life better.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-thanks-to-christopher-lawley",
+   "name": "thanks to Christopher Lawley",
+   "url": "https://www.youtube.com/watch?v=9fLepFpnfiI&t=644s",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "My dock has the four categories of apps I use most, but the apps in there change depending on what I’m testing or pretending will make my life better.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-arc-search",
+   "name": "Arc Search",
+   "url": "https://apps.apple.com/us/app/arc-search/id6472513080",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "My dock has the four categories of apps I use most, but the apps in there change depending on what I’m testing or pretending will make my life better.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-an-icon-pack-from-ruffsnap",
+   "name": "an icon pack from Ruffsnap",
+   "url": "https://ruffsnap.com/icons/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m using an icon pack from Ruffsnap , which I mostly like! It doesn’t cover every app I use, so I’ve had to repurpose some icons onto other apps; you’ll notice that is not the Day One icon, for instance.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-dakboard",
+   "name": "DAKboard",
+   "url": "https://dakboard.com/site",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If you are looking for a display that can show your calendar, I urge you to take a look at DAKboard . More than a calendar, lots of different things, and cheaper: monitor and Raspberry Pi for under $150. And it’s worth the five bucks a month — fun to build and integrates with so many other services.",
+   "section": "crowdsourced",
+   "recommender": "Doug (reader)"
+  },
+  {
+   "id": "2024-02-11-skylight",
+   "name": "Skylight",
+   "url": "https://www.skylightframe.com/products/skylight-calendar/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Skylight is amazing. For my mom. Because it’s simple. For you, get the largest 720p TV or monitor you can for your space, a Raspberry Pi, and use the DAKboard project. It will change your life.” – Jeremy (Two DAKboard recommendations! Guess what I’m doing this weekend…)",
+   "section": "crowdsourced",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-11-griselda",
+   "name": "Griselda",
+   "url": "https://www.themoviedb.org/tv/137893-griselda?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Griselda ! Like every other narc show I’ve watched but the fact that everyone is Colombian and actually speaking in Spanish adds a ton for me.",
+   "section": "crowdsourced",
+   "recommender": "Ema (reader)"
+  },
+  {
+   "id": "2024-02-11-whatsapp-channels",
+   "name": "WhatsApp Channels",
+   "url": "https://faq.whatsapp.com/549900560675125",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m late, but worth a mention on the ‘how I get my news’ topic: WhatsApp Channels ! I discovered this feature about two months ago and have used it daily since.",
+   "section": "crowdsourced",
+   "recommender": "Santiago (reader)"
+  },
+  {
+   "id": "2024-02-11-starcraft-ii",
+   "name": "StarCraft II",
+   "url": "https://starcraft2.blizzard.com/en-us/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I don’t know if this counts, but my friends and I are playing StarCraft II again. It has co-op, and we just noticed.",
+   "section": "crowdsourced",
+   "recommender": "Forrest (reader)"
+  },
+  {
+   "id": "2024-02-11-radiant",
+   "name": "Radiant",
+   "url": "https://radiant.social/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Radiant is a really nice, customizable Mastodon client for iOS. It’s free to use but has a reasonable upgrade as well. And Elk is also a great Twitter-looking web app for Mastodon.",
+   "section": "crowdsourced",
+   "recommender": "Harvey (reader)"
+  },
+  {
+   "id": "2024-02-11-elk",
+   "name": "Elk",
+   "url": "https://elk.zone/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Radiant is a really nice, customizable Mastodon client for iOS. It’s free to use but has a reasonable upgrade as well. And Elk is also a great Twitter-looking web app for Mastodon.",
+   "section": "crowdsourced",
+   "recommender": "Harvey (reader)"
+  },
+  {
+   "id": "2024-02-11-not-boring",
+   "name": "Not Boring",
+   "url": "https://www.andy.works/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "There is a series of apps that are called ‘ Not Boring .’ A set of apps that look absolutely beautiful, with wonderful graphics and amazing haptics. I especially love the Weather app because messing around with the icons is awesome.",
+   "section": "crowdsourced",
+   "recommender": "Arjun (reader)"
+  },
+  {
+   "id": "2024-02-11-weather",
+   "name": "Weather",
+   "url": "https://www.andy.works/product/weather",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "There is a series of apps that are called ‘ Not Boring .’ A set of apps that look absolutely beautiful, with wonderful graphics and amazing haptics. I especially love the Weather app because messing around with the icons is awesome.",
+   "section": "crowdsourced",
+   "recommender": "Arjun (reader)"
+  },
+  {
+   "id": "2024-02-11-analog-weekly",
+   "name": "Analog Weekly",
+   "url": "https://ugmonk.com/products/analog-weekly-kit?_kx=8TNmaPcAIgGl7a9Vno7Dd7NGTdTibLn1Jyo-FLON4mw%3D.aVinKJ&variant=42716905373846",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I received the Analog Weekly planner from Ugmonk for Christmas, and I’ve been using the heck out of it paired with a Field Notes memo book. I take meeting notes in Field Notes and put key weekly tasks / deadlines on the Analog Weekly planner.",
+   "section": "crowdsourced",
+   "recommender": "J (reader)"
+  },
+  {
+   "id": "2024-02-11-screenzen",
+   "name": "ScreenZen",
+   "url": "https://www.screenzen.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been using a free iOS app called ScreenZen to claw back control over my phone usage. Crucially, instead of just informing you about your usage at the end of your day, it helps you kill the compulsion by setting a countdown screen before you open an app.",
+   "section": "crowdsourced",
+   "recommender": "Zack (reader)"
+  },
+  {
+   "id": "2024-02-11-libby",
+   "name": "Libby",
+   "url": "https://www.overdrive.com/apps/libby",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "How about the Libby app? I’ve been using it since 2017. It’s free, one just needs a library card to use it, and I love it for the audiobooks it has.",
+   "section": "crowdsourced",
+   "recommender": "Pooja (reader)"
+  },
+  {
+   "id": "2024-02-11-get-some-celebrity-sued",
+   "name": "get some celebrity sued",
+   "url": "https://www.forbes.com/sites/ariredbord/2023/02/01/tom-brady-and-other-a-listers-fumble-ftx-endorsements-but-will-they-be-held-liable/?sh=5249d55b7d8c",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "And here’s a fun game to play: when you watch the ads, try to figure out which one will get some celebrity sued the way all those crypto ads did a couple of years ago. Who’s going to court over an AI ad this year? I have some guesses.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

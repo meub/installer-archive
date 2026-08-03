@@ -1,0 +1,386 @@
+{
+ "schema": 1,
+ "date": "2024-02-25",
+ "post_type": "issue",
+ "title": "The ultra-complex card game that will take over your weekend",
+ "url": "https://www.theverge.com/24081130/balatro-fujifilm-x100vi-drive-to-survive-twitter-books-installer",
+ "author": "David Pierce",
+ "number": 27,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:37+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-02-25-assassins-creed-nexus",
+   "name": "Assassin’s Creed Nexus",
+   "url": "https://www.ubisoft.com/en-us/game/assassins-creed/nexus-vr",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been playing Assassin’s Creed Nexus on the Quest 3, reading about obsessive ramen makers and Noah Kahan’s journey to TikTok superstardom , finally watching Dune so I can be ready to see the sequel, also finally watching Patriot , and trying desperately to learn to make crispy…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-25-obsessive-ramen-makers",
+   "name": "obsessive ramen makers",
+   "url": "https://www.chicagomag.com/chicago-magazine/march-2024/the-ramen-lord/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been playing Assassin’s Creed Nexus on the Quest 3, reading about obsessive ramen makers and Noah Kahan’s journey to TikTok superstardom , finally watching Dune so I can be ready to see the sequel, also finally watching Patriot , and trying desperately to learn to make crispy…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-25-noah-kahans-journey-to-tiktok-superstardom",
+   "name": "Noah Kahan’s journey to TikTok superstardom",
+   "url": "https://www.newyorker.com/magazine/2024/02/26/stick-season-forever-noah-kahan-music-review",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been playing Assassin’s Creed Nexus on the Quest 3, reading about obsessive ramen makers and Noah Kahan’s journey to TikTok superstardom , finally watching Dune so I can be ready to see the sequel, also finally watching Patriot , and trying desperately to learn to make crispy…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-25-dune",
+   "name": "Dune",
+   "url": "https://www.themoviedb.org/movie/693134-dune-part-two?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been playing Assassin’s Creed Nexus on the Quest 3, reading about obsessive ramen makers and Noah Kahan’s journey to TikTok superstardom , finally watching Dune so I can be ready to see the sequel, also finally watching Patriot , and trying desperately to learn to make crispy…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-25-patriot",
+   "name": "Patriot",
+   "url": "https://www.themoviedb.org/tv/64396-patriot?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been playing Assassin’s Creed Nexus on the Quest 3, reading about obsessive ramen makers and Noah Kahan’s journey to TikTok superstardom , finally watching Dune so I can be ready to see the sequel, also finally watching Patriot , and trying desperately to learn to make crispy…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-25-balatro",
+   "name": "Balatro",
+   "url": "https://www.playbalatro.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Roughly two-thirds of the internet appears to be into this game right now: a poker roguelike game in which you use special cards to upgrade your hands and build your deck to solve puzzles. It’s complex and delightful.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-25-the-fujifilm-x100vi",
+   "name": "The Fujifilm X100VI",
+   "url": "https://fujifilm-x.com/en-us/products/cameras/x100vi",
+   "alt_urls": [
+    "https://www.theverge.com/2024/2/20/24075147/fujifilm-x100vi-camera-announced-features-price"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The sequel to the internet’s favorite camera is here, and it is gorgeous. (Obviously.) The big news this year seems to be that you might actually be able to get your hands on one — and the early reviews seem to say it’s as good and fun as ever.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-25-elle-cordova",
+   "name": "Elle Cordova",
+   "url": "https://www.tiktok.com/@elle.cordova",
+   "alt_urls": [
+    "https://www.youtube.com/shorts/NHat7IaZ488",
+    "https://www.tiktok.com/@elle.cordova/video/7327418230866201899"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I have sent Cordova’s “ Inventions hanging out ” video to approximately half the people I know this week. You might have seen their “ Fonts hanging out ” series, too. This is my kind of comedy.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-25-the-amazon-echo-hub",
+   "name": "The Amazon Echo Hub",
+   "url": "https://www.amazon.com/Echo-Hub/dp/B0BCR7M9KX?&linkCode=ll1&tag=theverge02-20&linkId=695bade150117e67e011cfbfd3717475&language=en_US&tag=theverge02-20",
+   "alt_urls": [
+    "https://www.theverge.com/24078558/echo-hub-review-alexa-amazon-smart-control-panel"
+   ],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "It’s so telling to me that this even needs to exist: a $180 dedicated device for controlling all the stuff in your smart home that doesn’t require you to constantly unlock your phone or yell at a voice assistant. Buttons! Single-purpose devices! You love to see it!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-25-butterdocs",
+   "name": "ButterDocs",
+   "url": "https://www.butterdocs.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am so into this: a Google Docs-like collaborative writing app that also has a bunch of really useful outlining and notes-app-style features like backlinking? Yes please. $100 per user per year is… a lot, but there are some really cool ideas in this app.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-25-formula-1-drive-to-survive-season-6",
+   "name": "Formula 1: Drive to Survive season 6",
+   "url": "https://www.themoviedb.org/tv/87083-formula-1-drive-to-survive",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "If you like racing, you already watch this show. But even if you don’t care about F1 or cars or racing, the sheer human drama here is just spectacular (and at least… mostly real). And if you watch it and get super into F1 like I did, hit me up. Let’s talk McLaren.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-25-battle-for-the-bird",
+   "name": "Battle for the Bird",
+   "url": "https://www.simonandschuster.com/books/Battle-for-the-Bird/Kurt-Wagner/9781668017357",
+   "alt_urls": [
+    "https://www.penguinrandomhouse.com/books/741192/extremely-hardcore-by-zoe-schiffer/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "More Twitter books! This one is a great companion to Zoë Schiffer’s Extremely Hardcore . Kurt Wagner has tons of Elon Musk drama, of course, but also spends a lot of time on the pre-Musk era at Twitter, particularly Jack Dorsey’s deeply weird leadership style and legacy.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-25-share-spatial-everything",
+   "name": "Share Spatial Everything",
+   "url": "https://sharespatialeverything.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A crowdsourced database of spatial video and panoramas to give Vision Pro and Quest 3 users cool stuff to watch and look at. It’s like scrolling through a travel-heavy Instagram feed, but all the pictures are humongous.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-25-sonos-co-founder-john-macfarlane-on-how-i-built",
+   "name": "Sonos co-founder John MacFarlane on How I Built This",
+   "url": "https://wondery.com/shows/how-i-built-this/episode/10386-sonos-john-macfarlane/",
+   "alt_urls": [
+    "https://wondery.com/shows/how-i-built-this/episode/10386-the-peril-and-promise-of-ai-with-tristan-harris-part-1/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Sonos is such a weird company — it’s based in a beachy town in California, has resisted so many of the normal trappings of tech companies, and just kept chugging along. But there’s still a ton of drama, a lot of it unresolved, in this story. (I’m also digging HIBT ’s new AI series so far.)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-25-signal-usernames",
+   "name": "Signal usernames",
+   "url": "https://signal.org/blog/phone-number-privacy-usernames/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Signal is trying to move past the phone number, because phone numbers are both incredibly useful and incredibly problematic things to use as usernames. You have to download the beta to get a username for now, but you should! And hit me up: I’m davidpierce.11.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-25-iphone-15-pro",
+   "name": "iPhone 15 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 15 Pro.",
+   "section": "screen-share",
+   "recommender": "Francesco"
+  },
+  {
+   "id": "2024-02-25-huckleberry",
+   "name": "Huckleberry",
+   "url": "https://huckleberrycare.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Huckleberry is a genius app my wife and I use to manage our 6-month-old — we used it with our now four-year-old to manage sleep, nap predictions, feeding patterns. As new parents, we were tired and shared the load, so it was nice not having to wake each other up each time we do feeds, etc.",
+   "section": "screen-share",
+   "recommender": "Francesco"
+  },
+  {
+   "id": "2024-02-25-whoop",
+   "name": "Whoop",
+   "url": "https://shareasale.com/r.cfm?b=1627374&u=1225169&m=101649&urllink=&afftrack=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Huckleberry is a genius app my wife and I use to manage our 6-month-old — we used it with our now four-year-old to manage sleep, nap predictions, feeding patterns. As new parents, we were tired and shared the load, so it was nice not having to wake each other up each time we do feeds, etc.",
+   "section": "screen-share",
+   "recommender": "Francesco"
+  },
+  {
+   "id": "2024-02-25-todoist",
+   "name": "Todoist",
+   "url": "https://todoist.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Huckleberry is a genius app my wife and I use to manage our 6-month-old — we used it with our now four-year-old to manage sleep, nap predictions, feeding patterns. As new parents, we were tired and shared the load, so it was nice not having to wake each other up each time we do feeds, etc.",
+   "section": "screen-share",
+   "recommender": "Francesco"
+  },
+  {
+   "id": "2024-02-25-the-money-lab",
+   "name": "The Money Lab",
+   "url": "https://www.moneylab.co/podcast/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Money Lab . Love this podcast. Matt [Giovanisci] is back with talking about his business and the business of marketing. Very interesting. Models of Ferraris. I started a collection of model Ferrari F1 cars from over the years, some from the 1950s to 1980s. I’ve started to get a nice collection.",
+   "section": "screen-share",
+   "recommender": "Francesco"
+  },
+  {
+   "id": "2024-02-25-pocket-card-jockey",
+   "name": "Pocket Card Jockey",
+   "url": "https://www.gamefreak.co.jp/rideon/en/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Pocket Card Jockey on the Nintendo Switch is one of the best versions of solitaire.",
+   "section": "crowdsourced",
+   "recommender": "Steve (reader)"
+  },
+  {
+   "id": "2024-02-25-a-deep-dive-podcast",
+   "name": "a deep dive podcast",
+   "url": "https://99percentinvisible.org/episode/breaking-down-the-power-broker/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "99% Invisible has a deep dive podcast on The Power Broker with a new episode out each month. It’s a biography on Robert Moses, ‘the man who built New York,’ doubling as an interesting look into why the city is as it is. The intro episode features Conan O’Brien.",
+   "section": "crowdsourced",
+   "recommender": "David (reader)"
+  },
+  {
+   "id": "2024-02-25-its-literally-just-mowing",
+   "name": "It’s Literally Just Mowing",
+   "url": "https://protostargames.com/just-mowing/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am coming up on my 600th consecutive day where I play a round or two of It’s Literally Just Mowing . Yes, I am in my 50s.",
+   "section": "crowdsourced",
+   "recommender": "Jeff (reader)"
+  },
+  {
+   "id": "2024-02-25-street-fighter-6",
+   "name": "Street Fighter 6",
+   "url": "https://www.streetfighter.com/6/en-us",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Street Fighter 6 is on sale, and I bought it because it has a new control scheme that feels more like Smash Bros. with standardized movesets so you don’t have to learn individual combos.",
+   "section": "crowdsourced",
+   "recommender": "Ian (reader)"
+  },
+  {
+   "id": "2024-02-25-borderlands",
+   "name": "Borderlands",
+   "url": "https://www.youtube.com/watch?v=kgj7xBc3n-0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "That Borderlands trailer…",
+   "section": "crowdsourced",
+   "recommender": "Matt (reader)"
+  },
+  {
+   "id": "2024-02-25-fruit-ninja",
+   "name": "Fruit Ninja",
+   "url": "https://www.halfbrick.com/games/fruit-ninja-classic",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Been going old school lately with Fruit Ninja . The difference between the free version on my kid’s Fire tablet and the Classic Plus version in Apple Arcade is amazingly stark. No ads, no pushing in-game currency, nothing but PLAYING THE GAME. REVOLUTIONARY.",
+   "section": "crowdsourced",
+   "recommender": "Martin (reader)"
+  },
+  {
+   "id": "2024-02-25-vivomove-trend",
+   "name": "Vivomove Trend",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://www.garmin.com/en-US/p/785411/pn/010-02665-02/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week on the pod, you made a comment about smart watches only ever being a giant computer on your wrist — which I completely agree with. Although Garmin has one (the Vivomove Trend ) in their current lineup that looks really nice! I really like how they integrate the LCD with the watch.",
+   "section": "crowdsourced",
+   "recommender": "Daniel (reader)"
+  },
+  {
+   "id": "2024-02-25-the-1-club",
+   "name": "The 1% Club",
+   "url": "https://www.themoviedb.org/tv/197259-the-1-club?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "A new season of a UK quiz show called The 1% Club started up, and it tests your logic skills with puzzles and abstract thinking. Really fun show!",
+   "section": "crowdsourced",
+   "recommender": "Bob (reader)"
+  },
+  {
+   "id": "2024-02-25-final-fantasy-vii-remake",
+   "name": "Final Fantasy VII remake",
+   "url": "https://ffvii-remake-intergrade.square-enix-games.com/en-us/?_gl=1*vj4m4b*_gcl_au*mtc5mdkwnjaxms4xnza4njk5njqz",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Everyone has a week to play (or replay) the Final Fantasy VII remake before the new one comes out.",
+   "section": "crowdsourced",
+   "recommender": "Andrew (reader)"
+  },
+  {
+   "id": "2024-02-25-apple-sports",
+   "name": "Apple Sports",
+   "url": "https://apps.apple.com/us/app/apple-sports/id6446788829",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Apple launched a new app, Apple Sports , this week, which I find completely fascinating. It’s either a simple thing with a good idea — just tell me the score of the game and let me move on with my life — or a signal that Apple is ready to get really deep into the sports world.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-25-plain-text-sports",
+   "name": "Plain Text Sports",
+   "url": "https://plaintextsports.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Right now, though, Apple Sports is missing a lot of stuff. Which gives me a good excuse to tell you about my favorite “just tell me the score” thing: Plain Text Sports . It is ultra-simple, blisteringly fast, shows scores and stats from all over, and leaves you alone.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

@@ -1,0 +1,505 @@
+{
+ "schema": 1,
+ "date": "2025-07-27",
+ "post_type": "issue",
+ "title": "Apple beta season is here",
+ "url": "https://www.theverge.com/installer-newsletter/714227/apple-ios-26-beta-retro95-pc-phone-cases-ddr-installer",
+ "author": "Jay Peters",
+ "number": 91,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "the-case-conundrum",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:39+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-07-27-byds-leaping-yangwang-u9-supercar",
+   "name": "BYD’s leaping Yangwang U9 supercar",
+   "url": "https://www.youtube.com/watch?feature=shared&v=-QJYSkq8KVA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’m pondering the leaked Pixel 10 lineup , marveling at BYD’s leaping Yangwang U9 supercar , reading about why everyone’s reading Reddit , already looking forward to Ted Lasso ’s fourth season , rewatching MKBHD’s videos about the Escobar folding phone , melting with joy at the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-27-reading-reddit",
+   "name": "reading Reddit",
+   "url": "https://nymag.com/intelligencer/article/why-you-are-reading-reddit-a-lot-more-these-days.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’m pondering the leaked Pixel 10 lineup , marveling at BYD’s leaping Yangwang U9 supercar , reading about why everyone’s reading Reddit , already looking forward to Ted Lasso ’s fourth season , rewatching MKBHD’s videos about the Escobar folding phone , melting with joy at the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-27-ted-lasso-s-fourth-season",
+   "name": "Ted Lasso ’s fourth season",
+   "url": "https://www.youtube.com/watch?v=ugSHczUhrHM",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’m pondering the leaked Pixel 10 lineup , marveling at BYD’s leaping Yangwang U9 supercar , reading about why everyone’s reading Reddit , already looking forward to Ted Lasso ’s fourth season , rewatching MKBHD’s videos about the Escobar folding phone , melting with joy at the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-27-escobar",
+   "name": "Escobar",
+   "url": "https://www.youtube.com/watch?v=O8FJSjy3bXA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’m pondering the leaked Pixel 10 lineup , marveling at BYD’s leaping Yangwang U9 supercar , reading about why everyone’s reading Reddit , already looking forward to Ted Lasso ’s fourth season , rewatching MKBHD’s videos about the Escobar folding phone , melting with joy at the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-27-folding-phone",
+   "name": "folding phone",
+   "url": "https://youtu.be/_9prH7NFmLI?feature=shared",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’m pondering the leaked Pixel 10 lineup , marveling at BYD’s leaping Yangwang U9 supercar , reading about why everyone’s reading Reddit , already looking forward to Ted Lasso ’s fourth season , rewatching MKBHD’s videos about the Escobar folding phone , melting with joy at the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-27-pokemon-concierge-season-2-trailer",
+   "name": "Pokémon Concierge season 2 trailer",
+   "url": "https://youtu.be/AzL8NUUgwdc?feature=shared",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’m pondering the leaked Pixel 10 lineup , marveling at BYD’s leaping Yangwang U9 supercar , reading about why everyone’s reading Reddit , already looking forward to Ted Lasso ’s fourth season , rewatching MKBHD’s videos about the Escobar folding phone , melting with joy at the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-27-lego-game-boy",
+   "name": "Lego Game Boy",
+   "url": "https://www.lego.com/en-us/product/game-boy-72046",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’m pondering the leaked Pixel 10 lineup , marveling at BYD’s leaping Yangwang U9 supercar , reading about why everyone’s reading Reddit , already looking forward to Ted Lasso ’s fourth season , rewatching MKBHD’s videos about the Escobar folding phone , melting with joy at the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-27-lucius-recently-released-self-titled-album",
+   "name": "Lucius’ recently released self-titled album",
+   "url": "https://ilovelucius.store/music/lucius-cd-45920",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’m pondering the leaked Pixel 10 lineup , marveling at BYD’s leaping Yangwang U9 supercar , reading about why everyone’s reading Reddit , already looking forward to Ted Lasso ’s fourth season , rewatching MKBHD’s videos about the Escobar folding phone , melting with joy at the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-27-apples-public-betas",
+   "name": "Apple’s public betas",
+   "url": "https://apple.sjv.io/qzvEBL",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Public betas for iOS 26, iPadOS 26, macOS Tahoe 26, watchOS 26, and tvOS 26 are available now, giving you a chance to see Apple’s Liquid Glass design language in action before the updates are released widely this fall.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-27-maingears-retro95-pc",
+   "name": "Maingear’s Retro95 PC",
+   "url": "https://maingear.com/collections/retro95",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This limited release puts a retro shell over modern PC components. Anyone have $1,599 (or more) they can lend me?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-27-applecare-one",
+   "name": "AppleCare One",
+   "url": "https://apple.sjv.io/kOvaNN",
+   "alt_urls": [
+    "https://www.theverge.com/tech/712429/applecare-one-warranty-play-cost-versus-plus-plan-analysis"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This new $19.99-per-month subscription from Apple lets you cover up to three devices at once with the same benefits you’d get with individual AppleCare Plus subscriptions. You can add more devices for $5.99 per month each.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-27-the-fantastic-four-first-steps",
+   "name": "The Fantastic Four: First Steps",
+   "url": "https://www.themoviedb.org/movie/617126-the-fantastic-four-first-steps?language=en-US",
+   "alt_urls": [
+    "https://www.theverge.com/movie-reviews/711370/fantastic-four-first-steps-review-marvel",
+    "https://www.youtube.com/watch?v=VXo5V5VJAQ4"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "It’s Marvel’s turn to release a superhero movie with some pretty high stakes for the company that makes it — and like DC and Superman , Marvel appears to have mostly pulled it off . As a huge Michael Giacchino fan, about half the reason I want to see this movie is for the score .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-27-amazons-kindle-colorsoft-16gb",
+   "name": "Amazon’s Kindle Colorsoft (16GB)",
+   "url": "https://amzn.to/40xhlpi",
+   "alt_urls": [
+    "https://amzn.to/4kTwqIT"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This new version of Amazon’s color Kindle comes with half the storage and is missing a few perks from the Kindle Colorsoft Signature Edition , but at $249.99, it’s $30 cheaper than last year’s model.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-27-roomba-max-705-combo",
+   "name": "Roomba Max 705 Combo",
+   "url": "https://media.irobot.com/2025-07-22-iRobot-Launches-Roomba-R-Max-705-Combo-Robot-AutoWash-TM-Dock-The-Companys-Most-Advanced-2-in-1-Cleaning-System",
+   "alt_urls": [
+    "https://www.theverge.com/news/712966/irobot-roomba-max-705-combo-roller-mop-carpet-cover"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This new combo robot vacuum from iRobot has a “first-of-its-kind roller mop cover that keeps carpets dry.” If that cover actually works, it seems like this could be a great dual-purpose robovacuum.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-27-wheel-world",
+   "name": "Wheel World",
+   "url": "https://annapurnainteractive.com/en/games/wheel-world",
+   "alt_urls": [
+    "https://www.theverge.com/games-review/711680/wheel-world-review-ps5-xbox-steam"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s a cycling-themed open-world adventure game from Annapurna Interactive and the developers of Nidhogg . That sounds like a winning combo to me, and it might just be the feel-good game of the summer .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-27-acapulco-season-4",
+   "name": "Acapulco season 4",
+   "url": "https://apple.sjv.io/K0GqWx",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I watched the first two seasons of this Apple TV Plus series set at a resort in Mexico and loved them — the show is funny and heartwarming. Like Ted Lasso , it can be a little saccharine, but I think we should all watch some lighter TV every once in a while. Might be time for me to catch up.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-27-this-slim-torras-case",
+   "name": "this slim Torras case",
+   "url": "https://amzn.to/4f7LK3x",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As for my own decision? Well, I haven’t reached one yet, and honestly, I may never pick one lane. Typically, my iPhone 16 Pro lives in this slim Torras case , but as I write this, it’s sitting on top of the case, not in it. Will I put the case on before I walk out the door? We’ll see!",
+   "section": "the-case-conundrum",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-27-magnetic-back-from-nomad",
+   "name": "magnetic back from Nomad",
+   "url": "https://www.kqzyfj.com/click-8836598-14527713?url=https%3A%2F%2Fnomadgoods.com%2Fproducts%2Fmagnetic-leather-back-rustic-brown-horween-iphone-16-pro",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“I, too, felt the urge to go caseless. I’m pretty careful with my electronics, so I still didn’t love the idea of setting my phone down on tables and things alike. I got the magnetic back from Nomad , and it has felt like the perfect meet-in-the-middle accessory for me!",
+   "section": "the-case-conundrum",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-27-peak-design-gnar-case",
+   "name": "Peak Design GNAR case",
+   "url": "https://www.peakdesign.com/products/gnar-case-for-iphone-16",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“I have the Peak Design GNAR case . Saw some complaints online about the protection being too minimal for the front of the phone, but it’s been solid for me. Does well being outdoors (I run outside all the time). I’m rocking no screen protector.” – airwr3ck6669",
+   "section": "the-case-conundrum",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-27-razer-kishi-controller",
+   "name": "Razer Kishi controller",
+   "url": "https://razer.a9yw.net/kOvabN",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“I never used cases until I got my current phone ( Pixel 6A ) because the Razer Kishi controller I used no longer fit snuggly around it, so I found a case that allowed it to fit again.",
+   "section": "the-case-conundrum",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-27-google-pixel-6",
+   "name": "Google Pixel 6",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: Google Pixel 6 . Like Molly last week, I’m an “until the wheels fall off” type of person when it comes to my personal phone, though I use an iPhone 15 Pro for work.",
+   "section": "screen-share",
+   "recommender": "Keith"
+  },
+  {
+   "id": "2025-07-27-new-wet-leg-album",
+   "name": "new Wet Leg album",
+   "url": "https://storeus.wetlegband.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Music-wise, I’ve been listening to a lot of Oasis on Spotify lately. I was one of the lucky 2 percent who managed to snag tickets for their current run of shows, and I’ve been riding the high ever since their homecoming gig in Manchester on Sunday (the 20th).",
+   "section": "screen-share",
+   "recommender": "Keith"
+  },
+  {
+   "id": "2025-07-27-the-last-dinner-party",
+   "name": "The Last Dinner Party",
+   "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "Music-wise, I’ve been listening to a lot of Oasis on Spotify lately. I was one of the lucky 2 percent who managed to snag tickets for their current run of shows, and I’ve been riding the high ever since their homecoming gig in Manchester on Sunday (the 20th).",
+   "section": "screen-share",
+   "recommender": "Keith"
+  },
+  {
+   "id": "2025-07-27-nine-inch-nails",
+   "name": "Nine Inch Nails",
+   "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "Music-wise, I’ve been listening to a lot of Oasis on Spotify lately. I was one of the lucky 2 percent who managed to snag tickets for their current run of shows, and I’ve been riding the high ever since their homecoming gig in Manchester on Sunday (the 20th).",
+   "section": "screen-share",
+   "recommender": "Keith"
+  },
+  {
+   "id": "2025-07-27-final-fantasy-pixel-remasters",
+   "name": "Final Fantasy Pixel Remasters",
+   "url": "https://finalfantasypixelremaster.square-enix-games.com/en_US/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Music-wise, I’ve been listening to a lot of Oasis on Spotify lately. I was one of the lucky 2 percent who managed to snag tickets for their current run of shows, and I’ve been riding the high ever since their homecoming gig in Manchester on Sunday (the 20th).",
+   "section": "screen-share",
+   "recommender": "Keith"
+  },
+  {
+   "id": "2025-07-27-theblack-lodge",
+   "name": "@theblack.lodge",
+   "url": "https://www.instagram.com/theblack.lodge",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Music-wise, I’ve been listening to a lot of Oasis on Spotify lately. I was one of the lucky 2 percent who managed to snag tickets for their current run of shows, and I’ve been riding the high ever since their homecoming gig in Manchester on Sunday (the 20th).",
+   "section": "screen-share",
+   "recommender": "Keith"
+  },
+  {
+   "id": "2025-07-27-algospeak-how-social-media-is-transforming-the-f",
+   "name": "Algospeak: How Social Media Is Transforming the Future of Language",
+   "url": "https://www.penguinrandomhouse.com/books/776856/algospeak-by-adam-aleksic/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Music-wise, I’ve been listening to a lot of Oasis on Spotify lately. I was one of the lucky 2 percent who managed to snag tickets for their current run of shows, and I’ve been riding the high ever since their homecoming gig in Manchester on Sunday (the 20th).",
+   "section": "screen-share",
+   "recommender": "Keith"
+  },
+  {
+   "id": "2025-07-27-face-with-tears-of-joy-a-natural-history-of-emoj",
+   "name": "Face with Tears of Joy: A Natural History of Emoji",
+   "url": "https://wwnorton.com/books/9781324075158",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Music-wise, I’ve been listening to a lot of Oasis on Spotify lately. I was one of the lucky 2 percent who managed to snag tickets for their current run of shows, and I’ve been riding the high ever since their homecoming gig in Manchester on Sunday (the 20th).",
+   "section": "screen-share",
+   "recommender": "Keith"
+  },
+  {
+   "id": "2025-07-27-emojitracker-com",
+   "name": "Emojitracker.com",
+   "url": "http://emojitracker.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Music-wise, I’ve been listening to a lot of Oasis on Spotify lately. I was one of the lucky 2 percent who managed to snag tickets for their current run of shows, and I’ve been riding the high ever since their homecoming gig in Manchester on Sunday (the 20th).",
+   "section": "screen-share",
+   "recommender": "Keith"
+  },
+  {
+   "id": "2025-07-27-outplay",
+   "name": "Outplay",
+   "url": "https://coloursoftware.com/projects/outplay/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I use Outplay on my Apple Watch to track the soccer matches I play. It shows a heat map of my movement during a match and has metrics specific to playing soccer like sprints. It works better for me than using the built-in Apple Workout app or Strava .",
+   "section": "crowdsourced",
+   "recommender": "Harry Tequila (reader)"
+  },
+  {
+   "id": "2025-07-27-cyberpunk-2077",
+   "name": "Cyberpunk 2077",
+   "url": "https://www.cyberpunk.net/us/en/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Been playing the macOS version of Cyberpunk 2077 on a base M4 Mac Mini . I am impressed with the game and graphic quality of this version. Just hoping this is the start for more Mac-native versions of A & S tier games.",
+   "section": "crowdsourced",
+   "recommender": "penguinchiller (reader)"
+  },
+  {
+   "id": "2025-07-27-clair-obscur-expedition-33",
+   "name": "Clair Obscur: Expedition 33",
+   "url": "https://www.sandfall.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just completed the (not so) Endless Tower in Clair Obscur: Expedition 33 and beat Clea... on an MSI Claw 8 with an Intel chip! Didn’t expect that after panning the first Claw. It’s the only handheld I’ve really enjoyed this game on so far!",
+   "section": "crowdsourced",
+   "recommender": "Sean (reader)"
+  },
+  {
+   "id": "2025-07-27-msi-claw-8",
+   "name": "MSI Claw 8",
+   "url": "https://www.msi.com/Handhelds/Claw-8-AI-Plus-A2VMX",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just completed the (not so) Endless Tower in Clair Obscur: Expedition 33 and beat Clea... on an MSI Claw 8 with an Intel chip! Didn’t expect that after panning the first Claw. It’s the only handheld I’ve really enjoyed this game on so far!",
+   "section": "crowdsourced",
+   "recommender": "Sean (reader)"
+  },
+  {
+   "id": "2025-07-27-the-twos-app",
+   "name": "the Twos app",
+   "url": "https://www.twosapp.com/home",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve become obsessed with the Twos app and using it constantly. Highly recommend!",
+   "section": "crowdsourced",
+   "recommender": "Rich (reader)"
+  },
+  {
+   "id": "2025-07-27-returnal",
+   "name": "Returnal",
+   "url": "https://housemarque.com/games/returnal",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After steadfastly avoiding it because of its difficulty, I recently purchased and have been dying over and over again in Returnal . The environment really does feel like a hostile alien planet, and with headphones it feels like I can hear every drop of rain. And yeah, it’s really difficult.",
+   "section": "crowdsourced",
+   "recommender": "Aram (reader)"
+  },
+  {
+   "id": "2025-07-27-lushfoil-photography-sim",
+   "name": "Lushfoil Photography Sim",
+   "url": "https://annapurnainteractive.com/en/games/lushfoil-photography-sim",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Been playing Lushfoil Photography Sim and it is so relaxing and lovely.",
+   "section": "crowdsourced",
+   "recommender": "Allison (reader)"
+  },
+  {
+   "id": "2025-07-27-citynerd-on-youtube",
+   "name": "CityNerd on YouTube",
+   "url": "https://www.youtube.com/@citynerd",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’ve been binging CityNerd on YouTube . The channel discusses cities, transportation, urban design, walkability, etc. Good stuff.",
+   "section": "crowdsourced",
+   "recommender": "low_light_mixes (reader)"
+  },
+  {
+   "id": "2025-07-27-butterfly-anyone",
+   "name": "“Butterfly,” anyone?",
+   "url": "https://www.youtube.com/watch?v=N8zdf8rbtEU",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Last week, I included a tidbit from a reader who has been playing Dance Dance Revolution recently. As someone who played a lot of DDR when I was a kid ( “Butterfly,” anyone? ), I was curious to learn more about how he does it.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-27-a-starter-guide-on-reddit",
+   "name": "a starter guide on Reddit",
+   "url": "https://www.reddit.com/r/DanceDanceRevolution/comments/1i16xfk/how_to_get_started_with_ddritg_in_2024_the/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Last week, I included a tidbit from a reader who has been playing Dance Dance Revolution recently. As someone who played a lot of DDR when I was a kid ( “Butterfly,” anyone? ), I was curious to learn more about how he does it.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-27-www-ddrpad-com",
+   "name": "www.ddrpad.com",
+   "url": "http://www.ddrpad.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“I grabbed the Deluxe 1-inch thick foam pad from www.ddrpad.com , along with the extension cord and the preloaded Stepmania Flash drive. Stepmania is the open-source clone of DDR .",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-27-stepmania",
+   "name": "Stepmania",
+   "url": "https://www.stepmania.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“I grabbed the Deluxe 1-inch thick foam pad from www.ddrpad.com , along with the extension cord and the preloaded Stepmania Flash drive. Stepmania is the open-source clone of DDR .",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

@@ -1,0 +1,499 @@
+{
+ "schema": 1,
+ "date": "2025-01-19",
+ "post_type": "issue",
+ "title": "New year, new Switch, new Severance",
+ "url": "https://www.theverge.com/2025/1/19/24346079/nintendo-switch-2-severance-apple-chatgpt-tasks-installer",
+ "author": "David Pierce",
+ "number": 67,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:37+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-01-19-black-doves",
+   "name": "Black Doves",
+   "url": "https://www.themoviedb.org/tv/225385-black-doves?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been watching Black Doves and The Remarkable Life of Ibelin , reading about Lorne Michaels and rodeos and Ben Shapiro , restarting Twin Peaks in honor of David Lynch, wading nervously into Lemon8 and RedNote , catching up on old episodes of Working It Out , and watching altogether…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-19-the-remarkable-life-of-ibelin",
+   "name": "The Remarkable Life of Ibelin",
+   "url": "https://www.themoviedb.org/movie/1167027-ibelin?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been watching Black Doves and The Remarkable Life of Ibelin , reading about Lorne Michaels and rodeos and Ben Shapiro , restarting Twin Peaks in honor of David Lynch, wading nervously into Lemon8 and RedNote , catching up on old episodes of Working It Out , and watching altogether…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-19-lorne-michaels",
+   "name": "Lorne Michaels",
+   "url": "https://www.newyorker.com/magazine/2025/01/20/lorne-michaels-profile",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching Black Doves and The Remarkable Life of Ibelin , reading about Lorne Michaels and rodeos and Ben Shapiro , restarting Twin Peaks in honor of David Lynch, wading nervously into Lemon8 and RedNote , catching up on old episodes of Working It Out , and watching altogether…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-19-rodeos",
+   "name": "rodeos",
+   "url": "https://www.theparisreview.org/blog/2025/01/13/the-tickling-of-the-bulls-a-rodeo-at-madison-square-garden/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching Black Doves and The Remarkable Life of Ibelin , reading about Lorne Michaels and rodeos and Ben Shapiro , restarting Twin Peaks in honor of David Lynch, wading nervously into Lemon8 and RedNote , catching up on old episodes of Working It Out , and watching altogether…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-19-ben-shapiro",
+   "name": "Ben Shapiro",
+   "url": "https://www.hollywoodreporter.com/news/politics-news/how-ben-shapiro-conquered-maga-verse-trump-1236104674/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching Black Doves and The Remarkable Life of Ibelin , reading about Lorne Michaels and rodeos and Ben Shapiro , restarting Twin Peaks in honor of David Lynch, wading nervously into Lemon8 and RedNote , catching up on old episodes of Working It Out , and watching altogether…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-19-twin-peaks",
+   "name": "Twin Peaks",
+   "url": "https://www.themoviedb.org/tv/1920-twin-peaks?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been watching Black Doves and The Remarkable Life of Ibelin , reading about Lorne Michaels and rodeos and Ben Shapiro , restarting Twin Peaks in honor of David Lynch, wading nervously into Lemon8 and RedNote , catching up on old episodes of Working It Out , and watching altogether…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-19-lemon8",
+   "name": "Lemon8",
+   "url": "https://www.lemon8-app.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching Black Doves and The Remarkable Life of Ibelin , reading about Lorne Michaels and rodeos and Ben Shapiro , restarting Twin Peaks in honor of David Lynch, wading nervously into Lemon8 and RedNote , catching up on old episodes of Working It Out , and watching altogether…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-19-rednote",
+   "name": "RedNote",
+   "url": "https://rednoteapp.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching Black Doves and The Remarkable Life of Ibelin , reading about Lorne Michaels and rodeos and Ben Shapiro , restarting Twin Peaks in honor of David Lynch, wading nervously into Lemon8 and RedNote , catching up on old episodes of Working It Out , and watching altogether…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-19-working-it-out",
+   "name": "Working It Out",
+   "url": "https://www.birbigs.com/working-it-out-pod",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching Black Doves and The Remarkable Life of Ibelin , reading about Lorne Michaels and rodeos and Ben Shapiro , restarting Twin Peaks in honor of David Lynch, wading nervously into Lemon8 and RedNote , catching up on old episodes of Working It Out , and watching altogether…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-19-balatro-strategy-videos",
+   "name": "Balatro strategy videos",
+   "url": "https://www.youtube.com/watch?v=wVbo_cbHZP0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been watching Black Doves and The Remarkable Life of Ibelin , reading about Lorne Michaels and rodeos and Ben Shapiro , restarting Twin Peaks in honor of David Lynch, wading nervously into Lemon8 and RedNote , catching up on old episodes of Working It Out , and watching altogether…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-19-the-nintendo-switch-2",
+   "name": "The Nintendo Switch 2",
+   "url": "https://www.nintendo.com/successor/en-us/index.html",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Nintendo is launching this thing in a typically odd, typically Nintendo-y way — so all we’ve really seen of the new device is a two-minute video with some details and vibes. But I’ve seen enough. This is the Switch successor I was hoping for.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-19-severance-season-2",
+   "name": "Severance season 2",
+   "url": "https://www.themoviedb.org/tv/95396-severance?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I just rewatched the first season and loved it even more the second time. One of my favorite shows in years, and by all accounts, the second season is worth the wait. I’d put the first season up against any season of anything, so that’s high praise.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-19-the-nokia-design-archive",
+   "name": "The Nokia Design Archive",
+   "url": "https://nokiadesignarchive.aalto.fi/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A bunch of researchers spent several years putting together a massive, interconnected history of Nokia’s design work — from its wacky phone concepts to its biggest ideas about the future of everything. You could spend weeks digging around in there.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-19-an-update-on-our-family",
+   "name": "An Update on Our Family",
+   "url": "https://www.themoviedb.org/tv/252174-an-update-on-our-family?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "As a still new-ish dad, I spend a lot of time thinking about how much of my personal and family life to share online. This story is, like, the opposite: what if you created a personal and family life just to share it online? It’s a wild ride.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-19-donkey-kong-country-returns-hd",
+   "name": "Donkey Kong Country Returns HD",
+   "url": "https://www.nintendo.com/us/store/products/donkey-kong-country-returns-hd-switch/",
+   "alt_urls": [
+    "https://www.theverge.com/24343009/donkey-kong-country-returns-hd-review-nintendo-switch"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "While you’re waiting on the new Switch, here’s a new game for the old one. I love Donkey Kong the way a lot of people love Zelda and Mario, so the idea of an updated, upgraded, super-challenging side-scroller is exactly up my alley.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-19-the-science-of-the-matrix-with-laurence-fishburn",
+   "name": "The Science of the Matrix with Laurence Fishburne",
+   "url": "https://www.youtube.com/watch?v=l8L9Z2vmMTQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ The Science of the Matrix with Laurence Fishburne .” A somewhat unexpected episode of Neil Degrasse Tyson’s StarTalk podcast, but oh BOY was it fun to listen to Morpheus himself talk through red pills, the absence of spoons, and The Matrix ’s deepest thoughts about everything.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-19-raycast-focus",
+   "name": "Raycast Focus",
+   "url": "https://www.raycast.com/core-features/focus",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Raycast has become the first app I install on a new Mac, and I use it for everything. Love this new feature, which can block specific apps or websites — and uses a countdown timer to help keep you focused.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-19-snl50-beyond-saturday-night",
+   "name": "SNL50: Beyond Saturday Night",
+   "url": "https://www.themoviedb.org/tv/279299-snl50-beyond-saturday-night",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Another one for the SNL 50th-anniversary content machine: a four-part NBC doc about some of the biggest moments in the show’s history. It’s an officially sanctioned thing, so don’t expect fireworks, but it’s a fun dive into the archives.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-19-chatgpt-tasks",
+   "name": "ChatGPT Tasks",
+   "url": "https://chatgpt.com/tasks",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A super basic feature so far, and pretty buggy — it invented a dentist appointment that I didn’t have? — but I’m really intrigued by the combination of a to-do list app and chatbot. I have it sending me a new oatmeal recipe and workout idea every morning, and it’s a pretty cool system.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-19-iphone-16-pro-max",
+   "name": "iPhone 16 Pro Max",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 16 Pro Max. I’ve been using the biggest iPhone for years. I also have an old Galaxy Z Fold 3 that I’ve been thinking about upgrading to another folding phone.",
+   "section": "screen-share",
+   "recommender": "Todd"
+  },
+  {
+   "id": "2025-01-19-groupme",
+   "name": "GroupMe",
+   "url": "https://groupme.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "GroupMe is for staying in touch with my college friends and also where my town’s volunteer fire department keeps in touch. I haven’t been as active as I’d like to be since the summer. Xbox Cloud Gaming is there because I always tell myself I’m going to have all this free time for gaming on the go.",
+   "section": "screen-share",
+   "recommender": "Todd"
+  },
+  {
+   "id": "2025-01-19-xbox-cloud-gaming",
+   "name": "Xbox Cloud Gaming",
+   "url": "https://www.xbox.com/en-us/play",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "GroupMe is for staying in touch with my college friends and also where my town’s volunteer fire department keeps in touch. I haven’t been as active as I’d like to be since the summer. Xbox Cloud Gaming is there because I always tell myself I’m going to have all this free time for gaming on the go.",
+   "section": "screen-share",
+   "recommender": "Todd"
+  },
+  {
+   "id": "2025-01-19-angle-of-repose",
+   "name": "Angle of Repose",
+   "url": "https://www.penguinrandomhouse.com/books/172494/angle-of-repose-by-wallace-stegner/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Angle of Repose by Wallace Stegner. I just started it so don’t ask me what it’s about. I spend most nights reading on a Kindle Paperwhite.",
+   "section": "screen-share",
+   "recommender": "Todd"
+  },
+  {
+   "id": "2025-01-19-trust",
+   "name": "Trust",
+   "url": "https://www.penguinrandomhouse.com/books/678664/trust-pulitzer-prize-winner-by-hernan-diaz/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Angle of Repose by Wallace Stegner. I just started it so don’t ask me what it’s about. I spend most nights reading on a Kindle Paperwhite.",
+   "section": "screen-share",
+   "recommender": "Todd"
+  },
+  {
+   "id": "2025-01-19-stoner",
+   "name": "Stoner",
+   "url": "https://www.penguinrandomhouse.com/books/191134/stoner-by-john-williams-introduction-by-john-mcgahern/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Angle of Repose by Wallace Stegner. I just started it so don’t ask me what it’s about. I spend most nights reading on a Kindle Paperwhite.",
+   "section": "screen-share",
+   "recommender": "Todd"
+  },
+  {
+   "id": "2025-01-19-the-little-friend",
+   "name": "The Little Friend",
+   "url": "https://www.penguinrandomhouse.com/books/176616/the-little-friend-by-donna-tartt/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Angle of Repose by Wallace Stegner. I just started it so don’t ask me what it’s about. I spend most nights reading on a Kindle Paperwhite.",
+   "section": "screen-share",
+   "recommender": "Todd"
+  },
+  {
+   "id": "2025-01-19-call-of-duty-black-ops-6",
+   "name": "Call of Duty: Black Ops 6",
+   "url": "https://www.callofduty.com/blackops6/pc",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Angle of Repose by Wallace Stegner. I just started it so don’t ask me what it’s about. I spend most nights reading on a Kindle Paperwhite.",
+   "section": "screen-share",
+   "recommender": "Todd"
+  },
+  {
+   "id": "2025-01-19-get-it-doordashed",
+   "name": "get it DoorDashed",
+   "url": "https://doordash.7zd4df.net/c/482924/655830/10350?u=https%3A%2F%2Fwww.doordash.com%2Fbusiness%2Fmcdonalds-5579%2F",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Angle of Repose by Wallace Stegner. I just started it so don’t ask me what it’s about. I spend most nights reading on a Kindle Paperwhite.",
+   "section": "screen-share",
+   "recommender": "Todd"
+  },
+  {
+   "id": "2025-01-19-unhinged",
+   "name": "Unhinged",
+   "url": "https://unhinged.life/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Unhinged , a delightfully simple mood tracker app that doubles as a micro-journal. I’ve always struggled to stick with journaling, but this makes it effortless (it takes just 15 seconds) to capture my thoughts and details about my day.",
+   "section": "crowdsourced",
+   "recommender": "Austin (reader)"
+  },
+  {
+   "id": "2025-01-19-sakamoto-days",
+   "name": "Sakamoto Days",
+   "url": "https://www.themoviedb.org/tv/207332-sakamoto-days",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Sakamoto Days on Netflix. It’s an anime about the best hit man in the world who retired and settled down with a family. Extremely tropey, I know. Mostly just watching to see this cutie kick ass.",
+   "section": "crowdsourced",
+   "recommender": "Ryan (reader)"
+  },
+  {
+   "id": "2025-01-19-mochi",
+   "name": "Mochi",
+   "url": "https://mochi.cards/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Trying to get better at Dutch, and downloaded the excellent Mochi app. Like Anki but so much better in every way.",
+   "section": "crowdsourced",
+   "recommender": "Hannes (reader)"
+  },
+  {
+   "id": "2025-01-19-stremio",
+   "name": "Stremio",
+   "url": "https://www.stremio.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just discovered Stremio and I have a profound feeling it will change my life forever. Okay, at least the way I consume media. With all the price hikes and many services not available in the Netherlands, this seems like a great alternative.",
+   "section": "crowdsourced",
+   "recommender": "Jasper (reader)"
+  },
+  {
+   "id": "2025-01-19-macdroid",
+   "name": "MacDroid",
+   "url": "https://www.macdroid.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "MacDroid . I always back up my full-resolution photos to an external hard drive every few months in addition to Google Photos, but damn is it a pain to do that on the Mac. Tried MacDroid today and instantly signed up for a lifetime subscription. So much time and stress saved!",
+   "section": "crowdsourced",
+   "recommender": "Josh (reader)"
+  },
+  {
+   "id": "2025-01-19-indiana-jones-and-the-great-circle",
+   "name": "Indiana Jones and the Great Circle",
+   "url": "https://indianajones.bethesda.net/en-US",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Indiana Jones and the Great Circle on Xbox. It’s the best Indiana Jones thing made in decades. I’m shocked at how much fun it is to explore and how they hit the tone perfectly. And wow did the voice actor nail young Harrison Ford. It’s almost eerie.",
+   "section": "crowdsourced",
+   "recommender": "DSquiz (reader)"
+  },
+  {
+   "id": "2025-01-19-one-piece",
+   "name": "One Piece",
+   "url": "https://www.viz.com/one-piece",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I started reading One Piece from the beginning last year after watching the Netflix show — it’s very fun, it’s lighthearted, the art’s great, and the characters are all lovable and easy to latch on to.",
+   "section": "crowdsourced",
+   "recommender": "Luis (reader)"
+  },
+  {
+   "id": "2025-01-19-the-netflix-show",
+   "name": "the Netflix show",
+   "url": "https://www.themoviedb.org/tv/111110-one-piece",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I started reading One Piece from the beginning last year after watching the Netflix show — it’s very fun, it’s lighthearted, the art’s great, and the characters are all lovable and easy to latch on to.",
+   "section": "crowdsourced",
+   "recommender": "Luis (reader)"
+  },
+  {
+   "id": "2025-01-19-pocket-card-jockey-ride-on",
+   "name": "Pocket Card Jockey: Ride On!",
+   "url": "https://apps.apple.com/us/app/pocket-card-jockey-ride-on/id1604577143",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Got back into Apple Arcade JUST to play Pocket Card Jockey: Ride On! A solitaire horse racing game developed by Game Freak (the Pokemon people), originally for 3DS, even though it looks SO mobile. It is amazingly fun and I cannot stop playing.",
+   "section": "crowdsourced",
+   "recommender": "Uli (reader)"
+  },
+  {
+   "id": "2025-01-19-keyword-search",
+   "name": "Keyword Search",
+   "url": "http://safarikeywordsearch.aurlien.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The amazing Safari extension Keyword Search ! It allows you to run custom web searches by adding a keyword or letter, so adding ‘wiki’ or ‘yt’ will search those respective sites instead of your default search engine.",
+   "section": "crowdsourced",
+   "recommender": "JME (reader)"
+  },
+  {
+   "id": "2025-01-19-news-tower",
+   "name": "News Tower",
+   "url": "https://sparrownight.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Have you tried News Tower yet? Total blast.",
+   "section": "crowdsourced",
+   "recommender": "Dave (reader)"
+  },
+  {
+   "id": "2025-01-19-the-youtube-channel",
+   "name": "the YouTube channel",
+   "url": "https://www.youtube.com/@australianopen",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The Australian Open is happening right now, which means it’s the part of the tennis calendar where I wake up in the morning and it’s 6AM and somehow half the matches are already over and something really exciting is inevitably happening. It’s delightful.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-19-the-guardian-has-a-good-story",
+   "name": "The Guardian has a good story",
+   "url": "https://www.theguardian.com/sport/2025/jan/14/australian-open-avatars-helping-tennis-reach-new-audience",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "For complicated rights reasons, the organization behind the Open is streaming the matches on YouTube, but not like you’d think: everything is live-animated and everyone looks like Wii Sports characters. It’s deeply bizarre and extremely hokey, but against all odds, it totally works?",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

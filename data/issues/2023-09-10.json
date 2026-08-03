@@ -1,0 +1,448 @@
+{
+ "schema": 1,
+ "date": "2023-09-10",
+ "post_type": "issue",
+ "title": "A new-old camera, Clubhouse pivots, and smart home apps galore",
+ "url": "https://www.theverge.com/2023/9/10/23864841/polaroid-camera-wireless-speakers-best-smart-home-apps-installer-newsletter",
+ "author": "David Pierce",
+ "number": 5,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "pro-tips",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:35+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2023-09-10-the-remarkable-pettiness-of-disney-ceos",
+   "name": "the remarkable pettiness of Disney CEOs",
+   "url": "https://www.cnbc.com/2023/09/06/disney-succession-mess-iger-chapek.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the remarkable pettiness of Disney CEOs and the crypto world’s most obvious scams , watching a whole lot of US Open tennis and this wild home-renovation show that’s all about VR , drafting fantasy football teams, nodding vigorously at this story about the scourge…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-10-the-crypto-worlds-most-obvious-scams",
+   "name": "the crypto world’s most obvious scams",
+   "url": "https://nymag.com/intelligencer/article/zeke-faux-number-go-up-book-excerpt.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the remarkable pettiness of Disney CEOs and the crypto world’s most obvious scams , watching a whole lot of US Open tennis and this wild home-renovation show that’s all about VR , drafting fantasy football teams, nodding vigorously at this story about the scourge…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-10-this-wild-home-renovation-show-thats-all-about-v",
+   "name": "this wild home-renovation show that’s all about VR",
+   "url": "https://www.hulu.com/series/11f9ea8d-d980-4a96-aa88-61098eb1244b",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the remarkable pettiness of Disney CEOs and the crypto world’s most obvious scams , watching a whole lot of US Open tennis and this wild home-renovation show that’s all about VR , drafting fantasy football teams, nodding vigorously at this story about the scourge…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-10-the-scourge-that-is-rotten-tomatoes",
+   "name": "the scourge that is Rotten Tomatoes",
+   "url": "https://www.vulture.com/article/rotten-tomatoes-movie-rating.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the remarkable pettiness of Disney CEOs and the crypto world’s most obvious scams , watching a whole lot of US Open tennis and this wild home-renovation show that’s all about VR , drafting fantasy football teams, nodding vigorously at this story about the scourge…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-10-reading-this-new-mozilla-study",
+   "name": "reading this new Mozilla study",
+   "url": "https://foundation.mozilla.org/en/privacynotincluded/articles/its-official-cars-are-the-worst-product-category-we-have-ever-reviewed-for-privacy/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the remarkable pettiness of Disney CEOs and the crypto world’s most obvious scams , watching a whole lot of US Open tennis and this wild home-renovation show that’s all about VR , drafting fantasy football teams, nodding vigorously at this story about the scourge…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-10-ridiculous-fishing-ex",
+   "name": "Ridiculous Fishing EX",
+   "url": "https://apps.apple.com/us/app/ridiculous-fishing-ex/id1610164691?itsct=arcade_box_details&itscg=30200&app=arcade",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "This week, I’ve been reading about the remarkable pettiness of Disney CEOs and the crypto world’s most obvious scams , watching a whole lot of US Open tennis and this wild home-renovation show that’s all about VR , drafting fantasy football teams, nodding vigorously at this story about the scourge…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-10-polaroid-i-2",
+   "name": "Polaroid I-2",
+   "url": "https://www.polaroid.com/en_us/collections/i2-polaroid-camera",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=3sooI3ZFw_Q&embeds_widget_referrer=https://www.theverge.com/&embeds_referring_euri=https://volume.vox-cdn.com/&embeds_referring_origin=https://volume.vox-cdn.com&source_ve_path=MjM4NTE"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Kudos to Polaroid for refusing to let the instant camera dream die. Less kudos for the $599.99 price of the I-2 and the nearly $2 a shot you’ll pay for prints. ( The Verge ’s Becca Farsace made a super fun video if you want to see how it all works.)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-10-inside-elon-musks-struggle-for-the-future-of-ai",
+   "name": "Inside Elon Musk’s struggle for the future of AI",
+   "url": "https://time.com/6310076/elon-musk-ai-walter-isaacson-biography/",
+   "alt_urls": [
+    "https://www.wsj.com/tech/elon-musk-twitter-x-takeover-walter-isaacson-5f553fa",
+    "https://www.cnbc.com/2023/09/09/ai-for-cars-walter-isaacson-biography-of-elon-musk-excerpt.html"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Walter Isaacson’s book about Elon Musk, cleverly titled Elon Musk , is coming out on Tuesday, and we’ve gotten a couple of excerpts so far.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-10-taste-bud",
+   "name": "Taste Bud",
+   "url": "https://taste-bud.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is a charming little AI recipe chatbot — plug in “what’s a good twist on cold brew coffee,” and it’ll pop up a recipe. Don’t like it? Click “try again” and get another. It’s also a fun tool for typing in all the ingredients you have on hand and seeing what comes back.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-10-the-ue-epicboom",
+   "name": "The UE Epicboom",
+   "url": "https://www.ultimateears.com/en-us/wireless-speakers/epicboom-bluetooth.html",
+   "alt_urls": [
+    "https://www.anrdoezrs.net/links/Verge/type/dlg/sid/VergeInstaller090823/https://www.sonos.com/en-us/shop/move-2",
+    "https://www.ultimateears.com/en-us/wireless-speakers/wonderboom-3-bluetooth.html"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "For my money, the UE Booms are the best Bluetooth speakers on the market. The new one, the Epicboom, is big and expensive ($350!) but is rugged and lasts for hours. The new Sonos Move 2 fits in the same category.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-10-spy-ops-on-netflix",
+   "name": "Spy Ops on Netflix",
+   "url": "https://www.netflix.com/title/81474104",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "A fun fact about me is that I can never get enough of spy stuff. Spy novels? James Bond movies? Movies that try to be Bond-like but instead just kind of suck? Voice-changed interviews with former spies? I’ll take them all, please and thank you.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-10-the-lutron-caseta-pico-paddle-remote",
+   "name": "The Lutron Caséta Pico Paddle Remote",
+   "url": "https://www.casetawireless.com/us/en/products/pico-remotes",
+   "alt_urls": [
+    "https://www.theverge.com/2023/9/7/23862694/lutron-caseta-smart-lighting-pico-paddle-remote-price-launch"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This is the smart home controller I’ve been waiting for. It looks like a light switch (as all smart home controllers should), it only costs $20, and it can control most smart objects in your house.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-10-whiplash-by-ghostwriter977",
+   "name": "“Whiplash” by Ghostwriter977",
+   "url": "https://www.youtube.com/watch?v=SaVZvcRg1gI",
+   "alt_urls": [
+    "https://www.theverge.com/2023/9/6/23862036/ai-drake-ghostwriter-new-song-grammy-travis-scott-21-savage",
+    "https://www.theverge.com/2023/4/19/23689879/ai-drake-song-google-youtube-fair-use"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The mysterious creator behind the AI Drake song that set the internet on fire is back, y’all . Kind of? There’s like a 40 percent chance that link won’t work because, once again, an AI-generated song has created a fascinating copyright battle around the internet.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-10-clubhouse",
+   "name": "Clubhouse",
+   "url": "https://blog.clubhouse.com/the-new-clubhouse/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am forever fascinated by Clubhouse, the social-audio app that got hugely popular for like 10 minutes and then promptly disappeared off the radar forever. But the company has totally redesigned the app and is embracing voice messaging in a big way. No idea if it’ll work, but it’s a cool concept.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-10-sunday-ticket",
+   "name": "Sunday Ticket",
+   "url": "https://tv.youtube.com/learn/nflsundayticket/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Happy football season to all who celebrate! This weekend is the beginning of the NFL season, and a lot of people are going to be watching games in a new place: YouTube. The company paid a reported $2 billion for Sunday Ticket this year and has some fun plans for how people can watch games.",
+   "section": "pro-tips",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-10-nfl-com",
+   "name": "NFL.com",
+   "url": "https://www.nfl.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Connect your NFL fantasy accounts. Link your NFL.com fantasy accounts to YouTube TV so you can keep up in real time with your team and league performance while watching your games.",
+   "section": "pro-tips",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-10-iphone-14",
+   "name": "iPhone 14",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 14. I like small phones and small iPads (preferably in purple), so I find a standard-size phone with an iPad Mini that can fit in my purse the best combo.",
+   "section": "screen-share",
+   "recommender": "Jen"
+  },
+  {
+   "id": "2023-09-10-the-us-open",
+   "name": "The US Open",
+   "url": "https://www.usopen.org/en_US/about/eventschedule.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The US Open . There’s always tennis on somewhere, and I am always watching it. Right now, it’s the US Open, the last Grand Slam of the season, and it’s been a corker of a tournament, which wraps up with the women’s final this Saturday and the men’s on Sunday.",
+   "section": "screen-share",
+   "recommender": "Jen"
+  },
+  {
+   "id": "2023-09-10-atp-wta-live-app",
+   "name": "ATP WTA Live app",
+   "url": "https://www.wtatennis.com/apps",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The US Open . There’s always tennis on somewhere, and I am always watching it. Right now, it’s the US Open, the last Grand Slam of the season, and it’s been a corker of a tournament, which wraps up with the women’s final this Saturday and the men’s on Sunday.",
+   "section": "screen-share",
+   "recommender": "Jen"
+  },
+  {
+   "id": "2023-09-10-ed-sheerans-subtract",
+   "name": "Ed Sheeran’s Subtract .",
+   "url": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk?si=cCBoy8pSQuyZjtGYLI09oQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "The US Open . There’s always tennis on somewhere, and I am always watching it. Right now, it’s the US Open, the last Grand Slam of the season, and it’s been a corker of a tournament, which wraps up with the women’s final this Saturday and the men’s on Sunday.",
+   "section": "screen-share",
+   "recommender": "Jen"
+  },
+  {
+   "id": "2023-09-10-autumn-variations",
+   "name": "Autumn Variations",
+   "url": "https://variety.com/2023/music/news/ed-sheeran-autumn-variations-album-announce-aaron-dessner-1235703487/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The US Open . There’s always tennis on somewhere, and I am always watching it. Right now, it’s the US Open, the last Grand Slam of the season, and it’s been a corker of a tournament, which wraps up with the women’s final this Saturday and the men’s on Sunday.",
+   "section": "screen-share",
+   "recommender": "Jen"
+  },
+  {
+   "id": "2023-09-10-trust-by-hernan-diaz",
+   "name": "Trust by Hernan Diaz",
+   "url": "https://www.amazon.com/Trust-Hernan-Diaz/dp/0593420314/ref=asc_df_0593420314/?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The US Open . There’s always tennis on somewhere, and I am always watching it. Right now, it’s the US Open, the last Grand Slam of the season, and it’s been a corker of a tournament, which wraps up with the women’s final this Saturday and the men’s on Sunday.",
+   "section": "screen-share",
+   "recommender": "Jen"
+  },
+  {
+   "id": "2023-09-10-deku-deals",
+   "name": "Deku Deals",
+   "url": "https://www.dekudeals.com",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "One of my favorite websites is Deku Deals . It brings together the PlayStation, Xbox, and Nintendo stores and allows you to track games that are on sale really easily. You can sign up for email alerts whenever a game is discounted. They also have an iOS and Android app in development.",
+   "section": "crowdsourced",
+   "recommender": "Jon (reader)"
+  },
+  {
+   "id": "2023-09-10-their-patreon",
+   "name": "their Patreon",
+   "url": "https://www.patreon.com/dekudeals",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "One of my favorite websites is Deku Deals . It brings together the PlayStation, Xbox, and Nintendo stores and allows you to track games that are on sale really easily. You can sign up for email alerts whenever a game is discounted. They also have an iOS and Android app in development.",
+   "section": "crowdsourced",
+   "recommender": "Jon (reader)"
+  },
+  {
+   "id": "2023-09-10-omni-crosswords",
+   "name": "Omni Crosswords",
+   "url": "https://apps.apple.com/us/app/omni-crosswords/id1530129670",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Omni Crosswords fetches daily crosswords from major outlets without you having to subscribe to any of them. The only con of this app is that it does not have a hint system. If you like playing tennis games, Australian Open Game is a decent game to kill some time.",
+   "section": "crowdsourced",
+   "recommender": "Shivam (reader)"
+  },
+  {
+   "id": "2023-09-10-australian-open-game",
+   "name": "Australian Open Game",
+   "url": "https://apps.apple.com/us/app/australian-open-game/id1329618025",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Omni Crosswords fetches daily crosswords from major outlets without you having to subscribe to any of them. The only con of this app is that it does not have a hint system. If you like playing tennis games, Australian Open Game is a decent game to kill some time.",
+   "section": "crowdsourced",
+   "recommender": "Shivam (reader)"
+  },
+  {
+   "id": "2023-09-10-pinboard",
+   "name": "Pinboard",
+   "url": "https://pinboard.in/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The bookmarking app I never see but highly recommend is Pinboard , which markets itself as ‘Social Bookmarking for Introverts.’ It’s blazing fast because there are no images or lazy loading; it’s just webpages with text links you can add notes and tags to — that’s it.",
+   "section": "crowdsourced",
+   "recommender": "Ethan (reader)"
+  },
+  {
+   "id": "2023-09-10-linkding",
+   "name": "linkding",
+   "url": "https://github.com/sissbruecker/linkding",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "open-source"
+   ],
+   "blurb": "Regarding link buckets: I was a longtime faithful user of del.icio.us (and then Pinboard) for many years, but maintenance on Pinboard has slowed to a halt in spite of its subscription pricing. This led me to seek out alternatives, and I eventually settled on linkding .",
+   "section": "crowdsourced",
+   "recommender": "Josh (reader)"
+  },
+  {
+   "id": "2023-09-10-yuka",
+   "name": "Yuka",
+   "url": "https://yuka.io/en/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I want to recommend an app I am obsessed with these days: it’s called Yuka . It allows you to scan food items, and it rates food about how good / bad that food is and why.",
+   "section": "crowdsourced",
+   "recommender": "Shubham (reader)"
+  },
+  {
+   "id": "2023-09-10-read-cv",
+   "name": "Read.cv",
+   "url": "https://read.cv/explore",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m really enjoying Read.cv and their little social network app Posts.cv — mostly centered around designers, but it’s fun seeing all the apps and web design all these people are coming up with.",
+   "section": "crowdsourced",
+   "recommender": "Christopher (reader)"
+  },
+  {
+   "id": "2023-09-10-posts-cv",
+   "name": "Posts.cv",
+   "url": "https://posts.cv/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m really enjoying Read.cv and their little social network app Posts.cv — mostly centered around designers, but it’s fun seeing all the apps and web design all these people are coming up with.",
+   "section": "crowdsourced",
+   "recommender": "Christopher (reader)"
+  },
+  {
+   "id": "2023-09-10-new-world-on-netflix",
+   "name": "New World on Netflix",
+   "url": "https://www.netflix.com/title/81436207?source=35",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "New World on Netflix . A Korean reality show on a ‘utopian island,’ sort of like a video game turned TV show. They’re gaining virtual currency, and then one of the contestants finds out he can rewind time and undo all the gambling. Fun, inventive, weird show.",
+   "section": "crowdsourced",
+   "recommender": "Glenn (reader)"
+  },
+  {
+   "id": "2023-09-10-finalist",
+   "name": "Finalist",
+   "url": "https://finalist.works/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Came across Finalist on Threads, a really slick to-do app that works well for my brain. Focused on daily lists that are easy to carry over, just recently released.",
+   "section": "crowdsourced",
+   "recommender": "Rigel (reader)"
+  },
+  {
+   "id": "2023-09-10-who-is-erin-carter",
+   "name": "Who Is Erin Carter?",
+   "url": "https://www.netflix.com/title/81476887?source=35",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "Who Is Erin Carter? Netflix. Brilliant.",
+   "section": "crowdsourced",
+   "recommender": "Faisal (reader)"
+  },
+  {
+   "id": "2023-09-10-the-wrap-s-huge-retrospective",
+   "name": "The Wrap ’s huge retrospective",
+   "url": "https://www.thewrap.com/john-carter-movie-history-why-it-failed/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After literally a year of having it pinned on my to-read list, I finally sat down and plowed through The Wrap ’s huge retrospective on what happened with the movie John Carter . It’s a really interesting read and made me wonder how many more movies might have gone through the same chaos.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-10-it-was-a-sh-t-show",
+   "name": "It Was a Sh*t Show,",
+   "url": "https://www.youtube.com/@ItWasAShtShow",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "After literally a year of having it pinned on my to-read list, I finally sat down and plowed through The Wrap ’s huge retrospective on what happened with the movie John Carter . It’s a really interesting read and made me wonder how many more movies might have gone through the same chaos.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

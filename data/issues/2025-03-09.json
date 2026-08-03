@@ -1,0 +1,585 @@
+{
+ "schema": 1,
+ "date": "2025-03-09",
+ "post_type": "issue",
+ "title": "Some nice upgrades for Apple’s best gadgets",
+ "url": "https://www.theverge.com/installer-newsletter/626239/apple-ipad-macbook-air-split-fiction-digg-installer",
+ "author": "David Pierce",
+ "number": 74,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-03-09-bybit",
+   "name": "Bybit",
+   "url": "https://harrydonnelly.substack.com/p/how-the-biggest-crypto-hack-in-history",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "newsletter"
+   ],
+   "blurb": "This week, I’ve been reading about Bybit , Walmart , and sports analytics ; devouring the first season of Running Point and the seventh season of Drive to Survive ; listening to Scam Inc and Tested ; obsessing over my progress in Fantasy Hike ; getting the hang of Tiny Wings again; and making a lot…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-walmart",
+   "name": "Walmart",
+   "url": "https://www.bloomberg.com/news/features/2025-02-23/walmart-aims-to-rival-amazon-with-birkin-dupes-gucci-bags-in-rebrand?embedded-checkout=true&__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Bybit , Walmart , and sports analytics ; devouring the first season of Running Point and the seventh season of Drive to Survive ; listening to Scam Inc and Tested ; obsessing over my progress in Fantasy Hike ; getting the hang of Tiny Wings again; and making a lot…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-sports-analytics",
+   "name": "sports analytics",
+   "url": "https://www.washingtonpost.com/sports/2025/03/04/sports-analytics-aesthetics-beauty/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Bybit , Walmart , and sports analytics ; devouring the first season of Running Point and the seventh season of Drive to Survive ; listening to Scam Inc and Tested ; obsessing over my progress in Fantasy Hike ; getting the hang of Tiny Wings again; and making a lot…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-running-point",
+   "name": "Running Point",
+   "url": "https://www.themoviedb.org/tv/244623-running-point",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Bybit , Walmart , and sports analytics ; devouring the first season of Running Point and the seventh season of Drive to Survive ; listening to Scam Inc and Tested ; obsessing over my progress in Fantasy Hike ; getting the hang of Tiny Wings again; and making a lot…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-drive-to-survive",
+   "name": "Drive to Survive",
+   "url": "https://www.themoviedb.org/tv/87083-formula-1-drive-to-survive",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Bybit , Walmart , and sports analytics ; devouring the first season of Running Point and the seventh season of Drive to Survive ; listening to Scam Inc and Tested ; obsessing over my progress in Fantasy Hike ; getting the hang of Tiny Wings again; and making a lot…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-scam-inc",
+   "name": "Scam Inc",
+   "url": "https://www.economist.com/audio/podcasts/scam-inc",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Bybit , Walmart , and sports analytics ; devouring the first season of Running Point and the seventh season of Drive to Survive ; listening to Scam Inc and Tested ; obsessing over my progress in Fantasy Hike ; getting the hang of Tiny Wings again; and making a lot…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-tested",
+   "name": "Tested",
+   "url": "https://www.tested-podcast.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Bybit , Walmart , and sports analytics ; devouring the first season of Running Point and the seventh season of Drive to Survive ; listening to Scam Inc and Tested ; obsessing over my progress in Fantasy Hike ; getting the hang of Tiny Wings again; and making a lot…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-fantasy-hike",
+   "name": "Fantasy Hike",
+   "url": "https://forge7.net/fantasyhike/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Bybit , Walmart , and sports analytics ; devouring the first season of Running Point and the seventh season of Drive to Survive ; listening to Scam Inc and Tested ; obsessing over my progress in Fantasy Hike ; getting the hang of Tiny Wings again; and making a lot…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-tiny-wings",
+   "name": "Tiny Wings",
+   "url": "https://www.andreasilliger.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Bybit , Walmart , and sports analytics ; devouring the first season of Running Point and the seventh season of Drive to Survive ; listening to Scam Inc and Tested ; obsessing over my progress in Fantasy Hike ; getting the hang of Tiny Wings again; and making a lot…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-the-new-macbook-air",
+   "name": "The new MacBook Air",
+   "url": "https://www.apple.com/macbook-air/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The MacBook Air is probably my longest-running default recommendation. If you just want a laptop, no follow-up questions, get an Air. This one’s faster and has a better webcam, and I even like the pale blue here. And it’s cheaper! A miracle!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-the-new-ipad",
+   "name": "The new iPad",
+   "url": "https://www.apple.com/ipad-11/",
+   "alt_urls": [
+    "https://www.apple.com/ipad-air/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The new iPad Air got all of Apple’s attention this week, but I think the new base model is the bigger deal. This is the iPad I’d tell most people to buy — I wish it had gotten a bigger chip bump, but this’ll still do iPad things nicely. And $349 is the right price.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-split-fiction",
+   "name": "Split Fiction",
+   "url": "https://www.ea.com/games/split-fiction/split-fiction",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I need more gamer friends, because wow does this game look like a fun co-op. It looks like Blade Runner and Tron. There’s a company called Radar. There are puzzles and fights and — seriously, who wants to play a lot of this with me? Like, right now.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-daredevil-born-again",
+   "name": "Daredevil: Born Again",
+   "url": "https://www.themoviedb.org/tv/202555-daredevil-born-again?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I always liked the old Daredevil series and Charlie Cox as Matt Murdock. As ever with Marvel TV, this one sounds a little uneven in its execution and requires an annoying amount of lore knowledge, but I still enjoy watching some kickass crime fighting. And there’s plenty of it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-the-nothing-phone-3a",
+   "name": "The Nothing Phone 3A",
+   "url": "https://us.nothing.tech/pages/phone-3a",
+   "alt_urls": [
+    "https://www.theverge.com/news/622405/nothing-phone-3a-pro-essential-space-price-specs"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Nothing might be the most interesting company in smartphones right now. It’s doing really cool, unique stuff, and it seems to be really starting to dial in its cameras.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-technology-isnt-fun-anymore",
+   "name": "Technology isn’t fun anymore",
+   "url": "https://www.youtube.com/watch?v=P-TANCVoHlc",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Technology isn’t fun anymore .” In this video, Drew Gooden puts words to what I think a lot of people are feeling about the state of technology right now.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-twitter-breaking-the-bird",
+   "name": "Twitter: Breaking the Bird",
+   "url": "https://www.cnncreativemarketing.com/project/twitter/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A four-part CNN series, starting on Sunday, about how Twitter got big, changed the world, and screwed up a million ways along the journey. I know this story pretty well, but I’m still fascinated to see how this series tries to make sense of it all.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-deli-boys",
+   "name": "Deli Boys",
+   "url": "https://www.themoviedb.org/tv/226346-deli-boys",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I swear I’ve been seeing ads for this show in my feeds for, like, a decade. But it seems to be funny and timely — a comedy, a crime show, and a critique of capitalism? As ever, give me more fun half-hour shows. I’m in on this one.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-palworld-for-mac",
+   "name": "Palworld for Mac",
+   "url": "https://www.pocketpair.jp/palworld",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Pokémon with guns continues to be a thing, and it’s now available on any Mac with at least an M1 chip. It sounds like crossplay doesn’t work, though, so make sure you have Mac friends to play with.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-digg",
+   "name": "Digg",
+   "url": "https://reboot.digg.com/",
+   "alt_urls": [
+    "https://www.theverge.com/social/624073/digg-relaunch-2025"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Right now, the new Digg is just a landing page and a signup list. But having spent some time with the folks bringing it back (including original creator Kevin Rose), I’m excited to see what new ideas about online community might turn into over time.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-a-base-model-m4-mac-mini-which-i-bought-last-fal",
+   "name": "a base model M4 Mac Mini, which I bought last fall",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The computer: a base model M4 Mac Mini, which I bought last fall. It does not have enough USB-C ports, but I love it nonetheless.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-fission",
+   "name": "Fission",
+   "url": "https://rogueamoeba.com/fission/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I use most of these apps on a daily basis. (I have no idea why Calendar is here. I never use Calendar.) A bunch of them — Fission , Downie , VLC , Loopback — are for various podcasting-related things. I use Notion for all my project management stuff and NotePlan for my day-to-day tasks and notes.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-downie",
+   "name": "Downie",
+   "url": "https://software.charliemonroe.net/downie/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I use most of these apps on a daily basis. (I have no idea why Calendar is here. I never use Calendar.) A bunch of them — Fission , Downie , VLC , Loopback — are for various podcasting-related things. I use Notion for all my project management stuff and NotePlan for my day-to-day tasks and notes.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-vlc",
+   "name": "VLC",
+   "url": "https://www.videolan.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I use most of these apps on a daily basis. (I have no idea why Calendar is here. I never use Calendar.) A bunch of them — Fission , Downie , VLC , Loopback — are for various podcasting-related things. I use Notion for all my project management stuff and NotePlan for my day-to-day tasks and notes.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-loopback",
+   "name": "Loopback",
+   "url": "https://rogueamoeba.com/loopback/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I use most of these apps on a daily basis. (I have no idea why Calendar is here. I never use Calendar.) A bunch of them — Fission , Downie , VLC , Loopback — are for various podcasting-related things. I use Notion for all my project management stuff and NotePlan for my day-to-day tasks and notes.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-notion",
+   "name": "Notion",
+   "url": "https://www.notion.so/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I use most of these apps on a daily basis. (I have no idea why Calendar is here. I never use Calendar.) A bunch of them — Fission , Downie , VLC , Loopback — are for various podcasting-related things. I use Notion for all my project management stuff and NotePlan for my day-to-day tasks and notes.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-noteplan",
+   "name": "NotePlan",
+   "url": "https://noteplan.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I use most of these apps on a daily basis. (I have no idea why Calendar is here. I never use Calendar.) A bunch of them — Fission , Downie , VLC , Loopback — are for various podcasting-related things. I use Notion for all my project management stuff and NotePlan for my day-to-day tasks and notes.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-craft",
+   "name": "Craft",
+   "url": "https://www.craft.do/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I use most of these apps on a daily basis. (I have no idea why Calendar is here. I never use Calendar.) A bunch of them — Fission , Downie , VLC , Loopback — are for various podcasting-related things. I use Notion for all my project management stuff and NotePlan for my day-to-day tasks and notes.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-mymind",
+   "name": "MyMind",
+   "url": "https://mymind.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "MyMind and Anybox are for storing links, images, and other stuff I might want or need later, and everything else is pretty self-explanatory. I really recommend downloading desktop versions of all your messaging apps; I am now the world’s fastest texter because I’m hardly ever texting from my phone.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-anybox",
+   "name": "Anybox",
+   "url": "https://anybox.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "MyMind and Anybox are for storing links, images, and other stuff I might want or need later, and everything else is pretty self-explanatory. I really recommend downloading desktop versions of all your messaging apps; I am now the world’s fastest texter because I’m hardly ever texting from my phone.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-arc",
+   "name": "Arc",
+   "url": "https://arc.net/e/8DA6B4DB-CB04-4A70-9029-BEDC673ECFEF",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "But mostly, honestly, I live in the browser. I’ve been using Arc for years (I use Chrome because our podcast-recording software likes it better, but for nothing else) and perpetually have between three and eight windows full of tabs. It’s bonkers, but it’s the only way I know.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-raycast",
+   "name": "Raycast",
+   "url": "https://www.raycast.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My most important recent upgrade has been going all-in on Raycast . I use it for opening apps, managing windows, changing settings, accessing apps, and much more.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-feeeed",
+   "name": "Feeeed",
+   "url": "https://feeeed.nateparrott.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "You should check out the Feeeed app. Probably the best representation of a timeline app I’ve seen to date.",
+   "section": "crowdsourced",
+   "recommender": "Daniel (reader)"
+  },
+  {
+   "id": "2025-03-09-this-twsbi-pen",
+   "name": "this TWSBI pen",
+   "url": "https://yosekastationery.com/products/twsbi-eco-espresso-w-bronze-trim",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Fountain pens. Who knew?! In a world full of Notions — which I use and love — I wanted an analog outlet for my brain dumps and light journaling. That led me to this TWSBI pen and this ink . The pen has a piston mechanism that makes it super easy to suck up ink. Love the feeling of the nib on paper.",
+   "section": "crowdsourced",
+   "recommender": "Austin (reader)"
+  },
+  {
+   "id": "2025-03-09-this-ink",
+   "name": "this ink",
+   "url": "https://yosekastationery.com/products/diamine-fountain-pen-ink-150th-anniversary-series-tudor-blue?_psq=diamine+tudor+blue&_v=1.0",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Fountain pens. Who knew?! In a world full of Notions — which I use and love — I wanted an analog outlet for my brain dumps and light journaling. That led me to this TWSBI pen and this ink . The pen has a piston mechanism that makes it super easy to suck up ink. Love the feeling of the nib on paper.",
+   "section": "crowdsourced",
+   "recommender": "Austin (reader)"
+  },
+  {
+   "id": "2025-03-09-moonbound",
+   "name": "Moonbound",
+   "url": "https://www.robinsloan.com/moonbound/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Moonbound by Robin Sloan. Highly recommend it. It’s like Ursula K. Le Guin writing about Thundarr the barbarian crossed with Narnia.",
+   "section": "crowdsourced",
+   "recommender": "Joe (reader)"
+  },
+  {
+   "id": "2025-03-09-lookaway",
+   "name": "LookAway",
+   "url": "https://lookaway.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Working at a computer all day and reading on my phone all evening really strains my eyes. I’ve downloaded the LookAway app for Mac to actually enforce my optician’s advice of resting my eyes, and it’s worth every penny. My eyes feel a lot more comfortable at work now.",
+   "section": "crowdsourced",
+   "recommender": "Tom (reader)"
+  },
+  {
+   "id": "2025-03-09-boox-palma",
+   "name": "Boox Palma",
+   "url": "https://shop.boox.com/products/palma",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Working at a computer all day and reading on my phone all evening really strains my eyes. I’ve downloaded the LookAway app for Mac to actually enforce my optician’s advice of resting my eyes, and it’s worth every penny. My eyes feel a lot more comfortable at work now.",
+   "section": "crowdsourced",
+   "recommender": "Tom (reader)"
+  },
+  {
+   "id": "2025-03-09-feedme",
+   "name": "FeedMe",
+   "url": "https://shallowsky.com/software/feedme/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Working at a computer all day and reading on my phone all evening really strains my eyes. I’ve downloaded the LookAway app for Mac to actually enforce my optician’s advice of resting my eyes, and it’s worth every penny. My eyes feel a lot more comfortable at work now.",
+   "section": "crowdsourced",
+   "recommender": "Tom (reader)"
+  },
+  {
+   "id": "2025-03-09-feedbin",
+   "name": "Feedbin",
+   "url": "https://feedbin.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Working at a computer all day and reading on my phone all evening really strains my eyes. I’ve downloaded the LookAway app for Mac to actually enforce my optician’s advice of resting my eyes, and it’s worth every penny. My eyes feel a lot more comfortable at work now.",
+   "section": "crowdsourced",
+   "recommender": "Tom (reader)"
+  },
+  {
+   "id": "2025-03-09-cheapcharts",
+   "name": "CheapCharts",
+   "url": "https://apps.apple.com/us/app/cheapcharts-digital-deals/id772046134",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "I’ve found CheapCharts , a great app to track when Apple movie prices are discounted. I’ve got myself some real bargains and reduced the low-level stress of switching streaming services off and on.",
+   "section": "crowdsourced",
+   "recommender": "Chris (reader)"
+  },
+  {
+   "id": "2025-03-09-five-books",
+   "name": "Five Books",
+   "url": "https://fivebooks.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Five Books , if you want some non-obvious books on a subject for serious reading.",
+   "section": "crowdsourced",
+   "recommender": "Astrid (reader)"
+  },
+  {
+   "id": "2025-03-09-bend",
+   "name": "Bend",
+   "url": "https://www.getbend.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I started using Bend 26 days ago after it was mentioned in The New York Times . The streak nature has me hooked, and the five-minute wake up routine is a low hurdle with a defined time limit so I know when to get on with my day. Good luck on getting more flexible!",
+   "section": "crowdsourced",
+   "recommender": "Sean (reader)"
+  },
+  {
+   "id": "2025-03-09-six-nations-full-contact",
+   "name": "Six Nations: Full Contact",
+   "url": "https://www.themoviedb.org/tv/242394-six-nations-full-contact?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I wanted to put a quick shout out for the series Six Nations: Full Contact on Netflix. Think DTS but for rugby. And for the uninitiated, rugby is often described as the NFL without pads.",
+   "section": "crowdsourced",
+   "recommender": "Alex (reader)"
+  },
+  {
+   "id": "2025-03-09-horus-heresy-series",
+   "name": "Horus Heresy series",
+   "url": "https://www.warhammer.com/en-US/the-horus-heresy-lp",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "To cope with the US’ continued descent into unitary religious authoritarianism, I’m doing what any sane person would and starting the Horus Heresy series of Warhammer 40k books!",
+   "section": "crowdsourced",
+   "recommender": "Luis (reader)"
+  },
+  {
+   "id": "2025-03-09-sonophone",
+   "name": "SonoPhone",
+   "url": "https://sonophone.de/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "SonoPhone and SonoPad . These apps blow away the Sonos app.",
+   "section": "crowdsourced",
+   "recommender": "Tony (reader)"
+  },
+  {
+   "id": "2025-03-09-sonopad",
+   "name": "SonoPad",
+   "url": "https://sonopad.de/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "SonoPhone and SonoPad . These apps blow away the Sonos app.",
+   "section": "crowdsourced",
+   "recommender": "Tony (reader)"
+  },
+  {
+   "id": "2025-03-09-pantheon",
+   "name": "Pantheon",
+   "url": "https://www.themoviedb.org/tv/195339-pantheon",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I can’t believe y’all haven’t posted anything about Pantheon , the animated series on Netflix! I actually just discovered it myself, but it’s in its third season, and it’s an amazing futuristic techy thriller. Check it out!",
+   "section": "crowdsourced",
+   "recommender": "Erik (reader)"
+  },
+  {
+   "id": "2025-03-09-this-link-is-a-complete-and-total-spoiler",
+   "name": "This link is a complete and total spoiler",
+   "url": "https://www.tiktok.com/@dannygentertainment/video/7478020053238123822",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The short version: it’s two brothers competing to see who can win a TikTok game, in which you toss a ball into a line of cups the fastest. ( This link is a complete and total spoiler of the whole thing.)",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-09-barely-missed-anything",
+   "name": "barely missed anything",
+   "url": "https://www.tiktok.com/@dannygentertainment/video/7478768813761334574",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The short version: it’s two brothers competing to see who can win a TikTok game, in which you toss a ball into a line of cups the fastest. ( This link is a complete and total spoiler of the whole thing.)",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

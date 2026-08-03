@@ -1,0 +1,524 @@
+{
+ "schema": 1,
+ "date": "2025-05-18",
+ "post_type": "issue",
+ "title": "The best wireless headphones get even better",
+ "url": "https://www.theverge.com/installer-newsletter/668638/best-wireless-headphones-doom-murderbot-installer",
+ "author": "David Pierce",
+ "number": 83,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-05-18-mission-impossible",
+   "name": "Mission: Impossible",
+   "url": "https://www.gq.com/story/inside-the-making-of-mission-impossible",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Mission: Impossible and Sam Altman’s kitchen and bad roommates , ranting to PJ Vogt about all the ways I’m trying to use my phone less, writing all my scratch notes in Antinote , deciding to be cautiously optimistic about The Paper , rewatching the last season of…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-18-sam-altmans-kitchen",
+   "name": "Sam Altman’s kitchen",
+   "url": "https://www.ft.com/content/b1804820-c74b-4d37-b112-1df882629541",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Mission: Impossible and Sam Altman’s kitchen and bad roommates , ranting to PJ Vogt about all the ways I’m trying to use my phone less, writing all my scratch notes in Antinote , deciding to be cautiously optimistic about The Paper , rewatching the last season of…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-18-bad-roommates",
+   "name": "bad roommates",
+   "url": "https://nymag.com/intelligencer/article/jamison-bachman-worst-roommate-ever.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Mission: Impossible and Sam Altman’s kitchen and bad roommates , ranting to PJ Vogt about all the ways I’m trying to use my phone less, writing all my scratch notes in Antinote , deciding to be cautiously optimistic about The Paper , rewatching the last season of…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-18-all-the-ways",
+   "name": "all the ways",
+   "url": "https://www.searchengine.show/how-to-stop-being-so-phone-addicted-without-self-discipline-or-meditation/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Mission: Impossible and Sam Altman’s kitchen and bad roommates , ranting to PJ Vogt about all the ways I’m trying to use my phone less, writing all my scratch notes in Antinote , deciding to be cautiously optimistic about The Paper , rewatching the last season of…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-18-antinote",
+   "name": "Antinote",
+   "url": "https://antinote.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Mission: Impossible and Sam Altman’s kitchen and bad roommates , ranting to PJ Vogt about all the ways I’m trying to use my phone less, writing all my scratch notes in Antinote , deciding to be cautiously optimistic about The Paper , rewatching the last season of…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-18-about-the-paper",
+   "name": "about The Paper",
+   "url": "https://www.hollywoodreporter.com/tv/tv-news/peacock-office-follow-up-the-paper-1236213869/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Mission: Impossible and Sam Altman’s kitchen and bad roommates , ranting to PJ Vogt about all the ways I’m trying to use my phone less, writing all my scratch notes in Antinote , deciding to be cautiously optimistic about The Paper , rewatching the last season of…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-18-mythic-quest",
+   "name": "Mythic Quest",
+   "url": "https://www.themoviedb.org/tv/94951-mythic-quest",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Mission: Impossible and Sam Altman’s kitchen and bad roommates , ranting to PJ Vogt about all the ways I’m trying to use my phone less, writing all my scratch notes in Antinote , deciding to be cautiously optimistic about The Paper , rewatching the last season of…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-18-watching",
+   "name": "watching",
+   "url": "https://www.youtube.com/watch?v=tQ-cDwQupj8",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Mission: Impossible and Sam Altman’s kitchen and bad roommates , ranting to PJ Vogt about all the ways I’m trying to use my phone less, writing all my scratch notes in Antinote , deciding to be cautiously optimistic about The Paper , rewatching the last season of…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-18-reading",
+   "name": "reading",
+   "url": "https://www.gq.com/story/faa-traffic-air-airlines-new-york-la-guardia",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Mission: Impossible and Sam Altman’s kitchen and bad roommates , ranting to PJ Vogt about all the ways I’m trying to use my phone less, writing all my scratch notes in Antinote , deciding to be cautiously optimistic about The Paper , rewatching the last season of…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-18-headspace",
+   "name": "Headspace",
+   "url": "https://www.headspace.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Mission: Impossible and Sam Altman’s kitchen and bad roommates , ranting to PJ Vogt about all the ways I’m trying to use my phone less, writing all my scratch notes in Antinote , deciding to be cautiously optimistic about The Paper , rewatching the last season of…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-18-ludex",
+   "name": "Ludex",
+   "url": "https://www.ludex.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Mission: Impossible and Sam Altman’s kitchen and bad roommates , ranting to PJ Vogt about all the ways I’m trying to use my phone less, writing all my scratch notes in Antinote , deciding to be cautiously optimistic about The Paper , rewatching the last season of…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-18-the-sony-wh-1000xm6",
+   "name": "The Sony WH-1000XM6",
+   "url": "https://www.tkqlhce.com/click-8836598-15268034?url=https%3A%2F%2Felectronics.sony.com%2Faudio%2Fheadphones%2Fheadband%2Fp%2Fwh1000xm6-b",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Sony’s over-ear headphones have been the best on the market for the last few years. The new ones aren’t exactly, you know, mind-blowing, and $450 is a lot, but I’ll take the improvements across the board — especially the better mics and noise cancelling.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-18-doom-the-dark-ages",
+   "name": "Doom: The Dark Ages",
+   "url": "https://doom.bethesda.net/en-US/the-dark-ages",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The first Doom game in five years, and by all accounts it is much more than just a sequel. I’m no scholar in the series, but I’m into the idea that it both has a solid story and has ratcheted up the quality of the fighting. Get you a game that can do both, you know?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-18-spotifys-ai-dj",
+   "name": "Spotify’s AI DJ.",
+   "url": "https://newsroom.spotify.com/2025-05-13/dj-voice-requests/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Finally , this feature works the way it should. You can ask Spotify’s chatbot to play you songs based on an artist, or a mood, or whatever else you’re feeling, and it’ll generate endless music on the fly.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-18-murderbot",
+   "name": "Murderbot",
+   "url": "https://www.themoviedb.org/tv/241554-murderbot?language=en-US",
+   "alt_urls": [
+    "https://www.theverge.com/tv-reviews/664090/murderbot-season-1-review-apple-tv-plus",
+    "https://www.marthawells.com/murderbot.htm"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "It’s dystopian, it’s funny, it’s occasionally pretty existential . It’s a story about life as a bot that would really just rather… not. Apple TV Plus continues to do sci-fi really well, and while I’ve seen a few folks who (as always) prefer the books , this is one to try this weekend.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-18-love-death-robots-season-four",
+   "name": "Love, Death & Robots season four",
+   "url": "https://www.themoviedb.org/tv/86831-love-death-robots",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This Netflix series is a very different take on robots. A bunch of big-name filmmakers made all kinds of exciting, bizarre sci-fi shorts that seem to cross every genre and style you can think of. David Fincher directed one! And I guarantee you’ll never guess what it is!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-18-the-dji-mavic-4-pro",
+   "name": "The DJI Mavic 4 Pro",
+   "url": "https://www.youtube.com/watch?v=BNEmDcQr6hk",
+   "alt_urls": [
+    "https://www.theverge.com/drone/666425/dji-mavic-4-pro-on-sale-preorder-adorama-bh-photo"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "With a 360-degree gimbal, long battery life, and a 100-megapixel camera, DJI continues to outdo itself on the drone front. Technically, if you’re in the US you’re not supposed to be able to buy this $2,700 model — but my colleague Sean Hollister found them on sale anyway .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-18-internet-roadtrip",
+   "name": "Internet Roadtrip",
+   "url": "https://neal.fun/internet-roadtrip/",
+   "alt_urls": [
+    "https://neal.fun/stimulation-clicker/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "There’s a new Neal.fun thing, so I’m going to tell you about the new Neal.fun thing. This one’s a tour through Street View in which everyone currently on the site gets to decide where we go next. Not quite as world-shattering as Stimulation Clicker , but still very good.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-18-airbnb",
+   "name": "Airbnb",
+   "url": "https://airbnb.pvxt.net/9L9YV5",
+   "alt_urls": [
+    "https://www.theverge.com/news/666191/airbnb-new-app-services-experiences",
+    "https://www.wired.com/story/airbnb-is-in-midlife-crisis-mode-reinvention-app-services/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m not sure what to make of this huge pivot , honestly. Airbnb as a huge collection of travel experiences and services, rather than just homes, makes a certain kind of sense. But is this ultimately just, like, fancy Yelp? I don’t know. But I’m fascinated by how big a swing this is .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-18-android-16",
+   "name": "Android 16",
+   "url": "https://blog.google/products/android/material-3-expressive-android-wearos-launch/",
+   "alt_urls": [
+    "https://www.theverge.com/news/664316/android-material-three-expressive-design-ui-io"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I really like the new design language for Android, which is bold and colorful and gives both users and developers a lot more to play with. It all feels a little more… alive, when everything else about smartphones is starting to feel drab and stale.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-18-an-iphone-16-pro-i-got-earlier-this-year",
+   "name": "An iPhone 16 Pro I got earlier this year",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: An iPhone 16 Pro I got earlier this year. I upgraded from an iPhone 12 Mini that I miss desperately — the iPhone 16 Pro is too heavy and too big for me.",
+   "section": "screen-share",
+   "recommender": "Jay"
+  },
+  {
+   "id": "2025-05-18-days-since",
+   "name": "Days Since",
+   "url": "https://apps.apple.com/us/app/days-since-quit-habit-tracker/id1445348921",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "The countdown widget comes from an app called Days Since . I’m a newish dad to a very early riser, and I realized last year that even one glass of wine made me a step too slow to keep up with my active kid. I’ve set a goal to not drink for a year just to see if I can do it, and so far, so good.",
+   "section": "screen-share",
+   "recommender": "Jay"
+  },
+  {
+   "id": "2025-05-18-clair-obscur-expedition-33",
+   "name": "Clair Obscur: Expedition 33",
+   "url": "https://www.expedition33.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I feel like my entire personality has become Clair Obscur: Expedition 33 , a wonderful RPG that’s my favorite game of the year so far. It’s just so good. And the soundtrack is outstanding .",
+   "section": "screen-share",
+   "recommender": "Jay"
+  },
+  {
+   "id": "2025-05-18-soundtrack-is-outstanding",
+   "name": "soundtrack is outstanding",
+   "url": "https://www.youtube.com/watch?v=4FIMsKKvBRM",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I feel like my entire personality has become Clair Obscur: Expedition 33 , a wonderful RPG that’s my favorite game of the year so far. It’s just so good. And the soundtrack is outstanding .",
+   "section": "screen-share",
+   "recommender": "Jay"
+  },
+  {
+   "id": "2025-05-18-taskmaster",
+   "name": "Taskmaster",
+   "url": "https://www.themoviedb.org/tv/63404-taskmaster",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I feel like my entire personality has become Clair Obscur: Expedition 33 , a wonderful RPG that’s my favorite game of the year so far. It’s just so good. And the soundtrack is outstanding .",
+   "section": "screen-share",
+   "recommender": "Jay"
+  },
+  {
+   "id": "2025-05-18-for-free",
+   "name": "for free",
+   "url": "https://www.youtube.com/@Taskmaster/playlists",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I feel like my entire personality has become Clair Obscur: Expedition 33 , a wonderful RPG that’s my favorite game of the year so far. It’s just so good. And the soundtrack is outstanding .",
+   "section": "screen-share",
+   "recommender": "Jay"
+  },
+  {
+   "id": "2025-05-18-19th-season",
+   "name": "19th season",
+   "url": "https://www.youtube.com/watch?v=NE3uOVVjB98&list=PLRWvNQVqAeWKt7kCUfEMdJi40m7H58CJd&index=2",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I feel like my entire personality has become Clair Obscur: Expedition 33 , a wonderful RPG that’s my favorite game of the year so far. It’s just so good. And the soundtrack is outstanding .",
+   "section": "screen-share",
+   "recommender": "Jay"
+  },
+  {
+   "id": "2025-05-18-minimal-phone",
+   "name": "Minimal Phone",
+   "url": "https://minimalcompany.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Received my new Minimal Phone a week ago and it is excellent. There are still some issues to be resolved, but overall there is a ton of potential for this concept of a smart dumb phone.",
+   "section": "crowdsourced",
+   "recommender": "Robert (reader)"
+  },
+  {
+   "id": "2025-05-18-co-intelligence-living-and-working-with-ai",
+   "name": "Co-Intelligence: Living and Working with AI",
+   "url": "https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Currently reading: Co-Intelligence: Living and Working with AI by Ethan Mollick. It’s fantastic so far, and has already changed my mind a bit on the whole AI thing.",
+   "section": "crowdsourced",
+   "recommender": "Matt (reader)"
+  },
+  {
+   "id": "2025-05-18-morsle",
+   "name": "Morsle",
+   "url": "https://morsle.fun/help",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Morsle , the daily word game that gives you the morse code of a 5 letter word to guess.",
+   "section": "crowdsourced",
+   "recommender": "Kev (reader)"
+  },
+  {
+   "id": "2025-05-18-levels",
+   "name": "Levels",
+   "url": "https://www.levels.com/software",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I was a user of Levels for a long time to track my glucose, but didn’t realize you can now buy a Dexcom Stelo for $80 on Amazon and it integrates into Oura ring to understand more about your holistic health. It’s a great alternative if you’re interested in tracking your glucose.",
+   "section": "crowdsourced",
+   "recommender": "Will (reader)"
+  },
+  {
+   "id": "2025-05-18-dexcom-stelo",
+   "name": "Dexcom Stelo",
+   "url": "https://www.stelo.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I was a user of Levels for a long time to track my glucose, but didn’t realize you can now buy a Dexcom Stelo for $80 on Amazon and it integrates into Oura ring to understand more about your holistic health. It’s a great alternative if you’re interested in tracking your glucose.",
+   "section": "crowdsourced",
+   "recommender": "Will (reader)"
+  },
+  {
+   "id": "2025-05-18-oura-ring",
+   "name": "Oura ring",
+   "url": "https://ouraring.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I was a user of Levels for a long time to track my glucose, but didn’t realize you can now buy a Dexcom Stelo for $80 on Amazon and it integrates into Oura ring to understand more about your holistic health. It’s a great alternative if you’re interested in tracking your glucose.",
+   "section": "crowdsourced",
+   "recommender": "Will (reader)"
+  },
+  {
+   "id": "2025-05-18-sony-mdrzx110nc",
+   "name": "Sony MDRZX110NC",
+   "url": "https://www.anrdoezrs.net/click-8836598-15268034?url=https://electronics.sony.com/audio/headphones/headband/p/mdrzx110nc",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My fav cheap headphones that I use most days are the Sony MDRZX110NC , which are kind of noise cancelling, but nothing fancy. My ‘real’ headphones are the MDR-V6 and the long-discontinued MDR-V700DJ that I’ve mostly retired. Not really much of a wireless guy since I just like to plug stuff in.",
+   "section": "crowdsourced",
+   "recommender": "Ben (reader)"
+  },
+  {
+   "id": "2025-05-18-subo",
+   "name": "Subo",
+   "url": "https://www.getsubo.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Got the early bird access to Subo app! It’s an independent app to track your subscriptions, looks pretty too!",
+   "section": "crowdsourced",
+   "recommender": "Kevin (reader)"
+  },
+  {
+   "id": "2025-05-18-long-way-home",
+   "name": "Long Way Home",
+   "url": "https://www.themoviedb.org/tv/262594-long-way-home",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The new season of Ewan McGregor and Charley Boorman’s motorbike travelogue show on Apple TV Plus has started, this time titled Long Way Home . Just a great show for lifting your spirits and for showing the joy of engaging with and enjoying other cultures.",
+   "section": "crowdsourced",
+   "recommender": "Andy (reader)"
+  },
+  {
+   "id": "2025-05-18-siete-churro-strips",
+   "name": "Siete Churro Strips",
+   "url": "https://sietefoods.com/collections/all/products/churro-strips-5-oz-6-bags",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I got the Siete Churro Strips from Wegman’s last week, and I’ve been crumbling them up and putting them on my vanilla ice cream at night. It’s so good to get that little bit of crunch with the vanilla ice cream.",
+   "section": "crowdsourced",
+   "recommender": "Ben (reader)"
+  },
+  {
+   "id": "2025-05-18-displayport-1-2-cables",
+   "name": "DisplayPort 1.2 cables",
+   "url": "https://www.amazon.com/s?k=DisplayPort+1.2+cables&linkCode=ll2&tag=theverge02-20&linkId=bae77c04e6da087dfafc5af0d5d2f97f&language=en_US&tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "Dialing in my work-from-home setup this week. How come no one talks about the fact that you can daisychain monitors with DisplayPort 1.2 cables ?! Also, I am shopping around for a footrest for underneath the desk, and I have no idea where to start.",
+   "section": "crowdsourced",
+   "recommender": "Jeremy (reader)"
+  },
+  {
+   "id": "2025-05-18-youtube-compilations",
+   "name": "YouTube compilations",
+   "url": "https://www.youtube.com/watch?v=EoLjddNcnYU",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I was in New York for a couple of days this week, working on a big new project I am very excited to share with all of you… later. One thing I got to do as part of the project was a deep dive into old Vines, and you know what? Vine was awesome, y’all.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-18-other-youtube-compilations",
+   "name": "other YouTube compilations",
+   "url": "https://www.youtube.com/watch?v=Sdkwu2FvFfI",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I was in New York for a couple of days this week, working on a big new project I am very excited to share with all of you… later. One thing I got to do as part of the project was a deep dive into old Vines, and you know what? Vine was awesome, y’all.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-18-still-other-youtube-compilations",
+   "name": "still other YouTube compilations",
+   "url": "https://www.youtube.com/watch?v=iVK-Pxp3L-k",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I was in New York for a couple of days this week, working on a big new project I am very excited to share with all of you… later. One thing I got to do as part of the project was a deep dive into old Vines, and you know what? Vine was awesome, y’all.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-18-maybe-the-greatest-vine-of-all-time",
+   "name": "maybe the greatest Vine of all time",
+   "url": "https://nymag.com/intelligencer/2016/01/story-of.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If you weren’t around at the time, some of it might make absolutely no sense, but there’s more comedy cold in these six-second videos than you’ll find just about anywhere, And if you’re feeling particularly nostalgic, you should read this story from our friends at New York about maybe the greatest…",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

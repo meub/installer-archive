@@ -1,0 +1,452 @@
+{
+ "schema": 1,
+ "date": "2026-04-18",
+ "post_type": "issue",
+ "title": "The AI apps are coming for your PC",
+ "url": "https://www.theverge.com/tech/914429/the-ai-apps-are-coming-for-your-pc",
+ "author": "David Pierce",
+ "number": 124,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:40+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-04-18-restaurant-bread",
+   "name": "restaurant bread",
+   "url": "https://www.theatlantic.com/magazine/2026/05/best-free-restaurant-bread-america/686582/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about restaurant bread and GLP-1s and Lenny Rachitsky and Artemis II fashion , watching the new boy band doc because I will always watch a boy band doc, also watching every clip I can find from Justin Bieber’s Coachella set, filling the Schitt’s Creek -shaped hole in my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-18-glp-1s",
+   "name": "GLP-1s",
+   "url": "https://www.nytimes.com/interactive/2026/04/15/opinion/glp1-health-effects.html?unlocked_article_code=1.bFA.yxUR.M1YD90YY6QYf",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about restaurant bread and GLP-1s and Lenny Rachitsky and Artemis II fashion , watching the new boy band doc because I will always watch a boy band doc, also watching every clip I can find from Justin Bieber’s Coachella set, filling the Schitt’s Creek -shaped hole in my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-18-lenny-rachitsky",
+   "name": "Lenny Rachitsky",
+   "url": "https://review.firstround.com/reluctantly-influential-inside-lenny-rachitskys-demandingly-chill-life/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about restaurant bread and GLP-1s and Lenny Rachitsky and Artemis II fashion , watching the new boy band doc because I will always watch a boy band doc, also watching every clip I can find from Justin Bieber’s Coachella set, filling the Schitt’s Creek -shaped hole in my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-18-artemis-ii-fashion",
+   "name": "Artemis II fashion",
+   "url": "https://www.gq.com/story/nasa-artemis-ii-recovery-hats-luna-replicas-interview",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about restaurant bread and GLP-1s and Lenny Rachitsky and Artemis II fashion , watching the new boy band doc because I will always watch a boy band doc, also watching every clip I can find from Justin Bieber’s Coachella set, filling the Schitt’s Creek -shaped hole in my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-18-the-new-boy-band-doc",
+   "name": "the new boy band doc",
+   "url": "https://www.themoviedb.org/tv/317875-boy-band-confidential",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about restaurant bread and GLP-1s and Lenny Rachitsky and Artemis II fashion , watching the new boy band doc because I will always watch a boy band doc, also watching every clip I can find from Justin Bieber’s Coachella set, filling the Schitt’s Creek -shaped hole in my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-18-clip",
+   "name": "clip",
+   "url": "https://www.youtube.com/watch?v=He9WmjUvpJ8",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about restaurant bread and GLP-1s and Lenny Rachitsky and Artemis II fashion , watching the new boy band doc because I will always watch a boy band doc, also watching every clip I can find from Justin Bieber’s Coachella set, filling the Schitt’s Creek -shaped hole in my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-18-big-mistakes",
+   "name": "Big Mistakes",
+   "url": "https://www.themoviedb.org/tv/291506-big-mistakes",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about restaurant bread and GLP-1s and Lenny Rachitsky and Artemis II fashion , watching the new boy band doc because I will always watch a boy band doc, also watching every clip I can find from Justin Bieber’s Coachella set, filling the Schitt’s Creek -shaped hole in my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-18-the-mandalorian-and-grogu",
+   "name": "The Mandalorian and Grogu",
+   "url": "https://www.youtube.com/watch?v=uwild1rw7Aw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about restaurant bread and GLP-1s and Lenny Rachitsky and Artemis II fashion , watching the new boy band doc because I will always watch a boy band doc, also watching every clip I can find from Justin Bieber’s Coachella set, filling the Schitt’s Creek -shaped hole in my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-18-openai-codex",
+   "name": "OpenAI Codex",
+   "url": "https://developers.openai.com/codex/app",
+   "alt_urls": [
+    "https://openai.com/index/codex-for-almost-everything/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Here’s OpenAI’s latest stab at an all-in-one AI superapp , which includes a web browser, new coding tools, and a setting that allows Codex to just use your computer for you. Tread lightly, as always, but people seem to be liking Codex a lot recently.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-18-gemini-for-mac",
+   "name": "Gemini for Mac",
+   "url": "https://gemini.google/mac/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m mad at Google for tying its Mac app to a keyboard shortcut lots of people use for other things, and for making the app a login item by default. But! This is immediately the best way yet to interact with Gemini, and even Google Drive and Photos, from your computer. Into my dock it goes.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-18-beef-season-two",
+   "name": "Beef season two",
+   "url": "https://www.themoviedb.org/tv/154385-beef",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Beef is one of the very best shows nobody ever seems to talk about. I’ve been burned before by the “we’ll just do it again but with a whole new cast” premise — looking at you, True Detective — but this is a win even just as a reason to rewatch the first season.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-18-gradient-weather",
+   "name": "Gradient Weather",
+   "url": "https://subtlesignals.studio/gradientweather/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Y’all, I think somebody finally made the gorgeous, simple weather app Android has been desperately needing. It’s very new and very beta, but I love the look, and I love that the whole aesthetic shifts with the weather. Insta-install.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-18-lorne",
+   "name": "Lorne",
+   "url": "https://www.themoviedb.org/movie/1634949-lorne",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "By all accounts this is about as close as anyone has ever gotten to a truly inside look at Saturday Night Live and its semi-mythological creator, Lorne Michaels. Morgan Neville mostly makes great docs and got a ton of access for this one; I’m very excited to watch it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-18-where-are-all-of-these-gpus-actually-going",
+   "name": "Where Are All Of These GPUs Actually Going?",
+   "url": "https://www.youtube.com/watch?v=w-DVTHH1ux8",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Where Are All Of These GPUs Actually Going? ” A very fun answer to a surprisingly complex question: What are companies doing with the unbelievable quantities of chips they’re buying? The numbers are all kind of pretend, and How Money Works does a good job making them make sense.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-18-the-dji-osmo-pocket-4",
+   "name": "The DJI Osmo Pocket 4",
+   "url": null,
+   "alt_urls": [
+    "https://www.theverge.com/tech/912381/dji-osmo-pocket-4-camera-stabilizied-gimbal-4k-slow-motion"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s very sad that this gimbal camera isn’t coming to the US in the near future, because more buttons, better slo-mo, and more built-in storage are all terrific upgrades. I use a Pocket 3 all the time, and will be keeping an eye out for the upgrade.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-18-the-gopro-mission-1-pro-ils",
+   "name": "The GoPro Mission 1 Pro ILS",
+   "url": "https://gopro.com/en/us/info/mission-1-learnmore?clickref=1101lDf8kRqv&clickId=1101lDf8kRqv&promotional_method=Subaffiliate&click_country=US",
+   "alt_urls": [
+    "https://www.theverge.com/gadgets/911324/gopro-mission1-pro-action-video-camera-price-specs"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This one’s still in “coming soon” mode , but it is the first GoPro in a long time I’ve been excited about. Adding an interchangeable lens mount, along with all the other Mission 1 upgrades, is going to completely change the kinds of things people do with GoPros.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-18-coachella-tv",
+   "name": "Coachella TV",
+   "url": "https://www.youtube.com/watch?v=EkIfxAHlgJA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’ve never spent much time with YouTube’s Coachella livestream, but this year’s show has been terrific. It almost feels like a concert doc being shot in real time — and there’s more Bieber to come!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-18-pragmata",
+   "name": "Pragmata",
+   "url": "https://www.capcom-games.com/pragmata/en-us/",
+   "alt_urls": [
+    "https://www.theverge.com/games/910385/pragmata-review-ps5-xbox-switch-2-pc"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I am always here for a game that’s not trying to be a live-service, battle-royale, open-world anything, and instead just sends you on an adventure. It may suffer from being a touch too derivative , but it still appears to be very much my kind of game.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-18-iphone-16-still-too-large-for-me-but-i-had-to-gr",
+   "name": "iPhone 16 – still too large for me, but I had to grudgingly resign to it after m",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 16 – still too large for me, but I had to grudgingly resign to it after my last 13 mini gave up Moore’s ghost.",
+   "section": "screen-share",
+   "recommender": "Maria"
+  },
+  {
+   "id": "2026-04-18-blank-spaces",
+   "name": "Blank Spaces",
+   "url": "https://www.blankspaces.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The apps: Evernote, Phone, Safari. ( Blank Spaces is the app that turns the icons to text.)",
+   "section": "screen-share",
+   "recommender": "Maria"
+  },
+  {
+   "id": "2026-04-18-book-of-birds-a-field-guide-to-wonder-and-loss",
+   "name": "Book of Birds: A Field Guide to Wonder and Loss",
+   "url": "https://wwnorton.com/books/the-book-of-birds",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Robert Macfarlane and Jackie Morris’s Book of Birds: A Field Guide to Wonder and Loss . Joan As Police Woman’s record Lemons, Limes and Orchids . Jad Abumrad’s miniseries Fela Kuti: Fear No Man . The lovely reminder of who we can be in the story of how humanity saved the ginkgo .",
+   "section": "screen-share",
+   "recommender": "Maria"
+  },
+  {
+   "id": "2026-04-18-lemons-limes-and-orchids",
+   "name": "Lemons, Limes and Orchids",
+   "url": "https://joanaspolicewoman.ffm.to/llando",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Robert Macfarlane and Jackie Morris’s Book of Birds: A Field Guide to Wonder and Loss . Joan As Police Woman’s record Lemons, Limes and Orchids . Jad Abumrad’s miniseries Fela Kuti: Fear No Man . The lovely reminder of who we can be in the story of how humanity saved the ginkgo .",
+   "section": "screen-share",
+   "recommender": "Maria"
+  },
+  {
+   "id": "2026-04-18-fela-kuti-fear-no-man",
+   "name": "Fela Kuti: Fear No Man",
+   "url": "https://www.wnycstudios.org/podcasts/dolly-partons-america/articles/jad-abumrads-new-show--fela-kuti-fear-no-man",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Robert Macfarlane and Jackie Morris’s Book of Birds: A Field Guide to Wonder and Loss . Joan As Police Woman’s record Lemons, Limes and Orchids . Jad Abumrad’s miniseries Fela Kuti: Fear No Man . The lovely reminder of who we can be in the story of how humanity saved the ginkgo .",
+   "section": "screen-share",
+   "recommender": "Maria"
+  },
+  {
+   "id": "2026-04-18-how-humanity-saved-the-ginkgo",
+   "name": "how humanity saved the ginkgo",
+   "url": "https://www.themarginalian.org/2025/09/23/ginkgo/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Robert Macfarlane and Jackie Morris’s Book of Birds: A Field Guide to Wonder and Loss . Joan As Police Woman’s record Lemons, Limes and Orchids . Jad Abumrad’s miniseries Fela Kuti: Fear No Man . The lovely reminder of who we can be in the story of how humanity saved the ginkgo .",
+   "section": "screen-share",
+   "recommender": "Maria"
+  },
+  {
+   "id": "2026-04-18-becca-farsace-recommended",
+   "name": "Becca Farsace recommended",
+   "url": "https://www.youtube.com/watch?v=5bFFyLM4Maw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Becca Farsace recommended the OhSnap Mcon on her channel recently and I picked one up. It’s super slick and works great with the Delta emulator so far. I got Goldeneye running just fine with it after a little tuning.",
+   "section": "crowdsourced",
+   "recommender": "Ian (reader)"
+  },
+  {
+   "id": "2026-04-18-ohsnap-mcon",
+   "name": "OhSnap Mcon",
+   "url": "https://ohsnap.com/products/mcon-magnetic-controller?view=gp-template-611082167342072419",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Becca Farsace recommended the OhSnap Mcon on her channel recently and I picked one up. It’s super slick and works great with the Delta emulator so far. I got Goldeneye running just fine with it after a little tuning.",
+   "section": "crowdsourced",
+   "recommender": "Ian (reader)"
+  },
+  {
+   "id": "2026-04-18-plain-text-sports",
+   "name": "Plain Text Sports",
+   "url": "https://plaintextsports.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Really been enjoying Plain Text Sports to follow the start of baseball season. Loads fast, has everything I want with none of the ESPN cruft",
+   "section": "crowdsourced",
+   "recommender": "Rich (reader)"
+  },
+  {
+   "id": "2026-04-18-service-model",
+   "name": "Service Model",
+   "url": "https://us.macmillan.com/books/9781250290281/servicemodel/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve almost finished reading Service Model by Adrian Tchaikovsky and I’m obsessed: equal amounts of humor and existential dread. It’s very silly, very thoughtful, and frankly a very Verge -y take on technology.",
+   "section": "crowdsourced",
+   "recommender": "Olof (reader)"
+  },
+  {
+   "id": "2026-04-18-aborted",
+   "name": "Aborted",
+   "url": "https://www.youtube.com/watch?v=vEX9wsEI8dA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "YouTube has been my recent go-to for surprisingly good short films that you would probably never hear about or would probably get lost in the Hollywood machine. For instance, this one called Aborted was amazing and there are more like it out there.",
+   "section": "crowdsourced",
+   "recommender": "Steve (reader)"
+  },
+  {
+   "id": "2026-04-18-series-about-the-birth-of-the-internet",
+   "name": "series about the birth of the internet",
+   "url": "https://www.youtube.com/watch?v=zmyBSrQodnI",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Definitely watch Jon Bois’ hilarious, quirky, and informative series about the birth of the internet mashed up with Home Improvement TV show references.",
+   "section": "crowdsourced",
+   "recommender": "Logan (reader)"
+  },
+  {
+   "id": "2026-04-18-alcove",
+   "name": "Alcove",
+   "url": "https://tryalcove.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I bought a MacBook Air a few weeks ago after looking at the Neo and getting fed up by Windows, and I bought a few helper apps to fix small annoyances I had with the notch and Spotlight.",
+   "section": "crowdsourced",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-18-tinystart",
+   "name": "TinyStart",
+   "url": "https://tinystart.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I bought a MacBook Air a few weeks ago after looking at the Neo and getting fed up by Windows, and I bought a few helper apps to fix small annoyances I had with the notch and Spotlight.",
+   "section": "crowdsourced",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-18-knights-of-last-call",
+   "name": "Knights of Last Call",
+   "url": "https://www.youtube.com/c/knightsoflastcall",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "My passion for discovering TTRPGs and learning about game design has led me into a deep dive on the Youtube channel Knights of Last Call . Long live-streams and VODs and a super active community have opened my eyes to even more of what is possible in TTRPGs.",
+   "section": "crowdsourced",
+   "recommender": "Simeon (reader)"
+  },
+  {
+   "id": "2026-04-18-shrinking",
+   "name": "Shrinking",
+   "url": "https://www.themoviedb.org/tv/136311-shrinking",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Season 3 of Shrinking on Apple TV just ended on such a powerful note. The ensemble cast just keeps bringing it and the writing realistically takes on all kinds of human problems we all deal with or know about. A+",
+   "section": "crowdsourced",
+   "recommender": "Aaron (reader)"
+  },
+  {
+   "id": "2026-04-18-the-big-idea",
+   "name": "The Big Idea",
+   "url": "https://whatever.scalzi.com/category/big-idea/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I find SO MANY great book recommendations thanks to The Big Idea feature on John Scalzi’s blog, Whatever !",
+   "section": "crowdsourced",
+   "recommender": "Steve (reader)"
+  },
+  {
+   "id": "2026-04-18-a-variety-pack-of-candy-from-yumearth",
+   "name": "a variety pack of candy from YumEarth",
+   "url": "https://yumearth.com/products/variety-pack-30ct?variant=47433058418933",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "You surely already know this, but I spend way too much time on snacks. Eating them. Researching them. Thinking about them. Longing for more of them. And I know I’m not alone! So I have big news: My wife recently brought home a variety pack of candy from YumEarth , and it’s all excellent.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

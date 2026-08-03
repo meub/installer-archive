@@ -1,0 +1,704 @@
+{
+ "schema": 1,
+ "date": "2026-06-27",
+ "post_type": "issue",
+ "title": "This might be the new best smart speaker",
+ "url": "https://www.theverge.com/tech/958127/google-home-speaker-star-fox-installer",
+ "author": "David Pierce",
+ "number": 134,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:41+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-06-27-polymarket-lies",
+   "name": "Polymarket lies",
+   "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=KqPFRE",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Polymarket lies and Jalen Brunson and the Arts and Crafts Movement , watching Not Suitable for Work and way too much of the World Cup, trying to catch up on The Bear before the final season starts, playing a bunch of Hank Green’s 4x3 game , trying my absolute…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-27-jalen-brunson",
+   "name": "Jalen Brunson",
+   "url": "https://nymag.com/intelligencer/article/jalen-brunson-interview-new-york-knicks-championship.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Polymarket lies and Jalen Brunson and the Arts and Crafts Movement , watching Not Suitable for Work and way too much of the World Cup, trying to catch up on The Bear before the final season starts, playing a bunch of Hank Green’s 4x3 game , trying my absolute…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-27-the-arts-and-crafts-movement",
+   "name": "the Arts and Crafts Movement",
+   "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Polymarket lies and Jalen Brunson and the Arts and Crafts Movement , watching Not Suitable for Work and way too much of the World Cup, trying to catch up on The Bear before the final season starts, playing a bunch of Hank Green’s 4x3 game , trying my absolute…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-27-not-suitable-for-work",
+   "name": "Not Suitable for Work",
+   "url": "https://www.themoviedb.org/tv/284725-not-suitable-for-work?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Polymarket lies and Jalen Brunson and the Arts and Crafts Movement , watching Not Suitable for Work and way too much of the World Cup, trying to catch up on The Bear before the final season starts, playing a bunch of Hank Green’s 4x3 game , trying my absolute…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-27-the-bear",
+   "name": "The Bear",
+   "url": "https://www.themoviedb.org/tv/136315-the-bear",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Polymarket lies and Jalen Brunson and the Arts and Crafts Movement , watching Not Suitable for Work and way too much of the World Cup, trying to catch up on The Bear before the final season starts, playing a bunch of Hank Green’s 4x3 game , trying my absolute…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-27-4x3-game",
+   "name": "4x3 game",
+   "url": "https://www.hankgreen.com/fourbythree",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Polymarket lies and Jalen Brunson and the Arts and Crafts Movement , watching Not Suitable for Work and way too much of the World Cup, trying to catch up on The Bear before the final season starts, playing a bunch of Hank Green’s 4x3 game , trying my absolute…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-27-amazing-stanley-kubrick-collection",
+   "name": "amazing Stanley Kubrick collection",
+   "url": "https://www.criterion.com/boxsets/9000-the-complete-kubrick",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Polymarket lies and Jalen Brunson and the Arts and Crafts Movement , watching Not Suitable for Work and way too much of the World Cup, trying to catch up on The Bear before the final season starts, playing a bunch of Hank Green’s 4x3 game , trying my absolute…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-27-new-airtags",
+   "name": "new AirTags",
+   "url": "https://www.amazon.com/Apple-AirTag-2nd-Generation-Precision/dp/B0GJTXVN9Z?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Polymarket lies and Jalen Brunson and the Arts and Crafts Movement , watching Not Suitable for Work and way too much of the World Cup, trying to catch up on The Bear before the final season starts, playing a bunch of Hank Green’s 4x3 game , trying my absolute…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-27-charging-cables",
+   "name": "charging cables",
+   "url": "https://www.amazon.com/Anker-Charging-MacBook-Galaxy-Charger/dp/B088NRLMPV?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Polymarket lies and Jalen Brunson and the Arts and Crafts Movement , watching Not Suitable for Work and way too much of the World Cup, trying to catch up on The Bear before the final season starts, playing a bunch of Hank Green’s 4x3 game , trying my absolute…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-27-data-centers",
+   "name": "data centers",
+   "url": "https://newrepublic.com/article/211363/ai-data-center-oral-history",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Polymarket lies and Jalen Brunson and the Arts and Crafts Movement , watching Not Suitable for Work and way too much of the World Cup, trying to catch up on The Bear before the final season starts, playing a bunch of Hank Green’s 4x3 game , trying my absolute…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-27-steven-spielberg",
+   "name": "Steven Spielberg",
+   "url": "https://www.vulture.com/article/oral-history-of-steven-spielberg-and-his-movies.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Polymarket lies and Jalen Brunson and the Arts and Crafts Movement , watching Not Suitable for Work and way too much of the World Cup, trying to catch up on The Bear before the final season starts, playing a bunch of Hank Green’s 4x3 game , trying my absolute…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-27-the-google-home-speaker",
+   "name": "The Google Home Speaker",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://store.google.com/us/product/google_home_speaker?pli=1&hl=en-US",
+   "alt_urls": [
+    "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Nine months later, it’s finally on sale! I mostly really like it so far — for its size and $99 price it’s a very serviceable speaker, and since all I really need is “put this on my calendar” and “play this song on Spotify,” Gemini is a winner.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-27-star-fox",
+   "name": "Star Fox",
+   "url": "https://www.nintendo.com/us/store/products/star-fox-switch-2/",
+   "alt_urls": [
+    "https://www.theverge.com/entertainment/955300/star-fox-review-nintendo-switch-2"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "I was very much raised by the Nintendo 64, but I confess I never really got into Star Fox . This is good news for Adult David, because now I get to experience this game — which is by all accounts a pretty faithful and solid remake of the original — for the very first time.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-27-the-atonemo-nts-radio-player",
+   "name": "The Atonemo NTS Radio Player",
+   "url": "https://shop.nts.live/products/atonemo-nts-radio-player",
+   "alt_urls": [
+    "https://www.nts.live/infinite-mixtapes"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I don’t know why I’m such a sucker for adorable little music players, but there’s just nothing I can do about it. This one is beautiful , and I love that it both supports streaming services and offers a bunch of just-turn-it-on radio options. The NTS infinite mixtapes always seem to hit.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-27-the-revolt-against-technology",
+   "name": "The Revolt Against Technology",
+   "url": "https://www.youtube.com/watch?v=vhYS1diXZMM",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ The Revolt Against Technology .” Really great video from Jared Henderson about what he calls “the new Luddites,” or more broadly the ongoing backlash against everything tech has become in our lives.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-27-claude-tag",
+   "name": "Claude Tag",
+   "url": "https://www.anthropic.com/news/introducing-claude-tag",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Work chat is so obviously a useful place for AI as a way to find information and accomplish simple stuff. There are going to be a lot of weird social questions to figure out here — can you @claude a request from your boss, right in-line in Slack? — but I suspect I’ll end up using this a lot.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-27-meta-glasses",
+   "name": "Meta Glasses",
+   "url": "https://www.meta.com/ai-glasses/meta-glasses/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m so torn on these. Love that they’re cheaper, love that they’re lower-profile, even love a couple of the styles. But… Meta. I wish I could get a pair of these that were just a camera, a microphone, speakers, and precisely nothing else.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-27-deltarune-chapter-5",
+   "name": "Deltarune Chapter 5",
+   "url": "https://deltarune.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A bunch of new content for an absolutely beloved game just dropped, and both the Steam charts and my social feeds suggest that people are into it. If you’ve been in this world for a while, it apparently ties a lot of things together; if you’re new, like me, it feels like the perfect time to dive in.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-27-avatar-the-last-airbender-season-two",
+   "name": "Avatar: The Last Airbender season two",
+   "url": "https://www.themoviedb.org/tv/82452-avatar-the-last-airbender",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "An Installerverse favorite is back! Heard a bunch of good things about this season, too; the general consensus seems to be that nothing could or will ever top the original, but that’s okay and this one’s a great time. I’m always in the market for shows that are just a great time.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-27-why-everyone-wants-a-live-service-game",
+   "name": "Why Everyone Wants A ‘Live-Service’ Game",
+   "url": "https://www.youtube.com/watch?v=rBwuxx5XSYc",
+   "alt_urls": [
+    "https://www.readergrev.com/p/why-jason-schreier-started-a-youtube-channel"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Why Everyone Wants A ‘Live-Service’ Game .” Jason Schreier’s ( still new-ish ) YouTube channel is full of good reporting and good stories, but this one in particular did a really nice job of answering a really complicated question: Why does everyone keep making these huge, expensive, oversized…",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-27-christopher-lawley",
+   "name": "Christopher Lawley",
+   "url": "https://www.youtube.com/@ChrisLawley",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Three or four times a year, I decide to try and make my iPad my main computer. This is almost always Christopher Lawley ’s fault. He is always making these extremely cool, glamorous videos about how to use your iPad! Tablet life seems so peaceful and sane when Chris does it.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-parchment",
+   "name": "Parchment",
+   "url": "https://www.patreon.com/Lawley/posts/my-new-app-161686953",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been a fan of Chris’ work forever, and got excited all over again when I saw that he’s been working on a new tasks / planner app called Parchment . (Not to brag, but I am in the TestFlight.)",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-photo-i-took-at-bass-lake",
+   "name": "photo I took at Bass Lake",
+   "url": "https://theuntitled.site/images/_IMG_2885.jpeg",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: The wallpaper I am currently using is a photo I took at Bass Lake . About 12 hours from this point, a massive snowstorm rolled in and trapped us for an extra day — it was a fantastic trip.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-obsidian",
+   "name": "Obsidian",
+   "url": "https://apps.apple.com/us/app/obsidian-connected-notes/id1557175442?uo=4",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "I have to start with my beloved Obsidian . At its core Obsidian is a lightweight note-taking/writing app. If you will allow me a self-indulgent plug for a second: If Obsidian seems daunting to you I made a starter’s guide for it.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-starters-guide",
+   "name": "starter’s guide",
+   "url": "https://youtu.be/xR5-0XDkwU0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I have to start with my beloved Obsidian . At its core Obsidian is a lightweight note-taking/writing app. If you will allow me a self-indulgent plug for a second: If Obsidian seems daunting to you I made a starter’s guide for it.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-web-clipper",
+   "name": "web clipper",
+   "url": "https://apps.apple.com/us/app/obsidian-web-clipper/id6720708363?uo=4",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "I have to start with my beloved Obsidian . At its core Obsidian is a lightweight note-taking/writing app. If you will allow me a self-indulgent plug for a second: If Obsidian seems daunting to you I made a starter’s guide for it.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-claude-cowork",
+   "name": "Claude Cowork",
+   "url": "https://claude.com/product/cowork",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I spent four years working a full-time job while trying to build my YouTube channel. I never automated my creative work, but even with a YouTube channel there is a ton of administrative work that goes behind the scenes.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-codex",
+   "name": "Codex",
+   "url": "https://openai.com/codex/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I spent four years working a full-time job while trying to build my YouTube channel. I never automated my creative work, but even with a YouTube channel there is a ton of administrative work that goes behind the scenes.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-i-built-a-shortcut",
+   "name": "I built a shortcut",
+   "url": "https://www.icloud.com/shortcuts/91c52d10c4904fbdb32b2e1b78b390b8",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I spent four years working a full-time job while trying to build my YouTube channel. I never automated my creative work, but even with a YouTube channel there is a ton of administrative work that goes behind the scenes.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-final-cut-pro",
+   "name": "Final Cut Pro",
+   "url": "https://apps.apple.com/us/app/final-cut-pro-create-video/id1631624924?uo=4",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "A few creative apps I use on my iPad are Final Cut Pro , Lightroom , and Photoshop . I did try to go all in on Apple’s Creator Studio, but the lack of lens profiles in Pixelmator Pro specifically caused me to go back to Lightroom. For me, I can get my work done in all of these apps.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-lightroom",
+   "name": "Lightroom",
+   "url": "https://apps.apple.com/us/app/adobe-lightroom-for-ipad/id804177739?uo=4",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "A few creative apps I use on my iPad are Final Cut Pro , Lightroom , and Photoshop . I did try to go all in on Apple’s Creator Studio, but the lack of lens profiles in Pixelmator Pro specifically caused me to go back to Lightroom. For me, I can get my work done in all of these apps.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-photoshop",
+   "name": "Photoshop",
+   "url": "https://apps.apple.com/us/app/adobe-photoshop-photo-editor/id1457771281?uo=4",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "A few creative apps I use on my iPad are Final Cut Pro , Lightroom , and Photoshop . I did try to go all in on Apple’s Creator Studio, but the lack of lens profiles in Pixelmator Pro specifically caused me to go back to Lightroom. For me, I can get my work done in all of these apps.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-pixelmator-pro",
+   "name": "Pixelmator Pro",
+   "url": "https://apps.apple.com/us/app/pixelmator-pro-edit-images/id6746662575?uo=4",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "A few creative apps I use on my iPad are Final Cut Pro , Lightroom , and Photoshop . I did try to go all in on Apple’s Creator Studio, but the lack of lens profiles in Pixelmator Pro specifically caused me to go back to Lightroom. For me, I can get my work done in all of these apps.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-matt-birchler",
+   "name": "Matt Birchler",
+   "url": "https://birchtree.me/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My pal Matt Birchler has been on a bit of a tear lately making a bunch of apps. One of his more recent ones that I have fallen in love with is Quick Reads . This is a read-it-later service, with support for listening to articles with really good, natural-sounding voices.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-quick-reads",
+   "name": "Quick Reads",
+   "url": "https://quickreads.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My pal Matt Birchler has been on a bit of a tear lately making a bunch of apps. One of his more recent ones that I have fallen in love with is Quick Reads . This is a read-it-later service, with support for listening to articles with really good, natural-sounding voices.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-indigo",
+   "name": "Indigo",
+   "url": "https://apps.apple.com/us/app/indigo-for-bluesky-mastodon/id6763755310?uo=4",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "I have been desperate to replace Twitter ever since its downfall. I have ended up in two places, Mastodon and Bluesky. Indigo combines both feeds into a single timeline. You can even post to both platforms at once. I really like it as a way to keep up with friends and people I follow.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-nintendo-music",
+   "name": "Nintendo Music",
+   "url": "https://apps.apple.com/us/app/nintendo-music/id6466376604?uo=4",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "An app that isn’t on my home screen but I use a lot is the Nintendo Music app. I love this app for when I need to get work done. I am somebody that can’t focus when music with lyrics is playing, but a completely quiet room drives me up the wall.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-breath-of-the-wild",
+   "name": "Breath of the Wild",
+   "url": "https://music.nintendo.com/shared/en-US/US/officialPlaylists/0020ba7c-1b80-4383-ac6e-cde342234985",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "An app that isn’t on my home screen but I use a lot is the Nintendo Music app. I love this app for when I need to get work done. I am somebody that can’t focus when music with lyrics is playing, but a completely quiet room drives me up the wall.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-tears-of-the-kingdom",
+   "name": "Tears of the Kingdom",
+   "url": "https://music.nintendo.com/shared/en-US/US/officialPlaylists/8aa39bfe-4c9d-4c8f-ad33-97686e9a59fc",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "An app that isn’t on my home screen but I use a lot is the Nintendo Music app. I love this app for when I need to get work done. I am somebody that can’t focus when music with lyrics is playing, but a completely quiet room drives me up the wall.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-animal-crossing-tracks",
+   "name": "Animal Crossing tracks",
+   "url": "https://music.nintendo.com/shared/en-US/US/officialPlaylists/b0e5954d-9eda-4a8c-864b-a268cc39c06f",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "An app that isn’t on my home screen but I use a lot is the Nintendo Music app. I love this app for when I need to get work done. I am somebody that can’t focus when music with lyrics is playing, but a completely quiet room drives me up the wall.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-007-first-light",
+   "name": "007: First Light",
+   "url": "https://ioi.dk/007firstlightgame",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just finished 007: First Light . What a fantastic game. As somebody who has seen every 007 movie a few times (yes, even Die Another Day ), I loved this version of Bond. What a great game. I’ve been really into 3D printing lately. I got a Bambu Lab A1 for Christmas.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-bambu-lab-a1",
+   "name": "Bambu Lab A1",
+   "url": "https://us.store.bambulab.com/products/a1",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just finished 007: First Light . What a fantastic game. As somebody who has seen every 007 movie a few times (yes, even Die Another Day ), I loved this version of Bond. What a great game. I’ve been really into 3D printing lately. I got a Bambu Lab A1 for Christmas.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-gridfinity",
+   "name": "Gridfinity",
+   "url": "https://gridfinity.xyz",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just finished 007: First Light . What a fantastic game. As somebody who has seen every 007 movie a few times (yes, even Die Another Day ), I loved this version of Bond. What a great game. I’ve been really into 3D printing lately. I got a Bambu Lab A1 for Christmas.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-instagram-account",
+   "name": "Instagram account",
+   "url": "https://www.instagram.com/lifeofrileygolden",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just finished 007: First Light . What a fantastic game. As somebody who has seen every 007 movie a few times (yes, even Die Another Day ), I loved this version of Bond. What a great game. I’ve been really into 3D printing lately. I got a Bambu Lab A1 for Christmas.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2026-06-27-polastax",
+   "name": "Polastax",
+   "url": "https://polastax.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have been looking into the Polastax project, which basically uses a cheap film holder to let you shoot Instax film on old Polaroid pack film cameras. It’s super kludgey: You can only take one shot at a time and then you have to put it into an Instax wide body to ‘develop’ the shot.",
+   "section": "crowdsourced",
+   "recommender": "Richard (reader)"
+  },
+  {
+   "id": "2026-06-27-star-city",
+   "name": "Star City",
+   "url": "https://www.themoviedb.org/tv/252107-star-city",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Watching Star City (spin-off of For All Mankind ) actually made me rewatch FAM season 1, and there are nice call-backs. These TV shows are top notch for me.",
+   "section": "crowdsourced",
+   "recommender": "Fabrice (reader)"
+  },
+  {
+   "id": "2026-06-27-for-all-mankind",
+   "name": "For All Mankind",
+   "url": "https://www.themoviedb.org/tv/87917-for-all-mankind",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Watching Star City (spin-off of For All Mankind ) actually made me rewatch FAM season 1, and there are nice call-backs. These TV shows are top notch for me.",
+   "section": "crowdsourced",
+   "recommender": "Fabrice (reader)"
+  },
+  {
+   "id": "2026-06-27-xreal-one-pros",
+   "name": "XReal One Pros",
+   "url": "https://us.shop.xreal.com/products/xreal-one-pro",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I got a pair of XReal One Pros and I’ve been using them to watch movies and play games on the Steam Deck. Really cool tech. The way it can 3D convert any video on the fly so seamlessly is amazing. It has a very crisp image as well.",
+   "section": "crowdsourced",
+   "recommender": "Yoinks (reader)"
+  },
+  {
+   "id": "2026-06-27-hdhomerun",
+   "name": "HDHomeRun",
+   "url": "https://www.silicondust.com/hdhomerun/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Over-the-air HD digital broadcast is still a thing and, coupled with a cheap DVR like HDHomeRun makes catching the World Cup when time permits super easy (and free, too!).",
+   "section": "crowdsourced",
+   "recommender": "David (reader)"
+  },
+  {
+   "id": "2026-06-27-into-the-spider-verse",
+   "name": "Into the Spider-Verse",
+   "url": "https://open.spotify.com/album/5KP2NReDL2Bv0QLzHSvUwM",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "Currently I’m following up on some Installer advice from a few weeks ago and listening to soundtracks while I’m working. It’s difficult to focus, though, while the score for Into the Spider-Verse is pulsing through my speakers.",
+   "section": "crowdsourced",
+   "recommender": "Ben (reader)"
+  },
+  {
+   "id": "2026-06-27-shoe-dog-a-memoir-by-the-creator-of-nike",
+   "name": "Shoe Dog: A Memoir by the Creator of Nike",
+   "url": "https://www.simonandschuster.com/books/Shoe-Dog/Phil-Knight/9781501135927",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just started Shoe Dog: A Memoir by the Creator of Nike , by Phil Knight. Excited to hear the story of one of the world’s biggest brands, especially right now as it struggles to adapt to the modern era of running shoes.",
+   "section": "crowdsourced",
+   "recommender": "Ryan (reader)"
+  },
+  {
+   "id": "2026-06-27-ohsnap",
+   "name": "OhSnap",
+   "url": "https://ohsnap.com/products/snap-grip-stand",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "RE: PopSocket Low-Pro Grip. OhSnap did it first, and it’s great!",
+   "section": "crowdsourced",
+   "recommender": "Deb (reader)"
+  },
+  {
+   "id": "2026-06-27-stilo-stile",
+   "name": "Stilo & Stile",
+   "url": "https://www.stiloestile.com/en/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Lately I’ve gotten into fountain pens and inks. I love, love, love the online shop by Italian company Stilo & Stile . Inks are swatched and so are most of the fountain pens, plus you can whittle it down to every nook and cranny! JetPens has a terrific online store as well.",
+   "section": "crowdsourced",
+   "recommender": "Elif (reader)"
+  },
+  {
+   "id": "2026-06-27-jetpens",
+   "name": "JetPens",
+   "url": "https://www.jetpens.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Lately I’ve gotten into fountain pens and inks. I love, love, love the online shop by Italian company Stilo & Stile . Inks are swatched and so are most of the fountain pens, plus you can whittle it down to every nook and cranny! JetPens has a terrific online store as well.",
+   "section": "crowdsourced",
+   "recommender": "Elif (reader)"
+  },
+  {
+   "id": "2026-06-27-on-together",
+   "name": "On-Together",
+   "url": "https://store.steampowered.com/app/3707400/OnTogether_Virtual_CoWorking/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "The game On-Together is kind of having a moment right now . Though I’m not even sure I’d call it a game. It’s just an online space: You join a server, walk around for a while, find a spot to sit, and sit. Sit a while, get tickets, buy new stuff for your avatar. That’s it!",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-27-having",
+   "name": "having",
+   "url": "https://www.teenvogue.com/story/focus-gaming-apps-that-help-combat-adhd-like-behavior",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The game On-Together is kind of having a moment right now . Though I’m not even sure I’d call it a game. It’s just an online space: You join a server, walk around for a while, find a spot to sit, and sit. Sit a while, get tickets, buy new stuff for your avatar. That’s it!",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-27-right-now",
+   "name": "right now",
+   "url": "https://aftermath.site/on-together-co-working-body-doubling-productivity/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The game On-Together is kind of having a moment right now . Though I’m not even sure I’d call it a game. It’s just an online space: You join a server, walk around for a while, find a spot to sit, and sit. Sit a while, get tickets, buy new stuff for your avatar. That’s it!",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-27-admin-nights",
+   "name": "admin nights",
+   "url": "https://www.newyorker.com/magazine/2026/06/22/misery-loves-company-if-there-are-snacks",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Right next to this game’s popularity is the concept of “ admin nights ,” which is basically when you get together with a bunch of strangers to accomplish all your boring tasks together. I love this idea! We should do an Installerverse admin night one of these days.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

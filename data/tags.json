@@ -1,0 +1,7 @@
+{
+  "format": ["tv", "movie", "video", "podcast", "music", "book", "article", "newsletter", "website"],
+  "platform": ["ios", "android", "mac", "windows", "web", "cross-platform"],
+  "price": ["free", "paid", "subscription"],
+  "topic": ["productivity", "photography", "ai", "smart-home", "fitness", "social", "utilities", "travel"],
+  "meta": ["open-source", "beta", "kickstarter"]
+}

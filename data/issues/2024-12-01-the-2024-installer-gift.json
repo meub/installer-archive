@@ -1,0 +1,556 @@
+{
+ "schema": 1,
+ "date": "2024-12-01",
+ "post_type": "special",
+ "title": "The 2024 Installer gift guide, part one",
+ "url": "https://www.theverge.com/2024/12/1/24308191/tech-gifts-2024-installer-newsletter",
+ "author": "David Pierce",
+ "number": 62,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "gift-guide-part-one",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:36+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-12-01-junk-food",
+   "name": "junk food",
+   "url": "https://www.nytimes.com/2024/11/19/magazine/ozempic-junk-food.html?unlocked_article_code=1.cE4.mHeg.lJRLC1jjDiAP&__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about junk food and Madden 2004 and Anthony Jeselnik , watching Wicked and immediately making sure to hold space for the lyrics of “Defying Gravity,” exploring the back catalog of 60 Second Docs (which I found thanks to Jason Kottke ), watching a lot of Thomas the Tank…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-madden-2004",
+   "name": "Madden 2004",
+   "url": "https://www.espn.com/nfl/story/_/id/38433223/the-cheat-code-20-years-later-michael-vick-lasting-madden-legacy",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about junk food and Madden 2004 and Anthony Jeselnik , watching Wicked and immediately making sure to hold space for the lyrics of “Defying Gravity,” exploring the back catalog of 60 Second Docs (which I found thanks to Jason Kottke ), watching a lot of Thomas the Tank…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-anthony-jeselnik",
+   "name": "Anthony Jeselnik",
+   "url": "https://www.vulture.com/article/anthony-jeselnik-bones-and-all-stand-up-comedy-profile.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about junk food and Madden 2004 and Anthony Jeselnik , watching Wicked and immediately making sure to hold space for the lyrics of “Defying Gravity,” exploring the back catalog of 60 Second Docs (which I found thanks to Jason Kottke ), watching a lot of Thomas the Tank…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-wicked",
+   "name": "Wicked",
+   "url": "https://www.themoviedb.org/movie/402431-wicked?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about junk food and Madden 2004 and Anthony Jeselnik , watching Wicked and immediately making sure to hold space for the lyrics of “Defying Gravity,” exploring the back catalog of 60 Second Docs (which I found thanks to Jason Kottke ), watching a lot of Thomas the Tank…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-60-second-docs",
+   "name": "60 Second Docs",
+   "url": "https://www.youtube.com/@60secdocs",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about junk food and Madden 2004 and Anthony Jeselnik , watching Wicked and immediately making sure to hold space for the lyrics of “Defying Gravity,” exploring the back catalog of 60 Second Docs (which I found thanks to Jason Kottke ), watching a lot of Thomas the Tank…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-jason-kottke",
+   "name": "Jason Kottke",
+   "url": "https://kottke.org/24/11/meteorite-hunter",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about junk food and Madden 2004 and Anthony Jeselnik , watching Wicked and immediately making sure to hold space for the lyrics of “Defying Gravity,” exploring the back catalog of 60 Second Docs (which I found thanks to Jason Kottke ), watching a lot of Thomas the Tank…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-shop-for-pizza-stones",
+   "name": "shop for pizza stones",
+   "url": "https://www.seriouseats.com/best-pizza-stones-8379663",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about junk food and Madden 2004 and Anthony Jeselnik , watching Wicked and immediately making sure to hold space for the lyrics of “Defying Gravity,” exploring the back catalog of 60 Second Docs (which I found thanks to Jason Kottke ), watching a lot of Thomas the Tank…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-the-rest-is-classified",
+   "name": "The Rest is Classified",
+   "url": "https://linktr.ee/triclassified",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about junk food and Madden 2004 and Anthony Jeselnik , watching Wicked and immediately making sure to hold space for the lyrics of “Defying Gravity,” exploring the back catalog of 60 Second Docs (which I found thanks to Jason Kottke ), watching a lot of Thomas the Tank…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-craft-3",
+   "name": "Craft 3",
+   "url": "https://www.craft.do/",
+   "alt_urls": [
+    "https://www.theverge.com/2024/11/28/24307906/craft-3-notes-tasks-calendar-app-mac-iphone-windows"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I say this with (I think) no hyperbole or recency bias: this is the closest thing I’ve ever tried to my perfect note-taking app . The new version does a wonderful job integrating tasks, events, and notes, and the whole thing just makes sense.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-the-dji-mic-mini",
+   "name": "The DJI Mic Mini",
+   "url": "https://www.dji.com/mic-mini",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=3FkvBsFYLBo"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I trust The Verge’s Andru Marino on all things audio and microphones, and he’s a fan of DJI’s small, surprisingly good-sounding $169 portable mic. Please, please use this instead of that stupid lapel mic everybody holds on TikTok.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-its-in-the-game",
+   "name": "It’s in the Game",
+   "url": "https://www.themoviedb.org/tv/276527-it-s-in-the-game-madden-nfl?language=gl-ES",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Four hours of archival footage, behind-the-scenes process, and NFL players raving about how much they love Madden is a pretty good argument for me to watch a doc. It skews a little more infomercial than thoughtful in spots, but it’s still a really fun watch if you like virtual football.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-robot-dreams",
+   "name": "Robot Dreams",
+   "url": "https://www.themoviedb.org/movie/838240-robot-dreams?language=en-US",
+   "alt_urls": [
+    "https://www.polygon.com/animation-cartoons/484278/robot-dreams-hulu-watch-streaming-ending"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This one’s not strictly new — it came out in 2023 and was nominated for Best Animated Feature — but until now, it’s been hard to stream this adorable, surprisingly affecting movie about a robot and dog duo. Add this to the list this holiday season.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-the-telepathic-instruments-orchid",
+   "name": "The Telepathic Instruments Orchid",
+   "url": "https://telepathicinstruments.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Oh no, another extremely cool-looking music maker that I will never make proper use of but totally want anyway. This one’s from Tame Impala’s Kevin Parker, and there’s not much detail yet, but it looks fantastic.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-stuff",
+   "name": "Stuff",
+   "url": "https://www.themitycompany.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A new, nice-looking app for notes and tasks. I really like its Dependencies feature, which keeps projects in order — you can’t do task 3 until you do task 2, which you can’t do before task 1. Stuff’s developer got some flack for the fact that this app looks like Things, which it does!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-the-b-o-beoplay-eleven",
+   "name": "The B&O Beoplay Eleven",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://www.bang-olufsen.com/en/us/earphones/beoplay-eleven?variant=beoplay-eleven-natural-aluminium",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "AirPods Pro, only way better-looking. And $500. B&O is making big claims about sound quality and noise cancellation here, and I’m somewhat skeptical of them, but the design alone (especially that copper model) is a huge upgrade.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-microsoft-recall",
+   "name": "Microsoft Recall",
+   "url": "https://blogs.windows.com/windows-insider/2024/11/22/previewing-recall-with-click-to-do-on-copilot-pcs-with-windows-insiders-in-the-dev-channel/",
+   "alt_urls": [
+    "https://www.theverge.com/2024/11/22/24302947/microsoft-recall-windows-insider-testing-dev-channel-click-to-do"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "For a while, it looked like Microsoft’s all-knowing private AI was never going to launch. But it’s here, ish ! You’ll need a Qualcomm-powered Copilot Plus PC, which you … probably don’t have. But if you do, give this a whirl and tell me how you like it. I’m so curious.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-ultimate-ears-bluetooth-speakers",
+   "name": "Ultimate Ears Bluetooth speakers",
+   "url": "https://ultimate-ears.dubn.net/c/482924/1633468/8590?u=https%3A%2F%2Fwww.ultimateears.com%2Fen-us%2Fshop%2Fc%2Fwireless-speakers",
+   "alt_urls": [
+    "https://ultimate-ears.dubn.net/c/482924/1633468/8590?u=https%3A%2F%2Fwww.ultimateears.com%2Fen-us%2Fshop%2Fp%2Fwonderboom-4.984-001876"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I have a Wonderboom in my bathroom for shower tunes, another in my luggage for travel, and a third just in case. UE’s lineup of speakers ranges from huge and expensive to tiny and cheap, but they’re all durable and long-lasting and sound good. You truly can’t go wrong.",
+   "section": "gift-guide-part-one",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-the-steam-deck-oled",
+   "name": "The Steam Deck OLED",
+   "url": "https://www.steamdeck.com/en/oled",
+   "alt_urls": [
+    "https://www.theverge.com/2024/11/19/24300991/playstation-portal-cloud-streaming-update-beta-ps5-games"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "At $549, this one’s certainly no stocking stuffer, but I’d argue this is the best gift you can give a gamer right now. (With a possible nod to the PlayStation Portal, which now streams games and suddenly seems way more worthwhile than before.)",
+   "section": "gift-guide-part-one",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-the-shokz-openrun-pro-2",
+   "name": "The Shokz OpenRun Pro 2",
+   "url": "https://shokz.com/products/openrunpro2",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Look, you’ll probably end up gifting or getting AirPods. Which are great! But if you’re looking for headphones to wear on walks, runs, bike rides, or just while you’re also living the rest of your life, open-ear is the way. These are my most-used headphones right now, and it’s not close.",
+   "section": "gift-guide-part-one",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-this-anker-one",
+   "name": "this Anker one",
+   "url": "https://www.amazon.com/gp/product/B08GKL41V4?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "A charger / power bank combo. It’s like a universal charger — plug it into the wall, or just plug it into your device, and you’ll always have juice. I have this Anker one , which I like, but I don’t have particular brand loyalty here. It’s just the combo that’s magic.",
+   "section": "gift-guide-part-one",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-the-kindle-paperwhite",
+   "name": "The Kindle Paperwhite",
+   "url": "https://www.amazon.com/dp/B0CFPJYX7P?tag=theverge02-20",
+   "alt_urls": [
+    "https://www.theverge.com/2024/11/24/24301379/boox-palma-2-review-e-reader-android"
+   ],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "I love the Boox Palma , but it’s probably more expensive and complex than most people need. If all you need is a book reader, I don’t think you can beat the speed and simplicity of the new Paperwhite. (Also, this might be a hot take, but: save the $20 and get it with ads.",
+   "section": "gift-guide-part-one",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-shudder",
+   "name": "Shudder",
+   "url": "https://www.shudder.com/",
+   "alt_urls": [
+    "https://www.criterionchannel.com/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Streaming service gift cards. Giving someone a few free months of Netflix or Max or whatever is great, if you know they don’t have it. But I say get weird with it! Give your friend a year of Shudder and introduce them to horror movies; give them the Criterion Channel and turn them into a film snob.",
+   "section": "gift-guide-part-one",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-gift-cards-in-general",
+   "name": "Gift cards in general",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Gift cards rule! “I didn’t know exactly what you wanted, so here’s some money for your favorite store / platform / whatever that you can use on anything that makes you happy.” EVERYBODY WINS. That is all. Gift cards forever.",
+   "section": "gift-guide-part-one",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-the-nothing-cmf-phone-1",
+   "name": "The Nothing CMF Phone 1",
+   "url": "https://us.nothing.tech/products/cmf-phone-1",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "One of the coolest, and cheapest, Android phones to come out this year. I dig the modular backplates and accessories, and mostly I think everyone could use a cheap Android phone for reading, gaming, and more. Think of it like a pocket-sized tablet.",
+   "section": "gift-guide-part-one",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-the-8bitdo-pro-2",
+   "name": "the 8BitDo Pro 2",
+   "url": "https://www.8bitdo.com/pro2/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A Bluetooth game controller. I continue to be amazed at how useful an accessory a good gaming controller is. They’re great for games, obviously, but you can often connect these to all your devices and use them as a remote and all kinds of other things.",
+   "section": "gift-guide-part-one",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-the-studio-neat-totebook",
+   "name": "The Studio Neat Totebook",
+   "url": "https://www.studioneat.com/products/totebook",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve tried a lot of notebooks over the years, and I keep coming back to this one. It’s light and thin but still pretty sturdy and feels really great to write in.",
+   "section": "gift-guide-part-one",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-the-google-tv-streamer",
+   "name": "The Google TV Streamer",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://store.google.com/us/product/google_tv_streamer?hl=en-US&pli=1",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The longer I use Google’s set-top box, the more I like it. It’s easy to set up, runs all the streaming apps you need, and does a better job of just… showing you stuff to watch than any other platform out there. For $100, I don’t think you can beat this one.",
+   "section": "gift-guide-part-one",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-01-im-still-holding-on-to-my-iphone-14-pro",
+   "name": "I’m still holding on to my iPhone 14 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: I’m still holding on to my iPhone 14 Pro. Once Apple gives me a real reason to upgrade, I will.",
+   "section": "screen-share",
+   "recommender": "Matthias"
+  },
+  {
+   "id": "2024-12-01-newsify",
+   "name": "Newsify",
+   "url": "https://newsify.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I love RSS feeds and have been using Newsify forever. The Alto widget tracks any recurring Apple Reminders, I track my yoga workouts. Could do better. The three dock shortcuts go to my Home note, current Month note, and my Daily note in Apple Notes.",
+   "section": "screen-share",
+   "recommender": "Matthias"
+  },
+  {
+   "id": "2024-12-01-alto",
+   "name": "Alto",
+   "url": "https://docs.alto.so/daily",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I love RSS feeds and have been using Newsify forever. The Alto widget tracks any recurring Apple Reminders, I track my yoga workouts. Could do better. The three dock shortcuts go to my Home note, current Month note, and my Daily note in Apple Notes.",
+   "section": "screen-share",
+   "recommender": "Matthias"
+  },
+  {
+   "id": "2024-12-01-somebody-somewhere",
+   "name": "Somebody Somewhere",
+   "url": "https://www.themoviedb.org/tv/106308-somebody-somewhere?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Watching: Somebody Somewhere — a show inspired by the life of Bridget Everett. I get to be in Manhattan, Kansas, once a week with a whole bunch of great characters. I love the indie vibe of the show.",
+   "section": "screen-share",
+   "recommender": "Matthias"
+  },
+  {
+   "id": "2024-12-01-tiny-glade",
+   "name": "Tiny Glade",
+   "url": "https://pouncelight.games/tiny-glade/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Watching: Somebody Somewhere — a show inspired by the life of Bridget Everett. I get to be in Manhattan, Kansas, once a week with a whole bunch of great characters. I love the indie vibe of the show.",
+   "section": "screen-share",
+   "recommender": "Matthias"
+  },
+  {
+   "id": "2024-12-01-sunnykindjourney",
+   "name": "SunnyKindJourney",
+   "url": "https://www.youtube.com/channel/UCHBspkQVKynyCzsIfMdYJJQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Watching: Somebody Somewhere — a show inspired by the life of Bridget Everett. I get to be in Manhattan, Kansas, once a week with a whole bunch of great characters. I love the indie vibe of the show.",
+   "section": "screen-share",
+   "recommender": "Matthias"
+  },
+  {
+   "id": "2024-12-01-fitbod",
+   "name": "Fitbod",
+   "url": "https://fitbod.me/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My latest app obsession has been Fitbod . It actually gets me to work out and track strength training progress! I’ll definitely be using it to feel better after Thanksgiving.",
+   "section": "crowdsourced",
+   "recommender": "Mai (reader)"
+  },
+  {
+   "id": "2024-12-01-raising-parents-with-emily-oster",
+   "name": "Raising Parents with Emily Oster",
+   "url": "https://www.thefp.com/raisingparents-emilyoster",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m listening to the podcast Raising Parents with Emily Oster . After reading books by social economists Jonathan Haidt and Richard Reeves and having two toddlers, it is a lot to think about raising kids in an overprotective and tech-filled world.",
+   "section": "crowdsourced",
+   "recommender": "Mitchell (reader)"
+  },
+  {
+   "id": "2024-12-01-architectural-digest-s-video",
+   "name": "Architectural Digest ’s video",
+   "url": "https://www.youtube.com/watch?v=4Qp4tLTrX6A",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Watching Architectural Digest ’s video about the production design of the Wicked movie — fascinating stuff.",
+   "section": "crowdsourced",
+   "recommender": "Eli (reader)"
+  },
+  {
+   "id": "2024-12-01-arcane",
+   "name": "Arcane",
+   "url": "https://www.themoviedb.org/tv/94605-arcane?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’ve never played a lick of League of Legends , but season 2 of Arcane is some of the best damn compelling television I’ve seen in a long time.",
+   "section": "crowdsourced",
+   "recommender": "Noah (reader)"
+  },
+  {
+   "id": "2024-12-01-dropout",
+   "name": "Dropout",
+   "url": "https://signup.dropout.tv/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Dropout has essentially become my default streaming app. From Make Some Noise to Gastronauts , almost everything is a banger.",
+   "section": "crowdsourced",
+   "recommender": "Brad (reader)"
+  },
+  {
+   "id": "2024-12-01-waveform-podcasts-trivia-extravaganza",
+   "name": "Waveform podcast’s trivia extravaganza",
+   "url": "https://www.youtube.com/watch?v=8ZrCdGxU2sM",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Watching the Waveform podcast’s trivia extravaganza . Ellis’s intro alone deserves a listen!",
+   "section": "crowdsourced",
+   "recommender": "Colin (reader)"
+  },
+  {
+   "id": "2024-12-01-conclave",
+   "name": "Conclave",
+   "url": "https://www.themoviedb.org/movie/974576-conclave",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Going to check out the Pope drama Conclave now that it’s on VOD. Sounds like it’s a right proper Grown Up movie with killer performances from Ralph Fiennes, John Lithgow, Stanley Tucci, and Isabella Rossellini.",
+   "section": "crowdsourced",
+   "recommender": "Marty (reader)"
+  },
+  {
+   "id": "2024-12-01-odyssey",
+   "name": "Odyssey",
+   "url": "https://www.penguin.co.uk/books/320993/odyssey-by-fry-stephen/9780241486351",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Picked up Stephen Fry’s Odyssey , his fourth book in the retelling of Greek mythology. The man is gifted. His books are just so damn readable and fun. I hope he picks up a new mythology after this one.",
+   "section": "crowdsourced",
+   "recommender": "Payasam (reader)"
+  },
+  {
+   "id": "2024-12-01-say-nothing",
+   "name": "Say Nothing",
+   "url": "https://www.themoviedb.org/tv/245256-say-nothing?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Say Nothing , a TV show on Hulu based on the book by Patrick Radden Keefe on the Troubles in Northern Ireland.",
+   "section": "crowdsourced",
+   "recommender": "Darragh (reader)"
+  },
+  {
+   "id": "2024-12-01-against-technoableism",
+   "name": "Against Technoableism",
+   "url": "https://wwnorton.com/books/9781324036661",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m currently listening to Against Technoableism by Ashley Shew. It’s a great read for anyone interested in tech who wants to examine the difference between gadgets and social technologies and learn a lot about disability communities.",
+   "section": "crowdsourced",
+   "recommender": "Jeanne (reader)"
+  },
+  {
+   "id": "2024-12-01-robocop-rogue-city",
+   "name": "Robocop: Rogue City",
+   "url": "https://robocop-roguecity.com/en",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Leaving my 2024 games on the backlog while playing last year’s Robocop: Rogue City . The best part is that it simulates the less-exciting parts of Robocop’s job. I’ve already issued two parking tickets!",
+   "section": "crowdsourced",
+   "recommender": "Arnold (reader)"
+  },
+  {
+   "id": "2024-12-01-stuffing-waffles",
+   "name": "Stuffing waffles",
+   "url": "https://www.seriouseats.com/stuffing-waffles-recipe",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "But the leftovers. THE LEFTOVERS. The weekend after Thanksgiving is better eating than Thanksgiving, if you ask me. All for one reason, two words: Stuffing waffles . Trust me. It changes everything.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

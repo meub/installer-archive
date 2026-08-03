@@ -1,0 +1,405 @@
+{
+ "schema": 1,
+ "date": "2025-11-09",
+ "post_type": "issue",
+ "title": "Ikea just took over your smart home",
+ "url": "https://www.theverge.com/tech/816650/ikea-just-took-over-your-smart-home",
+ "author": "David Pierce",
+ "number": 105,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:39+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-11-09-david-ellison",
+   "name": "David Ellison",
+   "url": "https://variety.com/2025/film/features/david-ellison-hollywood-takeover-paramount-warner-bros-1236569136/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about David Ellison and Common Crawl and Stephen Colbert , catching up on It’s Always Sunny in Philadelphia and The Great British Baking Show , letting TikTok turn me on to a new Olivia Dean song and a new Broadway musical , testing the Boox Palma 2 Pro , spending way…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-09-common-crawl",
+   "name": "Common Crawl",
+   "url": "https://www.theatlantic.com/technology/2025/11/common-crawl-ai-training-data/684567/?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about David Ellison and Common Crawl and Stephen Colbert , catching up on It’s Always Sunny in Philadelphia and The Great British Baking Show , letting TikTok turn me on to a new Olivia Dean song and a new Broadway musical , testing the Boox Palma 2 Pro , spending way…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-09-stephen-colbert",
+   "name": "Stephen Colbert",
+   "url": "https://www.gq.com/story/stephen-colbert-gq-cover-story-interview-men-of-the-year-2025",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about David Ellison and Common Crawl and Stephen Colbert , catching up on It’s Always Sunny in Philadelphia and The Great British Baking Show , letting TikTok turn me on to a new Olivia Dean song and a new Broadway musical , testing the Boox Palma 2 Pro , spending way…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-09-its-always-sunny-in-philadelphia",
+   "name": "It’s Always Sunny in Philadelphia",
+   "url": "https://www.themoviedb.org/tv/2710-it-s-always-sunny-in-philadelphia?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about David Ellison and Common Crawl and Stephen Colbert , catching up on It’s Always Sunny in Philadelphia and The Great British Baking Show , letting TikTok turn me on to a new Olivia Dean song and a new Broadway musical , testing the Boox Palma 2 Pro , spending way…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-09-the-great-british-baking-show",
+   "name": "The Great British Baking Show",
+   "url": "https://www.themoviedb.org/tv/34549-the-great-british-bake-off?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about David Ellison and Common Crawl and Stephen Colbert , catching up on It’s Always Sunny in Philadelphia and The Great British Baking Show , letting TikTok turn me on to a new Olivia Dean song and a new Broadway musical , testing the Boox Palma 2 Pro , spending way…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-09-a-new-olivia-dean-song",
+   "name": "a new Olivia Dean song",
+   "url": "https://www.youtube.com/watch?v=oIv_Y2RPQ_A",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about David Ellison and Common Crawl and Stephen Colbert , catching up on It’s Always Sunny in Philadelphia and The Great British Baking Show , letting TikTok turn me on to a new Olivia Dean song and a new Broadway musical , testing the Boox Palma 2 Pro , spending way…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-09-a-new-broadway-musical",
+   "name": "a new Broadway musical",
+   "url": "https://twostrangersmusical.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about David Ellison and Common Crawl and Stephen Colbert , catching up on It’s Always Sunny in Philadelphia and The Great British Baking Show , letting TikTok turn me on to a new Olivia Dean song and a new Broadway musical , testing the Boox Palma 2 Pro , spending way…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-09-boox-palma-2-pro",
+   "name": "Boox Palma 2 Pro",
+   "url": "https://shop.boox.com/products/palma2pro",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about David Ellison and Common Crawl and Stephen Colbert , catching up on It’s Always Sunny in Philadelphia and The Great British Baking Show , letting TikTok turn me on to a new Olivia Dean song and a new Broadway musical , testing the Boox Palma 2 Pro , spending way…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-09-ikea-bilresa",
+   "name": "Ikea Bilresa",
+   "url": "https://www.ikea.com/global/en/newsroom/retail/the-new-smart-home-from-ikea-matter-compatible-251106/",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "If anyone is going to really democratize the idea of the smart home, it’s Ikea. I am into most of the nearly two dozen Matter-compatible things the company announced this week, from lights to sensors to controllers, but the super customizable Bilresa buttons and remotes won me over immediately.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-09-predator-badlands",
+   "name": "Predator: Badlands",
+   "url": "https://www.themoviedb.org/movie/1242898-predator-badlands?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Whenever a movie gets reviews that are like, “It’s well-made and a great time but it’s not exactly High Art,” I confess I immediately get excited. Give me more dumb fun! This appears to be a little dumb and a lot of fun. I’m in.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-09-pluribus",
+   "name": "Pluribus",
+   "url": "https://www.themoviedb.org/tv/225171-pluribus?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "“Created by Vince Gilligan, the creator of Breaking Bad and Better Call Saul ” is literally all the pitch this show requires for me. But the fact that it’s a sci-fi show — about a world in which everyone is a little too happy — makes it even more exciting.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-09-sora-for-android",
+   "name": "Sora for Android",
+   "url": "https://play.google.com/store/apps/details?id=com.openai.sora&hl=en_US",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "The Sora hype continues! Honestly I’m getting tired of seeing AI-generated stuff all over my social feeds, but I keep hearing from folks who love making videos of themselves in all sorts of funny situations.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-09-europa-universalis-v",
+   "name": "Europa Universalis V",
+   "url": "https://www.paradoxinteractive.com/games/europa-universalis-v/about",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I didn’t know anything about this game, or even this series, until this week. But a massive, world-conquering strategy game is extremely up my alley. I almost lost a lot of friends over Risk games… I wonder how this’ll go.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-09-shuffalo",
+   "name": "Shuffalo",
+   "url": "https://www.newyorker.com/puzzles-and-games-dept/shuffalo/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A new daily game from The New Yorker in which you have to make progressively longer words with progressively more letters. Scratches my Bananagrams -loving brain so nicely.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-09-niagara-launchers-artistic-update",
+   "name": "Niagara Launcher’s Artistic Update",
+   "url": "https://medium.com/niagara-launcher/the-artistic-update-d68256d24870",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Niagara remains my favorite Android launcher, and I really like the direction this update takes the product: The team tapped a bunch of great artists to make not just cool wallpapers but whole themes that reimagine everything about your device. Also, the new dark icon pack? Gorgeous.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-09-beebot",
+   "name": "BeeBot",
+   "url": "https://apps.apple.com/us/app/beebot-for-airpods/id6451085742",
+   "alt_urls": [
+    "https://dens.medium.com/say-hello-to-dj-beebot-592cdc1f1704"
+   ],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Super clever new app from Foursquare founder Dennis Crowley, which he refers to as “Waze meets Gossip Girl .” Basically, it’s an audio-only app that will pipe up in your headphones and periodically tell you about what’s happening nearby.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-09-whatsapp-for-apple-watch",
+   "name": "WhatsApp for Apple Watch",
+   "url": "https://about.fb.com/news/2025/11/introducing-whatsapp-for-apple-watch/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This, plus the recent iPad app, suggests to me that WhatsApp is really pushing hard to become your default messaging service across all devices and platforms. For me it’s mostly a group chat platform, but I’m pumped to be able to do tapback reactions from my wrist.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-09-operation-space-station",
+   "name": "Operation Space Station",
+   "url": "https://www.pbs.org/wgbh/nova/series/operation-space-station/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The first of this two-part PBS series on the International Space Station is, in a word, epic. I always figured building a city in space would be hard, and I had no idea. This is way more dramatic than any space movie.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-09-iphone-16-pro-max",
+   "name": "iPhone 16 Pro Max",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 16 Pro Max.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-09-blank-spaces",
+   "name": "Blank Spaces",
+   "url": "https://www.blankspaces.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The apps: Blank Spaces . We’ve talked about this launcher — and others like it, such as Dumb Phone — before, but it’s basically an iOS widget designed to replace your entire homescreen with big, text-based app launchers. (Fair warning: it costs $4 a month, or $24 lifetime.)",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-09-dumb-phone",
+   "name": "Dumb Phone",
+   "url": "https://apps.apple.com/us/app/dumb-phone-dp/id6504743503",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "The apps: Blank Spaces . We’ve talked about this launcher — and others like it, such as Dumb Phone — before, but it’s basically an iOS widget designed to replace your entire homescreen with big, text-based app launchers. (Fair warning: it costs $4 a month, or $24 lifetime.)",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-09-king-sorrow",
+   "name": "King Sorrow",
+   "url": "https://www.harpercollins.com/products/king-sorrow-joe-hill?variant=43416030445602",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Stephen King’s son wrote an 800 page book called King Sorrow that is (reductively) Millennial It . The title is a conjured dragon that embodies the very notion of evil. But it’s also a play on the author’s famous father, and his half-century of work. I’d say read it, but don’t do that: go audiobook!",
+   "section": "crowdsourced",
+   "recommender": "Chris (reader)"
+  },
+  {
+   "id": "2025-11-09-todays-budget",
+   "name": "Today’s Budget",
+   "url": "https://www.todays-budget.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been using Today’s Budget for the past month and it fundamentally changed how I view my finances. Created by just two people, the app answers a simple question that no other app can easily answer: How much can you actually spend today?",
+   "section": "crowdsourced",
+   "recommender": "Win (reader)"
+  },
+  {
+   "id": "2025-11-09-n8n",
+   "name": "n8n",
+   "url": "https://n8n.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Hi! I’ve been exploring the n8n platform for automating (not only) tasks. I’ve built an automation which sends me D&B events everyday. I was pleasantly surprised how powerful n8n is!",
+   "section": "crowdsourced",
+   "recommender": "Dima (reader)"
+  },
+  {
+   "id": "2025-11-09-affinity",
+   "name": "Affinity",
+   "url": "https://www.affinity.studio/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Affinity ! Down with the Adobe monopoly.",
+   "section": "crowdsourced",
+   "recommender": "Jack (reader)"
+  },
+  {
+   "id": "2025-11-09-dispatch",
+   "name": "Dispatch",
+   "url": "https://store.steampowered.com/app/2592160/Dispatch/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I can recommend the game Dispatch , some described it as a game where you cannot fail. It’s similar to Telltale , where you choose the dialog and do some mini games. Reminds me of Black Mirror: Bandersnatch .",
+   "section": "crowdsourced",
+   "recommender": "Bogdan (reader)"
+  },
+  {
+   "id": "2025-11-09-staccs",
+   "name": "Staccs",
+   "url": "https://sticcy.cc/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Staccs is literally mind-bending. It’s a super lightweight matching card game (think Uno ) that has just enough complexity to keep every game interesting but still accessible enough for younger kids. But what sets Staccs apart is the visual design.",
+   "section": "crowdsourced",
+   "recommender": "Bone (reader)"
+  },
+  {
+   "id": "2025-11-09-frank-prisinzano",
+   "name": "Frank Prisinzano",
+   "url": "https://www.instagram.com/frankprisinzano/?hl=en",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Anyone with even a passing interest in cooking needs to follow Frank Prisinzano (I follow on instagram but he’s all over). Start learning his methods (not recipes) and start changing your life!",
+   "section": "crowdsourced",
+   "recommender": "Scott (reader)"
+  },
+  {
+   "id": "2025-11-09-pantheon",
+   "name": "Pantheon",
+   "url": "https://www.themoviedb.org/tv/195339-pantheon?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "If you haven’t watched Pantheon on Netflix, it’s worth it.",
+   "section": "crowdsourced",
+   "recommender": "Michael (reader)"
+  },
+  {
+   "id": "2025-11-09-mac-studio",
+   "name": "Mac Studio",
+   "url": "https://www.apple.com/mac-studio/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently got a Mac Studio and set up Tailscale and Jellyfin to get access to all of my (legally obtained) media from anywhere across the world. Tailscale creates a direct and private VPN to your devices. Jellyfin is a much better open source alternative to Plex.",
+   "section": "crowdsourced",
+   "recommender": "Xyan (reader)"
+  },
+  {
+   "id": "2025-11-09-tailscale",
+   "name": "Tailscale",
+   "url": "https://tailscale.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently got a Mac Studio and set up Tailscale and Jellyfin to get access to all of my (legally obtained) media from anywhere across the world. Tailscale creates a direct and private VPN to your devices. Jellyfin is a much better open source alternative to Plex.",
+   "section": "crowdsourced",
+   "recommender": "Xyan (reader)"
+  },
+  {
+   "id": "2025-11-09-jellyfin",
+   "name": "Jellyfin",
+   "url": "https://jellyfin.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently got a Mac Studio and set up Tailscale and Jellyfin to get access to all of my (legally obtained) media from anywhere across the world. Tailscale creates a direct and private VPN to your devices. Jellyfin is a much better open source alternative to Plex.",
+   "section": "crowdsourced",
+   "recommender": "Xyan (reader)"
+  },
+  {
+   "id": "2025-11-09-this-tvline-story",
+   "name": "this TVLine story",
+   "url": "https://www.tvline.com/lists/christmas-tv-movies-2025-schedule-netflix-hallmark-channel/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Anyway this year is shaping up to be a pretty special one on the holiday movie front. And if you care as much as I do, you should bookmark this TVLine story that lists every single one coming over the next couple months, sorted by streaming platform.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

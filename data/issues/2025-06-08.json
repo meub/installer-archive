@@ -1,0 +1,546 @@
+{
+ "schema": 1,
+ "date": "2025-06-08",
+ "post_type": "issue",
+ "title": "The most fun camera app I’ve used in forever",
+ "url": "https://www.theverge.com/installer-newsletter/681745/camera-app-iphone-mario-kart-switch-2-installer",
+ "author": "David Pierce",
+ "number": 86,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "spotlight",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-06-08-privacy-experts",
+   "name": "privacy experts",
+   "url": "https://www.theatlantic.com/ideas/archive/2025/05/extreme-personal-data-privacy-protection/682867/?gift=YCyn5y81d-mwEDw0Ly1NkGV5EHIA5T6BDJzfJoxTUFo",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about privacy experts and spreadsheets and Dropout , watching Stick for fun and Mike and Molly for a wedding toast (long story), learning some sweet new Raycast tricks , talking into my phone with Wispr Flow , replaying Jon Bellion’s new album , holding space for the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-08-spreadsheets",
+   "name": "spreadsheets",
+   "url": "https://www.theideasletter.org/essay/our-spreadsheet-overlords/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about privacy experts and spreadsheets and Dropout , watching Stick for fun and Mike and Molly for a wedding toast (long story), learning some sweet new Raycast tricks , talking into my phone with Wispr Flow , replaying Jon Bellion’s new album , holding space for the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-08-dropout",
+   "name": "Dropout",
+   "url": "https://www.vulture.com/article/dropout-improv-streaming-service-collegehumor-sam-reich.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about privacy experts and spreadsheets and Dropout , watching Stick for fun and Mike and Molly for a wedding toast (long story), learning some sweet new Raycast tricks , talking into my phone with Wispr Flow , replaying Jon Bellion’s new album , holding space for the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-08-stick",
+   "name": "Stick",
+   "url": "https://www.themoviedb.org/tv/248830-stick",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about privacy experts and spreadsheets and Dropout , watching Stick for fun and Mike and Molly for a wedding toast (long story), learning some sweet new Raycast tricks , talking into my phone with Wispr Flow , replaying Jon Bellion’s new album , holding space for the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-08-mike-and-molly",
+   "name": "Mike and Molly",
+   "url": "https://www.themoviedb.org/tv/32709-mike-molly?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about privacy experts and spreadsheets and Dropout , watching Stick for fun and Mike and Molly for a wedding toast (long story), learning some sweet new Raycast tricks , talking into my phone with Wispr Flow , replaying Jon Bellion’s new album , holding space for the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-08-sweet-new-raycast-tricks",
+   "name": "sweet new Raycast tricks",
+   "url": "https://www.youtube.com/watch?v=kHxgxgNHQR4",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about privacy experts and spreadsheets and Dropout , watching Stick for fun and Mike and Molly for a wedding toast (long story), learning some sweet new Raycast tricks , talking into my phone with Wispr Flow , replaying Jon Bellion’s new album , holding space for the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-08-wispr-flow",
+   "name": "Wispr Flow",
+   "url": "https://wisprflow.ai/post/flow-on-iphone",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about privacy experts and spreadsheets and Dropout , watching Stick for fun and Mike and Molly for a wedding toast (long story), learning some sweet new Raycast tricks , talking into my phone with Wispr Flow , replaying Jon Bellion’s new album , holding space for the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-08-jon-bellions-new-album",
+   "name": "Jon Bellion’s new album",
+   "url": "https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "This week, I’ve been reading about privacy experts and spreadsheets and Dropout , watching Stick for fun and Mike and Molly for a wedding toast (long story), learning some sweet new Raycast tricks , talking into my phone with Wispr Flow , replaying Jon Bellion’s new album , holding space for the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-08-the-next-wicked-movie",
+   "name": "the next Wicked movie",
+   "url": "https://www.youtube.com/watch?v=BRt-qexTWy4",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about privacy experts and spreadsheets and Dropout , watching Stick for fun and Mike and Molly for a wedding toast (long story), learning some sweet new Raycast tricks , talking into my phone with Wispr Flow , replaying Jon Bellion’s new album , holding space for the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-08-camera",
+   "name": "!Camera",
+   "url": "https://notbor.ing/product/camera",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Andy Allen designs some of the best-looking apps you’ll find for Apple platforms, and he has outdone himself with this very playful, tactile take on a camera app.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-08-mario-kart-world",
+   "name": "Mario Kart World",
+   "url": "https://www.nintendo.com/us/gaming-systems/switch-2/featured-games/mario-kart-world/world/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "We’ll talk some more about the Switch 2 launch in the next section, but the console’s big launch title is also the latest edition of my favorite racing game of all time. I haven’t played a ton of the open-world online stuff yet, but, if nothing else, this is clearly the biggest Kart ever.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-08-good-night-and-good-luck",
+   "name": "Good Night, and Good Luck",
+   "url": "https://www.cnn.com/good-night-and-good-luck-watch-cnn",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "First, George Clooney made a terrific movie. Then, he turned it into a record-breaking Broadway show. Now, it’s being filmed, live, on CNN on Saturday night. I love this kind of thing, and I always wondered why we didn’t get more of it after Hamilton was such a smash.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-08-the-steve-ballmer-interview",
+   "name": "The Steve Ballmer interview",
+   "url": "https://www.youtube.com/watch?v=CYC49_aeop0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "From the Acquired podcast, this is three hours of Microsoft history, business leadership tips, and a whole deep dive into the “developers developers developers” speech. Ballmer’s always a good interview, and there is a ton here.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-08-the-razer-phantom-collection",
+   "name": "The Razer Phantom Collection",
+   "url": "https://razer.a9yw.net/c/482924/642901/10229?u=https%3A%2F%2Fwww.razer.com%2Fphantom%3Firclickid%3DUDYUv0wTixycUuJ2wgRCISdtUksQrdRd03VeX00%26irgwc%3D1%26cid%3DVox%2520Media-affiliate",
+   "alt_urls": [
+    "https://razer.a9yw.net/c/482924/642901/10229?u=https%3A%2F%2Fwww.razer.com%2Fsynapse-4-mac"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m really not an “all of the RGB lights” kind of guy, but there’s something about this translucent, glowing keyboard and mousepad that really does work for me.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-08-poolsuite",
+   "name": "Poolsuite",
+   "url": "https://poolsuite.net/",
+   "alt_urls": [
+    "https://play.google.com/store/apps/details?id=net.poolsuite.mobile&pcampaignid=web_share"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Big update this week to one of the internet’s best sources of chill vibes and great summer music — including, for the first time, an Android app ! This is one of the few apps I can just turn on and let play all day. The vibes are immaculate.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-08-ballerina",
+   "name": "Ballerina",
+   "url": "https://www.themoviedb.org/movie/541671-ballerina",
+   "alt_urls": [
+    "https://www.themoviedb.org/tv/72710-the-continental-from-the-world-of-john-wick",
+    "https://www.theverge.com/movie-reviews/679534/ballerina-review"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I try not to get my hopes up about John Wick spinoffs. (Though I think The Continental at least had some potential.) The reviews on this one, and on Ana de Armas, are a bit mixed . But I like the premise a lot, and this feels guaranteed to be a good time in a theater.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-08-ensh-ttification-live",
+   "name": "Ensh*ttification, Live!",
+   "url": "https://www.wnycstudios.org/podcasts/otm/articles/enshttification-live-micah-and-cory-doctorow-in-conversation",
+   "alt_urls": [
+    "https://us.macmillan.com/books/9780374619329/enshittification/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "“ Ensh*ttification, Live! ” Cory Doctorow has been more right about the state of the internet than anyone these last few years, and this interview from the PBS Ideas Festival is a really smart catch-up about how we got enshittified, what it looks like right now, and where we go from here.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-08-nintendo-switch-2-welcome-tour",
+   "name": "Nintendo Switch 2 Welcome Tour",
+   "url": "https://www.nintendo.com/us/store/products/nintendo-switch-2-welcome-tour-switch-2/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "yeah, it’s pretty weird you have to pay $10 for this, since it seems like the ideal pack-in game, but it’s also only $10 and looks like the best way to learn about all the new elements of the Switch 2 in a playful, Nintendo way.",
+   "section": "spotlight",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-08-survival-kids",
+   "name": "Survival Kids",
+   "url": "https://www.nintendo.com/us/store/products/survival-kids-switch-2/",
+   "alt_urls": [
+    "https://www.theverge.com/nintendo/673447/some-game-boy-games-for-your-long-weekend"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "a surprising return of a Game Boy cult classic ( which just got a rerelease for Switch Online subscribers ). The most interesting part of Survival Kids is that it’s a good test case for the new GameChat functionality.",
+   "section": "spotlight",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-08-f-zero-gx-speaking-of-switch-online-one-of-the-p",
+   "name": "F-Zero GX : speaking of Switch Online, one of the perks for Switch 2 owners is t",
+   "url": null,
+   "alt_urls": [
+    "https://www.theverge.com/nintendo/642436/nintendo-switch-2-gamecube-f-zero-hands-on"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "he addition of some GameCube classics . And I know that as soon as I can I’m dusting off that virtual copy of F-Zero GX and racing those futuristic streets.”",
+   "section": "spotlight",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-08-a-blue-iphone-13-pro-max",
+   "name": "A blue iPhone 13 Pro Max",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: A blue iPhone 13 Pro Max.",
+   "section": "screen-share",
+   "recommender": "Hayden"
+  },
+  {
+   "id": "2025-06-08-nyt-cooking",
+   "name": "NYT Cooking",
+   "url": "https://www.nytimes.com/marketing/cooking/app",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Otherwise, I’m an iPhone girl with a penchant for Google apps (big Google Maps, Google Photos, and Gmail fan). My two aspirational apps are NYT Cooking and NYT Games : I use and love them, but I’m way less skilled at both things than I wish I were.",
+   "section": "screen-share",
+   "recommender": "Hayden"
+  },
+  {
+   "id": "2025-06-08-nyt-games",
+   "name": "NYT Games",
+   "url": "https://www.nytimes.com/crosswords/apps",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Otherwise, I’m an iPhone girl with a penchant for Google apps (big Google Maps, Google Photos, and Gmail fan). My two aspirational apps are NYT Cooking and NYT Games : I use and love them, but I’m way less skilled at both things than I wish I were.",
+   "section": "screen-share",
+   "recommender": "Hayden"
+  },
+  {
+   "id": "2025-06-08-skratch",
+   "name": "Skratch",
+   "url": "https://www.skratch.world/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Skratch is my way of keeping track of the number of countries I’ve traveled to (my dream is to visit every country in the world). And West is for disposable-camera-looking photos when I don’t have a real camera around.",
+   "section": "screen-share",
+   "recommender": "Hayden"
+  },
+  {
+   "id": "2025-06-08-west",
+   "name": "West",
+   "url": "https://thestudio.company/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Skratch is my way of keeping track of the number of countries I’ve traveled to (my dream is to visit every country in the world). And West is for disposable-camera-looking photos when I don’t have a real camera around.",
+   "section": "screen-share",
+   "recommender": "Hayden"
+  },
+  {
+   "id": "2025-06-08-the-witcher",
+   "name": "The Witcher",
+   "url": "https://www.themoviedb.org/tv/71912-the-witcher",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’m catching up on The Witcher right now, and I’m addicted; on the opposite side of things, I’ve been rewatching Gossip Girl and gearing up to catch up on The Rehearsal next.",
+   "section": "screen-share",
+   "recommender": "Hayden"
+  },
+  {
+   "id": "2025-06-08-gossip-girl",
+   "name": "Gossip Girl",
+   "url": "https://www.themoviedb.org/tv/1395-gossip-girl",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’m catching up on The Witcher right now, and I’m addicted; on the opposite side of things, I’ve been rewatching Gossip Girl and gearing up to catch up on The Rehearsal next.",
+   "section": "screen-share",
+   "recommender": "Hayden"
+  },
+  {
+   "id": "2025-06-08-the-rehearsal",
+   "name": "The Rehearsal",
+   "url": "https://www.themoviedb.org/tv/204284-the-rehearsal",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’m catching up on The Witcher right now, and I’m addicted; on the opposite side of things, I’ve been rewatching Gossip Girl and gearing up to catch up on The Rehearsal next.",
+   "section": "screen-share",
+   "recommender": "Hayden"
+  },
+  {
+   "id": "2025-06-08-everdell",
+   "name": "Everdell",
+   "url": "https://www.tabletoptycoon.com/products/everdell-standard-edition-3rd-edition",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m catching up on The Witcher right now, and I’m addicted; on the opposite side of things, I’ve been rewatching Gossip Girl and gearing up to catch up on The Rehearsal next.",
+   "section": "screen-share",
+   "recommender": "Hayden"
+  },
+  {
+   "id": "2025-06-08-furbo",
+   "name": "Furbo",
+   "url": "https://furbo.com/us",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m catching up on The Witcher right now, and I’m addicted; on the opposite side of things, I’ve been rewatching Gossip Girl and gearing up to catch up on The Rehearsal next.",
+   "section": "screen-share",
+   "recommender": "Hayden"
+  },
+  {
+   "id": "2025-06-08-hannah-vias",
+   "name": "Hannah Via’s",
+   "url": "https://hannahviaart.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m catching up on The Witcher right now, and I’m addicted; on the opposite side of things, I’ve been rewatching Gossip Girl and gearing up to catch up on The Rehearsal next.",
+   "section": "screen-share",
+   "recommender": "Hayden"
+  },
+  {
+   "id": "2025-06-08-fallout-4",
+   "name": "Fallout 4",
+   "url": "https://fallout.bethesda.net/en/games/fallout-4",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve recently fallen back into Fallout 4 . Maybe it’s the yearning for a new Fallout title, or just that this game has INSANE replayability.",
+   "section": "crowdsourced",
+   "recommender": "Rob (reader)"
+  },
+  {
+   "id": "2025-06-08-philips-hue-light-strip",
+   "name": "Philips Hue Light Strip",
+   "url": "https://www.philips-hue.com/en-us/products/smart-light-strips",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just bought a Philips Hue Light Strip and love how this little light addition lets you set a whole new mood in your rooms — without being visible like a lamp.",
+   "section": "crowdsourced",
+   "recommender": "Florian (reader)"
+  },
+  {
+   "id": "2025-06-08-flesh-and-blood",
+   "name": "Flesh and Blood",
+   "url": "https://fabtcg.com/en/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Check out the Flesh and Blood trading card game, super competitive and addicting. Way better than Magic the Gathering in my eyes. It’s also the US national championship this weekend.",
+   "section": "crowdsourced",
+   "recommender": "Thore (reader)"
+  },
+  {
+   "id": "2025-06-08-us-national-championship",
+   "name": "US national championship",
+   "url": "https://fabtcg.com/en/organised-play/2025/national-championships-2025/national-championships-2025/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Check out the Flesh and Blood trading card game, super competitive and addicting. Way better than Magic the Gathering in my eyes. It’s also the US national championship this weekend.",
+   "section": "crowdsourced",
+   "recommender": "Thore (reader)"
+  },
+  {
+   "id": "2025-06-08-zen",
+   "name": "Zen",
+   "url": "https://zen-browser.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I switched my browser from Arc to Zen due to Arc no longer being supported by The Browser Company. Zen is turning out to be an almost perfect open-sourced version of Arc, so far I am happy!",
+   "section": "crowdsourced",
+   "recommender": "Craig (reader)"
+  },
+  {
+   "id": "2025-06-08-dig-dig-dino",
+   "name": "Dig Dig Dino!",
+   "url": "https://play.date/games/dig-dig-dino/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Dig Dig Dino! is for me the killer app of the Playdate console. Until I played it, I wasn’t sure buying the gadget was a good choice. Perfect game for short bursts of play time, but also can (and does) suck you in with a fun gameplay loop for longer sessions.",
+   "section": "crowdsourced",
+   "recommender": "Rafal (reader)"
+  },
+  {
+   "id": "2025-06-08-hodinkee",
+   "name": "Hodinkee",
+   "url": "https://www.hodinkee.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have been trying and failing to find another website to visit the way I do The Verge , and I think I’ve found it: Hodinkee . It’s a website about high-end watches, and a good website. I can’t recommend it enough.",
+   "section": "crowdsourced",
+   "recommender": "Vishal (reader)"
+  },
+  {
+   "id": "2025-06-08-one-song",
+   "name": "One Song",
+   "url": "https://www.youtube.com/@OneSongPodcast",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Need a podcast? I like learning how songs are made on One Song .",
+   "section": "crowdsourced",
+   "recommender": "Ryan (reader)"
+  },
+  {
+   "id": "2025-06-08-more-perfect-union",
+   "name": "More Perfect Union",
+   "url": "https://www.youtube.com/@moreperfectunion",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I love watching the channel More Perfect Union on YouTube. They recently made a really informative video about driverless semis driving down I-45 here in Texas, and I really think more people should watch it!",
+   "section": "crowdsourced",
+   "recommender": "Kerzell (reader)"
+  },
+  {
+   "id": "2025-06-08-about-driverless-semis",
+   "name": "about driverless semis",
+   "url": "https://www.youtube.com/watch?v=CQrQrOPmszE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I love watching the channel More Perfect Union on YouTube. They recently made a really informative video about driverless semis driving down I-45 here in Texas, and I really think more people should watch it!",
+   "section": "crowdsourced",
+   "recommender": "Kerzell (reader)"
+  },
+  {
+   "id": "2025-06-08-skin-deep",
+   "name": "Skin Deep",
+   "url": "https://blendogames.com/skindeep/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The game Skin Deep by Blendo Games is phenomenal. It’s like if Hitman had a less punishing game loop and was deeply silly. There are cats to rescue (also the cats are spaceship crew)!",
+   "section": "crowdsourced",
+   "recommender": "Hunter (reader)"
+  },
+  {
+   "id": "2025-06-08-the-nintendo-pro-controller",
+   "name": "the Nintendo Pro Controller",
+   "url": "https://www.nintendo.com/us/store/products/nintendo-switch-2-pro-controller-123674/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "But in the interim, I made the mistake of looking for an upgrade. I asked my colleagues which controller I should buy, or if I should wait for all the new accessories to come out. They all said the same thing: just buy the Nintendo Pro Controller , it’s the best one, it’s not even close.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-08-someone-who-is-good-at-the-economy-help-me-budge",
+   "name": "someone who is good at the economy help me budget this",
+   "url": "https://x.com/dril/status/384408932061417472?lang=en",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "But in the interim, I made the mistake of looking for an upgrade. I asked my colleagues which controller I should buy, or if I should wait for all the new accessories to come out. They all said the same thing: just buy the Nintendo Pro Controller , it’s the best one, it’s not even close.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

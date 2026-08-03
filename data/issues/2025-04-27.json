@@ -1,0 +1,510 @@
+{
+ "schema": 1,
+ "date": "2025-04-27",
+ "post_type": "issue",
+ "title": "Star Wars is so back",
+ "url": "https://www.theverge.com/installer-newsletter/656510/star-wars-andor-razr-ultra-instagram-edits-installer",
+ "author": "David Pierce",
+ "number": 80,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-04-27-the-telepathy-tapes",
+   "name": "The Telepathy Tapes",
+   "url": "https://www.thecut.com/article/telepathy-tapes-families-autism-ky-dickens.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about The Telepathy Tapes and extremely online parenting and translation glasses , watching The Men Who Built America , cackling at this incredible star-studded live reading of the original Star Wars , playing the whole archive of 4x3 , doing some writing in the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-27-extremely-online-parenting",
+   "name": "extremely online parenting",
+   "url": "https://www.nytimes.com/2025/04/22/magazine/parenting-children-social-media.html?unlocked_article_code=1.Bk8.y0kf.Gig5xFo1JZLY&__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about The Telepathy Tapes and extremely online parenting and translation glasses , watching The Men Who Built America , cackling at this incredible star-studded live reading of the original Star Wars , playing the whole archive of 4x3 , doing some writing in the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-27-translation-glasses",
+   "name": "translation glasses",
+   "url": "https://www.newyorker.com/magazine/2025/04/28/subtitling-your-life?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about The Telepathy Tapes and extremely online parenting and translation glasses , watching The Men Who Built America , cackling at this incredible star-studded live reading of the original Star Wars , playing the whole archive of 4x3 , doing some writing in the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-27-the-men-who-built-america",
+   "name": "The Men Who Built America",
+   "url": "https://www.themoviedb.org/tv/56304-the-men-who-built-america?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about The Telepathy Tapes and extremely online parenting and translation glasses , watching The Men Who Built America , cackling at this incredible star-studded live reading of the original Star Wars , playing the whole archive of 4x3 , doing some writing in the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-27-live-reading",
+   "name": "live reading",
+   "url": "https://www.youtube.com/watch?v=FajiqJ4vDPg",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about The Telepathy Tapes and extremely online parenting and translation glasses , watching The Men Who Built America , cackling at this incredible star-studded live reading of the original Star Wars , playing the whole archive of 4x3 , doing some writing in the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-27-4x3",
+   "name": "4x3",
+   "url": "https://www.4x3game.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about The Telepathy Tapes and extremely online parenting and translation glasses , watching The Men Who Built America , cackling at this incredible star-studded live reading of the original Star Wars , playing the whole archive of 4x3 , doing some writing in the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-27-easlo-journal",
+   "name": "Easlo Journal",
+   "url": "https://apps.apple.com/us/app/easlo-journal/id6744819639?itscg=30200&itsct=apps_box_link&mttnsubad=6744819639",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "This week, I’ve been reading about The Telepathy Tapes and extremely online parenting and translation glasses , watching The Men Who Built America , cackling at this incredible star-studded live reading of the original Star Wars , playing the whole archive of 4x3 , doing some writing in the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-27-some-headphones",
+   "name": "some headphones",
+   "url": "https://www.aliexpress.us/item/3256807803038864.html?gatewayAdapt=glo2usa4itemAdapt",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about The Telepathy Tapes and extremely online parenting and translation glasses , watching The Men Who Built America , cackling at this incredible star-studded live reading of the original Star Wars , playing the whole archive of 4x3 , doing some writing in the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-27-the-kagi-assistant",
+   "name": "the Kagi Assistant",
+   "url": "https://kagi.com/assistant",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about The Telepathy Tapes and extremely online parenting and translation glasses , watching The Men Who Built America , cackling at this incredible star-studded live reading of the original Star Wars , playing the whole archive of 4x3 , doing some writing in the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-27-andor-season-2",
+   "name": "Andor season 2",
+   "url": "https://www.themoviedb.org/tv/83867-star-wars-andor",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The best Star Wars thing going right now, and it’s not especially close. I wondered if season two could continue the unusual, almost off-brand take on this universe, but by all accounts the show completely stuck the landing.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-27-the-motorola-razr-ultra",
+   "name": "The Motorola Razr Ultra",
+   "url": "https://www.dpbolvw.net/click-8836598-15593422?url=https%3A%2F%2Fwww.motorola.com%2Fus%2Fen%2Fp%2Fphones%2Frazr%2Frazr-ultra%2Fpmipmhn40ms",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Motorola is, like, this close to getting the 2025 flip phone exactly right. The new model seems to be a little sturdier, a little faster, and a little less of a compromise just to get the flip. That’s the goal! I just wish it didn’t cost $1,299, and I wish I knew when it was shipping.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-27-parkers-obsessed-with-this-movie-but-she-cannot",
+   "name": "Parker’s Obsessed with this Movie (But She Cannot Find it Anywhere).",
+   "url": "https://www.hyperfixedpod.com/listen/hyperfixed/parker-s-obsessed-with-this-movie-but-she-cannot-find-it-anywhere",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“ Parker’s Obsessed with this Movie (But She Cannot Find it Anywhere). ” A delightful, and extremely relatable, podcast low-stakes mystery: this movie has an IMDb page, but doesn’t seem to exist anywhere at all. A fun dive into where things go when they go away.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-27-instagram-edits",
+   "name": "Instagram Edits",
+   "url": "https://creators.instagram.com/edits?locale=en_US",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I mean, you get it, it’s CapCut but for Instagram. But this is a good idea! It’s weird, frankly, that there aren’t more top-notch apps for editing social video. There’s some interesting AI at work in this one, too. Say this for Meta: it copies well.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-27-perplexity-ios-voice-assistant",
+   "name": "Perplexity iOS Voice Assistant.",
+   "url": "https://apps.apple.com/us/app/perplexity-ask-anything/id1668000334",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "One of the more ambitious mobile assistants I’ve seen. Perplexity actually connected its assistant to Reminders, Calendar, and other system features — which I don’t think I knew was possible — and seems to just blow Siri out of the water.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-27-clair-obscur-expedition-33",
+   "name": "Clair Obscur: Expedition 33",
+   "url": "https://www.expedition33.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Very few games are able to simultaneously feel like a movie and a video game. Clair Obscur does, in part because it’s voiced by a bunch of movie stars! The premise here is great, the story is huge, and frankly I’ll watch Andy Serkis in anything.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-27-the-waterfield-designs-tech-folio-tank-backpack",
+   "name": "The WaterField Designs Tech Folio Tank Backpack",
+   "url": "https://www.sfbags.com/products/tech-folio-tank-backpack-17",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have always been a sucker for a great bag. I’ve curbed my habit a little now that I work from home, but this one? This $419 backpack fits even humongous laptops, has pockets for everything you could imagine, and is only slightly enormous. I want one.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-27-the-insta360-x5",
+   "name": "The Insta360 X5",
+   "url": "https://www.insta360.com/product/insta360-x5",
+   "alt_urls": [
+    "https://www.theverge.com/video/652887/insta360-x5-camera-review-2025"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m convinced that if Insta360 had a better company name, it would be as recognizable as GoPro. Its products are great! This one’s expensive — $550 — but it’s every bit a flagship action camera , and the replaceable lenses are really clever.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-27-the-elder-scrolls-iv-oblivion-remastered",
+   "name": "The Elder Scrolls IV: Oblivion Remastered",
+   "url": "https://elderscrolls.bethesda.net/en-US/oblivion-remastered",
+   "alt_urls": [
+    "https://www.theverge.com/news/649795/the-elder-scrolls-iv-oblivion-remastered-release-date"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "There is nothing cooler than just dropping a game out of nowhere on an unsuspecting public that is obviously going to love it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-27-iphone-16-pro",
+   "name": "iPhone 16 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 16 Pro.",
+   "section": "screen-share",
+   "recommender": "Jeff"
+  },
+  {
+   "id": "2025-04-27-due",
+   "name": "Due",
+   "url": "https://www.dueapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I use the Due app widget to capture to-do’s when I’m on the go and then I transfer these onto an Analog Card once I’m at my desk so they actually get done. Fantastical ’s natural language input is so much nicer than iCal’s. “Call with David Pierce tomorrow 10AM.”",
+   "section": "screen-share",
+   "recommender": "Jeff"
+  },
+  {
+   "id": "2025-04-27-analog-card",
+   "name": "Analog Card",
+   "url": "https://ugmonk.com/pages/analog",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I use the Due app widget to capture to-do’s when I’m on the go and then I transfer these onto an Analog Card once I’m at my desk so they actually get done. Fantastical ’s natural language input is so much nicer than iCal’s. “Call with David Pierce tomorrow 10AM.”",
+   "section": "screen-share",
+   "recommender": "Jeff"
+  },
+  {
+   "id": "2025-04-27-fantastical",
+   "name": "Fantastical",
+   "url": "https://flexibits.com/fantastical",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I use the Due app widget to capture to-do’s when I’m on the go and then I transfer these onto an Analog Card once I’m at my desk so they actually get done. Fantastical ’s natural language input is so much nicer than iCal’s. “Call with David Pierce tomorrow 10AM.”",
+   "section": "screen-share",
+   "recommender": "Jeff"
+  },
+  {
+   "id": "2025-04-27-mymind",
+   "name": "MyMind",
+   "url": "https://mymind.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I save everything to MyMind . It’s like a private Pinterest board that’s way easier to search and doesn’t have ads. I‘ve been using Dropbox Paper for many years, and use it for everything. It’s basically a much cleaner version of Google Docs with built-in markdown and smart links.",
+   "section": "screen-share",
+   "recommender": "Jeff"
+  },
+  {
+   "id": "2025-04-27-dropbox-paper",
+   "name": "Dropbox Paper",
+   "url": "https://www.dropbox.com/paper/start?no_redirect=1",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I save everything to MyMind . It’s like a private Pinterest board that’s way easier to search and doesn’t have ads. I‘ve been using Dropbox Paper for many years, and use it for everything. It’s basically a much cleaner version of Google Docs with built-in markdown and smart links.",
+   "section": "screen-share",
+   "recommender": "Jeff"
+  },
+  {
+   "id": "2025-04-27-the-orchid",
+   "name": "The Orchid",
+   "url": "https://telepathicinstruments.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Orchid from Telepathic Instruments. I don’t even play music, but I want this thing. The video is so good. This case study of the Herman Miller rebrand . So much design gold in here. SABLE, fABLE , Bon Iver’s newest album. I’ve had this on repeat for days. One of my favorite artists.",
+   "section": "screen-share",
+   "recommender": "Jeff"
+  },
+  {
+   "id": "2025-04-27-this-case-study-of-the-herman-miller-rebrand",
+   "name": "This case study of the Herman Miller rebrand",
+   "url": "https://order.design/project/herman-miller",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Orchid from Telepathic Instruments. I don’t even play music, but I want this thing. The video is so good. This case study of the Herman Miller rebrand . So much design gold in here. SABLE, fABLE , Bon Iver’s newest album. I’ve had this on repeat for days. One of my favorite artists.",
+   "section": "screen-share",
+   "recommender": "Jeff"
+  },
+  {
+   "id": "2025-04-27-sable-fable",
+   "name": "SABLE, fABLE",
+   "url": "https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T?si=VLf5gFXHQjChZPPdTdgwoQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "The Orchid from Telepathic Instruments. I don’t even play music, but I want this thing. The video is so good. This case study of the Herman Miller rebrand . So much design gold in here. SABLE, fABLE , Bon Iver’s newest album. I’ve had this on repeat for days. One of my favorite artists.",
+   "section": "screen-share",
+   "recommender": "Jeff"
+  },
+  {
+   "id": "2025-04-27-interview-with-justin-vernon",
+   "name": "interview with Justin Vernon",
+   "url": "https://www.youtube.com/watch?v=kBvC_-XaTTc",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The Orchid from Telepathic Instruments. I don’t even play music, but I want this thing. The video is so good. This case study of the Herman Miller rebrand . So much design gold in here. SABLE, fABLE , Bon Iver’s newest album. I’ve had this on repeat for days. One of my favorite artists.",
+   "section": "screen-share",
+   "recommender": "Jeff"
+  },
+  {
+   "id": "2025-04-27-limba-trip",
+   "name": "Limba Trip",
+   "url": "https://www.instagram.com/p/C-yriF8S8Q-/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Orchid from Telepathic Instruments. I don’t even play music, but I want this thing. The video is so good. This case study of the Herman Miller rebrand . So much design gold in here. SABLE, fABLE , Bon Iver’s newest album. I’ve had this on repeat for days. One of my favorite artists.",
+   "section": "screen-share",
+   "recommender": "Jeff"
+  },
+  {
+   "id": "2025-04-27-opencase",
+   "name": "OpenCase",
+   "url": "https://theopencase.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have loved, and struggled with my Apple MagSafe wallet for a long time. I’m always afraid it’s going to fall off. So a while ago I found this case that basically solves all the MagSafe issues.",
+   "section": "crowdsourced",
+   "recommender": "Mike (reader)"
+  },
+  {
+   "id": "2025-04-27-a-short-hike",
+   "name": "A Short Hike",
+   "url": "https://www.ashorthike.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Found an awesome game off of a Hacker News comment: A Short Hike . Beautiful little short experience.",
+   "section": "crowdsourced",
+   "recommender": "Fil (reader)"
+  },
+  {
+   "id": "2025-04-27-tuesday-night-movie-night",
+   "name": "Tuesday Night Movie Night",
+   "url": "https://www.tuesdaynightmovienight.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "In keeping with my desire to ‘buck the algorithms’ in a day and age where there are too many simultaneous algorithms telling you what to do, I’ve been referred to a free newsletter that just recommends one movie, every Tuesday. It’s called Tuesday Night Movie Night .",
+   "section": "crowdsourced",
+   "recommender": "Phillip (reader)"
+  },
+  {
+   "id": "2025-04-27-blank-check",
+   "name": "Blank Check",
+   "url": "https://www.blankcheckpod.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Trying to clear out my Blank Check podcast backlog so I’ve seen about eight thousand Steven Spielberg movies in the last few days. This guy might be going places.",
+   "section": "crowdsourced",
+   "recommender": "Luis (reader)"
+  },
+  {
+   "id": "2025-04-27-slow-roads",
+   "name": "Slow Roads",
+   "url": "https://slowroads.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A fun driving game: It’s called Slow Roads , and it’s a zen driving experience. It’s relaxing and you can change the environment, it has no traffic. I would definitely recommend it to anyone who likes driving.",
+   "section": "crowdsourced",
+   "recommender": "Srirudran (reader)"
+  },
+  {
+   "id": "2025-04-27-lume",
+   "name": "Lume",
+   "url": "https://apps.apple.com/us/app/lume-gpt-weather/id6742734313?itscg=30200&itsct=apps_box_link&mttnsubad=6742734313",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "I’ve been testing this weather app for iOS called Lume that uses GPT. Loving the UI so far! Just wish it had a widget.",
+   "section": "crowdsourced",
+   "recommender": "Daniel (reader)"
+  },
+  {
+   "id": "2025-04-27-aerospace",
+   "name": "Aerospace",
+   "url": "https://github.com/nikitabobko/AeroSpace",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "open-source"
+   ],
+   "blurb": "Aerospace is a full window-tiling system for MacOS that makes keyboard navigation of a ton of windows super easy, once you learn the mental model of tiled window management.",
+   "section": "crowdsourced",
+   "recommender": "James (reader)"
+  },
+  {
+   "id": "2025-04-27-this-essay-in-hearing-things",
+   "name": "this essay in Hearing Things",
+   "url": "https://www.hearingthings.co/i-learned-to-listen-from-my-dad/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just got around to reading this essay in Hearing Things . Made me think about so many things, but especially how music has shaped so much of my worldview, and the strong memories I have of listening to and playing music with friends and family. Nothing better.",
+   "section": "crowdsourced",
+   "recommender": "Rhoades (reader)"
+  },
+  {
+   "id": "2025-04-27-everybodys-live-with-john-mulaney",
+   "name": "Everybody’s Live with John Mulaney",
+   "url": "https://www.themoviedb.org/tv/283387-everybody-s-live-with-john-mulaney",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’ve been enjoying Everybody’s Live with John Mulaney for the past few weeks, but last night’s episode was surely one of the best. There’s a few more weeks. It’s a fun take on the traditional talk show format, which is much needed in the US, and it’s live with no delay.",
+   "section": "crowdsourced",
+   "recommender": "Bob (reader)"
+  },
+  {
+   "id": "2025-04-27-traveling-salesman-problem",
+   "name": "traveling salesman problem",
+   "url": "https://en.wikipedia.org/wiki/Travelling_salesman_problem",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The traveling salesman problem is one of those things that smart people in tech just kind of throw around all the time, as sort of a shorthand for problems that seem straightforward but turn out to be massively difficult even for powerful computers.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-27-korea81998",
+   "name": "Korea81998",
+   "url": "https://www.math.uwaterloo.ca/tsp/korea/index.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Anyway, I spent a lot of time this week reading about Korea81998 , a project that managed to solve the traveling salesman problem for all 81,998 bars in South Korea.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-27-math-and-computation-required",
+   "name": "math and computation required",
+   "url": "https://www.math.uwaterloo.ca/tsp/korea/computation.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Anyway, I spent a lot of time this week reading about Korea81998 , a project that managed to solve the traveling salesman problem for all 81,998 bars in South Korea.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-27-this-great-hourlong-talk",
+   "name": "this great hourlong talk",
+   "url": "https://www.youtube.com/watch?v=tChnXG6ulyE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Oh, and if you want to go even deeper on this, someone on Hacker News linked to this great hourlong talk from one of the researchers all about solving TSPs. It’s not light weekend viewing, but it’s awesome.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

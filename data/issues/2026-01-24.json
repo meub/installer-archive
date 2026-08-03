@@ -1,0 +1,350 @@
+{
+ "schema": 1,
+ "date": "2026-01-24",
+ "post_type": "issue",
+ "title": "Get stuff done by yelling at your phone",
+ "url": "https://www.theverge.com/tech/866946/todoist-ramble-nexphone-crossplay-installe",
+ "author": "David Pierce",
+ "number": 113,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:40+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-01-24-private-garbage-collectors",
+   "name": "private garbage collectors",
+   "url": "https://www.propublica.org/article/trashed-inside-the-deadly-world-of-private-garbage-collection",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about private garbage collectors and vintage watches and My Favorite Murder , watching The Running Man (which was not great) and Sinners (which was extremely great), giving my Ray-Ban Meta smart glasses another whirl, nostalgia-tripping my way through The Format’s new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-24-vintage-watches",
+   "name": "vintage watches",
+   "url": "https://www.economist.com/interactive/1843/2026/01/09/vintage-luxury-watches?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about private garbage collectors and vintage watches and My Favorite Murder , watching The Running Man (which was not great) and Sinners (which was extremely great), giving my Ray-Ban Meta smart glasses another whirl, nostalgia-tripping my way through The Format’s new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-24-my-favorite-murder",
+   "name": "My Favorite Murder",
+   "url": "https://www.hollywoodreporter.com/business/business-news/my-favorite-murder-10-year-interview-hardstark-kilgariff-1236474448/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about private garbage collectors and vintage watches and My Favorite Murder , watching The Running Man (which was not great) and Sinners (which was extremely great), giving my Ray-Ban Meta smart glasses another whirl, nostalgia-tripping my way through The Format’s new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-24-the-running-man",
+   "name": "The Running Man",
+   "url": "https://www.themoviedb.org/movie/798645-the-running-man",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about private garbage collectors and vintage watches and My Favorite Murder , watching The Running Man (which was not great) and Sinners (which was extremely great), giving my Ray-Ban Meta smart glasses another whirl, nostalgia-tripping my way through The Format’s new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-24-sinners",
+   "name": "Sinners",
+   "url": "https://www.themoviedb.org/movie/1233413-sinners",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about private garbage collectors and vintage watches and My Favorite Murder , watching The Running Man (which was not great) and Sinners (which was extremely great), giving my Ray-Ban Meta smart glasses another whirl, nostalgia-tripping my way through The Format’s new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-24-ray-ban-meta",
+   "name": "Ray-Ban Meta",
+   "url": "https://www.meta.com/ai-glasses/ray-ban-meta/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about private garbage collectors and vintage watches and My Favorite Murder , watching The Running Man (which was not great) and Sinners (which was extremely great), giving my Ray-Ban Meta smart glasses another whirl, nostalgia-tripping my way through The Format’s new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-24-the-formats-new-album",
+   "name": "The Format’s new album",
+   "url": "https://theformat.lnk.to/boycottheaven",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about private garbage collectors and vintage watches and My Favorite Murder , watching The Running Man (which was not great) and Sinners (which was extremely great), giving my Ray-Ban Meta smart glasses another whirl, nostalgia-tripping my way through The Format’s new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-24-star-search",
+   "name": "Star Search",
+   "url": "https://www.themoviedb.org/tv/306657-star-search",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about private garbage collectors and vintage watches and My Favorite Murder , watching The Running Man (which was not great) and Sinners (which was extremely great), giving my Ray-Ban Meta smart glasses another whirl, nostalgia-tripping my way through The Format’s new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-24-dungeon-crawler-carl",
+   "name": "Dungeon Crawler Carl",
+   "url": "https://www.penguinrandomhouse.com/series/43C/dungeon-crawler-carl/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about private garbage collectors and vintage watches and My Favorite Murder , watching The Running Man (which was not great) and Sinners (which was extremely great), giving my Ray-Ban Meta smart glasses another whirl, nostalgia-tripping my way through The Format’s new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-24-todoist-ramble",
+   "name": "Todoist Ramble",
+   "url": "https://www.todoist.com/ramble",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is one of my favorite AI things on the internet, and it just came out of beta. You just start an audio recording and brain dump everything in your head, and Todoist does an impressively good job of turning it into projects, tasks, and deadlines.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-24-the-nexphone",
+   "name": "The NexPhone",
+   "url": "https://nexphone.com/blog/the-tale-of-nexphone-one-phone-every-computer",
+   "alt_urls": [
+    "https://www.theverge.com/tech/864595/nexphone-android-linux-windows-11"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "One phone, three operating systems. This midrange Android phone (which is more than a decade in the making) also comes with Linux and Windows installed , so you can in theory use it as your primary computer as well. It won’t ship for a while, and I do have some questions.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-24-mel-brooks-the-99-year-old-man",
+   "name": "Mel Brooks: The 99 Year Old Man!",
+   "url": "https://www.themoviedb.org/tv/308112-mel-brooks-the-99-year-old-man",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "A two-part, star-studded HBO documentary about one of the funniest, most important comedians of our time. Watch the Judd Apatow-directed series, then use it as an excuse to watch Blazing Saddles and Young Frankenstein and Spaceballs and all the other incredible work Brooks has done.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-24-crossplay",
+   "name": "Crossplay",
+   "url": "https://www.nytimes.com/games/crossplay",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The newest New York Times word game, and its first multiplayer one! Big win for Wordle -ing couples everywhere. It’s basically Words with Friends with nicer design and fewer ads, and I mean that as a pretty high compliment. I just wish it didn’t require downloading a separate app.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-24-mio-memories-in-orbit",
+   "name": "MIO: Memories in Orbit",
+   "url": "https://www.focus-entmt.com/en/games/mio-memories-in-orbit",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve seen some reviews putting this game alongside Silksong and Clair Obscur: Expedition 33 , which is outrageously high indie-game praise. In addition to being absolutely gorgeous, it appears to be gleefully, punishingly difficult, and I suspect that’s going to work for a lot of people.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-24-the-sony-linkbuds-clip",
+   "name": "The Sony LinkBuds Clip",
+   "url": "https://www.tkqlhce.com/click-8836598-15268034?url=https%3A%2F%2Felectronics.sony.com%2Faudio%2Fheadphones%2Fall-headphones%2Fp%2Fwflc900-c",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have started to see this style of clip-on, open-ear earbuds absolutely everywhere, and I kind of love it. Sony’s noise canceling and microphones are typically among the best you’ll find, so I’m curious to see what it can do with this new shape.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-24-tr-49",
+   "name": "TR-49",
+   "url": "https://www.inklestudios.com/tr-49/",
+   "alt_urls": [
+    "https://keeptalkinggame.com",
+    "https://www.theverge.com/games/864630/tr49-review-steam-iphone"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I love a good figure-out-the-machine game ( Keep Talking and Nobody Explodes is one of my all-time faves), and this is a great one . You’re dropped in front of a WWII-era computer and have to figure out how to use it. And what’s going on.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-24-joe-rogan-experience-2440-matt-damon-ben-affleck",
+   "name": "Joe Rogan Experience #2440 - Matt Damon & Ben Affleck",
+   "url": "https://www.youtube.com/watch?v=AVEZBy1uAk8",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Joe Rogan Experience #2440 - Matt Damon & Ben Affleck .” This is the first, and probably last, time I’ll ever recommend a JRE episode here, but Affleck and Damon are just so smart about Hollywood, AI, money, and the future of entertainment.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-24-nightshift",
+   "name": "Nightshift",
+   "url": "https://www.youtube.com/@nightshift_kurzgesagt",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Kurzgesagt is one of the Installerverse’s favorite things on YouTube, and their new, somewhat darker channel is already off to a strong start. I kind of hope every video is about pirates.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-24-boomerang-fu",
+   "name": "Boomerang Fu",
+   "url": "https://www.boomerangfu.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A friend recently introduced us to Boomerang Fu . As adorable anthropomorphic foods, you hurl boomerangs to neatly slice each other in madcap local multiplayer chaos rounds. Remaining the last food standing as the various power-ups stack up becomes increasingly hilarious.",
+   "section": "crowdsourced",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-24-clawdbot",
+   "name": "Clawdbot",
+   "url": "https://clawd.bot/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Clawdbot . It runs on your machine and you can message it using Telegram, WhatsApp, Discord, Slack, or even iMessage, whichever is most accessible to you — and it can do anything you’d expect from something like Claude Code or ChatGPT Codex.",
+   "section": "crowdsourced",
+   "recommender": "Drake (reader)"
+  },
+  {
+   "id": "2026-01-24-bazzite",
+   "name": "Bazzite",
+   "url": "https://bazzite.gg/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Going on two weeks with Bazzite after switching from Windows on my main gaming PC!",
+   "section": "crowdsourced",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-24-dirtywave-m8",
+   "name": "Dirtywave M8",
+   "url": "https://dirtywave.com/products/m8-tracker-model-02",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m convinced musicians have the best gadgets. Right now, I’m putting hours upon hours into the Dirtywave M8 , which is the most compact, powerful music-making tool. It’s also made by a single person. It even comes with a hex key, welcoming you to repair and mod it yourself.",
+   "section": "crowdsourced",
+   "recommender": "Jakub (reader)"
+  },
+  {
+   "id": "2026-01-24-op-xy",
+   "name": "OP-XY",
+   "url": "https://teenage.engineering/products/op-xy",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m convinced musicians have the best gadgets. Right now, I’m putting hours upon hours into the Dirtywave M8 , which is the most compact, powerful music-making tool. It’s also made by a single person. It even comes with a hex key, welcoming you to repair and mod it yourself.",
+   "section": "crowdsourced",
+   "recommender": "Jakub (reader)"
+  },
+  {
+   "id": "2026-01-24-hex",
+   "name": "Hex",
+   "url": "https://github.com/kitlangton/Hex",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "open-source"
+   ],
+   "blurb": "Check out Hex for on-device LLM voice dictation, completely for free. Hold Alt, talk, and your words appear.",
+   "section": "crowdsourced",
+   "recommender": "Andrew (reader)"
+  },
+  {
+   "id": "2026-01-24-kingdom-come-deliverance-2",
+   "name": "Kingdom Come: Deliverance 2",
+   "url": "https://www.deepsilver.com/games/kingdom-come-deliverance-ii",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m ready for a cozy weekend playing the Legacy of the Forge DLC for Kingdom Come: Deliverance 2 . It’s so nice to see Henry (the main character) become a homeowner after such a rough ride navigating the politics of medieval Bohemia.",
+   "section": "crowdsourced",
+   "recommender": "Alex (reader)"
+  },
+  {
+   "id": "2026-01-24-alma",
+   "name": "Alma",
+   "url": "https://www.alma.food/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m really enjoying Alma as a food-tracking tool. It’s a great use of AI, where I can just casually type out what I’m eating and it will figure out the macros.",
+   "section": "crowdsourced",
+   "recommender": "Michael (reader)"
+  },
+  {
+   "id": "2026-01-24-the-iron-snail",
+   "name": "The Iron Snail",
+   "url": "https://www.youtube.com/c/TheIronSnail",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Currently obsessed with The Iron Snail on YouTube. Best content on clothing I have seen in years.",
+   "section": "crowdsourced",
+   "recommender": "Nishant (reader)"
+  },
+  {
+   "id": "2026-01-24-powerwash-simulator-2",
+   "name": "PowerWash Simulator 2",
+   "url": "https://www.futurlab.co.uk/games/powerwash-simulator-2",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I held out for a while, but I eventually gave in and bought PowerWash Simulator 2 . As a result, I’ve completely abandoned all real chores around the house.",
+   "section": "crowdsourced",
+   "recommender": "Nic (reader)"
+  }
+ ]
+}

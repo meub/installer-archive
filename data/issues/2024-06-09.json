@@ -1,0 +1,482 @@
+{
+ "schema": 1,
+ "date": "2024-06-09",
+ "post_type": "issue",
+ "title": "An AI PC you’ll want to tinker with",
+ "url": "https://www.theverge.com/24173628/ai-pc-raspberry-pi-hit-man-rivian-chromatic-installer",
+ "author": "David Pierce",
+ "number": 41,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-06-09-the-tough-times-at-humane",
+   "name": "the tough times at Humane",
+   "url": "https://www.nytimes.com/2024/06/06/technology/humane-ai-pin.html?sgrp=c-cb",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the tough times at Humane and how Suicide Squad flopped , watching the TikTok dancing cult documentary and Furiosa , swapping my crappy Roku for a slightly less crappy Apple TV, listening to a lot of WikiHole , mixing up new mocktail recipes, and testing the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-how-suicide-squad-flopped",
+   "name": "how Suicide Squad flopped",
+   "url": "https://www.bloomberg.com/news/articles/2024-06-06/-suicide-squad-warner-bros-s-200-million-flop-haunts-the-gaming-industry?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcxNzY3NzY3MSwiZXhwIjoxNzE4MjgyNDcxLCJhcnRpY2xlSWQiOiJTRU5QQUlEV0xVNjgwMCIsImJjb25uZWN0SWQiOiJCMUVBQkI5NjQ2QUM0REZFQTJBRkI4MjI1MzgyQTJFQSJ9.w4OIlWguMfYk-NkNMnefg8NnCt9rIJFeBodZhB8DmhM",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the tough times at Humane and how Suicide Squad flopped , watching the TikTok dancing cult documentary and Furiosa , swapping my crappy Roku for a slightly less crappy Apple TV, listening to a lot of WikiHole , mixing up new mocktail recipes, and testing the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-the-tiktok-dancing-cult-documentary",
+   "name": "the TikTok dancing cult documentary",
+   "url": "https://www.themoviedb.org/tv/253384-dancing-for-the-devil-the-7m-tiktok-cult",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about the tough times at Humane and how Suicide Squad flopped , watching the TikTok dancing cult documentary and Furiosa , swapping my crappy Roku for a slightly less crappy Apple TV, listening to a lot of WikiHole , mixing up new mocktail recipes, and testing the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-furiosa",
+   "name": "Furiosa",
+   "url": "https://www.themoviedb.org/movie/786892-furiosa-a-mad-max-saga?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about the tough times at Humane and how Suicide Squad flopped , watching the TikTok dancing cult documentary and Furiosa , swapping my crappy Roku for a slightly less crappy Apple TV, listening to a lot of WikiHole , mixing up new mocktail recipes, and testing the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-wikihole",
+   "name": "WikiHole",
+   "url": "https://wondery.com/shows/wikihole-with-darcy-carden/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the tough times at Humane and how Suicide Squad flopped , watching the TikTok dancing cult documentary and Furiosa , swapping my crappy Roku for a slightly less crappy Apple TV, listening to a lot of WikiHole , mixing up new mocktail recipes, and testing the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-phanpy",
+   "name": "Phanpy",
+   "url": "https://phanpy.social/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the tough times at Humane and how Suicide Squad flopped , watching the TikTok dancing cult documentary and Furiosa , swapping my crappy Roku for a slightly less crappy Apple TV, listening to a lot of WikiHole , mixing up new mocktail recipes, and testing the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-imdavidpierce",
+   "name": "@imdavidpierce",
+   "url": "https://www.threads.net/@imdavidpierce",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "(As always, the best part of Installer is your ideas and tips. What are you into right now? What should everyone else be as into as you are? Tell me everything: email installer@theverge.com , share with @imdavidpierce on Threads, or find me on Signal @davidpierce.11.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-the-raspberry-pi-ai-kit",
+   "name": "The Raspberry Pi AI Kit",
+   "url": "https://www.raspberrypi.com/products/ai-kit/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is my kind of AI PC: a super simple $70 kit that works with a Raspberry Pi 5 and gives you a surprising amount of power with which to do simple processing tasks. I don’t even know what I’ll use this for! But I’m getting one anyway.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-hit-man",
+   "name": "Hit Man",
+   "url": "https://www.themoviedb.org/movie/974635-hit-man",
+   "alt_urls": [
+    "https://www.texasmonthly.com/true-crime/hit-man-2/"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "A bunch of very smart people have said this comedy-action-thriller Netflix flick is one of the best movies of the year. And why not? Richard Linklater directs, Glen Powell stars, it’s based on an all-timer of a magazine article . I cannot wait to watch.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-dark-wire",
+   "name": "Dark Wire",
+   "url": "https://www.hachettebookgroup.com/titles/joseph-cox/dark-wire/9781541702691/",
+   "alt_urls": [
+    "https://www.wired.com/story/inside-biggest-fbi-sting-operation-in-history/",
+    "https://www.404media.co/dark-wire-inside-a-kidnapping-planned-on-the-fbis-secret-chat-app/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This is as good a premise for a book as I’ve ever seen: the story of the FBI’s secret tech startup, designed to track some of the world’s most sophisticated criminals. A few places have published excerpts , and I already can’t put this book down.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-building-simcity",
+   "name": "Building SimCity",
+   "url": "https://www.penguinrandomhouse.com/books/744393/building-simcity-by-chaim-gingold-foreword-by-janet-h-murray/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Two books this week! You love to see it. This is a story all about SimCity, yes, but also about the history of computer simulation, with lots of photos and diagrams to go with it. One for the coffee table for sure.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-the-new-rivian-r1",
+   "name": "The new Rivian R1",
+   "url": "https://rivian.com/r1s",
+   "alt_urls": [
+    "https://www.theverge.com/2024/6/6/24172761/rivian-r1t-r1s-refresh-update-motor-battery-price"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Same look, same funky headlight design, totally new car underneath. A lot of what Rivian’s doing here is clearly just to keep costs down , but this continues to be the EV I lust after the most.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-the-acolyte",
+   "name": "The Acolyte",
+   "url": "https://www.themoviedb.org/tv/114479-the-acolyte",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This is a very different kind of Star Wars story, set in a very different time and place, told from a very different point of view, all of which I definitely think is a good thing. The reviews seem pretty mixed so far, but I’m excited to give it a whirl.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-sequel-2-3",
+   "name": "Sequel 2.3",
+   "url": "https://www.getsequel.app/",
+   "alt_urls": [
+    "https://www.theverge.com/23915813/sequel-sofa-media-tracking-apps-roblox-razr-big-vape-installer-newsletter"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "A very cool update to the Installerverse’s favorite media tracking app for Apple devices. The new feature is called Magic Lookup, and it lets you send a URL to the app and have it automatically parsed and dumped into your lists.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-the-modretro-chromatic",
+   "name": "The ModRetro Chromatic",
+   "url": "https://modretro.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The retro gaming hardware boom we’re in right now is just the best thing. And this, a $199 Game Boy homage from a team led by Palmer Luckey, looks great. It’s not shipping until the end of the year, but it’s up for preorders now.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-the-asus-rog-ally-x",
+   "name": "The Asus ROG Ally X",
+   "url": "https://rog.asus.com/us/gaming-handhelds/rog-ally/rog-ally-x-2024/",
+   "alt_urls": [
+    "https://www.theverge.com/2024/6/2/24169709/asus-rog-ally-x-price-release-date-inside-gaming-handheld"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Speaking of portable consoles! This one’s a lot bigger, a lot more expensive, and a lot more ambitious than the Chromatic — but it also sounds pretty great. Maybe this is the first Windows handheld that can really stand up to the Steam Deck ?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-comfort-zone",
+   "name": "Comfort Zone",
+   "url": "https://www.macstories.net/comfort-zone/",
+   "alt_urls": [
+    "https://www.macstories.net/npc/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Fun new podcast from the MacStories crew, with a gimmick I really like: every week, the three hosts have to basically do “Tech Show and Tell” and then issue a tech-related challenge to complete before the next episode. (MacStories also has another new podcast, called NPC , all about portable gaming.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-how-wall-e-reveals-our-changing-feelings-toward",
+   "name": "“How ‘Wall-E’ Reveals Our Changing Feelings Toward Tech.”",
+   "url": "https://crooked.com/podcast/how-wall-e-reveals-our-changing-feelings-toward-tech/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am outrageously jealous of this whole series of episodes from the Offline podcast, looking at how movies like Her and The Social Network influenced the way we think about and build tech. This is the final episode in the miniseries, and they’re all worth a listen.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-niagara-launcher",
+   "name": "Niagara Launcher",
+   "url": "https://niagaralauncher.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Well, friends, it took 41 issues, but it happened: I had someone lined up for Screen Share this week, and it just didn’t come together in time. So let’s do something slightly different.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-a-good-thorough-video",
+   "name": "a good thorough video",
+   "url": "https://www.youtube.com/watch?v=W9U-T_LbIak",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Niagara is just so clever! It turns your apps into a customizable list, pops up widgets and notifications right in place, and lets you do a shocking amount of stuff without ever opening an app. This is totally how phones should work.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-sm0ke-screens",
+   "name": "@sm0ke_screens",
+   "url": "https://x.com/sm0ke_screens/status/1611399108224507904",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "(Top row: @sm0ke_screens / @iamankursjain / @justinbelcher / @imaginationmatters6 . Bottom row: @kustom_bee / @SandeepAugusti3 / @KushalWagh )",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-iamankursjain",
+   "name": "@iamankursjain",
+   "url": "https://www.threads.net/@iamankursjain/post/C5r3xysKOLH",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "(Top row: @sm0ke_screens / @iamankursjain / @justinbelcher / @imaginationmatters6 . Bottom row: @kustom_bee / @SandeepAugusti3 / @KushalWagh )",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-justinbelcher",
+   "name": "@justinbelcher",
+   "url": "https://www.threads.net/@justinbelcher/post/C717rHJvYEZ",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "(Top row: @sm0ke_screens / @iamankursjain / @justinbelcher / @imaginationmatters6 . Bottom row: @kustom_bee / @SandeepAugusti3 / @KushalWagh )",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-imaginationmatters6",
+   "name": "@imaginationmatters6",
+   "url": "https://www.threads.net/@imaginationmatters6/post/C4s2YnJvhhY",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "(Top row: @sm0ke_screens / @iamankursjain / @justinbelcher / @imaginationmatters6 . Bottom row: @kustom_bee / @SandeepAugusti3 / @KushalWagh )",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-kustom-bee",
+   "name": "@kustom_bee",
+   "url": "https://www.threads.net/@kustom_bee/post/Cu2Em4syUWj",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "(Top row: @sm0ke_screens / @iamankursjain / @justinbelcher / @imaginationmatters6 . Bottom row: @kustom_bee / @SandeepAugusti3 / @KushalWagh )",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-sandeepaugusti3",
+   "name": "@SandeepAugusti3",
+   "url": "https://x.com/SandeepAugusti3/status/1550086116006629377",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "(Top row: @sm0ke_screens / @iamankursjain / @justinbelcher / @imaginationmatters6 . Bottom row: @kustom_bee / @SandeepAugusti3 / @KushalWagh )",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-kushalwagh",
+   "name": "@KushalWagh",
+   "url": "https://x.com/KushalWagh/status/1567394452586795010",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "(Top row: @sm0ke_screens / @iamankursjain / @justinbelcher / @imaginationmatters6 . Bottom row: @kustom_bee / @SandeepAugusti3 / @KushalWagh )",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-09-vibescape",
+   "name": "Vibescape",
+   "url": "https://www.apposite.ai/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "New version of Vibescape just came out for Apple Vision Pro — new Oregon coast-inspired meditation environment! Completely new experience with this and the Forest Ledge environment — pushing the boundaries of what’s possible outside of Apple’s own environments.",
+   "section": "crowdsourced",
+   "recommender": "Gregory (reader)"
+  },
+  {
+   "id": "2024-06-09-beeper",
+   "name": "Beeper",
+   "url": "https://www.beeper.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been using Beeper a ton on my Pixel 8 Pro and MacBook Pro. I actually installed it in early April when the acquisition announcement came out but have really hit my stride with it a month ago. It’s just so helpful to have all of your messaging in one app, both for work and personal.",
+   "section": "crowdsourced",
+   "recommender": "Josh (reader)"
+  },
+  {
+   "id": "2024-06-09-patrick-willems",
+   "name": "Patrick Willems",
+   "url": "https://www.youtube.com/@patrickhwillems",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Patrick Willems has a new video this week about what’s next after superhero movies so I’ve been diving back into his channel after a while.",
+   "section": "crowdsourced",
+   "recommender": "Mike (reader)"
+  },
+  {
+   "id": "2024-06-09-whats-next-after-superhero-movies",
+   "name": "what’s next after superhero movies",
+   "url": "https://www.youtube.com/watch?v=SW9b9VpVW0A",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Patrick Willems has a new video this week about what’s next after superhero movies so I’ve been diving back into his channel after a while.",
+   "section": "crowdsourced",
+   "recommender": "Mike (reader)"
+  },
+  {
+   "id": "2024-06-09-guild-wars-2",
+   "name": "Guild Wars 2",
+   "url": "https://www.guildwars2.com/en/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A friend introduced me to Guild Wars 2 a few months back. As someone who likes the concept of an MMO but always felt let down by the execution, I can confidently say this is one of the most underrated games ever made.",
+   "section": "crowdsourced",
+   "recommender": "Dallin (reader)"
+  },
+  {
+   "id": "2024-06-09-bazzite",
+   "name": "Bazzite",
+   "url": "https://bazzite.gg/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I heard about Microsoft’s Recall, which felt exhausting and tedious to me. So, last weekend, I paved over Windows and installed the Bazzite Linux distro on my gaming PC and have been playing all my Steam and Epic games that way.",
+   "section": "crowdsourced",
+   "recommender": "Les (reader)"
+  },
+  {
+   "id": "2024-06-09-coming-back-to-theaters",
+   "name": "coming back to theaters",
+   "url": "https://www.fathomevents.com/series/the-lord-of-the-rings-trilogy/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The LOTR movies are finally coming back to theaters . The extended editions — the only versions I’ll watch. So excited to go watch these with my pals, like high school all over again.",
+   "section": "crowdsourced",
+   "recommender": "Colin (reader)"
+  },
+  {
+   "id": "2024-06-09-who-killed-wcw",
+   "name": "Who Killed WCW?",
+   "url": "https://www.themoviedb.org/tv/253268-who-killed-wcw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Watching Who Killed WCW? from Vice . It’s a three-part miniseries interviewing Eric Bischoff and a bunch of wrestlers like Kevin Nash, Konnan, and Booker T about the inevitable downfall of WCW.",
+   "section": "crowdsourced",
+   "recommender": "Brian (reader)"
+  },
+  {
+   "id": "2024-06-09-thousandaires",
+   "name": "Thousandaires",
+   "url": "https://www.dropout.tv/thousandaires",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The new shows Thousandaires from Dropout and Trolley Problems from 2nd Try premiered this week and are both hilarious and great examples of modern media companies and the trend of creating their own streaming platforms.",
+   "section": "crowdsourced",
+   "recommender": "Zach (reader)"
+  },
+  {
+   "id": "2024-06-09-trolley-problems",
+   "name": "Trolley Problems",
+   "url": "https://watch.2ndtry.tv/trolley-problems",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The new shows Thousandaires from Dropout and Trolley Problems from 2nd Try premiered this week and are both hilarious and great examples of modern media companies and the trend of creating their own streaming platforms.",
+   "section": "crowdsourced",
+   "recommender": "Zach (reader)"
+  },
+  {
+   "id": "2024-06-09-delicious-in-dungeon",
+   "name": "Delicious in Dungeon",
+   "url": "https://www.themoviedb.org/tv/207784?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "On the anime watch. I highly recommend Delicious in Dungeon . Very fun to watch, the characters’ comedic timing is excellent. This anime is hilarious while keeping the stakes of the story high.",
+   "section": "crowdsourced",
+   "recommender": "John (reader)"
+  },
+  {
+   "id": "2024-06-09-a-blog-post",
+   "name": "a blog post",
+   "url": "https://boz.com/articles/inbox-ten",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been thinking a lot this week about a blog post Andrew Bosworth, Meta’s CTO, wrote recently.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

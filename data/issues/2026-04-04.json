@@ -1,0 +1,438 @@
+{
+ "schema": 1,
+ "date": "2026-04-04",
+ "post_type": "issue",
+ "title": "The app for tracking TV, movies, podcasts, and everything",
+ "url": "https://www.theverge.com/tech/906873/sofa-app-track-tv-movies-installer",
+ "author": "David Pierce",
+ "number": 122,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:40+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-04-04-early-apple-employees",
+   "name": "early Apple employees",
+   "url": "https://www.nytimes.com/2026/04/01/technology/apple-employee-50-years.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about early Apple employees and weather apps and one-page productivity systems , watching Avatar: Fire and Ash on my phone in installments the way James Cameron intended, trying and failing to find a better Gmail address than the dumb one I picked 20 years ago, watching…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-04-weather-apps",
+   "name": "weather apps",
+   "url": "https://www.newyorker.com/culture/infinite-scroll/why-you-hate-your-weather-app",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about early Apple employees and weather apps and one-page productivity systems , watching Avatar: Fire and Ash on my phone in installments the way James Cameron intended, trying and failing to find a better Gmail address than the dumb one I picked 20 years ago, watching…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-04-one-page-productivity-systems",
+   "name": "one-page productivity systems",
+   "url": "https://karpathy.bearblog.dev/the-append-and-review-note/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about early Apple employees and weather apps and one-page productivity systems , watching Avatar: Fire and Ash on my phone in installments the way James Cameron intended, trying and failing to find a better Gmail address than the dumb one I picked 20 years ago, watching…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-04-avatar-fire-and-ash",
+   "name": "Avatar: Fire and Ash",
+   "url": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about early Apple employees and weather apps and one-page productivity systems , watching Avatar: Fire and Ash on my phone in installments the way James Cameron intended, trying and failing to find a better Gmail address than the dumb one I picked 20 years ago, watching…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-04-the-artemis-ii-launch",
+   "name": "the Artemis II launch",
+   "url": "https://www.youtube.com/watch?v=_eeZQw9PBc0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about early Apple employees and weather apps and one-page productivity systems , watching Avatar: Fire and Ash on my phone in installments the way James Cameron intended, trying and failing to find a better Gmail address than the dumb one I picked 20 years ago, watching…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-04-a-new-mug",
+   "name": "a new mug",
+   "url": "https://www.yeti.com/drinkware/mugs/21071507369.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about early Apple employees and weather apps and one-page productivity systems , watching Avatar: Fire and Ash on my phone in installments the way James Cameron intended, trying and failing to find a better Gmail address than the dumb one I picked 20 years ago, watching…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-04-this-incredible-dj-set",
+   "name": "this incredible DJ set",
+   "url": "https://www.youtube.com/watch?v=gfF8jzBVWvM",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about early Apple employees and weather apps and one-page productivity systems , watching Avatar: Fire and Ash on my phone in installments the way James Cameron intended, trying and failing to find a better Gmail address than the dumb one I picked 20 years ago, watching…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-04-darknet-diaries-episode-about-music-fraud",
+   "name": "Darknet Diaries episode about music fraud",
+   "url": "https://darknetdiaries.com/episode/171/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about early Apple employees and weather apps and one-page productivity systems , watching Avatar: Fire and Ash on my phone in installments the way James Cameron intended, trying and failing to find a better Gmail address than the dumb one I picked 20 years ago, watching…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-04-sofa-5",
+   "name": "Sofa 5",
+   "url": "https://www.sofahq.com/5",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A huge update to an Installerverse favorite, this app is now a great way to manage everything you want to watch, read, play, and even do IRL. I never quite made it stick when it was mostly just movies and shows, but now I think of it as like a Notion for my personal life.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-04-surf",
+   "name": "Surf",
+   "url": "https://surf.social/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After a long beta, this feed reader / social network / timeline app finally launched, and I still think it’s a great idea. The fediverse doesn’t have to look like Twitter! It can be lots of things! Surf is one of those things.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-04-the-super-mario-galaxy-movie",
+   "name": "The Super Mario Galaxy Movie",
+   "url": "https://www.themoviedb.org/movie/1226863-the-super-mario-galaxy-movie",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "The cast for this movie is just unbelievably stacked, and while the reviews aren’t great, they weren’t for the last one, either, and I loved that movie! I suspect my kid and I will watch this approximately 446 times.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-04-hozy",
+   "name": "Hozy",
+   "url": "https://store.steampowered.com/app/3326230/Hozy/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I’ve only really recently come to appreciate the cozy game genre. Life is hard, y’all; it’s nice to have something calmingly mindless to do. In this case, that thing is home renovation and decoration, and it’s far more fun than it has any right to be.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-04-proton-meet",
+   "name": "Proton Meet",
+   "url": "https://proton.me/meet",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "There are a lot of good reasons to be worried about the privacy of your meetings, the recordings of those meetings, the AI summaries of those meetings, and everything else. Proton’s new tool is encrypted, simple, and seems to work well. Gonna swap a lot of Google Meets for this.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-04-jeopardy-youtube-edition",
+   "name": "Jeopardy! YouTube Edition",
+   "url": "https://www.youtube.com/watch?v=_sQz0TyU7cE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Jeopardy! YouTube Edition . ” Do not watch this thinking it’s a terrific episode of Jeopardy . Watch it for the nonstop meme references, Ken Jennings trying his best to be young and hip, and a bunch of extremely answerable questions for anyone who’s a little too online.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-04-day-one-chat",
+   "name": "Day One Chat",
+   "url": "https://dayoneapp.com/guides/labs/daily-chat/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A chatbot that prompts you through a journal entry, so that every day is a conversation instead of a monologue. It’s definitely not how everybody journals, but it might make the habit easier to start.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-04-newsblur-for-android",
+   "name": "NewsBlur for Android",
+   "url": "https://play.google.com/store/apps/details?id=com.newsblur",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "There are not enough good RSS readers for Android. NewsBlur is one of the best, and the new version got a much-needed redesign plus a bunch of new organization and discovery features. Might be my new go-to feeds app on Android.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-04-cindy-cohn-fighting-for-digital-human-rights-in",
+   "name": "Cindy Cohn - Fighting for Digital Human Rights in Privacy’s Defender",
+   "url": "https://www.youtube.com/watch?v=QkC1aK7jfLo",
+   "alt_urls": [
+    "https://www.eff.org/Privacys-Defender"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Cindy Cohn - Fighting for Digital Human Rights in Privacy’s Defender .” A terrific, extended Daily Show segment with the head of the Electronic Frontier Foundation, which turns into an incredibly comprehensible take on why privacy matters and what we can do to preserve it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-04-twos",
+   "name": "Twos",
+   "url": "https://www.twosapp.com",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been using Twos , a note-taking and to-do list app, a lot over the last couple of years. The app does a lot, but in a very straightforward way, and it just works the way my brain does.",
+   "section": "screen-share",
+   "recommender": "Parker"
+  },
+  {
+   "id": "2026-04-04-parker-klein",
+   "name": "Parker Klein",
+   "url": "https://www.parkerklein.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Well, Parker Klein , the developer behind Twos, shipped a new version of the app this week that is a huge improvement in that respect. Every corner of the app feels cleaner and more polished, and I’ve been loving it in beta for the last few weeks. The wildest part?",
+   "section": "screen-share",
+   "recommender": "Parker"
+  },
+  {
+   "id": "2026-04-04-claude-mac-app",
+   "name": "Claude Mac app",
+   "url": "https://claude.com/download",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“I use the Claude Mac app on my MacBook Pro, on their Max plan. It works directly with the directory and files on my computer, and then I commit to GitHub and deploy on my own.",
+   "section": "screen-share",
+   "recommender": "Parker"
+  },
+  {
+   "id": "2026-04-04-claude-code-extension-in-vscode",
+   "name": "Claude Code extension in VSCode",
+   "url": "https://code.claude.com/docs/en/vs-code",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“I use the Claude Mac app on my MacBook Pro, on their Max plan. It works directly with the directory and files on my computer, and then I commit to GitHub and deploy on my own.",
+   "section": "screen-share",
+   "recommender": "Parker"
+  },
+  {
+   "id": "2026-04-04-cursor",
+   "name": "Cursor",
+   "url": "https://cursor.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“I use the Claude Mac app on my MacBook Pro, on their Max plan. It works directly with the directory and files on my computer, and then I commit to GitHub and deploy on my own.",
+   "section": "screen-share",
+   "recommender": "Parker"
+  },
+  {
+   "id": "2026-04-04-hyperspace",
+   "name": "Hyperspace",
+   "url": "https://hypercritical.co/hyperspace/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "John Siracusa’s app Hyperspace on the Mac App Store — great for saving space on your Mac (but it doesn’t actually delete any files through the use of APFS).",
+   "section": "crowdsourced",
+   "recommender": "Quack (reader)"
+  },
+  {
+   "id": "2026-04-04-vidabay-snap",
+   "name": "VidaBay Snap",
+   "url": "https://vidabay.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I got a terrible/wonderful color e-ink photo frame: the VidaBay Snap . No wires, no battery. Transfer exactly one (1) photo via NFC. It only works on iOS (for now?), I have to transfer a white image to clear it thoroughly before changing the photo, and it’s SUPER janky.",
+   "section": "crowdsourced",
+   "recommender": "Daniel (reader)"
+  },
+  {
+   "id": "2026-04-04-crimson-desert",
+   "name": "Crimson Desert",
+   "url": "https://crimsondesert.pearlabyss.com/en-US/Main",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m playing Crimson Desert , the amazing open-world RPG with characters who have no personality and a main plot with no diegetic quest delivery. But it’s gorgeous and huge, combat is fun, and it lets you pick grasshoppers out of a field.",
+   "section": "crowdsourced",
+   "recommender": "Jordan (reader)"
+  },
+  {
+   "id": "2026-04-04-ryans-edits",
+   "name": "Ryan’s Edits",
+   "url": "https://www.youtube.com/@RyansEdits",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "One of my favorite YouTube channels that I keep coming back to over and over is Ryan’s Edits . He takes Star Trek blooper reels, mainly from TNG , and re-edits them back into the episodes, usually with the appropriate music and sound effects.",
+   "section": "crowdsourced",
+   "recommender": "Nicholas (reader)"
+  },
+  {
+   "id": "2026-04-04-listers",
+   "name": "Listers",
+   "url": "https://www.youtube.com/watch?v=zl-wAqplQAo",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "We just watched this unexpected banger documentary about extreme birdwatching called Listers that deserves more attention.",
+   "section": "crowdsourced",
+   "recommender": "Mal (reader)"
+  },
+  {
+   "id": "2026-04-04-indie-game-works",
+   "name": "Indie Game Works",
+   "url": "https://readonlymemory.com/pages/indie-game-works",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Indie Game Works . Excellent new book release from ROM on the greatest indie games of the 21st century.",
+   "section": "crowdsourced",
+   "recommender": "Andy (reader)"
+  },
+  {
+   "id": "2026-04-04-emby",
+   "name": "Emby",
+   "url": "https://emby.media/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Recently I have been mostly in Google and Claude, searching ‘how to use an old phone as a media server,’ and Reddit has suggested that I should try Emby . It is a little slow — maybe I should connect ethernet to my TV — but it is kinda awesome!",
+   "section": "crowdsourced",
+   "recommender": "Aftab (reader)"
+  },
+  {
+   "id": "2026-04-04-the-demon-cycle",
+   "name": "The Demon Cycle",
+   "url": "https://www.penguinrandomhouse.com/series/DMN/the-demon-cycle/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m an avid audiobook fan, and thought these recommendations might be of interest. The Demon Cycle series by Peter V. Brett is an epic world of magic, demons and fantasy. A dark and fascinating cultural delight!",
+   "section": "crowdsourced",
+   "recommender": "Brian (reader)"
+  },
+  {
+   "id": "2026-04-04-the-stormlight-archive",
+   "name": "The Stormlight Archive",
+   "url": "https://www.brandonsanderson.com/pages/the-stormlight-archive-series",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m an avid audiobook fan, and thought these recommendations might be of interest. The Demon Cycle series by Peter V. Brett is an epic world of magic, demons and fantasy. A dark and fascinating cultural delight!",
+   "section": "crowdsourced",
+   "recommender": "Brian (reader)"
+  },
+  {
+   "id": "2026-04-04-wanderlog",
+   "name": "Wanderlog",
+   "url": "https://wanderlog.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently gave Wanderlog a try for planning my family’s summer road trip. It made it a breeze to co-plan this with my husband. It also saved us from accidentally making a 12 hr driving day. Such a great tool!",
+   "section": "crowdsourced",
+   "recommender": "Naomi (reader)"
+  },
+  {
+   "id": "2026-04-04-guinness-world-records",
+   "name": "Guinness World Records",
+   "url": "https://www.tiktok.com/@guinnessworldrecords",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Guinness World Records is my new favorite thing on TikTok. I don’t know how I didn’t find it until this week, but it’s perfect: just an endless feed of remarkable accomplishments, whether it’s clapping a billion times a minute , driving a truck through an impossibly tiny opening , or just being a…",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-04-clapping-a-billion-times-a-minute",
+   "name": "clapping a billion times a minute",
+   "url": "https://www.tiktok.com/@guinnessworldrecords/video/7620853307237518614",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Guinness World Records is my new favorite thing on TikTok. I don’t know how I didn’t find it until this week, but it’s perfect: just an endless feed of remarkable accomplishments, whether it’s clapping a billion times a minute , driving a truck through an impossibly tiny opening , or just being a…",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-04-driving-a-truck-through-an-impossibly-tiny-openi",
+   "name": "driving a truck through an impossibly tiny opening",
+   "url": "https://www.tiktok.com/@guinnessworldrecords/video/7620124614257200387",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Guinness World Records is my new favorite thing on TikTok. I don’t know how I didn’t find it until this week, but it’s perfect: just an endless feed of remarkable accomplishments, whether it’s clapping a billion times a minute , driving a truck through an impossibly tiny opening , or just being a…",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-04-being-a-very-large-snake",
+   "name": "being a very large snake",
+   "url": "https://www.tiktok.com/@guinnessworldrecords/video/7602959292437728534",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Guinness World Records is my new favorite thing on TikTok. I don’t know how I didn’t find it until this week, but it’s perfect: just an endless feed of remarkable accomplishments, whether it’s clapping a billion times a minute , driving a truck through an impossibly tiny opening , or just being a…",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

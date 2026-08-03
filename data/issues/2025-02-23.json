@@ -1,0 +1,616 @@
+{
+ "schema": 1,
+ "date": "2025-02-23",
+ "post_type": "issue",
+ "title": "Our favorite apps for listening to music",
+ "url": "https://www.theverge.com/installer-newsletter/617653/best-music-apps-iphone-android-installer",
+ "author": "David Pierce",
+ "number": 72,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "group-project",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-02-23-hasan-piker",
+   "name": "Hasan Piker",
+   "url": "https://slate.com/news-and-politics/2025/02/hasan-piker-donald-trump-news-elon-musk-jd-vance.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Hasan Piker and calculator apps and car thieves and the real economics of YouTuber life , using my month of Paramount Plus to watch Sonic the Hedgehog 3 and Yellowjackets , replacing my big podcast headphones with the Shure SE215 in-ear headphones, switching all…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-calculator-apps",
+   "name": "calculator apps",
+   "url": "https://chadnauseam.com/coding/random/calculator-app",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Hasan Piker and calculator apps and car thieves and the real economics of YouTuber life , using my month of Paramount Plus to watch Sonic the Hedgehog 3 and Yellowjackets , replacing my big podcast headphones with the Shure SE215 in-ear headphones, switching all…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-car-thieves",
+   "name": "car thieves",
+   "url": "https://www.bloomberg.com/features/2025-teen-carjacking-gangs-gta/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTczOTU5NDA3MCwiZXhwIjoxNzQwMTk4ODcwLCJhcnRpY2xlSWQiOiJTUk05NFlEV1gyUFMwMCIsImJjb25uZWN0SWQiOiI4ODM4Mzc1MEU3QzU0NjRCOUI5QTk1NkJCNEFGRjExMSJ9.cHZcE3pN8frHOzrsoJn8TLxePAOYJ-D2rSNSw7W7mr4&leadSource=uverify+wall&__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Hasan Piker and calculator apps and car thieves and the real economics of YouTuber life , using my month of Paramount Plus to watch Sonic the Hedgehog 3 and Yellowjackets , replacing my big podcast headphones with the Shure SE215 in-ear headphones, switching all…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-the-real-economics-of-youtuber-life",
+   "name": "the real economics of YouTuber life",
+   "url": "https://carlalallimusic.substack.com/p/the-true-costs-of-being-on-youtube",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "newsletter"
+   ],
+   "blurb": "This week, I’ve been reading about Hasan Piker and calculator apps and car thieves and the real economics of YouTuber life , using my month of Paramount Plus to watch Sonic the Hedgehog 3 and Yellowjackets , replacing my big podcast headphones with the Shure SE215 in-ear headphones, switching all…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-sonic-the-hedgehog-3",
+   "name": "Sonic the Hedgehog 3",
+   "url": "https://www.themoviedb.org/movie/939243-sonic-the-hedgehog-3?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about Hasan Piker and calculator apps and car thieves and the real economics of YouTuber life , using my month of Paramount Plus to watch Sonic the Hedgehog 3 and Yellowjackets , replacing my big podcast headphones with the Shure SE215 in-ear headphones, switching all…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-yellowjackets",
+   "name": "Yellowjackets",
+   "url": "https://www.themoviedb.org/tv/117488-yellowjackets?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Hasan Piker and calculator apps and car thieves and the real economics of YouTuber life , using my month of Paramount Plus to watch Sonic the Hedgehog 3 and Yellowjackets , replacing my big podcast headphones with the Shure SE215 in-ear headphones, switching all…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-shure-se215",
+   "name": "Shure SE215",
+   "url": "https://www.shure.com/en-US/products/earphones/se215?variant=SE215-CL",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Hasan Piker and calculator apps and car thieves and the real economics of YouTuber life , using my month of Paramount Plus to watch Sonic the Hedgehog 3 and Yellowjackets , replacing my big podcast headphones with the Shure SE215 in-ear headphones, switching all…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-50-years-of-travel-tips",
+   "name": "50 years of travel tips",
+   "url": "https://kk.org/thetechnium/50-years-of-travel-tips/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Hasan Piker and calculator apps and car thieves and the real economics of YouTuber life , using my month of Paramount Plus to watch Sonic the Hedgehog 3 and Yellowjackets , replacing my big podcast headphones with the Shure SE215 in-ear headphones, switching all…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-the-apple-iphone-16e",
+   "name": "The Apple iPhone 16E",
+   "url": "https://www.apple.com/iphone-16e/",
+   "alt_urls": [
+    "https://www.theverge.com/news/609204/apple-iphone-16e-price-release-date-specs-a18-notch-face-id"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m torn on this one. I like that it’s $599, I like that it has good battery life, I like that it has Face ID and USB-C . But only one camera? And an Action Button but no MagSafe?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-avowed",
+   "name": "Avowed",
+   "url": "https://www.xbox.com/en-US/games/avowed?icid=XboxCat_R2_CC2_Avowed",
+   "alt_urls": [
+    "https://www.theverge.com/games-review/611255/avowed-review-xbox-pc"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "It’s been a while since an Xbox game felt like it was everywhere on my social feeds. But it seems like everyone’s into Avowed, a properly huge and complicated RPG that, according to my colleague Andrew Webster, doesn’t blow up the format but executes it well .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-memes-nightmares",
+   "name": "Memes & Nightmares",
+   "url": "https://www.themoviedb.org/movie/1276003-memes-nightmares?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "A satirical true crime documentary! About a meme that was everywhere and then suddenly disappeared! It’s giving Documentary Now! and American Vandal, except about NBA Twitter and GIFs. Truly the intersection of all my interests.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-the-americas",
+   "name": "The Americas",
+   "url": "https://www.themoviedb.org/tv/246212-the-americas?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "There are few things in the world I enjoy more than the Planet Earth series. I watch them all, I watch all the copycats, I only wish there were more of them. And now I get a version of it in my own backyard! With Tom Hanks narrating! That’s my Sunday nights sorted for a while.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-the-oppo-find-n5",
+   "name": "The Oppo Find N5",
+   "url": "https://www.oppo.com/en/smartphones/series-find-n/find-n5/",
+   "alt_urls": [
+    "https://www.theverge.com/reviews/615107/oppo-find-n5-review-screen-thickness-crease-battery-camera"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "A foldable phone I’ll likely never be able to buy but will lust after nonetheless. It’s impossibly thin, outrageously expensive, and a genuinely exciting sign that foldable design can continue to go cool places.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-the-king-jim-pomera-dm250us",
+   "name": "The King Jim Pomera DM250US",
+   "url": "https://www.indiegogo.com/projects/pomera-full-suite-typewriter-for-focused-writing#/",
+   "alt_urls": [
+    "https://www.theverge.com/news/615854/king-jim-pomera-d250us-distraction-free-writing-tool"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I have long had romantic ideas about buying a digital typewriter and just buggering off to some Airbnb in the woods to write. This one , from Japanese stationary brand King Jim, is pretty expensive but has a good track record in Japan and looks alarmingly close to the device I’d want it to be.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-grand-theft-hamlet",
+   "name": "Grand Theft Hamlet",
+   "url": "https://www.themoviedb.org/movie/1234397-grand-theft-hamlet?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "A documentary, now streaming on Mubi, about two actors who decided, during the pandemic, to… do all of Hamlet inside of GTA. (Look, we all got weird during covid.) The whole thing takes place inside the game, and the gimmick actually really works.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-sober-ringtones",
+   "name": "Sober Ringtones",
+   "url": "https://sober-ringtones.wize.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This one is specifically for my mother-in-law (hi, Diane!) who has the most ear-splitting ringtone of all time. In her defense, all built-in ringtone options suck. I think you’re a monster if your phone is on anything but vibrate, but I like the sound of these chiller, more melodic options.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-bbc-radiophonic-workshop",
+   "name": "BBC Radiophonic Workshop",
+   "url": "https://www.spitfireaudio.com/bbc-radiophonic-workshop",
+   "alt_urls": [
+    "https://www.theverge.com/entertainment/615584/bbc-radiophonic-workshop-archive",
+    "https://www.youtube.com/watch?v=yMvP-cxjPpo"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I confess I knew nothing about the Radiophonic Workshop until I saw this new library of their work appear online, but wow is there a cool (and decades-long) history to this pioneering group of electronic musicians. I’d bet you start to hear some of these old-school sounds show up all over, and soon.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-spotify",
+   "name": "Spotify",
+   "url": "https://open.spotify.com/",
+   "alt_urls": [
+    "https://music.apple.com/us/new",
+    "https://music.youtube.com/",
+    "https://www.qobuz.com/us-en/discover"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "is the clear leader here. Apple Music was a pretty close second though, and the Apple Music users seem a lot happier than the Spotify users… The funniest thing I heard over and over was “I tried YouTube Music because I get it for free, but it’s not very good.” Which, same. I feel you.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-tidal",
+   "name": "Tidal",
+   "url": "https://tidal.com/",
+   "alt_urls": [
+    "https://pocketcasts.com/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "You know what got the most effusive love? Tidal ! Tidal’s audio quality was a differentiator for a lot of folks, as was the fact that it’s an app for music and music only. I’m good on podcasts with Pocket Casts , personally, and have been convinced to give Tidal a real try.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-bandcamp",
+   "name": "Bandcamp",
+   "url": "https://bandcamp.com/",
+   "alt_urls": [
+    "https://www.discogs.com/"
+   ],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "For buying music, Bandcamp and Discogs both came up a bunch. A few of you also like using Discogs’ collection-tracking stuff, which looks pretty cool.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-plexamp",
+   "name": "Plexamp",
+   "url": "https://www.plex.tv/plexamp/",
+   "alt_urls": [
+    "https://roon.app/en/",
+    "https://github.com/dweymouth/supersonic"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "and Roon both came up a lot as a way to manage and access your music collection from anywhere. ( Supersonic also has some fans.) Plexamp in particular was probably the most-recommended piece of software in my inbox this week.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-astiga",
+   "name": "Astiga",
+   "url": "https://asti.ga/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "There’s also Astiga , which I heard from a few folks is a useful single-player streaming service. Just dump some files somewhere, and stream them on your phone.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-albums",
+   "name": "Albums",
+   "url": "https://apps.apple.com/us/app/albums-music-library-player/id1469948986",
+   "alt_urls": [
+    "https://appaddy.wixsite.com/marvis",
+    "https://marcosatanaka.com/"
+   ],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "There are a few Apple-only apps that people really liked for managing their Apple Music collections: Albums makes everything feel like a CD collection again, Marvis makes everything crazy customizable, and one person described MusicBox as “a read later app for music.”",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-xld",
+   "name": "XLD",
+   "url": "https://sourceforge.net/projects/xld/",
+   "alt_urls": [
+    "https://www.exactaudiocopy.de/",
+    "https://www.mp3tag.de/en/download.html"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "and Exact Audio Copy got a lot of love as a way to rip CDs, and Mp3tag seems to be a great way to manage all kinds of tags and metadata.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-23-macbook-pro-with-an-m1-max-chip",
+   "name": "MacBook Pro with an M1 Max chip",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The computer: MacBook Pro with an M1 Max chip. I make music with lots of sample libraries that require a lot of RAM and CPU. It was stupid expensive but game-changing for making large audio productions.",
+   "section": "screen-share",
+   "recommender": "Charlie"
+  },
+  {
+   "id": "2025-02-23-descript",
+   "name": "Descript",
+   "url": "https://www.descript.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Descript : The only way we manage to make a podcast. Descript transcribes our audio and makes it super fast to edit, like a combination of Google Docs + ProTools (where we always do our final mix).",
+   "section": "screen-share",
+   "recommender": "Charlie"
+  },
+  {
+   "id": "2025-02-23-ableton-live",
+   "name": "Ableton Live",
+   "url": "https://www.ableton.com/en/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Ableton Live : My main Digital Audio Workstation for scoring and sound design. While I also use ProTools and Logic Pro, Live is like an instrument itself and makes creating music so enjoyable.",
+   "section": "screen-share",
+   "recommender": "Charlie"
+  },
+  {
+   "id": "2025-02-23-audio-hijack",
+   "name": "Audio Hijack",
+   "url": "https://rogueamoeba.com/audiohijack/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Audio Hijack : This lets me capture audio from any source and record it. We’ve recorded the podcast for almost a decade using Hijack, and it has never crashed.",
+   "section": "screen-share",
+   "recommender": "Charlie"
+  },
+  {
+   "id": "2025-02-23-loopback",
+   "name": "Loopback",
+   "url": "https://rogueamoeba.com/loopback/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Loopback : This is like a digital mixer that lets me send audio from anywhere to anywhere so I can play music over Zoom, etc.",
+   "section": "screen-share",
+   "recommender": "Charlie"
+  },
+  {
+   "id": "2025-02-23-fission",
+   "name": "Fission",
+   "url": "https://rogueamoeba.com/fission/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Fission : The lightest-weight, easiest-to-use audio editor. It is my default app for whenever I open a piece of audio because I couldn’t stand how long it takes for Apple Music to open and play an MP3 or WAV.",
+   "section": "screen-share",
+   "recommender": "Charlie"
+  },
+  {
+   "id": "2025-02-23-ticktick",
+   "name": "TickTick",
+   "url": "https://ticktick.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "TickTick : My to-do list for everything. I have it connected to Apple Reminders so I can tell my phone things I need to do. My life falls apart without TickTick.",
+   "section": "screen-share",
+   "recommender": "Charlie"
+  },
+  {
+   "id": "2025-02-23-apple-notes",
+   "name": "Apple Notes",
+   "url": "https://apps.apple.com/us/app/notes/id1110145109",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Apple Notes : I am a Notes power user and have it organize my entire life: every thought, script, note, song, whatever.",
+   "section": "screen-share",
+   "recommender": "Charlie"
+  },
+  {
+   "id": "2025-02-23-major-labels-a-history-of-popular-music-in-seven",
+   "name": "Major Labels: A History of Popular Music in Seven Genres",
+   "url": "https://www.penguinrandomhouse.com/books/576360/major-labels-by-kelefa-sanneh/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am on my third read through Major Labels: A History of Popular Music in Seven Genres by Kelefa Sanneh. This is the ultimate text if you want to know the lineage of today’s music.",
+   "section": "screen-share",
+   "recommender": "Charlie"
+  },
+  {
+   "id": "2025-02-23-tapers-choice",
+   "name": "Taper’s Choice",
+   "url": "https://taperschoice.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am on my third read through Major Labels: A History of Popular Music in Seven Genres by Kelefa Sanneh. This is the ultimate text if you want to know the lineage of today’s music.",
+   "section": "screen-share",
+   "recommender": "Charlie"
+  },
+  {
+   "id": "2025-02-23-bogdan-in-the-forest",
+   "name": "Bogdan in the Forest",
+   "url": "https://www.youtube.com/@bogdanintheforest4382",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I am on my third read through Major Labels: A History of Popular Music in Seven Genres by Kelefa Sanneh. This is the ultimate text if you want to know the lineage of today’s music.",
+   "section": "screen-share",
+   "recommender": "Charlie"
+  },
+  {
+   "id": "2025-02-23-elektron-rytm-mkii",
+   "name": "Elektron Rytm MKII",
+   "url": "https://elektron.se/explore/analog-rytm-mkii",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am on my third read through Major Labels: A History of Popular Music in Seven Genres by Kelefa Sanneh. This is the ultimate text if you want to know the lineage of today’s music.",
+   "section": "screen-share",
+   "recommender": "Charlie"
+  },
+  {
+   "id": "2025-02-23-udo-super-6",
+   "name": "UDO Super 6",
+   "url": "https://www.udo-audio.com/super-6",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am on my third read through Major Labels: A History of Popular Music in Seven Genres by Kelefa Sanneh. This is the ultimate text if you want to know the lineage of today’s music.",
+   "section": "screen-share",
+   "recommender": "Charlie"
+  },
+  {
+   "id": "2025-02-23-the-framework-event",
+   "name": "the Framework event",
+   "url": "https://frame.work/framework-event",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m super excited for the Framework event on the 25th. I picked up a 13-inch Intel Core Ultra laptop when it launched last year and have been loving it. Big fan of Framework’s mission, and I hope this event brings even more people to their products.",
+   "section": "crowdsourced",
+   "recommender": "Ben (reader)"
+  },
+  {
+   "id": "2025-02-23-13-inch-intel-core-ultra-laptop",
+   "name": "13-inch Intel Core Ultra laptop",
+   "url": "https://frame.work/laptop13",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m super excited for the Framework event on the 25th. I picked up a 13-inch Intel Core Ultra laptop when it launched last year and have been loving it. Big fan of Framework’s mission, and I hope this event brings even more people to their products.",
+   "section": "crowdsourced",
+   "recommender": "Ben (reader)"
+  },
+  {
+   "id": "2025-02-23-invincible",
+   "name": "Invincible",
+   "url": "https://www.themoviedb.org/tv/95557-invincible",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’m a big fan of the animated series Invincible on Amazon Prime, which just kicked off its third season.",
+   "section": "crowdsourced",
+   "recommender": "Jon (reader)"
+  },
+  {
+   "id": "2025-02-23-the-comic",
+   "name": "The comic",
+   "url": "https://imagecomics.com/comics/series/invincible",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a big fan of the animated series Invincible on Amazon Prime, which just kicked off its third season.",
+   "section": "crowdsourced",
+   "recommender": "Jon (reader)"
+  },
+  {
+   "id": "2025-02-23-start-of-the-semiconductor-industry",
+   "name": "start of the semiconductor industry",
+   "url": "https://www.computerhistory.org/siliconengine/silicon-comes-to-silicon-valley/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "These days I’m reading about the history of Silicon Valley, especially about the start of the semiconductor industry .",
+   "section": "crowdsourced",
+   "recommender": "Filip (reader)"
+  },
+  {
+   "id": "2025-02-23-obsidian",
+   "name": "Obsidian",
+   "url": "https://obsidian.md/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I did a deep dive into Obsidian this week and ended up moving all my Apple Notes over to it. I’m particularly excited about the Graph and Canvas features. It’s like having a second brain. I don’t want to be dramatic, but this might have changed my life.",
+   "section": "crowdsourced",
+   "recommender": "Nick (reader)"
+  },
+  {
+   "id": "2025-02-23-eusexua",
+   "name": "Eusexua",
+   "url": "https://eusexua.fkatwi.gs/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After the ridiculous enjoyable new album of FKA Twigs — ‘ Eusexua ’ — I discovered two additional Eusexua World Apple Music mixes curated by Koreless and FKA Twigs. Worth a listen. More to come apparently.",
+   "section": "crowdsourced",
+   "recommender": "Rob (reader)"
+  },
+  {
+   "id": "2025-02-23-apple-music-mixes",
+   "name": "Apple Music mixes",
+   "url": "https://music.apple.com/nl/album/eusexua-core-with-koreless-ep-1-dj-mix/1789691624",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "After the ridiculous enjoyable new album of FKA Twigs — ‘ Eusexua ’ — I discovered two additional Eusexua World Apple Music mixes curated by Koreless and FKA Twigs. Worth a listen. More to come apparently.",
+   "section": "crowdsourced",
+   "recommender": "Rob (reader)"
+  },
+  {
+   "id": "2025-02-23-civ-vi",
+   "name": "Civ VI",
+   "url": "https://help.netflix.com/en/node/216353715901028",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "I know Civ VII is the new hotness, but I learned this week with a Netflix account you can play Civ VI on your phone. It’s a crazy platform for Civ , and amazing it works, but why not break up some doomscrolling by being slaughtered by barbarians that are tougher than you remember?",
+   "section": "crowdsourced",
+   "recommender": "DLS (reader)"
+  },
+  {
+   "id": "2025-02-23-tldraw",
+   "name": "Tldraw",
+   "url": "https://www.tldraw.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m using Tldraw a lot lately — been loving it. It’s basically an infinite canvas but cooler. I really recommend it.",
+   "section": "crowdsourced",
+   "recommender": "Elouan (reader)"
+  },
+  {
+   "id": "2025-02-23-kde-neon",
+   "name": "KDE Neon",
+   "url": "https://neon.kde.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Right now, I’m trying out Linux ( KDE Neon for its looks and customization). It definitely takes more time to make it work, but not as much as I feared. I’m positively surprised with its snappiness and better battery life (primarily in sleep mode) compared to Windows.",
+   "section": "crowdsourced",
+   "recommender": "Jakub (reader)"
+  },
+  {
+   "id": "2025-02-23-this-great-half-as-interesting-video",
+   "name": "this great Half as Interesting video",
+   "url": "https://www.youtube.com/watch?v=ByHOmfgaVz8",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I was a pretty good chess player, once upon a time. Now I am a garbage chess player, but I’m trying to get back into it! (I’m even starting to play on chess.com again — if you ever feel like beating a really easy opponent, hit me up.)",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

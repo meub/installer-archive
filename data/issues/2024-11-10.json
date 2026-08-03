@@ -1,0 +1,617 @@
+{
+ "schema": 1,
+ "date": "2024-11-10",
+ "post_type": "issue",
+ "title": "Chill games for a chill weekend",
+ "url": "https://www.theverge.com/2024/11/10/24291418/stardew-valley-mario-luigi-brothership-heretic-installer",
+ "author": "David Pierce",
+ "number": 60,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "group-project",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:36+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-11-10-shipwrecks",
+   "name": "shipwrecks",
+   "url": "https://www.newyorker.com/magazine/2024/11/11/the-shipwreck-detective?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been… doomscrolling about the election, if I’m honest. But let’s not talk about that.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-in-flight-magazines",
+   "name": "in-flight magazines",
+   "url": "https://www.cjr.org/business_of_news/final-flight-airline-magazine-united-digital.php?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been… doomscrolling about the election, if I’m honest. But let’s not talk about that.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-baseball-bat-influencers",
+   "name": "baseball bat influencers",
+   "url": "https://www.bloomberg.com/news/features/2024-10-25/influencer-brothers-are-selling-more-baseball-bats-than-pro-athletes",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been… doomscrolling about the election, if I’m honest. But let’s not talk about that.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-listy",
+   "name": "Listy",
+   "url": "https://listy.is/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been… doomscrolling about the election, if I’m honest. But let’s not talk about that.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been… doomscrolling about the election, if I’m honest. But let’s not talk about that.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-batman-arkham-shadow",
+   "name": "Batman: Arkham Shadow",
+   "url": "https://www.meta.com/experiences/batman-arkham-shadow/3551691271620960/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been… doomscrolling about the election, if I’m honest. But let’s not talk about that.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-craft",
+   "name": "Craft",
+   "url": "https://www.craft.do/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been… doomscrolling about the election, if I’m honest. But let’s not talk about that.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-thunderbird-for-android",
+   "name": "Thunderbird for Android",
+   "url": "https://www.thunderbird.net/en-US/mobile/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been… doomscrolling about the election, if I’m honest. But let’s not talk about that.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-mac-mini",
+   "name": "Mac Mini",
+   "url": "https://www.apple.com/mac-mini/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been… doomscrolling about the election, if I’m honest. But let’s not talk about that.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-mario-luigi-brothership",
+   "name": "Mario & Luigi: Brothership",
+   "url": "https://www.nintendo.com/us/store/products/mario-and-luigi-brothership-switch/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "It feels like we get a fun new Mario game like every two weeks these days. And I’m not complaining! I’m into the teamwork-y vibe of this one — and the amount of pure unadulterated exploring it asks you to do.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-game-changers",
+   "name": "Game Changers",
+   "url": "https://www.themoviedb.org/tv/275103-game-changers",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The first two episodes of this new Discovery series tell the story of two of my favorite things in gaming: Nintendo and Madden. There are also episodes coming about Call of Duty, Scrabble , and other iconic games. The nostalgia is through the roof with this one.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-raycast-notes",
+   "name": "Raycast Notes",
+   "url": "https://www.raycast.com/blog/raycast-notes",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Raycast has become one of my most-used Mac apps: it’s a launcher, a clipboard manager, a window reorder-er, and a million other things. Its built-in notes app just got a big upgrade — it’s as simple as opening a text file but much more powerful.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-guild-builds",
+   "name": "Guild Builds",
+   "url": "https://nytimesguild.org/tech/guild-builds/index.html",
+   "alt_urls": [
+    "https://www.theverge.com/2024/11/6/24289937/nyt-tech-workers-strike-games-wordle"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The striking New York Times tech workers created a pretty fun set of games you can play instead of Wordle this week. Match Strike is hilarious and fun, as is Scabby’s Fair Contract Builder. Who knew you could build a good game that’s also a sick burn against your boss?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-heretic",
+   "name": "Heretic",
+   "url": "https://www.themoviedb.org/movie/1138194-heretic?language=en-US",
+   "alt_urls": [
+    "https://www.theverge.com/24241767/heretic-review-a24-hugh-grant"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I’ve been excited for this movie ever since I read Andrew Webster’s review , which confirmed that Hugh Grant can be as terrifying as he is charming. Plus, a bad guy you can describe as “a theological debate bro?” I’m in.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-the-amd-ryzen-7-9800x3d",
+   "name": "The AMD Ryzen 7 9800X3D",
+   "url": "https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9800x3d.html",
+   "alt_urls": [
+    "https://www.theverge.com/2024/11/6/24288948/amd-ryzen-7-9800x3d-review-cpu-processor-benchmark-test"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This CPU is power-hungry and expensive, but Tom Warren called it the best gaming CPU on the market , and that is no small feat. If you’re building a gaming PC this holiday season, this is where to start.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-stardew-valley-1-6-9",
+   "name": "Stardew Valley 1.6.9",
+   "url": "https://www.stardewvalley.net/blog/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have heard from a lot of folks who retreated into Stardew Valley this week as a reprieve from the real world. The newest update adds new items, the ability to retrieve things you’ve dropped in water, and lots of other useful and delightful changes.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-countdown-paul-vs-tyson",
+   "name": "Countdown: Paul vs. Tyson",
+   "url": "https://www.themoviedb.org/tv/274413-countdown-paul-vs-tyson",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Look, I’m not proud of the fact that I’m fascinated by next week’s Tyson / Paul fight. Is it even a real fight? Is it all a bit? Who knows! But leave it to Netflix to milk it for all its worth; I bet you $10 this series will be more fun and dramatic than the fight itself.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-here",
+   "name": "Here",
+   "url": "https://www.themoviedb.org/movie/940139-here",
+   "alt_urls": [
+    "https://www.nytimes.com/2024/11/01/movies/tom-hanks-robin-wright-here-forrest-gump.html"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "By most accounts, this movie is bad. But director Robert Zemeckis did some fascinating and AI-forward work to de-age Tom Hanks and Robin Wright in order to make the movie work, and I’ve enjoyed the way all three have talked about the process .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-google-vids",
+   "name": "Google Vids",
+   "url": "https://docs.google.com/videos/",
+   "alt_urls": [
+    "https://www.theverge.com/2024/4/9/24124168/google-vids-video-ai-workspace-app"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The pitch for Vids — “what if making a video were as easy as making a Google Doc?” — is a really clever one. And now, months after Google first announced the app , you can give it a whirl. Send me all the weird stuff you make!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-readwise-reader",
+   "name": "Readwise Reader",
+   "url": "https://readwise.io/read",
+   "alt_urls": [
+    "https://hq.getmatter.com/",
+    "https://www.instapaper.com/",
+    "https://getpocket.com/home"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "If all you need is a place to save articles and read them later, you have lots of options. Readwise Reader is the most powerful (and the only one that also does RSS and newsletters), but it’s also $8 a month. Matter is a lovely app but is mostly Apple-only.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-feedbin",
+   "name": "Feedbin",
+   "url": "https://feedbin.com/",
+   "alt_urls": [
+    "https://feedly.com/",
+    "https://www.newsblur.com/?next=premium"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "If you want something a little more open and versatile, I’d go with an RSS tool. I use Feedbin , which I love. Feedly and NewsBlur are also good for this kind of thing. All three give you an email address you can use to subscribe to newsletters and a way to manually save a page to your reader.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-raindrop",
+   "name": "Raindrop",
+   "url": "https://raindrop.io/",
+   "alt_urls": [
+    "https://goodlinks.app/",
+    "https://anybox.app/",
+    "https://www.plinky.app/",
+    "https://obsidian.md/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "If you’re trying to build more of a database of stuff that you can search through later, I’d start with a bookmarking tool. Raindrop is my go-to, but if you’re an Apple user, there’s also GoodLinks and Anybox and Plinky .",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-wallabag",
+   "name": "Wallabag",
+   "url": "https://wallabag.org/",
+   "alt_urls": [
+    "https://linkwarden.app/",
+    "https://linkding.link/",
+    "https://github.com/omnivore-app/omnivore/pull/4465"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "If you want something that will truly last forever, the best move is to host something yourself. A few of you recommended apps like Wallabag , Linkwarden , and Linkding , and if you’re willing to do the work, this is the most durable option by far.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-an-iphone-16-pro",
+   "name": "An iPhone 16 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: An iPhone 16 Pro. For the first time in my life of using iPhones, I have a case on it, because my son dropped my previous one twice and shattered the front and back glass. I wouldn’t have upgraded this year except for that. So, lesson learned. Kids .",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2024-11-10-claude",
+   "name": "Claude",
+   "url": "https://claude.ai/login?returnTo=/?",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve totally moved over to Claude in the last few months thanks to Alex Kantrowitz evangelizing it to me constantly. So much so that I’ve canceled my OpenAI subscription. Tovala is a smart oven / meal plan company that I’ve been using religiously since the pandemic.",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2024-11-10-alex-kantrowitz",
+   "name": "Alex Kantrowitz",
+   "url": "https://www.bigtechnology.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve totally moved over to Claude in the last few months thanks to Alex Kantrowitz evangelizing it to me constantly. So much so that I’ve canceled my OpenAI subscription. Tovala is a smart oven / meal plan company that I’ve been using religiously since the pandemic.",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2024-11-10-tovala",
+   "name": "Tovala",
+   "url": "https://www.tovala.com/smart-ovens",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve totally moved over to Claude in the last few months thanks to Alex Kantrowitz evangelizing it to me constantly. So much so that I’ve canceled my OpenAI subscription. Tovala is a smart oven / meal plan company that I’ve been using religiously since the pandemic.",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2024-11-10-jersey-mikes",
+   "name": "Jersey Mike’s",
+   "url": "https://www.jerseymikes.com/mobile-app",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve totally moved over to Claude in the last few months thanks to Alex Kantrowitz evangelizing it to me constantly. So much so that I’ve canceled my OpenAI subscription. Tovala is a smart oven / meal plan company that I’ve been using religiously since the pandemic.",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2024-11-10-citi-bike",
+   "name": "Citi Bike",
+   "url": "https://citibikenyc.com/how-it-works/app",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve totally moved over to Claude in the last few months thanks to Alex Kantrowitz evangelizing it to me constantly. So much so that I’ve canceled my OpenAI subscription. Tovala is a smart oven / meal plan company that I’ve been using religiously since the pandemic.",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2024-11-10-nextstop-nyc",
+   "name": "Nextstop.nyc",
+   "url": "https://nextstop.nyc/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The app that says “York” is interesting. That’s my subway stop for my office in Dumbo. This random dude made this thing that you can get at Nextstop.nyc . Basically, it gives you real-time train times for whatever subway stops you use all the time, and then you put an icon for that on your phone.",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2024-11-10-tiny-glade",
+   "name": "Tiny Glade",
+   "url": "https://pouncelight.games/tiny-glade/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My kids and I are playing tons of Tiny Glade . “Relaxing” game that can also be super complex and sophisticated if you put in the time. It’s like Minecraft in that way, but with a sort of romanticist feel. The book I’m obsessed with right now is Rick Atkinson’s The British Are Coming .",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2024-11-10-minecraft",
+   "name": "Minecraft",
+   "url": "https://www.minecraft.net/en-us",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My kids and I are playing tons of Tiny Glade . “Relaxing” game that can also be super complex and sophisticated if you put in the time. It’s like Minecraft in that way, but with a sort of romanticist feel. The book I’m obsessed with right now is Rick Atkinson’s The British Are Coming .",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2024-11-10-the-british-are-coming",
+   "name": "The British Are Coming",
+   "url": "https://us.macmillan.com/books/9781627790437/thebritisharecoming",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My kids and I are playing tons of Tiny Glade . “Relaxing” game that can also be super complex and sophisticated if you put in the time. It’s like Minecraft in that way, but with a sort of romanticist feel. The book I’m obsessed with right now is Rick Atkinson’s The British Are Coming .",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2024-11-10-millers-crossing",
+   "name": "Miller’s Crossing",
+   "url": "https://www.themoviedb.org/movie/379-miller-s-crossing?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "My kids and I are playing tons of Tiny Glade . “Relaxing” game that can also be super complex and sophisticated if you put in the time. It’s like Minecraft in that way, but with a sort of romanticist feel. The book I’m obsessed with right now is Rick Atkinson’s The British Are Coming .",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2024-11-10-wind-and-truth",
+   "name": "Wind and Truth",
+   "url": "https://read.macmillan.com/torforge/the-stormlight-archive/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My kids and I are playing tons of Tiny Glade . “Relaxing” game that can also be super complex and sophisticated if you put in the time. It’s like Minecraft in that way, but with a sort of romanticist feel. The book I’m obsessed with right now is Rick Atkinson’s The British Are Coming .",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2024-11-10-superfan",
+   "name": "Superfan",
+   "url": "https://superfan.nyc/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Superfan . A beautiful app to keep tabs on ongoing sports events and matches.",
+   "section": "crowdsourced",
+   "recommender": "Karan (reader)"
+  },
+  {
+   "id": "2024-11-10-adarga-panoptic",
+   "name": "Adarga Panoptic",
+   "url": "https://info.adarga.ai/panoptic",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been using this little-known news app called Adarga Panoptic . Has this interesting take on the news where it’s provided through the lens of a person’s perspective rather than just headlines.",
+   "section": "crowdsourced",
+   "recommender": "Alen (reader)"
+  },
+  {
+   "id": "2024-11-10-scribe-notes",
+   "name": "Scribe Notes",
+   "url": "https://www.scribenotes.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Scribe Notes . It’s like Whisper Memos but has more features. Sort of like Cleft but cheaper. I’ve been using it for a few weeks now and I love it. Helps me get my scrambled thoughts and to-dos out of my head and into a place where I can make sense of them all.",
+   "section": "crowdsourced",
+   "recommender": "David (reader)"
+  },
+  {
+   "id": "2024-11-10-mobapad-m6-hd",
+   "name": "Mobapad M6 HD",
+   "url": "https://www.mobapad.com/products/mobapad-m6-hd",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Check out the Mobapad M6 HD for the Nintendo Switch! It’s a Joy-Con alternative that has ergonomic grips, Hall effect joysticks, and gyro and HD rumble. It essentially has every feature of the Joy-Cons, but they’re actually comfy to hold.",
+   "section": "crowdsourced",
+   "recommender": "Kevin (reader)"
+  },
+  {
+   "id": "2024-11-10-openvibe",
+   "name": "Openvibe",
+   "url": "https://openvibe.social/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been keeping an eye on an app called Openvibe . It’s able to aggregate your Threads, Bluesky, and Mastodon (and Nostr, too, if you’re into that kind of thing) feeds into a single feed you can scroll.",
+   "section": "crowdsourced",
+   "recommender": "Drake (reader)"
+  },
+  {
+   "id": "2024-11-10-zwift-ride",
+   "name": "Zwift Ride",
+   "url": "https://us.zwift.com/collections/all/products/zwift-ride-kickr-core?variant=45155409920256",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Winter is looming, so I got myself a Zwift Ride smart bike for days when running outside just isn’t a great idea. Great hardware. The app feels older than it is, but the gamification kinda works. More fun than staring at the wall!",
+   "section": "crowdsourced",
+   "recommender": "Robert (reader)"
+  },
+  {
+   "id": "2024-11-10-pika",
+   "name": "Pika",
+   "url": "https://pika.page/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "With *gestures around wildly* going on, I’m pouring less of my time into social media and more into a personal blog using a great service called Pika . It’s dead simple to set up and I love how barebones it is.",
+   "section": "crowdsourced",
+   "recommender": "Kaleb (reader)"
+  },
+  {
+   "id": "2024-11-10-market-movers",
+   "name": "Market Movers",
+   "url": "https://www.youtube.com/@MarketMovers",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Started collecting sports cards, primarily NFL. It’s not something I’ve thought about since I was 14, but it has been a fun distraction. These are two great YouTube channels to get into: Market Movers and Sports Card Investor .",
+   "section": "crowdsourced",
+   "recommender": "Travis (reader)"
+  },
+  {
+   "id": "2024-11-10-sports-card-investor",
+   "name": "Sports Card Investor",
+   "url": "https://www.youtube.com/c/SportsCardInvestor",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Started collecting sports cards, primarily NFL. It’s not something I’ve thought about since I was 14, but it has been a fun distraction. These are two great YouTube channels to get into: Market Movers and Sports Card Investor .",
+   "section": "crowdsourced",
+   "recommender": "Travis (reader)"
+  },
+  {
+   "id": "2024-11-10-whatnot",
+   "name": "Whatnot",
+   "url": "https://www.whatnot.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Started collecting sports cards, primarily NFL. It’s not something I’ve thought about since I was 14, but it has been a fun distraction. These are two great YouTube channels to get into: Market Movers and Sports Card Investor .",
+   "section": "crowdsourced",
+   "recommender": "Travis (reader)"
+  },
+  {
+   "id": "2024-11-10-richard-ii",
+   "name": "Richard II",
+   "url": "https://www.folger.edu/explore/shakespeares-works/richard-ii/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been reading Richard II , which feels of a piece with the moment, and due to which I discovered how much more complicated sideloading a Gutenberg ebook to a Kindle is than it should be. The right format wasn’t the one labeled for Kindles!",
+   "section": "crowdsourced",
+   "recommender": "Jeanne (reader)"
+  },
+  {
+   "id": "2024-11-10-maestro",
+   "name": "Maestro",
+   "url": "https://www.meta.com/experiences/maestro/6963344583787383/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been playing a lot of Maestro lately on my Quest 2. It’s such an amazing and immersive experience. If you ever wanted to feel like an orchestra conductor, this is as close as you can get (unless you’re an actual orchestra conductor, in which case, congrats, such a cool job!).",
+   "section": "crowdsourced",
+   "recommender": "Gonzalo (reader)"
+  },
+  {
+   "id": "2024-11-10-this-video-from-jose-briones",
+   "name": "this video from Jose Briones",
+   "url": "https://www.youtube.com/watch?v=1tzvmRp1EJY",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "So I have this Apple Watch. It’s fine, I like it, whatever, but I’d rather wear another watch. So I went down a YouTube rabbit hole: can you turn an Apple Watch into a standalone, pocketable device that works even when it’s not on your wrist? Turns out, you can!",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-tinypod",
+   "name": "TinyPod",
+   "url": "https://thetinypod.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "So I have this Apple Watch. It’s fine, I like it, whatever, but I’d rather wear another watch. So I went down a YouTube rabbit hole: can you turn an Apple Watch into a standalone, pocketable device that works even when it’s not on your wrist? Turns out, you can!",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-10-seem-to-be-very-good",
+   "name": "seem to be very good",
+   "url": "https://www.youtube.com/watch?v=1rJa-0YOkwk",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "So I have this Apple Watch. It’s fine, I like it, whatever, but I’d rather wear another watch. So I went down a YouTube rabbit hole: can you turn an Apple Watch into a standalone, pocketable device that works even when it’s not on your wrist? Turns out, you can!",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

@@ -1,0 +1,766 @@
+{
+ "schema": 1,
+ "date": "2026-02-14",
+ "post_type": "issue",
+ "title": "How to un-Big Tech your online life",
+ "url": "https://www.theverge.com/tech/879114/best-big-tech-app-alternatives-installer",
+ "author": "David Pierce",
+ "number": 116,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "group-project",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:40+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-02-14-national-ferris-wheel-day",
+   "name": "National Ferris Wheel Day",
+   "url": "https://nationaltoday.com/national-ferris-wheel-day/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Hi, friends! Welcome to Installer No. 116, your guide to the best and Verge -iest stuff in the world. (If you’re new here, welcome, happy National Ferris Wheel Day to all those who celebrate, and also you can read all the old editions at the Installer homepage .)",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-letterboxd",
+   "name": "Letterboxd",
+   "url": "https://www.nytimes.com/interactive/2026/02/03/magazine/letterboxd-film-discussion-site-streaming-movies.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Letterboxd and Mike Vrabel and AI influencers and daytime talk show economics , taking copious notes on Ezra Klein’s terrific podcast on the state of the internet , buying just about every lamp in this excellent office tour , making Dot my main Mac calendar app…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-mike-vrabel",
+   "name": "Mike Vrabel",
+   "url": "https://www.theatlantic.com/culture/2026/02/mike-vrabel-patriots-football-super-bowl/685876/?gift=-pzApl_qRpBxCFP0g-J3xK2oXRRqhUbAoobZaQCKBWg&__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Letterboxd and Mike Vrabel and AI influencers and daytime talk show economics , taking copious notes on Ezra Klein’s terrific podcast on the state of the internet , buying just about every lamp in this excellent office tour , making Dot my main Mac calendar app…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-ai-influencers",
+   "name": "AI influencers",
+   "url": "https://aftermath.site/ai-influencer-creator-deals-sponsorship-google-microsoft-anthropic/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Letterboxd and Mike Vrabel and AI influencers and daytime talk show economics , taking copious notes on Ezra Klein’s terrific podcast on the state of the internet , buying just about every lamp in this excellent office tour , making Dot my main Mac calendar app…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-daytime-talk-show-economics",
+   "name": "daytime talk show economics",
+   "url": "https://www.hollywoodreporter.com/business/business-news/talk-shows-daytime-tv-video-podcasts-1236502423/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Letterboxd and Mike Vrabel and AI influencers and daytime talk show economics , taking copious notes on Ezra Klein’s terrific podcast on the state of the internet , buying just about every lamp in this excellent office tour , making Dot my main Mac calendar app…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-podcast-on-the-state-of-the-internet",
+   "name": "podcast on the state of the internet",
+   "url": "https://www.youtube.com/watch?v=Yepnhe1T-9U",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Letterboxd and Mike Vrabel and AI influencers and daytime talk show economics , taking copious notes on Ezra Klein’s terrific podcast on the state of the internet , buying just about every lamp in this excellent office tour , making Dot my main Mac calendar app…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-this-excellent-office-tour",
+   "name": "this excellent office tour",
+   "url": "https://www.youtube.com/watch?v=SVq79Oz5yXo",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Letterboxd and Mike Vrabel and AI influencers and daytime talk show economics , taking copious notes on Ezra Klein’s terrific podcast on the state of the internet , buying just about every lamp in this excellent office tour , making Dot my main Mac calendar app…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-dot",
+   "name": "Dot",
+   "url": "https://www.trydot.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Letterboxd and Mike Vrabel and AI influencers and daytime talk show economics , taking copious notes on Ezra Klein’s terrific podcast on the state of the internet , buying just about every lamp in this excellent office tour , making Dot my main Mac calendar app…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-steal",
+   "name": "Steal",
+   "url": "https://www.themoviedb.org/tv/254071-steal",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Letterboxd and Mike Vrabel and AI influencers and daytime talk show economics , taking copious notes on Ezra Klein’s terrific podcast on the state of the internet , buying just about every lamp in this excellent office tour , making Dot my main Mac calendar app…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-the-master-switch",
+   "name": "The Master Switch",
+   "url": "https://www.penguinrandomhouse.com/books/194417/the-master-switch-by-tim-wu/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Letterboxd and Mike Vrabel and AI influencers and daytime talk show economics , taking copious notes on Ezra Klein’s terrific podcast on the state of the internet , buying just about every lamp in this excellent office tour , making Dot my main Mac calendar app…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-siete-tortilla-chips",
+   "name": "Siete tortilla chips",
+   "url": "https://sietefoods.com/shop/chips-and-snacks/grain-free-tortilla-chips/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Letterboxd and Mike Vrabel and AI influencers and daytime talk show economics , taking copious notes on Ezra Klein’s terrific podcast on the state of the internet , buying just about every lamp in this excellent office tour , making Dot my main Mac calendar app…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-mario-tennis-fever",
+   "name": "Mario Tennis Fever",
+   "url": "https://www.nintendo.com/us/store/products/mario-tennis-fever-switch-2/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "The N64 version of Mario Tennis is probably my favorite video game of all time — Luigi, left-handed, I was unbeatable — and no tennis game has ever quite lived up to it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-good-luck-have-fun-dont-die",
+   "name": "Good Luck, Have Fun, Don’t Die",
+   "url": "https://www.themoviedb.org/movie/1119449-good-luck-have-fun-don-t-die?language=en-US",
+   "alt_urls": [
+    "https://www.theverge.com/entertainment/877244/good-luck-have-fun-dont-die-review",
+    "https://www.themoviedb.org/movie/84332-safety-not-guaranteed?language=en-US"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I wasn’t sure about the trailer for this one, but by all accounts this is a wacky, weird, perfectly timed movie about time travel and saving humanity. The premise reminds me a little of Safety Not Guaranteed , an extremely underrated movie.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-wes-cook-and-the-mcdonalds-mural",
+   "name": "Wes Cook and The McDonald’s Mural",
+   "url": "https://cabel.com/wes-cook-and-the-mcdonalds-mural/",
+   "alt_urls": [
+    "https://www.theverge.com/2024/10/11/24230990/mcdonalds-bespoke-painting-cabel-sasser-wes-cook-xoxo-2024"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "“ Wes Cook and The McDonald’s Mural .” Remember that amazing Cabel Sasser XOXO talk from a couple of years ago? Well, Sasser has finally written out the whole story of saving the mural, and shared some truly incredible photos of the process.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-the-sony-wf-1000xm6",
+   "name": "The Sony WF-1000XM6",
+   "url": "https://www.jdoqocy.com/click-8836598-15268034?url=https%3A%2F%2Felectronics.sony.com%2Faudio%2Fheadphones%2Ftruly-wireless-earbuds%2Fp%2Fwf1000xm6-s",
+   "alt_urls": [
+    "https://www.theverge.com/tech/877503/sony-wf-1000xm6-earbuds-review"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The “best earbuds” competition pretty much comes down to Sony vs. Apple, and while I much prefer the look of these to any AirPod, it’s a bummer to hear it can be hard to find the right fit with them. If I can get these to stay in my ear, I may be $330 poorer here in a few days.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-the-interface",
+   "name": "The Interface",
+   "url": "https://app.magellan.ai/listen_links/theinterface-YT",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Fun, informative, thoughtful new podcast from the BBC, hosted by three tech journalists I admire. I don’t know if it’ll always be this mix of news and history, or if Karen Hao will keep being so hilariously mean to her cohosts, but I dig it all so far.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-fitbits-personal-health-coach",
+   "name": "Fitbit’s personal health coach",
+   "url": "https://community.fitbit.com/t5/The-Pulse-Fitbit-Community-Blog/Fitbit-s-Personal-health-coach-is-now-available-for-iOS-Premium-users/ba-p/5811766",
+   "alt_urls": [
+    "https://www.theverge.com/hands-on/761965/fitbits-ai-health-coach-is-the-first-i-might-actually-be-interested-in"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Like my colleague Vee Song, I kind of hate AI coaches. But also like Vee, I think Fitbit is up to something interesting here — rather than an annoying cheerleader, Fitbit is trying to build a more interactive, more understandable set of wellness tools, and that I can get behind.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-seedance-2-0",
+   "name": "Seedance 2.0",
+   "url": "https://seed.bytedance.com/en/seedance2_0",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It is my general belief that generative AI tools are a bad thing. But if you like these creative tools, this new model from ByteDance — which you can prompt with a combination of text, images, audio, and video — appears to be kind of blowing people’s minds.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-youtube-for-vision-pro",
+   "name": "YouTube for Vision Pro",
+   "url": "https://apps.apple.com/us/app/youtube-for-visionos/id6745572359",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Are there any Vision Pro users out there? Maybe? I don’t know. But if you do still use your headset, a native YouTube app is actually a big deal. I’m curious to see if this helps get more people making immersive content again.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-proton",
+   "name": "Proton",
+   "url": "https://proton.me/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Almost everybody who told me they’re ditching Google told me they’re moving to Proton. And with good reason! Proton does email, calendar, docs, file storage, and more, and does it all really well. This is the first place I’d tell almost anyone to start.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-signal",
+   "name": "Signal",
+   "url": "https://signal.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The messaging app of choice, by a mile. Like Proton, it is an incredibly privacy-focused tool that is still easy and nice to use. I have nothing but good feelings about Signal.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-nextcloud",
+   "name": "Nextcloud",
+   "url": "https://nextcloud.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This one I did not expect! It’s another suite of services, with a lot of impressive features, but in addition to everything else it is open-source and can even be self-hosted.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-home-assistant",
+   "name": "Home Assistant",
+   "url": "https://www.home-assistant.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "For the smart home crowd, there is really only one choice.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-kagi",
+   "name": "Kagi",
+   "url": "https://kagi.com/",
+   "alt_urls": [
+    "https://www.ecosia.org/",
+    "https://www.firefox.com/en-US/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Lots of folks are replacing Google Search with either Kagi or Ecosia . As for browsers, it was pretty much all Firefox .",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-linux-mint",
+   "name": "Linux Mint",
+   "url": "https://linuxmint.com/",
+   "alt_urls": [
+    "https://grapheneos.org/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "came up a bunch as a user-friendly way out of the Big Tech operating systems. It’s harder to get away from Android and iOS, but GrapheneOS is a popular alternative for mobile.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-jellyfin",
+   "name": "Jellyfin",
+   "url": "https://jellyfin.org/",
+   "alt_urls": [
+    "https://watch.plex.tv/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "appears to be the media platform of choice. Some Plex love, too, but mostly Jellyfin.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-obsidian",
+   "name": "Obsidian",
+   "url": "https://obsidian.md/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": ", one of my favorite note-taking apps, is a favorite as well. Since it’s built on text files, it is futureproof, unlike virtually any other software you’ll find.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-garmin-smartwatches",
+   "name": "Garmin smartwatches",
+   "url": "https://www.anrdoezrs.net/click-8836598-15205098?url=https://www.garmin.com/en-US/c/wearables-smartwatches/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Oh boy do you all love Garmin smartwatches ! I’m still a little skeptical that they work for anyone other than hardcore fitness folks, but you all love them as Apple and Pixel Watch alternatives.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-sunbeam-f1",
+   "name": "Sunbeam F1",
+   "url": "https://sunbeamwireless.com/f1-pro-rugged-dumbphone/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Sunbeam F1 flip phones, which actually look like they offer a pretty clever set of features, have some very devoted smartphone-ditching fans out there.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-playdate",
+   "name": "Playdate",
+   "url": "https://play.date/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Couple of votes for the Playdate , too, as a less intense way to game.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-boox",
+   "name": "Boox",
+   "url": "https://www.boox.com/",
+   "alt_urls": [
+    "https://www.xteink.com/products/xteink-x4",
+    "https://www.kobo.com/",
+    "https://thestorygraph.com/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I got lots of E Ink device recommendations. Boox gear came up a lot. The Xteink X4 , the little e-reader that sticks to the back of your phone, seems to have captured some hearts out there.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-just-a-regular-iphone-15-though-i-keep-eyeing-a",
+   "name": "Just a regular iPhone 15, though I keep eyeing a refurbished 13 mini",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: Just a regular iPhone 15, though I keep eyeing a refurbished 13 mini. Bring back small phones!",
+   "section": "screen-share",
+   "recommender": "Paris"
+  },
+  {
+   "id": "2026-02-14-bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve deleted a bunch of apps over the past few months and prefer to keep my homescreen pretty basic to try to reduce distraction.",
+   "section": "screen-share",
+   "recommender": "Paris"
+  },
+  {
+   "id": "2026-02-14-vivaldi",
+   "name": "Vivaldi",
+   "url": "https://vivaldi.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve deleted a bunch of apps over the past few months and prefer to keep my homescreen pretty basic to try to reduce distraction.",
+   "section": "screen-share",
+   "recommender": "Paris"
+  },
+  {
+   "id": "2026-02-14-inoreader",
+   "name": "Inoreader",
+   "url": "https://www.inoreader.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve deleted a bunch of apps over the past few months and prefer to keep my homescreen pretty basic to try to reduce distraction.",
+   "section": "screen-share",
+   "recommender": "Paris"
+  },
+  {
+   "id": "2026-02-14-deezer",
+   "name": "Deezer",
+   "url": "https://www.deezer.com/us/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve deleted a bunch of apps over the past few months and prefer to keep my homescreen pretty basic to try to reduce distraction.",
+   "section": "screen-share",
+   "recommender": "Paris"
+  },
+  {
+   "id": "2026-02-14-proton-mail",
+   "name": "Proton Mail",
+   "url": "https://proton.me/mail",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve deleted a bunch of apps over the past few months and prefer to keep my homescreen pretty basic to try to reduce distraction.",
+   "section": "screen-share",
+   "recommender": "Paris"
+  },
+  {
+   "id": "2026-02-14-a-more-civilized-age",
+   "name": "A More Civilized Age",
+   "url": "https://amorecivilizedage.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A More Civilized Age . I’m not really into Star Wars since the Disney takeover ( Andor excepted), but the hosts of this podcast played through Knights of the Old Republic 2 last year and I’ve been slowly following along (and wanting to replay myself!). Magazines.",
+   "section": "screen-share",
+   "recommender": "Paris"
+  },
+  {
+   "id": "2026-02-14-empty-set",
+   "name": "Empty Set",
+   "url": "https://www.emptysetmag.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A More Civilized Age . I’m not really into Star Wars since the Disney takeover ( Andor excepted), but the hosts of this podcast played through Knights of the Old Republic 2 last year and I’ve been slowly following along (and wanting to replay myself!). Magazines.",
+   "section": "screen-share",
+   "recommender": "Paris"
+  },
+  {
+   "id": "2026-02-14-in-formation",
+   "name": "In Formation",
+   "url": "https://informationmagazine.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A More Civilized Age . I’m not really into Star Wars since the Disney takeover ( Andor excepted), but the hosts of this podcast played through Knights of the Old Republic 2 last year and I’ve been slowly following along (and wanting to replay myself!). Magazines.",
+   "section": "screen-share",
+   "recommender": "Paris"
+  },
+  {
+   "id": "2026-02-14-the-x-files",
+   "name": "The X-Files",
+   "url": "https://www.themoviedb.org/tv/4087-the-x-files?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "A More Civilized Age . I’m not really into Star Wars since the Disney takeover ( Andor excepted), but the hosts of this podcast played through Knights of the Old Republic 2 last year and I’ve been slowly following along (and wanting to replay myself!). Magazines.",
+   "section": "screen-share",
+   "recommender": "Paris"
+  },
+  {
+   "id": "2026-02-14-edcs-on-r-dumbphones",
+   "name": "EDCs on r/dumbphones",
+   "url": "https://www.reddit.com/r/dumbphones/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A More Civilized Age . I’m not really into Star Wars since the Disney takeover ( Andor excepted), but the hosts of this podcast played through Knights of the Old Republic 2 last year and I’ve been slowly following along (and wanting to replay myself!). Magazines.",
+   "section": "screen-share",
+   "recommender": "Paris"
+  },
+  {
+   "id": "2026-02-14-bandcamp",
+   "name": "Bandcamp",
+   "url": "https://bandcamp.com/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "I’ve been rebuilding my personal music collection. I buy most of my albums from Bandcamp so I can download the FLAC version to load on my modified iPod Classic 7th gen.",
+   "section": "crowdsourced",
+   "recommender": "Nick (reader)"
+  },
+  {
+   "id": "2026-02-14-yt-dlp",
+   "name": "yt-dlp",
+   "url": "https://github.com/yt-dlp/yt-dlp",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "open-source"
+   ],
+   "blurb": "I’ve been rebuilding my personal music collection. I buy most of my albums from Bandcamp so I can download the FLAC version to load on my modified iPod Classic 7th gen.",
+   "section": "crowdsourced",
+   "recommender": "Nick (reader)"
+  },
+  {
+   "id": "2026-02-14-ffmpeg",
+   "name": "FFMpeg",
+   "url": "https://www.ffmpeg.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been rebuilding my personal music collection. I buy most of my albums from Bandcamp so I can download the FLAC version to load on my modified iPod Classic 7th gen.",
+   "section": "crowdsourced",
+   "recommender": "Nick (reader)"
+  },
+  {
+   "id": "2026-02-14-musicbrainz-picard",
+   "name": "MusicBrainz Picard",
+   "url": "https://picard.musicbrainz.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been rebuilding my personal music collection. I buy most of my albums from Bandcamp so I can download the FLAC version to load on my modified iPod Classic 7th gen.",
+   "section": "crowdsourced",
+   "recommender": "Nick (reader)"
+  },
+  {
+   "id": "2026-02-14-anbernic-rg34xxsp",
+   "name": "Anbernic RG34XXSP",
+   "url": "https://anbernic.com/products/rg34xxsp",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Loving my new Anbernic RG34XXSP ! It’s perfect for playing GBA games because of the clamshell design and 3:2 aspect ratio screen. MinUI (OS) also makes it a very focused experience. Currently playing through The Legend of Zelda: The Minish Cap for the first time.",
+   "section": "crowdsourced",
+   "recommender": "Parker (reader)"
+  },
+  {
+   "id": "2026-02-14-i-photoshop-paddington-into-a-movie-tv-show-or-p",
+   "name": "I Photoshop Paddington into a movie, TV show, or pop culture until I forget",
+   "url": "https://bsky.app/profile/jaythechou.bsky.social",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Currently very into these two Bluesky accounts. They both bring me so much joy: I Photoshop Paddington into a movie, TV show, or pop culture until I forget , and Inserting a Muppet into a Star Trek screenshot .",
+   "section": "crowdsourced",
+   "recommender": "BaltMatrix (reader)"
+  },
+  {
+   "id": "2026-02-14-inserting-a-muppet-into-a-star-trek-screenshot",
+   "name": "Inserting a Muppet into a Star Trek screenshot",
+   "url": "https://bsky.app/profile/did:plc:razblu7vgqai5yre3rdpvlx6",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Currently very into these two Bluesky accounts. They both bring me so much joy: I Photoshop Paddington into a movie, TV show, or pop culture until I forget , and Inserting a Muppet into a Star Trek screenshot .",
+   "section": "crowdsourced",
+   "recommender": "BaltMatrix (reader)"
+  },
+  {
+   "id": "2026-02-14-maxell-japanese-cassette-player",
+   "name": "Maxell Japanese cassette player",
+   "url": "https://maxell-online.com/products/mxcp-p100",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been using my Maxell Japanese cassette player more and more. I found a shop in Roma Norte where it feels like a super cool hunting trip, digging for music I like on cassette.",
+   "section": "crowdsourced",
+   "recommender": "Josue (reader)"
+  },
+  {
+   "id": "2026-02-14-jujutsu-kaisen",
+   "name": "Jujutsu Kaisen",
+   "url": "https://www.themoviedb.org/tv/95479?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Watching the new season of Jujutsu Kaisen and it’s a masterpiece so far! Every episode is an art piece. Same thing with Frieren .",
+   "section": "crowdsourced",
+   "recommender": "Kolin (reader)"
+  },
+  {
+   "id": "2026-02-14-frieren",
+   "name": "Frieren",
+   "url": "https://www.themoviedb.org/tv/209867?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Watching the new season of Jujutsu Kaisen and it’s a masterpiece so far! Every episode is an art piece. Same thing with Frieren .",
+   "section": "crowdsourced",
+   "recommender": "Kolin (reader)"
+  },
+  {
+   "id": "2026-02-14-stardew-valley",
+   "name": "Stardew Valley",
+   "url": "https://www.stardewvalley.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m in Michigan and this winter has been long and cold. Stardew Valley had been a remedy until I got to winter there as well. The relief I felt when it became spring last night was palpable. Now waiting for the real thing.",
+   "section": "crowdsourced",
+   "recommender": "Ian (reader)"
+  },
+  {
+   "id": "2026-02-14-wispr-flow",
+   "name": "Wispr Flow",
+   "url": "https://wisprflow.ai/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been totally into AI dictation tools like Wispr Flow , Willow , and Raycast . I’m so much faster speaking than typing. They work seamlessly on Mac but have some friction on iOS due to permissions. Makes me think this will be baked into future versions of Mac/iOS natively.",
+   "section": "crowdsourced",
+   "recommender": "Irfan (reader)"
+  },
+  {
+   "id": "2026-02-14-willow",
+   "name": "Willow",
+   "url": "https://willowvoice.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been totally into AI dictation tools like Wispr Flow , Willow , and Raycast . I’m so much faster speaking than typing. They work seamlessly on Mac but have some friction on iOS due to permissions. Makes me think this will be baked into future versions of Mac/iOS natively.",
+   "section": "crowdsourced",
+   "recommender": "Irfan (reader)"
+  },
+  {
+   "id": "2026-02-14-raycast",
+   "name": "Raycast",
+   "url": "https://www.raycast.com/finjo/whisper-dictation",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been totally into AI dictation tools like Wispr Flow , Willow , and Raycast . I’m so much faster speaking than typing. They work seamlessly on Mac but have some friction on iOS due to permissions. Makes me think this will be baked into future versions of Mac/iOS natively.",
+   "section": "crowdsourced",
+   "recommender": "Irfan (reader)"
+  },
+  {
+   "id": "2026-02-14-newsmap",
+   "name": "NewsMap",
+   "url": "https://newsmap.ijmacd.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "NewsMap has been helping me get a bird’s eye view of current events. It’s a ‘squarified tree map visualization of Google News.’ Runs as a web app and is customizable. Quick, easy color coded news in a handy grid format.",
+   "section": "crowdsourced",
+   "recommender": "Seth (reader)"
+  },
+  {
+   "id": "2026-02-14-gizmo",
+   "name": "Gizmo",
+   "url": "https://gizmo.party/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I was sitting waiting to see The 25th Annual Putnam Spelling Bee in NYC, and a few rows in front of me a girl was scrolling what looked like a TikTok feed, but was filled with little mini-app toys that seemed impossibly varied and unending. A quick Google turned it up: a new app called Gizmo .",
+   "section": "crowdsourced",
+   "recommender": "Alex (reader)"
+  },
+  {
+   "id": "2026-02-14-how-a-stadium-handles-two-huge-events-in-a-row",
+   "name": "how a stadium handles two huge events in a row",
+   "url": "https://www.youtube.com/watch?v=QF6fDItt-Jw’",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Last week was the Super Bowl, which you probably already knew. The Super Bowl is definitely the Super Bowl of football, but it’s also the Super Bowl for cool videos about how football works.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-the-nfls-obsession-with-growing-its-internationa",
+   "name": "the NFL’s obsession with growing its international audience",
+   "url": "https://www.youtube.com/watch?v=frReoiM6zXg",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Last week was the Super Bowl, which you probably already knew. The Super Bowl is definitely the Super Bowl of football, but it’s also the Super Bowl for cool videos about how football works.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-hourlong-podcast-about-the-pregame-flyover",
+   "name": "hourlong podcast about the pregame flyover",
+   "url": "https://www.youtube.com/watch?v=74ItE7NtKfE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Last week was the Super Bowl, which you probably already knew. The Super Bowl is definitely the Super Bowl of football, but it’s also the Super Bowl for cool videos about how football works.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-great-vlog-about-life-as-a-sports-photographer",
+   "name": "great vlog about life as a sports photographer",
+   "url": "https://www.youtube.com/watch?v=mDo0cDLGPLo",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Last week was the Super Bowl, which you probably already knew. The Super Bowl is definitely the Super Bowl of football, but it’s also the Super Bowl for cool videos about how football works.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-14-the-unbelievable-speed-of-instant-replay-systems",
+   "name": "the unbelievable speed of instant replay systems",
+   "url": "https://www.youtube.com/watch?v=8Ar4wmA4ujM",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Last week was the Super Bowl, which you probably already knew. The Super Bowl is definitely the Super Bowl of football, but it’s also the Super Bowl for cool videos about how football works.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

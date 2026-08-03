@@ -1,0 +1,477 @@
+{
+ "schema": 1,
+ "date": "2024-09-01",
+ "post_type": "issue",
+ "title": "The headphones that replaced my AirPods",
+ "url": "https://www.theverge.com/2024/9/1/24232267/shokz-openrun-airpods-star-wars-outlaws-airwrap-installer",
+ "author": "David Pierce",
+ "number": 50,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:36+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-09-01-crime-rings",
+   "name": "crime rings",
+   "url": "https://www.newyorker.com/magazine/2024/03/25/the-crime-rings-stealing-everything-from-purses-to-power-tools",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about crime rings and paleontology beefs and the strange language of TikTok , watching Kevin Can F**k Himself and Trap , re-upping my Yousician subscription to get back into the guitar, doing a lot of weird stretches after spraining my finger, and trying to make the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-01-paleontology-beefs",
+   "name": "paleontology beefs",
+   "url": "https://nymag.com/intelligencer/article/tanis-site-controversy-paleontology-fossils-during-depalma.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about crime rings and paleontology beefs and the strange language of TikTok , watching Kevin Can F**k Himself and Trap , re-upping my Yousician subscription to get back into the guitar, doing a lot of weird stretches after spraining my finger, and trying to make the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-01-the-strange-language-of-tiktok",
+   "name": "the strange language of TikTok",
+   "url": "https://thenewinquiry.com/tiktok-llm/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about crime rings and paleontology beefs and the strange language of TikTok , watching Kevin Can F**k Himself and Trap , re-upping my Yousician subscription to get back into the guitar, doing a lot of weird stretches after spraining my finger, and trying to make the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-01-kevin-can-f-k-himself",
+   "name": "Kevin Can F**k Himself",
+   "url": "https://www.themoviedb.org/tv/99652-kevin-can-f-himself",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about crime rings and paleontology beefs and the strange language of TikTok , watching Kevin Can F**k Himself and Trap , re-upping my Yousician subscription to get back into the guitar, doing a lot of weird stretches after spraining my finger, and trying to make the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-01-trap",
+   "name": "Trap",
+   "url": "https://www.themoviedb.org/movie/1032823-trap",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about crime rings and paleontology beefs and the strange language of TikTok , watching Kevin Can F**k Himself and Trap , re-upping my Yousician subscription to get back into the guitar, doing a lot of weird stretches after spraining my finger, and trying to make the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-01-yousician",
+   "name": "Yousician",
+   "url": "https://yousician.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about crime rings and paleontology beefs and the strange language of TikTok , watching Kevin Can F**k Himself and Trap , re-upping my Yousician subscription to get back into the guitar, doing a lot of weird stretches after spraining my finger, and trying to make the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-01-make-the-famous-levain-cookies",
+   "name": "make the famous Levain cookies",
+   "url": "https://www.youtube.com/watch?v=9h1xNlh5LAo",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about crime rings and paleontology beefs and the strange language of TikTok , watching Kevin Can F**k Himself and Trap , re-upping my Yousician subscription to get back into the guitar, doing a lot of weird stretches after spraining my finger, and trying to make the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-01-the-shokz-openrun-pro-2",
+   "name": "The Shokz OpenRun Pro 2",
+   "url": "https://shokz.com/products/openrunpro2",
+   "alt_urls": [
+    "https://www.theverge.com/2024/8/28/24229891/shokz-openrun-pro-2-review-bone-conduction-headphones"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve had these for a week and they’re easily one of my favorite gadget upgrades of the year so far. For day-to-day dog-walking and grocery-running and exercising headphones, I’ve been totally converted to bone conduction over the course of this year.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-01-star-wars-outlaws",
+   "name": "Star Wars Outlaws",
+   "url": "https://www.ubisoft.com/en-us/game/star-wars/outlaws",
+   "alt_urls": [
+    "https://www.theverge.com/24230628/star-wars-outlaws-review-ps5-xbox-pc"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I have been burned by so many Star Wars games before, but this one sounds… well, if not like the most innovative game in history, at least like a seriously good time. And as someone who doesn’t love an endless open-world game, the slightly more rigid structure sounds perfect for me to dive into.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-01-berreal-roulette",
+   "name": "BeRreal Roulette",
+   "url": "https://bereal.com/en/getbereal/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Are people still using BeReal? I honestly don’t know. But I love this idea: it’s the daily BeReal experience, except it grabs a shot from your camera roll and lets you react to it as you share it. So clever, so very dangerous.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-01-the-dyson-airwrap-i-d",
+   "name": "The Dyson Airwrap i.d.",
+   "url": "https://www.dyson.com/hair-care/hair-stylers/airwrap-id/straight-wavy-strawberry-bronze-blush-pink",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Look, I don’t have enough hair to say whether Bluetooth connectivity for “personalized curling routines” is anything, but I do know that every single person I know with an Airwrap loves the thing to bits and will probably like the new attachments.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-01-i-feel-as-stupid-as-i-look-brilliant-labs-frame",
+   "name": "“I feel as stupid as I look - Brilliant Labs Frame.”",
+   "url": "https://www.youtube.com/watch?v=tVUiDy79x7o",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "There’s actually a lot of cool stuff in these AR glasses, at least from a hardware perspective. But as Linus and the Short Circuit folks find, the AI just ain’t ready. I got way too many Rabbit and Humane vibes from this video.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-01-the-garmin-fenix-8",
+   "name": "The Garmin Fenix 8.",
+   "url": "https://www.jdoqocy.com/click-8836598-15427072?url=https%3A%2F%2Fwww.garmin.com%2Fen-US%2Fp%2F1228493%2Fpn%2F010-02903-10",
+   "alt_urls": [
+    "https://www.theverge.com/2024/8/27/24228712/garmin-fenix-8-enduro-3-smartwatch-wearables"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Garmin’s ultrapremium smartwatches now come with OLED screens, a mic and a speaker, and some nifty messaging features. These are priced For Serious Outdoorspeople Only, but they’re pretty compelling — and a month-plus of battery life just straight-up rules.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-01-anthropic-artifacts",
+   "name": "Anthropic Artifacts",
+   "url": "https://www.anthropic.com/news/artifacts",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As chatbots go, this is the coolest UI anyone has built yet. You can use Claude to build something and actually see it work and change in real time next to the chat; it makes the process of making things much more collaborative and useful.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-01-the-plaud-notepin",
+   "name": "The Plaud NotePin",
+   "url": "https://www.plaud.ai/products/notepin",
+   "alt_urls": [
+    "https://www.cleftnotes.com/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Another day, another AI voice recorder thing. I still have no idea if these will ever be actually useful to most people, but I’ve been testing this $169 one for a few days, and it’s pretty good at transcribing and summarizing whatever nonsense I say into it all day.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-01-the-sustained-two-shot",
+   "name": "“The Sustained Two-Shot.”",
+   "url": "https://www.youtube.com/watch?v=mn2Dcy-NDTw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I mentioned my love for Every Frame a Painting a few weeks ago, and now they’re back! I get the sense this next series is going to be very meta since the EFAP duo is making their own film, and I’m extremely here for it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-01-iphone-15-pro-with-a-screen-increasingly-scratch",
+   "name": "iPhone 15 Pro, with a screen increasingly scratched to bits and that will hopefu",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 15 Pro, with a screen increasingly scratched to bits and that will hopefully be replaced — either by an iPhone 16 or a Pixel 9, depending on how the next few weeks go — this fall.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-01-vera-icon-pack",
+   "name": "Vera Icon Pack",
+   "url": "https://vukandric.gumroad.com/l/veraiconpack",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have become a custom icon convert, and there’s just no going back. This pack is the Vera Icon Pack from Vuk Andric, which I bought for $4 and like very much. Dark icons are the best icons.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-01-capacities",
+   "name": "Capacities",
+   "url": "https://capacities.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m in the midst of my longest journaling streak of all time in Day One, and it’s entirely because I changed the daily prompt to “what did you do today?” which feels so much lower-stakes than most journaling that I find myself doing it much more happily.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-01-the-right-stuff",
+   "name": "The Right Stuff",
+   "url": "https://us.macmillan.com/books/9780312427566/therightstuff",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I love Tom Wolfe’s writing but somehow had never read The Right Stuff before. Good lord is this book great. (It’s about astronauts and fighter pilots and what it takes to decide to risk your life for the skies.)",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-01-pop-star-academy-katseye",
+   "name": "Pop Star Academy: KATSEYE",
+   "url": "https://www.themoviedb.org/tv/260264-pop-star-academy-katseye",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I love Tom Wolfe’s writing but somehow had never read The Right Stuff before. Good lord is this book great. (It’s about astronauts and fighter pilots and what it takes to decide to risk your life for the skies.)",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-01-retro-bowl",
+   "name": "Retro Bowl",
+   "url": "https://www.newstargames.com/servlet/Content/en/text/releases/Releases/item/424/Releases-Retro-Bowl",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I love Tom Wolfe’s writing but somehow had never read The Right Stuff before. Good lord is this book great. (It’s about astronauts and fighter pilots and what it takes to decide to risk your life for the skies.)",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-01-the-switch-version-of-the-game",
+   "name": "the Switch version of the game",
+   "url": "https://www.nintendo.com/us/store/products/retro-bowl-switch/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I love Tom Wolfe’s writing but somehow had never read The Right Stuff before. Good lord is this book great. (It’s about astronauts and fighter pilots and what it takes to decide to risk your life for the skies.)",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-01-emacs",
+   "name": "Emacs",
+   "url": "https://www.gnu.org/software/emacs/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As a fellow nerd who keeps dreaming of the ideal note-taking setup, I can’t believe I’ve never seen anyone recommend Emacs to you, and especially the built-in Org-mode.",
+   "section": "crowdsourced",
+   "recommender": "David (reader)"
+  },
+  {
+   "id": "2024-09-01-beorg",
+   "name": "Beorg",
+   "url": "https://www.beorgapp.com/manual/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As a fellow nerd who keeps dreaming of the ideal note-taking setup, I can’t believe I’ve never seen anyone recommend Emacs to you, and especially the built-in Org-mode.",
+   "section": "crowdsourced",
+   "recommender": "David (reader)"
+  },
+  {
+   "id": "2024-09-01-orgzly",
+   "name": "Orgzly",
+   "url": "https://orgzly.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As a fellow nerd who keeps dreaming of the ideal note-taking setup, I can’t believe I’ve never seen anyone recommend Emacs to you, and especially the built-in Org-mode.",
+   "section": "crowdsourced",
+   "recommender": "David (reader)"
+  },
+  {
+   "id": "2024-09-01-match-land",
+   "name": "Match Land",
+   "url": "http://www.racecatgames.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Match Land . I’ve been looking for games to play mindlessly while listening to music, and this game has gotten me hooked. This game uses the match-3 mechanic as a way to stack up damage for an incredibly addictive RPG that’s all about combos. And it’s got cute 8-bit graphics to boot!",
+   "section": "crowdsourced",
+   "recommender": "Shani (reader)"
+  },
+  {
+   "id": "2024-09-01-deadlock",
+   "name": "Deadlock",
+   "url": "https://store.steampowered.com/app/1422450/Deadlock/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Been playing a lot of Deadlock ! It’s Valve’s MOBA / third-person hero shooter hybrid that somehow just works. It’s in an early playtest state on Steam — and does have a lot of performance / gameplay rough edges, along with a schedule for when the game actually *lets* you play online.",
+   "section": "crowdsourced",
+   "recommender": "Arthur (reader)"
+  },
+  {
+   "id": "2024-09-01-the-perfect-comedy-skit",
+   "name": "the perfect comedy skit",
+   "url": "https://www.instagram.com/reel/C_PKlHmS5aB/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Somehow Ryan George made the perfect comedy skit about Elon’s ownership of Twitter. I’ve watched this so many times this week.",
+   "section": "crowdsourced",
+   "recommender": "Jordan (reader)"
+  },
+  {
+   "id": "2024-09-01-neardrop",
+   "name": "NearDrop",
+   "url": "https://github.com/grishka/NearDrop",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "open-source"
+   ],
+   "blurb": "I recently accomplished something truly the Vergiest thing ever (and maybe a little crazy): merging the Mac and Samsung ecosystems! Here’s the breakdown. NearDrop is AirDrop, but for Android and Mac.",
+   "section": "crowdsourced",
+   "recommender": "Khalil (reader)"
+  },
+  {
+   "id": "2024-09-01-parallels",
+   "name": "Parallels",
+   "url": "https://www.parallels.com/products/desktop/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently accomplished something truly the Vergiest thing ever (and maybe a little crazy): merging the Mac and Samsung ecosystems! Here’s the breakdown. NearDrop is AirDrop, but for Android and Mac.",
+   "section": "crowdsourced",
+   "recommender": "Khalil (reader)"
+  },
+  {
+   "id": "2024-09-01-phone-link",
+   "name": "Phone Link",
+   "url": "https://www.microsoft.com/en-us/windows/sync-across-your-devices",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently accomplished something truly the Vergiest thing ever (and maybe a little crazy): merging the Mac and Samsung ecosystems! Here’s the breakdown. NearDrop is AirDrop, but for Android and Mac.",
+   "section": "crowdsourced",
+   "recommender": "Khalil (reader)"
+  },
+  {
+   "id": "2024-09-01-mirrcast",
+   "name": "Mirrcast",
+   "url": "https://play.google.com/store/apps/details?id=com.tv.casttv&hl=en_US",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "I recently accomplished something truly the Vergiest thing ever (and maybe a little crazy): merging the Mac and Samsung ecosystems! Here’s the breakdown. NearDrop is AirDrop, but for Android and Mac.",
+   "section": "crowdsourced",
+   "recommender": "Khalil (reader)"
+  },
+  {
+   "id": "2024-09-01-terminus",
+   "name": "Terminus",
+   "url": "https://store.steampowered.com/app/1534980/Terminus_Zombie_Survivors/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I’m loving Terminus on my Steam Deck. Turn-based zombie survival game that just released out of Early Access.",
+   "section": "crowdsourced",
+   "recommender": "Justin (reader)"
+  },
+  {
+   "id": "2024-09-01-this-podcasts-perspective-on-generative-ai",
+   "name": "this podcast’s perspective on generative AI",
+   "url": "https://www.abc.net.au/listen/programs/abc-news-daily/ben-lee-on-the-rise-of-ai-music/104258200",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I found this podcast’s perspective on generative AI from Australian musician Ben Lee to be refreshingly different to the usual concerns about licensing or quality.",
+   "section": "crowdsourced",
+   "recommender": "Andrew (reader)"
+  },
+  {
+   "id": "2024-09-01-darknet-diaries",
+   "name": "Darknet Diaries",
+   "url": "https://darknetdiaries.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been listening to Darknet Diaries , by Jack Rhysider. This is a podcast about hackers, breaches, shadow government activity, hacktivism, cybercrime, and all the things that dwell on the hidden parts of the network.",
+   "section": "crowdsourced",
+   "recommender": "Sinan (reader)"
+  },
+  {
+   "id": "2024-09-01-johnny-decimal",
+   "name": "Johnny.Decimal",
+   "url": "https://johnnydecimal.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "For people who have time and are wanting to tidy up their personal file organization, I would strongly recommend Johnny.Decimal . It’s a really intuitive (to me, at least) way of keeping files organized, and he’s just launched a quick start pack to help people get into the system.",
+   "section": "crowdsourced",
+   "recommender": "Nathan (reader)"
+  },
+  {
+   "id": "2024-09-01-a-quick-start-pack",
+   "name": "a quick start pack",
+   "url": "https://johnnydecimal.com/10-19-concepts/14-build-your-system/14.11-quick-start-life-admin/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "For people who have time and are wanting to tidy up their personal file organization, I would strongly recommend Johnny.Decimal . It’s a really intuitive (to me, at least) way of keeping files organized, and he’s just launched a quick start pack to help people get into the system.",
+   "section": "crowdsourced",
+   "recommender": "Nathan (reader)"
+  },
+  {
+   "id": "2024-09-01-the-latest-waveform-episode",
+   "name": "the latest Waveform episode",
+   "url": "https://www.youtube.com/watch?v=-R9CWq5CBlk&t=1088s",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I cannot recommend the latest Waveform episode enough, one of the best explainers for the concept of the fediverse and its protocols.",
+   "section": "crowdsourced",
+   "recommender": "Filip (reader)"
+  }
+ ]
+}

@@ -1,0 +1,558 @@
+{
+ "schema": 1,
+ "date": "2025-04-20",
+ "post_type": "issue",
+ "title": "Everybody’s got a favorite new game",
+ "url": "https://www.theverge.com/installer-newsletter/652291/blue-prince-great-circle-baldurs-gate-games-installer",
+ "author": "David Pierce",
+ "number": 79,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-04-20-dire-wolves",
+   "name": "dire wolves",
+   "url": "https://www.newyorker.com/magazine/2025/04/14/the-dire-wolf-is-back",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about dire wolves and Neuralink and the history of the Xbox , watching The Last of Us and Your Friends and Neighbors , underlining a lot of things in Graydon Carter’s book about magazines, setting up a Brick to see if it’ll help me manage screen time, refining macrodata…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-neuralink",
+   "name": "Neuralink",
+   "url": "https://www.menshealth.com/health/a64354373/noland-arbaugh-neuralink-interview/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about dire wolves and Neuralink and the history of the Xbox , watching The Last of Us and Your Friends and Neighbors , underlining a lot of things in Graydon Carter’s book about magazines, setting up a Brick to see if it’ll help me manage screen time, refining macrodata…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-the-history-of-the-xbox",
+   "name": "the history of the Xbox",
+   "url": "https://www.bloomberg.com/news/features/2021-01-06/xbox-the-oral-history-of-an-american-video-game-empire",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about dire wolves and Neuralink and the history of the Xbox , watching The Last of Us and Your Friends and Neighbors , underlining a lot of things in Graydon Carter’s book about magazines, setting up a Brick to see if it’ll help me manage screen time, refining macrodata…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-the-last-of-us",
+   "name": "The Last of Us",
+   "url": "https://www.themoviedb.org/tv/100088-the-last-of-us",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about dire wolves and Neuralink and the history of the Xbox , watching The Last of Us and Your Friends and Neighbors , underlining a lot of things in Graydon Carter’s book about magazines, setting up a Brick to see if it’ll help me manage screen time, refining macrodata…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-your-friends-and-neighbors",
+   "name": "Your Friends and Neighbors",
+   "url": "https://www.themoviedb.org/tv/241609-your-friends-and-neighbors",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about dire wolves and Neuralink and the history of the Xbox , watching The Last of Us and Your Friends and Neighbors , underlining a lot of things in Graydon Carter’s book about magazines, setting up a Brick to see if it’ll help me manage screen time, refining macrodata…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-graydon-carters-book",
+   "name": "Graydon Carter’s book",
+   "url": "https://www.penguinrandomhouse.com/books/736963/when-the-going-was-good-by-graydon-carter-with-james-fox/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about dire wolves and Neuralink and the history of the Xbox , watching The Last of Us and Your Friends and Neighbors , underlining a lot of things in Graydon Carter’s book about magazines, setting up a Brick to see if it’ll help me manage screen time, refining macrodata…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-brick",
+   "name": "Brick",
+   "url": "https://getbrick.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about dire wolves and Neuralink and the history of the Xbox , watching The Last of Us and Your Friends and Neighbors , underlining a lot of things in Graydon Carter’s book about magazines, setting up a Brick to see if it’ll help me manage screen time, refining macrodata…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-rift",
+   "name": "Rift",
+   "url": "https://www.riftnotes.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about dire wolves and Neuralink and the history of the Xbox , watching The Last of Us and Your Friends and Neighbors , underlining a lot of things in Graydon Carter’s book about magazines, setting up a Brick to see if it’ll help me manage screen time, refining macrodata…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-internet-life-hacks",
+   "name": "internet life hacks",
+   "url": "https://www.reddit.com/r/AskReddit/comments/1jyx5ca/whats_a_personal_internet_hack_you_use_that_makes/?sort=top",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about dire wolves and Neuralink and the history of the Xbox , watching The Last of Us and Your Friends and Neighbors , underlining a lot of things in Graydon Carter’s book about magazines, setting up a Brick to see if it’ll help me manage screen time, refining macrodata…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-blue-prince",
+   "name": "Blue Prince",
+   "url": "https://www.blueprincegame.com/",
+   "alt_urls": [
+    "https://www.theverge.com/games-review/647451/blue-prince-review-architectural-roguelike-balatro"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Technically this came out last week, when we were off, but so many of you told me how much you love it that I feel obligated to include it here. It’s a deep, complicated puzzle game that you have to play carefully, and I love that.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-the-polaroid-flip",
+   "name": "The Polaroid Flip",
+   "url": "https://www.polaroid.com/products/flip-polaroid-camera",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "True instant camera purists might hate this thing, but I think it’s so clever — it’ll warn you before you take the picture if something is out of focus or incorrectly exposed. Yeah, whatever, bad pictures are part of the fun, but instant film is so expensive! Just make all my pictures good!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-the-rehearsal-season-2",
+   "name": "The Rehearsal season 2",
+   "url": "https://www.themoviedb.org/tv/204284-the-rehearsal?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Nathan Fielder is definitely some kind of genius. And this show, in which Fielder helps people practice for big moments in life, makes me constantly (like, constantly ) wonder what’s real and what’s a bit. Oh, and it’s also very, very funny.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-baldurs-gate-3-patch-8",
+   "name": "Baldur’s Gate 3 Patch 8",
+   "url": "https://baldursgate3.game/news/the-final-patch-new-subclasses-photo-mode-and-cross-play_138",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is the last major Baldur’s Gate 3 patch, and it’s a doozy: crossplay, photo mode, new subclasses, modding upgrades, and lots more. I don’t think you’ll run out of stuff to do in this game… ever.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-the-art-of-poison-pilling-music-files",
+   "name": "The Art Of Poison-Pilling Music Files",
+   "url": "https://www.youtube.com/watch?v=xMYm2d9bmEA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ The Art Of Poison-Pilling Music Files .” Benn Jordan made an algorithm that could check whether music was made by AI. Now he’s figured out how to prevent AI music-making tools from scraping and training on his songs. The whole process is fascinating.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-sinners",
+   "name": "Sinners",
+   "url": "https://www.themoviedb.org/movie/1233413-sinners?language=en-US",
+   "alt_urls": [
+    "https://www.theverge.com/movie-reviews/649188/sinners-review"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Ryan Coogler, plus Michael B. Jordan, usually equals kickass movie. And lo and behold! A horror movie about vampires that is also a meditation on life for Black Americans in the South . And Michael B. Jordan plays two roles! What else do you need to know!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-indiana-jones-and-the-great-circle-for-ps5",
+   "name": "Indiana Jones and the Great Circle for PS5",
+   "url": "https://www.playstation.com/en-us/games/indiana-jones-and-the-great-circle/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I was skeptical of this game when it came out, because good Indy games are hard to come by. But this is a good one, and now this previously Xbox and PC-only game is available to millions of other gamers. There’s no in-game weapon quite like a whip, my friends.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-the-chipolo-pop",
+   "name": "The Chipolo Pop",
+   "url": "https://chipolo.net/en-us/products/chipolo-pop?ranMID=48087&ranEAID=TnL5HPStwNw&ranSiteID=TnL5HPStwNw-rLWNLhZcxNBX8UjwSl5rVw",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Every time I turn around, someone is doing clever stuff with AirTags — but AirTags are so expensive! These are colorful, cheaper, and also work on both Google’s and Apple’s device-finding network. These are going in my luggage, on my keys, and maybe in my toddler’s shoes. He runs fast.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-i-tested-every-youtuber-tech-product",
+   "name": "I Tested Every YouTuber Tech Product",
+   "url": "https://www.youtube.com/watch?v=MBQBY9b6OAU",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ I Tested Every YouTuber Tech Product .” This Mrwhosetheboss video is such a good idea it makes me furious with jealousy. He tested and reviewed everything from JerryRigEverything’s utility knife to MKBHD’s Panels app to Hank Green’s 2D glasses, and he is pretty unsparing. And pretty correct.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-nanoleaf-pegboard-desk-dock",
+   "name": "Nanoleaf Pegboard Desk Dock.",
+   "url": "https://nanoleaf.me/en-US/products/pegboard-desk-dock/?size=1",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am such a sucker for a cool desk toy, and this one is all the way up my alley: a combination gadget holder, charging dock, and light that can be synced to your computer. The last thing I need is more stuff on my desk! I already bought a two-pack.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-aestheticsguyy",
+   "name": "Aestheticsguyy",
+   "url": "https://x.com/aestheticsguyy",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Aestheticsguyy . I don’t know anything about this person, their account, or where these wallpapers come from, but they post a ton and I find myself scrolling their page at least every couple of weeks. I’ve been really enjoying their Formula series. The Papers app.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-formula-series",
+   "name": "Formula series.",
+   "url": "https://x.com/aestheticsguyy/status/1907914130625003910",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Aestheticsguyy . I don’t know anything about this person, their account, or where these wallpapers come from, but they post a ton and I find myself scrolling their page at least every couple of weeks. I’ve been really enjoying their Formula series. The Papers app.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-papers",
+   "name": "Papers",
+   "url": "https://bento.me/papers",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Aestheticsguyy . I don’t know anything about this person, their account, or where these wallpapers come from, but they post a ton and I find myself scrolling their page at least every couple of weeks. I’ve been really enjoying their Formula series. The Papers app.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-papers-x-feed",
+   "name": "Paper’s X feed ,",
+   "url": "https://x.com/papers_app?lang=en",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Aestheticsguyy . I don’t know anything about this person, their account, or where these wallpapers come from, but they post a ton and I find myself scrolling their page at least every couple of weeks. I’ve been really enjoying their Formula series. The Papers app.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-basic-apple-guy",
+   "name": "Basic Apple Guy",
+   "url": "https://basicappleguy.com/basicappleblog/category/Wallpaper",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Aestheticsguyy . I don’t know anything about this person, their account, or where these wallpapers come from, but they post a ton and I find myself scrolling their page at least every couple of weeks. I’ve been really enjoying their Formula series. The Papers app.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-liminal",
+   "name": "Liminal",
+   "url": "https://basicappleguy.com/basicappleblog/liminal-spaces",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Aestheticsguyy . I don’t know anything about this person, their account, or where these wallpapers come from, but they post a ton and I find myself scrolling their page at least every couple of weeks. I’ve been really enjoying their Formula series. The Papers app.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-backdrops",
+   "name": "Backdrops",
+   "url": "https://www.backdrops.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Aestheticsguyy . I don’t know anything about this person, their account, or where these wallpapers come from, but they post a ton and I find myself scrolling their page at least every couple of weeks. I’ve been really enjoying their Formula series. The Papers app.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-on-lock-screen",
+   "name": "On Lock Screen",
+   "url": "https://onlockscreen.app/wallpapers",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Aestheticsguyy . I don’t know anything about this person, their account, or where these wallpapers come from, but they post a ton and I find myself scrolling their page at least every couple of weeks. I’ve been really enjoying their Formula series. The Papers app.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-on-the-x-feed-here",
+   "name": "on the X feed here",
+   "url": "https://x.com/on_lockscreen",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Aestheticsguyy . I don’t know anything about this person, their account, or where these wallpapers come from, but they post a ton and I find myself scrolling their page at least every couple of weeks. I’ve been really enjoying their Formula series. The Papers app.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-casey-johnston",
+   "name": "Casey Johnston",
+   "url": "https://www.instagram.com/swolewoman/?hl=en",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Anyway, the reason I bring this up is because I had a conversation with Casey Johnston from She’s a Beast the other day (coming soon to The Vergecast! ), and she made a surprisingly compelling case that actually, wallpapers are bad.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-shes-a-beast",
+   "name": "She’s a Beast",
+   "url": "https://www.shesabeast.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Anyway, the reason I bring this up is because I had a conversation with Casey Johnston from She’s a Beast the other day (coming soon to The Vergecast! ), and she made a surprisingly compelling case that actually, wallpapers are bad.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-session-buddy",
+   "name": "Session Buddy",
+   "url": "https://chromewebstore.google.com/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=en",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "web"
+   ],
+   "blurb": "I found a couple of tools that may or may not have been called out already that help with managing tabs. One is a free Chrome extension called Session Buddy . This one is great because it also lets you export tabs in Markdown. Perfect for moving things to Obsidian or other Markdown editors.",
+   "section": "crowdsourced",
+   "recommender": "John (reader)"
+  },
+  {
+   "id": "2025-04-20-collections",
+   "name": "Collections",
+   "url": "https://www.microsoft.com/en-us/edge/features/collections?exp=e00&cs=2199494592&form=MA13FJ",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I found a couple of tools that may or may not have been called out already that help with managing tabs. One is a free Chrome extension called Session Buddy . This one is great because it also lets you export tabs in Markdown. Perfect for moving things to Obsidian or other Markdown editors.",
+   "section": "crowdsourced",
+   "recommender": "John (reader)"
+  },
+  {
+   "id": "2025-04-20-ludwig",
+   "name": "Ludwig",
+   "url": "https://www.themoviedb.org/tv/243360-ludwig?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The BBC show Ludwig . It’s a great murder of the week show with an intriguing overarching mystery, and I believe its series one finale is being released in the US on Britbox today.",
+   "section": "crowdsourced",
+   "recommender": "Jack (reader)"
+  },
+  {
+   "id": "2025-04-20-britbox",
+   "name": "Britbox",
+   "url": "https://www.britbox.com/us/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The BBC show Ludwig . It’s a great murder of the week show with an intriguing overarching mystery, and I believe its series one finale is being released in the US on Britbox today.",
+   "section": "crowdsourced",
+   "recommender": "Jack (reader)"
+  },
+  {
+   "id": "2025-04-20-oc-remix",
+   "name": "OC Remix",
+   "url": "https://ocremix.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently rediscovered this site called OC Remix . It’s a site dedicated entirely to fan-made remixes of video game music, including individual songs and entire community created albums.",
+   "section": "crowdsourced",
+   "recommender": "Nick (reader)"
+  },
+  {
+   "id": "2025-04-20-koreader",
+   "name": "KOReader",
+   "url": "https://koreader.rocks/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been rooting my Kindles and putting KOReader on all of them. Also trying out Wallabag as a read-later solution since it can be self hosted and also works on my rooted Kindle.",
+   "section": "crowdsourced",
+   "recommender": "Christoph (reader)"
+  },
+  {
+   "id": "2025-04-20-wallabag",
+   "name": "Wallabag",
+   "url": "https://wallabag.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been rooting my Kindles and putting KOReader on all of them. Also trying out Wallabag as a read-later solution since it can be self hosted and also works on my rooted Kindle.",
+   "section": "crowdsourced",
+   "recommender": "Christoph (reader)"
+  },
+  {
+   "id": "2025-04-20-andor",
+   "name": "Andor",
+   "url": "https://www.themoviedb.org/tv/83867-star-wars-andor?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Andor season two is coming next week and I have been rewatching season one, it’s so well made. Easily one of the best shows of the last couple of years. I recommend it to everyone, even if they are not Star Wars fans.",
+   "section": "crowdsourced",
+   "recommender": "Tirth (reader)"
+  },
+  {
+   "id": "2025-04-20-suprordinary",
+   "name": "SuprOrdinary",
+   "url": "https://www.youtube.com/@suprordinary",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "SuprOrdinary . Just came across this small new YouTube channel from an ex-Apple, Google, Nike graphics designer.",
+   "section": "crowdsourced",
+   "recommender": "Teo (reader)"
+  },
+  {
+   "id": "2025-04-20-his-first-video",
+   "name": "His ‘first’ video",
+   "url": "https://www.youtube.com/watch?v=-2uwy4MDZ_M",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "SuprOrdinary . Just came across this small new YouTube channel from an ex-Apple, Google, Nike graphics designer.",
+   "section": "crowdsourced",
+   "recommender": "Teo (reader)"
+  },
+  {
+   "id": "2025-04-20-antinote",
+   "name": "Antinote",
+   "url": "https://antinote.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Came across yet another note taking app, Antinote . But this one is different: it’s Mac only, which means no syncing, but it’s a great place to jot down quick notes from meetings.",
+   "section": "crowdsourced",
+   "recommender": "Eddy (reader)"
+  },
+  {
+   "id": "2025-04-20-mobland",
+   "name": "MobLand",
+   "url": "https://www.themoviedb.org/tv/247718-mobland",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Watching MobLand on Paramount Plus, and for an Irish man Pierce Brosnan’s Irish accent is every bit as bad as Tom Cruise’s Irish accent in Far and Away (I’m an Irish man).",
+   "section": "crowdsourced",
+   "recommender": "Kenny (reader)"
+  },
+  {
+   "id": "2025-04-20-far-and-away",
+   "name": "Far and Away",
+   "url": "https://www.themoviedb.org/movie/11259-far-and-away",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Watching MobLand on Paramount Plus, and for an Irish man Pierce Brosnan’s Irish accent is every bit as bad as Tom Cruise’s Irish accent in Far and Away (I’m an Irish man).",
+   "section": "crowdsourced",
+   "recommender": "Kenny (reader)"
+  },
+  {
+   "id": "2025-04-20-ouros",
+   "name": "Ouros",
+   "url": "https://ouros-game.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been playing Ouros , a relaxing and colorful puzzle game about Bézier curves. Well worth the purchase price.",
+   "section": "crowdsourced",
+   "recommender": "Daniel (reader)"
+  },
+  {
+   "id": "2025-04-20-runna",
+   "name": "Runna",
+   "url": "https://www.runna.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Runna is one of those apps that just keeps appearing in my inbox. I know a lot of folks like using it over other running apps, because its training plans and interface are so good.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-20-fantasy-hike",
+   "name": "Fantasy Hike",
+   "url": "https://forge7.net/fantasyhike/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Personally, I’m still over here staring at Fantasy Hike all day. My progress is slow, but gosh the app is nice.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

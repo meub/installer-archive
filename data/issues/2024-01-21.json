@@ -1,0 +1,447 @@
+{
+ "schema": 1,
+ "date": "2024-01-21",
+ "post_type": "issue",
+ "title": "A new spin on a powerful calendar app",
+ "url": "https://www.theverge.com/24044630/notion-calendar-samsung-s24-prince-persia-after-midnight-installer-newsletter",
+ "author": "David Pierce",
+ "number": 22,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:37+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-01-21-the-unbearable-sameness-of-coffee-shops",
+   "name": "the unbearable sameness of coffee shops",
+   "url": "https://www.theguardian.com/news/2024/jan/16/the-tyranny-of-the-algorithm-why-every-coffee-shop-looks-the-same",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the unbearable sameness of coffee shops and what happened to Twitch , testing out the Funnel iOS app for quick-capturing everything, marveling over Federico Viticci’s truly wild iPad setup , setting up my Flipboard all over again now that Artifact is dead …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-21-what-happened-to-twitch",
+   "name": "what happened to Twitch",
+   "url": "https://www.fastcompany.com/91010966/how-twitch-lost-its-way",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the unbearable sameness of coffee shops and what happened to Twitch , testing out the Funnel iOS app for quick-capturing everything, marveling over Federico Viticci’s truly wild iPad setup , setting up my Flipboard all over again now that Artifact is dead …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-21-the-funnel-ios-app",
+   "name": "the Funnel iOS app",
+   "url": "https://www.notesightlabs.com/funnel",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the unbearable sameness of coffee shops and what happened to Twitch , testing out the Funnel iOS app for quick-capturing everything, marveling over Federico Viticci’s truly wild iPad setup , setting up my Flipboard all over again now that Artifact is dead …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-21-federico-viticcis-truly-wild-ipad-setup",
+   "name": "Federico Viticci’s truly wild iPad setup",
+   "url": "https://www.macstories.net/ipad/how-i-modded-my-ipad-pro-with-a-screen-protector-iphone-holder-and-magnetic-stereo-speakers/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the unbearable sameness of coffee shops and what happened to Twitch , testing out the Funnel iOS app for quick-capturing everything, marveling over Federico Viticci’s truly wild iPad setup , setting up my Flipboard all over again now that Artifact is dead …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-21-artifact-is-dead",
+   "name": "Artifact is dead",
+   "url": "https://medium.com/artifact-news/shutting-down-artifact-1e70de46d419",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the unbearable sameness of coffee shops and what happened to Twitch , testing out the Funnel iOS app for quick-capturing everything, marveling over Federico Viticci’s truly wild iPad setup , setting up my Flipboard all over again now that Artifact is dead …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-21-this-list-of-great-new-snacks",
+   "name": "this list of great new snacks",
+   "url": "https://foxtrotco.com/aisle/2023-up-comer-winners-finalist/1769",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the unbearable sameness of coffee shops and what happened to Twitch , testing out the Funnel iOS app for quick-capturing everything, marveling over Federico Viticci’s truly wild iPad setup , setting up my Flipboard all over again now that Artifact is dead …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-21-sofa",
+   "name": "Sofa",
+   "url": "https://www.sofahq.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the unbearable sameness of coffee shops and what happened to Twitch , testing out the Funnel iOS app for quick-capturing everything, marveling over Federico Viticci’s truly wild iPad setup , setting up my Flipboard all over again now that Artifact is dead …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-21-behind-the-scenes-jon-bellion-video",
+   "name": "behind-the-scenes Jon Bellion video",
+   "url": "https://www.youtube.com/watch?v=_dN6SfmkLhI",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about the unbearable sameness of coffee shops and what happened to Twitch , testing out the Funnel iOS app for quick-capturing everything, marveling over Federico Viticci’s truly wild iPad setup , setting up my Flipboard all over again now that Artifact is dead …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-21-the-samsung-galaxy-s24",
+   "name": "The Samsung Galaxy S24",
+   "url": "https://howl.me/clsj4UezIVj",
+   "alt_urls": [
+    "https://www.theverge.com/2024/1/17/24040715/samsung-galaxy-s24-ultra-specs-price-ai",
+    "https://www.theverge.com/2024/1/17/24040372/samsung-galaxy-s24-plus-price-release-date-specs-features-ai-artificial-intelligence"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s a safe bet that this will be the best Android phone of the year. Samsung keeps pushing on camera specs, integrated AI (it has more Google AI than the Pixels!), and overall how enormous and expensive a phone can actually be.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-21-notion-calendar",
+   "name": "Notion Calendar",
+   "url": "https://www.notion.so/product/calendar",
+   "alt_urls": [
+    "https://www.theverge.com/2024/1/17/24041330/notion-calendar-app"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Cron was one of the best-looking calendar apps on the market, and when Notion acquired it in 2022, it was only a matter of time until the two platforms integrated more. Now, Cron is Notion Calendar , with deep database and notes integration.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-21-tidycal-3-0",
+   "name": "TidyCal 3.0",
+   "url": "https://tidycal.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "One more calendar thing: I’ve done a total 180 over the years, and I now prefer a Calendly-style “just put time on my calendar” email rather than a bunch of back and forth. TidyCal is a cheap and easy tool for just that, and it just got a nice redesign, too.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-21-prince-of-persia-the-lost-crown",
+   "name": "Prince of Persia: The Lost Crown",
+   "url": "https://www.ubisoft.com/en-us/game/prince-of-persia/the-lost-crown",
+   "alt_urls": [
+    "https://www.theverge.com/24035933/prince-of-persia-the-lost-crown-review-ubisoft"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Two weeks into 2024, and already a strong Game of the Year contender! The praise for this side-scroller has been pretty much universal . It’s a good mix of difficult and doable, old structures and new ways of doing stuff. And lots and lots of fighting.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-21-ayaneos-mini-pc-am02",
+   "name": "Ayaneo’s Mini PC AM02",
+   "url": "https://www.indiegogo.com/projects/ayaneo-am02-7840hs-retro-mini-pc-with-a-4-screen",
+   "alt_urls": [
+    "https://www.theverge.com/2023/11/28/23979860/ayaneo-am01-mini-pc-amd-windows-price-release-date"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I have Ayaneo’s Macintosh-looking AM01 sitting on my desk right now, and it’s delightful. The AM02 looks like an old-school Nintendo console, and I think I like it even more. These are cheap, simple PCs for light gaming or simple tasks, and the aesthetics are just on point.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-21-the-dji-mic-2",
+   "name": "The DJI Mic 2",
+   "url": "https://store.dji.com/product/dji-mic-2?vid=161301",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I think microphones might be the best thing DJI makes? The drones are great, yeah yeah, but these are some surprisingly high-end mobile mics that any creator or podcaster might want to add to their kit.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-21-after-midnight",
+   "name": "After Midnight",
+   "url": "https://www.youtube.com/watch?v=3RI5tgjjwTA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I was nervous about the “the whole thing is a game show” shtick for Taylor Tomlinson’s new late-night show, but the first episode totally works — Tomlinson is super funny and a good host, the whole show is bonkers in a fun way, and outside of the first-episode weirdness you always get, I’m bullish…",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-21-the-bose-ultra-open-earbuds",
+   "name": "The Bose Ultra Open Earbuds",
+   "url": "https://kith.com/blogs/kith/kith-for-bose",
+   "alt_urls": [
+    "https://www.theverge.com/2024/1/18/24042265/bose-kith-ultra-open-earbuds-price-design"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been increasingly replacing my AirPods with the Ray-Ban Meta glasses because I listen to too many podcasts, and shoving anything into my ear canals hurts after a while. These are a clever — if expensive, at $300 — workaround: high-end earbuds that clip to your ears instead of resting in them.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-21-superhuman-ai",
+   "name": "Superhuman AI",
+   "url": "https://superhuman.com/ai",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m convinced that “write my boring, repetitive business-speak emails for me” is the best current use for AI. And Superhuman’s doing it really nicely — you just sort of sketch out your idea for an email, and boom, it writes it for you. Is it great prose? No. But it’s email! Who cares!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-21-plants-vs-zombies-3",
+   "name": "Plants vs. Zombies 3",
+   "url": "https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-3/news/soft-launch-announcement",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I honestly forgot about this game, one of the silliest and most fun early mobile games. And now it’s back! I’m not wild about it embracing microtransactions, and it’s not available everywhere yet, but I’m confident I’ll lose a lot of hours in PvZ3 before too long.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-21-iphone-13-pro-max-with-probably-better-battery-h",
+   "name": "iPhone 13 Pro Max (with probably better battery health than all y’all’s 15 Pros)",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 13 Pro Max (with probably better battery health than all y’all’s 15 Pros).",
+   "section": "screen-share",
+   "recommender": "Vjeran"
+  },
+  {
+   "id": "2024-01-21-before-watchmen",
+   "name": "Before Watchmen",
+   "url": "https://www.dc.com/graphic-novels/before-watchmen-2012/before-watchmen-omnibus",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently drove by a pretty amazing comic book store near Chico, California. I ended up buying some new and old comic books, including Before Watchmen and Something Is Killing the Children , which I also found out has been picked up by Netflix.",
+   "section": "screen-share",
+   "recommender": "Vjeran"
+  },
+  {
+   "id": "2024-01-21-something-is-killing-the-children",
+   "name": "Something Is Killing the Children",
+   "url": "https://www.boom-studios.com/series/something-killing-children/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently drove by a pretty amazing comic book store near Chico, California. I ended up buying some new and old comic books, including Before Watchmen and Something Is Killing the Children , which I also found out has been picked up by Netflix.",
+   "section": "screen-share",
+   "recommender": "Vjeran"
+  },
+  {
+   "id": "2024-01-21-insta360-ace",
+   "name": "Insta360 Ace",
+   "url": "https://store.insta360.com/product/ace-pro?i_source=website&i_medium=product_page_button&i_campaign=ace-pro&_gl=1*tf11gq*_ga*Mjg0MTcxOTUwLjE3MDU2OTA3OTQ.*_ga_7TV2BE92TS*MTcwNTY5MDc5My4xLjEuMTcwNTY5MDgwOS40NC4wLjA.",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently drove by a pretty amazing comic book store near Chico, California. I ended up buying some new and old comic books, including Before Watchmen and Something Is Killing the Children , which I also found out has been picked up by Netflix.",
+   "section": "screen-share",
+   "recommender": "Vjeran"
+  },
+  {
+   "id": "2024-01-21-the-x-files",
+   "name": "The X-Files",
+   "url": "https://www.themoviedb.org/tv/4087-the-x-files?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I recently drove by a pretty amazing comic book store near Chico, California. I ended up buying some new and old comic books, including Before Watchmen and Something Is Killing the Children , which I also found out has been picked up by Netflix.",
+   "section": "screen-share",
+   "recommender": "Vjeran"
+  },
+  {
+   "id": "2024-01-21-crazy-ex-girlfriend",
+   "name": "Crazy Ex-Girlfriend",
+   "url": "https://www.themoviedb.org/tv/63161-crazy-ex-girlfriend",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "If you’re into romcoms, musicals, cringe, and honest portrayals of mental health issues, you probably want to see Crazy Ex-Girlfriend . The only show where I’ve screamed “Nooooooo!” “That’s not trueeee!” or “Don’t do itttt!” multiple times in each episode.",
+   "section": "crowdsourced",
+   "recommender": "Xyan (reader)"
+  },
+  {
+   "id": "2024-01-21-mr-bates-vs-the-post-office",
+   "name": "Mr Bates vs The Post Office",
+   "url": "https://www.themoviedb.org/tv/241100-mr-bates-vs-the-post-office",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Mr Bates vs The Post Office ! A fantastic show that has brought attention to a great injustice that was done to postal workers in the UK in the early 2000s!",
+   "section": "crowdsourced",
+   "recommender": "Jason (reader)"
+  },
+  {
+   "id": "2024-01-21-playpilot",
+   "name": "PlayPilot",
+   "url": "https://www.playpilot.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "PlayPilot is pretty much my go-to site for finding out where movies are streaming (or not). We save the stuff we want to see in there and then roll through the services over the year. I just wish they were integrated with LG TVs…",
+   "section": "crowdsourced",
+   "recommender": "Robert (reader)"
+  },
+  {
+   "id": "2024-01-21-the-pale-beyond",
+   "name": "The Pale Beyond",
+   "url": "https://store.steampowered.com/app/1266030/The_Pale_Beyond/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I’ve been digging into The Pale Beyond on Steam, and it’s a really evocative, desperate little narrative resource management game.",
+   "section": "crowdsourced",
+   "recommender": "Jordan (reader)"
+  },
+  {
+   "id": "2024-01-21-unexplainable",
+   "name": "Unexplainable",
+   "url": "https://www.vox.com/unexplainable",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Disclosure: Vox Media is a parent company of The Verge . That said, Unexplainable is such a great podcast. Huge variety of topics. Each episode is short enough to keep me from losing interest yet still manages to pack in a ton of info and be interesting. I learn so much!”",
+   "section": "crowdsourced",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-21-structured",
+   "name": "Structured",
+   "url": "https://structured.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I tried adding Structured to my productivity stack for the new semester, and even though it didn’t stick for me (I’ve got too much structured time that lives in GCal, it turns out), it’s very pretty and fairly full-featured.",
+   "section": "crowdsourced",
+   "recommender": "Ainslee (reader)"
+  },
+  {
+   "id": "2024-01-21-holedown",
+   "name": "Holedown",
+   "url": "https://holedown.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m always looking out for iOS games I can play while listening to podcasts. They should be ‘mindless’ and preferably playable in bits while stuck in traffic. The game Holedown always filled that hole for me (no pun intended).",
+   "section": "crowdsourced",
+   "recommender": "Mustapha (reader)"
+  },
+  {
+   "id": "2024-01-21-finity",
+   "name": "Finity",
+   "url": "https://apps.apple.com/us/app/finity/id1071698434",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "I’m always looking out for iOS games I can play while listening to podcasts. They should be ‘mindless’ and preferably playable in bits while stuck in traffic. The game Holedown always filled that hole for me (no pun intended).",
+   "section": "crowdsourced",
+   "recommender": "Mustapha (reader)"
+  },
+  {
+   "id": "2024-01-21-clear",
+   "name": "Clear",
+   "url": "https://www.useclear.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Clear is back, and it looks stunning. And for those at home, there are collectibles: themes, icons, sounds, etc.” – Austin (Austin also sent their referral link , which gets everybody free stuff. Yay, free stuff!)",
+   "section": "crowdsourced",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-21-their-referral-link",
+   "name": "their referral link",
+   "url": "https://app.useclear.com/refer/2WZ7BR",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Clear is back, and it looks stunning. And for those at home, there are collectibles: themes, icons, sounds, etc.” – Austin (Austin also sent their referral link , which gets everybody free stuff. Yay, free stuff!)",
+   "section": "crowdsourced",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-21-blue-eye-samurai",
+   "name": "Blue Eye Samurai",
+   "url": "https://www.themoviedb.org/tv/225180-blue-eye-samurai",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Blue Eye Samurai on Netflix is a great show. It’s about an outcast in feudal Japan after they closed themselves off from the rest of the world. Four white men remain in Japan in secret, and the outcast vows to kill them in revenge because being mixed race is a problem in their society.",
+   "section": "crowdsourced",
+   "recommender": "Joseph (reader)"
+  },
+  {
+   "id": "2024-01-21-a-great-video-from-a-competitor",
+   "name": "a great video from a competitor",
+   "url": "https://www.youtube.com/watch?v=8_Hm9jrC1BQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "There are two genres of video I will always watch no matter the subject: videos about people who are really good at something explaining how they do it, and videos about super-niche competitions that people care deeply about.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-21-the-full-five-hour-livestream-of-the-event",
+   "name": "the full five-hour livestream of the event",
+   "url": "https://www.youtube.com/watch?v=oENLR-b74cg",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "There are two genres of video I will always watch no matter the subject: videos about people who are really good at something explaining how they do it, and videos about super-niche competitions that people care deeply about.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

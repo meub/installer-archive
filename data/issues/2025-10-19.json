@@ -1,0 +1,488 @@
+{
+ "schema": 1,
+ "date": "2025-10-19",
+ "post_type": "issue",
+ "title": "Time to catch ‘em all again",
+ "url": "https://www.theverge.com/tech/801870/pokemon-legends-za-apple-m5-macbook-scorsese-installer",
+ "author": "David Pierce",
+ "number": 102,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:39+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-10-19-personal-chefs",
+   "name": "personal chefs",
+   "url": "https://www.nytimes.com/athletic/6696238/2025/10/14/premier-league-personal-chefs/?source=dailyemail&campaign=601983&userId=10812050&source=dailyemail&__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about personal chefs and TikTok’s algorithm and deep sea divers , tearing through Cory Doctorow’s fabulous Enshittification book, helping curate the wonderful Sunday Long Read newsletter, becoming surprising emotional during the final WTF episode , trying to convince my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-19-tiktoks-algorithm",
+   "name": "TikTok’s algorithm",
+   "url": "https://www.washingtonpost.com/wellness/interactive/2025/tiktok-addiction-algorithm-scrolling-mental-health/?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about personal chefs and TikTok’s algorithm and deep sea divers , tearing through Cory Doctorow’s fabulous Enshittification book, helping curate the wonderful Sunday Long Read newsletter, becoming surprising emotional during the final WTF episode , trying to convince my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-19-deep-sea-divers",
+   "name": "deep sea divers",
+   "url": "https://www.outsideonline.com/outdoor-adventure/water-activities/raising-dead/?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about personal chefs and TikTok’s algorithm and deep sea divers , tearing through Cory Doctorow’s fabulous Enshittification book, helping curate the wonderful Sunday Long Read newsletter, becoming surprising emotional during the final WTF episode , trying to convince my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-19-enshittification",
+   "name": "Enshittification",
+   "url": "https://us.macmillan.com/books/9780374619329/enshittification/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about personal chefs and TikTok’s algorithm and deep sea divers , tearing through Cory Doctorow’s fabulous Enshittification book, helping curate the wonderful Sunday Long Read newsletter, becoming surprising emotional during the final WTF episode , trying to convince my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-19-sunday-long-read",
+   "name": "Sunday Long Read",
+   "url": "https://sundaylongread.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about personal chefs and TikTok’s algorithm and deep sea divers , tearing through Cory Doctorow’s fabulous Enshittification book, helping curate the wonderful Sunday Long Read newsletter, becoming surprising emotional during the final WTF episode , trying to convince my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-19-final-wtf-episode",
+   "name": "final WTF episode",
+   "url": "https://www.wtfpod.com/podcast/episode-1686-barack-obama",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about personal chefs and TikTok’s algorithm and deep sea divers , tearing through Cory Doctorow’s fabulous Enshittification book, helping curate the wonderful Sunday Long Read newsletter, becoming surprising emotional during the final WTF episode , trying to convince my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-19-the-twits",
+   "name": "The Twits",
+   "url": "https://www.themoviedb.org/movie/927254-the-twits?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about personal chefs and TikTok’s algorithm and deep sea divers , tearing through Cory Doctorow’s fabulous Enshittification book, helping curate the wonderful Sunday Long Read newsletter, becoming surprising emotional during the final WTF episode , trying to convince my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-19-how-the-nato-phonetic-alphabet-works",
+   "name": "how the NATO phonetic alphabet works",
+   "url": "https://www.youtube.com/watch?v=UAT-eOzeY4M",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about personal chefs and TikTok’s algorithm and deep sea divers , tearing through Cory Doctorow’s fabulous Enshittification book, helping curate the wonderful Sunday Long Read newsletter, becoming surprising emotional during the final WTF episode , trying to convince my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-19-pokemon-legends-z-a",
+   "name": "Pokémon Legends: Z-A",
+   "url": "https://legends.pokemon.com/en-us",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A good new Pokémon game! It’s been too long since we had one. A lot of people are mad at how long the tutorial lasts, and the new mechanics seem to take some getting used to, but there’s a lot to like about the new world and new system.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-19-apples-m5-macbook-pro",
+   "name": "Apple’s M5 MacBook Pro",
+   "url": "https://www.apple.com/macbook-pro/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Apple released a bunch of M5-powered gear this week, but the best place to put all that power is pretty clearly in Apple’s high-end laptop. I’ve been a very happy M4 owner for a while now, and I suspect a lot of people will love this upgrade.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-19-splinter-cell-deathwatch",
+   "name": "Splinter Cell: Deathwatch",
+   "url": "https://www.themoviedb.org/tv/127366-splinter-cell?language=en-US",
+   "alt_urls": [
+    "https://www.themoviedb.org/tv/106379-fallout?language=en-US",
+    "https://www.themoviedb.org/tv/100088-the-last-of-us?language=en-US"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "TV shows based on video games: usually (but not always ) pretty bad! The vibe on this one seems to be “pretty good, but if you’re a Splinter Cell obsessive it might drive you nuts in spots.” I am not. I like my chances.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-19-raycast-for-ios",
+   "name": "Raycast for iOS",
+   "url": "https://www.raycast.com/ios",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Version 1.1 is the Raycast mobile app I’ve been waiting for: a keyboard that works across apps and lets you access snippets and links, chat with AI, and take notes. Third-party iOS keyboards haven’t always worked great, but I’m liking this so far.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-19-mr-scorsese",
+   "name": "Mr. Scorsese",
+   "url": "https://www.themoviedb.org/tv/292130-mr-scorsese",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Very few people have lived and succeeded through as many Hollywood eras as Martin Scorsese. I’ve only seen a bit of this five-part Apple TV series about his life and work, but I’m already impressed with how deep it is.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-19-hitman-absolution",
+   "name": "Hitman: Absolution",
+   "url": "https://ioi.dk/hitman-absolution",
+   "alt_urls": [
+    "https://apps.apple.com/us/app/hitman-absolution/id6737513240",
+    "https://play.google.com/store/apps/details?id=com.feralinteractive.hitmanabsolution_android&hl=en_US"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "All the Hitman titles are sort of action games, sort of puzzle games, and pretty much all very fun. This one’s a really old game — from 2012! — but the news is that it’s now on iOS and Android . I’ve only played a little, but it actually works pretty well on the small screen.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-19-the-kobo-remote",
+   "name": "The Kobo Remote",
+   "url": "https://us.kobobooks.com/products/kobo-remote",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "There are a lot of page-turner remotes out there, but they’re mostly hacky and require attaching a mechanical thing to your e-reader. Super smart of Kobo to make one that works over Bluetooth and doesn’t get in the way.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-19-i-played-every-first-person-shooter-ever-made-in",
+   "name": "I played EVERY first-person shooter ever made in Japan",
+   "url": "https://www.youtube.com/watch?v=F80Cl6WzBNo",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ I played EVERY first-person shooter ever made in Japan .” I confess, I did not watch every second of this 2.5-hour YouTube tour through shooter game history.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-19-ball-x-pit",
+   "name": "Ball x Pit",
+   "url": "https://www.ballxpit.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is a smorgasbord of video game ideas that all seem to add up to something both relatively simple — a ball-shooting, level-clearing game — and wildly, even overly complex. I’m going to end up playing a lot of this.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-19-1929-inside-the-greatest-crash-in-wall-street-hi",
+   "name": "1929: Inside the Greatest Crash in Wall Street History—and How It Shattered a Nation",
+   "url": "https://www.penguinrandomhouse.com/books/665634/1929-by-andrew-ross-sorkin/",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=26WMF7Xdb0E"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Andrew Ross Sorkin’s book is technically about events from a hundred years ago, but my goodness does it rhyme with what’s happening in AI, on Wall Street, and all over America. If you want a good teaser, Sorkin was good on 60 Minutes last weekend.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-19-pixel-7",
+   "name": "Pixel 7",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: Pixel 7",
+   "section": "screen-share",
+   "recommender": "Terrence"
+  },
+  {
+   "id": "2025-10-19-minimalist-phone",
+   "name": "Minimalist Phone",
+   "url": "https://www.minimalistphone.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My homescreen is called Minimalist Phone . I’m trying to spend less time staring at a screen in general, but especially my phone. I wanted to do my best to recreate the experience of a Light Phone or something similar, without having to give up things like RCS or ticketing apps.",
+   "section": "screen-share",
+   "recommender": "Terrence"
+  },
+  {
+   "id": "2025-10-19-obsidian",
+   "name": "Obsidian",
+   "url": "https://obsidian.md/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Obsidian is there for purely reference purposes (recipes, combination lock codes I can never remember, etc.). While the desktop app is incredible, the mobile interface is slow and kind of terrible. For actual note-taking on the go, I much prefer a Field Notes pocket notebook and a pen.",
+   "section": "screen-share",
+   "recommender": "Terrence"
+  },
+  {
+   "id": "2025-10-19-readwises-reader",
+   "name": "Readwise’s Reader",
+   "url": "https://readwise.io/read",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Obsidian is there for purely reference purposes (recipes, combination lock codes I can never remember, etc.). While the desktop app is incredible, the mobile interface is slow and kind of terrible. For actual note-taking on the go, I much prefer a Field Notes pocket notebook and a pen.",
+   "section": "screen-share",
+   "recommender": "Terrence"
+  },
+  {
+   "id": "2025-10-19-welcome-to-night-vale",
+   "name": "Welcome to Night Vale",
+   "url": "https://www.welcometonightvale.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have rediscovered my love of Welcome to Night Vale , a fiction podcast that basically presents Lovecraftian horrors as mundane community radio updates. It’s both funny and spooky in equal measure.",
+   "section": "screen-share",
+   "recommender": "Terrence"
+  },
+  {
+   "id": "2025-10-19-hainbach",
+   "name": "Hainbach",
+   "url": "https://www.youtube.com/@Hainbach",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I have rediscovered my love of Welcome to Night Vale , a fiction podcast that basically presents Lovecraftian horrors as mundane community radio updates. It’s both funny and spooky in equal measure.",
+   "section": "screen-share",
+   "recommender": "Terrence"
+  },
+  {
+   "id": "2025-10-19-r-pitbulls",
+   "name": "r/pitbulls",
+   "url": "https://www.reddit.com/r/pitbulls/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have rediscovered my love of Welcome to Night Vale , a fiction podcast that basically presents Lovecraftian horrors as mundane community radio updates. It’s both funny and spooky in equal measure.",
+   "section": "screen-share",
+   "recommender": "Terrence"
+  },
+  {
+   "id": "2025-10-19-r-pitbulls-in-partyhats",
+   "name": "r/pitbulls_in_partyhats",
+   "url": "https://www.reddit.com/r/pitbulls_in_partyhats/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have rediscovered my love of Welcome to Night Vale , a fiction podcast that basically presents Lovecraftian horrors as mundane community radio updates. It’s both funny and spooky in equal measure.",
+   "section": "screen-share",
+   "recommender": "Terrence"
+  },
+  {
+   "id": "2025-10-19-r-pittiesandkitties",
+   "name": "r/PittiesAndKitties",
+   "url": "https://www.reddit.com/r/PittiesAndKitties/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have rediscovered my love of Welcome to Night Vale , a fiction podcast that basically presents Lovecraftian horrors as mundane community radio updates. It’s both funny and spooky in equal measure.",
+   "section": "screen-share",
+   "recommender": "Terrence"
+  },
+  {
+   "id": "2025-10-19-dilla-time",
+   "name": "Dilla Time",
+   "url": "https://dillati.me/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just finished Dan Charnas’ biography of J Dilla, Dilla Time , which was amazing — not just as a biography but as a cultural history detailing the technological developments that enabled hip-hop producers to make beats in new ways.",
+   "section": "crowdsourced",
+   "recommender": "Jake (reader)"
+  },
+  {
+   "id": "2025-10-19-task",
+   "name": "Task",
+   "url": "https://www.themoviedb.org/tv/228305-task?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Task on HBO is an enjoyable miniseries. Looking forward to the finale next week.",
+   "section": "crowdsourced",
+   "recommender": "Ibuqun (reader)"
+  },
+  {
+   "id": "2025-10-19-hades-2",
+   "name": "Hades 2",
+   "url": "https://www.supergiantgames.com/games/hades-ii",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Hades 2 has similarly consumed my gaming time in the same way Hades did five years ago. The sequel somehow improves on a game that, for me, was almost flawless and I thought could not get any better. And yet…",
+   "section": "crowdsourced",
+   "recommender": "Nick (reader)"
+  },
+  {
+   "id": "2025-10-19-pikapods",
+   "name": "PikaPods",
+   "url": "https://www.pikapods.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "PikaPods hosts and manages instances of open-source software for pretty cheap. I migrated from Google Photos to a PhotoPrism instance. Been using it for over 4 years with no issues and zero maintenance.",
+   "section": "crowdsourced",
+   "recommender": "Luke (reader)"
+  },
+  {
+   "id": "2025-10-19-photoprism",
+   "name": "PhotoPrism",
+   "url": "https://www.photoprism.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "PikaPods hosts and manages instances of open-source software for pretty cheap. I migrated from Google Photos to a PhotoPrism instance. Been using it for over 4 years with no issues and zero maintenance.",
+   "section": "crowdsourced",
+   "recommender": "Luke (reader)"
+  },
+  {
+   "id": "2025-10-19-donkey-kong-country",
+   "name": "Donkey Kong Country",
+   "url": "https://en.wikipedia.org/wiki/Donkey_Kong_Country",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Playing Donkey Kong Country on my Miyoo Mini Plus has been a fun way to relax in the first few weeks with my newborn daughter, Amelia! Something cozy and comforting about retro games and transparent tech!",
+   "section": "crowdsourced",
+   "recommender": "Dylan (reader)"
+  },
+  {
+   "id": "2025-10-19-miyoo-mini-plus",
+   "name": "Miyoo Mini Plus",
+   "url": "https://officialmiyoomini.com/product-category/miyoo-mini-plus/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Playing Donkey Kong Country on my Miyoo Mini Plus has been a fun way to relax in the first few weeks with my newborn daughter, Amelia! Something cozy and comforting about retro games and transparent tech!",
+   "section": "crowdsourced",
+   "recommender": "Dylan (reader)"
+  },
+  {
+   "id": "2025-10-19-topsider-bifold-lt",
+   "name": "Topsider Bifold LT",
+   "url": "https://www.osleather.com/product-page/topsider-bifold-lt",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just found my perfect wallet, and I need to share it: the Topsider Bifold LT . It is small, it is beautiful, it is handmade in Hawaii, smells great (not that this was in the list of a wallet needed to have), and it’s fully customizable: I got an Olmo Pueblo with Olive Pueblo for primary and…",
+   "section": "crowdsourced",
+   "recommender": "Felipe (reader)"
+  },
+  {
+   "id": "2025-10-19-video",
+   "name": "video",
+   "url": "https://www.youtube.com/watch?v=UIjhF4JYkTA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I just found my perfect wallet, and I need to share it: the Topsider Bifold LT . It is small, it is beautiful, it is handmade in Hawaii, smells great (not that this was in the list of a wallet needed to have), and it’s fully customizable: I got an Olmo Pueblo with Olive Pueblo for primary and…",
+   "section": "crowdsourced",
+   "recommender": "Felipe (reader)"
+  },
+  {
+   "id": "2025-10-19-strange-antiquities",
+   "name": "Strange Antiquities",
+   "url": "https://www.iceberg-games.com/games/strange-antiquities/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Strange Antiquities ! incredible game in and out of spooky season.",
+   "section": "crowdsourced",
+   "recommender": "Allison (reader)"
+  },
+  {
+   "id": "2025-10-19-slow-horses",
+   "name": "Slow Horses",
+   "url": "https://www.themoviedb.org/tv/95480-slow-horses?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "My wife and I finally started watching Slow Horses and boy, what a show. Short, bingeable seasons that have great acting and writing. Each season feels different (in a good way) and reveals things in a very satisfying way. Highly recommended.",
+   "section": "crowdsourced",
+   "recommender": "Jonathan (reader)"
+  },
+  {
+   "id": "2025-10-19-johnny-decimal",
+   "name": "Johnny Decimal",
+   "url": "https://johnnydecimal.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A friend recommended the Johnny Decimal organization system a while back, and I finally got around to actually doing the process after I enjoyed reading the workbook itself. I’m super excited to finally wrangle my many, many lists into order.",
+   "section": "crowdsourced",
+   "recommender": "Laszlo (reader)"
+  },
+  {
+   "id": "2025-10-19-toniebox",
+   "name": "Toniebox",
+   "url": "https://us.tonies.com/pages/toniebox2",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "So my oldest kid is about to turn three, and I think we’re going to get him a Toniebox for his birthday. (Don’t tell him!) It’s a super cool idea: an audio player with these little toy-like cartridges that let kids choose what they want to listen to.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

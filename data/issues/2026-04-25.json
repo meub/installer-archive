@@ -1,0 +1,629 @@
+{
+ "schema": 1,
+ "date": "2026-04-25",
+ "post_type": "issue",
+ "title": "The most exciting laptop I’ve seen in forever",
+ "url": "https://www.theverge.com/tech/918695/framework-laptop-stranger-things-installer",
+ "author": "David Pierce",
+ "number": 125,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:40+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-04-25-nasa-seamstresses",
+   "name": "NASA seamstresses",
+   "url": "https://thereader.mitpress.mit.edu/the-bra-and-girdle-maker-that-fashioned-the-impossible-for-nasa/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about NASA seamstresses and friction and Muskism and scooters , highlighting the heck out of Jeff VanderMeer’s terrific new short story , listening to the Dissect podcast’s new season about Daft Punk, giving Firefox another run as my go-to browser, having my mind blown…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-friction",
+   "name": "friction",
+   "url": "https://www.newyorker.com/culture/essay/our-longing-for-inconvenience",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about NASA seamstresses and friction and Muskism and scooters , highlighting the heck out of Jeff VanderMeer’s terrific new short story , listening to the Dissect podcast’s new season about Daft Punk, giving Firefox another run as my go-to browser, having my mind blown…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-muskism",
+   "name": "Muskism",
+   "url": "https://lpeproject.org/blog/muskism-as-fordism/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about NASA seamstresses and friction and Muskism and scooters , highlighting the heck out of Jeff VanderMeer’s terrific new short story , listening to the Dissect podcast’s new season about Daft Punk, giving Firefox another run as my go-to browser, having my mind blown…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-scooters",
+   "name": "scooters",
+   "url": "https://macleans.ca/longforms/menace-on-the-streets/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about NASA seamstresses and friction and Muskism and scooters , highlighting the heck out of Jeff VanderMeer’s terrific new short story , listening to the Dissect podcast’s new season about Daft Punk, giving Firefox another run as my go-to browser, having my mind blown…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-jeff-vandermeers-terrific-new-short-story",
+   "name": "Jeff VanderMeer’s terrific new short story",
+   "url": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about NASA seamstresses and friction and Muskism and scooters , highlighting the heck out of Jeff VanderMeer’s terrific new short story , listening to the Dissect podcast’s new season about Daft Punk, giving Firefox another run as my go-to browser, having my mind blown…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-dissect",
+   "name": "Dissect",
+   "url": "https://linktr.ee/dissectpodcast",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about NASA seamstresses and friction and Muskism and scooters , highlighting the heck out of Jeff VanderMeer’s terrific new short story , listening to the Dissect podcast’s new season about Daft Punk, giving Firefox another run as my go-to browser, having my mind blown…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-firefox",
+   "name": "Firefox",
+   "url": "https://www.firefox.com/en-US/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about NASA seamstresses and friction and Muskism and scooters , highlighting the heck out of Jeff VanderMeer’s terrific new short story , listening to the Dissect podcast’s new season about Daft Punk, giving Firefox another run as my go-to browser, having my mind blown…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-amazing-music-video-directors",
+   "name": "amazing music video directors",
+   "url": "https://www.youtube.com/watch?v=pQB2mvUvROw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about NASA seamstresses and friction and Muskism and scooters , highlighting the heck out of Jeff VanderMeer’s terrific new short story , listening to the Dissect podcast’s new season about Daft Punk, giving Firefox another run as my go-to browser, having my mind blown…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-john-oliver-on-prediction-markets",
+   "name": "John Oliver on prediction markets",
+   "url": "https://www.youtube.com/watch?v=ZN4njIQcSR4",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about NASA seamstresses and friction and Muskism and scooters , highlighting the heck out of Jeff VanderMeer’s terrific new short story , listening to the Dissect podcast’s new season about Daft Punk, giving Firefox another run as my go-to browser, having my mind blown…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-the-framework-laptop-13-pro",
+   "name": "The Framework Laptop 13 Pro.",
+   "url": "https://frame.work/products/laptop13pro-diy-intel-ultra-3/configuration/new",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I love Framework’s whole thesis that computers should be more upgradeable and repairable. For the first time, it seems to have also made a laptop that is just really, really nice.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-the-framework-laptop-sleeve",
+   "name": "The Framework Laptop Sleeve",
+   "url": "https://frame.work/products/framework-laptop-sleeve?v=FRANJY0002",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I love a good laptop carrier, and this one — especially the silver model, which isn’t duct tape but looks just like duct tape — is an awesome one. It’s obviously designed for Framework gear, but should fit lots of other laptops too.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-stranger-things-tales-from-85",
+   "name": "Stranger Things: Tales from ‘85",
+   "url": "https://www.themoviedb.org/tv/224263-stranger-things-tales-from-85",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I feel obligated to tell you about this new animated Netflix show — because, you know, Stranger Things — even though by all accounts it’s really not very good. If you watch it anyway because you can’t get enough of the Hawkins gang, just know that I get it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-new-things",
+   "name": "New Things",
+   "url": "https://thenewthings.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Our good friend Joanna Stern just started her own newsletter / YouTube channel / whole thing, and it’s already delightful and extremely Joanna-y. Go subscribe! And keep an eye out, because we’re gonna get Joanna back in this space one way or another.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-extra",
+   "name": "Extra",
+   "url": "https://extra.email/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As I get worse and worse at maintaining my email inbox, I get more and more enticed by the possibility of managing it with AI. Using Extra requires a whole re-think of what your email is even for, but I’m finding it full of clever organizational ideas.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-memo-ai",
+   "name": "Memo AI",
+   "url": "https://noteplan.co/memo",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "These smart transcription apps are a dime a dozen now, but this one has a couple of things going for it. One, it’s made by the developer of NotePlan, which means it is thoughtfully designed and really clever. Two, it’s fast.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-vampire-crawlers",
+   "name": "Vampire Crawlers",
+   "url": "https://poncle.games/vampire-crawlers",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Every once in a while, all of my gamer friends fall of the face of the Earth for a few days, because they’re all obsessed with some new title. It’s happening right now, and it’s all because of this extremely addictive, retro-styled deckbuilder. I probably shouldn’t get into this game.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-the-govee-table-lamp-classic",
+   "name": "The Govee Table Lamp Classic",
+   "url": "https://www.amazon.com/Govee-Cordless-Classic-Rechargeable-Portable/dp/B0GLM9BBQT/?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "Half the power is currently out in my house, which has made this kind of product – a smart lamp that can either be plugged in or carried around — incredibly useful. In general, I’m finding Govee stuff to be almost as good as Hue, and way cheaper. Not a bad combo.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-claudes-spotify-connector",
+   "name": "Claude’s Spotify connector",
+   "url": "https://newsroom.spotify.com/2026-04-23/claude-integration/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If you’ve been skeptical or nervous about trying AI tools, here’s my advice: connect one to Spotify. (ChatGPT has had a connector for a while, Claude got it this week.) It’s such a fun, useful, surprising way to organize and discover music.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-iphone-17",
+   "name": "iPhone 17",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 17. I love the sage color, I am sort of annoyed that I’m still an iPhone user, but here we are.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-readwise-reader",
+   "name": "Readwise Reader",
+   "url": "https://readwise.io/read",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Some of these are staples: Readwise Reader , Pocket Casts , MyMind , and Arc are all apps I’ve used for a long time and am very happy with. The rest are all experimental in one way or another.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-pocket-casts",
+   "name": "Pocket Casts",
+   "url": "https://pocketcasts.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Some of these are staples: Readwise Reader , Pocket Casts , MyMind , and Arc are all apps I’ve used for a long time and am very happy with. The rest are all experimental in one way or another.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-mymind",
+   "name": "MyMind",
+   "url": "https://mymind.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Some of these are staples: Readwise Reader , Pocket Casts , MyMind , and Arc are all apps I’ve used for a long time and am very happy with. The rest are all experimental in one way or another.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-arc",
+   "name": "Arc",
+   "url": "https://arc.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Some of these are staples: Readwise Reader , Pocket Casts , MyMind , and Arc are all apps I’ve used for a long time and am very happy with. The rest are all experimental in one way or another.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-retro-bowl",
+   "name": "Retro Bowl",
+   "url": "https://www.newstargames.com/retro-bowl",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am a longtime fan of Retro Bowl , an essentially perfect mobile game, so of course I jumped on the college football game . I’m also a longtime fan of Coffee Golf , a fun game to play for a couple of minutes a day, and the pool-shooting version is just as satisfying.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-the-college-football-game",
+   "name": "the college football game",
+   "url": "https://www.newstargames.com/retro-bowl-college",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am a longtime fan of Retro Bowl , an essentially perfect mobile game, so of course I jumped on the college football game . I’m also a longtime fan of Coffee Golf , a fun game to play for a couple of minutes a day, and the pool-shooting version is just as satisfying.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-coffee-golf",
+   "name": "Coffee Golf",
+   "url": "https://apps.apple.com/us/app/coffee-golf/id6449750555",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "I am a longtime fan of Retro Bowl , an essentially perfect mobile game, so of course I jumped on the college football game . I’m also a longtime fan of Coffee Golf , a fun game to play for a couple of minutes a day, and the pool-shooting version is just as satisfying.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-pool-shooting-version",
+   "name": "pool-shooting version",
+   "url": "https://apps.apple.com/us/app/coffee-pool/id6737482186",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "I am a longtime fan of Retro Bowl , an essentially perfect mobile game, so of course I jumped on the college football game . I’m also a longtime fan of Coffee Golf , a fun game to play for a couple of minutes a day, and the pool-shooting version is just as satisfying.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-craft",
+   "name": "Craft",
+   "url": "https://www.craft.do/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As you can probably see, I’m in a bit of a productivity app crisis. Craft , Obsidian , Memo AI , Todoist , even Notion Calendar – I’ve been trying them all, and many more (like Workflowy , Twos , and NotePlan ) to see if I can find a new system that works.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-obsidian",
+   "name": "Obsidian",
+   "url": "https://obsidian.md/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As you can probably see, I’m in a bit of a productivity app crisis. Craft , Obsidian , Memo AI , Todoist , even Notion Calendar – I’ve been trying them all, and many more (like Workflowy , Twos , and NotePlan ) to see if I can find a new system that works.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-todoist",
+   "name": "Todoist",
+   "url": "https://www.todoist.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As you can probably see, I’m in a bit of a productivity app crisis. Craft , Obsidian , Memo AI , Todoist , even Notion Calendar – I’ve been trying them all, and many more (like Workflowy , Twos , and NotePlan ) to see if I can find a new system that works.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-notion-calendar",
+   "name": "Notion Calendar",
+   "url": "https://www.notion.com/product/calendar",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As you can probably see, I’m in a bit of a productivity app crisis. Craft , Obsidian , Memo AI , Todoist , even Notion Calendar – I’ve been trying them all, and many more (like Workflowy , Twos , and NotePlan ) to see if I can find a new system that works.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-workflowy",
+   "name": "Workflowy",
+   "url": "https://workflowy.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As you can probably see, I’m in a bit of a productivity app crisis. Craft , Obsidian , Memo AI , Todoist , even Notion Calendar – I’ve been trying them all, and many more (like Workflowy , Twos , and NotePlan ) to see if I can find a new system that works.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-twos",
+   "name": "Twos",
+   "url": "https://www.twosapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As you can probably see, I’m in a bit of a productivity app crisis. Craft , Obsidian , Memo AI , Todoist , even Notion Calendar – I’ve been trying them all, and many more (like Workflowy , Twos , and NotePlan ) to see if I can find a new system that works.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-noteplan",
+   "name": "NotePlan",
+   "url": "https://noteplan.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As you can probably see, I’m in a bit of a productivity app crisis. Craft , Obsidian , Memo AI , Todoist , even Notion Calendar – I’ve been trying them all, and many more (like Workflowy , Twos , and NotePlan ) to see if I can find a new system that works.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-dualshot-recorder",
+   "name": "DualShot Recorder",
+   "url": "https://dualshotrecorder.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Lastly, if you shoot a lot of video and you haven’t tried DualShot Recorder , change that ASAP. It captures horizontal and vertical video simultaneously, and is simple and fabulous whether you’re a content creator or just trying to get videos of your kids at the right aspect ratio.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-acme-weather",
+   "name": "Acme Weather",
+   "url": "https://acmeweather.com/app",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Oh, and the widgets: Notion Calendar is, you know, fine. Acme Weather is fantastic. It’s made by the folks who built Dark Sky, and it has the same ability to tell me everything I need to know — the weather, the chance of rain, the chance the forecast is wrong and actually it is going to rain — in…",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-earth-fm",
+   "name": "Earth.fm",
+   "url": "http://earth.fm",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m loving the Earth.fm app. Never felt like soundscape apps helped me focus or relax, but these nature field recordings are where it’s at for me. And it’s a beautiful app too!",
+   "section": "crowdsourced",
+   "recommender": "Ben (reader)"
+  },
+  {
+   "id": "2026-04-25-nvidia-geforce-now",
+   "name": "Nvidia GeForce Now",
+   "url": "https://www.nvidia.com/en-us/geforce-now/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I know I’m late to the party, but I’ve started using Nvidia GeForce Now — that thing is incredible on an iPad Pro.",
+   "section": "crowdsourced",
+   "recommender": "Jean-Francois (reader)"
+  },
+  {
+   "id": "2026-04-25-aviate",
+   "name": "Aviate",
+   "url": "https://www.aviate.to/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Check out the Aviate app for Android. It’s like Flighty but for Android. It’s in early access — beautiful design.",
+   "section": "crowdsourced",
+   "recommender": "Guarav (reader)"
+  },
+  {
+   "id": "2026-04-25-flighty",
+   "name": "Flighty",
+   "url": "https://flighty.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Check out the Aviate app for Android. It’s like Flighty but for Android. It’s in early access — beautiful design.",
+   "section": "crowdsourced",
+   "recommender": "Guarav (reader)"
+  },
+  {
+   "id": "2026-04-25-mike-nick-nick-alice",
+   "name": "Mike & Nick & Nick & Alice",
+   "url": "https://www.themoviedb.org/movie/1115544-mike-nick-nick-alice?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Absolutely loved Mike & Nick & Nick & Alice . One of my top movies this year. Hilarious and great action. There’s a 5 minute argument between grown men over who the best boyfriend on Gilmore Girls was. It’s Logan btw.",
+   "section": "crowdsourced",
+   "recommender": "Justin (reader)"
+  },
+  {
+   "id": "2026-04-25-aune-ac55",
+   "name": "Aune AC55",
+   "url": "https://www.aune-store.com/en/aune-ac55-open-back-clip-on-headphones-reference-class_110212_1277/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just picked up the Aune AC55 on-ear clip headphone recently and wanted to give a shout out that this headphone style is still out there rocking, didn’t actually fade away after the 90s/00s along with American Hi-Fi, and offers an excellent alternative (along with flathead earbuds) to large over-ear…",
+   "section": "crowdsourced",
+   "recommender": "Brian (reader)"
+  },
+  {
+   "id": "2026-04-25-koss-ksc75",
+   "name": "Koss KSC75",
+   "url": "https://koss.com/products/ksc75",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just picked up the Aune AC55 on-ear clip headphone recently and wanted to give a shout out that this headphone style is still out there rocking, didn’t actually fade away after the 90s/00s along with American Hi-Fi, and offers an excellent alternative (along with flathead earbuds) to large over-ear…",
+   "section": "crowdsourced",
+   "recommender": "Brian (reader)"
+  },
+  {
+   "id": "2026-04-25-enclose-horse",
+   "name": "enclose.horse",
+   "url": "https://enclose.horse/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Been playing enclose.horse for a few months now. Always enjoy it since it’s a quick daily game but not centered on words/letters.",
+   "section": "crowdsourced",
+   "recommender": "Peter (reader)"
+  },
+  {
+   "id": "2026-04-25-great-games-for-adults-with-no-time",
+   "name": "great games for adults with no time",
+   "url": "https://www.youtube.com/watch?v=PWJvpvEmcyw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Clayton Morris did a video on YouTube about great games for adults with no time . Really great recommendations. Vampire Survivors and Dredge in particular are great and both are included in Apple Arcade.",
+   "section": "crowdsourced",
+   "recommender": "Witzke (reader)"
+  },
+  {
+   "id": "2026-04-25-vampire-survivors",
+   "name": "Vampire Survivors",
+   "url": "https://poncle.games/vampire-survivors",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Clayton Morris did a video on YouTube about great games for adults with no time . Really great recommendations. Vampire Survivors and Dredge in particular are great and both are included in Apple Arcade.",
+   "section": "crowdsourced",
+   "recommender": "Witzke (reader)"
+  },
+  {
+   "id": "2026-04-25-dredge",
+   "name": "Dredge",
+   "url": "https://www.dredge.game/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Clayton Morris did a video on YouTube about great games for adults with no time . Really great recommendations. Vampire Survivors and Dredge in particular are great and both are included in Apple Arcade.",
+   "section": "crowdsourced",
+   "recommender": "Witzke (reader)"
+  },
+  {
+   "id": "2026-04-25-pica",
+   "name": "Pica",
+   "url": "https://pica.joshpuckett.me/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A new, fully native font manager called Pica for macOS dropped this week and us design nerds are freaking out about it.",
+   "section": "crowdsourced",
+   "recommender": "Pedro (reader)"
+  },
+  {
+   "id": "2026-04-25-space-design-warehouse",
+   "name": "Space Design Warehouse",
+   "url": "https://www.youtube.com/c/SPACEDESIGNWAREHOUSE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Space Design Warehouse is a phenomenal under the radar Mac YouTube Channel. The host Nicholas Johnson, will get as nerdy over specs and testing as you could want, while keeping it accessible and fun. Everybody episode features a Mac on fire and Dunkin’ Donuts, so not sure what else you could want.",
+   "section": "crowdsourced",
+   "recommender": "Clinton (reader)"
+  },
+  {
+   "id": "2026-04-25-epic-rap-battles-of-history",
+   "name": "Epic Rap Battles of History",
+   "url": "https://www.youtube.com/watch?v=NVbH1BVXywY",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The funniest thing has happened to my YouTube over the last few months. In the course of researching stories and Version History episodes, I’ve spent a lot of time watching really old YouTube videos — and this has evidently convinced the YouTube algorithm to send me more really old YouTube videos!",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-lonely-island-shorts",
+   "name": "Lonely Island shorts",
+   "url": "https://www.youtube.com/watch?v=vmd1qMN5Yo0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The funniest thing has happened to my YouTube over the last few months. In the course of researching stories and Version History episodes, I’ve spent a lot of time watching really old YouTube videos — and this has evidently convinced the YouTube algorithm to send me more really old YouTube videos!",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-jay-z-and-timbaland-in-the-studio",
+   "name": "Jay Z and Timbaland in the studio",
+   "url": "https://www.youtube.com/watch?v=aayZ9ybDTBw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The funniest thing has happened to my YouTube over the last few months. In the course of researching stories and Version History episodes, I’ve spent a lot of time watching really old YouTube videos — and this has evidently convinced the YouTube algorithm to send me more really old YouTube videos!",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-04-25-charlie-the-unicorn",
+   "name": "Charlie The Unicorn",
+   "url": "https://www.youtube.com/watch?v=Q5im0Ssyyus",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The funniest thing has happened to my YouTube over the last few months. In the course of researching stories and Version History episodes, I’ve spent a lot of time watching really old YouTube videos — and this has evidently convinced the YouTube algorithm to send me more really old YouTube videos!",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

@@ -1,0 +1,419 @@
+{
+ "schema": 1,
+ "date": "2025-11-23",
+ "post_type": "issue",
+ "title": "The app that will instantly improve your Windows PC",
+ "url": "https://www.theverge.com/tech/826971/raycast-kirby-comet-deadpool-vr-installer",
+ "author": "David Pierce",
+ "number": 106,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:39+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-11-23-prediction-markets",
+   "name": "prediction markets",
+   "url": "https://newsletters.feedbinusercontent.com/129/129c6658e20f55bfd6c061bf42ddf78b3e7930bf.html?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about prediction markets and Hilary Duff and Matt Belloni and yeast , clearing space for a Steam Machine , playing News Tower thanks to Stephen Totilo’s recommendation , checking to make sure I remember all the Wicked lyrics (I do, don’t worry) before seeing For Good …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-23-hilary-duff",
+   "name": "Hilary Duff",
+   "url": "https://www.vogue.com/article/hilary-duff-interview-mature-single",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about prediction markets and Hilary Duff and Matt Belloni and yeast , clearing space for a Steam Machine , playing News Tower thanks to Stephen Totilo’s recommendation , checking to make sure I remember all the Wicked lyrics (I do, don’t worry) before seeing For Good …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-23-matt-belloni",
+   "name": "Matt Belloni",
+   "url": "https://www.nytimes.com/2025/11/16/business/matthew-belloni-puck-hollywood.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about prediction markets and Hilary Duff and Matt Belloni and yeast , clearing space for a Steam Machine , playing News Tower thanks to Stephen Totilo’s recommendation , checking to make sure I remember all the Wicked lyrics (I do, don’t worry) before seeing For Good …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-23-yeast",
+   "name": "yeast",
+   "url": "https://linttrapofhistory.substack.com/p/how-fleischmanns-yeast-created-both?selection=503600d3-9662-4438-90b0-8625dee410f4&r=17xpx&triedRedirect=true",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "newsletter"
+   ],
+   "blurb": "This week, I’ve been reading about prediction markets and Hilary Duff and Matt Belloni and yeast , clearing space for a Steam Machine , playing News Tower thanks to Stephen Totilo’s recommendation , checking to make sure I remember all the Wicked lyrics (I do, don’t worry) before seeing For Good …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-23-steam-machine",
+   "name": "Steam Machine",
+   "url": "https://store.steampowered.com/sale/steammachine",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "This week, I’ve been reading about prediction markets and Hilary Duff and Matt Belloni and yeast , clearing space for a Steam Machine , playing News Tower thanks to Stephen Totilo’s recommendation , checking to make sure I remember all the Wicked lyrics (I do, don’t worry) before seeing For Good …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-23-news-tower",
+   "name": "News Tower",
+   "url": "https://www.sparrownight.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about prediction markets and Hilary Duff and Matt Belloni and yeast , clearing space for a Steam Machine , playing News Tower thanks to Stephen Totilo’s recommendation , checking to make sure I remember all the Wicked lyrics (I do, don’t worry) before seeing For Good …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-23-stephen-totilos-recommendation",
+   "name": "Stephen Totilo’s recommendation",
+   "url": "https://www.gamefile.news/p/news-tower-review",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about prediction markets and Hilary Duff and Matt Belloni and yeast , clearing space for a Steam Machine , playing News Tower thanks to Stephen Totilo’s recommendation , checking to make sure I remember all the Wicked lyrics (I do, don’t worry) before seeing For Good …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-23-for-good",
+   "name": "For Good",
+   "url": "https://www.themoviedb.org/movie/967941-wicked-for-good?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about prediction markets and Hilary Duff and Matt Belloni and yeast , clearing space for a Steam Machine , playing News Tower thanks to Stephen Totilo’s recommendation , checking to make sure I remember all the Wicked lyrics (I do, don’t worry) before seeing For Good …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-23-version-history",
+   "name": "Version History",
+   "url": "https://link.chtbl.com/versionhistory",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about prediction markets and Hilary Duff and Matt Belloni and yeast , clearing space for a Steam Machine , playing News Tower thanks to Stephen Totilo’s recommendation , checking to make sure I remember all the Wicked lyrics (I do, don’t worry) before seeing For Good …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-23-raycast-for-windows",
+   "name": "Raycast for Windows",
+   "url": "https://www.raycast.com/windows",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Raycast — a launcher, clipboard manager, shortcut system, and much more — is the first app I install on any new Mac. Now it’s finally on Windows, too!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-23-kirby-air-riders",
+   "name": "Kirby Air Riders",
+   "url": "https://www.nintendo.com/us/store/products/kirby-air-riders-switch-2/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I don’t think anyone expected this game, a Switch 2 sequel to a delightful but deeply weird GameCube title. It’s a racing game, and a battle game, and it doesn’t let you do very much but also seems to be totally filled with havoc and chaos all the time. Perfect combo, if you ask me.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-23-marvels-deadpool-vr",
+   "name": "Marvel’s Deadpool VR",
+   "url": "https://www.marvel.com/games/marvels-deadpool-vr",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I don’t remember the last time a new VR game caused me to actually get my Quest out of its charging stand. But this one, with Neil Patrick Harris voicing Deadpool and a lot of the same bonkers action energy as the movies, might just get me playing again.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-23-gemini-3",
+   "name": "Gemini 3",
+   "url": "https://gemini.google.com/app",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Google’s LLM appears to be among the best all-purpose models available right now, and you can use it practically everywhere. It’s in the app, it’s in Search, you can use it to make apps and visualizations and all sorts of things. Google… might be winning.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-23-the-samsung-smart-keyboard",
+   "name": "The Samsung Smart Keyboard",
+   "url": "https://www.samsung.com/us/mobile-accessories/samsung-smart-keyboard-dark-gray-sku-ej-b7800ubeguj/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A super light, super small keyboard is a sneaky great travel accessory — bring this and your phone or tablet, and you’ll be amazed how much you can get done in a pinch without needing your laptop.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-23-comet-for-android",
+   "name": "Comet for Android",
+   "url": "https://play.google.com/store/apps/details?id=ai.perplexity.comet&hl=en_US",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "All the AI browsers seem to start on Apple devices — and mostly just Macs — so it’s good to see them spreading out to the rest of the ecosystem. Quick summaries and answers are actually a killer use case for a mobile browser.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-23-the-american-revolution",
+   "name": "The American Revolution",
+   "url": "https://www.pbs.org/kenburns/the-american-revolution",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Ken Burns alert! And a timely one, at that, as Burns drops a 12-hour history lesson on how the USA was created. Even the bits I’ve seen are complex and bound to make some people mad — but nobody does this like Burns does it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-23-nasa-shares-interstellar-comet-3i-atlas-images",
+   "name": "NASA Shares Interstellar Comet 3I/ATLAS Images",
+   "url": "https://www.youtube.com/watch?v=A55SUq2eDXg",
+   "alt_urls": [
+    "https://science.nasa.gov/solar-system/view-interstellar-comet-3i-atlas-through-nasas-multiple-lenses/"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ NASA Shares Interstellar Comet 3I/ATLAS Images .” NBD, just a bunch of data and images about a comet traveling from another freaking solar system. This stream is an hour long but totally worth it, and there’s a great explainer on the NASA site too.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-23-the-analogue-3d",
+   "name": "The Analogue 3D",
+   "url": "https://www.analogue.co/3d",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have been waiting for this thing — an Analogue console based on the Nintendo 64 — for so long I had basically given up hoping it would ever ship. But now it’s shipping! The reviews are excellent, the games are plentiful, the only problem is this thing can’t seem to stay in stock.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-23-palma-2",
+   "name": "Palma 2",
+   "url": "https://shop.boox.com/products/palma2",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just reviewed the new Palma 2 Pro (which I was excited about and super disappointed by), so I had occasion to rethink my Palma usage. I like where my new homescreen ended up, and ported it back to the Palma 2 I still like. I figured I’d share. Here it is:",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-23-with-an-ifixit-kit",
+   "name": "with an iFixit kit",
+   "url": "https://www.ifixit.com/Device/PlayStation_Vita",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just replaced the battery in a 10 year old PS Vita with an iFixit kit and it took me like 20 minutes and was actually super fun.",
+   "section": "crowdsourced",
+   "recommender": "Jonathan (reader)"
+  },
+  {
+   "id": "2025-11-23-language-transfer",
+   "name": "Language Transfer",
+   "url": "https://www.languagetransfer.org",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After years of ignoring well-meant advice about this new and somehow unusual way to learn a language, I finally gave in and listened to a few short Language Transfer lessons.",
+   "section": "crowdsourced",
+   "recommender": "Pieter (reader)"
+  },
+  {
+   "id": "2025-11-23-this-awesome-coffee-table-book",
+   "name": "this awesome coffee table book",
+   "url": "https://www.assouline.com/products/air-jordan-classic",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Currently reading this awesome coffee table book all about the Jordan Brand. It’s about the advertising, his brand, the photography, etc., instead of his career as a player. The first chapter is about 40 years of his shoe evolution..",
+   "section": "crowdsourced",
+   "recommender": "Boukou (reader)"
+  },
+  {
+   "id": "2025-11-23-stranger-things",
+   "name": "Stranger Things",
+   "url": "https://www.themoviedb.org/tv/66732-stranger-things?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Rewatching Stranger Things season 1-4 before the last season drops next week.",
+   "section": "crowdsourced",
+   "recommender": "Alex (reader)"
+  },
+  {
+   "id": "2025-11-23-space-pen",
+   "name": "Space Pen",
+   "url": "https://www.spacepen.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve gotten into physical pocket notebooks again. I bought a Space Pen because it’s nice and small, and now keep a Field Notes notebook with me at all times and use it for everything: to-do lists, ideas, journaling, etc. It’s quite addictive and I highly recommend it.",
+   "section": "crowdsourced",
+   "recommender": "Josh (reader)"
+  },
+  {
+   "id": "2025-11-23-field-notes",
+   "name": "Field Notes",
+   "url": "https://fieldnotesbrand.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve gotten into physical pocket notebooks again. I bought a Space Pen because it’s nice and small, and now keep a Field Notes notebook with me at all times and use it for everything: to-do lists, ideas, journaling, etc. It’s quite addictive and I highly recommend it.",
+   "section": "crowdsourced",
+   "recommender": "Josh (reader)"
+  },
+  {
+   "id": "2025-11-23-backdrop",
+   "name": "Backdrop",
+   "url": "https://cindori.com/backdrop",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Trying out a new animated wallpaper app for Mac called Backdrop . It’s the only one I’ve seen that unifies an animated wallpaper between your desktop and lock screen.",
+   "section": "crowdsourced",
+   "recommender": "Russ (reader)"
+  },
+  {
+   "id": "2025-11-23-beyond-a-boundary",
+   "name": "Beyond a Boundary",
+   "url": "https://www.penguin.co.uk/books/362382/beyond-a-boundary-by-c-l-r-james/9781784875398",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just started reading Beyond a Boundary by CLR James. It is billed as THE GREATEST SPORTS BOOK EVER WRITTEN, but mostly got it because I enjoyed The Black Jacobins . Also the cover is easily top 5 all time (first place is forever the Penguin Galaxy version of The Left Hand of Darkness ).",
+   "section": "crowdsourced",
+   "recommender": "Rich (reader)"
+  },
+  {
+   "id": "2025-11-23-the-black-jacobins",
+   "name": "The Black Jacobins",
+   "url": "https://www.penguinrandomhouse.com/books/86417/the-black-jacobins-by-c-l-r-james-with-a-new-introduction-by-david-scott/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just started reading Beyond a Boundary by CLR James. It is billed as THE GREATEST SPORTS BOOK EVER WRITTEN, but mostly got it because I enjoyed The Black Jacobins . Also the cover is easily top 5 all time (first place is forever the Penguin Galaxy version of The Left Hand of Darkness ).",
+   "section": "crowdsourced",
+   "recommender": "Rich (reader)"
+  },
+  {
+   "id": "2025-11-23-the-left-hand-of-darkness",
+   "name": "The Left Hand of Darkness",
+   "url": "https://www.penguinrandomhouse.com/books/538943/the-left-hand-of-darkness-by-ursula-k-le-guin/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just started reading Beyond a Boundary by CLR James. It is billed as THE GREATEST SPORTS BOOK EVER WRITTEN, but mostly got it because I enjoyed The Black Jacobins . Also the cover is easily top 5 all time (first place is forever the Penguin Galaxy version of The Left Hand of Darkness ).",
+   "section": "crowdsourced",
+   "recommender": "Rich (reader)"
+  },
+  {
+   "id": "2025-11-23-cyberspace-online",
+   "name": "Cyberspace.online",
+   "url": "http://cyberspace.online/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My recommendation is for Cyberspace.online . It’s social media, but text based; like when the internet was good. I haven’t had this much fun online since 2007 with the original Tumblr!",
+   "section": "crowdsourced",
+   "recommender": "Jordan (reader)"
+  },
+  {
+   "id": "2025-11-23-rock-planner",
+   "name": "Rock Planner",
+   "url": "https://shop.astropad.com/pages/rock-daily-planner",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Writing to recommend the Rock Planner app for iPad. It’s buggy, it’s primitive, BUT — and I hope you’re ready for this — you can annotate your calendar entries! It displays your calendar then allows you to write on it with the pencil. Even has a to-do section next to it.",
+   "section": "crowdsourced",
+   "recommender": "Mario (reader)"
+  },
+  {
+   "id": "2025-11-23-rock-paper-and-pencil-tip",
+   "name": "Rock paper and pencil tip",
+   "url": "https://astropad.com/product/rock-paper-pencil/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Writing to recommend the Rock Planner app for iPad. It’s buggy, it’s primitive, BUT — and I hope you’re ready for this — you can annotate your calendar entries! It displays your calendar then allows you to write on it with the pencil. Even has a to-do section next to it.",
+   "section": "crowdsourced",
+   "recommender": "Mario (reader)"
+  },
+  {
+   "id": "2025-11-23-one-of-the-most-remarkable-photos-ive-ever-seen",
+   "name": "one of the most remarkable photos I’ve ever seen",
+   "url": "https://www.instagram.com/p/DRBAaqLkvye/?img_index=4",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "We live in weird times, where it’s often hard to know what’s real and what isn’t. When I first saw a photo of a skydiver in front of the sun, I just filed it under “AI” and went about my day. But I was wrong!",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-23-an-astonishing-amount-of-planning",
+   "name": "an astonishing amount of planning",
+   "url": "https://www.sciencealert.com/skydiver-caught-transiting-the-sun-in-preposterous-but-real-photograph",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "We live in weird times, where it’s often hard to know what’s real and what isn’t. When I first saw a photo of a skydiver in front of the sun, I just filed it under “AI” and went about my day. But I was wrong!",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-23-cosmic-background",
+   "name": "@cosmic_background",
+   "url": "https://www.instagram.com/cosmic_background/?ig_rid=c8d3ec56-f4f9-4921-aa6d-9f93cf7656cd",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "We live in weird times, where it’s often hard to know what’s real and what isn’t. When I first saw a photo of a skydiver in front of the sun, I just filed it under “AI” and went about my day. But I was wrong!",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

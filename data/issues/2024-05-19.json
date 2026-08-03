@@ -1,0 +1,636 @@
+{
+ "schema": 1,
+ "date": "2024-05-19",
+ "post_type": "issue",
+ "title": "The AI assistants are getting better fast",
+ "url": "https://www.theverge.com/24158659/ai-assistant-chatgpt-gpt4o-google-search-dyson-washg1-installer",
+ "author": "David Pierce",
+ "number": 38,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-05-19-american-fiction",
+   "name": "American Fiction",
+   "url": "https://www.themoviedb.org/movie/1056360-american-fiction",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been writing about iPads and the future of Google , watching American Fiction and Bodkin , rewatching Her because of… reasons, endlessly replaying the songs of Windows95man , learning how to make better sandwiches , testing Claude for AI stuff, and listening to the new-old Childish…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-19-bodkin",
+   "name": "Bodkin",
+   "url": "https://www.themoviedb.org/tv/241257-bodkin",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been writing about iPads and the future of Google , watching American Fiction and Bodkin , rewatching Her because of… reasons, endlessly replaying the songs of Windows95man , learning how to make better sandwiches , testing Claude for AI stuff, and listening to the new-old Childish…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-19-her",
+   "name": "Her",
+   "url": "https://www.themoviedb.org/movie/152601-her",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been writing about iPads and the future of Google , watching American Fiction and Bodkin , rewatching Her because of… reasons, endlessly replaying the songs of Windows95man , learning how to make better sandwiches , testing Claude for AI stuff, and listening to the new-old Childish…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-19-the-songs-of-windows95man",
+   "name": "the songs of Windows95man",
+   "url": "https://www.youtube.com/watch?v=aaIxsEPoS28",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been writing about iPads and the future of Google , watching American Fiction and Bodkin , rewatching Her because of… reasons, endlessly replaying the songs of Windows95man , learning how to make better sandwiches , testing Claude for AI stuff, and listening to the new-old Childish…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-19-how-to-make-better-sandwiches",
+   "name": "how to make better sandwiches",
+   "url": "https://youtu.be/tQt_KOAWiVQ?si=lUZmcLaCBxMuMbpa",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been writing about iPads and the future of Google , watching American Fiction and Bodkin , rewatching Her because of… reasons, endlessly replaying the songs of Windows95man , learning how to make better sandwiches , testing Claude for AI stuff, and listening to the new-old Childish…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-19-claude",
+   "name": "Claude",
+   "url": "https://claude.ai/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about iPads and the future of Google , watching American Fiction and Bodkin , rewatching Her because of… reasons, endlessly replaying the songs of Windows95man , learning how to make better sandwiches , testing Claude for AI stuff, and listening to the new-old Childish…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-19-the-new-old-childish-gambino-album",
+   "name": "the new-old Childish Gambino album",
+   "url": "https://childishgambino.lnk.to/Atavista/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about iPads and the future of Google , watching American Fiction and Bodkin , rewatching Her because of… reasons, endlessly replaying the songs of Windows95man , learning how to make better sandwiches , testing Claude for AI stuff, and listening to the new-old Childish…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-19-wordle",
+   "name": "Wordle",
+   "url": "https://www.nytimes.com/games/wordle/index.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "And I have a question: What’s your favorite mini-game on the internet? I’m thinking about things like Wordle , The Wikipedia Game , Sudoku , Really Bad Chess , Name Drop , and a million others — the kinds of things you might play every morning with your coffee.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-19-the-wikipedia-game",
+   "name": "The Wikipedia Game",
+   "url": "https://www.thewikipediagame.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "And I have a question: What’s your favorite mini-game on the internet? I’m thinking about things like Wordle , The Wikipedia Game , Sudoku , Really Bad Chess , Name Drop , and a million others — the kinds of things you might play every morning with your coffee.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-19-sudoku",
+   "name": "Sudoku",
+   "url": "https://sudoku.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "And I have a question: What’s your favorite mini-game on the internet? I’m thinking about things like Wordle , The Wikipedia Game , Sudoku , Really Bad Chess , Name Drop , and a million others — the kinds of things you might play every morning with your coffee.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-19-really-bad-chess",
+   "name": "Really Bad Chess",
+   "url": "https://www.puzzmo.com/play/really-bad-chess/hx20gb2d78",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "And I have a question: What’s your favorite mini-game on the internet? I’m thinking about things like Wordle , The Wikipedia Game , Sudoku , Really Bad Chess , Name Drop , and a million others — the kinds of things you might play every morning with your coffee.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-19-name-drop",
+   "name": "Name Drop",
+   "url": "https://www.newyorker.com/puzzles-and-games-dept/name-drop",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "And I have a question: What’s your favorite mini-game on the internet? I’m thinking about things like Wordle , The Wikipedia Game , Sudoku , Really Bad Chess , Name Drop , and a million others — the kinds of things you might play every morning with your coffee.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-19-gpt-4o",
+   "name": "GPT-4o",
+   "url": "https://openai.com/index/hello-gpt-4o/",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=DQacCB9tDaw"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I haven’t been able to stop thinking about OpenAI’s event this week , with the Her- like demo of the new voice assistant. It’s really impressive, kind of weird, and both delightful and creepy? I’m so torn. But the tech is impressive, and every AI app I’ve seen is already rushing to support GPT-4o.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-19-chatgpt-for-mac",
+   "name": "ChatGPT for Mac",
+   "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Desktop AI chat apps are a dime a dozen and mostly all just wrappers on a webpage. But the new ChatGPT app is a bit more: it lets you share your screen and ask questions about it, which strikes me as a very handy way to get AI help with something. “How do I fix this?”",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-19-historical-ai-rewriting-the-past-on-tiktok",
+   "name": "Historical AI & Rewriting the Past on TikTok",
+   "url": "https://www.youtube.com/watch?v=ju-gsWdqBVk",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Historical AI & Rewriting the Past on TikTok .” Have you seen those videos on TikTok of an AI-generated emperor or whatever, telling you a salacious story about world history? They’re fun! And messy! And frequently just lies! Love this video on how it all happened and what it all means.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-19-lego-barad-dur",
+   "name": "Lego Barad-dûr",
+   "url": "https://www.lego.com/en-us/product/the-lord-of-the-rings-barad-dur-10333?CMP=AFC-AffiliateUS-nOD/rLJHOac-3430747-1182053-10",
+   "alt_urls": [
+    "https://www.lego.com/en-us/product/the-lord-of-the-rings-rivendell-10316?CMP=AFC-AffiliateUS-nOD/rLJHOac-3430747-1182053-10",
+    "https://www.theverge.com/23588895/lego-rivendell-lord-of-the-rings-lotr-pictures-price-release-date"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Five thousand, four hundred and seventy-one pieces. Pair this with the Rivendell set Lego released last year , and you’ll spend about $1,000 and one very happy lifetime putting together a truly epic Lord of the Rings setup.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-19-googles-web-filter",
+   "name": "Google’s “Web” filter",
+   "url": "https://support.google.com/websearch/answer/2466433",
+   "alt_urls": [
+    "https://www.theverge.com/2024/5/14/24074314/google-now-offers-web-search"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I have a lot of big-picture thoughts about what AI is doing to web search and what that means for the internet, but I also just miss when Google was a bunch of links and not a thousand videos, X posts, and shopping links.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-19-i-started-a-new-business-it-didnt-go-well",
+   "name": "​​I Started a New Business. It Didn’t Go Well…",
+   "url": "https://www.youtube.com/watch?v=HGktY1dytCw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ ​​I Started a New Business. It Didn’t Go Well… ” I’m a fan of Ali Abdaal’s (he was in Installer a while back!) and really loved this video. He shares a lot of the kinds of stories you don’t hear about building products, failure, mistakes, challenges, and what happens when you just get it wrong.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-19-setapp-mobile",
+   "name": "Setapp Mobile",
+   "url": "https://setapp.com/join-waitlist?irgwc=1&clickid=XZb3dg3QSzSpWjvWf:RWc0EdUkHQcK0l03VeX00&iradid=343321&irpid=10078&sharedid=theverge.com&mpaid=3",
+   "alt_urls": [
+    "https://setapp.com/",
+    "https://www.theverge.com/24155259/setapp-mobile-eu-subscription-app-store-preview"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "If you don’t already know about Setapp , a subscription service that gets you access to hundreds of Mac and iOS apps, you should check it out. Setapp Mobile, its new alternative app store, is EU-only for now, but it’s still a fascinating look at what’s possible when you open up the smartphone.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-19-the-dyson-washg1",
+   "name": "The Dyson WashG1",
+   "url": "https://www.dyson.com/wet-cleaning/washg1?ranMID=36310&ranEAID=tv2R4u9rImY&ranSiteID=tv2R4u9rImY-EcBHZ_YoZoHD6EEhIt9Ilw&siteID=tv2R4u9rImY-EcBHZ_YoZoHD6EEhIt9Ilw",
+   "alt_urls": [
+    "https://www.theverge.com/2024/5/13/24155775/dyson-washg1-mop-price-specs-release-date"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Explaining Dyson stuff always sounds so silly — “yeah, it’s like 4x the price of all its competitors, and yeah, it’s just a cleaning thing, but dude, it’s SICK.” But… this $700 ultra-fancy mop sounds sick . I can’t help myself.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-19-hello-dot",
+   "name": "Hello, Dot",
+   "url": "https://playperidot.com/hello-dot",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A new game from the Pokémon Go and Peridot folks, designed just for the Meta Quest. There’s not actually a ton to the game itself, but it’s a pretty great mixed reality tech demo, and these things are just fun to play around with.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-19-retroarch",
+   "name": "RetroArch",
+   "url": "https://apps.apple.com/us/app/retroarch/id6499539433",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "The latest in an increasingly long list of great emulator apps coming to the iPhone. This one’s not the most user-friendly, but it does support a huge number of consoles and games — and it works on the Apple TV!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-19-iphone-14",
+   "name": "iPhone 14",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 14.",
+   "section": "screen-share",
+   "recommender": "Jack"
+  },
+  {
+   "id": "2024-05-19-detroit-institute-of-arts",
+   "name": "Detroit Institute of Arts",
+   "url": "https://dia.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: My partner, Julia, taken at one of my favorite places: Kresge Court inside the Detroit Institute of Arts .",
+   "section": "screen-share",
+   "recommender": "Jack"
+  },
+  {
+   "id": "2024-05-19-fantastical",
+   "name": "Fantastical",
+   "url": "https://flexibits.com/fantastical",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Lock screen widgets: Fantastical , Weather, and Lightroom ’s camera widget. I usually include a photo when I send out my Sunday newsletter , and I loathe the way newer-generation iPhones over-process everything.",
+   "section": "screen-share",
+   "recommender": "Jack"
+  },
+  {
+   "id": "2024-05-19-lightroom",
+   "name": "Lightroom",
+   "url": "https://apps.apple.com/us/app/lightroom-photo-video-editor/id878783582",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Lock screen widgets: Fantastical , Weather, and Lightroom ’s camera widget. I usually include a photo when I send out my Sunday newsletter , and I loathe the way newer-generation iPhones over-process everything.",
+   "section": "screen-share",
+   "recommender": "Jack"
+  },
+  {
+   "id": "2024-05-19-sunday-newsletter",
+   "name": "Sunday newsletter",
+   "url": "https://www.jackcheng.com/sunday",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Lock screen widgets: Fantastical , Weather, and Lightroom ’s camera widget. I usually include a photo when I send out my Sunday newsletter , and I loathe the way newer-generation iPhones over-process everything.",
+   "section": "screen-share",
+   "recommender": "Jack"
+  },
+  {
+   "id": "2024-05-19-ricoh-gr-iii",
+   "name": "Ricoh GR III",
+   "url": "https://www.ricoh-imaging.co.jp/english/products/gr-3/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Lock screen widgets: Fantastical , Weather, and Lightroom ’s camera widget. I usually include a photo when I send out my Sunday newsletter , and I loathe the way newer-generation iPhones over-process everything.",
+   "section": "screen-share",
+   "recommender": "Jack"
+  },
+  {
+   "id": "2024-05-19-widgetsmith",
+   "name": "Widgetsmith",
+   "url": "https://apps.apple.com/us/app/widgetsmith/id1523682319",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Homescreen: A Widgetsmith photo widget that shows my workweek in index cards. I’m doing my first 12-Week Year and also experimenting with the cards for time-blocking. I plan out my week on Monday morning, then the cards stay on the table next to my desk. I refer to them when I journal, too.",
+   "section": "screen-share",
+   "recommender": "Jack"
+  },
+  {
+   "id": "2024-05-19-12-week-year",
+   "name": "12-Week Year",
+   "url": "https://www.amazon.com/12-Week-Year-Others-Months/dp/1118509234?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "Homescreen: A Widgetsmith photo widget that shows my workweek in index cards. I’m doing my first 12-Week Year and also experimenting with the cards for time-blocking. I plan out my week on Monday morning, then the cards stay on the table next to my desk. I refer to them when I journal, too.",
+   "section": "screen-share",
+   "recommender": "Jack"
+  },
+  {
+   "id": "2024-05-19-dan-catts-oddly-therapeutic-weeknotes",
+   "name": "Dan Catt’s oddly therapeutic Weeknotes",
+   "url": "https://www.youtube.com/playlist?list=PLeu6FqNAI8GsQMO-ZsXQJaEyR4WQTS6Q4",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Homescreen: A Widgetsmith photo widget that shows my workweek in index cards. I’m doing my first 12-Week Year and also experimenting with the cards for time-blocking. I plan out my week on Monday morning, then the cards stay on the table next to my desk. I refer to them when I journal, too.",
+   "section": "screen-share",
+   "recommender": "Jack"
+  },
+  {
+   "id": "2024-05-19-bebop",
+   "name": "Bebop",
+   "url": "https://www.jackcheng.com/bebop/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Dock: Third from the left is my own file-based notes app, Bebop ! I built it after frustrations with over-bloated notes apps that deprioritized capture . Bebop’s my first iOS app, and it felt so good to be able to give it that prime dock spot.",
+   "section": "screen-share",
+   "recommender": "Jack"
+  },
+  {
+   "id": "2024-05-19-after-frustrations-with-over-bloated-notes-apps",
+   "name": "after frustrations with over-bloated notes apps that deprioritized capture",
+   "url": "https://www.jackcheng.com/bebop-design-dev-process/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Dock: Third from the left is my own file-based notes app, Bebop ! I built it after frustrations with over-bloated notes apps that deprioritized capture . Bebop’s my first iOS app, and it felt so good to be able to give it that prime dock spot.",
+   "section": "screen-share",
+   "recommender": "Jack"
+  },
+  {
+   "id": "2024-05-19-blackmagic-camera",
+   "name": "Blackmagic Camera",
+   "url": "https://www.blackmagicdesign.com/products/blackmagiccamera",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "When Apple announced Final Cut Camera, I wondered if there was something similar for DaVinci Resolve, and it turned out there was: Blackmagic Camera .",
+   "section": "screen-share",
+   "recommender": "Jack"
+  },
+  {
+   "id": "2024-05-19-my-youtube-channel",
+   "name": "my YouTube channel",
+   "url": "https://www.youtube.com/@jackcheng",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "When Apple announced Final Cut Camera, I wondered if there was something similar for DaVinci Resolve, and it turned out there was: Blackmagic Camera .",
+   "section": "screen-share",
+   "recommender": "Jack"
+  },
+  {
+   "id": "2024-05-19-the-conversations-walter-murch-and-the-art-of-ed",
+   "name": "The Conversations: Walter Murch and the Art of Editing Film",
+   "url": "https://www.penguinrandomhouse.ca/books/124596/the-conversations-by-michael-ondaatje/9780676976823",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Conversations: Walter Murch and the Art of Editing Film is the best book I’ve read so far this year.",
+   "section": "screen-share",
+   "recommender": "Jack"
+  },
+  {
+   "id": "2024-05-19-completely-arbortrary",
+   "name": "Completely Arbortrary",
+   "url": "https://arbortrarypod.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Conversations: Walter Murch and the Art of Editing Film is the best book I’ve read so far this year.",
+   "section": "screen-share",
+   "recommender": "Jack"
+  },
+  {
+   "id": "2024-05-19-moonbound",
+   "name": "Moonbound",
+   "url": "https://www.robinsloan.com/moonbound/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Conversations: Walter Murch and the Art of Editing Film is the best book I’ve read so far this year.",
+   "section": "screen-share",
+   "recommender": "Jack"
+  },
+  {
+   "id": "2024-05-19-master-of-none",
+   "name": "Master of None",
+   "url": "https://www.themoviedb.org/tv/64254-master-of-none?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The Conversations: Walter Murch and the Art of Editing Film is the best book I’ve read so far this year.",
+   "section": "screen-share",
+   "recommender": "Jack"
+  },
+  {
+   "id": "2024-05-19-amy-williams-gorgeous-production-design",
+   "name": "Amy Williams’ gorgeous production design",
+   "url": "https://www.awardsdaily.com/2021/06/26/amy-williams/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Conversations: Walter Murch and the Art of Editing Film is the best book I’ve read so far this year.",
+   "section": "screen-share",
+   "recommender": "Jack"
+  },
+  {
+   "id": "2024-05-19-sequoiaview",
+   "name": "SequoiaView",
+   "url": "https://www.win.tue.nl/sequoiaview/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "So every once in a while, I manage to get a hard drive full to the rim and need to clean up. That’s when I fall back on a really old piece of software from the Dutch University of Eindhoven called SequoiaView .",
+   "section": "crowdsourced",
+   "recommender": "Jasper (reader)"
+  },
+  {
+   "id": "2024-05-19-balatro",
+   "name": "Balatro",
+   "url": "https://www.playbalatro.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m very late to Balatro and been playing that (and failing — how are people already completing the game and I can’t even get past the basic stakes for some of these decks lol) and trying to finish the new Vampire Survivors DLC .",
+   "section": "crowdsourced",
+   "recommender": "Melody (reader)"
+  },
+  {
+   "id": "2024-05-19-vampire-survivors-dlc",
+   "name": "Vampire Survivors DLC",
+   "url": "https://store.steampowered.com/app/2887680/Vampire_Survivors_Operation_Guns/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I’m very late to Balatro and been playing that (and failing — how are people already completing the game and I can’t even get past the basic stakes for some of these decks lol) and trying to finish the new Vampire Survivors DLC .",
+   "section": "crowdsourced",
+   "recommender": "Melody (reader)"
+  },
+  {
+   "id": "2024-05-19-starcraft",
+   "name": "StarCraft",
+   "url": "https://starcraft.blizzard.com/en-us/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just re-downloaded the original StarCraft and can’t stop watching TikTok live videos of people playing some weird Russian Roulette PC game.",
+   "section": "crowdsourced",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-19-delta",
+   "name": "Delta",
+   "url": "https://faq.deltaemulator.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Downloaded Delta when it officially launched and realized how much I missed playing ‘simpler’ games. Amongst a few others, I was really enjoying Pokémon Fire Red . Fast forward a few days… and the Analogue Pocket had a very timely restock.",
+   "section": "crowdsourced",
+   "recommender": "Omesh (reader)"
+  },
+  {
+   "id": "2024-05-19-analogue-pocket",
+   "name": "Analogue Pocket",
+   "url": "https://www.analogue.co/pocket",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Downloaded Delta when it officially launched and realized how much I missed playing ‘simpler’ games. Amongst a few others, I was really enjoying Pokémon Fire Red . Fast forward a few days… and the Analogue Pocket had a very timely restock.",
+   "section": "crowdsourced",
+   "recommender": "Omesh (reader)"
+  },
+  {
+   "id": "2024-05-19-walkabout-mini-golf",
+   "name": "Walkabout Mini Golf",
+   "url": "https://www.mightycoconut.com/minigolf",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Walkabout Mini Golf on the Meta Quest 3 is pretty awesome.",
+   "section": "crowdsourced",
+   "recommender": "Matt (reader)"
+  },
+  {
+   "id": "2024-05-19-ascent",
+   "name": "Ascent",
+   "url": "https://play.google.com/store/apps/details?id=com.ascent",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "I’ve found that my screen time can sometimes rocket from using apps like Instagram and Twitter. To solve that, I found Ascent , which adds a sliding distraction screen whenever you try to open the app.",
+   "section": "crowdsourced",
+   "recommender": "Leo (reader)"
+  },
+  {
+   "id": "2024-05-19-critical-role",
+   "name": "Critical Role",
+   "url": "https://critrole.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "One of Twitch’s / YT’s biggest creators Critical Role just launched their own direct support / streaming service, Beacon , but in contrast to the huge miss that was Watcher doing something similar last month, they aren’t paywalling any existing content.",
+   "section": "crowdsourced",
+   "recommender": "Zach (reader)"
+  },
+  {
+   "id": "2024-05-19-beacon",
+   "name": "Beacon",
+   "url": "https://beacon.tv/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "One of Twitch’s / YT’s biggest creators Critical Role just launched their own direct support / streaming service, Beacon , but in contrast to the huge miss that was Watcher doing something similar last month, they aren’t paywalling any existing content.",
+   "section": "crowdsourced",
+   "recommender": "Zach (reader)"
+  },
+  {
+   "id": "2024-05-19-fur-and-loathing",
+   "name": "Fur and Loathing",
+   "url": "https://brazen.fm/fur-and-loathing/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Fur and Loathing . I just started listening to this podcast about the gas attack in the 2014 furry convention, and it’s really good!",
+   "section": "crowdsourced",
+   "recommender": "Katie (reader)"
+  },
+  {
+   "id": "2024-05-19-clarksons-farm",
+   "name": "Clarkson’s Farm",
+   "url": "https://www.themoviedb.org/tv/117648-clarkson-s-farm?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’m watching the second half of Clarkson’s Farm season 3. If you’ve never seen it, you’ll be surprised by just how complicated it is to grow something in a field.",
+   "section": "crowdsourced",
+   "recommender": "Alan (reader)"
+  }
+ ]
+}

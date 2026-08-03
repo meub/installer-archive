@@ -1,0 +1,524 @@
+{
+ "schema": 1,
+ "date": "2026-05-09",
+ "post_type": "issue",
+ "title": "The game that makes me actually want to exercise",
+ "url": "https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer",
+ "author": "David Pierce",
+ "number": 127,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:40+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-05-09-hasan-piker",
+   "name": "Hasan Piker",
+   "url": "https://www.wired.com/story/hasan-piker-user-behavior/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Hasan Piker and lines and David Sacks and sleep learning , catching up on Andor (for me) and Young Jedi Adventures (for my toddler), poring over thousands of new Artemis II photos , listening to many hours of possibly the longest YouTube video ever , taking more…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-09-lines",
+   "name": "lines",
+   "url": "https://www.mcsweeneys.net/articles/lines-ranked",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Hasan Piker and lines and David Sacks and sleep learning , catching up on Andor (for me) and Young Jedi Adventures (for my toddler), poring over thousands of new Artemis II photos , listening to many hours of possibly the longest YouTube video ever , taking more…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-09-david-sacks",
+   "name": "David Sacks",
+   "url": "https://www.theatlantic.com/magazine/2026/06/david-sacks-crypto-ai-venture-capital/686941/?gift=hVZeG3M9DnxL4CekrWGK38RUbn3fdh2sogd45ccc3R0",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Hasan Piker and lines and David Sacks and sleep learning , catching up on Andor (for me) and Young Jedi Adventures (for my toddler), poring over thousands of new Artemis II photos , listening to many hours of possibly the longest YouTube video ever , taking more…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-09-sleep-learning",
+   "name": "sleep learning",
+   "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Hasan Piker and lines and David Sacks and sleep learning , catching up on Andor (for me) and Young Jedi Adventures (for my toddler), poring over thousands of new Artemis II photos , listening to many hours of possibly the longest YouTube video ever , taking more…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-09-andor",
+   "name": "Andor",
+   "url": "https://www.themoviedb.org/tv/83867-andor",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Hasan Piker and lines and David Sacks and sleep learning , catching up on Andor (for me) and Young Jedi Adventures (for my toddler), poring over thousands of new Artemis II photos , listening to many hours of possibly the longest YouTube video ever , taking more…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-09-young-jedi-adventures",
+   "name": "Young Jedi Adventures",
+   "url": "https://www.themoviedb.org/tv/202998-star-wars-young-jedi-adventures",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Hasan Piker and lines and David Sacks and sleep learning , catching up on Andor (for me) and Young Jedi Adventures (for my toddler), poring over thousands of new Artemis II photos , listening to many hours of possibly the longest YouTube video ever , taking more…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-09-thousands-of-new-artemis-ii-photos",
+   "name": "thousands of new Artemis II photos",
+   "url": "https://petapixel.com/2026/05/04/nasa-releases-thousands-of-unseen-artemis-ii-photos/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Hasan Piker and lines and David Sacks and sleep learning , catching up on Andor (for me) and Young Jedi Adventures (for my toddler), poring over thousands of new Artemis II photos , listening to many hours of possibly the longest YouTube video ever , taking more…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-09-the-longest-youtube-video-ever",
+   "name": "the longest YouTube video ever",
+   "url": "https://www.youtube.com/watch?v=GiXKukOtmeE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Hasan Piker and lines and David Sacks and sleep learning , catching up on Andor (for me) and Young Jedi Adventures (for my toddler), poring over thousands of new Artemis II photos , listening to many hours of possibly the longest YouTube video ever , taking more…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-09-pedometer-8-0",
+   "name": "Pedometer++ 8.0",
+   "url": "https://apps.apple.com/us/app/pedometer/id712286167",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "This week, I’ve been reading about Hasan Piker and lines and David Sacks and sleep learning , catching up on Andor (for me) and Young Jedi Adventures (for my toddler), poring over thousands of new Artemis II photos , listening to many hours of possibly the longest YouTube video ever , taking more…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-09-every-arsenal-match",
+   "name": "every Arsenal match",
+   "url": "https://www.youtube.com/watch?v=AcM7uflS4DQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Hasan Piker and lines and David Sacks and sleep learning , catching up on Andor (for me) and Young Jedi Adventures (for my toddler), poring over thousands of new Artemis II photos , listening to many hours of possibly the longest YouTube video ever , taking more…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-09-hue-lights",
+   "name": "Hue lights",
+   "url": "https://www.philips-hue.com/en-us/p/hue-white-and-color-ambiance-essential-a19-e26-smart-bulb-800-lm-88w-4-pack/046677592592",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Hasan Piker and lines and David Sacks and sleep learning , catching up on Andor (for me) and Young Jedi Adventures (for my toddler), poring over thousands of new Artemis II photos , listening to many hours of possibly the longest YouTube video ever , taking more…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-09-zombies-run",
+   "name": "Zombies, Run",
+   "url": "https://zombiesrungame.com/zombies",
+   "alt_urls": [
+    "https://www.theverge.com/report/923408/zombies-run-fitness-app-games"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "! One of my all-time favorite fitness apps slash adventure games is back with new stories for the first time in forever. The story of the game’s rebirth is pretty awesome, and I cannot wait to start running to the game again. (I actually mean that! Wild!)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-09-boox-tappy",
+   "name": "Boox Tappy",
+   "url": "https://shop.boox.com/products/boox-tappy-wireless-pageturner?variant=47631436873958",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Nifty little accessory for tapping and scrolling on your e-reader, a lot like the Kobo Remote but actually significantly more capable (and probably hackable, in a good way).",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-09-billie-eilish-hit-me-hard-and-soft-the-tour",
+   "name": "Billie Eilish — Hit Me Hard and Soft: The Tour",
+   "url": "https://www.themoviedb.org/movie/1515899-billie-eilish-hit-me-hard-and-soft-the-tour-live-in-3d",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "The latest James Cameron movie is… hang on… a concert documentary? Weird! Apparently also awesome. It’s shot in 3D, in a way that everyone seems to agree totally works, and seems to have the immersive effect everybody thought we’d only get in VR. I might need to see this one in theaters.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-09-the-remarkable-paper-pure",
+   "name": "The Remarkable Paper Pure",
+   "url": "https://remarkable.com/products/remarkable-paper/pure",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Maybe the most exciting E Ink notepad on the market. $399 is a pretty good price for this category, and Remarkable made all the right decisions – more memory, more storage, no expensive and / or crummy color screen. I’m going to end up buying one of these, I can tell.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-09-the-bose-lifestyle-ultra",
+   "name": "The Bose Lifestyle Ultra",
+   "url": "https://www.jdoqocy.com/click-8836598-11556694?sid=VergeInstaller050826&url=https%3A%2F%2Fwww.bose.com%2Fp%2Fspeakers%2Fbose-lifestyle-ultra-speaker%2FLSULT-SPEAKERWIRELESS.html%3Fcjdata%3DMXxOfDB8WXww%26Publisher%3DVox%2BMedia%26cjevent%3D213529394ae811f1800b02da0a82b832",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Is it weird that I kind of forgot about Bose? It makes good headphones, certainly, but the brand seems to have lost a bit of its shine.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-09-mortal-kombat-ii",
+   "name": "Mortal Kombat II",
+   "url": "https://www.themoviedb.org/movie/931285-mortal-kombat-ii",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Honestly, I don’t know what you could want from this movie other than a bunch of sick action scenes, incredibly mediocre dialogue, and a wildly overdramatic story. Is this a good movie? Probably not. Will I cheer loudly the first time someone says “FINISH HIM!”? You betcha.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-09-mixtape",
+   "name": "Mixtape",
+   "url": "https://mixtape.game/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This genre of game — sort of a video game, sort of a movie, mostly a hang — is really hard to do right. I often get bored very quickly. But in the bits I’ve played so far, Mixtape has such great music and such good writing that I’m not a bit tired of it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-09-game-changer-home-edition",
+   "name": "Game Changer: Home Edition",
+   "url": "https://www.kickstarter.com/projects/dropout/game-changer-home-edition",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [
+    "kickstarter"
+   ],
+   "blurb": "Big week for all of us wannabe Dropout contestants! This new board game has some fun, Cranium -style, every-game-is-different energy to its structure and seems like it’ll fit most family game nights.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-09-inside-the-box-how-constraints-make-us-better",
+   "name": "Inside the Box: How Constraints Make Us Better",
+   "url": "https://www.penguinrandomhouse.com/books/737494/inside-the-box-by-david-epstein/",
+   "alt_urls": [
+    "https://www.wired.com/story/book-excerpt-david-epstein-inside-the-box-general-magic/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "All of David Epstein’s books are excellent, but this set of stories about the importance of limits (and the peril of having none) is full of stuff I suspect you’ll find fascinating.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-09-samsung-galaxy-s26-ultra",
+   "name": "Samsung Galaxy S26 Ultra",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: Samsung Galaxy S26 Ultra.",
+   "section": "screen-share",
+   "recommender": "Adam"
+  },
+  {
+   "id": "2026-05-09-button-mapper",
+   "name": "Button Mapper",
+   "url": "https://play.google.com/store/apps/details?id=flar2.homebutton&hl=en_US",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "My phone philosophy is that everything should be at most one swipe and one tap away. The first page is all about quick access to my most-used apps, and the second is all about quick information.",
+   "section": "screen-share",
+   "recommender": "Adam"
+  },
+  {
+   "id": "2026-05-09-obsidian",
+   "name": "Obsidian",
+   "url": "https://obsidian.md/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My phone philosophy is that everything should be at most one swipe and one tap away. The first page is all about quick access to my most-used apps, and the second is all about quick information.",
+   "section": "screen-share",
+   "recommender": "Adam"
+  },
+  {
+   "id": "2026-05-09-gradient-weather",
+   "name": "Gradient Weather",
+   "url": "https://play.google.com/store/apps/details?id=com.subtlesignals.gradientweather&hl=en_US",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "The first page is just for my most-used apps. I have the usual suspects here like YouTube, Spotify, and Pocket Casts. I’ve also been really liking the new Gradient Weather app that was featured in Installer a few weeks ago.",
+   "section": "screen-share",
+   "recommender": "Adam"
+  },
+  {
+   "id": "2026-05-09-frieren-beyond-journeys-end",
+   "name": "Frieren: Beyond Journey’s End",
+   "url": "https://www.themoviedb.org/tv/209867?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I used to be super into anime in high school, so I’ve been trying to get back into it lately, and the one I’m currently obsessed with is Frieren: Beyond Journey’s End . I just finished it last week and am already halfway through a rewatch. Highly recommend it if you’re into fantasy / anime.",
+   "section": "screen-share",
+   "recommender": "Adam"
+  },
+  {
+   "id": "2026-05-09-simple-and-clean",
+   "name": "Simple and Clean",
+   "url": "https://art19.com/shows/simple-and-clean-a-kingdom-hearts",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I used to be super into anime in high school, so I’ve been trying to get back into it lately, and the one I’m currently obsessed with is Frieren: Beyond Journey’s End . I just finished it last week and am already halfway through a rewatch. Highly recommend it if you’re into fantasy / anime.",
+   "section": "screen-share",
+   "recommender": "Adam"
+  },
+  {
+   "id": "2026-05-09-halfof8",
+   "name": "@halfof8",
+   "url": "https://www.youtube.com/@halfof8",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I used to be super into anime in high school, so I’ve been trying to get back into it lately, and the one I’m currently obsessed with is Frieren: Beyond Journey’s End . I just finished it last week and am already halfway through a rewatch. Highly recommend it if you’re into fantasy / anime.",
+   "section": "screen-share",
+   "recommender": "Adam"
+  },
+  {
+   "id": "2026-05-09-floaty",
+   "name": "Floaty",
+   "url": "https://www.floatytool.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently picked up an M5 MacBook Air — my first Mac laptop! One transition hurdle from Windows was the lack of a native ‘Always on Top’ feature, which I relied on heavily via Microsoft PowerToys. After searching for a macOS alternative, I found Floaty .",
+   "section": "crowdsourced",
+   "recommender": "Travis (reader)"
+  },
+  {
+   "id": "2026-05-09-halt-and-catch-fire",
+   "name": "Halt and Catch Fire",
+   "url": "https://www.themoviedb.org/tv/59659-halt-and-catch-fire",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I don’t know how I missed Halt and Catch Fire , but we just finished the last last episode and wow. I wish there was more like this: the character development, not to mention the various awesome camera angles and shots. Amazing all around.",
+   "section": "crowdsourced",
+   "recommender": "Mark (reader)"
+  },
+  {
+   "id": "2026-05-09-blockit",
+   "name": "Blockit",
+   "url": "https://play.google.com/store/apps/details?id=com.hypenet.focused",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "Checkout the app Blockit on Android. It’s like Brick on iOS, completely blocks you out of your phone until the timer is done.",
+   "section": "crowdsourced",
+   "recommender": "Gaurav (reader)"
+  },
+  {
+   "id": "2026-05-09-hacks",
+   "name": "Hacks",
+   "url": "https://www.themoviedb.org/tv/124101-hacks",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Been really enjoying the new season of Hacks , and the weird combination of cozy / secondhand embarrassment that is Rooster , both on HBO Max.",
+   "section": "crowdsourced",
+   "recommender": "Pegasusisme (reader)"
+  },
+  {
+   "id": "2026-05-09-rooster",
+   "name": "Rooster",
+   "url": "https://www.themoviedb.org/tv/254953-rooster",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Been really enjoying the new season of Hacks , and the weird combination of cozy / secondhand embarrassment that is Rooster , both on HBO Max.",
+   "section": "crowdsourced",
+   "recommender": "Pegasusisme (reader)"
+  },
+  {
+   "id": "2026-05-09-tomadachi-life-living-the-dream",
+   "name": "Tomadachi Life: Living the Dream",
+   "url": "https://www.google.com/search?q=tomadachi+life&sourceid=chrome&ie=UTF-8",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve placed several campaigns’ worth of D&D characters into Tomadachi Life: Living the Dream , and now I’m obligated to let the players know about all of the drama that has since unfolded.",
+   "section": "crowdsourced",
+   "recommender": "Nicholas (reader)"
+  },
+  {
+   "id": "2026-05-09-maptap",
+   "name": "MapTap",
+   "url": "http://maptap.gg",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Playing the hell out of MapTap .",
+   "section": "crowdsourced",
+   "recommender": "JD (reader)"
+  },
+  {
+   "id": "2026-05-09-timberborn",
+   "name": "Timberborn",
+   "url": "https://mechanistry.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have unfortunately stumbled back into playing Timberborn , an adorable beaver-themed survival city builder (which had its 1.0 release recently!), that runs the gamut from cute little farms to massive infrastructure projects with water physics.",
+   "section": "crowdsourced",
+   "recommender": "Olof (reader)"
+  },
+  {
+   "id": "2026-05-09-gamesir-pocket-taco",
+   "name": "GameSir Pocket Taco",
+   "url": "https://gamesir.com/products/gamesir-pocket-taco",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just got the GameSir Pocket Taco and have been rediscovering a ton of amazing GBA games. Right now I’m really into Metroid Fusion !",
+   "section": "crowdsourced",
+   "recommender": "Sajishnu (reader)"
+  },
+  {
+   "id": "2026-05-09-wirken",
+   "name": "Wirken",
+   "url": "https://github.com/gebruder/wirken",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "open-source"
+   ],
+   "blurb": "I’m messing with Wirken , a project by Davi Ottenheimer (formerly of Inrupt). Kind of private by design OpenClaw-style LLM portal. Cool project!",
+   "section": "crowdsourced",
+   "recommender": "Rich (reader)"
+  },
+  {
+   "id": "2026-05-09-retroarch",
+   "name": "RetroArch",
+   "url": "https://www.retroarch.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I hacked my Nintendo Switch (you’ll definitely need some comfort with tearing it apart to do so) a couple months ago and I’ve been catching up on some old 3DS games thanks to RetroArch , perfect for the Switch format.",
+   "section": "crowdsourced",
+   "recommender": "Gabriel (reader)"
+  },
+  {
+   "id": "2026-05-09-the-office",
+   "name": "The Office",
+   "url": "https://www.themoviedb.org/tv/2316-the-office",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I know I’ve mentioned this before here, but I’ve been having trouble falling asleep recently and have turned to a bunch of different things to help me slumber.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-09-sleeping-with-celebrities",
+   "name": "Sleeping With Celebrities",
+   "url": "https://maximumfun.org/podcasts/sleeping-with-celebrities/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I know I’ve mentioned this before here, but I’ve been having trouble falling asleep recently and have turned to a bunch of different things to help me slumber.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-09-sleep-headphones",
+   "name": "sleep headphones",
+   "url": "https://www.nytimes.com/wirecutter/reviews/best-sleep-headphones/?ds_c=23289288899&&gad_campaignid=23289288899&gbraid=0AAAAADwd30j6F0GVz6-Xj_2t_fwe9lGfm",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I know I’ve mentioned this before here, but I’ve been having trouble falling asleep recently and have turned to a bunch of different things to help me slumber.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-09-weird-speaker-pillow-things",
+   "name": "weird speaker-pillow things",
+   "url": "https://www.nosleeplessnights.com/best-pillow-speaker/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I know I’ve mentioned this before here, but I’ve been having trouble falling asleep recently and have turned to a bunch of different things to help me slumber.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

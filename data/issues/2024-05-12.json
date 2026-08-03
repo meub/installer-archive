@@ -1,0 +1,459 @@
+{
+ "schema": 1,
+ "date": "2024-05-12",
+ "post_type": "issue",
+ "title": "The new iPad Pro looks like a winner",
+ "url": "https://www.theverge.com/24153472/apple-ipad-pro-animal-well-final-cut-camera-installer-newsletter",
+ "author": "David Pierce",
+ "number": 37,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:37+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-05-12-auto-shows",
+   "name": "auto shows",
+   "url": "https://www.nplusonemag.com/online-only/online-only/auto-show-dispatch/?src=longreads",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about iPads and LinkedIn games , reading about auto shows and typewriters and treasure hunters , watching Everybody’s in LA and Sugar , looking for reasons to buy Yeti’s new French press even though I definitely don’t need more coffee gear, following almost all of Jerry…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-12-typewriters",
+   "name": "typewriters",
+   "url": "https://www.nytimes.com/2023/12/07/style/ernest-hemingway-typewriter-auction.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about iPads and LinkedIn games , reading about auto shows and typewriters and treasure hunters , watching Everybody’s in LA and Sugar , looking for reasons to buy Yeti’s new French press even though I definitely don’t need more coffee gear, following almost all of Jerry…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-12-treasure-hunters",
+   "name": "treasure hunters",
+   "url": "https://www.seattlemet.com/news-and-city-life/2024/04/seattle-modern-treasure-hunters-shipwreck",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about iPads and LinkedIn games , reading about auto shows and typewriters and treasure hunters , watching Everybody’s in LA and Sugar , looking for reasons to buy Yeti’s new French press even though I definitely don’t need more coffee gear, following almost all of Jerry…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-12-everybodys-in-la",
+   "name": "Everybody’s in LA",
+   "url": "https://www.themoviedb.org/tv/251414-john-mulaney-presents-everybody-s-in-l-a?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been writing about iPads and LinkedIn games , reading about auto shows and typewriters and treasure hunters , watching Everybody’s in LA and Sugar , looking for reasons to buy Yeti’s new French press even though I definitely don’t need more coffee gear, following almost all of Jerry…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-12-sugar",
+   "name": "Sugar",
+   "url": "https://www.themoviedb.org/tv/203744-sugar?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been writing about iPads and LinkedIn games , reading about auto shows and typewriters and treasure hunters , watching Everybody’s in LA and Sugar , looking for reasons to buy Yeti’s new French press even though I definitely don’t need more coffee gear, following almost all of Jerry…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-12-yetis-new-french-press",
+   "name": "Yeti’s new French press",
+   "url": "https://www.yeti.com/drinkware/mugs/21071501848.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about iPads and LinkedIn games , reading about auto shows and typewriters and treasure hunters , watching Everybody’s in LA and Sugar , looking for reasons to buy Yeti’s new French press even though I definitely don’t need more coffee gear, following almost all of Jerry…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-12-jerry-saltzs-favorite-instagram-accounts",
+   "name": "Jerry Saltz’s favorite Instagram accounts",
+   "url": "https://www.vulture.com/article/jerry-saltz-favorite-instagram-accounts.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about iPads and LinkedIn games , reading about auto shows and typewriters and treasure hunters , watching Everybody’s in LA and Sugar , looking for reasons to buy Yeti’s new French press even though I definitely don’t need more coffee gear, following almost all of Jerry…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-12-capacities",
+   "name": "Capacities",
+   "url": "https://capacities.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about iPads and LinkedIn games , reading about auto shows and typewriters and treasure hunters , watching Everybody’s in LA and Sugar , looking for reasons to buy Yeti’s new French press even though I definitely don’t need more coffee gear, following almost all of Jerry…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-12-heptabase",
+   "name": "Heptabase",
+   "url": "https://heptabase.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about iPads and LinkedIn games , reading about auto shows and typewriters and treasure hunters , watching Everybody’s in LA and Sugar , looking for reasons to buy Yeti’s new French press even though I definitely don’t need more coffee gear, following almost all of Jerry…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-12-plinky",
+   "name": "Plinky",
+   "url": "https://www.plinky.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about iPads and LinkedIn games , reading about auto shows and typewriters and treasure hunters , watching Everybody’s in LA and Sugar , looking for reasons to buy Yeti’s new French press even though I definitely don’t need more coffee gear, following almost all of Jerry…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-12-blind-drive",
+   "name": "Blind Drive",
+   "url": "https://lofipeople.itch.io/blind-drive",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "This week, I’ve been writing about iPads and LinkedIn games , reading about auto shows and typewriters and treasure hunters , watching Everybody’s in LA and Sugar , looking for reasons to buy Yeti’s new French press even though I definitely don’t need more coffee gear, following almost all of Jerry…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-12-the-new-ipad-pro",
+   "name": "The new iPad Pro",
+   "url": "https://www.apple.com/ipad-pro/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The new Pro is easily the most impressive piece of hardware I’ve seen in a while. It’s so thin and light, and that OLED screen… gorgeous. It’s bonkers expensive, and the iPad’s big problem continues to be its software, but this is how you build a tablet, folks.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-12-animal-well",
+   "name": "Animal Well",
+   "url": "https://www.animalwell.net/",
+   "alt_urls": [
+    "https://www.polygon.com/reviews/24151337/animal-well-review-pc-ps5-switch",
+    "https://www.youtube.com/watch?time_continue=32&v=8EWbcc8tcsA"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Our friends over at Polygon called this “one of the most inventive games of the last decade,” which is obviously high praise! By all accounts, it’s unusual, surprising, occasionally frustrating, very smart, and incredibly engaging. Even the trailer looks like nothing I’ve seen before.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-12-final-cut-camera",
+   "name": "Final Cut Camera",
+   "url": "https://www.apple.com/newsroom/2024/05/final-cut-pro-transforms-video-creation-with-live-multicam-on-ipad-and-new-ai-features-on-mac/",
+   "alt_urls": [
+    "https://www.theverge.com/2024/5/7/24151109/apple-final-cut-camera-app-support-multicam-ipad"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This only got a quick mention at Apple’s event this week, but it’s kind of a huge deal ! It’s a first-party, pro-level camera app for iPhones and iPads that gives you lots of manual control and editing features. It’s exactly what a lot of creatives have been asking for.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-12-the-aqara-hub-m3",
+   "name": "The Aqara Hub M3",
+   "url": "https://www.aqara.com/us/product/hub-m3/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The only way to manage your smart home is to make sure your devices can support as many assistants, protocols, and platforms as possible. This seems like a way to do it: it’s a Matter-ready device that can handle just about any smart-home gear you throw at it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-12-battle-of-the-clipboard-managers",
+   "name": "Battle of the Clipboard Managers",
+   "url": "https://www.reddit.com/r/macapps/comments/1cle6xz/battle_of_the_clipboard_managers/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“ Battle of the Clipboard Managers .” I don’t think I’ve ever linked to a Reddit thread here, but check this one out: it’s a long discussion about why a clipboard manager is a useful tool, plus a bunch of good options to choose from.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-12-proton-pass",
+   "name": "Proton Pass",
+   "url": "https://proton.me/pass",
+   "alt_urls": [
+    "https://www.kqzyfj.com/click-8836602-14448661",
+    "https://www.theverge.com/2024/5/6/24149955/proton-pass-adds-advanced-password-monitoring"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "My ongoing No. 1 piece of technology advice is that everyone needs a password manager. I’m a longtime 1Password fan, but Proton’s app is starting to look tempting — this week, it got a new monitoring tool for security threats, in addition to all the smart email hiding and sharing features it…",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-12-the-onn-4k-pro",
+   "name": "The Onn 4K Pro",
+   "url": "https://www.walmart.com/ip/4K-Pro-Streaming-Device/5193222892/?clickid=TLiW8q08SxyKTVUR6OynrQ8FUkHQTJ3N03VeX00&irgwc=1&sourceid=imp_TLiW8q08SxyKTVUR6OynrQ8FUkHQTJ3N03VeX00&veh=aff&wmlspartner=imp_482924&affiliates_ad_id=565706&campaign_id=9383&sharedid=",
+   "alt_urls": [
+    "https://www.theverge.com/2024/5/7/24151265/walmart-onn-4k-pro-google-tv-available"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Basically all streaming boxes are ad-riddled, slow, and bad. This Google TV box from Walmart is at least also cheap, comes with voice control and support for all the specs you’d want, and works as a smart speaker . I love a customizable button, too.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-12-dark-matter",
+   "name": "Dark Matter",
+   "url": "https://www.themoviedb.org/tv/196322-dark-matter",
+   "alt_urls": [
+    "https://www.theverge.com/24150193/apple-tv-plus-sci-fi-streaming-dark-matter-constellation"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’ve mostly loved all the Blake Crouch sci-fi books I’ve read, so I have high hopes for this Apple TV Plus series about life in a parallel universe. Apple TV Plus, by the way? Really good at the whole sci-fi thing .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-12-the-wordle-archive",
+   "name": "The Wordle archive",
+   "url": "https://www.nytco.com/press/solvers-can-now-play-the-official-wordle-archive-with-new-york-times-games/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "More than 1,000 days of Wordle , all ready to be played and replayed (because, let’s be honest, who remembers Wordle from three weeks ago?). I don’t have access to the archive yet, but you better believe I’ll be playing it all the way through as soon as it’s out.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-12-black-twitter-a-peoples-history",
+   "name": "Black Twitter: A People’s History",
+   "url": "https://www.themoviedb.org/tv/230562-black-twitter?language=es-AR",
+   "alt_urls": [
+    "https://www.wired.com/story/black-twitter-oral-history-part-i-coming-together/"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Based on a really fun Wired series , this is a three-part deep dive Hulu doc about the ways Black Twitter took over social media and a tour of the internet’s experience of some of the biggest events of the last decade.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-12-iphone-14-pro-max",
+   "name": "iPhone 14 Pro Max",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 14 Pro Max.",
+   "section": "screen-share",
+   "recommender": "Kylie"
+  },
+  {
+   "id": "2024-05-12-stardew-valley",
+   "name": "Stardew Valley",
+   "url": "https://www.stardewvalley.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Stardew Valley took over my life during my work break. I actually started 3 Body Problem because of an old Installer . Also, I loved Fallout and need more episodes. My serious guilty pleasure is Love Island UK , and I’ve been watching the latest season during my break.",
+   "section": "screen-share",
+   "recommender": "Kylie"
+  },
+  {
+   "id": "2024-05-12-3-body-problem",
+   "name": "3 Body Problem",
+   "url": "https://www.themoviedb.org/tv/108545-3-body-problem?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Stardew Valley took over my life during my work break. I actually started 3 Body Problem because of an old Installer . Also, I loved Fallout and need more episodes. My serious guilty pleasure is Love Island UK , and I’ve been watching the latest season during my break.",
+   "section": "screen-share",
+   "recommender": "Kylie"
+  },
+  {
+   "id": "2024-05-12-fallout",
+   "name": "Fallout",
+   "url": "https://www.themoviedb.org/tv/106379-fallout",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Stardew Valley took over my life during my work break. I actually started 3 Body Problem because of an old Installer . Also, I loved Fallout and need more episodes. My serious guilty pleasure is Love Island UK , and I’ve been watching the latest season during my break.",
+   "section": "screen-share",
+   "recommender": "Kylie"
+  },
+  {
+   "id": "2024-05-12-love-island-uk",
+   "name": "Love Island UK",
+   "url": "https://www.themoviedb.org/tv/66636-love-island?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Stardew Valley took over my life during my work break. I actually started 3 Body Problem because of an old Installer . Also, I loved Fallout and need more episodes. My serious guilty pleasure is Love Island UK , and I’ve been watching the latest season during my break.",
+   "section": "screen-share",
+   "recommender": "Kylie"
+  },
+  {
+   "id": "2024-05-12-pandora",
+   "name": "Pandora",
+   "url": "https://www.pandora.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have always found Spotify’s recommendation algorithm and music channels to be terrible; wayyy too much fussing and tailoring required when all I want is to hit play and get a good diversity of music I will like. So I finally gave up and tried Pandora again.",
+   "section": "crowdsourced",
+   "recommender": "Will (reader)"
+  },
+  {
+   "id": "2024-05-12-netflix-is-a-joke-fest",
+   "name": "Netflix Is a Joke Fest",
+   "url": "https://www.netflixisajokefest.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Everything coming out of Netflix Is a Joke Fest has been 10/10.",
+   "section": "crowdsourced",
+   "recommender": "Mike (reader)"
+  },
+  {
+   "id": "2024-05-12-mantella",
+   "name": "Mantella",
+   "url": "https://www.nexusmods.com/skyrimspecialedition/mods/98631",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Mantella mod for Skyrim (and Fallout 4 ). Not so much a single mod, but a mod plus a collection of apps that gives (basically) every NPC their own lives and stories.",
+   "section": "crowdsourced",
+   "recommender": "Jonathan (reader)"
+  },
+  {
+   "id": "2024-05-12-snipd",
+   "name": "Snipd",
+   "url": "https://www.snipd.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Snipd podcast app (whose primary selling point is AI transcription of podcasts and the ability to easily capture, manage, and export text snippets from podcasts) has a new feature that shows you a name, bio, and picture for podcast guests, and allows you to find more podcasts with the same…",
+   "section": "crowdsourced",
+   "recommender": "Andy (reader)"
+  },
+  {
+   "id": "2024-05-12-omnivore",
+   "name": "Omnivore",
+   "url": "https://omnivore.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have recently bought a new Kindle, and I’m trying to figure out how to get news on it! My current plan is to use Omnivore as my bookmarks app, which will sync with this awesome community tool that converts those bookmarks into a Kindle-friendly website .",
+   "section": "crowdsourced",
+   "recommender": "David (reader)"
+  },
+  {
+   "id": "2024-05-12-a-kindle-friendly-website",
+   "name": "a Kindle-friendly website",
+   "url": "https://reink.app/auth",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have recently bought a new Kindle, and I’m trying to figure out how to get news on it! My current plan is to use Omnivore as my bookmarks app, which will sync with this awesome community tool that converts those bookmarks into a Kindle-friendly website .",
+   "section": "crowdsourced",
+   "recommender": "David (reader)"
+  },
+  {
+   "id": "2024-05-12-turtles-all-the-way-down",
+   "name": "Turtles All the Way Down",
+   "url": "https://www.themoviedb.org/movie/574451-turtles-all-the-way-down?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Turtles All the Way Down ! Great depiction of OCD.",
+   "section": "crowdsourced",
+   "recommender": "Saad (reader)"
+  },
+  {
+   "id": "2024-05-12-miyoo-mini-plus",
+   "name": "Miyoo Mini Plus",
+   "url": "https://www.miyoogame.com/product/miyoo-mini-plus-retro-handheld-game-console/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "With all the conversation around Delta on iOS, I have recently procured and am currently enamored with my Miyoo Mini Plus .",
+   "section": "crowdsourced",
+   "recommender": "Benjamin (reader)"
+  },
+  {
+   "id": "2024-05-12-rustys-retirement",
+   "name": "Rusty’s Retirement",
+   "url": "https://store.steampowered.com/app/2666510/Rustys_Retirement/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Rusty’s Retirement is a great, mostly idle farm sim that sits at the bottom or the side of your monitor for both Mac and Windows. Rusty just goes and completes little tasks of his own accord while you work or do other stuff. It rocks. Look at him go!",
+   "section": "crowdsourced",
+   "recommender": "Brendon (reader)"
+  },
+  {
+   "id": "2024-05-12-panels",
+   "name": "Panels",
+   "url": "https://panels.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Last week, Nicholas talked about YACReader and was asking for another great comic e-reader app for DRM-free files. After much searching myself, I settled on Panels for iPad. Great Apple-native UI, thoughtful features, and decent performance.",
+   "section": "crowdsourced",
+   "recommender": "Diogo (reader)"
+  },
+  {
+   "id": "2024-05-12-depth-of-field-simulator",
+   "name": "depth of field simulator",
+   "url": "https://jherr.github.io/depth-of-field/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have spent so much time over the years trying to both figure out and explain to people the basics of a camera. There are a billion metaphors for ISO, shutter speed, and aperture, and all of them fall short.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

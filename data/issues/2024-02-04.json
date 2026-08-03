@@ -1,0 +1,534 @@
+{
+ "schema": 1,
+ "date": "2024-02-04",
+ "post_type": "issue",
+ "title": "How we all get news now",
+ "url": "https://www.theverge.com/24059488/news-reading-apps-arc-search-mr-mrs-smith-project-tapestry-installer-newsletter",
+ "author": "David Pierce",
+ "number": 24,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "deep-dive",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:37+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-02-04-filterworld",
+   "name": "Filterworld",
+   "url": "https://www.penguinrandomhouse.com/books/695902/filterworld-by-kyle-chayka/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading Kyle Chayka’s great book about algorithms, Filterworld , getting nostalgic about Tecmo Bowl , seeing if this show can get me into NASCAR like Drive to Survive got me into Formula 1, catching up on old Conan O’Brien Needs a Friend episodes, spending too much time…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-04-nostalgic-about-tecmo-bowl",
+   "name": "nostalgic about Tecmo Bowl",
+   "url": "https://theathletic.com/5234365/2024/02/01/all-tecmo-bowl-team-nintento-game/?source=user_shared_article",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading Kyle Chayka’s great book about algorithms, Filterworld , getting nostalgic about Tecmo Bowl , seeing if this show can get me into NASCAR like Drive to Survive got me into Formula 1, catching up on old Conan O’Brien Needs a Friend episodes, spending too much time…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-04-this-show",
+   "name": "this show",
+   "url": "https://www.themoviedb.org/tv/243348-nascar-full-speed?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading Kyle Chayka’s great book about algorithms, Filterworld , getting nostalgic about Tecmo Bowl , seeing if this show can get me into NASCAR like Drive to Survive got me into Formula 1, catching up on old Conan O’Brien Needs a Friend episodes, spending too much time…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-04-drive-to-survive",
+   "name": "Drive to Survive",
+   "url": "https://www.themoviedb.org/tv/87083-formula-1-drive-to-survive?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading Kyle Chayka’s great book about algorithms, Filterworld , getting nostalgic about Tecmo Bowl , seeing if this show can get me into NASCAR like Drive to Survive got me into Formula 1, catching up on old Conan O’Brien Needs a Friend episodes, spending too much time…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-04-conan-obrien-needs-a-friend",
+   "name": "Conan O’Brien Needs a Friend",
+   "url": "https://teamcoco.com/podcasts/conan-obrien-needs-a-friend",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading Kyle Chayka’s great book about algorithms, Filterworld , getting nostalgic about Tecmo Bowl , seeing if this show can get me into NASCAR like Drive to Survive got me into Formula 1, catching up on old Conan O’Brien Needs a Friend episodes, spending too much time…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-04-a-vision-pro",
+   "name": "a Vision Pro",
+   "url": "https://www.apple.com/apple-vision-pro/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading Kyle Chayka’s great book about algorithms, Filterworld , getting nostalgic about Tecmo Bowl , seeing if this show can get me into NASCAR like Drive to Survive got me into Formula 1, catching up on old Conan O’Brien Needs a Friend episodes, spending too much time…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-04-peter-mckinnons-studio",
+   "name": "Peter McKinnon’s studio",
+   "url": "https://www.youtube.com/watch?v=xrkjidEcToQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading Kyle Chayka’s great book about algorithms, Filterworld , getting nostalgic about Tecmo Bowl , seeing if this show can get me into NASCAR like Drive to Survive got me into Formula 1, catching up on old Conan O’Brien Needs a Friend episodes, spending too much time…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-04-arc-search",
+   "name": "Arc Search",
+   "url": "https://apps.apple.com/us/app/arc-search/id6472513080",
+   "alt_urls": [
+    "https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios"
+   ],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Honestly, can someone else build a cool new browser so I can stop talking so much about Arc? Please and thanks. For now, this is easily the most interesting company in this space, and the new Arc iOS app is both really cool and maybe an existential crisis for the internet.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-04-mr-mrs-smith",
+   "name": "Mr. & Mrs. Smith",
+   "url": "https://www.themoviedb.org/tv/118642-mr-mrs-smith",
+   "alt_urls": [
+    "https://www.themoviedb.org/movie/787-mr-mrs-smith"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I love the 2005 Brangelina movie , so I was slightly worried about whether this show would hold up, especially given all the behind-the-scenes shenanigans. But it seems to! People like it! (I also got a lot of recommendations for this one. My hopes might now be too high for this show…)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-04-project-tapestry",
+   "name": "Project Tapestry",
+   "url": "https://www.kickstarter.com/projects/iconfactory/project-tapestry",
+   "alt_urls": [
+    "https://www.theverge.com/2024/1/31/24057231/iconfactory-kickstarter-internet-reader-project-tapestry-twitterrific"
+   ],
+   "category": "gadget",
+   "tags": [
+    "kickstarter"
+   ],
+   "blurb": "As a rule, I don’t love linking to Kickstarters here, but for this, I’ll make an exception: the folks behind apps like Twitterrific, Ollie’s Arcade, and Tot, are building an app for collecting, organizing, and reading the internet. I think this is going to be awesome.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-04-infinite-craft",
+   "name": "Infinite Craft",
+   "url": "https://neal.fun/infinite-craft/",
+   "alt_urls": [
+    "https://neal.fun/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Also as a rule, I will pretty much always post whatever Neal Agarwal makes on his website , which is full of fun and silly things to play with. This one is just an endless series of ways to combine things and make new things, and I cannot explain why I love it so much. But I love it so much.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-04-circle-to-search",
+   "name": "Circle to Search",
+   "url": "https://blog.google/products/search/how-to-use-circle-to-search-google/",
+   "alt_urls": [
+    "https://winbuzzer.com/2024/01/30/microsoft-edge-may-introduce-circle-to-search-gesture-with-ai-powered-copilot-xcxwbn/",
+    "https://www.theverge.com/2024/1/17/24041792/google-is-bringing-ai-powered-insights-to-multisearch"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Now available on a Pixel or Galaxy near you: a nifty way to search just by drawing a circle around whatever you see and care about.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-04-the-skylight-calendar-max",
+   "name": "The Skylight Calendar Max",
+   "url": "https://www.skylightframe.com/products/skylight-calendar-max/",
+   "alt_urls": [
+    "https://www.theverge.com/2024/1/30/24054438/skylight-cal-max-smart-family-calendar-launch-pricing"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "My calendar app is the only reason I’m a remotely functional human being, so of course the idea of a 27-inch screen dedicated to blaring my calendar at me seems super compelling. It’s $600, which is ludicrous, but I’m this close to buying the 15-inch $300 model.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-04-curb-your-enthusiasm",
+   "name": "Curb Your Enthusiasm",
+   "url": "https://www.themoviedb.org/tv/4546-curb-your-enthusiasm?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I have a confession: until very recently, I’d never really watched Curb . Like, I’ve seen episodes, but I’ve never just done a full run-through of the show. Now, I’m about halfway through, and I can’t believe I was missing it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-04-marvel-studios-assembled-the-making-of-echo",
+   "name": "Marvel Studios Assembled: The Making of Echo",
+   "url": "https://www.themoviedb.org/movie/1220337-marvel-studios-assembled-the-making-of-echo",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This is less a specific recommendation for this one and more a general recommendation for the whole Assembled series. Disney Plus is full of great behind-the-scenes stuff, and there are docs like this for a bunch of different Marvel stuff, almost all of which are super wonky and cool.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-04-never-post",
+   "name": "Never Post",
+   "url": "https://www.neverpo.st/",
+   "alt_urls": [
+    "https://www.neverpo.st/never-post/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "So far, there are only two episodes of this podcast — which is basically a bunch of Extremely Online people talking about Extremely Online things, and I mean that in the very best way — and I’ve loved them both. The first episode , on independent media companies, was particularly great.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-04-the-new-york-times-app",
+   "name": "The New York Times app",
+   "url": "https://www.nytimes.com/",
+   "alt_urls": [
+    "https://www.washingtonpost.com/",
+    "https://www.economist.com/",
+    "https://www.wsj.com/",
+    "https://www.theatlantic.com/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Most people just have A Place. Or two. Overwhelmingly, I heard from folks who mostly just open up one or two sources to get their news. The New York Times app was the most-named one by a pretty wide margin, which didn’t really surprise me.",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-04-informed-news",
+   "name": "Informed News",
+   "url": "https://www.informed.so/",
+   "alt_urls": [
+    "https://ground.news/about",
+    "https://www.inkl.com/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "There are so many good curators! I heard from a bunch of folks who really like getting a broad swath of stuff, quickly, all in one place. The three most popular ones were Informed News , Ground News , and Inkl .",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-04-google-news",
+   "name": "Google News",
+   "url": "https://news.google.com/home?hl=en-US&gl=US&ceid=US:en",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "And then there’s Google News . If you want a news app that knows what you like, a number of folks said Google News is the place that most consistently shows them stuff they care about from all over.",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-04-feedly",
+   "name": "Feedly",
+   "url": "https://feedly.com/",
+   "alt_urls": [
+    "https://www.inoreader.com/",
+    "https://netnewswire.com/",
+    "https://feeeed.nateparrott.com/",
+    "https://www.goldenhillsoftware.com/unread/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "We stan an RSS reader. Feedly got a lot of votes, but Inoreader and NetNewsWire both have some fans, and Feeeed and Unread both got a couple of shout-outs.",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-04-philip-defranco",
+   "name": "Philip DeFranco",
+   "url": "https://www.youtube.com/@PhilipDeFranco",
+   "alt_urls": [
+    "https://www.youtube.com/PBSNewsHour"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Video isn’t huge, but it’s out there. I got a couple of “I get stuff from YouTube” emails and a couple of shouts for Philip DeFranco in particular, but not as many as I expected. One person, Josh, also specifically recommended PBS NewsHour on YouTube , which I’m also enjoying now.",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-04-pixel-8",
+   "name": "Pixel 8",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: Pixel 8. It’s the slipperiest phone I’ve ever owned, and it finally convinced me to buy a phone case. I got the hazel one from Google.",
+   "section": "screen-share",
+   "recommender": "Jake"
+  },
+  {
+   "id": "2024-02-04-shiho-konno",
+   "name": "Shiho Konno",
+   "url": "https://twitter.com/shi44ilo/status/1553893446234312705",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: I love this illustration for how in contrast it feels to everything else on a phone. I found it on Twitter after I went down a rabbit hole of following a bunch of Japanese illustrators.",
+   "section": "screen-share",
+   "recommender": "Jake"
+  },
+  {
+   "id": "2024-02-04-analogue-pocket",
+   "name": "Analogue Pocket",
+   "url": "https://www.analogue.co/pocket",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just got an Analogue Pocket . Using it feels like playing games the way you remembered them. (Even if the games maybe play just a bit worse 20 years later.) This Yeule album from last year is like 50 percent of my Spotify listening right now.",
+   "section": "screen-share",
+   "recommender": "Jake"
+  },
+  {
+   "id": "2024-02-04-yeule-album",
+   "name": "Yeule album",
+   "url": "https://yeule.bandcamp.com/album/softscars",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "I just got an Analogue Pocket . Using it feels like playing games the way you remembered them. (Even if the games maybe play just a bit worse 20 years later.) This Yeule album from last year is like 50 percent of my Spotify listening right now.",
+   "section": "screen-share",
+   "recommender": "Jake"
+  },
+  {
+   "id": "2024-02-04-kashmiri-red-chili",
+   "name": "Kashmiri Red Chili",
+   "url": "https://iherb.prf.hn/click/camref:1011l5DsPb/%5Bp_id:1011l394533%5D/destination:https%3A%2F%2Fwww.iherb.com%2Fpr%2Fpure-indian-foods-organic-kashmiri-red-chili-ground-8-oz-226-g%2F113883",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just got an Analogue Pocket . Using it feels like playing games the way you remembered them. (Even if the games maybe play just a bit worse 20 years later.) This Yeule album from last year is like 50 percent of my Spotify listening right now.",
+   "section": "screen-share",
+   "recommender": "Jake"
+  },
+  {
+   "id": "2024-02-04-pi-fyi",
+   "name": "PI.FYI",
+   "url": "https://www.pi.fyi/welcome/NEW_USER",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Really enjoying PI.FYI after reading Kevin’s story . Lotta bugs but makes me feel indescribable things.",
+   "section": "crowdsourced",
+   "recommender": "Akhilesh (reader)"
+  },
+  {
+   "id": "2024-02-04-noteplan",
+   "name": "NotePlan",
+   "url": "https://noteplan.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Don’t know why NotePlan isn’t getting more attention — it’s a fantastic app for writing notes and planning using time blocks and has great integration with calendars and reminders. The developer, Eduard, is extremely good at listening to users.",
+   "section": "crowdsourced",
+   "recommender": "Anders (reader)"
+  },
+  {
+   "id": "2024-02-04-the-memphis-belle",
+   "name": "The Memphis Belle",
+   "url": "https://www.youtube.com/watch?v=DW4F_ZMrS3A&t=3s",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The Memphis Belle is an (incredibly well-made) propaganda documentary from 1943. Watching it on YouTube and comparing it to Masters of the Air is fascinating and makes it obvious that it must have been a big source of inspiration for the show. The overlap is huge.",
+   "section": "crowdsourced",
+   "recommender": "Nino (reader)"
+  },
+  {
+   "id": "2024-02-04-pigments",
+   "name": "Pigments",
+   "url": "https://www.arturia.com/products/software-instruments/pigments/overview",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Arturia released a free update to their modern softsynth, Pigments , this week. While I can’t complain about a free upgrade to an already solid product, it’s not my pick: using Pigments 5 has underscored how much I prefer using the built-in synthesis tools of my DAW of choice, Bitwig Studio (it’s…",
+   "section": "crowdsourced",
+   "recommender": "Andrew (reader)"
+  },
+  {
+   "id": "2024-02-04-bitwig-studio",
+   "name": "Bitwig Studio",
+   "url": "https://www.bitwig.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Arturia released a free update to their modern softsynth, Pigments , this week. While I can’t complain about a free upgrade to an already solid product, it’s not my pick: using Pigments 5 has underscored how much I prefer using the built-in synthesis tools of my DAW of choice, Bitwig Studio (it’s…",
+   "section": "crowdsourced",
+   "recommender": "Andrew (reader)"
+  },
+  {
+   "id": "2024-02-04-new-halo-infinite-content",
+   "name": "new Halo Infinite content",
+   "url": "https://www.halowaypoint.com/news/cu29-launch",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been getting re-obsessed with Halo due to new Halo Infinite content as well as the forthcoming season 2 of the show , which seems like a massive improvement from the rather compromised first season.",
+   "section": "crowdsourced",
+   "recommender": "Kenton (reader)"
+  },
+  {
+   "id": "2024-02-04-season-2-of-the-show",
+   "name": "season 2 of the show",
+   "url": "https://www.youtube.com/watch?v=pfiTJ2JNDco",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’ve been getting re-obsessed with Halo due to new Halo Infinite content as well as the forthcoming season 2 of the show , which seems like a massive improvement from the rather compromised first season.",
+   "section": "crowdsourced",
+   "recommender": "Kenton (reader)"
+  },
+  {
+   "id": "2024-02-04-healthfit",
+   "name": "HealthFit",
+   "url": "https://apps.apple.com/us/app/healthfit/id1202650514",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "I recently started training for a triathlon using my Apple Watch. While it’s great in many ways, Apple’s Fitness app does not show as much data as I would like. HealthFit is a simple yet powerful app that fills this gap with its crazy graphs and more.",
+   "section": "crowdsourced",
+   "recommender": "Krystof (reader)"
+  },
+  {
+   "id": "2024-02-04-spurious-correlations",
+   "name": "Spurious Correlations",
+   "url": "https://tylervigen.com/spurious-correlations",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Spurious Correlations . It’s absolutely lovely to have such weird pairings correlated. Example after example of the adage, ‘Correlation is not causation.’ And then to see the AI descriptions below the graphs’ completely made-up drivel applying causation is just chef’s kiss.” – Matthew.",
+   "section": "crowdsourced",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-04-song-from-2006",
+   "name": "song from 2006",
+   "url": "https://www.youtube.com/watch?v=EN1wLod8VKk",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Obsessed with the James Figurine (Jimmy Tamborello from Dntel and The Postal Service) song from 2006 about texting and relationships before smartphones (and without T9).",
+   "section": "crowdsourced",
+   "recommender": "Michael (reader)"
+  },
+  {
+   "id": "2024-02-04-pop-pantheon",
+   "name": "Pop Pantheon",
+   "url": "https://www.poppantheonpod.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My podcast recommendation is Pop Pantheon — ultra-deep dives into pop music careers and wider topics from host DJ Louie XIV and expert guests.",
+   "section": "crowdsourced",
+   "recommender": "Ben (reader)"
+  },
+  {
+   "id": "2024-02-04-play-and-rank-every-single-nes-game",
+   "name": "play and rank every single NES game",
+   "url": "https://www.youtube.com/playlist?list=PLDKeuvgV0sxZ_xs4zUvQcMEV-LTjSf-Ok",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’ve been watching video game expert Jeff Gerstmann play and rank every single NES game released in North America! It’s a wild endeavor to embark on, but there’s nobody else I’d rather see do it.",
+   "section": "crowdsourced",
+   "recommender": "Luke (reader)"
+  },
+  {
+   "id": "2024-02-04-this-one",
+   "name": "this one",
+   "url": "https://www.amazon.com/dp/B07Z64CSTJ?language=en-US&tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "Winter travel is great: fewer crowds, things are cheaper. Dry hotel rooms are not great. I bought a portable USB-powered humidifier ahead of two winter trips. Putting it on the nightstand next to my face made a noticeable difference when waking up.",
+   "section": "crowdsourced",
+   "recommender": "Sean (reader)"
+  },
+  {
+   "id": "2024-02-04-retro-bowl",
+   "name": "Retro Bowl",
+   "url": "https://www.newstargames.com/servlet/Content/en/text/releases/Releases/item/424/Releases-Retro-Bowl",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Kevin Nguyen, a deputy editor at The Verge, sent over a recommendation that derailed my whole week. Here’s what he said: “There’s no football this weekend, but you can bridge that gap to the Super Bowl by playing Retro Bowl .",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-04-retro-goal",
+   "name": "Retro Goal",
+   "url": "https://www.newstargames.com/servlet/Content/en/text/releases/Releases/item/448/Releases-Retro-Goal",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "He’s not kidding. I have been playing this game more or less nonstop since Kevin told me about it (it works really well with a controller, by the way), to the point where I have to leave my phone in the other room or I’ll play it all night and not sleep.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

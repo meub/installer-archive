@@ -1,0 +1,843 @@
+{
+ "schema": 1,
+ "date": "2024-05-26",
+ "post_type": "issue",
+ "title": "A big list of the best tiny games on the internet",
+ "url": "https://www.theverge.com/24163971/best-daily-games-internet-wordle-coffee-golf-connections",
+ "author": "David Pierce",
+ "number": 39,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "group-project",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-05-26-the-fall-of-red-lobster",
+   "name": "the fall of Red Lobster",
+   "url": "https://open.spotify.com/episode/5iJaCVG4iEYsFQS43gt9mo?si=1bHoeX23Q5-eSgD0zCx8cQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
+   "blurb": "This week, I’ve been writing about Surfaces and other tablets , chatting with some internet friends about the fall of Red Lobster , reading about Magic: The Gathering and the history of emoji , watching MoviePass, MovieCrash , weeding my patio with a literal flamethrower, and for some reason…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-magic-the-gathering",
+   "name": "Magic: The Gathering",
+   "url": "https://defector.com/the-creator-of-magic-the-gathering-knows-exactly-where-it-all-went-wrong",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about Surfaces and other tablets , chatting with some internet friends about the fall of Red Lobster , reading about Magic: The Gathering and the history of emoji , watching MoviePass, MovieCrash , weeding my patio with a literal flamethrower, and for some reason…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-the-history-of-emoji",
+   "name": "the history of emoji",
+   "url": "https://blog.gingerbeardman.com/2024/05/10/emoji-history-the-missing-years/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about Surfaces and other tablets , chatting with some internet friends about the fall of Red Lobster , reading about Magic: The Gathering and the history of emoji , watching MoviePass, MovieCrash , weeding my patio with a literal flamethrower, and for some reason…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-moviepass-moviecrash",
+   "name": "MoviePass, MovieCrash",
+   "url": "https://www.themoviedb.org/movie/1229898-moviepass-moviecrash",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been writing about Surfaces and other tablets , chatting with some internet friends about the fall of Red Lobster , reading about Magic: The Gathering and the history of emoji , watching MoviePass, MovieCrash , weeding my patio with a literal flamethrower, and for some reason…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-the-sonos-ace-headphones",
+   "name": "The Sonos Ace headphones",
+   "url": "https://www.anrdoezrs.net/click-8836598-11556673?url=https://www.sonos.com/en-us/shop/sonos-ace",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m generally very happy with my Bose QuietComfort Headphones, which are kind of beaten up but still work great. Even for $450, though, the Ace look really nice — I dig the super-minimalist vibe, almost like they’re an early prototype the company shipped. Really curious to see the reviews on these.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-the-new-surface-pro",
+   "name": "The new Surface Pro",
+   "url": "https://www.microsoft.com/en-us/surface/devices/surface-pro-11th-edition",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If you’re one of the “why can’t my iPad do more stuff” kinds of people, the device you want might not be an iPad. It might be the new $999 Surface Pro, which Microsoft promises has great performance and battery, comes in cool colors, and has a really nifty new keyboard attachment.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-paper-mario-the-thousand-year-door",
+   "name": "Paper Mario: The Thousand-Year Door",
+   "url": "https://www.nintendo.com/us/store/products/paper-mario-the-thousand-year-door-switch/",
+   "alt_urls": [
+    "https://www.theverge.com/24162364/paper-mario-rpg-nintendo-switch"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "Another great reboot from Nintendo, which is remarkably good at sprucing up old Mario games and getting me hooked on them all over again. Like my colleague Andrew Webster wrote , the Switch is turning into a retro Mario RPG machine, and it’s awesome.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-howtown",
+   "name": "Howtown",
+   "url": "https://www.youtube.com/@Howtown_videos",
+   "alt_urls": [
+    "https://pjvogt.substack.com/",
+    "https://underunderstood.com/podcast/"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I love a good “no mystery too small” show, which is why I’m a religious consumer of things like Search Engine and Underunderstood . This new YouTube channel, from two excellent creators, is an insta-subscribe for me. And they have some really fun guests lined up!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-microsoft-recall",
+   "name": "Microsoft Recall",
+   "url": "https://support.microsoft.com/en-us/windows/retrace-your-steps-with-recall-aa03f8a0-a78b-4b3e-b0a1-2eb8ac48701c",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "One of the cooler AI apps I’ve seen — and maybe the best argument yet for why you need an “AI PC.” Sure, an app that tracks everything you do on your computer feels slightly creepy, but that’s kind of already how your computer works. This just makes it useful.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-furiosa-a-mad-max-saga",
+   "name": "Furiosa: A Mad Max Saga",
+   "url": "https://www.themoviedb.org/movie/786892-furiosa-a-mad-max-saga?language=en-US",
+   "alt_urls": [
+    "https://www.themoviedb.org/movie/76341-mad-max-fury-road?language=en-US"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Fury Road is one of the coolest movies ever made, if you ask me, and by all accounts, Furiosa is a worthy — if slightly slower and less, uh, bonkers — follow-up. It’s also apparently the rare prequel that adds something to the first flick; guess which two movies I’ll be watching this weekend.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-stompers",
+   "name": "Stompers",
+   "url": "https://www.stompers.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m currently very into silly, chill, less-intense workout apps, and this is such a funny one. You compete with your friends to walk more, and when you’re winning, your friends get, like, virtual bananas to slow you down. Delightful!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-canva",
+   "name": "Canva",
+   "url": "https://www.canva.com/",
+   "alt_urls": [
+    "https://www.theverge.com/2024/5/23/24163356/canva-enterprise-announcement-design-platform-redesign"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Canva launched a big redesign this week (at least, if you can find a “secret portal”), which comes with a bunch of clever AI features and some new ways for your IT department to give Canva money. I don’t use Canva much personally, but the folks I know who do tend to love it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-hellblade-ii",
+   "name": "Hellblade II",
+   "url": "https://senuassaga.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This game sounds genuinely terrifying — and there’s not much I love more than a game that makes me scream out loud. The sound design appears to be particularly intense, so if you need me this weekend, I’ll be holed up in the dark scaring myself half to death.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-the-daylight-dc1",
+   "name": "The Daylight DC1",
+   "url": "https://daylightcomputer.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Half of me rolls my eyes at anyone who’s like, “Gadgets are bad. Here’s a gadget to save you from gadgets.” And it’s $729! But I love the retro-future aesthetic here, I’m hopeful the screen tech works, and I’ll be keeping an eye on this thing for sure.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-coffee-golf",
+   "name": "Coffee Golf",
+   "url": "https://linktr.ee/coffeegolfgame",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A new five-hole golf course to play every day. (This was the most recommended game of the week, by a lot, and I can see why. I love it.)",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-bandle",
+   "name": "Bandle",
+   "url": "https://bandle.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Guess the song, one instrument at a time.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-travle",
+   "name": "Travle",
+   "url": "https://travle.earth/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Get from one place to another, one adjacent country at a time.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-connections",
+   "name": "Connections",
+   "url": "https://www.nytimes.com/games/connections",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Find the four words that belong together.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-framed",
+   "name": "Framed",
+   "url": "https://framed.wtf/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Guess the movie, one screenshot at a time.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-wordle",
+   "name": "Wordle",
+   "url": "https://www.nytimes.com/games/wordle/index.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Can’t forget the OG!",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-worldle",
+   "name": "Worldle",
+   "url": "https://worldle.teuteuf.fr/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Guess the country by its shape.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-summle",
+   "name": "Summle",
+   "url": "https://summle.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Put the numbers and operators in place to make math equations work.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-episode",
+   "name": "Episode",
+   "url": "https://episode.wtf/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Like Framed , but for TV shows.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-cinequote",
+   "name": "CineQuote",
+   "url": "https://cinequote.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Guess the movie, one line at a time.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-murdle",
+   "name": "Murdle",
+   "url": "https://murdle.com/?mode=tutorial",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Solve a mystery with only a few clues.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-waffle",
+   "name": "Waffle",
+   "url": "https://wafflegame.net/daily",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Rearrange the board until all the letters are in the right place.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-knotwords",
+   "name": "Knotwords",
+   "url": "https://playknotwords.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Like sudoku meets a crossword puzzle.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-strands",
+   "name": "Strands",
+   "url": "https://www.nytimes.com/games/strands",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A word search with a theme.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-queens-pinpoint-crossclimb",
+   "name": "Queens / Pinpoint / Crossclimb",
+   "url": "https://www.linkedin.com/games/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The three new daily games on LinkedIn, which are all pretty fun.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-housle",
+   "name": "Housle",
+   "url": "https://housle.house/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Guess the house price by the photo.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-immaculate-grid",
+   "name": "Immaculate Grid",
+   "url": "https://www.immaculategrid.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The original, I think? Guess the athlete, across lots of sports.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-geogrid",
+   "name": "GeoGrid",
+   "url": "https://www.geogridgame.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Guess the country.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-cinematrix",
+   "name": "Cinematrix",
+   "url": "https://www.vulture.com/article/daily-movie-grid-trivia-game-cinematrix.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Guess the movie.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-pedantle",
+   "name": "Pedantle",
+   "url": "https://cemantle.certitudes.org/pedantle",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Find words in a redacted page to figure out which Wikipedia entry it is.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-chromes-dino-game",
+   "name": "Chrome’s Dino Game",
+   "url": "https://chrome-dino-game.github.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Best use of a broken webpage ever.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-contexto",
+   "name": "Contexto",
+   "url": "https://contexto.me/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Try to guess the word just by guessing other words.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-football-bingo",
+   "name": "Football Bingo",
+   "url": "https://playfootball.games/football-bingo/daily",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Turns out, I don’t know soccer as well as I thought.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-untitled-game",
+   "name": "Untitled Game",
+   "url": "https://dinakelberman.com/untitledgame/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It loads a blank webpage. You figure out what to do next.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-random-battles-on-pokemon-showdown",
+   "name": "Random battles on Pokemon Showdown",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Random battles on Pokemon Showdown.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-universal-paperclips",
+   "name": "Universal Paperclips",
+   "url": "https://www.decisionproblem.com/paperclips/index2.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "You make paperclips. And sell them. As many as you can. Forever.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-box-office-game",
+   "name": "Box Office Game",
+   "url": "https://boxofficega.me/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The game gives you a weekend and some numbers, you try to guess the most popular movies.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-26-iphone-15-pro-max",
+   "name": "iPhone 15 Pro Max",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 15 Pro Max.",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-05-26-fujifilm-gfx-100s-ii",
+   "name": "Fujifilm GFX 100S II",
+   "url": "https://fujifilm-x.com/global/products/cameras/gfx100s-ii/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: A picture I took in Ohio while chasing the eclipse on a Fujifilm GFX 100S II Frankenstein attached to my Chamonix 4x5 view camera .",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-05-26-chamonix-4x5-view-camera",
+   "name": "Chamonix 4x5 view camera",
+   "url": "https://www.chamonixviewcameras.eu/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: A picture I took in Ohio while chasing the eclipse on a Fujifilm GFX 100S II Frankenstein attached to my Chamonix 4x5 view camera .",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-05-26-viewfinder-preview",
+   "name": "Viewfinder Preview",
+   "url": "https://viewfinderpreview.opticalaberration.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Viewfinder Preview . This is my favorite app for shooting film. I mostly use it for my 6:17 and 6:24 120 film cameras, but it’s amazing. You can emulate any film format and field of view, and you can take digital copies to both remember which image you shot and what your settings were.",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-05-26-fujifilm-camera-remote",
+   "name": "Fujifilm Camera Remote",
+   "url": "https://fujifilm-dsc.com/en/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Fujifilm Camera Remote . I use this to transfer photos from my X100 (my daily camera) to my phone. The new app (Fujfilmi XApp) never works for me for some reason, but the old app still works great.",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-05-26-pocket-casts",
+   "name": "Pocket Casts",
+   "url": "https://pocketcasts.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Pocket Casts . This is probably the most-used app on my phone. I’ve used this app since like 2010 for podcasts, and since I bought it once for $7 way back in the day, I got grandfathered in for a lifetime pro tier once they added a subscription model.",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-05-26-arc-search",
+   "name": "Arc Search",
+   "url": "https://apps.apple.com/us/app/arc-search-find-it-faster/id6472513080",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Arc Search . David, I think you and I are probably both the biggest Arc fans on the internet. The browser is just so delightful, and the desktop app is absolutely incredible for research; segmenting out my work life / accounts / research projects, and spaces is great.",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-05-26-hasselblad-flextight",
+   "name": "Hasselblad Flextight",
+   "url": "https://www.filmscanner.info/en/HasselbladFlextightX1.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Right now, I’m in the middle of getting a Hasselblad Flextight film scanner up and running. It’s the highest-quality scan you can get outside of a drum scan , but they’re so old, you have to use a super old Mac for it. My friend Willem Verbeeck made a video on it recently.",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-05-26-drum-scan",
+   "name": "drum scan",
+   "url": "https://en.wikipedia.org/wiki/Image_scanner#Drum",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Right now, I’m in the middle of getting a Hasselblad Flextight film scanner up and running. It’s the highest-quality scan you can get outside of a drum scan , but they’re so old, you have to use a super old Mac for it. My friend Willem Verbeeck made a video on it recently.",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-05-26-made-a-video",
+   "name": "made a video",
+   "url": "https://www.youtube.com/watch?v=rKC7h6muOfo",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Right now, I’m in the middle of getting a Hasselblad Flextight film scanner up and running. It’s the highest-quality scan you can get outside of a drum scan , but they’re so old, you have to use a super old Mac for it. My friend Willem Verbeeck made a video on it recently.",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-05-26-my-fujifilm-tx-1",
+   "name": "my Fujifilm TX-1",
+   "url": "https://www.youtube.com/watch?v=FNcOou59bBg",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Right now, I’m in the middle of getting a Hasselblad Flextight film scanner up and running. It’s the highest-quality scan you can get outside of a drum scan , but they’re so old, you have to use a super old Mac for it. My friend Willem Verbeeck made a video on it recently.",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-05-26-hard-fork",
+   "name": "Hard Fork",
+   "url": "https://www.nytimes.com/column/hard-fork",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Right now, I’m in the middle of getting a Hasselblad Flextight film scanner up and running. It’s the highest-quality scan you can get outside of a drum scan , but they’re so old, you have to use a super old Mac for it. My friend Willem Verbeeck made a video on it recently.",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-05-26-vsauces-channel",
+   "name": "VSauce’s channel",
+   "url": "https://www.youtube.com/@Vsauce",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Right now, I’m in the middle of getting a Hasselblad Flextight film scanner up and running. It’s the highest-quality scan you can get outside of a drum scan , but they’re so old, you have to use a super old Mac for it. My friend Willem Verbeeck made a video on it recently.",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-05-26-gawx-art",
+   "name": "Gawx Art",
+   "url": "https://www.youtube.com/@GawxArt",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Right now, I’m in the middle of getting a Hasselblad Flextight film scanner up and running. It’s the highest-quality scan you can get outside of a drum scan , but they’re so old, you have to use a super old Mac for it. My friend Willem Verbeeck made a video on it recently.",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-05-26-this-interview",
+   "name": "this interview",
+   "url": "https://www.youtube.com/watch?v=fDAqyQIaUPY",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Right now, I’m in the middle of getting a Hasselblad Flextight film scanner up and running. It’s the highest-quality scan you can get outside of a drum scan , but they’re so old, you have to use a super old Mac for it. My friend Willem Verbeeck made a video on it recently.",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-05-26-digital-spaghetti",
+   "name": "Digital Spaghetti",
+   "url": "https://www.youtube.com/@digspaghetti",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Right now, I’m in the middle of getting a Hasselblad Flextight film scanner up and running. It’s the highest-quality scan you can get outside of a drum scan , but they’re so old, you have to use a super old Mac for it. My friend Willem Verbeeck made a video on it recently.",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-05-26-jenny-nicholsons-youtube-essay",
+   "name": "Jenny Nicholson’s YouTube essay",
+   "url": "https://www.youtube.com/watch?v=T0CpOYZZZW4",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I loved Jenny Nicholson’s YouTube essay about the demise of the Star Wars Galactic Starcruiser hotel experience. It’s long (four hours!), but she goes into every detail, from concept, to her own visit, to why it failed. Totally worth the time.",
+   "section": "crowdsourced",
+   "recommender": "Mike (reader)"
+  },
+  {
+   "id": "2024-05-26-remindercal",
+   "name": "ReminderCal",
+   "url": "https://remindercal.bilaal.co.uk/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "ReminderCal is a really awesome app that syncs iOS Reminders so they appear in iOS Calendar. I’ve set up Shortcut automations for it, and now it works like magic (even when using the app switcher!) and feels like Apple integrated it! Plus I’m absolutely loving Hit Me Hard and Soft .",
+   "section": "crowdsourced",
+   "recommender": "John (reader)"
+  },
+  {
+   "id": "2024-05-26-hit-me-hard-and-soft",
+   "name": "Hit Me Hard and Soft",
+   "url": "https://billieeilish.lnk.to/HITMEHARDANDSOFT",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "ReminderCal is a really awesome app that syncs iOS Reminders so they appear in iOS Calendar. I’ve set up Shortcut automations for it, and now it works like magic (even when using the app switcher!) and feels like Apple integrated it! Plus I’m absolutely loving Hit Me Hard and Soft .",
+   "section": "crowdsourced",
+   "recommender": "John (reader)"
+  },
+  {
+   "id": "2024-05-26-wiztree",
+   "name": "WizTree",
+   "url": "https://diskanalyzer.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just saw someone mention SequoiaView, which is great, but WizTree is about 1 billion times faster. Hope it helps someone in a rush to clean up a disk…",
+   "section": "crowdsourced",
+   "recommender": "César (reader)"
+  },
+  {
+   "id": "2024-05-26-synology",
+   "name": "Synology",
+   "url": "https://www.synology.com/en-us",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I installed a Synology NAS in my home and set it up as a NAS (obviously) but also as a Plex server, which works really well!",
+   "section": "crowdsourced",
+   "recommender": "Wenzel (reader)"
+  },
+  {
+   "id": "2024-05-26-plex",
+   "name": "Plex",
+   "url": "https://www.plex.tv/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I installed a Synology NAS in my home and set it up as a NAS (obviously) but also as a Plex server, which works really well!",
+   "section": "crowdsourced",
+   "recommender": "Wenzel (reader)"
+  },
+  {
+   "id": "2024-05-26-peak-design-case",
+   "name": "Peak Design case",
+   "url": "https://www.peakdesign.com/products/everyday-case?variant=40285585473613",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Bought a bike recently and am really enjoying viewing my Apple Watch metrics on my iPhone. Using the Peak Design case and bike mount .",
+   "section": "crowdsourced",
+   "recommender": "Hobie (reader)"
+  },
+  {
+   "id": "2024-05-26-bike-mount",
+   "name": "bike mount",
+   "url": "https://www.peakdesign.com/products/out-front-bike-mount",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Bought a bike recently and am really enjoying viewing my Apple Watch metrics on my iPhone. Using the Peak Design case and bike mount .",
+   "section": "crowdsourced",
+   "recommender": "Hobie (reader)"
+  },
+  {
+   "id": "2024-05-26-virtual-japan",
+   "name": "Virtual Japan",
+   "url": "https://www.youtube.com/@VIRTUALJAPAN",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "After a long day, my favorite way of winding down before sleeping is watching this YouTube channel, Virtual Japan , that makes videos walking around Tokyo and other cities of Japan in a beautiful 4K HDR.",
+   "section": "crowdsourced",
+   "recommender": "Guilherme (reader)"
+  },
+  {
+   "id": "2024-05-26-an-onsen-town",
+   "name": "an Onsen town",
+   "url": "https://www.youtube.com/watch?v=cL9xDggsJc4",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "After a long day, my favorite way of winding down before sleeping is watching this YouTube channel, Virtual Japan , that makes videos walking around Tokyo and other cities of Japan in a beautiful 4K HDR.",
+   "section": "crowdsourced",
+   "recommender": "Guilherme (reader)"
+  },
+  {
+   "id": "2024-05-26-a-rainy-midnight-in-kyoto",
+   "name": "a rainy midnight in Kyoto",
+   "url": "https://www.youtube.com/watch?v=qgfd-uWTVwg",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "After a long day, my favorite way of winding down before sleeping is watching this YouTube channel, Virtual Japan , that makes videos walking around Tokyo and other cities of Japan in a beautiful 4K HDR.",
+   "section": "crowdsourced",
+   "recommender": "Guilherme (reader)"
+  },
+  {
+   "id": "2024-05-26-hoopla",
+   "name": "Hoopla",
+   "url": "https://www.hoopladigital.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Apparently this isn’t new, but I just heard about Hoopla this week! It’s an app that you can connect your local library card to and gain access to their library of digital content including streaming movies and TV shows!",
+   "section": "crowdsourced",
+   "recommender": "Charles (reader)"
+  },
+  {
+   "id": "2024-05-26-playcover",
+   "name": "PlayCover",
+   "url": "https://playcover.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Probably not new, but I learned about PlayCover and have been using it to replay the GTA III / Vice City / San Andreas games on my MacBook using my Netflix subscription.",
+   "section": "crowdsourced",
+   "recommender": "Alex (reader)"
+  },
+  {
+   "id": "2024-05-26-ue-wonderboom",
+   "name": "UE Wonderboom",
+   "url": "https://ultimate-ears.dubn.net/nLedo7",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "About this time of year, a lot of people start asking me (and everyone else I know who likes gadgets) which Bluetooth speaker to buy. It’s party and barbecue time, I guess! There are lots of good choices out there, but let me just save you a bunch of time: buy a UE Wonderboom .",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

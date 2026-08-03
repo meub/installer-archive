@@ -1,0 +1,404 @@
+{
+ "schema": 1,
+ "date": "2026-06-13",
+ "post_type": "issue",
+ "title": "A better way to manage all your screenshots",
+ "url": "https://www.theverge.com/tech/949465/pool-screenshots-app-disclosure-day-installer",
+ "author": "David Pierce",
+ "number": 132,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:40+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-06-13-steven-spielberg",
+   "name": "Steven Spielberg",
+   "url": "https://www.nytimes.com/2026/06/07/magazine/steven-spielberg-movie-theater-disclosure-day.html?unlocked_article_code=1.olA.9eLC.E9A5EkMW8QHN",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been preparing for a month of getting absolutely nothing done during the World Cup.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-13-wearables",
+   "name": "wearables",
+   "url": "https://www.nplusonemag.com/online-only/online-only/in-the-reality-lab/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been preparing for a month of getting absolutely nothing done during the World Cup.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-13-the-boeing-747",
+   "name": "the Boeing 747",
+   "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been preparing for a month of getting absolutely nothing done during the World Cup.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-13-the-virtual-os-museum",
+   "name": "The Virtual OS Museum",
+   "url": "https://virtualosmuseum.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been preparing for a month of getting absolutely nothing done during the World Cup.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-13-that-knicks-game-winner",
+   "name": "that Knicks game winner",
+   "url": "https://sports.yahoo.com/nba/article/og-anunoby-saves-knicks-with-game-winning-tip-in-huge-block-in-historic-finals-comeback-it-feels-cool-071149439.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been preparing for a month of getting absolutely nothing done during the World Cup.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-13-this-was-sportscenter",
+   "name": "This Was SportsCenter",
+   "url": "https://www.espn.com/espnradio/podcast/archive?id=47267310",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been preparing for a month of getting absolutely nothing done during the World Cup.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-13-the-renner-files",
+   "name": "The Renner Files",
+   "url": "https://redcircle.com/shows/the-renner-files",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been preparing for a month of getting absolutely nothing done during the World Cup.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-13-avec",
+   "name": "Avec",
+   "url": "https://www.avec.ai/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been preparing for a month of getting absolutely nothing done during the World Cup.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-13-pool",
+   "name": "Pool",
+   "url": "https://pool.day/",
+   "alt_urls": [
+    "https://www.theverge.com/ai-artificial-intelligence/650809/screenshots-apps-ai-pixel-nothing"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I remain totally convinced that “take a bunch of screenshots and let AI make sense of it” is a fundamentally great interface for using computers. Pool, which is finally out of beta, is exactly that — a way to bookmark and do things with anything you see on your screen.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-13-disclosure-day",
+   "name": "Disclosure Day",
+   "url": "https://www.themoviedb.org/movie/1275779-disclosure-day?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Spielberg making an alien movie: pretty much always a good thing! The trailer for this one made me nervous, but the reviews are mostly good. Even the ones that aren’t good are like, “It’s very fun but also it’s just a Spielberg alien movie,” which is actually precisely what I’m looking for.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-13-mister-rogers-neighborhood",
+   "name": "Mister Rogers’ Neighborhood",
+   "url": "https://www.youtube.com/@MisterRogersNeighborhood",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "A formative TV show for generations of kids is finally, officially on YouTube. The channel’s brand-new, but already has clips, full episodes, and livestreams to watch. That’s my toddler’s YouTube diet sorted for the foreseeable future.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-13-the-logitech-mobi-fold",
+   "name": "The Logitech Mobi Fold",
+   "url": "https://logitech.cfzu.net/c/482924/499820/8585?u=https%3A%2F%2Fwww.logitech.com%2Fen-us%2Fshop%2Fp%2Fmobi-fold-mouse&partnerpropertyid=7032191",
+   "alt_urls": [
+    "https://www.theverge.com/tech/945549/logitech-mobi-fold-wireless-bluetooth-travel-mouse-hands-on"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "If you carry a portable mouse for working on the go, there’s a good chance this $80 one’s an upgrade. It’s tiny, has a few useful customization options, and I think I like that it’s a touchpad instead of a scroll wheel? Very curious to drop this one into my travel iPad setup.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-13-claude-fable-5",
+   "name": "Claude Fable 5",
+   "url": "https://www.anthropic.com/claude/fable",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Leaving aside my many feelings about the fact that Anthropic shipped a variation on the model that two months ago it called too dangerous to release, I have been very impressed with Fable’s power and thoroughness so far. It’s a heck of a vibe-coding tool.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-13-the-insta360-luna-ultra",
+   "name": "The Insta360 Luna Ultra",
+   "url": "https://www.insta360.com/product/insta360-luna-ultra",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is like the Rolls-Royce of gimbal cameras. Two lenses, upgraded processing, a very clever detachable screen / remote control, and more. The $769 price is too high for me, but I suspect it’ll be worth it for a lot of creators.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-13-incorruptible-by-eric-ries",
+   "name": "Incorruptible by Eric Ries",
+   "url": "https://www.incorruptible.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Ries’ other book, The Lean Startup , is one you’ll find in basically any tech company’s office. This new one asks a very good and timely question: Is it possible to be successful without compromising all your morals and values? Ries says yes, and boy I hope he’s right.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-13-bluesky-group-chats",
+   "name": "Bluesky group chats",
+   "url": "https://bsky.app/profile/bsky.app/post/3mnzmprxpe22y",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It really seems like the Twitter-style, feed-based era of social is ending. Which is great news. Smart of Bluesky to get on top of it, and I really like the idea of creating spaces like this that are much smaller but still more than one-to-one chat.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-13-the-boox-go-6-gen-ii",
+   "name": "The Boox Go 6 Gen II",
+   "url": "https://shop.boox.com/products/go6gen2",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is Boox’s most Kindle-like device, and the new model adds note-taking features, has a bunch of color options, and of course comes with access to all your Android apps. I’d be all in on this thing if it didn’t run a SIX-YEAR-OLD version of Android, but even still I’m curious to give it a whirl.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-13-notebooklm",
+   "name": "NotebookLM",
+   "url": "https://notebooklm.google.com/",
+   "alt_urls": [
+    "https://blog.google/innovation-and-ai/products/notebooklm/better-research-notebooklm/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Google’s little research tool continues to impress me, and a bump up to Gemini 3.5 both makes the app smarter and gives it a bunch of new ways to present information. As a way to upload and query a bunch of websites / documents / PDFs, NotebookLM is tough to beat.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-13-wwdc-apples-annual-developer-conference",
+   "name": "WWDC, Apple’s annual developer conference",
+   "url": "https://www.youtube.com/watch?v=2TEeQjoY05c",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The big news of this week was WWDC, Apple’s annual developer conference . That’s where Apple announces all the most important software it has coming this year.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-13-whole-page-homepage-widgets",
+   "name": "whole-page homepage widgets",
+   "url": "https://9to5mac.com/2026/06/08/ios-27-adds-extra-large-widgets-for-your-extra-large-needs/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "But there’s one feature that’s already changing how I use my phone: widgets. Specifically, the monster, whole-page homepage widgets Apple now supports.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-13-blueys-quest-for-the-gold-pen",
+   "name": "Bluey’s Quest for the Gold Pen",
+   "url": "https://www.bluey.tv/play/blueys-quest/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My kids and I *love* the new Bluey game, Bluey’s Quest for the Gold Pen . The story is fun for them, but it’s also a very good introduction to platform mechanics for kiddos.",
+   "section": "crowdsourced",
+   "recommender": "Craig (reader)"
+  },
+  {
+   "id": "2026-06-13-animal-kingdom",
+   "name": "Animal Kingdom",
+   "url": "https://www.themoviedb.org/tv/66025-animal-kingdom",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "​​ Animal Kingdom on Netflix. Can’t believe I waited so long to watch it.",
+   "section": "crowdsourced",
+   "recommender": "Justin (reader)"
+  },
+  {
+   "id": "2026-06-13-mosaic",
+   "name": "Mosaic",
+   "url": "https://testflight.apple.com/join/AxyDxf1A",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "beta"
+   ],
+   "blurb": "Might be too late, but I just downloaded Mosaic a few weeks back and absolutely love it. Might be the perfect app for baseball scores/news/info. Still in beta but so so good.",
+   "section": "crowdsourced",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-13-bubbles",
+   "name": "Bubbles",
+   "url": "https://bubbles.town/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The indie web is alive and thriving. Bubbles is another attempt to highlight blogs you can follow. Built on top of the fediverse, and RSS, and web mentions.",
+   "section": "crowdsourced",
+   "recommender": "Renganathan (reader)"
+  },
+  {
+   "id": "2026-06-13-mood-camera",
+   "name": "Mood.camera",
+   "url": "https://www.mood.camera/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m obsessed with the Mood.camera app. It recreates film photography, and I basically don’t use the built-in camera app on my iPhone anymore. There’s a lot of fun to be had creating your own presets or scouring the Mood subreddit to try out those put together by others.",
+   "section": "crowdsourced",
+   "recommender": "Tom (reader)"
+  },
+  {
+   "id": "2026-06-13-the-mood-subreddit",
+   "name": "the Mood subreddit",
+   "url": "https://www.reddit.com/r/MoodCamera/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m obsessed with the Mood.camera app. It recreates film photography, and I basically don’t use the built-in camera app on my iPhone anymore. There’s a lot of fun to be had creating your own presets or scouring the Mood subreddit to try out those put together by others.",
+   "section": "crowdsourced",
+   "recommender": "Tom (reader)"
+  },
+  {
+   "id": "2026-06-13-destiny-2",
+   "name": "Destiny 2",
+   "url": "https://www.bungie.net/7/en/destiny",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Playing the final update to Destiny 2 , it’s been the end of a 12-year era! Bittersweet, but it’s a good sendoff for a game that could have been so much more.",
+   "section": "crowdsourced",
+   "recommender": "Nikki (reader)"
+  },
+  {
+   "id": "2026-06-13-sp-1",
+   "name": "SP-1",
+   "url": "http://www.tulsalines.com/tulsa-lines/the-stem-player-by-kanye-west-proves-that-jesus-is-king-was-over-produced",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been obsessed with the Teenage Engineering x Kanye West collab — a tiny stem player for ‘Jesus is King’ called SP-1 that I guess was largely unreleased.",
+   "section": "crowdsourced",
+   "recommender": "Spencer (reader)"
+  },
+  {
+   "id": "2026-06-13-few-enterprising-folks-on-reddit",
+   "name": "few enterprising folks on Reddit",
+   "url": "https://www.reddit.com/r/teenageengineering/comments/1thmeu7/sp1_stem_player_update_new_stems_can_now_be_loaded/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been obsessed with the Teenage Engineering x Kanye West collab — a tiny stem player for ‘Jesus is King’ called SP-1 that I guess was largely unreleased.",
+   "section": "crowdsourced",
+   "recommender": "Spencer (reader)"
+  },
+  {
+   "id": "2026-06-13-solderless",
+   "name": "Solderless",
+   "url": "https://solderless.engineering/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been obsessed with the Teenage Engineering x Kanye West collab — a tiny stem player for ‘Jesus is King’ called SP-1 that I guess was largely unreleased.",
+   "section": "crowdsourced",
+   "recommender": "Spencer (reader)"
+  },
+  {
+   "id": "2026-06-13-soma",
+   "name": "Soma",
+   "url": "https://skrillex.lnk.to/soma",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The new Skrillex album, Soma , is so damn good. It might be his best work. Just dance banger after banger, I don’t get tired of it!",
+   "section": "crowdsourced",
+   "recommender": "Óli (reader)"
+  },
+  {
+   "id": "2026-06-13-nillkin-cube-pocket-foldable",
+   "name": "Nillkin Cube Pocket Foldable",
+   "url": "https://www.nillkin.com/pages/nillkin-cube-pocket-foldable-bluetooth-keyboard-with-touchpad",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently started my summer college semester and I wanted to branch off from lugging a laptop around constantly, but also I enjoy taking notes, so I decided to move my iPad mini from the shelf to my desk again for like the millionth time.",
+   "section": "crowdsourced",
+   "recommender": "Brandon (reader)"
+  },
+  {
+   "id": "2026-06-13-widows-bay",
+   "name": "Widow’s Bay",
+   "url": "https://www.themoviedb.org/tv/270476-widow-s-bay?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I have included Widow’s Bay in this newsletter a few times already, but the wildest thing keeps happening: Every time I ask you all for recommendations, week in and week out the most popular thing in my inbox is Widow’s Bay .",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

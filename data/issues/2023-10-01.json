@@ -1,0 +1,548 @@
+{
+ "schema": 1,
+ "date": "2023-10-01",
+ "post_type": "issue",
+ "title": "The best Google alternative I’ve tried yet",
+ "url": "https://www.theverge.com/23896415/kagi-search-google-meta-quest-3-chatgpt-macos-sonoma-installer-newsletter",
+ "author": "David Pierce",
+ "number": 8,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "spotlight",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:37+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2023-10-01-ea-sports-fc-24",
+   "name": "EA Sports FC 24",
+   "url": "https://www.ea.com/games/ea-sports-fc/fc-24",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve spent an alarming amount of my free time playing EA Sports FC 24 , the new soccer game that just released in full on Friday.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-apples-plans-to-change-the-sports-tv-world",
+   "name": "Apple’s plans to change the sports TV world",
+   "url": "https://www.gq.com/story/apple-sports-streaming-mls-eddy-cue",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve spent an alarming amount of my free time playing EA Sports FC 24 , the new soccer game that just released in full on Friday.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-truly-unhinged-survivor-casting-process",
+   "name": "truly unhinged Survivor casting process",
+   "url": "https://ew.com/tv/survivor-45-behind-the-scenes-casting-cover-story",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve spent an alarming amount of my free time playing EA Sports FC 24 , the new soccer game that just released in full on Friday.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-sam-altmans-plan-to-either-save-the-world-or-end",
+   "name": "Sam Altman’s plan to either save the world or end it",
+   "url": "https://nymag.com/intelligencer/article/sam-altman-artificial-intelligence-openai-profile.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve spent an alarming amount of my free time playing EA Sports FC 24 , the new soccer game that just released in full on Friday.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-special-ops-lioness",
+   "name": "Special Ops: Lioness",
+   "url": "https://paramountplus.qflm.net/c/482924/175360/3065?u=https%3A%2F%2Fwww.paramountplus.com%2Fshows%2Fspecial-ops-lioness%2F&subid1=Installer092923",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve spent an alarming amount of my free time playing EA Sports FC 24 , the new soccer game that just released in full on Friday.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-nsyncs-new-song",
+   "name": "NSYNC’s new song",
+   "url": "https://www.youtube.com/watch?v=YIptWV8jKws",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve spent an alarming amount of my free time playing EA Sports FC 24 , the new soccer game that just released in full on Friday.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-kashmir-hills-excellent-longform-interview",
+   "name": "Kashmir Hill’s excellent Longform interview",
+   "url": "https://longform.org/posts/longform-podcast-551-kashmir-hill",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve spent an alarming amount of my free time playing EA Sports FC 24 , the new soccer game that just released in full on Friday.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-a-lot-of-questions-about-your-homescreen",
+   "name": "a lot of questions about your homescreen",
+   "url": "https://www.threads.net/@parkerortolani/post/CxwaTEVOpik",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I also have for you a new VR / AR / MR headset, a browser you should download everywhere, an awesome Android launcher, some Baldur’s Gate 3 fanfiction, and much more. (Also, Linda Yaccarino, I have a lot of questions about your homescreen , so if you want to be in next week’s issue, get at me.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-meta-quest-3",
+   "name": "Meta Quest 3",
+   "url": "https://www.meta.com/quest/quest-3/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s not VR anymore, it’s mixed reality. The $499.99 Quest 3 seems to be a big improvement on the Quest 2, and in a brief demo, it showed some pretty solid mixed reality chops. But I’m genuinely curious: do you care about headsets? Are they the future / too early / totally stupid?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-the-wonderful-story-of-henry-sugar",
+   "name": "The Wonderful Story of Henry Sugar",
+   "url": "https://www.netflix.com/title/81388090?trackId=259776131&trkId=259776131&src=tudum",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "I love a filmmaking experiment, and this has been a fun one: Wes Anderson made a bunch of short films based on Roald Dahl stories, and they’ve been dropping on Netflix all week. It’s kind of a show, kind of a movie in four parts, kind of an old-fashioned web series? Whatever it is, it’s delightful.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-chatgpts-voice-commands",
+   "name": "ChatGPT’s voice commands",
+   "url": "https://chat.openai.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Two good things happened to ChatGPT this week: it got back the ability to browse the web in real time, and it became a really handy voice assistant. (You’ll need the $20 a month ChatGPT Plus subscription to get them, at least for now.)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-macos-sonoma",
+   "name": "macOS Sonoma",
+   "url": "https://howl.me/ckGITiFKn8g",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I include this otherwise relatively straightforward operating system update for one reason and one reason only: the screensavers. Apple basically took those gorgeous, moving screensavers from the Apple TV and ported them to the Mac, and they look so good. Also, you know, widgets and whatever.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-raspberry-pi-5",
+   "name": "Raspberry Pi 5",
+   "url": "https://www.raspberrypi.com/products/raspberry-pi-5/",
+   "alt_urls": [
+    "https://www.theverge.com/2023/9/28/23889238/raspberry-pi-5-specs-availability-pricing"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "There’s still no better computer tinker toy than a Raspberry Pi. The new one, which starts at $60, is a spec upgrade across the board , and it’s as easy as ever to make it a smart home controller / simple media computer / basically anything else you can think of.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-the-creator",
+   "name": "The Creator",
+   "url": "https://www.themoviedb.org/movie/670292-the-creator",
+   "alt_urls": [
+    "https://www.theverge.com/23889089/the-creator-movie-review-gareth-edwards"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This movie has a premise I’m sure you’ve seen a million times before — humans fighting the AI takeover, what does it mean to be human, yadda, yadda, yadda. The Verge’s Charles Pulliam-Moore was left somewhat cold by the movie’s big ideas, but if nothing else, it sounds like totally gorgeous sci-fi.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-the-vivaldi-browser",
+   "name": "The Vivaldi browser",
+   "url": "https://vivaldi.com/press/releases/introducing-vivaldi-browser-on-ios/",
+   "alt_urls": [
+    "https://vivaldi.com/press/releases/introducing-vivaldi-browser-on-ios/",
+    "https://vivaldi.com/android/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Vivaldi is one of my absolute favorite browsers. It’s superfast, wildly customizable, and as of this week, available just about everywhere! The new iOS app syncs easily with your other browsers, and just like other platforms, has a huge amount of options and features.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-windows-11s-fall-update",
+   "name": "Windows 11’s fall update",
+   "url": "https://blogs.windows.com/windowsexperience/2023/09/26/how-to-get-the-latest-windows-11-innovations/",
+   "alt_urls": [
+    "https://www.theverge.com/2023/9/26/23890621/microsoft-windows-11-update-copilot-paint-snipping-tool-features",
+    "https://blogs.windows.com/windowsexperience/2023/09/26/the-most-personal-windows-11-experience-begins-rolling-out-today/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Microsoft would tell you the big upgrade this fall is Copilot , its built-in AI assistant for getting things done all over the OS. I’m also into the File Explorer redesign.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-murder-in-the-21st",
+   "name": "Murder in the 21st",
+   "url": "https://www.aetv.com/shows/murder-in-the-21st",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This new show, a true crime series looking at some major investigations and murders through the lens of the victims’ digital footprints, is going to be very popular in my house. It’s the most iconic crossover of my family’s interests since Taylor Swift and Travis Kelce started hanging out.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-small-web",
+   "name": "Small Web",
+   "url": "https://blog.kagi.com/small-web",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s customizable. Kagi looks a lot like Google and generally feels very similar to use. But unlike Google, Kagi lets you block sites you don’t like and promote sites you do like.",
+   "section": "spotlight",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-no-ads",
+   "name": "No ads",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The catch with Kagi is you have to pay for it. You get a few searches a month for free, but $10 buys you unlimited access. That’s a lot of money for a search engine! But the pages are so much cleaner and less confusing that I was surprised how quickly I paid up.",
+   "section": "spotlight",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-its-great-for-videos-and-podcasts",
+   "name": "It’s great for videos and podcasts",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Podcast search is, like, impossible. But I’ve had surprisingly good luck Kagi-ing topics I’m interested in and finding related podcast episodes, and the engine does a similarly good job of scouring YouTube for interesting stuff.",
+   "section": "spotlight",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-its-ai-is-handy-but-not-in-the-way",
+   "name": "Its AI is handy but not in the way",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "For a lot of queries, Kagi puts a little “Quick Answer” button at the top — click it, and you get a brief AI-generated answer, with cited sources you can click on. That’s exactly the amount of AI I’m looking for in most of my searches.",
+   "section": "spotlight",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-orion",
+   "name": "Orion",
+   "url": "https://browser.kagi.com/",
+   "alt_urls": [
+    "https://help.kagi.com/kagi/getting-started/setting-default.html#chromium_mobile"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The mobile browser is great. Kagi’s mobile app is a browser called Orion , and it’s as no-frills a mobile browser as you’ll find. But that’s cool by me! It’s fast and easy to use. You can also supposedly download Kagi as a Safari extension on iOS, but I haven’t managed to make that work.",
+   "section": "spotlight",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-it-seems-good-ive-tried-basically-all-the-search",
+   "name": "It seems… good? I’ve tried basically all the search engines, and I usually end u",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "p back on Google because Google has better results. (Or at least the results I’m expecting and looking for.) With Kagi, I’ve found myself going back to Google less than usual. I don’t know if that’ll hold up forever, but I’m impressed so far.",
+   "section": "spotlight",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-a-samsung-galaxy-s21-thats-had-its-life-saved-ma",
+   "name": "A Samsung Galaxy S21 that’s had its life saved many times by a cheapo Amazon pho",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The Phone: A Samsung Galaxy S21 that’s had its life saved many times by a cheapo Amazon phone case.",
+   "section": "screen-share",
+   "recommender": "Ash"
+  },
+  {
+   "id": "2023-10-01-baldurs-gate-3",
+   "name": "Baldur’s Gate 3",
+   "url": "https://baldursgate3.game/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Google Docs. Baldur’s Gate 3 has awoken one of my primal animating forces: writing fanfiction. After years of being out of the game, I’ve started writing again with a zeal I haven’t seen since I was 25 spending a whole eight-hour shift at my office job writing a 21,000-word fic in one sitting.",
+   "section": "screen-share",
+   "recommender": "Ash"
+  },
+  {
+   "id": "2023-10-01-that-meme-going-around",
+   "name": "that meme going around",
+   "url": "https://www.tiktok.com/@livbaron/video/7279265114010799367?embed_source=121355058%2C121351166%2C121331973%2C120811592%2C120810756%3Bnull%3Bembed_name&refer=embed&referer_url=embedly.forbes.com%2Fwidgets%2Fmedia.html%3Fsrc%3Dhttps%253A%252F%252Fwww.tiktok.com%252Fembed%252Fv2%252F7279265114010799367%26display_name%3Dtiktok%26url%3Dhttps%253A%252F%252Fwww.tiktok.com%252F%2540livbaron%252Fvideo%252F7279265114010799367%26image%3Dhttps%253A%252F%252Fp16-sign-sg.tiktokcdn.com%252Fobj%252Ftos-alisg-p-0037%252FoQygoCGJIYpJAcoCE0gFOAAEBIfRBotYpwTzHh%253Fx-expires%253D1695492000%2526x-signature%253DcfmOf69cVpphKfbqQUBjwnip22I%25253D%26key%3D3ce26dc7e3454db5820ba084d28b4935%26type%3Dtext%252Fhtml%26schema%3Dtiktok&referer_video_id=7279265114010799367",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Google Docs. Baldur’s Gate 3 has awoken one of my primal animating forces: writing fanfiction. After years of being out of the game, I’ve started writing again with a zeal I haven’t seen since I was 25 spending a whole eight-hour shift at my office job writing a 21,000-word fic in one sitting.",
+   "section": "screen-share",
+   "recommender": "Ash"
+  },
+  {
+   "id": "2023-10-01-the-screenshot",
+   "name": "The screenshot",
+   "url": "https://x.com/TimSweeneyEpic/status/1618685470329954306?s=20",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Google Docs. Baldur’s Gate 3 has awoken one of my primal animating forces: writing fanfiction. After years of being out of the game, I’ve started writing again with a zeal I haven’t seen since I was 25 spending a whole eight-hour shift at my office job writing a 21,000-word fic in one sitting.",
+   "section": "screen-share",
+   "recommender": "Ash"
+  },
+  {
+   "id": "2023-10-01-the-overwatch-league",
+   "name": "The Overwatch League",
+   "url": "https://overwatchleague.com/en-us",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Google Docs. Baldur’s Gate 3 has awoken one of my primal animating forces: writing fanfiction. After years of being out of the game, I’ve started writing again with a zeal I haven’t seen since I was 25 spending a whole eight-hour shift at my office job writing a 21,000-word fic in one sitting.",
+   "section": "screen-share",
+   "recommender": "Ash"
+  },
+  {
+   "id": "2023-10-01-energiza-pro",
+   "name": "Energiza Pro",
+   "url": "https://appgineers.de/energiza/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Energiza Pro , an app for better battery life in the long term. I bought it a few weeks ago. I’m finding it very useful.",
+   "section": "crowdsourced",
+   "recommender": "Dennis (reader)"
+  },
+  {
+   "id": "2023-10-01-radio-paradise",
+   "name": "Radio Paradise",
+   "url": "https://radioparadise.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Radio Paradise plays an electric mix of music, ad-free, totally free, and has multiple ‘Mixes’ you can listen to (Rock, Mellow, Main, Global). They play a great mix of music I wouldn’t usually listen to, and you can skip the song if you don’t like it.",
+   "section": "crowdsourced",
+   "recommender": "Jonathan (reader)"
+  },
+  {
+   "id": "2023-10-01-bombas-socks",
+   "name": "Bombas socks",
+   "url": "https://www.pntra.com/t/8-11047-88849-142593?sid=Installer092923&url=https%3A%2F%2Fshop.bombas.com%2F",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Bombas socks and Kizik shoes . Both the socks and shoes are so comfortable, and the shoes are easy to put on / slip on and off.",
+   "section": "crowdsourced",
+   "recommender": "Marty (reader)"
+  },
+  {
+   "id": "2023-10-01-kizik-shoes",
+   "name": "Kizik shoes",
+   "url": "https://kizik.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Bombas socks and Kizik shoes . Both the socks and shoes are so comfortable, and the shoes are easy to put on / slip on and off.",
+   "section": "crowdsourced",
+   "recommender": "Marty (reader)"
+  },
+  {
+   "id": "2023-10-01-thumper",
+   "name": "Thumper",
+   "url": "https://thumpergame.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Recently, I’ve been sucked back into Thumper , one of my favorite games of all time. This playthrough on iOS!",
+   "section": "crowdsourced",
+   "recommender": "Arden (reader)"
+  },
+  {
+   "id": "2023-10-01-z-launcher-by-nokia",
+   "name": "Z launcher by Nokia",
+   "url": "https://www.youtube.com/watch?v=1nPtBC9IxR8",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "My favorite launcher of all time is the Z launcher by Nokia . It’s been unsupported for a while now and was eventually taken off the app store (breaking my heart). My second favorite launcher, and the one I’m currently using, is Niagara Launcher .",
+   "section": "crowdsourced",
+   "recommender": "Samuel (reader)"
+  },
+  {
+   "id": "2023-10-01-niagara-launcher",
+   "name": "Niagara Launcher",
+   "url": "https://play.google.com/store/apps/details?id=bitpit.launcher",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "My favorite launcher of all time is the Z launcher by Nokia . It’s been unsupported for a while now and was eventually taken off the app store (breaking my heart). My second favorite launcher, and the one I’m currently using, is Niagara Launcher .",
+   "section": "crowdsourced",
+   "recommender": "Samuel (reader)"
+  },
+  {
+   "id": "2023-10-01-raycast",
+   "name": "Raycast",
+   "url": "https://www.raycast.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Raycast ! It’s this powerful and modern Spotlight replacement for Mac that’s similar to Alfred but way better and more modern. I use it all day, every day, and it just keeps getting better.",
+   "section": "crowdsourced",
+   "recommender": "Edvard (reader)"
+  },
+  {
+   "id": "2023-10-01-alfred",
+   "name": "Alfred",
+   "url": "https://www.alfredapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Raycast ! It’s this powerful and modern Spotlight replacement for Mac that’s similar to Alfred but way better and more modern. I use it all day, every day, and it just keeps getting better.",
+   "section": "crowdsourced",
+   "recommender": "Edvard (reader)"
+  },
+  {
+   "id": "2023-10-01-death-glitch",
+   "name": "Death Glitch",
+   "url": "https://yalebooks.yale.edu/book/9780300248272/death-glitch/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m really liking Death Glitch by Tamara Kneese about how the social platforms and internet culture handle user death. And obvs, I hear really great things about Kashmir Hill’s new book .",
+   "section": "crowdsourced",
+   "recommender": "Joe (reader)"
+  },
+  {
+   "id": "2023-10-01-kashmir-hills-new-book",
+   "name": "Kashmir Hill’s new book",
+   "url": "https://www.penguinrandomhouse.com/books/691288/your-face-belongs-to-us-by-kashmir-hill/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m really liking Death Glitch by Tamara Kneese about how the social platforms and internet culture handle user death. And obvs, I hear really great things about Kashmir Hill’s new book .",
+   "section": "crowdsourced",
+   "recommender": "Joe (reader)"
+  },
+  {
+   "id": "2023-10-01-fully-getting-rid-of",
+   "name": "fully getting rid of",
+   "url": "https://www.polygon.com/23889773/dropout-anniversary-collegehumor-brennan-lee-mulligan-sam-reich",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, the folks at the Dropout streaming service announced that, five years after launch, they’re fully getting rid of the name they had before — CollegeHumor. Dropout is great, love Dropout, go watch Dropout, but the official end of CH sent me down the deepest YouTube rabbit hole this week.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-pete-holmes-as-badman",
+   "name": "Pete Holmes as Badman",
+   "url": "https://www.youtube.com/watch?v=MDdHYjb5sBk",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, the folks at the Dropout streaming service announced that, five years after launch, they’re fully getting rid of the name they had before — CollegeHumor. Dropout is great, love Dropout, go watch Dropout, but the official end of CH sent me down the deepest YouTube rabbit hole this week.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-troopers",
+   "name": "Troopers",
+   "url": "https://www.youtube.com/watch?v=rvoJXBqLILM",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, the folks at the Dropout streaming service announced that, five years after launch, they’re fully getting rid of the name they had before — CollegeHumor. Dropout is great, love Dropout, go watch Dropout, but the official end of CH sent me down the deepest YouTube rabbit hole this week.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-if-google-was-a-guy",
+   "name": "If Google Was a Guy",
+   "url": "https://www.youtube.com/watch?v=Cxqca4RQd_M",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, the folks at the Dropout streaming service announced that, five years after launch, they’re fully getting rid of the name they had before — CollegeHumor. Dropout is great, love Dropout, go watch Dropout, but the official end of CH sent me down the deepest YouTube rabbit hole this week.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-no-brandcuffs",
+   "name": "no brandcuffs",
+   "url": "https://www.youtube.com/watch?v=LMmdl4VltD4",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, the folks at the Dropout streaming service announced that, five years after launch, they’re fully getting rid of the name they had before — CollegeHumor. Dropout is great, love Dropout, go watch Dropout, but the official end of CH sent me down the deepest YouTube rabbit hole this week.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-01-if-all-movies-had-cell-phones",
+   "name": "If All Movies Had Cell Phones",
+   "url": "https://www.youtube.com/watch?v=yH2B9F-GPm0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, the folks at the Dropout streaming service announced that, five years after launch, they’re fully getting rid of the name they had before — CollegeHumor. Dropout is great, love Dropout, go watch Dropout, but the official end of CH sent me down the deepest YouTube rabbit hole this week.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

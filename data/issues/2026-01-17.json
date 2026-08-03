@@ -1,0 +1,444 @@
+{
+ "schema": 1,
+ "date": "2026-01-17",
+ "post_type": "issue",
+ "title": "Our favorite cozy game is back",
+ "url": "https://www.theverge.com/tech/863614/animal-crossing-3-rip-netflix-cowork-installer",
+ "author": "David Pierce",
+ "number": 112,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:40+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-01-17-whatsapp",
+   "name": "WhatsApp",
+   "url": "https://www.newyorker.com/magazine/2026/01/19/how-whatsapp-took-over-the-global-conversation",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about WhatsApp and Gavin Newsom and David Ellison and Andreessen Horowitz , obsessively waiting for every new episode of The Pitt , using the app Monologue to talk to my computer instead of typing to it, joyfully rewatching The Night Manager before diving into the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-17-gavin-newsom",
+   "name": "Gavin Newsom",
+   "url": "https://www.theatlantic.com/politics/2026/01/gavin-newsom-feature/685410/?gift=mzSZbpKIJDILy0IX4uykQtfpY0JxeR07-f7UjiXowoI",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about WhatsApp and Gavin Newsom and David Ellison and Andreessen Horowitz , obsessively waiting for every new episode of The Pitt , using the app Monologue to talk to my computer instead of typing to it, joyfully rewatching The Night Manager before diving into the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-17-david-ellison",
+   "name": "David Ellison",
+   "url": "https://www.vulture.com/article/larry-david-ellison-paramount-warner-bros-discovery-deal-hollywood.html?isNewSocialUser=false&providerId=google.com",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about WhatsApp and Gavin Newsom and David Ellison and Andreessen Horowitz , obsessively waiting for every new episode of The Pitt , using the app Monologue to talk to my computer instead of typing to it, joyfully rewatching The Night Manager before diving into the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-17-andreessen-horowitz",
+   "name": "Andreessen Horowitz",
+   "url": "https://www.notboring.co/p/a16z-the-power-brokers",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about WhatsApp and Gavin Newsom and David Ellison and Andreessen Horowitz , obsessively waiting for every new episode of The Pitt , using the app Monologue to talk to my computer instead of typing to it, joyfully rewatching The Night Manager before diving into the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-17-the-pitt",
+   "name": "The Pitt",
+   "url": "https://www.themoviedb.org/tv/250307-the-pitt?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about WhatsApp and Gavin Newsom and David Ellison and Andreessen Horowitz , obsessively waiting for every new episode of The Pitt , using the app Monologue to talk to my computer instead of typing to it, joyfully rewatching The Night Manager before diving into the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-17-monologue",
+   "name": "Monologue",
+   "url": "https://www.monologue.to/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about WhatsApp and Gavin Newsom and David Ellison and Andreessen Horowitz , obsessively waiting for every new episode of The Pitt , using the app Monologue to talk to my computer instead of typing to it, joyfully rewatching The Night Manager before diving into the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-17-the-night-manager",
+   "name": "The Night Manager",
+   "url": "https://www.themoviedb.org/tv/61859-the-night-manager?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about WhatsApp and Gavin Newsom and David Ellison and Andreessen Horowitz , obsessively waiting for every new episode of The Pitt , using the app Monologue to talk to my computer instead of typing to it, joyfully rewatching The Night Manager before diving into the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-17-ikea-buttons",
+   "name": "Ikea buttons",
+   "url": "https://www.ikea.com/us/en/p/bilresa-remote-control-white-smart-dual-button-80617876/",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "This week, I’ve been reading about WhatsApp and Gavin Newsom and David Ellison and Andreessen Horowitz , obsessively waiting for every new episode of The Pitt , using the app Monologue to talk to my computer instead of typing to it, joyfully rewatching The Night Manager before diving into the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-17-halt-and-catch-fire",
+   "name": "Halt and Catch Fire",
+   "url": "https://open.spotify.com/album/6SREPA19KJrxIfMhijErlF",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "This week, I’ve been reading about WhatsApp and Gavin Newsom and David Ellison and Andreessen Horowitz , obsessively waiting for every new episode of The Pitt , using the app Monologue to talk to my computer instead of typing to it, joyfully rewatching The Night Manager before diving into the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-17-old-star-search-episodes",
+   "name": "old Star Search episodes",
+   "url": "https://www.youtube.com/playlist?list=PLwj6S414mtSXQB7yjNIKmFF7Vx2tYQgiB",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about WhatsApp and Gavin Newsom and David Ellison and Andreessen Horowitz , obsessively waiting for every new episode of The Pitt , using the app Monologue to talk to my computer instead of typing to it, joyfully rewatching The Night Manager before diving into the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-17-animal-crossing-new-horizons-3-0",
+   "name": "Animal Crossing: New Horizons 3.0",
+   "url": "https://animalcrossing.nintendo.com/new-horizons/update-3-0/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "The latest addition to New Horizons brings a bunch of quality-of-life improvements that seem to address a lot of the things fans have been wanting for years. A perfect excuse to get back into a cozy, relaxing, quieter world than the one we live in right now.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-17-the-rip",
+   "name": "The Rip",
+   "url": "https://www.themoviedb.org/movie/1306368-the-rip?language=en-US",
+   "alt_urls": [
+    "https://www.rottentomatoes.com/m/the_rip"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Everything about this movie — the overly stacked cast, the somewhat tired plot, the fact that it’s a Netflix action movie and those are always bad — suggests this movie would be bad. But apparently it’s really good ! This is my kind of action movie, and first on my list this weekend.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-17-apple-creative-studio",
+   "name": "Apple Creative Studio",
+   "url": "https://www.apple.com/apple-creator-studio/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is kind of an astonishingly good deal? I’m not particularly into the AI features in Numbers and Pages, but between Pixelmator Pro, Logic Pro, and Final Cut Pro, you have a set of creative tools right up there with what Adobe offers.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-17-a-knight-of-the-seven-kingdoms",
+   "name": "A Knight of the Seven Kingdoms",
+   "url": "https://www.themoviedb.org/tv/224372-a-knight-of-the-seven-kingdoms-the-hedge-knight?language=en-US",
+   "alt_urls": [
+    "https://www.theverge.com/entertainment/861838/hbo-a-knight-of-the-seven-kingdoms-review"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Another round in the Game of Thrones universe, this one is a prequel with a very different, much sillier vibe . It also seems to have much lower stakes, which seems smart — not everything needs to be about the fate of the universe, you know?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-17-claude-cowork",
+   "name": "Claude Cowork",
+   "url": "https://claude.com/resources/tutorials/claude-cowork-a-research-preview",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "For now, this is only for the most expensive Claude plans, but I think it’s a terrific idea: a Claude Code-like tool for doing stuff on your computer, but one that doesn’t require you to interact with or even look at code.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-17-star-trek-starfleet-academy",
+   "name": "Star Trek: Starfleet Academy",
+   "url": "https://www.themoviedb.org/tv/223530-star-trek-starfleet-academy?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "It’s… Gen Z Star Trek , basically? Star Trek starring people who look like they might call each other “bruh” and have whole side quests related to aura farming? Early reviews make the show sound like it’s doing too much, and may be slightly mid, but I will always stan an attempt at a Trek glow-up.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-17-the-legend-of-heroes-trails-beyond-the-horizon",
+   "name": "The Legend of Heroes: Trails Beyond the Horizon",
+   "url": "https://thelegendofheroes.com/horizon/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Every review I’ve read of this game suggests that it is not for the faint of heart, or a newcomer to the Trails series. But if these games are your jam, this one appears to be a really solid addition to the canon.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-17-digg",
+   "name": "Digg",
+   "url": "https://digg.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Its new public beta is very much still in beta, and it’s still pretty small and quiet over there, but I like a lot of what Digg is doing here. It’s like Reddit, but less chaotic, or like Twitter, but less horrible. I’m already finding lots of good new stuff through its communities.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-17-relinq",
+   "name": "Relinq",
+   "url": "https://relinq.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A simple utility that converts links between Apple Music, Spotify, and other services, so every link translates to every service. One of those tiny apps I’m suddenly using all the time.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-17-its-an-iphone-17-pro-max-in-deep-blue-with-a-cli",
+   "name": "It’s an iPhone 17 Pro Max in Deep Blue, with a Clicks Keyboard in Smoke",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: It’s an iPhone 17 Pro Max in Deep Blue, with a Clicks Keyboard in Smoke. I also have a 17 Pro in Cosmic Orange as backup, and a “RAZRBERRY” (i.e., a Moto Razr w/ Clicks Keyboard). The 17 Pro Max is my primary, so let’s look at that…",
+   "section": "screen-share",
+   "recommender": "Kevin"
+  },
+  {
+   "id": "2026-01-17-beeper",
+   "name": "Beeper",
+   "url": "https://www.beeper.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I optimize the bottom half of the phone for my most-used messaging apps — Slack / WhatsApp / Telegram — so they’re within an easy reach of the thumb.",
+   "section": "screen-share",
+   "recommender": "Kevin"
+  },
+  {
+   "id": "2026-01-17-lovable",
+   "name": "Lovable",
+   "url": "https://lovable.dev/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Vibe coding is my meditation. I actually love playing around with Lovable . Over the past 20 years I built up a portfolio of domain names that I never did anything with, so now I’m starting to build out apps for myself just so I put the names to use.",
+   "section": "screen-share",
+   "recommender": "Kevin"
+  },
+  {
+   "id": "2026-01-17-timecrunch",
+   "name": "TimeCrunch",
+   "url": "https://timecrunch.com/auth",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Vibe coding is my meditation. I actually love playing around with Lovable . Over the past 20 years I built up a portfolio of domain names that I never did anything with, so now I’m starting to build out apps for myself just so I put the names to use.",
+   "section": "screen-share",
+   "recommender": "Kevin"
+  },
+  {
+   "id": "2026-01-17-wurdweb",
+   "name": "WurdWeb",
+   "url": "https://wurdweb.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If you like word games, check out WurdWeb on Apple Arcade, which features a daily game. It’s part of my daily routine along with the NYT games , Apple News games and Rogue Words (a free Balatro -like Scrabble word game).",
+   "section": "crowdsourced",
+   "recommender": "Kurt (reader)"
+  },
+  {
+   "id": "2026-01-17-nyt-games",
+   "name": "NYT games",
+   "url": "https://www.nytimes.com/crosswords",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If you like word games, check out WurdWeb on Apple Arcade, which features a daily game. It’s part of my daily routine along with the NYT games , Apple News games and Rogue Words (a free Balatro -like Scrabble word game).",
+   "section": "crowdsourced",
+   "recommender": "Kurt (reader)"
+  },
+  {
+   "id": "2026-01-17-apple-news-games",
+   "name": "Apple News games",
+   "url": "https://support.apple.com/guide/iphone/find-puzzles-in-apple-news-iph4883822da/ios",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If you like word games, check out WurdWeb on Apple Arcade, which features a daily game. It’s part of my daily routine along with the NYT games , Apple News games and Rogue Words (a free Balatro -like Scrabble word game).",
+   "section": "crowdsourced",
+   "recommender": "Kurt (reader)"
+  },
+  {
+   "id": "2026-01-17-rogue-words",
+   "name": "Rogue Words",
+   "url": "https://apps.apple.com/be/app/rogue-words/id6670705088",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "If you like word games, check out WurdWeb on Apple Arcade, which features a daily game. It’s part of my daily routine along with the NYT games , Apple News games and Rogue Words (a free Balatro -like Scrabble word game).",
+   "section": "crowdsourced",
+   "recommender": "Kurt (reader)"
+  },
+  {
+   "id": "2026-01-17-cooked",
+   "name": "Cooked",
+   "url": "https://cooked.wiki/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Cooked is a neat tool for ingesting recipes. To use it, I prepend a recipe url with ‘cooked.wiki/.’",
+   "section": "crowdsourced",
+   "recommender": "BTTK (reader)"
+  },
+  {
+   "id": "2026-01-17-a-walkman",
+   "name": "a Walkman",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://electronics.sony.com/audio/walkman-digital-recorders/walkman-mp3-players/p/nwa306-b",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Got myself a Walkman in 2026. I’m a music hunter at heart and while I won’t quit beloved Apple Music, I am slowly rebuilding my own library. Taking my love of intentional music listening on vinyl on the go. I’m back in my iPod era. It’s been fun.",
+   "section": "crowdsourced",
+   "recommender": "Manny (reader)"
+  },
+  {
+   "id": "2026-01-17-puzzmo",
+   "name": "Puzzmo",
+   "url": "https://www.puzzmo.com/today/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Puzzmo added a new game for the new year called Ribbit , and it’s got everything. Words, frogs, a rotate button… What more could you ask for?",
+   "section": "crowdsourced",
+   "recommender": "Andy (reader)"
+  },
+  {
+   "id": "2026-01-17-dungeon-crawler-carl",
+   "name": "Dungeon Crawler Carl",
+   "url": "https://mattdinniman.com/books-2/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Dungeon Crawler Carl by Matt Dinniman. Specifically, the audiobooks. The narrator, Jeff Hays, is so good he will ruin all other audiobooks.",
+   "section": "crowdsourced",
+   "recommender": "Weddle (reader)"
+  },
+  {
+   "id": "2026-01-17-sill",
+   "name": "Sill",
+   "url": "https://sill.social/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I open up Sill every morning to find out what events and stories my friends and folks I follow on Bluesky and Mastodon have been sharing while I’ve been sleeping and have been otherwise unplugged.",
+   "section": "crowdsourced",
+   "recommender": "Mita (reader)"
+  },
+  {
+   "id": "2026-01-17-landman",
+   "name": "Landman",
+   "url": "https://www.themoviedb.org/tv/157741-landman?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’ve been watching a lot of Landman on Paramount. I know that Billy Bob Thornton more or less plays the same guy in everything now, but I feel strongly that it is an underrated show. Plus it has Sam Elliot. The show’s biggest detriment is that it is on Paramount Plus.",
+   "section": "crowdsourced",
+   "recommender": "Geoff (reader)"
+  },
+  {
+   "id": "2026-01-17-a-great-video-about-asml",
+   "name": "a great video about ASML",
+   "url": "https://www.youtube.com/watch?v=MiUHjLxm3V0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’d like to make a suggestion for a great video about ASML . Who’s that? The company that makes the machines that make the etched wafers for processors. The science that goes into it is like magic. Well worth the hour view time.",
+   "section": "crowdsourced",
+   "recommender": "Shawn (reader)"
+  },
+  {
+   "id": "2026-01-17-hijack",
+   "name": "Hijack",
+   "url": "https://www.themoviedb.org/tv/198102-hijack?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Hijack season two on Apple TV is finally out. Seems really good so far!",
+   "section": "crowdsourced",
+   "recommender": "Nathan (reader)"
+  },
+  {
+   "id": "2026-01-17-youtubes-smart-downloads-playlist",
+   "name": "YouTube’s “Smart Downloads” playlist",
+   "url": "https://support.google.com/youtube/answer/12002587?hl=en&co=GENIE.Platform%3DAndroid",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been traveling a bunch recently, which for me means a lot of time spent manually downloading stuff to an iPad to watch on planes. Most streaming apps now allow downloads, which is great, but you know what I’ve really been enjoying?",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

@@ -1,0 +1,405 @@
+{
+ "schema": 1,
+ "date": "2025-08-17",
+ "post_type": "issue",
+ "title": "Teenage Engineering did it again",
+ "url": "https://www.theverge.com/installer-newsletter/760232/teenage-engineering-pc-case-fairphone-cables-charger-alien-earth-installer",
+ "author": "Jay Peters",
+ "number": 94,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:39+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-08-17-mini-sudoku",
+   "name": "Mini Sudoku",
+   "url": "https://news.linkedin.com/2025/linkedin-announces-minisudoku-",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’m visiting LinkedIn way too much because of Mini Sudoku , looking at the fake texts in Apple’s marketing materials , marveling at tiny doodles on microchips , listening to Taylor Swift’s New Heights podcast episode , learning about model railroad power debates , reading about the death…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-17-the-fake-texts-in-apples-marketing-materials",
+   "name": "the fake texts in Apple’s marketing materials",
+   "url": "https://maxread.substack.com/p/a-literary-history-of-fake-texts?r=71ygg",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "newsletter"
+   ],
+   "blurb": "This week, I’m visiting LinkedIn way too much because of Mini Sudoku , looking at the fake texts in Apple’s marketing materials , marveling at tiny doodles on microchips , listening to Taylor Swift’s New Heights podcast episode , learning about model railroad power debates , reading about the death…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-17-tiny-doodles-on-microchips",
+   "name": "tiny doodles on microchips",
+   "url": "https://www.npr.org/2024/04/16/1242941475/new-generation-chip-art-silicon-doodles-engineers-microchip",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’m visiting LinkedIn way too much because of Mini Sudoku , looking at the fake texts in Apple’s marketing materials , marveling at tiny doodles on microchips , listening to Taylor Swift’s New Heights podcast episode , learning about model railroad power debates , reading about the death…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-17-taylor-swifts-new-heights-podcast-episode",
+   "name": "Taylor Swift’s New Heights podcast episode",
+   "url": "https://www.youtube.com/watch?v=M2lX9XESvDE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’m visiting LinkedIn way too much because of Mini Sudoku , looking at the fake texts in Apple’s marketing materials , marveling at tiny doodles on microchips , listening to Taylor Swift’s New Heights podcast episode , learning about model railroad power debates , reading about the death…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-17-model-railroad-power-debates",
+   "name": "model railroad power debates",
+   "url": "https://www.youtube.com/watch?v=z5TiK_Ay-0g",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’m visiting LinkedIn way too much because of Mini Sudoku , looking at the fake texts in Apple’s marketing materials , marveling at tiny doodles on microchips , listening to Taylor Swift’s New Heights podcast episode , learning about model railroad power debates , reading about the death…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-17-the-death-of-expertise",
+   "name": "the death of expertise",
+   "url": "https://global.oup.com/academic/product/the-death-of-expertise-9780197763834?cc=us&lang=en&",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’m visiting LinkedIn way too much because of Mini Sudoku , looking at the fake texts in Apple’s marketing materials , marveling at tiny doodles on microchips , listening to Taylor Swift’s New Heights podcast episode , learning about model railroad power debates , reading about the death…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-17-my-favorite-hgtv-home-renovation-show",
+   "name": "my favorite HGTV home renovation show",
+   "url": "https://www.hgtv.com/shows/married-to-real-estate",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’m visiting LinkedIn way too much because of Mini Sudoku , looking at the fake texts in Apple’s marketing materials , marveling at tiny doodles on microchips , listening to Taylor Swift’s New Heights podcast episode , learning about model railroad power debates , reading about the death…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-17-a-very-good-drumline",
+   "name": "a very good drumline",
+   "url": "https://youtu.be/POyrlCUzshk?feature=shared",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’m visiting LinkedIn way too much because of Mini Sudoku , looking at the fake texts in Apple’s marketing materials , marveling at tiny doodles on microchips , listening to Taylor Swift’s New Heights podcast episode , learning about model railroad power debates , reading about the death…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-17-teenage-engineerings-computer-2-pc-case",
+   "name": "Teenage Engineering’s Computer-2 PC case",
+   "url": "https://teenage.engineering/25-the-flipped-out-year",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This small form factor PC case has some awesome Teenage Engineering flair. I love the hazy, semi-transparent look. Even better, the company is also giving it away for free — that is, when it’s back in stock again. At least you can sign up for a waitlist.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-17-fairphones-new-cables-and-chargers",
+   "name": "Fairphone’s new cables and chargers",
+   "url": "https://www.fairphone.com/en/2025/08/12/fairphones-new-cables-and-chargers-are-better-in-every-way/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Fairphone says its new accessories are more durable than what it offered before and made with sustainability in mind. They seem like solid cables and chargers, too, so they could be a great option if you like Fairphone’s mission.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-17-alien-earth",
+   "name": "Alien: Earth",
+   "url": "https://www.fxnetworks.com/shows/alien-earth",
+   "alt_urls": [
+    "https://www.theverge.com/tv-reviews/719173/alien-earth-review"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "FX’s new series set in the Alien universe is getting great reviews . My knowledge of the Alien franchise is limited to Alien and Aliens , but Alien: Earth looks really scary — and I’m overdue for a good scary show.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-17-gulikits-es-and-es-pro-controllers",
+   "name": "GuliKit’s ES and ES Pro controllers",
+   "url": "https://www.gulikit.com/productinfo/1523654.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If you want a higher-end Switch 2 controller but don’t want to pay $89.99, GuliKit’s new $24.99 and $29.99 options are considerably more affordable and offer perks like anti-drift joysticks. The controllers work on PC, Android, iOS, and macOS, too.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-17-off",
+   "name": "OFF",
+   "url": "https://offtherpg.com/",
+   "alt_urls": [
+    "https://www.theverge.com/games/603938/off-rpg-translation-interview"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This surreal RPG , starring a baseball player on a mission to purify the world from ghosts, is now available in a modernized version on Steam and Nintendo Switch. I’ve played a little bit of it, and it’s quite strange — which I say in the most complimentary way.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-17-enter-the-gungeon-and-exit-the-gungeon-on-mobile",
+   "name": "Enter the Gungeon and Exit the Gungeon on mobile",
+   "url": "https://enterthegungeon.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The hit roguelike Enter the Gungeon is now available on iOS and Android for the first time, while Exit the Gungeon is back on iOS and has arrived on Google Play. Watch out for bullets.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-17-nobody-2",
+   "name": "Nobody 2",
+   "url": "https://www.themoviedb.org/movie/1007734-nobody-2?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "The sequel to 2021’s Nobody , starring Bob Odenkirk, as a former assassin is now in theaters. I never caught the first, but I love basically everything Odenkirk does, so I’m guessing I’d have a lot of fun with these.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-17-iphone-15-pro",
+   "name": "iPhone 15 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 15 Pro",
+   "section": "screen-share",
+   "recommender": "Soren"
+  },
+  {
+   "id": "2025-08-17-civilization-iii",
+   "name": "Civilization III",
+   "url": "https://civilization.2k.com/civ-iii/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I downloaded and started replaying Civilization III (yes, the one from 2001). It’s one of my favorite games, and I still love a lot of the choices they made with the interface design. I recently watched The Decline of Western Civilization II .",
+   "section": "screen-share",
+   "recommender": "Soren"
+  },
+  {
+   "id": "2025-08-17-the-decline-of-western-civilization-ii",
+   "name": "The Decline of Western Civilization II",
+   "url": "https://www.themoviedb.org/movie/36724-the-decline-of-western-civilization-part-ii-the-metal-years?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I downloaded and started replaying Civilization III (yes, the one from 2001). It’s one of my favorite games, and I still love a lot of the choices they made with the interface design. I recently watched The Decline of Western Civilization II .",
+   "section": "screen-share",
+   "recommender": "Soren"
+  },
+  {
+   "id": "2025-08-17-furb-exotic",
+   "name": "@furb_exotic",
+   "url": "https://www.instagram.com/furb_exotic/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I downloaded and started replaying Civilization III (yes, the one from 2001). It’s one of my favorite games, and I still love a lot of the choices they made with the interface design. I recently watched The Decline of Western Civilization II .",
+   "section": "screen-share",
+   "recommender": "Soren"
+  },
+  {
+   "id": "2025-08-17-snack-wraps",
+   "name": "Snack Wraps",
+   "url": "https://www.mcdonalds.com/us/en-us/full-menu/snack-wrap.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I downloaded and started replaying Civilization III (yes, the one from 2001). It’s one of my favorite games, and I still love a lot of the choices they made with the interface design. I recently watched The Decline of Western Civilization II .",
+   "section": "screen-share",
+   "recommender": "Soren"
+  },
+  {
+   "id": "2025-08-17-ubiquiti",
+   "name": "Ubiquiti",
+   "url": "https://ui.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Buying a bunch of Ubiquiti gear for the new house that totally isn’t overkill.",
+   "section": "crowdsourced",
+   "recommender": "SorryAboutYourCat (reader)"
+  },
+  {
+   "id": "2025-08-17-merge-maestro",
+   "name": "Merge Maestro",
+   "url": "https://www.youtube.com/watch?v=rX3gm3Wd-UA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’ve been playing Merge Maestro way too much. It’s a fun match game with Super Auto Pets -like emoji artwork. Free-to-start on mobile with a $2 price for the entire game.",
+   "section": "crowdsourced",
+   "recommender": "Dominick (reader)"
+  },
+  {
+   "id": "2025-08-17-super-auto-pets-like",
+   "name": "Super Auto Pets -like",
+   "url": "https://teamwoodgames.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been playing Merge Maestro way too much. It’s a fun match game with Super Auto Pets -like emoji artwork. Free-to-start on mobile with a $2 price for the entire game.",
+   "section": "crowdsourced",
+   "recommender": "Dominick (reader)"
+  },
+  {
+   "id": "2025-08-17-the-next-conversation",
+   "name": "The Next Conversation",
+   "url": "https://www.penguinrandomhouse.com/books/750014/the-next-conversation-by-jefferson-fisher/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Reading: The Next Conversation by Jefferson Fisher. Playing: Dishonored for the first time. Watching: Mr. Robot and Murderbot (does this count as a theme?) Rabbit hole: Home Assistant and generally reducing my digital footprint (I say as making this public post).",
+   "section": "crowdsourced",
+   "recommender": "Omega86 (reader)"
+  },
+  {
+   "id": "2025-08-17-dishonored",
+   "name": "Dishonored",
+   "url": "https://bethesda.net/en/game/dishonored",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Reading: The Next Conversation by Jefferson Fisher. Playing: Dishonored for the first time. Watching: Mr. Robot and Murderbot (does this count as a theme?) Rabbit hole: Home Assistant and generally reducing my digital footprint (I say as making this public post).",
+   "section": "crowdsourced",
+   "recommender": "Omega86 (reader)"
+  },
+  {
+   "id": "2025-08-17-mr-robot",
+   "name": "Mr. Robot",
+   "url": "https://www.usanetwork.com/mr-robot",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Reading: The Next Conversation by Jefferson Fisher. Playing: Dishonored for the first time. Watching: Mr. Robot and Murderbot (does this count as a theme?) Rabbit hole: Home Assistant and generally reducing my digital footprint (I say as making this public post).",
+   "section": "crowdsourced",
+   "recommender": "Omega86 (reader)"
+  },
+  {
+   "id": "2025-08-17-murderbot",
+   "name": "Murderbot",
+   "url": "https://www.apple.com/tv-pr/originals/murderbot/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Reading: The Next Conversation by Jefferson Fisher. Playing: Dishonored for the first time. Watching: Mr. Robot and Murderbot (does this count as a theme?) Rabbit hole: Home Assistant and generally reducing my digital footprint (I say as making this public post).",
+   "section": "crowdsourced",
+   "recommender": "Omega86 (reader)"
+  },
+  {
+   "id": "2025-08-17-home-assistant",
+   "name": "Home Assistant",
+   "url": "https://www.home-assistant.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Reading: The Next Conversation by Jefferson Fisher. Playing: Dishonored for the first time. Watching: Mr. Robot and Murderbot (does this count as a theme?) Rabbit hole: Home Assistant and generally reducing my digital footprint (I say as making this public post).",
+   "section": "crowdsourced",
+   "recommender": "Omega86 (reader)"
+  },
+  {
+   "id": "2025-08-17-the-penguin",
+   "name": "The Penguin",
+   "url": "https://www.warnerbros.com/tv/penguin",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just got to watching The Penguin , and it’s a really fun gangster romp set in Gotham. I’ve mostly tired of the superhero stuff, but I’m always a sucker for good origin tales, and this really delivers. And the secret is, it’s really about Sofia Falcone and her war with her patriarchal mob family.",
+   "section": "crowdsourced",
+   "recommender": "verge_user_m573tv18 (reader)"
+  },
+  {
+   "id": "2025-08-17-ufo-50",
+   "name": "UFO 50",
+   "url": "https://www.nintendo.com/us/store/products/ufo-50-switch/?srsltid=AfmBOooYmgABZeB5tw6wLurxEca_R98P-8bkjPrjFpXJ0mbRp2Ql62h3",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "UFO 50 just came out on the Nintendo Switch. I’ve been following the podcast Eggplant: The Secret Lives of Gamers , which is going through each of the 50 games in a book club-like format, with just one game a week.",
+   "section": "crowdsourced",
+   "recommender": "Wolf3d.exe -goobers (reader)"
+  },
+  {
+   "id": "2025-08-17-eggplant-the-secret-lives-of-gamers",
+   "name": "Eggplant: The Secret Lives of Gamers",
+   "url": "https://eggplant.show/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "UFO 50 just came out on the Nintendo Switch. I’ve been following the podcast Eggplant: The Secret Lives of Gamers , which is going through each of the 50 games in a book club-like format, with just one game a week.",
+   "section": "crowdsourced",
+   "recommender": "Wolf3d.exe -goobers (reader)"
+  },
+  {
+   "id": "2025-08-17-barbarian",
+   "name": "Barbarian",
+   "url": "https://www.themoviedb.org/movie/913290-barbarian?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I, like many other people, watched Barbarian recently on Netflix. It’s leaving on August 31st. The director’s new movie, Weapons , just came out. Highly, highly recommend Barbarian . It’s fun to go in blind, and even if you’ve seen the trailer, you’ll still be spared some of its great twists.",
+   "section": "crowdsourced",
+   "recommender": "Cameron (reader)"
+  },
+  {
+   "id": "2025-08-17-weapons",
+   "name": "Weapons",
+   "url": "https://www.warnerbros.com/movies/weapons",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I, like many other people, watched Barbarian recently on Netflix. It’s leaving on August 31st. The director’s new movie, Weapons , just came out. Highly, highly recommend Barbarian . It’s fun to go in blind, and even if you’ve seen the trailer, you’ll still be spared some of its great twists.",
+   "section": "crowdsourced",
+   "recommender": "Cameron (reader)"
+  }
+ ]
+}

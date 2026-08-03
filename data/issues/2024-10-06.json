@@ -1,0 +1,463 @@
+{
+ "schema": 1,
+ "date": "2024-10-06",
+ "post_type": "issue",
+ "title": "The much simpler way to keep track of everything",
+ "url": "https://www.theverge.com/2024/10/6/24262260/pebblebee-airtag-google-arc-search-copilot-chatgpt-installer",
+ "author": "David Pierce",
+ "number": 55,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:36+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-10-06-ai-girlfriends",
+   "name": "AI girlfriends",
+   "url": "https://www.esquire.com/news-politics/a62452522/ai-girlfriend/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about AI girlfriends and Bobbi Althoff and baseball pitchers , watching Nobody Wants This (my favorite new show in forever) and the new noodle-focused Chef’s Table (a long-standing fave), falling in love with Coldplay all over again, listening to John Oliver talk…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-06-bobbi-althoff",
+   "name": "Bobbi Althoff",
+   "url": "https://www.wired.com/story/bobbi-althoff-big-interview/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about AI girlfriends and Bobbi Althoff and baseball pitchers , watching Nobody Wants This (my favorite new show in forever) and the new noodle-focused Chef’s Table (a long-standing fave), falling in love with Coldplay all over again, listening to John Oliver talk…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-06-baseball-pitchers",
+   "name": "baseball pitchers",
+   "url": "https://www.nytimes.com/athletic/5571107/2024/06/28/mlb-pitcher-fastball-top-speed/?UTM=NYTI_AUC_ATHLETC_COUSA_TW_SO_WTCP_XXXXXXXXXX_INTER_000000XXX_2PTW_XXXX_SPORTSINTXPRO_X18PL_COUSA_XXXXX_TWITOA_FSBL_0X_EN_JP_NFLINKS&site=x&campaign_id=36578818&source=twitterpcads&twclid=21xz5r2xr5a90t4b6zzugm1eyl",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about AI girlfriends and Bobbi Althoff and baseball pitchers , watching Nobody Wants This (my favorite new show in forever) and the new noodle-focused Chef’s Table (a long-standing fave), falling in love with Coldplay all over again, listening to John Oliver talk…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-06-nobody-wants-this",
+   "name": "Nobody Wants This",
+   "url": "https://www.themoviedb.org/tv/250923-nobody-wants-this",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about AI girlfriends and Bobbi Althoff and baseball pitchers , watching Nobody Wants This (my favorite new show in forever) and the new noodle-focused Chef’s Table (a long-standing fave), falling in love with Coldplay all over again, listening to John Oliver talk…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-06-noodle-focused-chefs-table",
+   "name": "noodle-focused Chef’s Table",
+   "url": "https://www.themoviedb.org/tv/270480-chef-s-table-noodles",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about AI girlfriends and Bobbi Althoff and baseball pitchers , watching Nobody Wants This (my favorite new show in forever) and the new noodle-focused Chef’s Table (a long-standing fave), falling in love with Coldplay all over again, listening to John Oliver talk…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-06-with-coldplay",
+   "name": "with Coldplay",
+   "url": "https://www.youtube.com/watch?v=6xt7nTuO85A",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about AI girlfriends and Bobbi Althoff and baseball pitchers , watching Nobody Wants This (my favorite new show in forever) and the new noodle-focused Chef’s Table (a long-standing fave), falling in love with Coldplay all over again, listening to John Oliver talk…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-06-john-oliver-talk-journalism",
+   "name": "John Oliver talk journalism",
+   "url": "https://www.youtube.com/watch?v=Q9kNMJ8SguQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about AI girlfriends and Bobbi Althoff and baseball pitchers , watching Nobody Wants This (my favorite new show in forever) and the new noodle-focused Chef’s Table (a long-standing fave), falling in love with Coldplay all over again, listening to John Oliver talk…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-06-alphaguess",
+   "name": "Alphaguess",
+   "url": "https://alphaguess.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about AI girlfriends and Bobbi Althoff and baseball pitchers , watching Nobody Wants This (my favorite new show in forever) and the new noodle-focused Chef’s Table (a long-standing fave), falling in love with Coldplay all over again, listening to John Oliver talk…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-06-iphone-16",
+   "name": "iPhone 16",
+   "url": "https://www.apple.com/iphone-16/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about AI girlfriends and Bobbi Althoff and baseball pitchers , watching Nobody Wants This (my favorite new show in forever) and the new noodle-focused Chef’s Table (a long-standing fave), falling in love with Coldplay all over again, listening to John Oliver talk…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-06-the-pebblebee-clip-universal",
+   "name": "The Pebblebee Clip Universal",
+   "url": "https://pebblebee.com/products/pebblebee-clip-universal",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This tracker works with both Apple’s Find My and Google’s Find My Device systems, which is just such an obviously good and correct idea! For a multiplatform person or family, this is a way better buy than a bunch of AirTags.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-06-croissant",
+   "name": "Croissant",
+   "url": "https://croissantapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "We may not live in the full everything-everywhere, fediverse-y social world I want, but at least cross-posting is getting easier. This is a really nice-looking iOS app that lets you post simultaneously to Threads, Bluesky, and Mastodon. It’s also just really nice to type in.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-06-the-raspberry-pi-ai-camera",
+   "name": "The Raspberry Pi AI Camera",
+   "url": "https://www.raspberrypi.com/products/ai-camera/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is going to be a tinkerer’s paradise: a $70 camera with a built-in AI processor that you can use for machine vision, automated photo-taking, and lots more. I can’t wait to see what people build with this.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-06-arc-search-for-android",
+   "name": "Arc Search for Android",
+   "url": "https://play.google.com/store/apps/details?id=company.thebrowser.arc",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "Arc’s still my go-to browser, and it’s getting easier to commit to that as the company comes to more platforms. This one is still very much in beta, but I have it on my Pixel Fold and it’s working pretty well so far.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-06-how-i-replaced-notion-with-reminders-numbers-and",
+   "name": "How I Replaced Notion with Reminders, Numbers, and Notes.",
+   "url": "https://medium.com/the-realist/how-i-replaced-notion-with-reminders-numbers-and-notes-38282543b29b",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“ How I Replaced Notion with Reminders, Numbers, and Notes. ” So, so, so many of you sent this to me this week! Joan Westenberg’s deep dive into Apple’s productivity tools is really smart and detailed and is probably the way most people should manage their lives.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-06-microsoft-copilot",
+   "name": "Microsoft Copilot",
+   "url": "https://copilot.microsoft.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Sure, I’m a sucker for a warm-shaded website and some calming illustrations, but I really like the new look of Microsoft’s AI bot. And I like that Microsoft is looking at Copilot less like a work tool and more like a handy personal helper.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-06-the-oura-ring-4",
+   "name": "The Oura Ring 4",
+   "url": "https://ouraring.com/product/rings",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I like the Oura Ring a lot, but it’s always been just a bit too chunky to feel truly comfortable on my finger. This one has some neat-sounding new features and improvements, but mostly, it seems to be significantly smaller.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-06-dan-da-dan",
+   "name": "Dan Da Dan",
+   "url": "https://www.themoviedb.org/tv/240411",
+   "alt_urls": [
+    "https://www.animationmagazine.net/2024/08/how-dan-da-dan-director-fuga-yamashiro-conjured-a-rom-com-horror-anime-hybrid/",
+    "https://www.avclub.com/dan-da-dan-review-tv-anime"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "A new anime that is by just about all accounts both a really fun story about ghosts and aliens and high school and a remarkable achievement in animation . Fans have been waiting for a new title this good for a while, and it sounds like everything we could have hoped for.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-06-chatgpt-canvas",
+   "name": "ChatGPT Canvas",
+   "url": "https://openai.com/index/introducing-canvas/",
+   "alt_urls": [
+    "https://support.anthropic.com/en/articles/9487310-what-are-artifacts-and-how-do-i-use-them"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "We are, slowly but surely, getting out of the chatbot era of AI models. This looks a lot like Claude’s Artifacts feature in that it lets you make something from scratch and then edit it in place with the model’s help. It’s fun! And useful!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-06-the-franchise",
+   "name": "The Franchise",
+   "url": "https://www.themoviedb.org/tv/216619-the-franchise?language=en-US",
+   "alt_urls": [
+    "https://www.themoviedb.org/tv/62335-unreal?language=en-US"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The premise of this show — a fictionalized behind-the-scenes look at the cast and crew making a big-budget superhero movie — reminds me a bit of the show Unreal . And I LOVE Unreal . The reviews here aren’t all great, but I’ll be watching anyway.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-06-i-have-a-pixel-6a-which-eked-through-ifixits-int",
+   "name": "I have a Pixel 6A, which eked through iFixit’s internal purchasing approval with",
+   "url": "https://www.ifixit.com/Document/34QJbGKyVBFV2qD1/Repair-Snapshot---Pixel-6a.pdf?referrer=wiki%3A478475",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: I have a Pixel 6A, which eked through iFixit’s internal purchasing approval with a 5/10 on our repairability scorecard . Unlike the 5A, it doesn’t have a headphone jack, which is a daily frustration. I use my headphones so much!",
+   "section": "screen-share",
+   "recommender": "Kyle"
+  },
+  {
+   "id": "2024-10-06-this-synthetic-podcast",
+   "name": "this synthetic podcast",
+   "url": "https://cloud.okfn.de/s/4LHKRmY855fBqpL",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "One of our right to repair coalition members just made this synthetic podcast from Aaron Perzanowski’s seminal book on the topic. It’s amazing! The “podcast” is very close to the source material, and I didn’t notice any particular mistakes.",
+   "section": "screen-share",
+   "recommender": "Kyle"
+  },
+  {
+   "id": "2024-10-06-very-large-portion",
+   "name": "very large portion",
+   "url": "https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=6c1b2e73d9d749cdb7bc88a0d1bdd25b",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I spend a lot of time in low-reception environments. I understand why carrier execs who live in cities think 5G is a good idea, but a very large portion of the US still has zero cell phone coverage.",
+   "section": "screen-share",
+   "recommender": "Kyle"
+  },
+  {
+   "id": "2024-10-06-starlink-wi-fi",
+   "name": "Starlink Wi-Fi",
+   "url": "https://www.starlink.com/us",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I spend a lot of time in low-reception environments. I understand why carrier execs who live in cities think 5G is a good idea, but a very large portion of the US still has zero cell phone coverage.",
+   "section": "screen-share",
+   "recommender": "Kyle"
+  },
+  {
+   "id": "2024-10-06-mtb-project",
+   "name": "MTB Project",
+   "url": "https://www.mtbproject.com/mobile-app",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I spend a lot of time in low-reception environments. I understand why carrier execs who live in cities think 5G is a good idea, but a very large portion of the US still has zero cell phone coverage.",
+   "section": "screen-share",
+   "recommender": "Kyle"
+  },
+  {
+   "id": "2024-10-06-onx",
+   "name": "onX",
+   "url": "https://www.onxmaps.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I spend a lot of time in low-reception environments. I understand why carrier execs who live in cities think 5G is a good idea, but a very large portion of the US still has zero cell phone coverage.",
+   "section": "screen-share",
+   "recommender": "Kyle"
+  },
+  {
+   "id": "2024-10-06-fixhub-soldering-iron",
+   "name": "FixHub soldering iron",
+   "url": "https://www.ifixit.com/fixhub",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I spend a lot of time in low-reception environments. I understand why carrier execs who live in cities think 5G is a good idea, but a very large portion of the US still has zero cell phone coverage.",
+   "section": "screen-share",
+   "recommender": "Kyle"
+  },
+  {
+   "id": "2024-10-06-zing-coach",
+   "name": "Zing Coach",
+   "url": "https://www.zing.coach/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Zing Coach . I’ve spent years looking for workout apps because I’m not good at just committing to exercising without a full plan before I start. Zing takes into account your age, gender, and even injuries to write the best workout schedule for you — using AI (huh!).",
+   "section": "crowdsourced",
+   "recommender": "Calvin (reader)"
+  },
+  {
+   "id": "2024-10-06-silicondust-hdhomerun-flex-4k",
+   "name": "SiliconDust HDHomeRun Flex 4K",
+   "url": "https://shop.silicondust.com/shop/product/hdfx-4k/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m loving my SiliconDust HDHomeRun Flex 4K . Combined with Plex Pass , it is easily the most intuitive and feature-rich OTT viewing experience.",
+   "section": "crowdsourced",
+   "recommender": "Joseph (reader)"
+  },
+  {
+   "id": "2024-10-06-plex-pass",
+   "name": "Plex Pass",
+   "url": "https://www.plex.tv/plex-pass/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m loving my SiliconDust HDHomeRun Flex 4K . Combined with Plex Pass , it is easily the most intuitive and feature-rich OTT viewing experience.",
+   "section": "crowdsourced",
+   "recommender": "Joseph (reader)"
+  },
+  {
+   "id": "2024-10-06-imagining-arc",
+   "name": "Imagining Arc",
+   "url": "https://pod.link/1758984150",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Imagining Arc by The Browser Company is a newish (and ongoing) podcast with CEO Josh Miller about the company’s work on the 2.0 version of the Arc web browser .",
+   "section": "crowdsourced",
+   "recommender": "should definitely give it a try.” – Kaiden (reader)"
+  },
+  {
+   "id": "2024-10-06-the-arc-web-browser",
+   "name": "the Arc web browser",
+   "url": "https://arc.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Imagining Arc by The Browser Company is a newish (and ongoing) podcast with CEO Josh Miller about the company’s work on the 2.0 version of the Arc web browser .",
+   "section": "crowdsourced",
+   "recommender": "should definitely give it a try.” – Kaiden (reader)"
+  },
+  {
+   "id": "2024-10-06-daily",
+   "name": "Daily",
+   "url": "https://dscp.team/daily/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "In my never-ending quest to find a good task manager, I came across this dead-simple to-do app called Daily . It’s been perfect for my daily standups and is the perfect place to dump a ton of tasks you need to get done for the day.",
+   "section": "crowdsourced",
+   "recommender": "Eddy (reader)"
+  },
+  {
+   "id": "2024-10-06-outlanders-2",
+   "name": "Outlanders 2",
+   "url": "https://www.pomelogames.com/outlanders/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "​​I recently stumbled upon a title called Outlanders 2 , an updated and enhanced version of the original Outlanders , and it’s wonderful. You take care of a few outlanders, with the objective to survive, build houses, grow the population, hunt for food, and prosper.",
+   "section": "crowdsourced",
+   "recommender": "Vojta (reader)"
+  },
+  {
+   "id": "2024-10-06-its-lonely-at-the-centre-of-the-earth",
+   "name": "It’s Lonely at the Centre of the Earth",
+   "url": "https://www.simonandschuster.com/books/Its-Lonely-at-the-Centre-of-the-Earth/Zoe-Thorogood/9781534323865",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am reading It’s Lonely at the Centre of the Earth by Zoe Thorogood. She recently lost her brother. New profits for the amazing graphic novel from the day her brother left till the end of the year are being donated to mental health charities.",
+   "section": "crowdsourced",
+   "recommender": "Daniel (reader)"
+  },
+  {
+   "id": "2024-10-06-qudelix-5k",
+   "name": "Qudelix-5K",
+   "url": "https://drop.com/buy/qudelix-5k-bluetooth-usb-dac-amp",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m by no means an audiophile, but the Qudelix-5K has given new life to my studio headphones. Super-quick Bluetooth pairing, and I have mine clipped directly on the headphones, so no dangling cords!",
+   "section": "crowdsourced",
+   "recommender": "Jack (reader)"
+  },
+  {
+   "id": "2024-10-06-tripsy",
+   "name": "Tripsy",
+   "url": "https://tripsy.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a very organized person, especially when it comes to traveling. Tripsy for iOS is hands-down the best travel planner app I’ve ever tried. It’s really well designed and easy to use. They even give you flight alerts similar to Flighty, so I’ve stopped paying for Flighty altogether.",
+   "section": "crowdsourced",
+   "recommender": "Daniel (reader)"
+  },
+  {
+   "id": "2024-10-06-pincone",
+   "name": "Pincone",
+   "url": "https://pincone.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If you’re a fan of newsletters, hoarding bookmarks, and collecting endless internet wisdom, you should try out Pincone . I work in marketing, so my email gets really cluttered with newsletters — I’ve now added all of them to Pincone, and it has freed my inbox loads!",
+   "section": "crowdsourced",
+   "recommender": "Lea (reader)"
+  },
+  {
+   "id": "2024-10-06-the-bobiverse",
+   "name": "the Bobiverse",
+   "url": "https://www.audible.com/series/Bobiverse-Audiobooks/B01M1RDL6W?pf_rd_p=d5dbb081-6443-492d-a142-e20438357795&pf_rd_r=ZH0FR5K1T2TH58V73D0V&pageLoadId=ICsl0WllpDhFYJhO&creativeId=d721b04b-3ed5-44e4-b715-7e5953991cb7",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
+   "blurb": "I’m relistening to a series of audiobooks: the Bobiverse . It’s super nerdy and really good fun!",
+   "section": "crowdsourced",
+   "recommender": "Wenzel (reader)"
+  }
+ ]
+}

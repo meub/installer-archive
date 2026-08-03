@@ -1,0 +1,486 @@
+{
+ "schema": 1,
+ "date": "2025-06-01",
+ "post_type": "issue",
+ "title": "A new movie taking on the tech bros",
+ "url": "https://www.theverge.com/installer-newsletter/677564/mountainhead-whatsapp-popsockets-installer",
+ "author": "David Pierce",
+ "number": 85,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-06-01-sean-evans",
+   "name": "Sean Evans",
+   "url": "https://www.vulture.com/article/sean-evans-hot-ones-encounter.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sean Evans and music fraud and ayahuasca , playing with the new Obsidian Bases feature, obsessing over every behind-the-scenes Final Reckoning video I can find, listening to MGK’s “ Cliche ” more times than I’m proud of, installing some Elgato Key Lights to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-01-music-fraud",
+   "name": "music fraud",
+   "url": "https://www.wired.com/story/ai-bots-streaming-music/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sean Evans and music fraud and ayahuasca , playing with the new Obsidian Bases feature, obsessing over every behind-the-scenes Final Reckoning video I can find, listening to MGK’s “ Cliche ” more times than I’m proud of, installing some Elgato Key Lights to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-01-ayahuasca",
+   "name": "ayahuasca",
+   "url": "https://www.nplusonemag.com/issue-50/essays/pirates-of-the-ayahuasca/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sean Evans and music fraud and ayahuasca , playing with the new Obsidian Bases feature, obsessing over every behind-the-scenes Final Reckoning video I can find, listening to MGK’s “ Cliche ” more times than I’m proud of, installing some Elgato Key Lights to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-01-obsidian-bases",
+   "name": "Obsidian Bases",
+   "url": "https://help.obsidian.md/bases",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sean Evans and music fraud and ayahuasca , playing with the new Obsidian Bases feature, obsessing over every behind-the-scenes Final Reckoning video I can find, listening to MGK’s “ Cliche ” more times than I’m proud of, installing some Elgato Key Lights to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-01-behind-the-scenes-final-reckoning-video",
+   "name": "behind-the-scenes Final Reckoning video",
+   "url": "https://www.youtube.com/watch?v=YePWQ3MydgY",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Sean Evans and music fraud and ayahuasca , playing with the new Obsidian Bases feature, obsessing over every behind-the-scenes Final Reckoning video I can find, listening to MGK’s “ Cliche ” more times than I’m proud of, installing some Elgato Key Lights to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-01-cliche",
+   "name": "Cliche",
+   "url": "https://www.youtube.com/watch?v=m4DVbm9zeR0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Sean Evans and music fraud and ayahuasca , playing with the new Obsidian Bases feature, obsessing over every behind-the-scenes Final Reckoning video I can find, listening to MGK’s “ Cliche ” more times than I’m proud of, installing some Elgato Key Lights to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-01-elgato-key-lights",
+   "name": "Elgato Key Lights",
+   "url": "https://www.elgato.com/us/en/p/key-light#key-light-configurator",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sean Evans and music fraud and ayahuasca , playing with the new Obsidian Bases feature, obsessing over every behind-the-scenes Final Reckoning video I can find, listening to MGK’s “ Cliche ” more times than I’m proud of, installing some Elgato Key Lights to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-01-artifacts",
+   "name": "Artifacts",
+   "url": "https://artifacts.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sean Evans and music fraud and ayahuasca , playing with the new Obsidian Bases feature, obsessing over every behind-the-scenes Final Reckoning video I can find, listening to MGK’s “ Cliche ” more times than I’m proud of, installing some Elgato Key Lights to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-01-mountainhead",
+   "name": "Mountainhead",
+   "url": "https://www.themoviedb.org/movie/1417059-mountainhead",
+   "alt_urls": [
+    "https://www.theverge.com/movie-reviews/676817/hbo-mountainhead-review"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I mean, is there a more me-coded pitch than “ Succession vibes , but about tech bros?” It’s about a bunch of (pretty recognizable) billionaires who more or less run the world and are also more or less ruining it. You’ll either find this hilarious, way too close to home, or both .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-01-whatsapp-for-ipad",
+   "name": "WhatsApp for iPad",
+   "url": "https://apps.apple.com/us/app/whatsapp-messenger/id310633997?platform=ipad",
+   "alt_urls": [
+    "https://www.theverge.com/news/674596/whatsapp-ipad-app-meta-availability"
+   ],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "I will never, ever understand why Meta hates building iPad apps. But it finally launched the most important one! The app itself is extremely fine and exactly what you’d think it would be, but whatever. It exists! DO INSTAGRAM NEXT.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-01-post-games",
+   "name": "Post Games",
+   "url": "https://postgame.substack.com/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "newsletter"
+   ],
+   "blurb": "A new podcast from Chris Plante, the former editor-in-chief over at Polygon , all about video games. It’s only a couple episodes deep, but so far I love the format: it’s really smart and extremely thoughtful, but it’s also very silly in spots. Big fan.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-01-the-popsockets-kick-out-grip",
+   "name": "The Popsockets Kick-Out Grip",
+   "url": "https://www.popsockets.com/en-us/new-and-featured/kick-out-grip-and-stand",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am a longtime, die-hard Popsockets user and evangelist, and the new model fixes my one gripe with the thing by working as both a landscape and portrait kickstand. $40 is highway robbery for a phone holder, but this is exactly the thing I wanted.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-01-dance-with-sabrina",
+   "name": "Dance with Sabrina",
+   "url": "https://www.fortnite.com/news/dance-with-sabrina-carpenter-in-fortnite",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“ Dance with Sabrina .” A new, real-time competitive rhythm game inside of Fortnite , in which you try to do well enough to earn the right to actually help create the show itself. Super fun concept, though all these games are better with pads, guitars, or really anything but a normal controller.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-01-lazy-2-0",
+   "name": "Lazy 2.0",
+   "url": "https://lazy.so/",
+   "alt_urls": [
+    "https://x.com/demtzu/status/1927372085640282399"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Lazy is a stealthy but fascinating note-taking tool, and it does an unusually good job of integrating with files and apps. The new version is very AI-forward, basically bringing a personalized chatbot and all your notes to your whole computer. Neat!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-01-elden-ring-nightreign",
+   "name": "Elden Ring Nightreign",
+   "url": "https://en.bandainamcoent.eu/elden-ring/elden-ring-nightreign",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A multiplayer-heavy spinoff of the game that I cannot get my gamer friends to shut up about, even years after it came out. I’ve seen a few people call the game a bit small and repetitive, but next to Elden Ring I suppose most things are.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-01-the-tapo-dl100-smart-deadbolt-door-lock",
+   "name": "The Tapo DL100 Smart Deadbolt Door Lock",
+   "url": "https://www.amazon.com/dp/B0F5BH3HDV?&linkCode=ll1&tag=vergenewsletter-20&linkId=87c0fa3f09c2b593226b25c9248b9fbb&language=en_US&tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "A $70 door lock with, as far as I can tell, every feature I want in a smart lock: a keypad, physical keys, super long battery life, and lots of assistant integrations. It does look… huge? But it’s pretty bland-looking, which is a good thing.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-01-implosion-the-titanic-sub-disaster",
+   "name": "Implosion: The Titanic Sub Disaster",
+   "url": "https://www.themoviedb.org/movie/1482059-implosion-the-titanic-sub-disaster",
+   "alt_urls": [
+    "https://www.theverge.com/trailers/672438/netflix-titan-oceangate-disaster-trailer-premiere-date",
+    "https://www.theverge.com/2023/6/22/23768340/titan-submersible-lost-titanic-hamish"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "One of a few Titan-related documentaries coming this summer, meant to try and explain what led to the awful events of a couple years ago . I haven’t seen this one yet, but the reviews are solid — and the story seems even sadder and more infuriating than we thought.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-01-the-growing-scandal-of-trump",
+   "name": "The growing scandal of $TRUMP",
+   "url": "https://www.youtube.com/watch?v=JNJD-vKtrPc",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ The growing scandal of $TRUMP .” I love a good Zeke Faux take on crypto, whether it’s a book or a Search Engine episode.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-01-pixel-9-pro",
+   "name": "Pixel 9 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: Pixel 9 Pro.",
+   "section": "screen-share",
+   "recommender": "Cam"
+  },
+  {
+   "id": "2025-06-01-stuff",
+   "name": "Stuff",
+   "url": "https://play.google.com/store/apps/details?id=com.stuff.todo&hl=en_US",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "I haven’t downloaded a new app in ages. What’s shown on my homescreen has been there, unmoved, for longer than I can remember.",
+   "section": "screen-share",
+   "recommender": "Cam"
+  },
+  {
+   "id": "2025-06-01-google-fit",
+   "name": "Google Fit",
+   "url": "https://www.google.com/fit/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I haven’t downloaded a new app in ages. What’s shown on my homescreen has been there, unmoved, for longer than I can remember.",
+   "section": "screen-share",
+   "recommender": "Cam"
+  },
+  {
+   "id": "2025-06-01-righteous-gemstones",
+   "name": "Righteous Gemstones",
+   "url": "https://www.themoviedb.org/tv/82782-the-righteous-gemstones",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Righteous Gemstones on HBO Max. It’s a much smarter comedy than I had assumed (but it’s still dumb in the best ways), and I’m delighted to have four seasons to catch up on.",
+   "section": "screen-share",
+   "recommender": "Cam"
+  },
+  {
+   "id": "2025-06-01-clair-obscur-expedition-33",
+   "name": "Clair Obscur: Expedition 33",
+   "url": "https://www.expedition33.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Righteous Gemstones on HBO Max. It’s a much smarter comedy than I had assumed (but it’s still dumb in the best ways), and I’m delighted to have four seasons to catch up on.",
+   "section": "screen-share",
+   "recommender": "Cam"
+  },
+  {
+   "id": "2025-06-01-persona-5",
+   "name": "Persona 5",
+   "url": "https://persona.atlus.com/p5r/?lang=en",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Righteous Gemstones on HBO Max. It’s a much smarter comedy than I had assumed (but it’s still dumb in the best ways), and I’m delighted to have four seasons to catch up on.",
+   "section": "screen-share",
+   "recommender": "Cam"
+  },
+  {
+   "id": "2025-06-01-switch-2",
+   "name": "Switch 2",
+   "url": "https://www.nintendo.com/us/gaming-systems/switch-2/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Righteous Gemstones on HBO Max. It’s a much smarter comedy than I had assumed (but it’s still dumb in the best ways), and I’m delighted to have four seasons to catch up on.",
+   "section": "screen-share",
+   "recommender": "Cam"
+  },
+  {
+   "id": "2025-06-01-the-devils-plan",
+   "name": "The Devil’s Plan",
+   "url": "https://www.themoviedb.org/tv/214582",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The Devil’s Plan . This Netflix original South Korean reality show locks 14 contestants in a windowless living space that’s part mansion, part prison, part room escape, and challenges them to eliminate each other in a series of complicated tabletop games.",
+   "section": "crowdsourced",
+   "recommender": "Travis (reader)"
+  },
+  {
+   "id": "2025-06-01-the-genius",
+   "name": "The Genius",
+   "url": "https://www.themoviedb.org/tv/54553-genius-the-rule-of-game",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The Devil’s Plan . This Netflix original South Korean reality show locks 14 contestants in a windowless living space that’s part mansion, part prison, part room escape, and challenges them to eliminate each other in a series of complicated tabletop games.",
+   "section": "crowdsourced",
+   "recommender": "Travis (reader)"
+  },
+  {
+   "id": "2025-06-01-drive-to-survive",
+   "name": "Drive to Survive",
+   "url": "https://www.themoviedb.org/tv/87083-formula-1-drive-to-survive",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "If you’re a fan of Drive to Survive , I’m happy to report that the latest season of Netflix’s series on NASCAR is finally good, and a reasonable substitute for that show once you’ve finished it.",
+   "section": "crowdsourced",
+   "recommender": "Christopher (reader)"
+  },
+  {
+   "id": "2025-06-01-netflixs-series-on-nascar",
+   "name": "Netflix’s series on NASCAR",
+   "url": "https://www.themoviedb.org/tv/243348-nascar-full-speed",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "If you’re a fan of Drive to Survive , I’m happy to report that the latest season of Netflix’s series on NASCAR is finally good, and a reasonable substitute for that show once you’ve finished it.",
+   "section": "crowdsourced",
+   "recommender": "Christopher (reader)"
+  },
+  {
+   "id": "2025-06-01-open-bubbles",
+   "name": "Open Bubbles",
+   "url": "https://openbubbles.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I switched to a Pixel 9 Pro XL and Pixel Watch 3 from an iPhone and Apple Watch about 6 months ago and found Open Bubbles , an open source alternative to BlueBubbles that does need a Mac but doesn’t need that Mac to remain on, You just need a one-time hardware identifier from it, then it gives you…",
+   "section": "crowdsourced",
+   "recommender": "Tim (reader)"
+  },
+  {
+   "id": "2025-06-01-bluebubbles",
+   "name": "BlueBubbles",
+   "url": "https://bluebubbles.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I switched to a Pixel 9 Pro XL and Pixel Watch 3 from an iPhone and Apple Watch about 6 months ago and found Open Bubbles , an open source alternative to BlueBubbles that does need a Mac but doesn’t need that Mac to remain on, You just need a one-time hardware identifier from it, then it gives you…",
+   "section": "crowdsourced",
+   "recommender": "Tim (reader)"
+  },
+  {
+   "id": "2025-06-01-mario-kart-8-deluxe",
+   "name": "Mario Kart 8 Deluxe",
+   "url": "https://mariokart8.nintendo.com/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Playing Mario Kart 8 Deluxe for the last time before Mario Kart World arrives next week and takes over my life!",
+   "section": "crowdsourced",
+   "recommender": "Ravi (reader)"
+  },
+  {
+   "id": "2025-06-01-inoreader",
+   "name": "Inoreader",
+   "url": "https://www.inoreader.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "With Pocket being killed off I’ve started using my RSS reader — which is Inoreader — instead as a suitable replacement. I only switched over to Pocket after Omnivore shut down.",
+   "section": "crowdsourced",
+   "recommender": "James (reader)"
+  },
+  {
+   "id": "2025-06-01-boox-go-10-3",
+   "name": "Boox Go 10.3",
+   "url": "https://shop.boox.com/products/go103",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just got a Boox Go 10.3 for my birthday and love it. The lack of front lighting is the biggest downfall. It is also only on Android 12 so I cannot load a corporate profile. It feels good to write on just, almost as good as my cheaper fountain pen and paper.",
+   "section": "crowdsourced",
+   "recommender": "Sean (reader)"
+  },
+  {
+   "id": "2025-06-01-tweek",
+   "name": "Tweek",
+   "url": "https://tweek.so/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Giving Tweek a bit of a go, and for a lightweight weekly planner it’s beautiful. I also currently use Motion for project management of personal tasks and when I was doing my Master’s. I really like the Gantt view to map out long term personal and study projects.",
+   "section": "crowdsourced",
+   "recommender": "Astrid (reader)"
+  },
+  {
+   "id": "2025-06-01-motion",
+   "name": "Motion",
+   "url": "https://www.usemotion.com/calendar",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Giving Tweek a bit of a go, and for a lightweight weekly planner it’s beautiful. I also currently use Motion for project management of personal tasks and when I was doing my Master’s. I really like the Gantt view to map out long term personal and study projects.",
+   "section": "crowdsourced",
+   "recommender": "Astrid (reader)"
+  },
+  {
+   "id": "2025-06-01-the-elysian",
+   "name": "The Elysian",
+   "url": "https://www.elysian.press/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Might I suggest Elle Griffin’s work at The Elysian ? How she’s thinking through speculative futures and a cooperative media system is fascinating.",
+   "section": "crowdsourced",
+   "recommender": "Zach (reader)"
+  },
+  {
+   "id": "2025-06-01-geforce-now",
+   "name": "GeForce Now",
+   "url": "https://www.nvidia.com/en-us/geforce-now/download/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "GeForce Now on Steam Deck!",
+   "section": "crowdsourced",
+   "recommender": "Steve (reader)"
+  },
+  {
+   "id": "2025-06-01-a-blog-post-from-the-great-dan-sinker",
+   "name": "a blog post from the great Dan Sinker",
+   "url": "https://dansinker.com/posts/2025-05-23-who-cares/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "And then this week I read a blog post from the great Dan Sinker , who called this moment “the Who Cares Era, where completely disposable things are shoddily produced for people to mostly ignore.” You should read the whole thing, but here’s a bit I really loved:",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

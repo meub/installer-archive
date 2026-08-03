@@ -1,0 +1,17 @@
+{
+ "schema": 1,
+ "date": "2025-08-21",
+ "post_type": "callout",
+ "title": "I need your help for Installer!",
+ "url": "https://www.theverge.com/installer-newsletter/763590/i-need-your-help-for-installer",
+ "author": "Jay Peters",
+ "number": null,
+ "sections_found": [
+  "intro"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:39+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": []
+}

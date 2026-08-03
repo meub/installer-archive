@@ -1,0 +1,504 @@
+{
+ "schema": 1,
+ "date": "2024-06-02",
+ "post_type": "issue",
+ "title": "A better way to take video on your phone",
+ "url": "https://www.theverge.com/2024/6/2/24168881/best-app-phone-video-kino-fitbit-ace-moviepass-installer",
+ "author": "David Pierce",
+ "number": 40,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:36+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-06-02-shein",
+   "name": "Shein",
+   "url": "https://www.bigtechnology.com/p/how-shein-and-temu-snuck-up-on-amazon",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Shein and Reese Witherspoon and Hollywood Ponzi schemes , journaling in Papery , testing Lazy for all my link dumps and notes, drinking a lot of Poppi soda, developing a mac and cheese recipe my toddler will actually like, and pricing out plane tickets for the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-02-reese-witherspoon",
+   "name": "Reese Witherspoon",
+   "url": "https://www.nytimes.com/2024/05/18/books/reese-witherspoon-book-club.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Shein and Reese Witherspoon and Hollywood Ponzi schemes , journaling in Papery , testing Lazy for all my link dumps and notes, drinking a lot of Poppi soda, developing a mac and cheese recipe my toddler will actually like, and pricing out plane tickets for the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-02-hollywood-ponzi-schemes",
+   "name": "Hollywood Ponzi schemes",
+   "url": "https://www.newyorker.com/magazine/2024/06/03/master-of-make-believe",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Shein and Reese Witherspoon and Hollywood Ponzi schemes , journaling in Papery , testing Lazy for all my link dumps and notes, drinking a lot of Poppi soda, developing a mac and cheese recipe my toddler will actually like, and pricing out plane tickets for the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-02-papery",
+   "name": "Papery",
+   "url": "https://papery.me/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Shein and Reese Witherspoon and Hollywood Ponzi schemes , journaling in Papery , testing Lazy for all my link dumps and notes, drinking a lot of Poppi soda, developing a mac and cheese recipe my toddler will actually like, and pricing out plane tickets for the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-02-lazy",
+   "name": "Lazy",
+   "url": "https://lazy.so/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Shein and Reese Witherspoon and Hollywood Ponzi schemes , journaling in Papery , testing Lazy for all my link dumps and notes, drinking a lot of Poppi soda, developing a mac and cheese recipe my toddler will actually like, and pricing out plane tickets for the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-02-poppi",
+   "name": "Poppi",
+   "url": "https://drinkpoppi.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Shein and Reese Witherspoon and Hollywood Ponzi schemes , journaling in Papery , testing Lazy for all my link dumps and notes, drinking a lot of Poppi soda, developing a mac and cheese recipe my toddler will actually like, and pricing out plane tickets for the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-02-wu-tang-clan-listening-party",
+   "name": "Wu-Tang Clan listening party",
+   "url": "https://mona.net.au/stuff-to-do/namedropping-the-wu-tang-clan",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Shein and Reese Witherspoon and Hollywood Ponzi schemes , journaling in Papery , testing Lazy for all my link dumps and notes, drinking a lot of Poppi soda, developing a mac and cheese recipe my toddler will actually like, and pricing out plane tickets for the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-02-kino",
+   "name": "Kino",
+   "url": "https://www.lux.camera/introducing-kino-pro-video-camera/",
+   "alt_urls": [
+    "https://halide.cam/",
+    "https://www.lux.camera/meet-orion/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The team at Lux doesn’t really miss. They made Halide for photos, the nifty Orion iPad monitor tool, and now Kino, a video app that is somehow both really simple and absurdly powerful. I love a good noir filter.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-02-the-fitbit-ace-lte",
+   "name": "The Fitbit Ace LTE",
+   "url": "https://www.fitbit.com/global/us/products/smartwatches/ace-lte",
+   "alt_urls": [
+    "https://www.theverge.com/2024/5/29/24166168/fitbit-ace-lte-kids-smartwatch-wearables"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This smartwatch is for kids, but… I want one. It has some fun games designed to get you moving, a really charming bunch of colors and accessories, and a surprising amount of power inside . Don’t love the $230 price, but love just about everything else.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-02-jim-henson-idea-man",
+   "name": "Jim Henson Idea Man",
+   "url": "https://disneyplus.bn5x.net/c/482924/1717323/9358?u=https%3A%2F%2Fwww.disneyplus.com%2Fbrowse%2Fentity-cfe196bc-713b-45ba-b520-6f585afd3dd8",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=iyGFV6VIxkI"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I don’t know if it’s just that I have a toddler who’s obsessed with Sesame Street and the Muppets, but even the trailer for this Disney Plus doc made me cry. It’s a story about creativity and wonder and is full of fun behind-the-scenes Muppets stuff.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-02-carrot-6-0",
+   "name": "Carrot 6.0",
+   "url": "https://www.meetcarrot.com/weather/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Some really fun updates to the most fun weather app! I like the new layouts and data viz stuff in particular, and the game-mechanic robot gardener feature is charming but not really my thing. Still: more silliness in weather apps, you love to see it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-02-jon-bellion-on-the-george-janko-show",
+   "name": "Jon Bellion on The George Janko Show",
+   "url": "https://podcasters.spotify.com/pod/show/george-janko2/episodes/68-Jon-Bellions-Return-e2k1in8",
+   "alt_urls": [
+    "https://www.tiktok.com/@thegeorgejankoshow/video/7372328683383655722?_r=1&_t=8mcTp8rKHSY"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This episode has been all over my For You page on TikTok, with Bellion explaining how the Ticketmaster / Live Nation monopoly works and the overall business of being an artist in 2024. Really interesting listen.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-02-chromes-minimized-custom-tabs",
+   "name": "Chrome’s Minimized Custom Tabs",
+   "url": "https://blog.chromium.org/2024/05/multi-tasking-with-minimized-custom-tabs.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A terrible name for a really clever product: basically, picture-in-picture for a browser tab that makes the whole in-app browser idea much more seamless. It’s only Chrome for Android for now, but Google says it’s hoping every browser supports the feature, and I hope so, too.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-02-trip-tunes",
+   "name": "Trip Tunes",
+   "url": "https://impresskit.net/945e5a42-7ea5-41fe-ab09-56eacfb1ba96",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Large language models turn out to be really, really good at making playlists. This app is only for iOS and only for Apple Music, boo, but I love the whole mixtape-y aesthetic and that you just tell it where you’re going and the mood you’re in, and it fills the ride with music.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-02-the-nomad-tracking-card",
+   "name": "The Nomad Tracking Card",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://nomadgoods.com/products/tracking-card",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I had an AirTag in my wallet for a while, but it was just a little too big. I’d much rather just slide this into the card slot since Nomad says it’s only as thick as two credit cards. The battery apparently lasts five months and charges via any MagSafe charger.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-02-moviepass-moviecrash",
+   "name": "MoviePass, MovieCrash",
+   "url": "https://www.themoviedb.org/movie/1229898-moviepass-moviecrash",
+   "alt_urls": [
+    "https://www.theverge.com/24160812/moviepass-moviecrash-review"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I mentioned this last week, but figured I’d re-up now that it’s out . It’s really good! I covered MoviePass a lot, and I still learned a lot about how this company took off — and how it failed so spectacularly and so quickly. (Also, more on this coming on Tuesday’s Vergecast , so keep an eye out.)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-02-i-had-an-iphone-se-the-original-one-for-six-or-s",
+   "name": "I had an iPhone SE (the original one) for six or seven years",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: I had an iPhone SE (the original one) for six or seven years. Retiring it reminded me of an episode of Married… with Children — the one where Al Bundy had held onto his car so long that the manufacturer was going to hook him up with a new one on the house for hitting 1,000,000 miles.",
+   "section": "screen-share",
+   "recommender": "Sean"
+  },
+  {
+   "id": "2024-06-02-radio-garden",
+   "name": "Radio Garden",
+   "url": "https://radio.garden/visit/arlington-va/4Ogyv8K6",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I promise I don’t organize my books by color, but I couldn’t help it with my apps. In the four corners, we’ve got my main squeeze: audio (née radio). Radio Garden is the most unbelievable (and admittedly underused) on the page.",
+   "section": "screen-share",
+   "recommender": "Sean"
+  },
+  {
+   "id": "2024-06-02-breakmaster-cylinder",
+   "name": "Breakmaster Cylinder",
+   "url": "https://breakmastercylinder.bandcamp.com/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "I promise I don’t organize my books by color, but I couldn’t help it with my apps. In the four corners, we’ve got my main squeeze: audio (née radio). Radio Garden is the most unbelievable (and admittedly underused) on the page.",
+   "section": "screen-share",
+   "recommender": "Sean"
+  },
+  {
+   "id": "2024-06-02-seek",
+   "name": "Seek",
+   "url": "https://www.inaturalist.org/pages/seek_app",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The rest of this screen is pretty stock and self-explanatory, but I want to single out Seek and all apps like it for helping us identify bugs, birds, plants, and trees. This is the future we were promised.",
+   "section": "screen-share",
+   "recommender": "Sean"
+  },
+  {
+   "id": "2024-06-02-eater-s-38-essential-restaurants",
+   "name": "Eater ’s “38 Essential Restaurants”",
+   "url": "https://sf.eater.com/maps/best-restaurants-san-francisco-38",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I was lucky to do a decent amount of traveling this past year, and I was constantly looking for restaurant recommendations online. Eater ’s “38 Essential Restaurants” was consistently the best curator.",
+   "section": "screen-share",
+   "recommender": "Sean"
+  },
+  {
+   "id": "2024-06-02-cinematrix",
+   "name": "Cinematrix",
+   "url": "https://www.vulture.com/article/daily-movie-grid-trivia-game-cinematrix.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I was lucky to do a decent amount of traveling this past year, and I was constantly looking for restaurant recommendations online. Eater ’s “38 Essential Restaurants” was consistently the best curator.",
+   "section": "screen-share",
+   "recommender": "Sean"
+  },
+  {
+   "id": "2024-06-02-vulture",
+   "name": "Vulture",
+   "url": "https://www.vulture.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I was lucky to do a decent amount of traveling this past year, and I was constantly looking for restaurant recommendations online. Eater ’s “38 Essential Restaurants” was consistently the best curator.",
+   "section": "screen-share",
+   "recommender": "Sean"
+  },
+  {
+   "id": "2024-06-02-magic-mike-live",
+   "name": "Magic Mike Live",
+   "url": "https://magicmikelivelasvegas.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I was lucky to do a decent amount of traveling this past year, and I was constantly looking for restaurant recommendations online. Eater ’s “38 Essential Restaurants” was consistently the best curator.",
+   "section": "screen-share",
+   "recommender": "Sean"
+  },
+  {
+   "id": "2024-06-02-flipflop-solitaire",
+   "name": "Flipflop Solitaire",
+   "url": "http://www.flipflopsolitaire.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My go-to phone games are Flipflop Solitaire and Retro Bowl (both of which are available through Apple Arcade). Retro Bowl is a fun riff on Tecmo Bowl , and Flipflop Solitaire is a fun twist on solitaire, which I play a lot when I’m killing time and don’t want to get sucked into social media.",
+   "section": "crowdsourced",
+   "recommender": "Jared (reader)"
+  },
+  {
+   "id": "2024-06-02-retro-bowl",
+   "name": "Retro Bowl",
+   "url": "https://www.newstargames.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My go-to phone games are Flipflop Solitaire and Retro Bowl (both of which are available through Apple Arcade). Retro Bowl is a fun riff on Tecmo Bowl , and Flipflop Solitaire is a fun twist on solitaire, which I play a lot when I’m killing time and don’t want to get sucked into social media.",
+   "section": "crowdsourced",
+   "recommender": "Jared (reader)"
+  },
+  {
+   "id": "2024-06-02-tv-launcher",
+   "name": "TV Launcher",
+   "url": "https://adamfoot.dev/apps/tvlauncher/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "​​ TV Launcher is an awesome utility that gives a full TV guide, which can deep link into most streaming apps and open the exact channel automatically. It basically turns my Apple TV into a full-blown replacement for a cable box.",
+   "section": "crowdsourced",
+   "recommender": "Bilaal (reader)"
+  },
+  {
+   "id": "2024-06-02-yann-lecun-musk-trash-talking-on-twitter",
+   "name": "Yann LeCun & Musk trash talking on Twitter",
+   "url": "https://x.com/ylecun/status/1795034443809165464",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Kinda controversial but Yann LeCun & Musk trash talking on Twitter . Also, I ended up re-reading a bunch of Yann’s old papers because why not.",
+   "section": "crowdsourced",
+   "recommender": "Kruti (reader)"
+  },
+  {
+   "id": "2024-06-02-discover-that-they-exist",
+   "name": "discover that they exist",
+   "url": "https://us.soundcore.com/products/v30i-a3873-open-ear-earbuds",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After searching for years for the best open-ear earbuds that allow me to roam about outside without endangering myself by blocking out traffic or other noise or blocking out the voices of my family when I’m at home, I was pleased to discover that they exist and are sometimes on sale for even less…",
+   "section": "crowdsourced",
+   "recommender": "Christopher (reader)"
+  },
+  {
+   "id": "2024-06-02-the-jeff-gerstmann-show",
+   "name": "The Jeff Gerstmann Show",
+   "url": "https://www.youtube.com/@JeffGerstmannShow",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week’s The Jeff Gerstmann Show (hosted by this week’s surprise host: Jeff Gerstmann, joined by guest Arthur Gies) was full of insight on the upcoming summer gaming events.",
+   "section": "crowdsourced",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-02-paper-mario-the-thousand-year-door",
+   "name": "Paper Mario: The Thousand-Year Door",
+   "url": "https://www.nintendo.com/us/store/products/paper-mario-the-thousand-year-door-switch/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "The greatest game ever made: Paper Mario: The Thousand-Year Door .",
+   "section": "crowdsourced",
+   "recommender": "Max (reader)"
+  },
+  {
+   "id": "2024-06-02-the-fall-guy",
+   "name": "The Fall Guy",
+   "url": "https://www.themoviedb.org/movie/746036-the-fall-guy?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Watched The Fall Guy , which was honestly a treat for anyone who has worked with / around / or on movies in general just from the variety of stunts showcased. It hit streaming early due to fairly mediocre box office performance.",
+   "section": "crowdsourced",
+   "recommender": "Amanda (reader)"
+  },
+  {
+   "id": "2024-06-02-threes",
+   "name": "Threes",
+   "url": "http://play.threesgame.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am addicted to Threes . I don’t know if anyone plays it anymore, but I love it so much. I played those ‘free versions’ for so many years I can’t even remember now.",
+   "section": "crowdsourced",
+   "recommender": "Kruti (reader)"
+  },
+  {
+   "id": "2024-06-02-daisydisk",
+   "name": "DaisyDisk",
+   "url": "https://daisydiskapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "DaisyDisk . Like WizTree and SequoiaView but for Mac and a really nice-looking UI.",
+   "section": "crowdsourced",
+   "recommender": "Sinan (reader)"
+  },
+  {
+   "id": "2024-06-02-destiny-2",
+   "name": "Destiny 2",
+   "url": "https://www.bungie.net/7/en/Destiny",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Been playing three years’ worth of Destiny 2 campaigns after they were included in PS Plus. The game is hilariously lacking in onboarding for return players, but even just sticking to solo story missions, there’s a staggering amount of content from the (IMO) best FPS studio to ever do it.",
+   "section": "crowdsourced",
+   "recommender": "Jonathan (reader)"
+  },
+  {
+   "id": "2024-06-02-dune-part-two",
+   "name": "Dune: Part Two",
+   "url": "https://www.themoviedb.org/movie/693134-dune-part-two?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "It’s important to me that you know how hard I try not to talk about Dune: Part Two every week in this newsletter. I want to talk about it all the time! But did you know Dune: Part Two is streaming now?",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-02-this-awesome-video-about-its-sound-design",
+   "name": "this awesome video about its sound design",
+   "url": "https://www.youtube.com/watch?v=_L2MzJKWAuQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "It’s important to me that you know how hard I try not to talk about Dune: Part Two every week in this newsletter. I want to talk about it all the time! But did you know Dune: Part Two is streaming now?",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-02-this-other-awesome-video-about-its-sound-design",
+   "name": "this other awesome video about its sound design",
+   "url": "https://www.youtube.com/watch?v=76GrBO7sYec",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "It’s important to me that you know how hard I try not to talk about Dune: Part Two every week in this newsletter. I want to talk about it all the time! But did you know Dune: Part Two is streaming now?",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-02-this-great-interview-with-hans-zimmer",
+   "name": "this great interview with Hans Zimmer",
+   "url": "https://www.youtube.com/watch?v=JGLEVXJoetU",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "It’s important to me that you know how hard I try not to talk about Dune: Part Two every week in this newsletter. I want to talk about it all the time! But did you know Dune: Part Two is streaming now?",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-02-this-truly-epic-scene-breakdown",
+   "name": "this truly epic scene breakdown",
+   "url": "https://www.youtube.com/watch?v=7E6AcXUKSVA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "It’s important to me that you know how hard I try not to talk about Dune: Part Two every week in this newsletter. I want to talk about it all the time! But did you know Dune: Part Two is streaming now?",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-02-this-great-chat-with-cinematographer-greig-frase",
+   "name": "this great chat with cinematographer Greig Fraser",
+   "url": "https://www.youtube.com/watch?v=39p8wPkhmtM",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "It’s important to me that you know how hard I try not to talk about Dune: Part Two every week in this newsletter. I want to talk about it all the time! But did you know Dune: Part Two is streaming now?",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

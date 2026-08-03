@@ -1,0 +1,559 @@
+{
+ "schema": 1,
+ "date": "2025-10-12",
+ "post_type": "issue",
+ "title": "ChatGPT is becoming an everything app",
+ "url": "https://www.theverge.com/tech/798368/chatgpt-everything-app-chair-company-installer",
+ "author": "David Pierce",
+ "number": 101,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:39+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-10-12-intel-factories",
+   "name": "Intel factories",
+   "url": "https://www.nytimes.com/2025/10/09/technology/intel-chip-factory-fab52.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Intel factories and Nobel Prize winners and ATM thieves , watching this pop-punk “ Defying Gravity ” cover on repeat, reliving my teenage music taste now that The Format is back, catching up on the new Critical Role campaign, taking all my calls with the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-12-nobel-prize-winners",
+   "name": "Nobel Prize winners",
+   "url": "https://www.wired.com/story/nobel-prize-medicine-immunology-2025/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Intel factories and Nobel Prize winners and ATM thieves , watching this pop-punk “ Defying Gravity ” cover on repeat, reliving my teenage music taste now that The Format is back, catching up on the new Critical Role campaign, taking all my calls with the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-12-atm-thieves",
+   "name": "ATM thieves",
+   "url": "https://www.gq.com/story/self-taught-thieves-keep-blowing-up-atms-and-walking-away-with-millions?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Intel factories and Nobel Prize winners and ATM thieves , watching this pop-punk “ Defying Gravity ” cover on repeat, reliving my teenage music taste now that The Format is back, catching up on the new Critical Role campaign, taking all my calls with the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-12-defying-gravity",
+   "name": "Defying Gravity",
+   "url": "https://www.youtube.com/watch?v=ePPpt8ef_Ww",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Intel factories and Nobel Prize winners and ATM thieves , watching this pop-punk “ Defying Gravity ” cover on repeat, reliving my teenage music taste now that The Format is back, catching up on the new Critical Role campaign, taking all my calls with the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-12-the-format",
+   "name": "The Format",
+   "url": "https://www.theformat.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Intel factories and Nobel Prize winners and ATM thieves , watching this pop-punk “ Defying Gravity ” cover on repeat, reliving my teenage music taste now that The Format is back, catching up on the new Critical Role campaign, taking all my calls with the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-12-critical-role",
+   "name": "Critical Role",
+   "url": "https://www.youtube.com/watch?v=3Mbynm0pGX0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Intel factories and Nobel Prize winners and ATM thieves , watching this pop-punk “ Defying Gravity ” cover on repeat, reliving my teenage music taste now that The Format is back, catching up on the new Critical Role campaign, taking all my calls with the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-12-pop-phone",
+   "name": "Pop Phone",
+   "url": "https://www.nativeunion.com/products/pop-phone",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Intel factories and Nobel Prize winners and ATM thieves , watching this pop-punk “ Defying Gravity ” cover on repeat, reliving my teenage music taste now that The Format is back, catching up on the new Critical Role campaign, taking all my calls with the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-12-love-is-blind",
+   "name": "Love Is Blind",
+   "url": "https://www.themoviedb.org/tv/99353-love-is-blind?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Intel factories and Nobel Prize winners and ATM thieves , watching this pop-punk “ Defying Gravity ” cover on repeat, reliving my teenage music taste now that The Format is back, catching up on the new Critical Role campaign, taking all my calls with the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-12-deep-dive-on-rss-readers",
+   "name": "deep dive on RSS readers",
+   "url": "https://lighthouseapp.io/blog/feed-reader-deep-dive",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Intel factories and Nobel Prize winners and ATM thieves , watching this pop-punk “ Defying Gravity ” cover on repeat, reliving my teenage music taste now that The Format is back, catching up on the new Critical Role campaign, taking all my calls with the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-12-pixelsnap-charger",
+   "name": "Pixelsnap Charger",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://store.google.com/us/product/pixelsnap_charger_stand?hl=en-US&selections=eyJwcm9kdWN0RmFtaWx5IjoiWDNCcGVHVnNjMjVoY0Y5amFHRnlaMlZ5WDNkcGRHaGZjM1JoYm1SZmMyNXZkdz09In0%3D",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Intel factories and Nobel Prize winners and ATM thieves , watching this pop-punk “ Defying Gravity ” cover on repeat, reliving my teenage music taste now that The Format is back, catching up on the new Critical Role campaign, taking all my calls with the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-12-apps-in-chatgpt",
+   "name": "Apps in ChatGPT",
+   "url": "https://openai.com/index/introducing-apps-in-chatgpt/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "OpenAI is starting to talk about ChatGPT as an operating system, which is both an obviously smart and ruthless tactic — it’s good business owning the OS! — and a way to make the product itself make more sense.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-12-hidden-levels",
+   "name": "Hidden Levels",
+   "url": "https://www.wbur.org/podcasts/endlessthread/hiddenlevels",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Two of my favorite podcasts — 99 Percent Invisible and Endless Thread — are teaming up to make a six-part podcast about the fascinating real-world effects of video game mechanics and gadgets. This is all of my interests colliding, I will take a thousand more episodes please and thank you.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-12-a-cartoonists-review-of-ai-art",
+   "name": "A cartoonist’s review of AI art",
+   "url": "https://theoatmeal.com/comics/ai_art",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“ A cartoonist’s review of AI art .” A really lovely, and poignant, take from The Oatmeal on the current state of generative AI. (Now that is a sentence I never thought I’d write.) It’s about what art feels, both to make and to consume, and whether AI stuff will ever feel the same.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-12-the-chair-company",
+   "name": "The Chair Company",
+   "url": "https://www.themoviedb.org/tv/271267-chair-company?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Tim Robinson has, at least for me, entered the “I will watch anything they make no matter what” realm of comedians. Plus, what’s a more current premise than a relatively normal thing happening to a guy that sends him down a world-bending conspiracy theory rabbit hole?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-12-clean-your-tv-screen-the-right-way",
+   "name": "Clean your TV Screen The Right Way",
+   "url": "https://www.youtube.com/watch?v=8JKniU4Ue9g",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Clean your TV Screen The Right Way .” In five minutes, (friend of Installer) Caleb Denison convinced me to stop using Windex on my TV, got me to buy some huge microfiber towels, and has my TV the cleanest it has ever been. Even the toddler fingerprints are finally gone!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-12-subway-builder",
+   "name": "Subway Builder",
+   "url": "https://www.subwaybuilder.com/",
+   "alt_urls": [
+    "https://dinopoloclub.com/",
+    "http://train-valley.com/tv2.html"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "If you’re ever played a game like Mini Metro or Train Valley , this game is going to rock your world. It’s a super realistic, outrageously detailed game with real-world data and simulations that puts you entirely in charge of building and maintaining the subway system.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-12-battlefield-6",
+   "name": "Battlefield 6",
+   "url": "https://www.ea.com/en/games/battlefield/battlefield-6",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I haven’t played much Battlefield the last few years — I like a super tight shooter game, not giant sprawling open multiplayer online worlds. But the reviews of this one all seem to say it found a good middle ground between those things, and that the game is finally more fun than slog again.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-12-the-belkin-stage-powergrip",
+   "name": "The Belkin Stage PowerGrip",
+   "url": "https://www.belkin.com/p/powergrip/CTA006ttGY.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Is this $80 external battery / camera grip for the iPhone a good idea? I don’t know. Here’s what I do know: I hate using Camera Control, one-handed landscape iPhone pictures are awkward, okay fine I’ll buy one this is a good idea.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-12-iphone-17-pro-max",
+   "name": "iPhone 17 Pro Max",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 17 Pro Max.",
+   "section": "screen-share",
+   "recommender": "Stephen"
+  },
+  {
+   "id": "2025-10-12-september-gradients",
+   "name": "September Gradients",
+   "url": "https://basicappleguy.com/basicappleblog/gradients-of-september-2025-edition",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: My homescreen changes by Focus mode on the weekends / evenings. My main wallpaper is from Basic Apple Guy, September Gradients . My weekend lockscreen is the NASA image of the Pillars of Creation, ’cause it’s awesome. (Yes, I have a reminder to do Wordle every day.)",
+   "section": "screen-share",
+   "recommender": "Stephen"
+  },
+  {
+   "id": "2025-10-12-perplexity",
+   "name": "Perplexity",
+   "url": "https://www.perplexity.ai/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve moved a large percentage of my web searching to Perplexity , so it earned a spot on the homescreen. Bear is the best notes app. I use the kanban view in Reminders for YouTube planning, but Things for project / task management, so yes I have dual task apps.",
+   "section": "screen-share",
+   "recommender": "Stephen"
+  },
+  {
+   "id": "2025-10-12-bear",
+   "name": "Bear",
+   "url": "https://bear.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve moved a large percentage of my web searching to Perplexity , so it earned a spot on the homescreen. Bear is the best notes app. I use the kanban view in Reminders for YouTube planning, but Things for project / task management, so yes I have dual task apps.",
+   "section": "screen-share",
+   "recommender": "Stephen"
+  },
+  {
+   "id": "2025-10-12-the-kanban-view-in-reminders",
+   "name": "the kanban view in Reminders",
+   "url": "https://www.youtube.com/watch?v=sAOvm61bSPM",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’ve moved a large percentage of my web searching to Perplexity , so it earned a spot on the homescreen. Bear is the best notes app. I use the kanban view in Reminders for YouTube planning, but Things for project / task management, so yes I have dual task apps.",
+   "section": "screen-share",
+   "recommender": "Stephen"
+  },
+  {
+   "id": "2025-10-12-things",
+   "name": "Things",
+   "url": "https://culturedcode.com/things/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve moved a large percentage of my web searching to Perplexity , so it earned a spot on the homescreen. Bear is the best notes app. I use the kanban view in Reminders for YouTube planning, but Things for project / task management, so yes I have dual task apps.",
+   "section": "screen-share",
+   "recommender": "Stephen"
+  },
+  {
+   "id": "2025-10-12-foodnoms",
+   "name": "Foodnoms",
+   "url": "https://foodnoms.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Most recently I started tracking calories and macros with Foodnoms , which had a great update for iOS 26. It’s made the process so much easier than other apps I’ve tried and have lost 30 lbs in the last few months because of it!",
+   "section": "screen-share",
+   "recommender": "Stephen"
+  },
+  {
+   "id": "2025-10-12-hank-and-john-green",
+   "name": "Hank and John Green",
+   "url": "https://www.youtube.com/c/vlogbrothers/videos",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Having only recently discovered them, Hank and John Green have started to consume much of my podcast and YouTube time. Hank’s takes on Sora and the internet as a whole are worth hearing. Introduced my kids to Happy Gilmore and the sequel , they’re both great.",
+   "section": "screen-share",
+   "recommender": "Stephen"
+  },
+  {
+   "id": "2025-10-12-hanks-takes-on-sora",
+   "name": "Hank’s takes on Sora",
+   "url": "https://www.youtube.com/watch?v=Vz0oQ0v0W10",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Having only recently discovered them, Hank and John Green have started to consume much of my podcast and YouTube time. Hank’s takes on Sora and the internet as a whole are worth hearing. Introduced my kids to Happy Gilmore and the sequel , they’re both great.",
+   "section": "screen-share",
+   "recommender": "Stephen"
+  },
+  {
+   "id": "2025-10-12-happy-gilmore",
+   "name": "Happy Gilmore",
+   "url": "https://www.themoviedb.org/movie/9614-happy-gilmore?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Having only recently discovered them, Hank and John Green have started to consume much of my podcast and YouTube time. Hank’s takes on Sora and the internet as a whole are worth hearing. Introduced my kids to Happy Gilmore and the sequel , they’re both great.",
+   "section": "screen-share",
+   "recommender": "Stephen"
+  },
+  {
+   "id": "2025-10-12-the-sequel",
+   "name": "the sequel",
+   "url": "https://www.themoviedb.org/movie/1263256-happy-gilmore-2?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Having only recently discovered them, Hank and John Green have started to consume much of my podcast and YouTube time. Hank’s takes on Sora and the internet as a whole are worth hearing. Introduced my kids to Happy Gilmore and the sequel , they’re both great.",
+   "section": "screen-share",
+   "recommender": "Stephen"
+  },
+  {
+   "id": "2025-10-12-four-thousand-weeks",
+   "name": "Four Thousand Weeks",
+   "url": "https://www.oliverburkeman.com/fourthousandweeks",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Having only recently discovered them, Hank and John Green have started to consume much of my podcast and YouTube time. Hank’s takes on Sora and the internet as a whole are worth hearing. Introduced my kids to Happy Gilmore and the sequel , they’re both great.",
+   "section": "screen-share",
+   "recommender": "Stephen"
+  },
+  {
+   "id": "2025-10-12-skate",
+   "name": "Skate",
+   "url": "https://www.ea.com/games/skate",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Having only recently discovered them, Hank and John Green have started to consume much of my podcast and YouTube time. Hank’s takes on Sora and the internet as a whole are worth hearing. Introduced my kids to Happy Gilmore and the sequel , they’re both great.",
+   "section": "screen-share",
+   "recommender": "Stephen"
+  },
+  {
+   "id": "2025-10-12-the-beths",
+   "name": "The Beths",
+   "url": "https://www.thebeths.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A couple years ago I joined Instagram in order to follow a band, The Beths . Very quickly I started seeing posts from a strange but compelling account, The Dream Eaters , that was doing short music videos mixing goth, ‘80’s electronic, metal, and dream pop on hilarious off-the-wall topics.",
+   "section": "crowdsourced",
+   "recommender": "Jon (reader)"
+  },
+  {
+   "id": "2025-10-12-the-dream-eaters",
+   "name": "The Dream Eaters",
+   "url": "https://www.instagram.com/wearethedreameaters/?hl=en",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A couple years ago I joined Instagram in order to follow a band, The Beths . Very quickly I started seeing posts from a strange but compelling account, The Dream Eaters , that was doing short music videos mixing goth, ‘80’s electronic, metal, and dream pop on hilarious off-the-wall topics.",
+   "section": "crowdsourced",
+   "recommender": "Jon (reader)"
+  },
+  {
+   "id": "2025-10-12-first-last-everything",
+   "name": "First, Last, Everything",
+   "url": "https://www.macstories.net/first-last-everything/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been catching up on First, Last, Everything . It’s a great interview podcast so far with fascinating guests (and a tech angle of course).",
+   "section": "crowdsourced",
+   "recommender": "Roman (reader)"
+  },
+  {
+   "id": "2025-10-12-modding-a-ps-vita",
+   "name": "modding a PS Vita",
+   "url": "https://www.youtube.com/watch?v=TpB7rC5LuOw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week I have fallen headfirst into what I might describe as Nouveau Retro gaming by modding a PS Vita . Incredible stuff. Loads of hacks, tweaks, plugins, homebrew. A real nerdy treasure trove.",
+   "section": "crowdsourced",
+   "recommender": "Simon (reader)"
+  },
+  {
+   "id": "2025-10-12-2010-5-1-mac-pro",
+   "name": "2010 5,1 Mac Pro",
+   "url": "https://support.apple.com/en-us/112578",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just bought a 2010 5,1 Mac Pro . Upgrading / fixing it will be a good weekend project.",
+   "section": "crowdsourced",
+   "recommender": "SaltedPork (reader)"
+  },
+  {
+   "id": "2025-10-12-murena",
+   "name": "Murena",
+   "url": "https://murena.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently upgraded my Murena account for more storage and better support. Eventually I’ll probably upgrade to a phone purchased directly from Murena. In the meantime I switched providers to Proton , yet I still feel drawn to an ecosystem I prefer: Nextcloud .",
+   "section": "crowdsourced",
+   "recommender": "Stephen (reader)"
+  },
+  {
+   "id": "2025-10-12-proton",
+   "name": "Proton",
+   "url": "https://proton.me/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently upgraded my Murena account for more storage and better support. Eventually I’ll probably upgrade to a phone purchased directly from Murena. In the meantime I switched providers to Proton , yet I still feel drawn to an ecosystem I prefer: Nextcloud .",
+   "section": "crowdsourced",
+   "recommender": "Stephen (reader)"
+  },
+  {
+   "id": "2025-10-12-nextcloud",
+   "name": "Nextcloud",
+   "url": "https://nextcloud.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently upgraded my Murena account for more storage and better support. Eventually I’ll probably upgrade to a phone purchased directly from Murena. In the meantime I switched providers to Proton , yet I still feel drawn to an ecosystem I prefer: Nextcloud .",
+   "section": "crowdsourced",
+   "recommender": "Stephen (reader)"
+  },
+  {
+   "id": "2025-10-12-extremerate-kit",
+   "name": "ExtremeRate kit!",
+   "url": "https://www.extremerate.com/products/extremerate-diy-replacement-full-set-shells-with-buttons-for-nintendo-switch-2-essence-version-clear-atomic-purple",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I made my Switch 2 translucent with the new ExtremeRate kit!",
+   "section": "crowdsourced",
+   "recommender": "Sophia (reader)"
+  },
+  {
+   "id": "2025-10-12-notebooklm",
+   "name": "NotebookLM",
+   "url": "https://notebooklm.google/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I keep a list of saved product manuals and documents. I also uploaded them all into a notebook in NotebookLM , so now I just need to ask ‘How do I de-scale the Sage coffee machine’ to get the info I need!",
+   "section": "crowdsourced",
+   "recommender": "Sara (reader)"
+  },
+  {
+   "id": "2025-10-12-kana",
+   "name": "Kana",
+   "url": "https://apps.apple.com/ar/app/kana-hiragana-and-katakana/id1454200955",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Been learning Japanese and Kana for iOS helped me a lot to learn the characters. Fun and fast, been doing quick and large quizzes all the time on my phone. Nice to see stats going up and no ads, besides other apps they have to keep learning.",
+   "section": "crowdsourced",
+   "recommender": "Uli (reader)"
+  },
+  {
+   "id": "2025-10-12-skate-story",
+   "name": "Skate Story",
+   "url": "https://skatestory.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Demo for Skate Story , possibly the sickest-looking game of the year, just dropped.",
+   "section": "crowdsourced",
+   "recommender": "Sophie (reader)"
+  },
+  {
+   "id": "2025-10-12-powerbeats-pro-2",
+   "name": "Powerbeats Pro 2",
+   "url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just got a jump rope, trying to re-build a fitness habit. And I immediately noticed that this is a reason to buy new workout headphones, as my AirPods Pro 2 do not stay in my ears while rope skipping. I ended up getting the Powerbeats Pro 2 . Really love them so far!",
+   "section": "crowdsourced",
+   "recommender": "Matthias (reader)"
+  },
+  {
+   "id": "2025-10-12-somm",
+   "name": "Somm",
+   "url": "https://www.themoviedb.org/movie/184149-somm?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "For years, anytime someone would ask me what movie they should watch, I would always say Somm . It’s a documentary following four people training to become Master Sommeliers — which requires passing one of the world’s most-failed tests — but it’s also a story about passion and hard work. And wine.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-12-knife-edge",
+   "name": "Knife Edge",
+   "url": "https://www.themoviedb.org/tv/291361-knife-edge-chasing-michelin-stars",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Nothing I’ve seen since has quite scratched the same itch, but a new show this week might come close. It’s called Knife Edge , it’s on Apple TV Plus, and it’s all about chefs trying to get, or maintain, their Michelin star.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

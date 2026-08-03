@@ -1,0 +1,481 @@
+{
+ "schema": 1,
+ "date": "2024-10-27",
+ "post_type": "issue",
+ "title": "The VR game I’ve been waiting for",
+ "url": "https://www.theverge.com/2024/10/27/24279432/batman-arkham-shadow-vr-quest-boox-palma-2-installer",
+ "author": "David Pierce",
+ "number": 58,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:36+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-10-27-simone-giertz",
+   "name": "Simone Giertz",
+   "url": "https://spectrum.ieee.org/simone-giertz",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Simone Giertz and billionaire assistants and Checo Pérez and Call Her Daddy , learning about “ Earthrise ,” listening to Quinta Brunson and Conan O’Brien talk comedy, trying to decide whether to get super into Bluesky or just quit social altogether, and throwing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-billionaire-assistants",
+   "name": "billionaire assistants",
+   "url": "https://www.thecut.com/article/what-its-like-personal-assistant-billionaire.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Simone Giertz and billionaire assistants and Checo Pérez and Call Her Daddy , learning about “ Earthrise ,” listening to Quinta Brunson and Conan O’Brien talk comedy, trying to decide whether to get super into Bluesky or just quit social altogether, and throwing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-checo-perez",
+   "name": "Checo Pérez",
+   "url": "https://www.gq.com/story/sergio-perez-gq-hype",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Simone Giertz and billionaire assistants and Checo Pérez and Call Her Daddy , learning about “ Earthrise ,” listening to Quinta Brunson and Conan O’Brien talk comedy, trying to decide whether to get super into Bluesky or just quit social altogether, and throwing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-call-her-daddy",
+   "name": "Call Her Daddy",
+   "url": "https://www.hollywoodreporter.com/business/digital/alex-cooper-interview-call-her-daddy-1236023570/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Simone Giertz and billionaire assistants and Checo Pérez and Call Her Daddy , learning about “ Earthrise ,” listening to Quinta Brunson and Conan O’Brien talk comedy, trying to decide whether to get super into Bluesky or just quit social altogether, and throwing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-earthrise",
+   "name": "Earthrise",
+   "url": "https://www.youtube.com/watch?v=B7KR1nCA4Js&__readwiseLocation",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Simone Giertz and billionaire assistants and Checo Pérez and Call Her Daddy , learning about “ Earthrise ,” listening to Quinta Brunson and Conan O’Brien talk comedy, trying to decide whether to get super into Bluesky or just quit social altogether, and throwing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-quinta-brunson-and-conan-obrien",
+   "name": "Quinta Brunson and Conan O’Brien",
+   "url": "https://open.spotify.com/episode/3SZtLXxSsJtfkDUT0fkzoK?si=a841fbddfec74842",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
+   "blurb": "This week, I’ve been reading about Simone Giertz and billionaire assistants and Checo Pérez and Call Her Daddy , learning about “ Earthrise ,” listening to Quinta Brunson and Conan O’Brien talk comedy, trying to decide whether to get super into Bluesky or just quit social altogether, and throwing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Simone Giertz and billionaire assistants and Checo Pérez and Call Her Daddy , learning about “ Earthrise ,” listening to Quinta Brunson and Conan O’Brien talk comedy, trying to decide whether to get super into Bluesky or just quit social altogether, and throwing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-batman-arkham-shadow",
+   "name": "Batman: Arkham Shadow",
+   "url": "https://www.meta.com/experiences/batman-arkham-shadow/3551691271620960/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am hopelessly biased in favor of this game, the latest in my all-time favorite series of video games. But a surprising amount of what worked for the old Arkham games works in VR, too — the story, as always, is kind of whatever, but the action is fun and intense and everything I wanted it to be.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-the-boox-palma-2",
+   "name": "The Boox Palma 2",
+   "url": "https://shop.boox.com/products/palma2",
+   "alt_urls": [
+    "https://www.theverge.com/24184777/boox-palma-e-ink-smartphone-reader"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Another week, another reading gadget I’m going to feel ridiculous buying but definitely buy anyway. One of my favorite devices of the year got a faster processor, new Android… and not much else. But I still love this tiny Android e-reader.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-hasan-minhaj-off-with-his-head",
+   "name": "Hasan Minhaj: Off With His Head",
+   "url": "https://www.themoviedb.org/movie/1352149-hasan-minhaj-off-with-his-head",
+   "alt_urls": [
+    "https://www.newyorker.com/news/annals-of-communications/hasan-minhajs-emotional-truths"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I’ve been waiting for this ever since that New Yorker story , and it delivers. His whole digression into crypto bros and podcast listeners has been all over my For You pages this week, and for good reason.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-inoreader",
+   "name": "Inoreader",
+   "url": "https://www.inoreader.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Inoreader is a really good RSS reader, but I always thought it was… ugly. The new redesign is really nice! It’s still very dense and text-heavy, but in a news reader, I actually like that. I’m also enjoying all the new filters, which are helping me find to-do list app news easier than ever.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-shrek-asmr",
+   "name": "Shrek ASMR",
+   "url": "https://www.youtube.com/watch?v=7BNf_xAa2fc",
+   "alt_urls": [
+    "https://www.polygon.com/youtube/469454/gibi-asmr-shrek-remake-youtube’"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Shrek ASMR .” One of the most off-the-wall, committed-to-the-bit things I’ve ever seen on YouTube: a full remake of Shrek , ASMR-style. I loaded up the video after reading a really fun story about it from our friends at Polygon and ended up watching the whole thing.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-vivaldi",
+   "name": "Vivaldi",
+   "url": "https://vivaldi.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m still slightly torn on the new tab design, which is lovely but kind of busy. But I love the new Dashboard feature, which just lets you embed a bunch of apps and websites and see them all at once. It’s like what iGoogle used to be, only much better.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-sonic-x-shadow-generations",
+   "name": "Sonic x Shadow Generations",
+   "url": "https://sonicxshadowgenerations.com/?lang=en",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Sonic. And Evil Sonic. What else do you need to know? All the reviews I’ve read say this game is an excellent remaster of a classic, plus lots of new stuff including a huge new Shadow-focused campaign. I immediately cleared space on my Switch for this one.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-notion-forms",
+   "name": "Notion Forms",
+   "url": "https://www.notion.so/product/forms",
+   "alt_urls": [
+    "https://t.co/NOKjyCwsXX"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Notion’s quest to be all things to all people continues! The new Notion Mail app looks pretty great, but day to day, I think Forms is a bigger deal.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-mailbird",
+   "name": "Mailbird",
+   "url": "https://www.getmailbird.com/",
+   "alt_urls": [
+    "https://mimestream.com/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "One of the best — maybe the best — Windows email apps is now available on the Mac. The free tier is pretty limited, but at least it’ll give you a sense if the app is right for you. I’m still a Mimestream devotee, but especially if you’re balancing Outlook and Gmail, this is worth a look.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-computer-use-in-claude",
+   "name": "Computer use in Claude",
+   "url": "https://www.anthropic.com/news/3-5-models-and-computer-use",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=ODaHJzOyVCQ"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Anthropic’s AI bot got an upgrade this week, including a new feature that can just use your computer on your behalf. The video explaining how it works is great and a useful explainer of how simple some of this complex stuff really can be. Eventually. Someday.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-ipad-mini-2024",
+   "name": "iPad Mini, 2024",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The tablet: iPad Mini, 2024. I love the iPad Mini. I wish this one were a lot better and that Apple would care about the Mini a lot more, but here we are.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-mela",
+   "name": "Mela",
+   "url": "https://mela.recipes/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I like and use all these apps, but there are a few to call out specifically: I’ve tried a lot of recipe apps, and Mela is still the simplest and the best at pulling recipes out of websites; Balatro is the most addicting game I’ve downloaded in years; I finally became an Apple News Plus subscriber…",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-balatro",
+   "name": "Balatro",
+   "url": "https://www.playbalatro.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I like and use all these apps, but there are a few to call out specifically: I’ve tried a lot of recipe apps, and Mela is still the simplest and the best at pulling recipes out of websites; Balatro is the most addicting game I’ve downloaded in years; I finally became an Apple News Plus subscriber…",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-apple-news-plus",
+   "name": "Apple News Plus",
+   "url": "https://www.apple.com/apple-news/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I like and use all these apps, but there are a few to call out specifically: I’ve tried a lot of recipe apps, and Mela is still the simplest and the best at pulling recipes out of websites; Balatro is the most addicting game I’ve downloaded in years; I finally became an Apple News Plus subscriber…",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-real-racing-3",
+   "name": "Real Racing 3",
+   "url": "https://www.ea.com/games/real-racing/real-racing-3",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I like and use all these apps, but there are a few to call out specifically: I’ve tried a lot of recipe apps, and Mela is still the simplest and the best at pulling recipes out of websites; Balatro is the most addicting game I’ve downloaded in years; I finally became an Apple News Plus subscriber…",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-workflowy",
+   "name": "Workflowy",
+   "url": "https://workflowy.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My dock is reserved for the apps I use at least close to every day, which means it’s reading, notes, recipes, podcasts, and music. (I just realized I should move Workflowy , so it’s not between the reading apps — I’ll get to that.)",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-peacock",
+   "name": "Peacock",
+   "url": "https://imp.i305175.net/c/482924/896948/11640?u=https%3A%2F%2Fwww.peacocktv.com%2F",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My dock is reserved for the apps I use at least close to every day, which means it’s reading, notes, recipes, podcasts, and music. (I just realized I should move Workflowy , so it’s not between the reading apps — I’ll get to that.)",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-the-storygraph",
+   "name": "The StoryGraph",
+   "url": "https://www.thestorygraph.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I saw Adi ask for a Goodreads alternative and wanted to suggest The StoryGraph ! It’s really great at showcasing stats about what you read, rather than the updates-sharing focus of GR, and it has really nice monthly summaries!",
+   "section": "crowdsourced",
+   "recommender": "Aurora (reader)"
+  },
+  {
+   "id": "2024-10-27-hardcover",
+   "name": "Hardcover",
+   "url": "https://hardcover.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Reading about Adi’s suffering with LibraryThing, I remembered that just a few days ago, I started using Hardcover , and so far, I’m finding it really cool.",
+   "section": "crowdsourced",
+   "recommender": "AH (reader)"
+  },
+  {
+   "id": "2024-10-27-taskly",
+   "name": "Taskly",
+   "url": "https://apps.apple.com/us/app/taskly-focus-on-what-matters/id6479643691",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Taskly is a very straightforward list app for iOS with absolutely nothing else. I have been looking for something to manage my grocery list or just things I need to buy. Twodos is another such app, except it has a very clever way to separate the list into two categories: Sooner and Later.",
+   "section": "crowdsourced",
+   "recommender": "Karan (reader)"
+  },
+  {
+   "id": "2024-10-27-twodos",
+   "name": "Twodos",
+   "url": "https://apps.apple.com/ca/app/twodos-simple-todos/id6463499163",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Taskly is a very straightforward list app for iOS with absolutely nothing else. I have been looking for something to manage my grocery list or just things I need to buy. Twodos is another such app, except it has a very clever way to separate the list into two categories: Sooner and Later.",
+   "section": "crowdsourced",
+   "recommender": "Karan (reader)"
+  },
+  {
+   "id": "2024-10-27-wagotabi",
+   "name": "Wagotabi",
+   "url": "https://www.wagotabi.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just put about six hours into Wagotabi , and I’m wildly impressed. It is one of the most clever and effective Japanese learning games I’ve ever played. It’s structured like Pokémon , but instead of catching monsters, you’re learning Japanese words and grammar.",
+   "section": "crowdsourced",
+   "recommender": "Tom (reader)"
+  },
+  {
+   "id": "2024-10-27-steam-deck-oled",
+   "name": "Steam Deck OLED",
+   "url": "https://www.steamdeck.com/en/oled",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I grabbed a Steam Deck OLED a few weeks back and have been diving into games I just kind of missed. Uncharted 4 and Uncharted: The Lost Legacy were great. Now digging into the modern Tomb Raider trilogy. I guess I like adventure games when FIFA isn’t available.",
+   "section": "crowdsourced",
+   "recommender": "Andi (reader)"
+  },
+  {
+   "id": "2024-10-27-keyway-designs",
+   "name": "Keyway Designs",
+   "url": "https://www.keywaydesigns.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I upgrade phones every two to three years, and one way I keep it fresh is to get a new case every year. This year’s case upgrade was from Keyway Designs . They make gorgeous wood and metal phone cases (and other goodies). Check them out!",
+   "section": "crowdsourced",
+   "recommender": "Bill (reader)"
+  },
+  {
+   "id": "2024-10-27-sublime",
+   "name": "Sublime",
+   "url": "https://sublime.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Trying a new second brain app, Sublime , that adds a few interesting features. Will try for a few weeks and see how it grows on me.",
+   "section": "crowdsourced",
+   "recommender": "Miguel (reader)"
+  },
+  {
+   "id": "2024-10-27-gulikit-zen-pro",
+   "name": "GuliKit Zen Pro",
+   "url": "https://www.gulikit.com/productinfo/925509.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have a seriously good Switch controller for you: the GuliKit Zen Pro is awesome, supports everything the Pro Controller does, and has Hall effect sticks to boot. It’s also a lot cheaper than the Pro Controller, so I’d recommend it for anyone buying a new Switch, too!",
+   "section": "crowdsourced",
+   "recommender": "Ben (reader)"
+  },
+  {
+   "id": "2024-10-27-hall-effect",
+   "name": "Hall effect",
+   "url": "https://www.windowscentral.com/gaming/what-is-a-hall-effect-controller-anyway-and-do-i-really-need-one",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have a seriously good Switch controller for you: the GuliKit Zen Pro is awesome, supports everything the Pro Controller does, and has Hall effect sticks to boot. It’s also a lot cheaper than the Pro Controller, so I’d recommend it for anyone buying a new Switch, too!",
+   "section": "crowdsourced",
+   "recommender": "Ben (reader)"
+  },
+  {
+   "id": "2024-10-27-capture",
+   "name": "Capture",
+   "url": "https://www.sir.studio/capture",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been using Capture for iOS, and it’s low-key amazing. Like should be a built-in feature-level amazing. Anything I come across online, I can set aside, hold it off to the side, and then send it where it needs to go later.",
+   "section": "crowdsourced",
+   "recommender": "Max (reader)"
+  },
+  {
+   "id": "2024-10-27-moviecart",
+   "name": "MovieCart",
+   "url": "https://www.tindie.com/products/lodefmode/moviecart-atari-2600/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The premise of MovieCart is simple: it’s for watching full-length movies on an actual Atari 2600. The reality is quite complex. It’s the work of a mad genius, and you may feel like one, too, once you actually get a film running!",
+   "section": "crowdsourced",
+   "recommender": "Tom (reader)"
+  },
+  {
+   "id": "2024-10-27-chicken-shop-date-episode",
+   "name": "Chicken Shop Date episode",
+   "url": "https://www.youtube.com/watch?v=eFS5vxYlfY8",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Approximately every single person on the internet has been talking about the Chicken Shop Date episode with Andrew Garfield, which really is as charming as you can imagine. (Garfield has a history of great YouTube moments, like his convo about grief with Stephen Colbert.)",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-his-convo-about-grief",
+   "name": "his convo about grief",
+   "url": "https://www.youtube.com/watch?v=_u_TswLQ4ws",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Approximately every single person on the internet has been talking about the Chicken Shop Date episode with Andrew Garfield, which really is as charming as you can imagine. (Garfield has a history of great YouTube moments, like his convo about grief with Stephen Colbert.)",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-27-a-great-interview",
+   "name": "a great interview",
+   "url": "https://www.youtube.com/watch?v=80yPdZRKb34",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Last year, she did a great interview with Colin and Samir, which doubles as a (very funny and silly) masterclass in how to turn a YouTube channel into a show at the very center of pop culture.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

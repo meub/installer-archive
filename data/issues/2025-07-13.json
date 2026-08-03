@@ -1,0 +1,506 @@
+{
+ "schema": 1,
+ "date": "2025-07-13",
+ "post_type": "issue",
+ "title": "Foldables are in and suddenly really thin",
+ "url": "https://www.theverge.com/installer-newsletter/705979/samsung-galaxy-z-fold-flip-7-nothing-phone-headphone-installer",
+ "author": "Jay Peters",
+ "number": 89,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:39+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-07-13-summer-games-done-quick-speedrunning-marathon",
+   "name": "Summer Games Done Quick speedrunning marathon",
+   "url": "https://gamesdonequick.com/schedule/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, as I am at around this time every year, I’ve been obsessed with the annual Summer Games Done Quick speedrunning marathon . If you’ve never watched, the event is an annual, weeklong, always-on livestream of people playing video games at an extremely high level to raise money for charity.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-13-on-twitch",
+   "name": "on Twitch",
+   "url": "https://www.twitch.tv/gamesdonequick",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The show, which you can watch for free on Twitch , typically ends very early in the morning on Sunday, and you can watch replays on the Games Done Quick YouTube channel . My two favorite runs so far have been a Beat Saber showcase and a nail-biter Cuphead race .",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-13-the-games-done-quick-youtube-channel",
+   "name": "the Games Done Quick YouTube channel",
+   "url": "https://www.youtube.com/playlist?list=PLz8YL4HVC87UOYTcO8Bo_6YlBwLXOJ7Zc",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The show, which you can watch for free on Twitch , typically ends very early in the morning on Sunday, and you can watch replays on the Games Done Quick YouTube channel . My two favorite runs so far have been a Beat Saber showcase and a nail-biter Cuphead race .",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-13-beat-saber-showcase",
+   "name": "Beat Saber showcase",
+   "url": "https://youtu.be/OCyhfNfZmjU?feature=shared",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The show, which you can watch for free on Twitch , typically ends very early in the morning on Sunday, and you can watch replays on the Games Done Quick YouTube channel . My two favorite runs so far have been a Beat Saber showcase and a nail-biter Cuphead race .",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-13-nail-biter-cuphead-race",
+   "name": "nail-biter Cuphead race",
+   "url": "https://www.youtube.com/watch?v=fhgWhRRbRZ4",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The show, which you can watch for free on Twitch , typically ends very early in the morning on Sunday, and you can watch replays on the Games Done Quick YouTube channel . My two favorite runs so far have been a Beat Saber showcase and a nail-biter Cuphead race .",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-13-samsung-galaxy-z-fold-7",
+   "name": "Samsung Galaxy Z Fold 7",
+   "url": "https://howl.link/sovqu7j7kl3dp",
+   "alt_urls": [
+    "https://www.theverge.com/phones/701076/samsung-galaxy-z-fold-flip-7-fe-hands-on"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Foldables have never really interested me, but even I am extremely impressed by just how thin the Z Fold 7 looks . But then I look at the price: $1,999, a $100 increase from the Z Fold 6! Too rich for my blood. The Z Flip 7 , with its edge-to-edge cover display, also seems like a good upgrade.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-13-samsung-galaxy-watch-8",
+   "name": "Samsung Galaxy Watch 8",
+   "url": "https://howl.link/8riq9bz9jflmf",
+   "alt_urls": [
+    "https://www.theverge.com/hands-on/701175/samsung-galaxy-watch-8-series-hands-on-smartwatch-fitness-health-wearables"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "As Victoria Song said , “the squircle has taken over”: Samsung’s new Galaxy Watch 8 and Watch 8 Classic now have circle faces set in rounded square bodies.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-13-nothing-phone-3",
+   "name": "Nothing Phone 3",
+   "url": "https://us.nothing.tech/products/phone-3?Colour=White&Capacity=16+512+GB&srsltid=AfmBOopUXti5myG21teYB9xH2WR3BAWVlnrECKFvTU8-jKhBK83c1zWj",
+   "alt_urls": [
+    "https://www.theverge.com/news/695788/nothing-phone-3-launch-news-specs-price"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This was technically announced last week, but Installer took the week off for the July 4th holiday in the US, so I’m including it now. Nothing is touting this phone as its “ first true flagship ” — though perhaps the most noticeable thing about it is its unusual camera layout.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-13-nothing-headphone-1",
+   "name": "Nothing Headphone 1",
+   "url": "https://us.nothing.tech/products/headphone-1?Colour=White&srsltid=AfmBOoryrL4IH1pQwX3WOeE6T9FKSIPWIWHi7ewqr8qQsh7I_B-sjSd5",
+   "alt_urls": [
+    "https://www.theverge.com/headphone-review/695609/nothing-headphone-1-review"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Nothing announced its first pair of over-ear headphones last week, too, and they seem like a decent pair of cans . The translucent design isn’t my cup of tea, but props to Nothing for trying something funky and new.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-13-tony-hawks-pro-skater-3-4",
+   "name": "Tony Hawk’s Pro Skater 3 + 4",
+   "url": "https://www.tonyhawkthegame.com/",
+   "alt_urls": [
+    "https://www.theverge.com/games/704560/tony-hawks-pro-skater-3-4-nintendo-switch-2-comparison",
+    "https://www.tonyhawkthegame.com/blog/2025/07/tony-hawk-pro-skater-three-four-customization-accessibility-overview"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This game puts remakes of two classics into one package, and it’s awesome. I’ve been playing on my Switch 2 — where it runs pretty well ! — and have had a blast reliving my youth.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-13-hbo-max",
+   "name": "HBO Max",
+   "url": "https://max.prf.hn/click/camref:1101lqHRA/destination:https%3A%2F%2Fwww.hbomax.com%2F",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Max is HBO Max again, like it probably always should have been, even though HBO Max isn’t a great name, either.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-13-perplexitys-comet-browser",
+   "name": "Perplexity’s Comet browser",
+   "url": "https://comet.perplexity.ai/",
+   "alt_urls": [
+    "https://www.theverge.com/news/704162/opeani-ai-web-browser-chatgpt"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The AI “answer” engine’s new browser naturally uses Perplexity as its main search engine but also has an AI assistant built in. Browsers could be the next big turf war for AI companies, and Perplexity is beating OpenAI to the punch .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-13-ankers-nano-wireless-car-charger",
+   "name": "Anker’s Nano Wireless Car Charger",
+   "url": "https://www.amazon.com/dp/B0DWSFWM5R?tag=theverge02-20&ascsubtag=__vg0710awD__703087__________________google.com&tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "This new car charger with a long, flexible arm looks like a super useful and malleable way to mount your phone inside your car. I don’t even own a car and I want this.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-13-superman",
+   "name": "Superman",
+   "url": "https://www.themoviedb.org/movie/1061474-superman?language=en-US",
+   "alt_urls": [
+    "https://www.theverge.com/movie-reviews/701362/superman-dc-studios-james-gunn-review"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I don’t have any strong feelings about Superman or DC Comics, but it seems like James Gunn’s new DC cinematic universe Hail Mary film is actually pretty good . The Fantastic Four: First Steps looks great, too — 2025 is shaping up to be a big superhero summer.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-13-iphone-15-pro-blue-titanium-128-gb",
+   "name": "iPhone 15 Pro Blue Titanium 128 GB",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 15 Pro Blue Titanium 128 GB",
+   "section": "screen-share",
+   "recommender": "Christian"
+  },
+  {
+   "id": "2025-07-13-overcast",
+   "name": "Overcast",
+   "url": "https://overcast.fm/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The apps: I try to keep things simple and positioned in an easy-to-reach area. I don’t keep social media apps on my phone in an attempt to be healthier, so it’s mostly things that are useful: vehicle apps (still a bit cold in Canada, so gotta love being able to preheat your vehicle), with Overcast…",
+   "section": "screen-share",
+   "recommender": "Christian"
+  },
+  {
+   "id": "2025-07-13-microsoft-to-do",
+   "name": "Microsoft To Do",
+   "url": "https://www.microsoft.com/en-us/microsoft-365/microsoft-to-do-list-app",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The apps: I try to keep things simple and positioned in an easy-to-reach area. I don’t keep social media apps on my phone in an attempt to be healthier, so it’s mostly things that are useful: vehicle apps (still a bit cold in Canada, so gotta love being able to preheat your vehicle), with Overcast…",
+   "section": "screen-share",
+   "recommender": "Christian"
+  },
+  {
+   "id": "2025-07-13-chatgpt",
+   "name": "ChatGPT",
+   "url": "https://chatgpt.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The apps: I try to keep things simple and positioned in an easy-to-reach area. I don’t keep social media apps on my phone in an attempt to be healthier, so it’s mostly things that are useful: vehicle apps (still a bit cold in Canada, so gotta love being able to preheat your vehicle), with Overcast…",
+   "section": "screen-share",
+   "recommender": "Christian"
+  },
+  {
+   "id": "2025-07-13-youtube",
+   "name": "YouTube",
+   "url": "https://www.youtube.com/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The apps: I try to keep things simple and positioned in an easy-to-reach area. I don’t keep social media apps on my phone in an attempt to be healthier, so it’s mostly things that are useful: vehicle apps (still a bit cold in Canada, so gotta love being able to preheat your vehicle), with Overcast…",
+   "section": "screen-share",
+   "recommender": "Christian"
+  },
+  {
+   "id": "2025-07-13-pixel-pals",
+   "name": "Pixel Pals",
+   "url": "https://apps.apple.com/us/app/pixel-pals-widget-pet-game/id6443919232",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "The apps: I try to keep things simple and positioned in an easy-to-reach area. I don’t keep social media apps on my phone in an attempt to be healthier, so it’s mostly things that are useful: vehicle apps (still a bit cold in Canada, so gotta love being able to preheat your vehicle), with Overcast…",
+   "section": "screen-share",
+   "recommender": "Christian"
+  },
+  {
+   "id": "2025-07-13-chess-com-app",
+   "name": "Chess.com app",
+   "url": "http://chess.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The apps: I try to keep things simple and positioned in an easy-to-reach area. I don’t keep social media apps on my phone in an attempt to be healthier, so it’s mostly things that are useful: vehicle apps (still a bit cold in Canada, so gotta love being able to preheat your vehicle), with Overcast…",
+   "section": "screen-share",
+   "recommender": "Christian"
+  },
+  {
+   "id": "2025-07-13-card-thief",
+   "name": "Card Thief",
+   "url": "http://www.card-thief.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I want to give a shoutout to my favorite mobile game designer who’s based here in Germany: Arnold Rauers and his little studio Tiny Touchtales develop some beautiful, addictive light strategy games. My favorites are Card Thief , Geo Gods , and Miracle Merchant .",
+   "section": "crowdsourced",
+   "recommender": "Nick (reader)"
+  },
+  {
+   "id": "2025-07-13-geo-gods",
+   "name": "Geo Gods",
+   "url": "http://www.geo-gods.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I want to give a shoutout to my favorite mobile game designer who’s based here in Germany: Arnold Rauers and his little studio Tiny Touchtales develop some beautiful, addictive light strategy games. My favorites are Card Thief , Geo Gods , and Miracle Merchant .",
+   "section": "crowdsourced",
+   "recommender": "Nick (reader)"
+  },
+  {
+   "id": "2025-07-13-miracle-merchant",
+   "name": "Miracle Merchant",
+   "url": "http://www.miracle-merchant.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I want to give a shoutout to my favorite mobile game designer who’s based here in Germany: Arnold Rauers and his little studio Tiny Touchtales develop some beautiful, addictive light strategy games. My favorites are Card Thief , Geo Gods , and Miracle Merchant .",
+   "section": "crowdsourced",
+   "recommender": "Nick (reader)"
+  },
+  {
+   "id": "2025-07-13-nova",
+   "name": "Nova",
+   "url": "https://nova.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I use Panic’s Nova to make websites and truly love it. Probably my favorite app. Mimestream is also fantastic! Can’t wait for the iPhone version.",
+   "section": "crowdsourced",
+   "recommender": "Jeanne (reader)"
+  },
+  {
+   "id": "2025-07-13-mimestream",
+   "name": "Mimestream",
+   "url": "https://mimestream.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I use Panic’s Nova to make websites and truly love it. Probably my favorite app. Mimestream is also fantastic! Can’t wait for the iPhone version.",
+   "section": "crowdsourced",
+   "recommender": "Jeanne (reader)"
+  },
+  {
+   "id": "2025-07-13-live-soccer-tv",
+   "name": "Live Soccer TV",
+   "url": "https://apps.apple.com/us/app/live-soccer-tv-scores-stats/id874726939",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "My favorite non-famous app is Live Soccer TV . Shows you the complete worldwide soccer schedule, and the list of broadcast networks/platforms in each county airing the game. Been on my home screen for ages now. It simply does what it says it does.",
+   "section": "crowdsourced",
+   "recommender": "Dustin (reader)"
+  },
+  {
+   "id": "2025-07-13-obsidian",
+   "name": "Obsidian",
+   "url": "https://obsidian.md/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Obsidian and Anybox .",
+   "section": "crowdsourced",
+   "recommender": "Peter (reader)"
+  },
+  {
+   "id": "2025-07-13-anybox",
+   "name": "Anybox",
+   "url": "https://anybox.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Obsidian and Anybox .",
+   "section": "crowdsourced",
+   "recommender": "Peter (reader)"
+  },
+  {
+   "id": "2025-07-13-crouton",
+   "name": "Crouton",
+   "url": "https://crouton.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m constantly shocked whenever recommendations come up for recipe apps that Crouton is not mentioned. To me, if Apple were to have made a recipe app themselves, this would be it.",
+   "section": "crowdsourced",
+   "recommender": "Justin (reader)"
+  },
+  {
+   "id": "2025-07-13-the-first-fifteen-lives-of-harry-august",
+   "name": "The First Fifteen Lives of Harry August",
+   "url": "https://www.clairenorth.com/titles/claire-north/the-first-fifteen-lives-of-harry-august/9781405528252/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "All of Claire North’s books are fantastic! Her stuff is super original: sci-fi-ish but more about big ideas like time, memory, and identity. She does a really good job of bringing out the nuances and real-life feelings and consequences of the roles her characters have.",
+   "section": "crowdsourced",
+   "recommender": "Dave (reader)"
+  },
+  {
+   "id": "2025-07-13-touch",
+   "name": "Touch",
+   "url": "https://www.clairenorth.com/titles/claire-north/touch/9780356504575/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "All of Claire North’s books are fantastic! Her stuff is super original: sci-fi-ish but more about big ideas like time, memory, and identity. She does a really good job of bringing out the nuances and real-life feelings and consequences of the roles her characters have.",
+   "section": "crowdsourced",
+   "recommender": "Dave (reader)"
+  },
+  {
+   "id": "2025-07-13-marvel-snap",
+   "name": "Marvel Snap",
+   "url": "https://marvelsnap.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I know it’s been out for a while, but my whole family is addicted to Marvel Snap . The new season with The Fantastic Four is really fun so far and this gives my kids things that help them tickle their brain with logic. Also, all the different variants for the cards are really cool to see.",
+   "section": "crowdsourced",
+   "recommender": "WALL-E (reader)"
+  },
+  {
+   "id": "2025-07-13-folio",
+   "name": "Folio",
+   "url": "https://savewithfolio.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Been using Folio as my Pocket replacement and have been quite happy.",
+   "section": "crowdsourced",
+   "recommender": "Carter (reader)"
+  },
+  {
+   "id": "2025-07-13-the-trip",
+   "name": "The Trip",
+   "url": "https://www.themoviedb.org/collection/309300-the-trip-collection?language=en-US",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "All four The Trip movies are streaming on Criterion Channel. Very funny, very mean comedies — and the longer BBC episodic cuts are also available too, if you want the extended play version (which you will).",
+   "section": "crowdsourced",
+   "recommender": "Kevin (reader)"
+  },
+  {
+   "id": "2025-07-13-a-solitaire-mystery",
+   "name": "A Solitaire Mystery",
+   "url": "https://store.steampowered.com/app/3743220/A_Solitaire_Mystery/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Despite my backlog, I’m checking out A Solitaire Mystery , as I have no choice but to play anything from the Baba Is You developer.",
+   "section": "crowdsourced",
+   "recommender": "Tristan (reader)"
+  },
+  {
+   "id": "2025-07-13-baba-is-you",
+   "name": "Baba Is You",
+   "url": "https://hempuli.com/baba/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Despite my backlog, I’m checking out A Solitaire Mystery , as I have no choice but to play anything from the Baba Is You developer.",
+   "section": "crowdsourced",
+   "recommender": "Tristan (reader)"
+  },
+  {
+   "id": "2025-07-13-pixel-line",
+   "name": "Pixel line",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://store.google.com/category/phones?hl=en-US",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just made the switch to the Pixel line from iOS, and I’m really digging trying a new OS. Outside of that, I’ve been taking a slight tech break and going back to physically painting, reading paperbacks, and being present.",
+   "section": "crowdsourced",
+   "recommender": "EmpireStrikesBacktotheFuture (reader)"
+  },
+  {
+   "id": "2025-07-13-taskmaster",
+   "name": "Taskmaster",
+   "url": "https://taskmaster.tv/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "All week, I have been mourning the recent end of the latest series of Taskmaster , a British comedy show where five comedians must all complete absurd tasks and be graded on them by the show’s mercurial host.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-13-series-19",
+   "name": "series 19",
+   "url": "https://www.youtube.com/watch?v=NE3uOVVjB98&list=PLRWvNQVqAeWKt7kCUfEMdJi40m7H58CJd&index=2",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "All week, I have been mourning the recent end of the latest series of Taskmaster , a British comedy show where five comedians must all complete absurd tasks and be graded on them by the show’s mercurial host.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-13-for-free-on-youtube",
+   "name": "for free on YouTube",
+   "url": "https://www.youtube.com/@Taskmaster/playlists",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "If you’re looking for something new and funny to watch, I can’t recommend series 19 enough. Best of all, you can watch every series of the show for free on YouTube . Your time starts now.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

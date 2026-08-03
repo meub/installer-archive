@@ -1,0 +1,472 @@
+{
+ "schema": 1,
+ "date": "2023-12-17",
+ "post_type": "issue",
+ "title": "The ultimate app for reading the internet",
+ "url": "https://www.theverge.com/24003177/readwise-reader-gta-netflix-day-one-apple-journal-installer-newsletter",
+ "author": "David Pierce",
+ "number": 18,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "deep-dive",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:37+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2023-12-17-combing-this-list-for-new-board-games-to-try",
+   "name": "combing this list for new board games to try",
+   "url": "https://www.polygon.com/23979940/best-board-games-2023",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been combing this list for new board games to try , reading about the NFL’s obsession with ping pong and the rise of chess influencers and the wacky history of Yahoo Pipes, watching Lupe Fiasco thoroughly explain how rap works , testing Anytype as a Notion alternative, trying to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-17-the-nfls-obsession-with-ping-pong",
+   "name": "the NFL’s obsession with ping pong",
+   "url": "https://www.gq.com/story/inside-the-nfls-ping-pong-wars",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been combing this list for new board games to try , reading about the NFL’s obsession with ping pong and the rise of chess influencers and the wacky history of Yahoo Pipes, watching Lupe Fiasco thoroughly explain how rap works , testing Anytype as a Notion alternative, trying to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-17-the-rise-of-chess-influencers",
+   "name": "the rise of chess influencers",
+   "url": "https://www.nytimes.com/2023/12/08/magazine/chess-levy-rozman.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been combing this list for new board games to try , reading about the NFL’s obsession with ping pong and the rise of chess influencers and the wacky history of Yahoo Pipes, watching Lupe Fiasco thoroughly explain how rap works , testing Anytype as a Notion alternative, trying to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-17-the-wacky-history-of-yahoo-pipes",
+   "name": "the wacky history of Yahoo Pipes,",
+   "url": "https://retool.com/pipes",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been combing this list for new board games to try , reading about the NFL’s obsession with ping pong and the rise of chess influencers and the wacky history of Yahoo Pipes, watching Lupe Fiasco thoroughly explain how rap works , testing Anytype as a Notion alternative, trying to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-17-lupe-fiasco-thoroughly-explain-how-rap-works",
+   "name": "Lupe Fiasco thoroughly explain how rap works",
+   "url": "https://www.youtube.com/watch?v=zBHRsYhYb-o",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been combing this list for new board games to try , reading about the NFL’s obsession with ping pong and the rise of chess influencers and the wacky history of Yahoo Pipes, watching Lupe Fiasco thoroughly explain how rap works , testing Anytype as a Notion alternative, trying to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-17-anytype",
+   "name": "Anytype",
+   "url": "https://anytype.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been combing this list for new board games to try , reading about the NFL’s obsession with ping pong and the rise of chess influencers and the wacky history of Yahoo Pipes, watching Lupe Fiasco thoroughly explain how rap works , testing Anytype as a Notion alternative, trying to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-17-the-npr-app",
+   "name": "The NPR app",
+   "url": "https://www.npr.org/about-npr/1212396769/the-new-npr-app-is-your-one-stop-for-the-best-of-public-radio",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If you gave me $100, I could not tell you the difference between the NPR One app and the NPR app, or why they both existed. Luckily, they don’t anymore!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-17-the-gta-trilogy-on-netflix",
+   "name": "The GTA trilogy on Netflix",
+   "url": "https://help.netflix.com/en/node/121442",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "Netflix’s gaming offering is becoming really impressive, really quickly. If you’re a subscriber, you now have free access to a bunch of good games, including three all-timer GTA titles: San Andreas , Vice City , and GTA III . They’re old, but they still rip.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-17-finalist",
+   "name": "Finalist",
+   "url": "https://finalist.works/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "One of the niftier to-do list apps I’ve seen in a while. My main issue with Finalist at the beginning was I hated the color choices. With the new version, you can design the app any way you want! And it’s still a super-simple and pretty clever tasks system.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-17-how-much-i-make-on-tiktok-vs-shorts-vs-reels-fro",
+   "name": "How Much I Make on TikTok vs Shorts vs Reels from Hank Green",
+   "url": "https://www.youtube.com/watch?v=kiT623Ysl80",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=jAZapFzpP64"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Nobody explains the creator economy like Hank Green. (If you’ve never seen his rant against TikTok and creator funds , go watch it.) This is an unusually honest, and kind of bleak, look at how much money there really is in this game and where it comes from.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-17-journaling-suggestions-in-day-one",
+   "name": "Journaling Suggestions in Day One",
+   "url": "https://dayoneapp.com/blog/introducing-journaling-suggestions/",
+   "alt_urls": [
+    "https://www.apple.com/newsroom/2023/12/apple-launches-journal-app-a-new-app-for-reflecting-on-everyday-moments/",
+    "https://www.theverge.com/2023/12/11/23990347/ios-17-2-released-iphone-update-journal-app-spatial-video",
+    "https://www.theverge.com/2023/10/28/23935473/apple-iphone-journal-app-preview"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "When I wrote about Apple’s Journal app — which is out for everyone now in iOS 17.2 ! — I said that Journaling Suggestions, the API that combs through your photos, activities, locations, music, and more to offer you stuff to journal about, was the most intriguing part of the product .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-17-epics-holiday-sale",
+   "name": "Epic’s holiday sale",
+   "url": "https://store.epicgames.com/en-US/sales-and-specials/holiday-sale",
+   "alt_urls": [
+    "https://www.theverge.com/2023/12/13/23999921/epic-games-store-holiday-sale-2023-free-games"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "This is one of the better “free games!” deals you’ll find: Epic is giving away a series of older titles over the course of the holiday season . Right now it’s the Destiny 2: Legacy Collection , which is a huge amount of Destiny content — and there are 16 more games left to claim.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-17-the-new-apple-tv-app",
+   "name": "The new Apple TV app",
+   "url": "https://tv.apple.com/channel/tvs.sbd.4000?itsct=tv_box_link&itscg=30200&at=1001l7uV&ct=Installer121523",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "Every day, I swear, my Roku TV gets a little slower. And every day, I get a little closer to just plugging in an Apple TV.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-17-notebooklm",
+   "name": "NotebookLM",
+   "url": "https://notebooklm.google.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Google’s AI-powered notes app still doesn’t have many features, and I still don’t totally understand why it’s not just a feature of Keep or Docs… but it’s a nifty app nonetheless. Upload your docs, summarize them, ask questions about them, make studying or researching a little easier.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-17-xbox-cloud-gaming-on-quest-3",
+   "name": "Xbox Cloud Gaming on Quest 3",
+   "url": "https://www.meta.com/experiences/6096836170400630/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This might be the best reason yet to buy a VR headset. If you’re a Game Pass subscriber, you can now connect your controller, fire up a huge virtual TV, and play games from anywhere. This is going to become part of my bedtime routine way too quickly.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-17-reader-can-handle-everything",
+   "name": "Reader can handle everything",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "You can save articles, upload books, add videos, import RSS feeds, subscribe to newsletters, and more. The app does a really good job of sorting things into the right places, so you’re not just stuck with a giant mass of stuff.",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-17-its-more-than-just-a-queue",
+   "name": "It’s more than just a queue",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The first thing I loved about Reader was the homescreen, which shows you categories like “quick reads,” “long reads,” and “recently added.” There’s also a Digest feature that just grabs a bunch of stuff you’ve saved and tells you to read it today.",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-17-its-also-kind-of-a-note-taking-app",
+   "name": "It’s also kind of a note-taking app",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Readwise’s original shtick was to compile all your notes and highlights from places like Kindle and Pocket into a searchable, reviewable archive.",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-17-you-can-read-video",
+   "name": "You can… read… video",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I watch a lot of YouTube, for, uh, journalism. Reader adds a (good but not perfect) transcript to every video you save, so you can highlight and take notes just like on an article. Everything gets time-stamped, too, so you can find it later. It’s so helpful.",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-17-its-super-fast",
+   "name": "It’s super fast",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "One reason I’ve stopped using Reader in the past is that the app was kind of sluggish. One of those apps that always felt like it was working, you know what I mean?",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-17-iphone-15-pro",
+   "name": "iPhone 15 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 15 Pro.",
+   "section": "screen-share",
+   "recommender": "Tom"
+  },
+  {
+   "id": "2023-12-17-the-wombles",
+   "name": "The Wombles",
+   "url": "https://www.bbc.co.uk/sounds/play/p0gyrlb2",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Wombles . I was a huge fan of The Wombles growing up as a kid, so when I’m not listening to EDM loudly in my headphones, you’ll find me listening to an episode of The Wombles on BBC Sounds. It’s delightfully relaxing, thanks to the voice acting of Richard E. Grant. TeeDee .",
+   "section": "screen-share",
+   "recommender": "Tom"
+  },
+  {
+   "id": "2023-12-17-teedee",
+   "name": "TeeDee",
+   "url": "https://www.tiktok.com/@teedeeuk",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Wombles . I was a huge fan of The Wombles growing up as a kid, so when I’m not listening to EDM loudly in my headphones, you’ll find me listening to an episode of The Wombles on BBC Sounds. It’s delightfully relaxing, thanks to the voice acting of Richard E. Grant. TeeDee .",
+   "section": "screen-share",
+   "recommender": "Tom"
+  },
+  {
+   "id": "2023-12-17-i-wanna-feel",
+   "name": "I Wanna Feel",
+   "url": "https://www.tiktok.com/@teedeeuk/video/7119524517302603013",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Wombles . I was a huge fan of The Wombles growing up as a kid, so when I’m not listening to EDM loudly in my headphones, you’ll find me listening to an episode of The Wombles on BBC Sounds. It’s delightfully relaxing, thanks to the voice acting of Richard E. Grant. TeeDee .",
+   "section": "screen-share",
+   "recommender": "Tom"
+  },
+  {
+   "id": "2023-12-17-soundcloud",
+   "name": "SoundCloud",
+   "url": "https://soundcloud.com/teedeesheffield",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Wombles . I was a huge fan of The Wombles growing up as a kid, so when I’m not listening to EDM loudly in my headphones, you’ll find me listening to an episode of The Wombles on BBC Sounds. It’s delightfully relaxing, thanks to the voice acting of Richard E. Grant. TeeDee .",
+   "section": "screen-share",
+   "recommender": "Tom"
+  },
+  {
+   "id": "2023-12-17-the-finals",
+   "name": "The Finals",
+   "url": "https://www.reachthefinals.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Wombles . I was a huge fan of The Wombles growing up as a kid, so when I’m not listening to EDM loudly in my headphones, you’ll find me listening to an episode of The Wombles on BBC Sounds. It’s delightfully relaxing, thanks to the voice acting of Richard E. Grant. TeeDee .",
+   "section": "screen-share",
+   "recommender": "Tom"
+  },
+  {
+   "id": "2023-12-17-anybox",
+   "name": "Anybox",
+   "url": "https://anybox.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I used this shelf app called Anybox . This app is a box to quickly access any type of item: image, text, document, and links. The app allows customization for default action based on saved item type, we can preview, copy, share, and so on.",
+   "section": "crowdsourced",
+   "recommender": "Krishna (reader)"
+  },
+  {
+   "id": "2023-12-17-fisk",
+   "name": "Fisk",
+   "url": "https://www.themoviedb.org/tv/121040-fisk",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Watching Fisk on Netflix. This Australian quirky comedy just released a second season this month. I love the short 25-minute episodes, makes it easy to watch and enjoy.",
+   "section": "crowdsourced",
+   "recommender": "Carter (reader)"
+  },
+  {
+   "id": "2023-12-17-playlist",
+   "name": "Playlist",
+   "url": "https://playlist.ign.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As you were talking about media organization / collection apps, please check out the game-tracking app developed by IGN called Playlist . It is free and I am liking it.",
+   "section": "crowdsourced",
+   "recommender": "OK (reader)"
+  },
+  {
+   "id": "2023-12-17-analogue-duo",
+   "name": "Analogue Duo",
+   "url": "https://www.analogue.co/duo",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Analogue Duo baybee.",
+   "section": "crowdsourced",
+   "recommender": "Chris (reader)"
+  },
+  {
+   "id": "2023-12-17-creating-ai-wallpapers",
+   "name": "creating AI wallpapers",
+   "url": "https://www.zdnet.com/article/how-to-generate-ai-wallpapers-on-android-14/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "AI wallpapers on the Google Pixel! I’ve been hooked on creating AI wallpapers and it feels like the combinations are truly endless. Going from an AI-generated painting of a mountain and spaceships to a surreal castle made of muslin with different color shades is wildly fun!",
+   "section": "crowdsourced",
+   "recommender": "Michael (reader)"
+  },
+  {
+   "id": "2023-12-17-blue-eye-samurai",
+   "name": "Blue Eye Samurai",
+   "url": "https://www.themoviedb.org/tv/225180-blue-eye-samurai",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Listening to The Vergecast podcast on how Twitter officially died this year and Watching Blue Eye Samurai on Netflix. I highly recommend it to anyone who likes animation.",
+   "section": "crowdsourced",
+   "recommender": "Paul (reader)"
+  },
+  {
+   "id": "2023-12-17-scavengers-reign",
+   "name": "Scavengers Reign",
+   "url": "https://www.themoviedb.org/tv/204154-scavengers-reign",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "If it hasn’t been mentioned yet, or even if it has, you should check out the show Scavengers Reign on Max. Brilliant and freaky sci-fi wonderfulness!",
+   "section": "crowdsourced",
+   "recommender": "Edward (reader)"
+  },
+  {
+   "id": "2023-12-17-calibre",
+   "name": "Calibre",
+   "url": "https://calibre-ebook.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Using Calibre to subscribe to newsletters / newspapers and have them appear on my kindle every morning gives me a beautiful little ‘slow internet’ experience while I sip my coffee.",
+   "section": "crowdsourced",
+   "recommender": "Jon (reader)"
+  },
+  {
+   "id": "2023-12-17-mammoth",
+   "name": "Mammoth",
+   "url": "https://getmammoth.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week I discovered Mammoth , an insanely gorgeous Mastodon app. Until now I’ve not been able to see past Ivory. Also Longplay is a brilliant iOS app to rediscover my album collection in Apple Music.",
+   "section": "crowdsourced",
+   "recommender": "Chris (reader)"
+  },
+  {
+   "id": "2023-12-17-longplay",
+   "name": "Longplay",
+   "url": "https://longplay.rocks/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week I discovered Mammoth , an insanely gorgeous Mastodon app. Until now I’ve not been able to see past Ivory. Also Longplay is a brilliant iOS app to rediscover my album collection in Apple Music.",
+   "section": "crowdsourced",
+   "recommender": "Chris (reader)"
+  },
+  {
+   "id": "2023-12-17-spotify-audiobooks",
+   "name": "Spotify audiobooks",
+   "url": "https://open.spotify.com/genre/0JQ5DAqbMKFETqK4t8f1n3?b2mwp=true&_gl=1*smuii2*_gcl_au*MTAyMTUxMjg0Ny4xNzAxMzY5NjE2",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Spotify audiobooks . I know you don’t own the audiobooks after but it is really convenient to get 15 hours for free. It’s enough to get me through at least one medium-sized book each month. I use it with Libby and Audible to read a bunch during the month!",
+   "section": "crowdsourced",
+   "recommender": "Harrison (reader)"
+  },
+  {
+   "id": "2023-12-17-libby",
+   "name": "Libby",
+   "url": "https://libbyapp.com/interview/welcome#doYouHaveACard",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Spotify audiobooks . I know you don’t own the audiobooks after but it is really convenient to get 15 hours for free. It’s enough to get me through at least one medium-sized book each month. I use it with Libby and Audible to read a bunch during the month!",
+   "section": "crowdsourced",
+   "recommender": "Harrison (reader)"
+  },
+  {
+   "id": "2023-12-17-audible",
+   "name": "Audible",
+   "url": "https://www.audible.com/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
+   "blurb": "Spotify audiobooks . I know you don’t own the audiobooks after but it is really convenient to get 15 hours for free. It’s enough to get me through at least one medium-sized book each month. I use it with Libby and Audible to read a bunch during the month!",
+   "section": "crowdsourced",
+   "recommender": "Harrison (reader)"
+  }
+ ]
+}

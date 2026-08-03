@@ -1,0 +1,442 @@
+{
+ "schema": 1,
+ "date": "2025-10-26",
+ "post_type": "issue",
+ "title": "My favorite e-reader just got a big update",
+ "url": "https://www.theverge.com/tech/806697/boox-palma-2-pro-chatgpt-atlas-galaxy-xr-installer",
+ "author": "David Pierce",
+ "number": 103,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:39+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-10-26-gooning",
+   "name": "gooning",
+   "url": "https://harpers.org/archive/2025/11/the-goon-squad-daniel-kolitz-porn-masturbation-loneliness/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about gooning and Costco and protein bars and the Jonas Brothers , bingeing Nobody Wants This season two, trying to figure out how to save $4,500 for the new Rivian e-bike , telling anyone who will listen that T-Pain’s still got it , learning everything I can about the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-26-costco",
+   "name": "Costco",
+   "url": "https://www.newyorker.com/magazine/2025/10/27/can-the-golden-age-of-costco-last",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about gooning and Costco and protein bars and the Jonas Brothers , bingeing Nobody Wants This season two, trying to figure out how to save $4,500 for the new Rivian e-bike , telling anyone who will listen that T-Pain’s still got it , learning everything I can about the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-26-protein-bars",
+   "name": "protein bars",
+   "url": "https://www.menshealth.com/nutrition/a66051399/david-protein-bar-lawsuit/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about gooning and Costco and protein bars and the Jonas Brothers , bingeing Nobody Wants This season two, trying to figure out how to save $4,500 for the new Rivian e-bike , telling anyone who will listen that T-Pain’s still got it , learning everything I can about the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-26-the-jonas-brothers",
+   "name": "the Jonas Brothers",
+   "url": "https://www.esquire.com/entertainment/music/a69062100/joe-nick-kevin-jonas-brothers-interview-2025/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about gooning and Costco and protein bars and the Jonas Brothers , bingeing Nobody Wants This season two, trying to figure out how to save $4,500 for the new Rivian e-bike , telling anyone who will listen that T-Pain’s still got it , learning everything I can about the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-26-nobody-wants-this",
+   "name": "Nobody Wants This",
+   "url": "https://www.themoviedb.org/tv/250923-nobody-wants-this?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about gooning and Costco and protein bars and the Jonas Brothers , bingeing Nobody Wants This season two, trying to figure out how to save $4,500 for the new Rivian e-bike , telling anyone who will listen that T-Pain’s still got it , learning everything I can about the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-26-t-pains-still-got-it",
+   "name": "T-Pain’s still got it",
+   "url": "https://www.youtube.com/watch?v=pEanOtChKdE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about gooning and Costco and protein bars and the Jonas Brothers , bingeing Nobody Wants This season two, trying to figure out how to save $4,500 for the new Rivian e-bike , telling anyone who will listen that T-Pain’s still got it , learning everything I can about the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-26-louvre-heist",
+   "name": "Louvre heist",
+   "url": "https://www.bbc.com/news/articles/cg7nrlkg0zxo",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about gooning and Costco and protein bars and the Jonas Brothers , bingeing Nobody Wants This season two, trying to figure out how to save $4,500 for the new Rivian e-bike , telling anyone who will listen that T-Pain’s still got it , learning everything I can about the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-26-fortnite",
+   "name": "Fortnite",
+   "url": "https://www.fortnite.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about gooning and Costco and protein bars and the Jonas Brothers , bingeing Nobody Wants This season two, trying to figure out how to save $4,500 for the new Rivian e-bike , telling anyone who will listen that T-Pain’s still got it , learning everything I can about the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-26-yoto-players",
+   "name": "Yoto Players",
+   "url": "https://us.yotoplay.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about gooning and Costco and protein bars and the Jonas Brothers , bingeing Nobody Wants This season two, trying to figure out how to save $4,500 for the new Rivian e-bike , telling anyone who will listen that T-Pain’s still got it , learning everything I can about the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-26-the-boox-palma-2-pro",
+   "name": "The Boox Palma 2 Pro",
+   "url": "https://shop.boox.com/products/palma2pro",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My love for this smartphone-sized e-reader knows no bounds. (Okay, some bounds, but not many.) This new model is fascinating: it has a color screen, cell connection, pen input… it’s almost a phone? At $399, the price is moving in the wrong direction, but I am deeply curious about this thing.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-26-chatgpt-atlas",
+   "name": "ChatGPT Atlas",
+   "url": "https://openai.com/index/introducing-chatgpt-atlas/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "AI browsers are kind of a dime a dozen. It’s Chrome with a chatbot everywhere you look! But given the sheer size of ChatGPT, this one matters anyway; if anyone can make a real dent in the browser market right now, it’s OpenAI.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-26-plants-vs-zombies-replanted",
+   "name": "Plants vs. Zombies: Replanted",
+   "url": "https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-replanted",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The good news: PvZ is back! The bad news: it doesn’t seem like anyone tried very hard with this reboot. The upshot, I guess: I’ve already played it a bunch and will be doing so for the foreseeable future.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-26-the-samsung-galaxy-xr",
+   "name": "The Samsung Galaxy XR",
+   "url": "https://howl.link/odvph7f86au9s",
+   "alt_urls": [
+    "https://www.theverge.com/tech/802299/samsung-galaxy-xr-hands-on-price-release-date"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s the Vision Pro, but lighter and more comfortable and half the price. I’m not bullish on headsets as a genre right now, but that’s still a pretty good sales pitch ! As an entertainment device, Samsung might have something here.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-26-the-aura-ink",
+   "name": "The Aura Ink",
+   "url": "https://auraframes.com/ink",
+   "alt_urls": [
+    "https://www.theverge.com/tech/803173/aura-e-ink-digital-photo-frame"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s the Samsung Frame TV of digital picture frames: a 13.5-inch E Ink panel that hangs on your wall and apparently only needs to be charged every few months. Neat idea , and everyone I know who has Aura frames likes them, but the $499 price is tough to swallow.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-26-bloom",
+   "name": "Bloom",
+   "url": "https://bloomapp.club/",
+   "alt_urls": [
+    "https://tabtabapp.net/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been experimenting with a bunch of Mac apps that make the whole system a little easier to navigate — TabTab is a recent favorite — and I really like this app’s improvements to Finder. It’s worth it for the file-renaming and image-resizing tools alone.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-26-a-house-of-dynamite",
+   "name": "A House of Dynamite",
+   "url": "https://www.themoviedb.org/movie/1290159-a-house-of-dynamite?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Another for the “premise is maybe a little too real?” files, but everything I’m hearing about Kathryn Bigelow’s new brink-of-war Netflix thriller suggests it’s as gripping as you’d hope. This is first on my watch list this weekend.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-26-the-fujifilm-x-t30-iii",
+   "name": "The Fujifilm X-T30 III",
+   "url": "https://www.fujifilm-x.com/en-us/products/cameras/x-t30-iii/",
+   "alt_urls": [
+    "https://www.theverge.com/news/804840/leica-m-ev1-mirrorless-evf-camera-rangefinder-price-specs",
+    "https://www.theverge.com/news/804782/lomography-lomo-mca-metal-35mm-film-camera-usbc-charging-price-specs",
+    "https://www.theverge.com/news/805200/fujifilm-x-t30-iii-digital-camera-film-simulation-6k-ai-subject-detection"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Lotta new cameras this week, including from Leica and Lomography ! But I am a sucker for Fujifilm’s X series — the company’s just doing a great job of making filters and presets more accessible, and even finding smart ways to incorporate AI.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-26-glamping",
+   "name": "Glamping",
+   "url": "https://tubitv.com/movies/100047053/glamping",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A Tubi original movie, directed by and starring the winner of a platform-wide contest for new creators. It’s a horror movie about influencers, the trailer looks either legit-good or so-bad-it’s-good, and I love a campy horror flick. I’m weirdly excited about this.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-26-im-on-an-iphone-15-pro-max-at-the-moment-but-con",
+   "name": "I’m on an iPhone 15 Pro Max at the moment, but considering upgrading to a 17",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: I’m on an iPhone 15 Pro Max at the moment, but considering upgrading to a 17.",
+   "section": "screen-share",
+   "recommender": "John"
+  },
+  {
+   "id": "2025-10-26-clone-wars",
+   "name": "Clone Wars",
+   "url": "https://www.themoviedb.org/tv/4194-star-wars-the-clone-wars?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Right now, my son has started to really get into Star Wars (finally!), so we’re watching the movies and about to start Clone Wars .",
+   "section": "screen-share",
+   "recommender": "John"
+  },
+  {
+   "id": "2025-10-26-dave-chisholm",
+   "name": "Dave Chisholm",
+   "url": "https://www.instagram.com/thedavechisholm/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Right now, my son has started to really get into Star Wars (finally!), so we’re watching the movies and about to start Clone Wars .",
+   "section": "screen-share",
+   "recommender": "John"
+  },
+  {
+   "id": "2025-10-26-dropout",
+   "name": "Dropout",
+   "url": "https://www.dropout.tv/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Right now, my son has started to really get into Star Wars (finally!), so we’re watching the movies and about to start Clone Wars .",
+   "section": "screen-share",
+   "recommender": "John"
+  },
+  {
+   "id": "2025-10-26-make-some-noise",
+   "name": "Make Some Noise",
+   "url": "https://watch.dropout.tv/make-some-noise-saga",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Right now, my son has started to really get into Star Wars (finally!), so we’re watching the movies and about to start Clone Wars .",
+   "section": "screen-share",
+   "recommender": "John"
+  },
+  {
+   "id": "2025-10-26-immich",
+   "name": "Immich",
+   "url": "https://immich.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After setting up my NAS a few weeks ago, I moved from Google Photos to Immich , a self-hosted dupe which is nearly identical. The process of moving the photos over was painful, but now I own my own image server.",
+   "section": "crowdsourced",
+   "recommender": "Craig (reader)"
+  },
+  {
+   "id": "2025-10-26-home-assistant",
+   "name": "Home Assistant",
+   "url": "https://www.home-assistant.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After setting up my NAS a few weeks ago, I moved from Google Photos to Immich , a self-hosted dupe which is nearly identical. The process of moving the photos over was painful, but now I own my own image server.",
+   "section": "crowdsourced",
+   "recommender": "Craig (reader)"
+  },
+  {
+   "id": "2025-10-26-task",
+   "name": "Task",
+   "url": "https://www.themoviedb.org/tv/228305-task?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Finished Task on HBO today. Incredibly well done, totally devastating in parts and uplifting in others.",
+   "section": "crowdsourced",
+   "recommender": "Óli (reader)"
+  },
+  {
+   "id": "2025-10-26-notebooklm",
+   "name": "NotebookLM",
+   "url": "https://notebooklm.google/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently discovered a use case that, in my opinion, fully justifies its existence: loading board game instructions into NotebookLM and utilizing it as both a guide and, more importantly, a judge during arguments.",
+   "section": "crowdsourced",
+   "recommender": "Jakub (reader)"
+  },
+  {
+   "id": "2025-10-26-enshittification",
+   "name": "Enshittification",
+   "url": "https://us.macmillan.com/books/9780374619329/enshittification/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just finished reading Enshittification by Cory Doctorow this morning. Was an excellent read, and I would highly recommend.",
+   "section": "crowdsourced",
+   "recommender": "Nathaniel (reader)"
+  },
+  {
+   "id": "2025-10-26-raycue-charger-dock",
+   "name": "RayCue charger dock",
+   "url": "https://www.raycue.com/products/raycue-all-in-one-charger-dock-for-mac-mini-m4",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just got this RayCue charger dock to add some functionalities to my Mac Mini M4. Waiting for NVMe SSD to add storage to my Mac.",
+   "section": "crowdsourced",
+   "recommender": "‪Jean-François (reader)"
+  },
+  {
+   "id": "2025-10-26-md-vinyl",
+   "name": "MD Vinyl",
+   "url": "https://apps.apple.com/us/app/md-vinyl-for-music-app/id1606306441",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Been enjoying MD Vinyl . It’s just a great looking app that focuses on albums. These apps tend to be a dime a dozen, but this one has my phone on standby more often.",
+   "section": "crowdsourced",
+   "recommender": "Matthew (reader)"
+  },
+  {
+   "id": "2025-10-26-ball-x-pit",
+   "name": "Ball x Pit",
+   "url": "https://www.ballxpit.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Ball x Pit has taken over my life just like Balatro did once upon a time.",
+   "section": "crowdsourced",
+   "recommender": "Ronak (reader)"
+  },
+  {
+   "id": "2025-10-26-balatro",
+   "name": "Balatro",
+   "url": "https://www.playbalatro.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Ball x Pit has taken over my life just like Balatro did once upon a time.",
+   "section": "crowdsourced",
+   "recommender": "Ronak (reader)"
+  },
+  {
+   "id": "2025-10-26-zen-browser",
+   "name": "Zen Browser",
+   "url": "https://zen-browser.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Zen Browser recently got a great update that makes a lot of quality of life improvements, and generally over the last few months it has become fully capable of being my daily browser.",
+   "section": "crowdsourced",
+   "recommender": "Janego (reader)"
+  },
+  {
+   "id": "2025-10-26-3dbotmaker",
+   "name": "3DBotmaker",
+   "url": "https://www.youtube.com/watch?v=N-uK0aEPeNc",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I really enjoy little cars racing down some serious tracks. 3DBotmaker is a YouTube channel where they do some awesome racing, and they’re in the middle of the DRC-X right now. It’s beautifully filmed, some great commentary, and it’s all about the big air, baby.",
+   "section": "crowdsourced",
+   "recommender": "Jasper (reader)"
+  },
+  {
+   "id": "2025-10-26-make-some-noise-2",
+   "name": "Make Some Noise",
+   "url": "https://watch.dropout.tv/make-some-noise?_gl=1*1mk69ox*_ga*MTU1OTk5MzUyNS4xNzYxMjMyMzk4*_ga_6C97G3S3W5*czE3NjEyMzIzOTgkbzEkZzAkdDE3NjEyMzIzOTgkajYwJGwwJGgxNDQ5ODgwOTk2*_fplc*dlRBVUEzTDM1UW5SbXFpVEZTbVo5ZDFqZTVaJTJCZmNMWXRXa2FZeFZpVFpxeVZZcEtTb01xZ2dHbWtLTHElMkIyOGtqZ1hJcjhOMGg0Y0VtWTBQalVkN2FvS1h3dzdsN012MTJIOCUyQnBmeEFOZnJPZWI3UVd6c2M2SXlJU2tBZVR3JTNEJTNE*_gcl_au*MTQxNzE0OTQwLjE3NjEyMzIzOTg.*FPAU*MTkxOTIwNDUyNy4xNzYxMjMyMzk4",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The best thing I’ve found, somewhat surprisingly, is Dropout . (I wrote this before John told me he also loves Dropout, I swear.) I only recently became a subscriber, and its giant library of good-vibes comedy games turns out to be the perfect thing to watch a few minutes at a time.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-10-26-brennan-lee-mulligan",
+   "name": "Brennan Lee Mulligan",
+   "url": "https://brennanleemulligan.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The best thing I’ve found, somewhat surprisingly, is Dropout . (I wrote this before John told me he also loves Dropout, I swear.) I only recently became a subscriber, and its giant library of good-vibes comedy games turns out to be the perfect thing to watch a few minutes at a time.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

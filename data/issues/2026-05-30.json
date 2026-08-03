@@ -1,0 +1,450 @@
+{
+ "schema": 1,
+ "date": "2026-05-30",
+ "post_type": "issue",
+ "title": "This is the James Bond game we’ve been waiting for",
+ "url": "https://www.theverge.com/tech/940092/007-first-light-oura-ring-5-installer",
+ "author": "David Pierce",
+ "number": 130,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:40+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-05-30-victor-wembanyama",
+   "name": "Victor Wembanyama",
+   "url": "https://www.espn.com/nba/story/_/id/48818786/how-34-generations-shaolin-warrior-monk-training-helped-build-once-generation-nba-superstar-victor-wembanyama",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Victor Wembanyama and mahjong and Merlin Mann’s pearls of wisdom , watching more of the Scripps National Spelling Bee finals than I expected, watching way too many videos about lighting a home studio, spending too many hours tweaking the settings in Vivaldi …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-30-mahjong",
+   "name": "mahjong",
+   "url": "https://www.coyotemedia.org/traversing-the-mahjong-multiverse/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Victor Wembanyama and mahjong and Merlin Mann’s pearls of wisdom , watching more of the Scripps National Spelling Bee finals than I expected, watching way too many videos about lighting a home studio, spending too many hours tweaking the settings in Vivaldi …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-30-merlin-manns-pearls-of-wisdom",
+   "name": "Merlin Mann’s pearls of wisdom",
+   "url": "https://github.com/merlinmann/wisdom/blob/master/wisdom.md",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "open-source"
+   ],
+   "blurb": "This week, I’ve been reading about Victor Wembanyama and mahjong and Merlin Mann’s pearls of wisdom , watching more of the Scripps National Spelling Bee finals than I expected, watching way too many videos about lighting a home studio, spending too many hours tweaking the settings in Vivaldi …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-30-the-scripps-national-spelling-bee-finals",
+   "name": "the Scripps National Spelling Bee finals",
+   "url": "https://www.youtube.com/watch?v=PqtZlxGW0lo",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Victor Wembanyama and mahjong and Merlin Mann’s pearls of wisdom , watching more of the Scripps National Spelling Bee finals than I expected, watching way too many videos about lighting a home studio, spending too many hours tweaking the settings in Vivaldi …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-30-way",
+   "name": "way",
+   "url": "https://www.youtube.com/watch?v=UXdB2NRVbJc",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Victor Wembanyama and mahjong and Merlin Mann’s pearls of wisdom , watching more of the Scripps National Spelling Bee finals than I expected, watching way too many videos about lighting a home studio, spending too many hours tweaking the settings in Vivaldi …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-30-too",
+   "name": "too",
+   "url": "https://www.youtube.com/watch?v=LicrMCoTP-4",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Victor Wembanyama and mahjong and Merlin Mann’s pearls of wisdom , watching more of the Scripps National Spelling Bee finals than I expected, watching way too many videos about lighting a home studio, spending too many hours tweaking the settings in Vivaldi …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-30-many",
+   "name": "many",
+   "url": "https://www.youtube.com/watch?v=8-WiFvM15-0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Victor Wembanyama and mahjong and Merlin Mann’s pearls of wisdom , watching more of the Scripps National Spelling Bee finals than I expected, watching way too many videos about lighting a home studio, spending too many hours tweaking the settings in Vivaldi …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-30-videos",
+   "name": "videos",
+   "url": "https://www.youtube.com/watch?v=ggBt7R5TgyA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Victor Wembanyama and mahjong and Merlin Mann’s pearls of wisdom , watching more of the Scripps National Spelling Bee finals than I expected, watching way too many videos about lighting a home studio, spending too many hours tweaking the settings in Vivaldi …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-30-vivaldi",
+   "name": "Vivaldi",
+   "url": "https://vivaldi.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Victor Wembanyama and mahjong and Merlin Mann’s pearls of wisdom , watching more of the Scripps National Spelling Bee finals than I expected, watching way too many videos about lighting a home studio, spending too many hours tweaking the settings in Vivaldi …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-30-google-photos",
+   "name": "Google Photos",
+   "url": "https://photos.google.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Victor Wembanyama and mahjong and Merlin Mann’s pearls of wisdom , watching more of the Scripps National Spelling Bee finals than I expected, watching way too many videos about lighting a home studio, spending too many hours tweaking the settings in Vivaldi …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-30-007-first-light",
+   "name": "007 First Light",
+   "url": "https://ioi.dk/007firstlightgame",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have played a lot of James Bond games over the years, and been disappointed by most of them. (At least since Goldeneye , one of the best games of all time.) By virtually all accounts, this is the Bond game we’ve all been waiting for.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-30-the-oura-ring-5",
+   "name": "The Oura Ring 5",
+   "url": "https://ouraring.com/store/rings/oura-ring-5",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My main gripe with the Oura Ring has always been its size — it’s just big enough that it seems to bonk into everything when I’m wearing it, and I never quite get used to it. The new one has some clever new features, but is also substantially lighter and smaller. That’s a big win all by itself.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-30-spider-noir",
+   "name": "Spider-Noir",
+   "url": "https://www.themoviedb.org/tv/220102-spider-noir?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The Spider-Verse movies remain some of the coolest and most inventive superhero flicks I’ve seen in years. This new show sounds like it’s just as stylish, but maybe skimps a little on the substance… I’ll still be watching, though.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-30-halide-mark-iii",
+   "name": "Halide Mark III",
+   "url": "https://www.lux.camera/halide-mark-iii/",
+   "alt_urls": [
+    "https://www.theverge.com/tech/938339/lux-optics-halide-mark-iii-ios-iphone-camera-app-looks-editor-raw-files-now-available"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Halide is still the gold standard for third-party camera apps, and the new update brings a very useful feature : You can now take RAW photos with other cameras and use Halide to process them with Halide’s cool new set of filters and presets.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-30-the-sennheiser-momentum-5",
+   "name": "The Sennheiser Momentum 5",
+   "url": "https://us.sennheiser-hearing.com/collections/momentum-series-headphones/products/momentum-5-wireless",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Sennheiser probably deserves more shine in the headphone world. I know a lot of people who love the Momentum 4s, and the new model comes with more battery life, better noise cancellation, and a user-upgradeable battery.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-30-mina-the-hollower",
+   "name": "Mina the Hollower",
+   "url": "https://www.yachtclubgames.com/games/mina-the-hollower/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "According to, uh, everyone, this might be the best game of the year so far. It comes from the developer behind Shovel Knight , and people are comparing it to some of the great games of all time. It’s a fairly simple-looking game that hides something huge and ambitious, and I can’t wait to dig in.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-30-backrooms",
+   "name": "Backrooms",
+   "url": "https://www.themoviedb.org/movie/1083381-backrooms?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I don’t know whether you should watch Kane Parsons’ incredibly cool, inventive YouTube series before you watch the movie he turned those videos into, or if you should go into the movie completely in the dark about what’s coming.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-30-spotify-articles",
+   "name": "Spotify Articles",
+   "url": "https://open.spotify.com/genre/0JQ5DAqbMKFJaUXIYYHL2l",
+   "alt_urls": [
+    "https://open.spotify.com/show/61Z5E7I0hCNHOcjqqqV5Nw"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "A bunch of curated, narrated, long-form journalism, and Premium users can listen to a handful of them free every month. There are some odd article choices in here, but also some true classics, including the great cocaine treasure hunt .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-30-star-city",
+   "name": "Star City",
+   "url": "https://www.themoviedb.org/tv/252107-star-city",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "For All Mankind is a long-standing favorite show here in the Installerverse, so this spinoff show focused on the Soviet Union might already be on your to-watch list. From what I hear, it’s not quite up to FAM ’s standard, but the cool space stuff keeps coming, and I’m here for all of it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-30-the-ferrari-luce",
+   "name": "The Ferrari Luce",
+   "url": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
+   "alt_urls": [
+    "https://www.theverge.com/transportation/939226/ferrari-luce-design-terrible-ev-jony-ive-apple"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This has to be the most expensive thing in the history of Installer , right? I really don’t care for the look of Ferrari’s first EV (and it seems neither does anyone else ), but there are some genuinely brilliant things going on inside of it. If you want to give me a ride in yours, I won’t complain.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-30-iphone-14-pro-in-deep-purple",
+   "name": "iPhone 14 Pro in Deep Purple",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 14 Pro in Deep Purple. I’m due for an upgrade, but I’ll ride this one out a little longer. Fun fact: I bought it while living in Australia when the 14 Pro first came out, so I ended up with the UK version that has one eSIM and one physical SIM.",
+   "section": "screen-share",
+   "recommender": "Danielle"
+  },
+  {
+   "id": "2026-05-30-hatch",
+   "name": "Hatch",
+   "url": "https://www.hatch.co/?srsltid=AfmBOooRJQjzxfjsJ1GB2DtR0xEkPut4NgYAAkpqH-DQvmK626xYOKEV",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I LOVE the Hatch sound machine for my toddler. The app is pretty decent. I like curating ambiance for my kid’s bedtime routine.",
+   "section": "screen-share",
+   "recommender": "Danielle"
+  },
+  {
+   "id": "2026-05-30-death-by-lightning",
+   "name": "Death by Lightning",
+   "url": "https://www.themoviedb.org/tv/245219-death-by-lightning?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Death by Lightning . Just finished. LOVED. ChatPRD . An AI tool for product managers, created by Claire Vo, who has been such an interesting person to also follow in the PM/AI space. I mostly use it for rubber ducking and processing my product thoughts. The Techno Sapiens newsletter.",
+   "section": "screen-share",
+   "recommender": "Danielle"
+  },
+  {
+   "id": "2026-05-30-chatprd",
+   "name": "ChatPRD",
+   "url": "https://www.chatprd.ai/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Death by Lightning . Just finished. LOVED. ChatPRD . An AI tool for product managers, created by Claire Vo, who has been such an interesting person to also follow in the PM/AI space. I mostly use it for rubber ducking and processing my product thoughts. The Techno Sapiens newsletter.",
+   "section": "screen-share",
+   "recommender": "Danielle"
+  },
+  {
+   "id": "2026-05-30-techno-sapiens",
+   "name": "Techno Sapiens",
+   "url": "https://technosapiens.substack.com/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "newsletter"
+   ],
+   "blurb": "Death by Lightning . Just finished. LOVED. ChatPRD . An AI tool for product managers, created by Claire Vo, who has been such an interesting person to also follow in the PM/AI space. I mostly use it for rubber ducking and processing my product thoughts. The Techno Sapiens newsletter.",
+   "section": "screen-share",
+   "recommender": "Danielle"
+  },
+  {
+   "id": "2026-05-30-indiana-jones-and-the-great-circle",
+   "name": "Indiana Jones and the Great Circle",
+   "url": "https://indianajones.bethesda.net/en-US",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Finally getting around to Indiana Jones and the Great Circle on PS5. Such a fun adventure game, very well performed and puzzles with just the right amount of challenge. Scratches that Uncharted itch. Really digging it.",
+   "section": "crowdsourced",
+   "recommender": "Colin (reader)"
+  },
+  {
+   "id": "2026-05-30-imgburn",
+   "name": "ImgBurn",
+   "url": "https://www.imgburn.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "With the prices of storage still insanely high, I’m rediscovering burning files / photos onto CDs and DCDs using the ImgBurn software.",
+   "section": "crowdsourced",
+   "recommender": "Allen (reader)"
+  },
+  {
+   "id": "2026-05-30-obsession",
+   "name": "Obsession",
+   "url": "https://www.themoviedb.org/movie/1339713-obsession?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Thinking about seeing Obsession in a cinema again after being floored by it (complimentary) on first watch.",
+   "section": "crowdsourced",
+   "recommender": "Kev (reader)"
+  },
+  {
+   "id": "2026-05-30-huntdown-overtime",
+   "name": "Huntdown: Overtime",
+   "url": "https://store.steampowered.com/app/2473350/HUNTDOWN_OVERTIME/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I am currently obsessed with playing Huntdown: Overtime in early access on Steam. It’s an absolute blast. A retro themed, dystopian, Blade Runner -esque side scroller / shooter / platformer and it is SO addictive.",
+   "section": "crowdsourced",
+   "recommender": "Kent (reader)"
+  },
+  {
+   "id": "2026-05-30-oofos",
+   "name": "Oofos",
+   "url": "https://www.oofos.com/?_ab=0",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "With the death of Allbirds, I’ve been rocking Oofos tennis shoes, which are a fantastic recovery shoe for the beach, the office, and definitely after the long run at the end of the week.",
+   "section": "crowdsourced",
+   "recommender": "Jimmy (reader)"
+  },
+  {
+   "id": "2026-05-30-player-piano",
+   "name": "Player Piano",
+   "url": "https://www.penguinrandomhouse.com/books/184341/player-piano-by-kurt-vonnegut/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just finished Kurt Vonnegut’s debut novel from 1952, Player Piano , about a near-future dystopia where automation has displaced all labor and engineers and management live lives of luxury despite not actually doing anything. Nothing of relevance there!!",
+   "section": "crowdsourced",
+   "recommender": "Andy (reader)"
+  },
+  {
+   "id": "2026-05-30-kobo-clara-bw",
+   "name": "Kobo Clara BW",
+   "url": "https://us.kobobooks.com/products/kobo-clara-bw",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I bought a Kobo Clara BW in January in an effort to read more and scroll less. I’ve largely succeeded in that goal thus far, but I’d like to recommend the Red Rising book series by Pierce Brown. I’m on the third book, Morning Star , and it’s fantastic so far.",
+   "section": "crowdsourced",
+   "recommender": "James (reader)"
+  },
+  {
+   "id": "2026-05-30-red-rising",
+   "name": "Red Rising",
+   "url": "https://www.piercebrown.com/redrisingsaga",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I bought a Kobo Clara BW in January in an effort to read more and scroll less. I’ve largely succeeded in that goal thus far, but I’d like to recommend the Red Rising book series by Pierce Brown. I’m on the third book, Morning Star , and it’s fantastic so far.",
+   "section": "crowdsourced",
+   "recommender": "James (reader)"
+  },
+  {
+   "id": "2026-05-30-star-wars-the-mandalorian-and-grogu",
+   "name": "Star Wars: The Mandalorian and Grogu",
+   "url": "https://www.themoviedb.org/movie/1228710-the-mandalorian-and-grogu?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Watched Star Wars: The Mandalorian and Grogu movie yesterday. It could have just been two episodes in the show but it was good.",
+   "section": "crowdsourced",
+   "recommender": "Justin (reader)"
+  },
+  {
+   "id": "2026-05-30-extra",
+   "name": "Extra",
+   "url": "https://extra.email/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I downloaded Poppy but find it too verbose and sometimes incorrect. Some months ago I came across Extra , an AI-first app for emails and calendar. It’s finally out of Beta and I’m really liking it.",
+   "section": "crowdsourced",
+   "recommender": "Jay (reader)"
+  },
+  {
+   "id": "2026-05-30-spotifys-page-match",
+   "name": "Spotify’s Page Match",
+   "url": "https://authors.spotify.com/blog/page-match",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Spotify’s Page Match feature is my favorite new(ish) tech thing in forever. You use it by taking a picture of your book, on paper or on an e-reader, and Spotify figures out where you are in the book and immediately picks up the audiobook in the right spot.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

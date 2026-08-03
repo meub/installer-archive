@@ -1,0 +1,602 @@
+{
+ "schema": 1,
+ "date": "2024-04-21",
+ "post_type": "issue",
+ "title": "The game emulator your phone has been missing",
+ "url": "https://www.theverge.com/2024/4/21/24135953/delta-emulator-airchat-limitless-ai-nothing-eara-installer-newsletter",
+ "author": "David Pierce",
+ "number": 35,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "group-project",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:36+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-04-21-killing-eve",
+   "name": "Killing Eve",
+   "url": "https://www.themoviedb.org/tv/72750-killing-eve?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been rewatching Killing Eve now that it’s on Netflix, reading about Maggie Rogers and flying cars and the Today in Tabs newsletter , nodding along as MKBHD talks about gadget reviews , testing the Godspeed to-do list app, talking to everyone I know about the Papyrus 2 sketch …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-maggie-rogers",
+   "name": "Maggie Rogers",
+   "url": "https://www.newyorker.com/magazine/2024/04/15/maggie-rogers-profile?bxid=5be9d8763f92a40469e762a5&cndid=25744259&hasha=fdbd6b02c04f0b357b324f79e81b179b&hashb=9c40f1798ffee5d2b0ea4fbc40cf8eda67c2b9e8&hashc=dfe25122182d1fcf578f597cef8aca4b7b253f41969e8c585f26b5ff2ad1a7e1&esrc=&mbid=CRMNYR012019",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been rewatching Killing Eve now that it’s on Netflix, reading about Maggie Rogers and flying cars and the Today in Tabs newsletter , nodding along as MKBHD talks about gadget reviews , testing the Godspeed to-do list app, talking to everyone I know about the Papyrus 2 sketch …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-flying-cars",
+   "name": "flying cars",
+   "url": "https://www.newyorker.com/magazine/2024/04/22/are-flying-cars-finally-here",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been rewatching Killing Eve now that it’s on Netflix, reading about Maggie Rogers and flying cars and the Today in Tabs newsletter , nodding along as MKBHD talks about gadget reviews , testing the Godspeed to-do list app, talking to everyone I know about the Papyrus 2 sketch …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-the-today-in-tabs-newsletter",
+   "name": "the Today in Tabs newsletter",
+   "url": "https://www.nytimes.com/2024/04/17/style/today-in-tabs-rusty-foster-media-gossip-maine.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been rewatching Killing Eve now that it’s on Netflix, reading about Maggie Rogers and flying cars and the Today in Tabs newsletter , nodding along as MKBHD talks about gadget reviews , testing the Godspeed to-do list app, talking to everyone I know about the Papyrus 2 sketch …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-mkbhd-talks-about-gadget-reviews",
+   "name": "MKBHD talks about gadget reviews",
+   "url": "https://www.youtube.com/watch?v=QztFpzKsdeA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been rewatching Killing Eve now that it’s on Netflix, reading about Maggie Rogers and flying cars and the Today in Tabs newsletter , nodding along as MKBHD talks about gadget reviews , testing the Godspeed to-do list app, talking to everyone I know about the Papyrus 2 sketch …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-godspeed",
+   "name": "Godspeed",
+   "url": "https://godspeedapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been rewatching Killing Eve now that it’s on Netflix, reading about Maggie Rogers and flying cars and the Today in Tabs newsletter , nodding along as MKBHD talks about gadget reviews , testing the Godspeed to-do list app, talking to everyone I know about the Papyrus 2 sketch …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-papyrus-2-sketch",
+   "name": "Papyrus 2 sketch",
+   "url": "https://www.youtube.com/watch?v=Q8PdffUfoF0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been rewatching Killing Eve now that it’s on Netflix, reading about Maggie Rogers and flying cars and the Today in Tabs newsletter , nodding along as MKBHD talks about gadget reviews , testing the Godspeed to-do list app, talking to everyone I know about the Papyrus 2 sketch …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-the-tortured-poets-department",
+   "name": "The Tortured Poets Department",
+   "url": "https://taylor.lnk.to/TTPD-theanthology",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been rewatching Killing Eve now that it’s on Netflix, reading about Maggie Rogers and flying cars and the Today in Tabs newsletter , nodding along as MKBHD talks about gadget reviews , testing the Godspeed to-do list app, talking to everyone I know about the Papyrus 2 sketch …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-plaud",
+   "name": "Plaud",
+   "url": "https://www.plaud.ai/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been rewatching Killing Eve now that it’s on Netflix, reading about Maggie Rogers and flying cars and the Today in Tabs newsletter , nodding along as MKBHD talks about gadget reviews , testing the Godspeed to-do list app, talking to everyone I know about the Papyrus 2 sketch …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-delta",
+   "name": "Delta",
+   "url": "https://faq.deltaemulator.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This retro gaming emulator instantly earned a spot on my homescreen. Leaving aside the complicated legal questions about emulators and ROMs, this app is mature and polished and supports a huge number of old consoles.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-airchat",
+   "name": "Airchat",
+   "url": "https://www.air.chat/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I honestly don’t know how to feel about this app. Are voice-based social networks going to be a thing, or was Clubhouse just a strange pandemic-induced haze we were all in for a week? Lots of tech folks I know are into this one, though, so it’s at least worth keeping an eye on.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-limitless",
+   "name": "Limitless",
+   "url": "https://www.limitless.ai/",
+   "alt_urls": [
+    "https://www.theverge.com/2024/4/15/24130832/limitless-ai-pendant-wearable-meetings"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "A very different kind of AI gadget, this one. The “we’ll summarize your meetings” approach is… fine, but I think the vision here, to figure out how to record and give you access to your life, is pretty cool.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-the-insta360-x4",
+   "name": "The Insta360 X4",
+   "url": "https://www.insta360.com/product/insta360-x4",
+   "alt_urls": [
+    "https://www.theverge.com/24131495/insta360-x4-360-camera-8k"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Insta360 is doing some pretty nifty stuff in the action camera world. The $500 X4 does 8K footage at 30 frames per second, which goes a long way when you’re cropping and sharing videos later. It also has some ruggedness upgrades, which should help the more, uh, clumsy of us out there.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-soulver-3-for-iphone",
+   "name": "Soulver 3 for iPhone",
+   "url": "https://soulver.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Soulver is the coolest, smartest calculator you’ve ever seen, and at long (like, weirdly long) last, the latest version is on the iPhone. $14 is a lot for an app like this, but this one’s worth it just for converting recipes and splitting bills.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-the-nothing-ear-a",
+   "name": "The Nothing Ear (a)",
+   "url": "https://us.nothing.tech/products/ear-a",
+   "alt_urls": [
+    "https://www.theverge.com/2024/4/18/24133464/nothing-ear-a-specs-price-hands-on"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Nothing’s earbuds have gotten pretty good, and I am extremely into the yellow accents and case on its new low-end models. (Which cost $99 and appear to be just about as good as the more expensive ones.)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-maestro-for-amazon-music",
+   "name": "Maestro for Amazon Music",
+   "url": "https://www.aboutamazon.com/news/entertainment/amazon-music-maestro-ai-playlist-generator",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I love this as a use for AI: just telling your music services the kind of stuff you want to listen to. Get weird with your mood, or just type, like, “I like The 1975 and Van Morrison, play other bands” and see what happens.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-meta-ai",
+   "name": "Meta AI",
+   "url": "https://www.meta.ai/",
+   "alt_urls": [
+    "https://www.theverge.com/2024/4/18/24133808/meta-ai-assistant-llama-3-chatgpt-openai-rival"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Say this for Mark Zuckerberg and Co.: they are not going small with their AI plans. The new bot works across platforms (and on your smart glasses) and runs on the new Llama 3 model that Meta says rivals everything else on the market.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-podcastap",
+   "name": "PodcastAP",
+   "url": "https://podcastap.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A podcast app for the fediverse that can add new episodes to your timeline anywhere you are. It’s pretty basic right now, and Mastodon et al. need to work on being better podcast players, but this is a super cool idea.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-the-circle-season-6",
+   "name": "The Circle season 6",
+   "url": "https://www.themoviedb.org/tv/97083-the-circle-us?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This is one of Netflix’s more unhinged reality shows, which is saying something! And this season, there’s a twist: one of the characters is actually an AI bot named “Max.” It’s going to get so weird.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-chatgpt",
+   "name": "ChatGPT",
+   "url": "https://chat.openai.com/",
+   "alt_urls": [
+    "https://claude.ai/login?returnTo=/",
+    "https://gemini.google.com/",
+    "https://www.meta.ai/",
+    "https://poe.com/login"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Chatbots. I mean, duh. ChatGPT seems to be the overwhelming favorite, but I heard some love for Claude , too, and even a little Gemini hype. No love for Meta AI just yet, but that might change. Oh, and some definite votes for Poe as a way to use all the bots in one place.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-perplexity",
+   "name": "Perplexity",
+   "url": "https://www.perplexity.ai/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This one’s half chatbot, half search engine, and it’s probably the most popular thing I heard about this week. As a speedy way to get real-time answers to questions, it’s pretty great.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-arc",
+   "name": "Arc",
+   "url": "https://arc.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A bunch of you like Arc’s “browse for me” feature, which summarizes and curates websites for you. Lucky you, I think that feature is about to be in basically every browser everywhere.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-spacebar",
+   "name": "Spacebar",
+   "url": "https://spacebar.fm/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "An app that turns your IRL conversations into “memos,” with recaps and info about everything you talked about. Would it be weird to pull this out at dinner with friends? Maybe! But I heard some good things, and I’m intrigued.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-summarize-stuff",
+   "name": "Summarize stuff",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This appears to be your go-to use case for AI, and it’s definitely mine, too. What was the gist of that long article you read and already kind of forgot? What’s this true crime doc about?",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-planning-things",
+   "name": "Planning things",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My other favorite use case: just ask the bot what people like to do wherever you’re going and start your itinerary from there. I loved the email I got from Jeff, who used ChatGPT to summarize a bunch of people’s ideas about where to go in Europe and got a travel itinerary out of it.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-test-your-knowledge",
+   "name": "Test your knowledge",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is sort of related to the last one, but I heard from a few folks who said they’ll upload a doc to ChatGPT or Gemini and then have the bot quiz them on its contents. A fun study tool!",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-check-your-writing",
+   "name": "Check your writing",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Lots and lots of grammar checkers out there, it seems. I heard from folks using AI tools to gut check ideas, check for errors, and just make sure all the sentences make sense.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-make-your-own-art",
+   "name": "Make your own art",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Whether you’re making playlists, decorating Notion pages, or sketching character ideas for your novel, I heard from folks who love having an endless fountain of new art at their disposal.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-im-currently-using-an-iphone-15-pro-in-natural-t",
+   "name": "I’m currently using an iPhone 15 Pro in natural titanium",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: I’m currently using an iPhone 15 Pro in natural titanium. It’s easily my favorite iPhone since the X. Though I barely use the Action Button, the much lighter frame and USB-C have been game-changers.",
+   "section": "screen-share",
+   "recommender": "Parker"
+  },
+  {
+   "id": "2024-04-21-dark-knit-background",
+   "name": "dark knit background",
+   "url": "https://x.com/UseClear/status/1772305227653226619",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: On the homescreen, I am using a dark knit background shared by the folks over at Impending who make the excellent Clear to-do list app, which is also my task manager of choice.",
+   "section": "screen-share",
+   "recommender": "Parker"
+  },
+  {
+   "id": "2024-04-21-clear",
+   "name": "Clear",
+   "url": "https://www.useclear.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: On the homescreen, I am using a dark knit background shared by the folks over at Impending who make the excellent Clear to-do list app, which is also my task manager of choice.",
+   "section": "screen-share",
+   "recommender": "Parker"
+  },
+  {
+   "id": "2024-04-21-huggingchat",
+   "name": "HuggingChat",
+   "url": "https://huggingface.co/chat/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If you’re into LLMs, you’re probably aware of Hugging Face. The team recently released their first native mobile app, HuggingChat , that lets you use the open-source models that they host like Llama 3 and Gemma. The app is really nicely designed and a good change of pace from ChatGPT or Poe.",
+   "section": "screen-share",
+   "recommender": "Parker"
+  },
+  {
+   "id": "2024-04-21-snoopy-edition-moonswatch",
+   "name": "Snoopy edition MoonSwatch",
+   "url": "https://www.swatch.com/en-us/bioceramic-moonswatch/mission-to-the-moonphase/full-moon.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If you’re into LLMs, you’re probably aware of Hugging Face. The team recently released their first native mobile app, HuggingChat , that lets you use the open-source models that they host like Llama 3 and Gemma. The app is really nicely designed and a good change of pace from ChatGPT or Poe.",
+   "section": "screen-share",
+   "recommender": "Parker"
+  },
+  {
+   "id": "2024-04-21-satechi-magnetic-wallet",
+   "name": "Satechi Magnetic Wallet",
+   "url": "https://satechi.net/products/vegan-leather-magnetic-wallet-stand",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If you’re into LLMs, you’re probably aware of Hugging Face. The team recently released their first native mobile app, HuggingChat , that lets you use the open-source models that they host like Llama 3 and Gemma. The app is really nicely designed and a good change of pace from ChatGPT or Poe.",
+   "section": "screen-share",
+   "recommender": "Parker"
+  },
+  {
+   "id": "2024-04-21-delicious-in-dungeon",
+   "name": "Delicious in Dungeon",
+   "url": "https://www.themoviedb.org/tv/207784",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’ve been watching Delicious in Dungeon on Netflix, and I’m super loving it! Also been playing Helldivers 2 and the new Destiny 2 stuff and poking at a bunch of iPhone 15 reviews to see if I should get that over a 13 now that my 2020 SE has a basically defunct battery and I’ve never actually had a…",
+   "section": "crowdsourced",
+   "recommender": "Tyler (reader)"
+  },
+  {
+   "id": "2024-04-21-helldivers-2",
+   "name": "Helldivers 2",
+   "url": "https://www.playstation.com/en-us/games/helldivers-2/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I’ve been watching Delicious in Dungeon on Netflix, and I’m super loving it! Also been playing Helldivers 2 and the new Destiny 2 stuff and poking at a bunch of iPhone 15 reviews to see if I should get that over a 13 now that my 2020 SE has a basically defunct battery and I’ve never actually had a…",
+   "section": "crowdsourced",
+   "recommender": "Tyler (reader)"
+  },
+  {
+   "id": "2024-04-21-destiny-2",
+   "name": "Destiny 2",
+   "url": "https://www.bungie.net/7/en/destiny",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been watching Delicious in Dungeon on Netflix, and I’m super loving it! Also been playing Helldivers 2 and the new Destiny 2 stuff and poking at a bunch of iPhone 15 reviews to see if I should get that over a 13 now that my 2020 SE has a basically defunct battery and I’ve never actually had a…",
+   "section": "crowdsourced",
+   "recommender": "Tyler (reader)"
+  },
+  {
+   "id": "2024-04-21-the-lonely-island-and-seth-meyers-podcast",
+   "name": "The Lonely Island and Seth Meyers Podcast",
+   "url": "https://the-lonely-island-and-seth-meyers-podcast-7a1ee071.simplecast.com/episodes/the-lonely-island-beginnings",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been really enjoying the new podcast from Seth Meyers and The Lonely Island. As well as being deeply silly, it’s a fascinating look behind the scenes of SNL at what went into making the legendary SNL Digital Shorts. It’s inventively called The Lonely Island and Seth Meyers Podcast .",
+   "section": "crowdsourced",
+   "recommender": "Jonathan (reader)"
+  },
+  {
+   "id": "2024-04-21-lunch-money",
+   "name": "Lunch Money",
+   "url": "https://lunchmoney.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recommend that you check out Lunch Money . I’ve been using this solopreneur-built app to organize my finances for the past couple of years. It’s been wonderful to use and has taught me financial discipline. It’s one of the few subscriptions that I’m happy to pay for.",
+   "section": "crowdsourced",
+   "recommender": "Akshobhya (reader)"
+  },
+  {
+   "id": "2024-04-21-footage-here",
+   "name": "Footage here",
+   "url": "https://www.youtube.com/watch?v=vrmPoMfjMj8&t=104s",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Recently played around with augmented reality to put together a mixed-space painting session. It was really fun. Footage here for anyone curious about it.",
+   "section": "crowdsourced",
+   "recommender": "K (reader)"
+  },
+  {
+   "id": "2024-04-21-the-besties",
+   "name": "The Besties",
+   "url": "https://the-besties.simplecast.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "On the recommendation of my fav gaming podcast, The Besties , I’ve been playing Slice & Dice for iOS — it’s an RPG battler where all attacks, both yours and your enemies’, are determined by actual dice rolling around a virtual dice tray, and instead of leveling up to get better weapons, you get…",
+   "section": "crowdsourced",
+   "recommender": "Nick (reader)"
+  },
+  {
+   "id": "2024-04-21-slice-dice",
+   "name": "Slice & Dice",
+   "url": "https://tann.fun/games/dice/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "On the recommendation of my fav gaming podcast, The Besties , I’ve been playing Slice & Dice for iOS — it’s an RPG battler where all attacks, both yours and your enemies’, are determined by actual dice rolling around a virtual dice tray, and instead of leveling up to get better weapons, you get…",
+   "section": "crowdsourced",
+   "recommender": "Nick (reader)"
+  },
+  {
+   "id": "2024-04-21-cropsize",
+   "name": "CropSize",
+   "url": "https://www.cropsize.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I wanted to share the app CropSize for iOS. I find myself taking multiple screenshots on social media (usually memes) and find it super cumbersome to have to crop every tweet or Instagram post so my friends don’t see the entirety of my feed.",
+   "section": "crowdsourced",
+   "recommender": "Keyser (reader)"
+  },
+  {
+   "id": "2024-04-21-the-latest-video",
+   "name": "the latest video",
+   "url": "https://www.youtube.com/watch?v=BkK_I67-vLs",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Just finished the latest video from MKBHD’s “The Studio,” where Mariah [Zenk] talks about the future of food automation tech.",
+   "section": "crowdsourced",
+   "recommender": "Josh (reader)"
+  },
+  {
+   "id": "2024-04-21-antennapod",
+   "name": "AntennaPod",
+   "url": "https://antennapod.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I changed podcast providers to AntennaPod from Pocket Casts, just got sick of the upselling and paywalls in the app. Weird to think I’d rather have an app that was less feature-rich than one that offered the extras for a subscription fee. Also it’s a very good app and I’m happy I made the change.",
+   "section": "crowdsourced",
+   "recommender": "Benjamin (reader)"
+  },
+  {
+   "id": "2024-04-21-fallout-show",
+   "name": "Fallout show",
+   "url": "https://www.themoviedb.org/tv/106379-fallout",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "​​The Fallout show got me hooked to head back into the Wasteland again... Gone back to my favorite, Fallout 3 .",
+   "section": "crowdsourced",
+   "recommender": "Max (reader)"
+  },
+  {
+   "id": "2024-04-21-fallout-3",
+   "name": "Fallout 3",
+   "url": "https://fallout.bethesda.net/en/games/fallout-3",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "​​The Fallout show got me hooked to head back into the Wasteland again... Gone back to my favorite, Fallout 3 .",
+   "section": "crowdsourced",
+   "recommender": "Max (reader)"
+  },
+  {
+   "id": "2024-04-21-mistborn",
+   "name": "Mistborn",
+   "url": "https://www.brandonsanderson.com/the-mistborn-saga-the-original-trilogy/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Reading Mistborn by Brandon Sanderson, setting up my first NAS, and hoping that the weather cooperates for me to go play Disc Golf this weekend.",
+   "section": "crowdsourced",
+   "recommender": "Dylan (reader)"
+  },
+  {
+   "id": "2024-04-21-the-new-brannboll-collection",
+   "name": "the new Brännboll collection",
+   "url": "https://www.ikea.com/global/en/newsroom/innovation/retail/brannboll-launch-240415/",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "My house is full of Ikea furniture. Shelves, beds, tables, chairs, you name it, it’s mostly Ikea. (It was a big moment in my adult life when we graduated from “the cheap Ikea stuff” to “the fancy Ikea stuff,” and if you shop at Ikea, you know what I mean.)",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-21-that-rolling-pegboard-cart-thing",
+   "name": "that rolling pegboard cart thing",
+   "url": "https://www.ikea.com/global/en/newsroom/innovation/retail/brannboll-launch-240415/?assetId=0-11",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "My house is full of Ikea furniture. Shelves, beds, tables, chairs, you name it, it’s mostly Ikea. (It was a big moment in my adult life when we graduated from “the cheap Ikea stuff” to “the fancy Ikea stuff,” and if you shop at Ikea, you know what I mean.)",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+# python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# scraped page cache (re-fetchable; bodies/ and issues/ ARE committed)
+data/raw/
+
+# build output
+site/data/
+
+# parser re-runs against curated files
+*.proposed.json
+
+.DS_Store

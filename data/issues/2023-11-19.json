@@ -1,0 +1,463 @@
+{
+ "schema": 1,
+ "date": "2023-11-19",
+ "post_type": "issue",
+ "title": "The silly word game you didn’t know you needed",
+ "url": "https://www.theverge.com/2023/11/19/23965623/gift-guides-gubbins-microsoft-loop-tadpole-webcam-installer-newsletter",
+ "author": "David Pierce",
+ "number": 15,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "deep-dive",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:35+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2023-11-19-andre-3000-talk-about-life-after-hey-ya",
+   "name": "André 3000 talk about life after “Hey Ya,”",
+   "url": "https://www.youtube.com/watch?v=lDGmSCXoSRs",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been watching André 3000 talk about life after “Hey Ya,” reading this fun profile of Marques Brownlee and this wild story about the Mirai hackers , finally conquering all 48 Mario Kart 8 courses , watching unhinged Phil Collins music videos on repeat, and trying to find the silliest…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-19-this-fun-profile-of-marques-brownlee",
+   "name": "this fun profile of Marques Brownlee",
+   "url": "https://www.fastcompany.com/90978935/marques-brownlee-mkbhd-youtube-tech-review",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching André 3000 talk about life after “Hey Ya,” reading this fun profile of Marques Brownlee and this wild story about the Mirai hackers , finally conquering all 48 Mario Kart 8 courses , watching unhinged Phil Collins music videos on repeat, and trying to find the silliest…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-19-this-wild-story-about-the-mirai-hackers",
+   "name": "this wild story about the Mirai hackers",
+   "url": "https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching André 3000 talk about life after “Hey Ya,” reading this fun profile of Marques Brownlee and this wild story about the Mirai hackers , finally conquering all 48 Mario Kart 8 courses , watching unhinged Phil Collins music videos on repeat, and trying to find the silliest…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-19-all-48-mario-kart-8-courses",
+   "name": "all 48 Mario Kart 8 courses",
+   "url": "https://mariokart8.nintendo.com/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "This week, I’ve been watching André 3000 talk about life after “Hey Ya,” reading this fun profile of Marques Brownlee and this wild story about the Mirai hackers , finally conquering all 48 Mario Kart 8 courses , watching unhinged Phil Collins music videos on repeat, and trying to find the silliest…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-19-unhinged-phil-collins-music-videos",
+   "name": "unhinged Phil Collins music videos",
+   "url": "https://www.youtube.com/watch?v=CKrGj73OsAY",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been watching André 3000 talk about life after “Hey Ya,” reading this fun profile of Marques Brownlee and this wild story about the Mirai hackers , finally conquering all 48 Mario Kart 8 courses , watching unhinged Phil Collins music videos on repeat, and trying to find the silliest…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-19-add-a-walrus",
+   "name": "Add a walrus",
+   "url": "https://simonwillison.net/2023/Nov/15/gpts/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching André 3000 talk about life after “Hey Ya,” reading this fun profile of Marques Brownlee and this wild story about the Mirai hackers , finally conquering all 48 Mario Kart 8 courses , watching unhinged Phil Collins music videos on repeat, and trying to find the silliest…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-19-fill-out-the-survey",
+   "name": "fill out the survey",
+   "url": "https://voxmedia.iad1.qualtrics.com/jfe/form/SV_6u198y5wUE9lbpQ?External=news",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I also have for you a new webcam, a new word game, a new show about monsters, a new iMessage hack, and a whole bunch more. Oh, and a favor to ask: we’re doing a survey on how people use The Verge and what you might want from a “ Verge subscription.”",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-19-gubbins",
+   "name": "Gubbins",
+   "url": "https://linktr.ee/folly_studio",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Imagine Scrabble, except you’re trying to build the whole board in one turn, and there are a bunch of trumpets trying to help you and monsters trying to stop you. It’s pure word-game chaos, and I love it so far.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-19-microsoft-loop",
+   "name": "Microsoft Loop",
+   "url": "https://www.microsoft.com/en-us/microsoft-loop",
+   "alt_urls": [
+    "https://www.theverge.com/2023/11/15/23959801/microsoft-loop-launch-notion-competitor"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s a collaborative, customizable productivity… you know what, it’s Notion. Microsoft made Notion. And after months in beta, it’s now available to everyone ! It’s a nice app, though Notion’s much better, and I officially don’t understand why Loop, Planner, and OneNote all need to exist.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-19-the-opal-tadpole",
+   "name": "The Opal Tadpole",
+   "url": "https://shareasale.com/r.cfm?b=2485661&u=1225169&m=150522&urllink=https%3A%2F%2Fopalcamera.com%2Fopal-tadpole",
+   "alt_urls": [
+    "https://www.theverge.com/23959171/opal-tadpole-webcam-laptops"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Opal’s first webcam, the C1, looked really good and didn’t work very well. (I think I even underestimated the issues some people have had with it.) But the Tadpole, which is explicitly made to clip to your laptop, both looks good and works well . It’s now a staple in my travel bag.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-19-cobell-energy",
+   "name": "“Cobell Energy.”",
+   "url": "https://www.tiktok.com/@cobellenergy",
+   "alt_urls": [
+    "https://www.wired.com/story/tiktok-new-show-tv-takeover/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Adam McKay’s production company made an entire relatively high-production show that exists only on social platforms, a few minutes at a time. There’s a whole What It All Means thing here that is truly fascinating, but the show is so weird! And also funny!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-19-google-notes",
+   "name": "Google Notes",
+   "url": "https://blog.google/products/search/notes-google-search-labs-experiment/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Google’s plan for search is weirdly bifurcated: it’s both trying to replace the whole internet with generative AI and also trying to help you find more human voices and human content.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-19-the-netflix-cup",
+   "name": "The Netflix Cup",
+   "url": "https://www.netflix.com/title/81714369",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "I’m honestly not sure I’d recommend watching this entire thing, which felt like a livestreamed golf tournament created by people who had never heard the words “golf” or “tournament” before.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-19-nothing-chats",
+   "name": "Nothing Chats",
+   "url": "https://us.nothing.tech/pages/nothing-chats",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "We’re in the middle of a truly fascinating trend: companies figuring out how to hack iMessage onto other platforms in increasingly brazen ways. Beeper did it; Texts did it; now, Nothing is doing it for the Phone 2 and basically daring Apple to stop it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-19-rooms",
+   "name": "Rooms",
+   "url": "https://rooms.xyz/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Remember a couple of years ago when everyone was suddenly trying to build interesting digital spaces for people to hang out? I wish they were all like Rooms: a super customizable, really charming tool for creating almost any kind of space. This is my kind of metaverse.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-19-monarch-legacy-of-monsters",
+   "name": "Monarch: Legacy of Monsters",
+   "url": "https://tv.apple.com/show/monarch-legacy-of-monsters/umc.cmc.62l8x0ixrhyq3yaqa5y8yo7ew?itsct=tv_box_link&itscg=30200&at=1001l7uV&ct=VergeInstaller111723",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=JLHsM4bpfxY"
+   ],
+   "category": "media",
+   "tags": [],
+   "blurb": "The premise of this Apple TV Plus show — half Godzilla-style caper, half history-of-monster-movies Wikipedia page — is only ever going to be great or terrible. But so far, the reviews lean great. And I mean, the trailer alone made clear that I’m going to watch this whole thing no matter what.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-19-start-with-the-verge-sorry-sorry-some-ruthless-s",
+   "name": "Start with The Verge ! Sorry, sorry, some ruthless self-promotion here to start",
+   "url": null,
+   "alt_urls": [
+    "https://www.theverge.com/23939057/holiday-gift-guide-2023-best-ideas-unique-tech-gadgets",
+    "https://www.theverge.com/23958480/digital-gift-ideas-2023-last-minute-subscriptions-unique-memberships-boxes",
+    "https://www.theverge.com/23952179/tech-gifts-under-50-best-cheap-ideas-2023-budget",
+    "https://www.theverge.com/23947139/holiday-gifts-dad-unique-ideas-2023-tech-gadgets",
+    "https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "But we work really hard on deal roundups and gift guides, so be sure and check ’em all out . I particularly like our digital gift guide , our under-$50 guide , and (my personal fave this year) the For Dads guide .",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-19-gear-patrol-also-does-a-good-job",
+   "name": "Gear Patrol also does a good job",
+   "url": "https://www.gearpatrol.com/buying-guides/",
+   "alt_urls": [
+    "https://www.nytimes.com/wirecutter/gifts/adults/",
+    "https://www.eater.com/gift-guides",
+    "https://www.buzzfeed.com/giftguide"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Only trust obviously human-made guides. If you see a guide that’s mostly populated by quotes from Amazon reviews, written by ChatGPT, or pulled from product listings, run the other way. A better way to start is by going to websites you already trust.",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-19-a-thing-or-two",
+   "name": "A Thing or Two",
+   "url": "https://www.athingortwohq.com/newsletter",
+   "alt_urls": [
+    "https://www.athingortwohq.com/membership-content",
+    "https://www.swiss-miss.com/gift_guide_generic"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "You can always deal-shop old recommendations. A Thing or Two is one of my favorite sources of product recommendations, and their Secret Menu archive is just a long list of cool stuff to buy.",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-19-you-have-to-comparison-shop-yourself",
+   "name": "You have to comparison shop yourself",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "All the price-comparison tools out there suck and are compromised in one way or another. Even the prices that show up in search previews often aren’t the real price! This is the most manual and annoying part of the process, but there’s really no shortcut.",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-19-camelcamelcamel",
+   "name": "Camelcamelcamel",
+   "url": "https://camelcamelcamel.com/",
+   "alt_urls": [
+    "https://camelcamelcamel.com/camelizer"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Sales prices are lies — you’d be amazed how often they’re like, “20% off!” except it has never once actually cost that full price. Camelcamelcamel is a price tracker for Amazon, and it’ll show you whether the thing you’re about to buy might actually be cheaper some other time.",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-19-honey",
+   "name": "Honey",
+   "url": "https://www.joinhoney.com/",
+   "alt_urls": [
+    "https://capitaloneshopping.com/instant"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve spent a lot of time Googling, like, “Bose coupon codes” and then trying 100 coupon codes that never work. At least in my experience, this is a total waste of time. The Honey browser extension automates the coupon hunting, so if there is a deal out there, it’ll find it for you.",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-19-fakespot",
+   "name": "Fakespot",
+   "url": "https://www.fakespot.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "You really can’t trust most online product reviews anymore, you know? There are the obviously paid-for ones, the obviously AI ones, and then just a stream of less obvious but equally sketchy reviews on everything everywhere.",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-19-iphone-12-pro-graphite-128gb-which-is-too-small",
+   "name": "iPhone 12 Pro, graphite, 128GB (which is too small), and bought used, which is i",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 12 Pro, graphite, 128GB (which is too small), and bought used, which is important because we should all buy more used tech!",
+   "section": "screen-share",
+   "recommender": "Becca"
+  },
+  {
+   "id": "2023-11-19-goodwillfinds",
+   "name": "GoodwillFinds",
+   "url": "https://www.goodwillfinds.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m very into climbing all of the peaks above 3,500 feet in the Catskill Mountains. Like, I’m really into it, David. When I’m not traveling or working or traveling for work, I am hiking up these things alone thinking, “I really hope I don’t see a snake” over and over again.",
+   "section": "screen-share",
+   "recommender": "Becca"
+  },
+  {
+   "id": "2023-11-19-ebay",
+   "name": "eBay",
+   "url": "https://www.ebay.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m very into climbing all of the peaks above 3,500 feet in the Catskill Mountains. Like, I’m really into it, David. When I’m not traveling or working or traveling for work, I am hiking up these things alone thinking, “I really hope I don’t see a snake” over and over again.",
+   "section": "screen-share",
+   "recommender": "Becca"
+  },
+  {
+   "id": "2023-11-19-the-big-dig",
+   "name": "The Big Dig",
+   "url": "https://www.wgbh.org/podcasts/the-big-dig",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Big Dig ! Some of the best reporting and narrative nonfiction audio I’ve heard in a long time. I’m rationing the episodes so I can savor each one.",
+   "section": "crowdsourced",
+   "recommender": "Christine (reader)"
+  },
+  {
+   "id": "2023-11-19-shortsheets",
+   "name": "ShortSheets",
+   "url": "https://apps.apple.com/us/app/shortsheets/id1475283333",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "ShortSheets . It’s an iOS app for using Siri Shortcuts to interact with Google Sheets. I thought to share it when Installer mentioned tracking finances in Google Sheets, as it’s how I track finances.",
+   "section": "crowdsourced",
+   "recommender": "Brad (reader)"
+  },
+  {
+   "id": "2023-11-19-elfster",
+   "name": "Elfster",
+   "url": "https://www.elfster.com/actions/redirect/?redirecturl=/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve really been loving this app, Elfster , to manage my family’s and work’s gift exchanges. It’s clean and easy to use!",
+   "section": "crowdsourced",
+   "recommender": "John (reader)"
+  },
+  {
+   "id": "2023-11-19-apex-legends",
+   "name": "Apex Legends",
+   "url": "https://www.ea.com/games/apex-legends",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve really been enjoying Apex Legends ’ new limited-time mode: Three Strikes. It’s like Warzone ’s Resurgence mode, where you get 3x lives, redeploying with all your loot and weapons. It’s a high-octane (pun intended), hectic, lovely mess. Super refreshing.",
+   "section": "crowdsourced",
+   "recommender": "Sentinelite (reader)"
+  },
+  {
+   "id": "2023-11-19-super-woden-gp-2",
+   "name": "Super Woden GP 2",
+   "url": "https://store.steampowered.com/app/2083210/Super_Woden_GP_2/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Super Woden GP 2 . This game is flying under the radar right now. Amazing soundtrack, fun gameplay, lots of tracks and cars, great for Steam Deck or other portable PCs as well. Did I mention the soundtrack? Because it smacks.",
+   "section": "crowdsourced",
+   "recommender": "Alan (reader)"
+  },
+  {
+   "id": "2023-11-19-highball",
+   "name": "Highball",
+   "url": "https://www.studioneat.com/products/highball",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "For people who are into bartending, I cannot recommend Highball enough — it might be somewhat old, but the design is gorgeous, and it is great to keep track of all your favorite drinks.",
+   "section": "crowdsourced",
+   "recommender": "Evgeny (reader)"
+  },
+  {
+   "id": "2023-11-19-a-murder-at-the-end-of-the-world",
+   "name": "A Murder at the End of the World",
+   "url": "https://www.themoviedb.org/tv/134095-a-murder-at-the-end-of-the-world",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "A Murder at the End of the World on Hulu / FX. Fun, dark mystery from the OA team that blends vibes of [David] Fincher’s Dragon Tattoo and the remote unhinged tech billionaire vibes of Glass Onion with a side helping of AI, smart homes, wearable tech, and Reddit true-crime sleuthing weirdos.",
+   "section": "crowdsourced",
+   "recommender": "Wheat (reader)"
+  },
+  {
+   "id": "2023-11-19-system-collapse",
+   "name": "System Collapse",
+   "url": "https://www.marthawells.com/murderbot7.htm",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The latest in The Murderbot Diaries series of (mostly) novellas is out this week: System Collapse . While I just started today, I will probably finish by the time you publish. The entire series is hilarious, entertaining, and all-around fantastic!",
+   "section": "crowdsourced",
+   "recommender": "Jason (reader)"
+  },
+  {
+   "id": "2023-11-19-serial-reader",
+   "name": "Serial Reader",
+   "url": "https://www.serialreader.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If it’s an older classic book, I’m reading it in Serial Reader . The app splits up books into small chunks and sends you a new one each day. Each day’s section is pretty short, like 10–20 minutes, which is perfect for me to sneak in some reading over breakfast before work.",
+   "section": "crowdsourced",
+   "recommender": "I’m starting Middlemarch next.” – Jay (reader)"
+  },
+  {
+   "id": "2023-11-19-halo-infinite",
+   "name": "Halo Infinite",
+   "url": "https://www.halowaypoint.com/halo-infinite",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Halo Infinite brought back a classic playlist of Halo 3 maps from 2007, and it’s giving me life.",
+   "section": "crowdsourced",
+   "recommender": "Jason (reader)"
+  },
+  {
+   "id": "2023-11-19-this-blog-post-from-signal",
+   "name": "this blog post from Signal",
+   "url": "https://signal.org/blog/signal-is-expensive/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "One weird thing about the internet (and I guess any ecosystem or industry, really) is that there’s so much more going on at all times than you might think. When you type in a URL and hit Go, so much happens! And you never have to think about it!",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

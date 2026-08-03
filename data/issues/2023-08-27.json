@@ -1,0 +1,416 @@
+{
+ "schema": 1,
+ "date": "2023-08-27",
+ "post_type": "issue",
+ "title": "Threads for web, AI for bookmarks, and the best new car tech",
+ "url": "https://www.theverge.com/23845815/threads-web-fabric-car-tech-installer-newsletter",
+ "author": "David Pierce",
+ "number": 3,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "pro-tips",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:37+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2023-08-27-only-murders-in-the-building",
+   "name": "Only Murders in the Building",
+   "url": "https://click.linksynergy.com/fs-bin/click?id=nOD/rLJHOac&offerid=852731.856&type=3&subid=0",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching season 3 of Only Murders in the Building , poring over those huge New Yorker profiles of David Zaslav and Elon Musk , testing the new Google NotebookLM note-taking app, horrifying myself by training a Voicify.AI model with my singing voice, redesigning all my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-08-27-david-zaslav",
+   "name": "David Zaslav",
+   "url": "https://www.newyorker.com/news/annals-of-communications/can-david-zaslav-make-it-in-hollywood",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching season 3 of Only Murders in the Building , poring over those huge New Yorker profiles of David Zaslav and Elon Musk , testing the new Google NotebookLM note-taking app, horrifying myself by training a Voicify.AI model with my singing voice, redesigning all my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-08-27-elon-musk",
+   "name": "Elon Musk",
+   "url": "https://www.newyorker.com/magazine/2023/08/28/elon-musks-shadow-rule",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching season 3 of Only Murders in the Building , poring over those huge New Yorker profiles of David Zaslav and Elon Musk , testing the new Google NotebookLM note-taking app, horrifying myself by training a Voicify.AI model with my singing voice, redesigning all my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-08-27-google-notebooklm",
+   "name": "Google NotebookLM",
+   "url": "https://notebooklm.google.com",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching season 3 of Only Murders in the Building , poring over those huge New Yorker profiles of David Zaslav and Elon Musk , testing the new Google NotebookLM note-taking app, horrifying myself by training a Voicify.AI model with my singing voice, redesigning all my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-08-27-a-voicify-ai-model",
+   "name": "a Voicify.AI model",
+   "url": "https://www.voicify.ai/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching season 3 of Only Murders in the Building , poring over those huge New Yorker profiles of David Zaslav and Elon Musk , testing the new Google NotebookLM note-taking app, horrifying myself by training a Voicify.AI model with my singing voice, redesigning all my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-08-27-these-ruffsnap-icons",
+   "name": "these Ruffsnap icons",
+   "url": "https://ruffsnap.com/icons/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching season 3 of Only Murders in the Building , poring over those huge New Yorker profiles of David Zaslav and Elon Musk , testing the new Google NotebookLM note-taking app, horrifying myself by training a Voicify.AI model with my singing voice, redesigning all my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-08-27-the-earliest-show",
+   "name": "The Earliest Show",
+   "url": "https://www.youtube.com/watch?v=LY1ZaFdVWi4&list=PLRcB4n4CGcy_Vhk2IL5zsV-l7s-GSICpp",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been watching season 3 of Only Murders in the Building , poring over those huge New Yorker profiles of David Zaslav and Elon Musk , testing the new Google NotebookLM note-taking app, horrifying myself by training a Voicify.AI model with my singing voice, redesigning all my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-08-27-first-five-people-to-click-the-link",
+   "name": "first five people to click the link",
+   "url": "http://refer.beeper.com/T3EtSA",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Oh, and before I forget: I just got five invites to the all-in-one messaging app Beeper, which I love, so the first five people to click the link can have at it.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-08-27-fabric",
+   "name": "Fabric",
+   "url": "https://fabric.so/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been keeping an eye on this AI bookmarking / highlighting / stuff-saving app for a while, and this week was its big public debut. (The website says there’s still a waitlist, but I was able to log right in.)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-08-27-telemarketers",
+   "name": "Telemarketers",
+   "url": "https://www.hbo.com/telemarketers",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s not exactly shocking that a sketchy call center might have some sketchy stuff going on, but this Max miniseries is still pretty eye-opening about how it all works. Plus, there’s a good story in here about why Congress can’t figure out what to do about these scams.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-08-27-threads-for-web",
+   "name": "Threads for web",
+   "url": "https://www.threads.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It took a few days, but I think the Threads web app is actually available for everybody, finally. I only had to try it like 150 times. The app’s not exactly full-featured, but at least you can post from a computer now!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-08-27-new-car-technology-we-really-love-with-doug-demu",
+   "name": "“New Car Technology We Really Love,” with Doug DeMuro and Alanis King",
+   "url": "https://www.youtube.com/watch?v=_AXKPrw2efw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "If you ever listen to The Vergecast , you know we have… feelings about car infotainment systems. This is a really fun, really helpful breeze through those and a lot of other in-car tech, from cool Lexus mirrors to Kia’s truly genius blind spot camera. Still hate most of the UIs, though.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-08-27-ahsoka",
+   "name": "Ahsoka",
+   "url": "https://disneyplus.bn5x.net/c/482924/564546/9358?u=https%3A%2F%2Fwww.disneyplus.com%2Fseries%2Fahsoka%2Fpdpjs2TO4zJ4&subid1=Verge&subid2=Installer&subid3=082523",
+   "alt_urls": [
+    "https://www.theverge.com/23839946/ahsoka-star-wars-review-disney-plus"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I confess I am deeply tired of mediocre Star Wars stuff, to the point where I didn’t even bother with Obi-Wan Kenobi or The Book of Boba Fett. Ahsoka doesn’t seem to break the formula entirely, but by all accounts is mysterious and exciting and fun . I’m gonna give it a shot this weekend.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-08-27-404-media",
+   "name": "404 Media",
+   "url": "https://www.404media.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A bunch of former Motherboard reporters started their own thing, and it’s an instant subscribe if you like wild stories about hackers, surveillance, AI, and what it means to be a person online in 2023.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-08-27-partiful-for-ios",
+   "name": "Partiful for iOS",
+   "url": "https://apps.apple.com/us/app/partiful/id1662982304",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "It remains a mystery to me how Partiful turned “a page for planning a party” into, like, a super-rad lifestyle product, but here we are! Now, the app’s out on iOS, and honestly, I’m in favor of anything that means fewer plans via email and Facebook pages.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-08-27-the-corsair-platform-6-desk",
+   "name": "The Corsair Platform:6 desk",
+   "url": "https://www.corsair.com/de/en/s/platform6?clickid=VHRV:DXqxxyNWIKUvpS3:2BGUkF3af2dRUnT2c0",
+   "alt_urls": [
+    "https://www.theverge.com/2023/8/23/23842681/corsair-platform-6-gaming-desk-height-adjust-cable-management-release-date-monitor-arm"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This desk is like if you took the entirety of r/battlestations, fed it into an image-generating AI, and then asked it to design you the most gamer-y, streamer-y desk on the planet . And I kind of mean that as a compliment! No idea what this thing is going to cost, but I do love a good pegboard.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-08-27-backflip",
+   "name": "Backflip",
+   "url": "https://www.nytimes.com/video/opinion/100000008901281/backflip.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is a weird, mesmerizing mini-documentary about a man teaching his avatar to do the backflip he’s too nervous to do in real life. It’s funny, and I learned a lot! I also really like the idea that “machine learning” is just “practice.”",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-08-27-clear",
+   "name": "Clear",
+   "url": "https://www.useclear.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Way back when, Clear was my favorite to-do list app for the iPhone. Maybe my favorite app, period. It had such a fun design, used gestures in really clever ways, and made making and checking off lists fun.",
+   "section": "pro-tips",
+   "recommender": null
+  },
+  {
+   "id": "2023-08-27-heres-a-clear-testflight-link",
+   "name": "here’s a Clear TestFlight link",
+   "url": "https://testflight.apple.com/join/UCekyvXH",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "beta"
+   ],
+   "blurb": "If you want in the beta, by the way, here’s a Clear TestFlight link . Tell ’em I sent ya.",
+   "section": "pro-tips",
+   "recommender": null
+  },
+  {
+   "id": "2023-08-27-heads-up",
+   "name": "Heads Up!",
+   "url": "https://www.warnerbros.com/games-and-apps/heads",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Anyway, I asked Phill Ryu, one of the brains behind Clear (and other apps like Heads Up! ), to give us some tips both on how to use Clear and how to make better lists in general. Here’s what he sent back:",
+   "section": "pro-tips",
+   "recommender": null
+  },
+  {
+   "id": "2023-08-27-samsung-galaxy-z-fold-5",
+   "name": "Samsung Galaxy Z Fold 5",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: Samsung Galaxy Z Fold 5",
+   "section": "screen-share",
+   "recommender": "Mishaal"
+  },
+  {
+   "id": "2023-08-27-vinland-saga",
+   "name": "Vinland Saga",
+   "url": "https://www.imdb.com/title/tt10233448/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "Season 1 and 2 of Vinland Saga , an anime that dramatizes the life of Thorfinn Karlsefni. I found its treatment of violence / pacifism, the tragedy of war / slavery, and religion to be very compelling and am looking forward to continuing the story through its original manga!",
+   "section": "screen-share",
+   "recommender": "Mishaal"
+  },
+  {
+   "id": "2023-08-27-dungeon-meshi",
+   "name": "Dungeon Meshi",
+   "url": "https://www.animenewsnetwork.com/encyclopedia/manga.php?id=17164",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Season 1 and 2 of Vinland Saga , an anime that dramatizes the life of Thorfinn Karlsefni. I found its treatment of violence / pacifism, the tragedy of war / slavery, and religion to be very compelling and am looking forward to continuing the story through its original manga!",
+   "section": "screen-share",
+   "recommender": "Mishaal"
+  },
+  {
+   "id": "2023-08-27-r-hyruleengineering",
+   "name": "/r/HyruleEngineering",
+   "url": "https://www.reddit.com/r/hyruleengineering",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Season 1 and 2 of Vinland Saga , an anime that dramatizes the life of Thorfinn Karlsefni. I found its treatment of violence / pacifism, the tragedy of war / slavery, and religion to be very compelling and am looking forward to continuing the story through its original manga!",
+   "section": "screen-share",
+   "recommender": "Mishaal"
+  },
+  {
+   "id": "2023-08-27-flux",
+   "name": "Flux",
+   "url": "https://play.google.com/store/apps/details?id=de.bendix.flux",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "I think I’m kind of a weather app guy, so I wanted to suggest my favorite weather app, Flux . 1) It looks gorgeous, and the animations are nice. 2) There are a lot of useful settings.",
+   "section": "crowdsourced",
+   "recommender": "FaviFake (reader)"
+  },
+  {
+   "id": "2023-08-27-petey",
+   "name": "Petey",
+   "url": "https://petey-assistant.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "One of my favorite installs lately has been Petey , a ChatGPT companion for Apple Watch. It’s thoughtfully designed, easy to use, and surprisingly useful — being able to submit a query that pops into your head without having to go grab your phone or open a laptop is awesome.",
+   "section": "crowdsourced",
+   "recommender": "Nick (reader)"
+  },
+  {
+   "id": "2023-08-27-memorigi",
+   "name": "Memorigi",
+   "url": "https://memorigi.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Memorigi : the best to-do list app I’ve ever used. The interface is both beautiful and highly functional, it leans on gestures which make it quick and easy to move through the app.",
+   "section": "crowdsourced",
+   "recommender": "Jacob (reader)"
+  },
+  {
+   "id": "2023-08-27-crouton",
+   "name": "Crouton",
+   "url": "https://apps.apple.com/us/app/crouton-cooking-companion/id1461650987",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "The best iOS (and other Apple devices) app anyone can download for the kitchen is Crouton . It’s an app from a single dev team (support small developers).",
+   "section": "crowdsourced",
+   "recommender": "JB (reader)"
+  },
+  {
+   "id": "2023-08-27-raindrop",
+   "name": "Raindrop",
+   "url": "https://raindrop.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’d like to recommend Raindrop . I use multiple browsers on both my phone and laptop, I use Raindrop to manage bookmarks across these devices. It has folders and tags for organization. It’s also cross-platform.",
+   "section": "crowdsourced",
+   "recommender": "Chethan (reader)"
+  },
+  {
+   "id": "2023-08-27-screwpop-keychain-utility-knife",
+   "name": "Screwpop keychain utility knife",
+   "url": "https://www.amazon.com/dp/B00UZHT432?&linkCode=ll1&tag=vergenewsletter-20&linkId=d7131ad073db44e964d86c7660fc21dd&language=en_US&tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "You mentioned that Keen knife, and while it does look appealing, I can’t imagine ever parting with my $10 Screwpop keychain utility knife . Magnetic, no-tool blade swap, bottle opener, and it’s keychain-able. These days, my keychain has two house keys, a mustache comb, and the Screwpop knife.",
+   "section": "crowdsourced",
+   "recommender": "Andrew (reader)"
+  },
+  {
+   "id": "2023-08-27-kinopio",
+   "name": "Kinopio",
+   "url": "https://kinopio.club/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been using this awesome little web app (this is the future!) developed by this one dude Prijan, and I love it. It’s called Kinopio (pronounced like Pinocchio but with a k). I love using this web app to take notes, make mood boards, or jot stuff down.",
+   "section": "crowdsourced",
+   "recommender": "Garrett (reader)"
+  },
+  {
+   "id": "2023-08-27-tidycal",
+   "name": "TidyCal",
+   "url": "http://tidycal.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My recommendation: TidyCal . Been loving using this. It’s like a simpler, more affordable Calendly. Pay $29 one time and get access forever. No more monthly fees. Really enjoying it.",
+   "section": "crowdsourced",
+   "recommender": "Dave (reader)"
+  },
+  {
+   "id": "2023-08-27-full-seasons-of-the-show-on-youtube",
+   "name": "full seasons of the show on YouTube",
+   "url": "https://www.youtube.com/@Taskmaster’",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "A few days ago, for no particular reason, my TikTok feed became overrun by the TV show Taskmaster .",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-08-27-the-taskmaster-tiktok-page",
+   "name": "the Taskmaster TikTok page",
+   "url": "https://www.tiktok.com/@taskmaster",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A few days ago, for no particular reason, my TikTok feed became overrun by the TV show Taskmaster .",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

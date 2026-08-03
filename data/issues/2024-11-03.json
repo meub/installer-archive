@@ -1,0 +1,557 @@
+{
+ "schema": 1,
+ "date": "2024-11-03",
+ "post_type": "issue",
+ "title": "The AI search engines are here — and getting better",
+ "url": "https://www.theverge.com/2024/11/3/24285425/chatgpt-search-mac-mini-pokemon-tcg-installer",
+ "author": "David Pierce",
+ "number": 59,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:36+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-11-03-hotwired",
+   "name": "HotWired",
+   "url": "https://www.wired.com/story/we-were-wrong-oral-history-hotwired/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about HotWired and DRAM and Mike Solana , watching The Diplomat , jamming to Dua Lipa’s Tiny Desk concert , trying Smashing for news reading and cool-stuff discovery, testing my bandwidth caps downloading Call of Duty: Black Ops 6 , and listening to all six hours of the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-03-dram",
+   "name": "DRAM",
+   "url": "https://www.micron.com/about/blog/memory/dram/how-dram-changed-the-world?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about HotWired and DRAM and Mike Solana , watching The Diplomat , jamming to Dua Lipa’s Tiny Desk concert , trying Smashing for news reading and cool-stuff discovery, testing my bandwidth caps downloading Call of Duty: Black Ops 6 , and listening to all six hours of the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-03-mike-solana",
+   "name": "Mike Solana",
+   "url": "https://www.theatlantic.com/ideas/archive/2024/10/mike-solana-pirate-wires/680355/?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about HotWired and DRAM and Mike Solana , watching The Diplomat , jamming to Dua Lipa’s Tiny Desk concert , trying Smashing for news reading and cool-stuff discovery, testing my bandwidth caps downloading Call of Duty: Black Ops 6 , and listening to all six hours of the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-03-the-diplomat",
+   "name": "The Diplomat",
+   "url": "https://www.themoviedb.org/tv/203857-the-diplomat?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about HotWired and DRAM and Mike Solana , watching The Diplomat , jamming to Dua Lipa’s Tiny Desk concert , trying Smashing for news reading and cool-stuff discovery, testing my bandwidth caps downloading Call of Duty: Black Ops 6 , and listening to all six hours of the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-03-dua-lipas-tiny-desk-concert",
+   "name": "Dua Lipa’s Tiny Desk concert",
+   "url": "https://www.youtube.com/watch?v=y38qQRg3UDI",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about HotWired and DRAM and Mike Solana , watching The Diplomat , jamming to Dua Lipa’s Tiny Desk concert , trying Smashing for news reading and cool-stuff discovery, testing my bandwidth caps downloading Call of Duty: Black Ops 6 , and listening to all six hours of the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-03-smashing",
+   "name": "Smashing",
+   "url": "https://www.smashing.xyz/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about HotWired and DRAM and Mike Solana , watching The Diplomat , jamming to Dua Lipa’s Tiny Desk concert , trying Smashing for news reading and cool-stuff discovery, testing my bandwidth caps downloading Call of Duty: Black Ops 6 , and listening to all six hours of the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-03-call-of-duty-black-ops-6",
+   "name": "Call of Duty: Black Ops 6",
+   "url": "https://www.callofduty.com/blackops6",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about HotWired and DRAM and Mike Solana , watching The Diplomat , jamming to Dua Lipa’s Tiny Desk concert , trying Smashing for news reading and cool-stuff discovery, testing my bandwidth caps downloading Call of Duty: Black Ops 6 , and listening to all six hours of the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-03-meta-episode",
+   "name": "Meta episode",
+   "url": "https://www.acquired.fm/episodes/meta",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about HotWired and DRAM and Mike Solana , watching The Diplomat , jamming to Dua Lipa’s Tiny Desk concert , trying Smashing for news reading and cool-stuff discovery, testing my bandwidth caps downloading Call of Duty: Black Ops 6 , and listening to all six hours of the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-03-the-omnivore-acquisition",
+   "name": "the Omnivore acquisition",
+   "url": "https://elevenlabs.io/blog/omnivore-joins-elevenlabs",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Oh, and thanks to everyone who reached out about the Omnivore acquisition . Which sucks. I heard from a lot of folks wondering where to go next, and since I feel partially responsible for getting some of you into an app that is now dying, I’m gonna help you figure it out!",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-03-chatgpt-search",
+   "name": "ChatGPT search",
+   "url": "https://openai.com/index/introducing-chatgpt-search/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s not called SearchGPT, lame, but it is what we expected: live web search baked into OpenAI’s chatbot. So far, it looks an awful lot like Perplexity and Bing and the rest, but I suspect a lot of people will use this just because it’s right there in ChatGPT.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-03-ask-maps",
+   "name": "Ask Maps",
+   "url": "https://blog.google/products/maps/gemini-google-maps-navigation-updates/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is the kind of AI search I’m most bullish on: Google pointing Gemini at the Maps app, so you can more easily find stuff to do and places to go. If AI can just prevent me from having to comb through a million reviews looking for the word “kid-friendly,” all this nonsense might be worth it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-03-fantastical-for-windows",
+   "name": "Fantastical for Windows",
+   "url": "https://flexibits.com/fantastical",
+   "alt_urls": [
+    "https://www.notion.com/product/calendar"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I do most of my calendaring in one of two apps: Fantastical or Notion Calendar . Notion Calendar is free and faster, but Fantastical is much nicer-looking and much more powerful. The new Windows app has all the features, all the design, and looks like a winner.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-03-the-new-mac-mini",
+   "name": "The new Mac Mini",
+   "url": "https://www.apple.com/mac-mini/",
+   "alt_urls": [
+    "https://www.apple.com/macbook-pro/",
+    "https://www.apple.com/imac/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "There are reasons to be excited about the new MacBook Pros that launched this week, and I guess even the super-colorful iMac , but for me, the smaller, faster Mini is the most exciting computer Apple has launched this year. This thing will be my daily driver from the minute it ships.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-03-the-new-magic-keyboard",
+   "name": "The new Magic Keyboard",
+   "url": "https://www.apple.com/shop/product/MXCK3LL/A/magic-keyboard-with-touch-id-for-mac-models-with-apple-silicon-usb-c-us-english",
+   "alt_urls": [
+    "https://www.apple.com/shop/product/MXK83LL/A/magic-keyboard-with-touch-id-and-numeric-keypad-for-mac-models-with-apple-silicon-usb-c-us-english-black-keys?fnode=ecc14567a7835e206186982852561c06c84a53cfec669c2f5681cb40babf6e08434b9ac97eb882e6036603a484a0012463e03b5dae9167e443cdb66db18378c86a5e861ce3176d64547ee5f36cced7406acef29d8389469ec18768676e75ff6f"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Two things, both true: $149 is way too much for this keyboard (much less $199 for the black one with the number pad), and also once you use a Mac keyboard with built-in Touch ID, there is just absolutely no going back. And it finally doesn’t require a Lightning cable! What a world!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-03-dragon-age-the-veilguard",
+   "name": "Dragon Age: The Veilguard",
+   "url": "https://www.ea.com/games/dragon-age/dragon-age-the-veilguard",
+   "alt_urls": [
+    "https://www.polygon.com/review/470712/review-dragon-age-the-veilguard-ps5-xbox-pc"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Our friends at Polygon described this game as basically a game about a protagonist “and their traveling Deep Roadshow of trauma-drenched weirdos (complimentary),” which I love so much. Sounds like this game takes a beat to get going but is hugely rewarding once it does.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-03-uncanny-valley",
+   "name": "Uncanny Valley",
+   "url": "https://pod.link/266391367",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A new podcast from Wired , hosted by a bunch of folks we like (and a couple of former Verge staffers!) talking about all the news and chaos happening in Silicon Valley. A surprising amount of hoodie talk in the first episode! But I’m excited to see where this goes.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-03-endurance",
+   "name": "Endurance",
+   "url": "https://www.themoviedb.org/movie/947763-endurance",
+   "alt_urls": [
+    "https://www.shackletonthomas.com/products/endurance-alfred-lansing"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "If you haven’t read the book this new series is based on — about the British explorer Ernest Shackleton’s disastrous attempt to sail to the South Pole — do that this weekend. I’m serious. It’s an all-timer. And I’ve only heard great things about the doc.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-03-nintendo-music",
+   "name": "Nintendo Music",
+   "url": "https://www.nintendo.com/us/switch/online/nintendo-switch-online/nintendo-music/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "For years, I liked writing while listening to the Pirates of the Caribbean soundtrack, which made everything feel a little more epic. From now on, though, I’m all in on the Boss Battles playlist in this delightful new streaming app.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-03-music-by-john-williams",
+   "name": "Music by John Williams",
+   "url": "https://www.themoviedb.org/movie/1076708-music-by-john-williams",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=YrTTTxiuER8"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Big week for soundtracks, it turns out! John Williams is a legend, and it looks like Disney got an amazing roster of other legends to come talk about how important and special he has been to the movie business. I’ve been excited for this ever since the Jaws bit in the trailer .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-03-pokemon-tcg-pocket",
+   "name": "Pokémon TCG Pocket",
+   "url": "https://tcgpocket.pokemon.com/en-us/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Truthfully, the Pokémon trading card games have never been my bag, but a game like this makes perfect sense as a mobile app you can play for a few minutes at a time. Or a few hours. Or days. Whatever works.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-03-pixel-9-pro",
+   "name": "Pixel 9 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: Pixel 9 Pro. I always switch fully into whatever phone I am making a video about, and as I am very behind on reviews (see the Vergecast episode for more on that), that’s the next one on the docket.",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-11-03-wallpapers",
+   "name": "Wallpapers",
+   "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.wallpaper&hl=en_US",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "The wallpaper: The one that comes on the phone by default. I switch phones so often that I usually don’t change the wallpaper unless it’s obnoxious. In that case, I’ll still grab something minimalistic from Google’s Wallpapers app (maybe a landscape to remind me what outside looks like).",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-11-03-notion",
+   "name": "Notion",
+   "url": "https://www.notion.com/product",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I generally have the multiple-clock widget, as it automatically shows me my current time and time back in NYC, which I find incredibly helpful while traveling as much as I do.",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-11-03-homebase",
+   "name": "Homebase",
+   "url": "https://www.joinhomebase.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "That folder has since expanded recently thanks to the coffee shop as I now have Homebase for scheduling my baristas, Poplin to get our cleaning rags picked up and delivered, Shopify for inventory / POS / sales / obsessive data analyzing, Ring for all the cameras in the space and to make sure milk…",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-11-03-poplin",
+   "name": "Poplin",
+   "url": "https://www.poplin.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "That folder has since expanded recently thanks to the coffee shop as I now have Homebase for scheduling my baristas, Poplin to get our cleaning rags picked up and delivered, Shopify for inventory / POS / sales / obsessive data analyzing, Ring for all the cameras in the space and to make sure milk…",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-11-03-shopify",
+   "name": "Shopify",
+   "url": "https://www.shopify.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "That folder has since expanded recently thanks to the coffee shop as I now have Homebase for scheduling my baristas, Poplin to get our cleaning rags picked up and delivered, Shopify for inventory / POS / sales / obsessive data analyzing, Ring for all the cameras in the space and to make sure milk…",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-11-03-ring",
+   "name": "Ring",
+   "url": "https://ring.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "That folder has since expanded recently thanks to the coffee shop as I now have Homebase for scheduling my baristas, Poplin to get our cleaning rags picked up and delivered, Shopify for inventory / POS / sales / obsessive data analyzing, Ring for all the cameras in the space and to make sure milk…",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-11-03-odeko",
+   "name": "Odeko",
+   "url": "https://odeko.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "That folder has since expanded recently thanks to the coffee shop as I now have Homebase for scheduling my baristas, Poplin to get our cleaning rags picked up and delivered, Shopify for inventory / POS / sales / obsessive data analyzing, Ring for all the cameras in the space and to make sure milk…",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-11-03-peerspace",
+   "name": "Peerspace",
+   "url": "https://www.peerspace.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "That folder has since expanded recently thanks to the coffee shop as I now have Homebase for scheduling my baristas, Poplin to get our cleaning rags picked up and delivered, Shopify for inventory / POS / sales / obsessive data analyzing, Ring for all the cameras in the space and to make sure milk…",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-11-03-in-the-coffee-shop",
+   "name": "in the coffee shop",
+   "url": "https://coffeecheck.nyc/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Probably comes as no surprise, but coffee. Particularly, I’m going to start roasting in the coffee shop soon and so I’m looking forward to sourcing beans from various places, getting better at roasting those beans, and tweaking roasts to get different flavors out of them.",
+   "section": "screen-share",
+   "recommender": "David"
+  },
+  {
+   "id": "2024-11-03-golf-on-mars",
+   "name": "Golf On Mars",
+   "url": "https://captaingames.itch.io/golf-on-mars",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I saw you had Coffee Golf on your iPad Mini homescreen. It has IAP and is really just ok. You’d be better off trying Golf On Mars . It’s the slightly more polished version of Desert Golfing by the same developer. Best quick-play golf game ever.",
+   "section": "crowdsourced",
+   "recommender": "Casey (reader)"
+  },
+  {
+   "id": "2024-11-03-desert-golfing",
+   "name": "Desert Golfing",
+   "url": "https://captaingames.itch.io/desert-golfing",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I saw you had Coffee Golf on your iPad Mini homescreen. It has IAP and is really just ok. You’d be better off trying Golf On Mars . It’s the slightly more polished version of Desert Golfing by the same developer. Best quick-play golf game ever.",
+   "section": "crowdsourced",
+   "recommender": "Casey (reader)"
+  },
+  {
+   "id": "2024-11-03-zen-browser",
+   "name": "Zen Browser",
+   "url": "https://zen-browser.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The story about Arc sunsetting in favor of a new browser kicked me into gear on finding a new home. I saw a comment on the Verge story that mentioned Zen Browser , pitching it as feeling like Arc but built from Firefox. I gave it a shot, and I love it!",
+   "section": "crowdsourced",
+   "recommender": "Tom (reader)"
+  },
+  {
+   "id": "2024-11-03-brave",
+   "name": "Brave",
+   "url": "https://brave.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been playing with different web browsers again. It came down to Brave and Vivaldi to try as a daily driver for a while, but I’ve settled on Vivaldi. Loving it.",
+   "section": "crowdsourced",
+   "recommender": "Josh (reader)"
+  },
+  {
+   "id": "2024-11-03-vivaldi",
+   "name": "Vivaldi",
+   "url": "https://vivaldi.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been playing with different web browsers again. It came down to Brave and Vivaldi to try as a daily driver for a while, but I’ve settled on Vivaldi. Loving it.",
+   "section": "crowdsourced",
+   "recommender": "Josh (reader)"
+  },
+  {
+   "id": "2024-11-03-letterboxd",
+   "name": "Letterboxd",
+   "url": "https://letterboxd.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a Letterboxd junkie for logging movies and this week I found a really nice app for logging TV watching! It’s called Marathon . The design of the app is niiiiiice.",
+   "section": "crowdsourced",
+   "recommender": "Garrett (reader)"
+  },
+  {
+   "id": "2024-11-03-marathon",
+   "name": "Marathon",
+   "url": "https://marathontv.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a Letterboxd junkie for logging movies and this week I found a really nice app for logging TV watching! It’s called Marathon . The design of the app is niiiiiice.",
+   "section": "crowdsourced",
+   "recommender": "Garrett (reader)"
+  },
+  {
+   "id": "2024-11-03-rivals-of-aether-ii",
+   "name": "Rivals of Aether II",
+   "url": "https://rivals2.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Started playing Rivals of Aether II , a new indie platform fighter like Super Smash Bros. , and it’s *so* much fun. Learning curve is steep, but it’s so worth it.",
+   "section": "crowdsourced",
+   "recommender": "Anuj (reader)"
+  },
+  {
+   "id": "2024-11-03-shrinking",
+   "name": "Shrinking",
+   "url": "https://www.themoviedb.org/tv/136311-shrinking?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Loving the new season of Shrinking on Apple TV Plus. I don’t often get emotional, but they’re killing it (and me. Not sure I want to see where the father / son storyline goes). Big recommend.",
+   "section": "crowdsourced",
+   "recommender": "Matthew (reader)"
+  },
+  {
+   "id": "2024-11-03-raindrop",
+   "name": "Raindrop",
+   "url": "https://raindrop.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Redownloading Raindrop after the demise of Omnivore. Luckily I saved my config for the Obsidian plugin so it’s been an easy switch.",
+   "section": "crowdsourced",
+   "recommender": "Tynan (reader)"
+  },
+  {
+   "id": "2024-11-03-apple-sports",
+   "name": "Apple Sports",
+   "url": "https://apps.apple.com/us/app/apple-sports/id6446788829?ct=url.launch&pt=2003",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Caught as much of the World Series as I could, but the Apple Sports live activity was awesome for keeping track when I couldn’t watch it.",
+   "section": "crowdsourced",
+   "recommender": "Justin (reader)"
+  },
+  {
+   "id": "2024-11-03-red-rising-series",
+   "name": "Red Rising series",
+   "url": "https://www.piercebrown.com/redrisingsaga",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been reading the Red Rising series because of one of my coworkers. The way that you get sucked into the characters and that every book builds on the previous ones, it has become one of my favorite series that I can’t recommend enough.",
+   "section": "crowdsourced",
+   "recommender": "Travis (reader)"
+  },
+  {
+   "id": "2024-11-03-a-fun-investigation",
+   "name": "a fun investigation",
+   "url": "https://www.wsj.com/tech/personal-tech/political-text-messages-stop-17cf2abb?mod=tech_lead_pos1",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s Election Day on Tuesday! Wild, important, fascinating, terrifying, causing me to feel a lot of feelings. But one thing I unequivocally love about election season is a fresh set of reporting about some of the stranger and more annoying quirks of the American political process.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-03-good-tricks-for-turning-them-off",
+   "name": "good tricks for turning them off",
+   "url": "https://www.washingtonpost.com/technology/2024/10/27/how-to-stop-political-text-spam-elections/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s Election Day on Tuesday! Wild, important, fascinating, terrifying, causing me to feel a lot of feelings. But one thing I unequivocally love about election season is a fresh set of reporting about some of the stranger and more annoying quirks of the American political process.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-03-our-friends-at-vox-did-a-great-podcast",
+   "name": "our friends at Vox did a great podcast",
+   "url": "https://www.vox.com/explain-it-to-me/379103/spam-political-fundraising-texts-election",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s Election Day on Tuesday! Wild, important, fascinating, terrifying, causing me to feel a lot of feelings. But one thing I unequivocally love about election season is a fresh set of reporting about some of the stranger and more annoying quirks of the American political process.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-11-03-cleo-abram",
+   "name": "Cleo Abram",
+   "url": "https://www.youtube.com/watch?v=LrHaXyv8eO0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "It’s Election Day on Tuesday! Wild, important, fascinating, terrifying, causing me to feel a lot of feelings. But one thing I unequivocally love about election season is a fresh set of reporting about some of the stranger and more annoying quirks of the American political process.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

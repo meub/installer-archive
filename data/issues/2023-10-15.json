@@ -1,0 +1,495 @@
+{
+ "schema": 1,
+ "date": "2023-10-15",
+ "post_type": "issue",
+ "title": "Everything you need to track your movies, music, books, and more",
+ "url": "https://www.theverge.com/23915813/sequel-sofa-media-tracking-apps-roblox-razr-big-vape-installer-newsletter",
+ "author": "David Pierce",
+ "number": 10,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "group-project",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:37+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2023-10-15-marvels-plan-to-fix-its-tv-shows",
+   "name": "Marvel’s plan to fix its TV shows",
+   "url": "https://www.hollywoodreporter.com/tv/tv-news/daredevil-marvel-disney-1235614518/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Marvel’s plan to fix its TV shows and all the wild testimony from the Sam Bankman-Fried trial , making lots of deranged art in the improved Bing Chat , watching the David Beckham documentary and debating many new hairstyles, asking all the teens if they actually…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-15-the-improved-bing-chat",
+   "name": "the improved Bing Chat",
+   "url": "https://www.bing.com/search?q=Bing+AI&showconv=1",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Marvel’s plan to fix its TV shows and all the wild testimony from the Sam Bankman-Fried trial , making lots of deranged art in the improved Bing Chat , watching the David Beckham documentary and debating many new hairstyles, asking all the teens if they actually…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-15-the-david-beckham-documentary",
+   "name": "the David Beckham documentary",
+   "url": "https://www.netflix.com/browse?jbv=81223488",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Marvel’s plan to fix its TV shows and all the wild testimony from the Sam Bankman-Fried trial , making lots of deranged art in the improved Bing Chat , watching the David Beckham documentary and debating many new hairstyles, asking all the teens if they actually…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-15-actually-love-linkedin",
+   "name": "actually love LinkedIn",
+   "url": "https://www.thecut.com/article/why-teenagers-love-linkedin.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Marvel’s plan to fix its TV shows and all the wild testimony from the Sam Bankman-Fried trial , making lots of deranged art in the improved Bing Chat , watching the David Beckham documentary and debating many new hairstyles, asking all the teens if they actually…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-15-the-eras-tour-movie",
+   "name": "the Eras Tour movie",
+   "url": "https://www.themoviedb.org/movie/1160164-taylor-swift-the-eras-tour",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about Marvel’s plan to fix its TV shows and all the wild testimony from the Sam Bankman-Fried trial , making lots of deranged art in the improved Bing Chat , watching the David Beckham documentary and debating many new hairstyles, asking all the teens if they actually…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-15-omnivore",
+   "name": "Omnivore",
+   "url": "https://omnivore.app/",
+   "alt_urls": [
+    "https://blog.omnivore.app/p/octobers-updates-newsletter"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "One of the best (and free and open-source) read-later apps got a bunch of updates this week — better highlighting, better text-to-speech — but I’m really into the upgraded browser extension, which makes organizing much easier.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-15-the-verge-s-dbrand-collab",
+   "name": "The Verge ’s dbrand collab",
+   "url": "https://dbrand.com/coupon/the-verge-installer",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Yes, this is brazen self-promotion, but I just got the skin I ordered, and honestly, it looks awesome. We worked with dbrand on phone cases, skins, chargers, and more.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-15-how-do-we-fix-it-the-polarization-series",
+   "name": "How Do We Fix It? “ The Polarization Series.”",
+   "url": "https://shows.acast.com/howdowefixit/episodes/polarization-series-is-social-media-to-blame-professor-chris",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m new to this podcast but have been enjoying the three-episode arc on the current broken state of American politics, how we got here, and where we go next. I took a particularly large number of notes on the episode about whether social media is to blame.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-15-space-os",
+   "name": "Space OS",
+   "url": "https://deta.space/",
+   "alt_urls": [
+    "https://www.theverge.com/2023/10/10/23911145/space-os-deta-personal-cloud-computer"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The idea is super compelling: a personal, private computer in the cloud that is completely yours and not subject to the whims of app providers and social platforms.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-15-big-vape-the-rise-and-fall-of-juul",
+   "name": "Big Vape: The Rise and Fall of Juul",
+   "url": "https://www.netflix.com/title/81444184",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "A three-episode dive into the spectacular rise and brutal fall of the biggest name in e-cigs. You can see bits of everything from Juicero to Theranos and WeWork in this story, and the doc tells it well.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-15-the-motorola-razr",
+   "name": "The Motorola Razr",
+   "url": "https://www.kqzyfj.com/click-8836598-15593422?sid=vergenewsletter101323&url=https%3A%2F%2Fwww.motorola.com%2Fus%2Fsmartphones-razr-gen-3%2Fp%3FskuId%3D983",
+   "alt_urls": [
+    "https://www.theverge.com/23757846/flip-phones-forever-motorola-razr-samsung",
+    "https://www.theverge.com/2023/10/10/23911156/motorola-razr-edge-2023-flip-phone-price-availability"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I think flip phones are the future of phones . I really do. And so I’m psyched to see Motorola showing up with a flip phone designed to manage your relationship with your phone, and most importantly, it’s $699.99 — a lot cheaper than other flip phones we’ve seen.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-15-roblox-for-playstation",
+   "name": "Roblox for PlayStation",
+   "url": "https://store.playstation.com/en-us/concept/223118",
+   "alt_urls": [
+    "https://www.theverge.com/23913044/roblox-baszucki-platform-playstation-ai-vr-ar-china-gucci"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "A long-overdue release, if you ask me, but still a big deal, especially as Roblox tries to become a platform for all ages and all uses . Forget what Meta’s building; Roblox is the company most trying to make the metaverse happen.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-15-the-fall-of-the-house-of-usher",
+   "name": "The Fall of the House of Usher",
+   "url": "https://www.netflix.com/title/81414665",
+   "alt_urls": [
+    "https://www.theverge.com/23906083/the-fall-of-the-house-of-usher-movie-review-netflix"
+   ],
+   "category": "media",
+   "tags": [],
+   "blurb": "Mike Flanagan’s horror shows have been a Netflix staple in recent years, and his latest (and maybe last) sounds like a fitting finale : truly bonkers but ultimately a lot of fun. And bonus: plenty of critiques of modern tech-forward life.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-15-activitypub-for-wordpress",
+   "name": "ActivityPub for WordPress",
+   "url": "https://wordpress.com/blog/2023/10/11/activitypub/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is a huge deal: it means anyone with a site on WordPress.com, which is an awful lot of people, can now automatically syndicate their stuff to Mastodon, Pixelfed, and the rest of the fediverse. I’m all in on the open web future of social, and this is a big step in that direction.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-15-lightroom-ultra-hdr",
+   "name": "Lightroom Ultra HDR",
+   "url": "https://play.google.com/store/search?q=lightroom mobile&c=apps&hl=en_US&gl=US",
+   "alt_urls": [
+    "https://www.theverge.com/2023/10/11/23912614/adobe-max-sneaks-generative-ai-audio-3d-tech-preview"
+   ],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "This is the good kind of HDR, the kind that actually makes your photos crisper and more lifelike, and now Lightroom’s Android app can work with it natively on your phone.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-15-sequel",
+   "name": "Sequel",
+   "url": "https://www.getsequel.app/",
+   "alt_urls": [
+    "https://testflight.apple.com/join/gXcXyTz0"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The overall favorite. Sequel was by far the most-recommended app in my inbox this week. It is sadly only for Apple devices, but folks love its design, the fact that it can track basically all kinds of media, its notifications for new stuff, the extra info it adds, and more.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-15-sofa",
+   "name": "Sofa",
+   "url": "https://www.sofahq.com/",
+   "alt_urls": [
+    "https://trakt.tv/",
+    "https://apps.apple.com/us/app/play-save-videos-watch-later/id1596506190",
+    "https://alexandremadeira.dev/cronica/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The all-in-one apps. Sofa was probably the second most popular recommendation. Everybody also seems to love the design of Trakt , Play is a nifty up-and-comer, and Cronica has some fans, too.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-15-reelgood",
+   "name": "Reelgood",
+   "url": "https://reelgood.com/",
+   "alt_urls": [
+    "https://www.justwatch.com/",
+    "https://letterboxd.com/",
+    "https://hobiapp.com/",
+    "https://seriesgui.de/",
+    "https://www.tvclub.app/",
+    "https://www.goodreads.com/",
+    "https://www.thestorygraph.com/",
+    "https://apps.apple.com/us/app/musicharbor-track-new-music/id1440405750",
+    "https://apps.apple.com/us/app/musicbox-save-music-for-later/id1614730313",
+    "https://www.last.fm/",
+    "https://gametrack.app/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The media-specific apps. For movies, lots of people recommended Reelgood and JustWatch , and there was a lot of love for Letterboxd as well. For TV shows, Hobi seems to be a favorite, and SeriesGuide and TV Club both came up a few times, too.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-15-raindrop",
+   "name": "Raindrop",
+   "url": "https://raindrop.io/",
+   "alt_urls": [
+    "https://www.instapaper.com/",
+    "https://getpocket.com/en/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Drop them in a link bucket. I heard from a few people who use bookmarking tools like Raindrop , into which you can just drop IMDb or YouTube or Amazon links. Others used Instapaper and Pocket for saving links.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-15-things",
+   "name": "Things",
+   "url": "https://culturedcode.com/things/",
+   "alt_urls": [
+    "https://todoist.com/",
+    "https://to-do.office.com/tasks/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Make them tasks. A bunch of you are repurposing to-do list apps like Things , Todoist , and Microsoft To Do as ways to track this stuff — some have it in a big “Stuff to Consume” list; others have it separated by media type.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-15-go-to-the-source",
+   "name": "Go to the source",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I heard from folks who keep their to-watch list in IMDb, their shopping list in their Amazon account, their podcast recommendations in Overcast, and their music queue in their Spotify library. The goal, it seems, is just to dump everything where it’ll end up anyway.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-15-just-keep-a-list",
+   "name": "Just keep a list",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Notion; Apple Notes; Evernote; Anytype; Bear; Obsidian; Capacities; Google Keep; OneNote; lots and lots of others. So many of you said the best thing to do is just write everything down somewhere — ideally, somewhere you’ll find it again — and be done with it.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-15-iphone-15-pro",
+   "name": "iPhone 15 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 15 Pro.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2023-10-15-artifact",
+   "name": "Artifact",
+   "url": "https://artifact.news/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Artifact . This little AI newsreading app from the Instagram co-founders is shipping new features faster than any product on the consumer internet. I increasingly discover news there that I put in Platformer , and I always find something interesting that I haven’t seen before.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2023-10-15-bonk",
+   "name": "Bonk",
+   "url": "https://bonkbonkbonk.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Artifact . This little AI newsreading app from the Instagram co-founders is shipping new features faster than any product on the consumer internet. I increasingly discover news there that I put in Platformer , and I always find something interesting that I haven’t seen before.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2023-10-15-bonkbonkbonk-app",
+   "name": "bonkbonkbonk.app",
+   "url": "https://bonkbonkbonk.app",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Artifact . This little AI newsreading app from the Instagram co-founders is shipping new features faster than any product on the consumer internet. I increasingly discover news there that I put in Platformer , and I always find something interesting that I haven’t seen before.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2023-10-15-chatgpt",
+   "name": "ChatGPT",
+   "url": "https://chat.openai.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Artifact . This little AI newsreading app from the Instagram co-founders is shipping new features faster than any product on the consumer internet. I increasingly discover news there that I put in Platformer , and I always find something interesting that I haven’t seen before.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2023-10-15-dex",
+   "name": "Dex",
+   "url": "https://getdex.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Dex . It’s a ‘personal rolodex’ app: it lets you take notes about people in your life, set reminders to follow up, keep track of birthdays, and sync with Gmail / LinkedIn. For a freelancer, my memory skills leave much to be desired.",
+   "section": "crowdsourced",
+   "recommender": "both professionally and socially.” – Ryan (reader)"
+  },
+  {
+   "id": "2023-10-15-silo",
+   "name": "Silo",
+   "url": "https://tv.apple.com/show/silo/umc.cmc.3yksgc857px0k0rqe5zd4jice?itsct=tv_box_link&itscg=30200&ct=verge101323",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "Two recent excellent series, both on Apple TV Plus: Silo and Foundation .",
+   "section": "crowdsourced",
+   "recommender": "Dennis (reader)"
+  },
+  {
+   "id": "2023-10-15-foundation",
+   "name": "Foundation",
+   "url": "https://tv.apple.com/show/foundation/umc.cmc.5983fipzqbicvrve6jdfep4x3?itsct=tv_box_link&itscg=30200&ct=verge101323",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "Two recent excellent series, both on Apple TV Plus: Silo and Foundation .",
+   "section": "crowdsourced",
+   "recommender": "Dennis (reader)"
+  },
+  {
+   "id": "2023-10-15-browserfairy",
+   "name": "BrowserFairy",
+   "url": "https://www.browserfairy.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I use multiple browsers for different things, then I use BrowserFairy to automatically route apps and sites to specific browsers. For my newsletters and related things to read, I have BrowserFairy open Microsoft Edge.",
+   "section": "crowdsourced",
+   "recommender": "Brent (reader)"
+  },
+  {
+   "id": "2023-10-15-shelly-rgbw",
+   "name": "Shelly RGBW",
+   "url": "https://kb.shelly.cloud/knowledge-base/shelly-rgbw2",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Making a smart lamp using a Shelly RGBW and a custom firmware mod to get it to work with Apple Home. Probably a huge home network security risk, but it works. Also, too much Stardew Valley on Apple Arcade.",
+   "section": "crowdsourced",
+   "recommender": "Timothy (reader)"
+  },
+  {
+   "id": "2023-10-15-stardew-valley",
+   "name": "Stardew Valley",
+   "url": "https://www.stardewvalley.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Making a smart lamp using a Shelly RGBW and a custom firmware mod to get it to work with Apple Home. Probably a huge home network security risk, but it works. Also, too much Stardew Valley on Apple Arcade.",
+   "section": "crowdsourced",
+   "recommender": "Timothy (reader)"
+  },
+  {
+   "id": "2023-10-15-agenda",
+   "name": "Agenda",
+   "url": "https://www.agenda.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After years of trying to warm up to GTD apps, with little success, I finally tried Agenda , and it really works for me. I’m not using it for note-taking (I have Apple Notes, Google Keep, and Obsidian for that).",
+   "section": "crowdsourced",
+   "recommender": "David (reader)"
+  },
+  {
+   "id": "2023-10-15-patrick-stewarts-new-memoir",
+   "name": "Patrick Stewart’s new memoir",
+   "url": "https://www.simonandschuster.com/books/Making-It-So/Patrick-Stewart/9781982167738",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just got Patrick Stewart’s new memoir , and I’m super excited to read it! I also got to see him during his book tour, which was amazing.",
+   "section": "crowdsourced",
+   "recommender": "Aaron (reader)"
+  },
+  {
+   "id": "2023-10-15-a-nitro-deck-from-ckrd",
+   "name": "a Nitro Deck from CKRD",
+   "url": "https://crkd.gg/pages/nitro-deck",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Oh my god, I just got a Nitro Deck from CKRD , and it is absolutely my new favorite video game gadget. It’s a deck for the Switch, with Hall-effect joysticks, programmable rear bumpers, and a nice wide grip for big-handed folks like me that find the Joy-Cons cramped.",
+   "section": "crowdsourced",
+   "recommender": "Nick (reader)"
+  },
+  {
+   "id": "2023-10-15-hello-dankness",
+   "name": "Hello Dankness",
+   "url": "https://www.youtube.com/watch?v=NgnVhFE3BWs",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The coolest thing I’ve seen recently, I don’t know how to share with anyone. It’s a movie called Hello Dankness that seamlessly cuts together everything from Napoleon Dynamite and Wayne’s World to Pen15 and RoboCop to create bizarre cross-world interactions and make a satirical commentary on the…",
+   "section": "crowdsourced",
+   "recommender": "Thomas (reader)"
+  },
+  {
+   "id": "2023-10-15-marvis",
+   "name": "Marvis",
+   "url": "https://appaddy.wixsite.com/marvis",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I used iTunes exclusively until about 2018, and though it was bad software by the end, it did offer a music nerd a lot of things that Spotify and some of the others do not. There is an iOS app called Marvis , which has a pro version that offers many of those features.",
+   "section": "crowdsourced",
+   "recommender": "John (reader)"
+  },
+  {
+   "id": "2023-10-15-lots-of-good-ones",
+   "name": "lots of good ones",
+   "url": "https://www.amazon.com/Cordinate-42841-T1-Designer-Extension-Braided/dp/B07Q58DJPG?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "I’ve done some looking, and Eric’s not wrong. There are some lovely, inexpensive extension cables out there (I searched “braided extension cable” and found lots of good ones ), and they’re way more multifaceted than just having one long USB charger.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

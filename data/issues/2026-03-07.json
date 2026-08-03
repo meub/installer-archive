@@ -1,0 +1,482 @@
+{
+ "schema": 1,
+ "date": "2026-03-07",
+ "post_type": "issue",
+ "title": "Apple’s cheap laptop looks like a winner",
+ "url": "https://www.theverge.com/tech/890785/macbook-neo-slay-spire-2-pokopia-installer",
+ "author": "David Pierce",
+ "number": 118,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:40+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-03-07-moon-factories",
+   "name": "moon factories",
+   "url": "https://caseyhandmer.wordpress.com/2026/02/10/i-guess-were-doing-moon-factories-now/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about moon factories and railroad monopolies and backing into parking spots , finally digging into the Acquired podcast archives, taking tons of notes on Michael Pollan’s new book about consciousness , watching everything Look Mum No Computer has ever made , breaking my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-07-railroad-monopolies",
+   "name": "railroad monopolies",
+   "url": "https://www.theatlantic.com/magazine/archive/1881/03/the-story-of-a-great-monopoly/306019",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about moon factories and railroad monopolies and backing into parking spots , finally digging into the Acquired podcast archives, taking tons of notes on Michael Pollan’s new book about consciousness , watching everything Look Mum No Computer has ever made , breaking my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-07-backing-into-parking-spots",
+   "name": "backing into parking spots",
+   "url": "https://www.nytimes.com/2026/02/21/style/parking-backing-in-headfirst.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about moon factories and railroad monopolies and backing into parking spots , finally digging into the Acquired podcast archives, taking tons of notes on Michael Pollan’s new book about consciousness , watching everything Look Mum No Computer has ever made , breaking my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-07-acquired",
+   "name": "Acquired",
+   "url": "https://www.acquired.fm/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about moon factories and railroad monopolies and backing into parking spots , finally digging into the Acquired podcast archives, taking tons of notes on Michael Pollan’s new book about consciousness , watching everything Look Mum No Computer has ever made , breaking my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-07-michael-pollans-new-book-about-consciousness",
+   "name": "Michael Pollan’s new book about consciousness",
+   "url": "https://michaelpollan.com/books/a-world-appears/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about moon factories and railroad monopolies and backing into parking spots , finally digging into the Acquired podcast archives, taking tons of notes on Michael Pollan’s new book about consciousness , watching everything Look Mum No Computer has ever made , breaking my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-07-look-mum-no-computer",
+   "name": "Look Mum No Computer",
+   "url": "https://www.youtube.com/channel/UCafxR2HWJRmMfSdyZXvZMTw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about moon factories and railroad monopolies and backing into parking spots , finally digging into the Acquired podcast archives, taking tons of notes on Michael Pollan’s new book about consciousness , watching everything Look Mum No Computer has ever made , breaking my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-07-obsidian-cli",
+   "name": "Obsidian CLI",
+   "url": "https://help.obsidian.md/cli",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about moon factories and railroad monopolies and backing into parking spots , finally digging into the Acquired podcast archives, taking tons of notes on Michael Pollan’s new book about consciousness , watching everything Look Mum No Computer has ever made , breaking my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-07-zen-browser",
+   "name": "Zen Browser",
+   "url": "https://zen-browser.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about moon factories and railroad monopolies and backing into parking spots , finally digging into the Acquired podcast archives, taking tons of notes on Michael Pollan’s new book about consciousness , watching everything Look Mum No Computer has ever made , breaking my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-07-the-apple-macbook-neo",
+   "name": "The Apple MacBook Neo",
+   "url": "https://www.amazon.com/Apple-2026-MacBook-13-inch-Laptop/dp/B0GR6F79MT/?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "I described this on a Vergecast stream as “Fisher Price My First MacBook,” and I think that’s about right. But I suspect this thing is going to be the exact right mix of fun colors, just enough power, and a terrific price ($599!) to make it a lot of people’s first MacBook.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-07-openais-gpt-5-4",
+   "name": "OpenAI’s GPT-5.4",
+   "url": "https://openai.com/index/introducing-gpt-5-4/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "OpenAI is pushing hard to catch up to Claude Code, and I keep hearing that this new model is a big step in that direction. Plus it adds native computer use, which you should approach EXTREMELY carefully, but puts an LLM in a position to be even more useful. One to play with this weekend for sure.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-07-formula-1-on-apple-tv",
+   "name": "Formula 1 on Apple TV",
+   "url": "https://tv.apple.com/channel/formula-1/tvs.sbd.241000?itscg=30200&itsct=tv_box_link&mttnsubad=tvs.sbd.241000&at=1001l7uV",
+   "alt_urls": [
+    "https://tv.apple.com/show/formula-1-drive-to-survive/umc.cmc.4ym1omzf14f4jwcmb7lnu91o0?itscg=30200&itsct=tv_box_link&mttnsubad=umc.cmc.4ym1omzf14f4jwcmb7lnu91o0&at=1001l7uV"
+   ],
+   "category": "media",
+   "tags": [],
+   "blurb": "One, I think if you’re reading this there’s a strong chance you’d appreciate F1, which is as much a tech thing as a sports thing. Two, the races will now be on Apple TV, and so far it appears Apple has some great ideas about how to show them. You have until Sunday to catch up on Drive to Survive !",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-07-slay-the-spire-2",
+   "name": "Slay the Spire 2",
+   "url": "https://megacrit.com/games/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Oh boy were a lot of you in my inbox about this this week. The much-anticipated sequel to a beloved roguelike is out (technically in early access, but it seems to be extremely playable already), and I know has already ruined the productivity of many of us in the Installerverse. Don’t miss this one.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-07-pokemon-pokopia",
+   "name": "Pokémon Pokopia",
+   "url": "https://www.amazon.com/Pok%C3%A9mon-Pokopia-Nintendo-Switch-2/dp/B0G1VH7HZ1/?tag=theverge02-20",
+   "alt_urls": [
+    "https://www.theverge.com/games/876285/pokemon-pokopia-hands-on-preview"
+   ],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "What a week for endlessly playable games! Imagine Pokémon , but instead of spending all your time fighting and collecting, you mostly just hang out and make friends and build stuff. It’s not Animal Crossing or Minecraft , but it’s definitely those things-ish . And I mean that as a compliment.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-07-android-desktop-mode",
+   "name": "Android Desktop Mode",
+   "url": null,
+   "alt_urls": [
+    "https://www.theverge.com/tech/888370/google-pixel-tablet-android-desktop-mode"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "If you have a recent Pixel, you need to update to the latest Android and then plug your phone into a monitor, keyboard, and mouse. No, we’re not quite at “it just becomes a Chromebook!” levels of greatness. But Desktop Mode really, actually, genuinely works. I’m very excited about it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-07-marathon",
+   "name": "Marathon",
+   "url": "https://www.marathonthegame.com/",
+   "alt_urls": [
+    "https://www.theverge.com/entertainment/890333/marathon-live-service-game-mess"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This is the kind of huge live-service game that almost never works anymore. (So far, the next Fortnite is just… Fortnite .) But Marathon is at the very least a very good, very shiny, very intense game, the kind you hope and expect Bungie to pull off.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-07-glaze-by-raycast",
+   "name": "Glaze by Raycast",
+   "url": "https://www.glazeapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Vibe coding may not be coding, but it’s still pretty technically complex. I love this approach from Raycast, which tries to automate a bunch of design work and product implementation so literally all you have to do is describe the features you want.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-07-the-nothing-headphone-a",
+   "name": "The Nothing Headphone A",
+   "url": "https://us.nothing.tech/products/headphone-a?Colour=Black",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve come around on Nothing’s retro-future headphone design, and I really like the whole kit when it only costs $199. I wish the mic sounded better, but it has all the controls, connectivity, and battery life you could ask for.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-07-iphone-16-running-ios-18",
+   "name": "iPhone 16 running iOS 18",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 16 running iOS 18.5.",
+   "section": "screen-share",
+   "recommender": "Scott"
+  },
+  {
+   "id": "2026-03-07-a-substack",
+   "name": "a Substack",
+   "url": "https://rogosmodern.life/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I started a Substack on my 40th birthday, and it’s been one of the most creatively rewarding experiences of my life. I write about whatever the hell I want, and make podcasts about whatever the hell interests me.",
+   "section": "screen-share",
+   "recommender": "Scott"
+  },
+  {
+   "id": "2026-03-07-the-ben-and-emil-show",
+   "name": "The Ben and Emil Show",
+   "url": "https://www.youtube.com/@benandemilshow",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The Ben and Emil Show . I’m partial because Ben is a friend (and a softball teammate), but he and his buddy Emil have been making quality content on the regular, including a recent masterpiece called “ We took Acid at the Train Festival .” Drop everything for the next 20 minutes and watch it now.",
+   "section": "screen-share",
+   "recommender": "Scott"
+  },
+  {
+   "id": "2026-03-07-we-took-acid-at-the-train-festival",
+   "name": "We took Acid at the Train Festival",
+   "url": "https://www.youtube.com/watch?v=7vkFY3f5kkw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The Ben and Emil Show . I’m partial because Ben is a friend (and a softball teammate), but he and his buddy Emil have been making quality content on the regular, including a recent masterpiece called “ We took Acid at the Train Festival .” Drop everything for the next 20 minutes and watch it now.",
+   "section": "screen-share",
+   "recommender": "Scott"
+  },
+  {
+   "id": "2026-03-07-clavicular",
+   "name": "Clavicular",
+   "url": "https://www.instagram.com/clavicular0/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Ben and Emil Show . I’m partial because Ben is a friend (and a softball teammate), but he and his buddy Emil have been making quality content on the regular, including a recent masterpiece called “ We took Acid at the Train Festival .” Drop everything for the next 20 minutes and watch it now.",
+   "section": "screen-share",
+   "recommender": "Scott"
+  },
+  {
+   "id": "2026-03-07-a-direct-appeal",
+   "name": "a direct appeal",
+   "url": "https://www.instagram.com/reels/DVFQ4-pADvQ/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Ben and Emil Show . I’m partial because Ben is a friend (and a softball teammate), but he and his buddy Emil have been making quality content on the regular, including a recent masterpiece called “ We took Acid at the Train Festival .” Drop everything for the next 20 minutes and watch it now.",
+   "section": "screen-share",
+   "recommender": "Scott"
+  },
+  {
+   "id": "2026-03-07-myself",
+   "name": "myself",
+   "url": "https://www.playsavvy.live/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Ben and Emil Show . I’m partial because Ben is a friend (and a softball teammate), but he and his buddy Emil have been making quality content on the regular, including a recent masterpiece called “ We took Acid at the Train Festival .” Drop everything for the next 20 minutes and watch it now.",
+   "section": "screen-share",
+   "recommender": "Scott"
+  },
+  {
+   "id": "2026-03-07-fyro-citta-sling-3l",
+   "name": "Fyro Citta Sling 3L",
+   "url": "https://fyro.co/products/fyro-citta-sling?variant=44752961699893",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As a fellow dad of tiny humans, I’d suggest giving a sling bag a try. I’ve been using the Fyro Citta Sling 3L daily and it’s been a game changer. Having my wallet, keys, headphones, phone all easily accessible and collected in one place has been great.",
+   "section": "crowdsourced",
+   "recommender": "kborer (reader)"
+  },
+  {
+   "id": "2026-03-07-pok-pok",
+   "name": "Pok Pok",
+   "url": "https://playpokpok.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Pok Pok and PBS Kids fight way above their level for kids games. There is a deep untapped market for not crappy toddler games.",
+   "section": "crowdsourced",
+   "recommender": "Rahul (reader)"
+  },
+  {
+   "id": "2026-03-07-pbs-kids",
+   "name": "PBS Kids",
+   "url": "https://pbskids.org/games",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Pok Pok and PBS Kids fight way above their level for kids games. There is a deep untapped market for not crappy toddler games.",
+   "section": "crowdsourced",
+   "recommender": "Rahul (reader)"
+  },
+  {
+   "id": "2026-03-07-hyperion-cantos",
+   "name": "Hyperion Cantos",
+   "url": "https://www.penguinrandomhouse.com/series/HYC/hyperion-cantos/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Re-listening to the audiobook version of Dan Simmons’ Hyperion Cantos after his passing last week, while impatiently waiting on my special-edition hardcovers to come.",
+   "section": "crowdsourced",
+   "recommender": "Marcos (reader)"
+  },
+  {
+   "id": "2026-03-07-well-theres-your-problem",
+   "name": "Well There’s Your Problem",
+   "url": "https://www.wtyppod.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Obsessively listening to the podcasts: Well There’s Your Problem , Tran Girlismo , and Remap Radio .",
+   "section": "crowdsourced",
+   "recommender": "Oliveoiltrain (reader)"
+  },
+  {
+   "id": "2026-03-07-tran-girlismo",
+   "name": "Tran Girlismo",
+   "url": "https://www.trangirlismo.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Obsessively listening to the podcasts: Well There’s Your Problem , Tran Girlismo , and Remap Radio .",
+   "section": "crowdsourced",
+   "recommender": "Oliveoiltrain (reader)"
+  },
+  {
+   "id": "2026-03-07-remap-radio",
+   "name": "Remap Radio",
+   "url": "https://remapradio.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Obsessively listening to the podcasts: Well There’s Your Problem , Tran Girlismo , and Remap Radio .",
+   "section": "crowdsourced",
+   "recommender": "Oliveoiltrain (reader)"
+  },
+  {
+   "id": "2026-03-07-reverse-1999",
+   "name": "Reverse: 1999",
+   "url": "https://re1999.bluepoch.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Reverse: 1999 released the latest version of Critter Crash , an incredibly cute auto battle mode (think TFT from Riot). While I’ve loved the whole game since day one, I love this mode they release 2-3 times a year more than anything.",
+   "section": "crowdsourced",
+   "recommender": "Kiro (reader)"
+  },
+  {
+   "id": "2026-03-07-everything-weather",
+   "name": "Everything Weather",
+   "url": "https://everythingwx.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Check out Everything Weather on iOS and Android. It uses the National Weather Service as its source, and is well presented. And almost all of it is free. It even includes space weather.",
+   "section": "crowdsourced",
+   "recommender": "Kurt (reader)"
+  },
+  {
+   "id": "2026-03-07-paradise",
+   "name": "Paradise",
+   "url": "https://www.themoviedb.org/tv/245927-paradise?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Hulu’s Paradise , Season 1 and Season 2 (so far). See what the human spirit goes through and how it prevails in unprecedented times.",
+   "section": "crowdsourced",
+   "recommender": "Sam (reader)"
+  },
+  {
+   "id": "2026-03-07-video-mini-documentary-on-hypercard",
+   "name": "video / mini documentary on HyperCard",
+   "url": "https://www.youtube.com/watch?v=hxHkNToXga8",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This new video / mini documentary on HyperCard , a forgotten gem of the golden age of the Mac that let ordinary people create applications. A kind of web before the web.",
+   "section": "crowdsourced",
+   "recommender": "Gregory (reader)"
+  },
+  {
+   "id": "2026-03-07-pentaton",
+   "name": "Pentaton",
+   "url": "https://pentaton.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Pentaton : it just plays music. This hid under my radar for too long, but finally a super clean, super focused, sufficiently audiophile appealing FLAC file player that focuses on just playing files well and is DAC and headphone aware to boot.",
+   "section": "crowdsourced",
+   "recommender": "Noah (reader)"
+  },
+  {
+   "id": "2026-03-07-version-history",
+   "name": "Version History",
+   "url": "https://pod.link/1840983742",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Allow me some very brief self-promotion: The new season of Version History launches this weekend! We’re getting better and better at making this show, and I really love the six episodes in this season. First up is Furby, which is a truly wild episode. It drops this Sunday.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-07-tiktok",
+   "name": "TikTok",
+   "url": "https://www.tiktok.com/@versionhistorypodcast",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "To that end, I have a favor to ask. We created new pages for Version History on TikTok , Instagram , and YouTube , and I would be so grateful if you’d subscribe or follow one or all of them. Growing new things is really hard, and I really love this show, and we have big plans for it.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-07-instagram",
+   "name": "Instagram",
+   "url": "https://www.instagram.com/versionhistorypodcast",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "To that end, I have a favor to ask. We created new pages for Version History on TikTok , Instagram , and YouTube , and I would be so grateful if you’d subscribe or follow one or all of them. Growing new things is really hard, and I really love this show, and we have big plans for it.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-07-youtube",
+   "name": "YouTube",
+   "url": "https://www.youtube.com/@VersionHistoryPodcast",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "To that end, I have a favor to ask. We created new pages for Version History on TikTok , Instagram , and YouTube , and I would be so grateful if you’d subscribe or follow one or all of them. Growing new things is really hard, and I really love this show, and we have big plans for it.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

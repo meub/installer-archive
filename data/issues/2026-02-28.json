@@ -1,0 +1,555 @@
+{
+ "schema": 1,
+ "date": "2026-02-28",
+ "post_type": "issue",
+ "title": "A legendary weather app makes a comeback",
+ "url": "https://www.theverge.com/tech/886462/acme-weather-samsung-s26-installer",
+ "author": "David Pierce",
+ "number": 117,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:40+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-02-28-eileen-gu",
+   "name": "Eileen Gu",
+   "url": "https://www.nytimes.com/athletic/7063817/2026/02/23/eileen-gu-inside-the-mind/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Eileen Gu and Ozempic and fancy grocery stores , trying out the beautiful Shiori bookmarking app, trying to temper my expectations for the Scrubs reboot, continuing my test of the Pixel 10 Pro , building my dream to-do list app with Claude Code (it’s almost…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-28-ozempic",
+   "name": "Ozempic",
+   "url": "https://www.gq.com/story/what-ozempic-taught-me-about-style-and-self-worth",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Eileen Gu and Ozempic and fancy grocery stores , trying out the beautiful Shiori bookmarking app, trying to temper my expectations for the Scrubs reboot, continuing my test of the Pixel 10 Pro , building my dream to-do list app with Claude Code (it’s almost…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-28-fancy-grocery-stores",
+   "name": "fancy grocery stores",
+   "url": "https://www.wsj.com/style/luxury-grocery-stores-erewhom-meadow-lane-happier-grocery-9d654a14",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Eileen Gu and Ozempic and fancy grocery stores , trying out the beautiful Shiori bookmarking app, trying to temper my expectations for the Scrubs reboot, continuing my test of the Pixel 10 Pro , building my dream to-do list app with Claude Code (it’s almost…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-28-shiori",
+   "name": "Shiori",
+   "url": "https://www.shiori.sh/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Eileen Gu and Ozempic and fancy grocery stores , trying out the beautiful Shiori bookmarking app, trying to temper my expectations for the Scrubs reboot, continuing my test of the Pixel 10 Pro , building my dream to-do list app with Claude Code (it’s almost…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-28-scrubs",
+   "name": "Scrubs",
+   "url": "https://www.themoviedb.org/tv/295778-scrubs?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Eileen Gu and Ozempic and fancy grocery stores , trying out the beautiful Shiori bookmarking app, trying to temper my expectations for the Scrubs reboot, continuing my test of the Pixel 10 Pro , building my dream to-do list app with Claude Code (it’s almost…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-28-pixel-10-pro",
+   "name": "Pixel 10 Pro",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://store.google.com/product/pixel_10_pro?hl=en-US",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Eileen Gu and Ozempic and fancy grocery stores , trying out the beautiful Shiori bookmarking app, trying to temper my expectations for the Scrubs reboot, continuing my test of the Pixel 10 Pro , building my dream to-do list app with Claude Code (it’s almost…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-28-claude-code",
+   "name": "Claude Code",
+   "url": "https://claude.com/product/claude-code",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Eileen Gu and Ozempic and fancy grocery stores , trying out the beautiful Shiori bookmarking app, trying to temper my expectations for the Scrubs reboot, continuing my test of the Pixel 10 Pro , building my dream to-do list app with Claude Code (it’s almost…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-28-the-fall-and-rise-of-reggie-dinkins",
+   "name": "The Fall and Rise of Reggie Dinkins",
+   "url": "https://www.themoviedb.org/tv/291334-the-fall-and-rise-of-reggie-dinkins",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Eileen Gu and Ozempic and fancy grocery stores , trying out the beautiful Shiori bookmarking app, trying to temper my expectations for the Scrubs reboot, continuing my test of the Pixel 10 Pro , building my dream to-do list app with Claude Code (it’s almost…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-28-version-history",
+   "name": "Version History",
+   "url": "https://pod.link/1840983742",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Eileen Gu and Ozempic and fancy grocery stores , trying out the beautiful Shiori bookmarking app, trying to temper my expectations for the Scrubs reboot, continuing my test of the Pixel 10 Pro , building my dream to-do list app with Claude Code (it’s almost…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-28-the-earliest-show",
+   "name": "The Earliest Show",
+   "url": "https://www.youtube.com/playlist?list=PLRcB4n4CGcy_Vhk2IL5zsV-l7s-GSICpp",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Eileen Gu and Ozempic and fancy grocery stores , trying out the beautiful Shiori bookmarking app, trying to temper my expectations for the Scrubs reboot, continuing my test of the Pixel 10 Pro , building my dream to-do list app with Claude Code (it’s almost…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-28-garden-salsa-sun-chips",
+   "name": "Garden Salsa Sun Chips",
+   "url": "https://www.sunchips.com/products/sunchips-garden-salsa-flavored-whole-grain-snacks",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Eileen Gu and Ozempic and fancy grocery stores , trying out the beautiful Shiori bookmarking app, trying to temper my expectations for the Scrubs reboot, continuing my test of the Pixel 10 Pro , building my dream to-do list app with Claude Code (it’s almost…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-28-acme-weather",
+   "name": "Acme Weather",
+   "url": "https://acmeweather.com/",
+   "alt_urls": [
+    "https://helloweather.com/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Years after it was acquired by Apple and went away, there’s still no good replacement for Dark Sky. (Though I have been pretty happy with Hello Weather !) Super exciting to see the team go back out on their own, and I already like what they’re up to with their new iOS app.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-28-samsungs-galaxy-s26-ultra",
+   "name": "Samsung’s Galaxy S26 Ultra",
+   "url": "https://howl.link/esatkcxkjuglz",
+   "alt_urls": [
+    "https://www.theverge.com/tech/884337/samsung-galaxy-s26-ultra-privacy-display-price"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "A relatively minor upgrade this year, but I think the built-in privacy display is a genuinely great new bit of hardware. Terrible for me, an incorrigible snoop of other people’s phones, but probably a good thing for society at large. And really cleverly implemented!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-28-resident-evil-requiem",
+   "name": "Resident Evil Requiem",
+   "url": "https://www.amazon.com/Resident-Evil-Requiem-Amazon-Exclusive-PlayStation/dp/B0FY929QN1/?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "I have really come to love a game that scares me, because it keeps me engaged like basically nothing else. By all accounts, this game is all that and even more. I will be playing alone, in the dark, terrified, as we are meant to do.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-28-current",
+   "name": "Current",
+   "url": "https://www.terrygodier.com/current",
+   "alt_urls": [
+    "https://www.theverge.com/tech/875154/how-to-watch-olympics-nintendo-muppets-installer"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This is from last week, but it feels relevant: This is the RSS app Terry Godier promised a couple of issues ago ! It’s clean, it’s quiet, it feels practically meditative next to most RSS readers. It’s not exactly meant for my frenetic newsgathering use case, but wow is it nice to use.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-28-wispr-flow-for-android",
+   "name": "Wispr Flow for Android",
+   "url": "https://wisprflow.ai/android",
+   "alt_urls": [
+    "https://www.monologue.to/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The more I use these cross-app, AI-powered dictation apps, the more I enjoy talking instead of typing on all my devices. There are a lot of good apps on iOS (including Monologue , which launched last week!), but Android is woefully underserved. This is a welcome addition to the options.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-28-the-internet-was-weeks-away-from-disaster-and-no",
+   "name": "The Internet Was Weeks Away From Disaster and No One Knew",
+   "url": "https://www.youtube.com/watch?v=aoag03mSuXQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ The Internet Was Weeks Away From Disaster and No One Knew .” The title is… a lot, but this Veritasium video is actually a really good primer on a lot of really important security things, and has one of the most delightful hero stories you’ll find.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-28-notion-custom-agents",
+   "name": "Notion Custom Agents",
+   "url": "https://www.notion.com/blog/introducing-custom-agents",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Notion is doing a really good job of bringing AI features to the tools you’re already using, and I keep hearing good things about custom agents. They know where your data is, they can build almost anything, they’re totally autonomous... vibe coding, but make it business.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-28-how-red-bull-built-its-empire",
+   "name": "How Red Bull Built Its Empire",
+   "url": "https://www.youtube.com/watch?v=gokC5fXEM00",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ How Red Bull Built Its Empire .” I have always wondered how an energy drink company managed to fund all the sports teams, stunts, and various shenanigans that Red Bull does.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-28-the-new-york-times-midi",
+   "name": "The New York Times Midi.",
+   "url": "https://www.nytimes.com/crosswords/game/midi",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Oh, what’s that? Another crossword to do every day instead of working, that won’t be punishingly difficult half the time but also will take more than 34 seconds to complete? Oh okay cool sounds great I will do it every day forever thanks.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-28-youtube-premium-lite",
+   "name": "YouTube Premium Lite",
+   "url": "https://blog.youtube/news-and-events/youtube-premium-lite-background-play-downloads/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is mostly a PSA, because I didn’t know this tier even existed. But now that it includes video downloads and (most importantly) background playback, Premium Lite is about half the price of Premium but has almost all of the best features. I might need to downgrade.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-28-an-iphone-17",
+   "name": "An iPhone 17",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: An iPhone 17. Until very recently, I was clinging to an iPhone 12 mini that I’d gotten as a hand-me-down corporate gift from a friend; it was so tiny and good and I had the perfect phone case. (Ben Affleck smoking a cigarette in a mask. A conversation starter!)",
+   "section": "screen-share",
+   "recommender": "Meredith"
+  },
+  {
+   "id": "2026-02-28-the-mta-app",
+   "name": "the MTA app",
+   "url": "https://www.mta.info/guides/apps",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m especially dependent on Notes, and here you can see my three main categories of Note: things I need to do, things I need to buy, thoughts I probably would have tweeted a few years ago.",
+   "section": "screen-share",
+   "recommender": "Meredith"
+  },
+  {
+   "id": "2026-02-28-new-york-metro-weather-instagram-account",
+   "name": "New York Metro Weather Instagram account",
+   "url": "https://www.instagram.com/nymetroweather/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m especially dependent on Notes, and here you can see my three main categories of Note: things I need to do, things I need to buy, thoughts I probably would have tweeted a few years ago.",
+   "section": "screen-share",
+   "recommender": "Meredith"
+  },
+  {
+   "id": "2026-02-28-drop-the-cat",
+   "name": "Drop the Cat",
+   "url": "https://apps.apple.com/us/app/drop-the-cat/id6749132002",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "To be clear, this attempt to simplify my homescreen hasn’t alleviated my time-wasting at all. Beyond this page, I have a loopy number of apps, mostly put into folders to keep me away from them, which doesn’t work.",
+   "section": "screen-share",
+   "recommender": "Meredith"
+  },
+  {
+   "id": "2026-02-28-love-story-john-f-kennedy-jr-carolyn-bessette",
+   "name": "Love Story: John F. Kennedy Jr. & Carolyn Bessette",
+   "url": "https://www.themoviedb.org/tv/131142-love-story",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Love Story: John F. Kennedy Jr. & Carolyn Bessette . I’m appropriately ashamed of watching this show (I’m sorry, Schlossberg family!), but it’s a fantastic combination of cool and dumb.",
+   "section": "screen-share",
+   "recommender": "Meredith"
+  },
+  {
+   "id": "2026-02-28-rodeo",
+   "name": "Rodeo",
+   "url": "https://apps.apple.com/us/app/rodeo-save-it-do-it/id6753013160",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Love Story: John F. Kennedy Jr. & Carolyn Bessette . I’m appropriately ashamed of watching this show (I’m sorry, Schlossberg family!), but it’s a fantastic combination of cool and dumb.",
+   "section": "screen-share",
+   "recommender": "Meredith"
+  },
+  {
+   "id": "2026-02-28-brooklyn-public-library-app",
+   "name": "Brooklyn Public Library app",
+   "url": "https://apps.apple.com/us/app/bklyn-library/id6714283658",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Love Story: John F. Kennedy Jr. & Carolyn Bessette . I’m appropriately ashamed of watching this show (I’m sorry, Schlossberg family!), but it’s a fantastic combination of cool and dumb.",
+   "section": "screen-share",
+   "recommender": "Meredith"
+  },
+  {
+   "id": "2026-02-28-the-sentence",
+   "name": "The Sentence",
+   "url": "https://www.amazon.com/Sentence-Novel-Louise-Erdrich/dp/0062671138/?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "Love Story: John F. Kennedy Jr. & Carolyn Bessette . I’m appropriately ashamed of watching this show (I’m sorry, Schlossberg family!), but it’s a fantastic combination of cool and dumb.",
+   "section": "screen-share",
+   "recommender": "Meredith"
+  },
+  {
+   "id": "2026-02-28-the-mighty-red",
+   "name": "The Mighty Red",
+   "url": "https://www.amazon.com/The-Mighty-Red-A-Novel/dp/B0CQZ2BF2R/?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "Love Story: John F. Kennedy Jr. & Carolyn Bessette . I’m appropriately ashamed of watching this show (I’m sorry, Schlossberg family!), but it’s a fantastic combination of cool and dumb.",
+   "section": "screen-share",
+   "recommender": "Meredith"
+  },
+  {
+   "id": "2026-02-28-nirvanna-the-band-the-show-the-movie",
+   "name": "Nirvanna the Band the Show the Movie",
+   "url": "https://www.themoviedb.org/movie/1154538-nirvanna-the-band-the-show-the-movie?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Love Story: John F. Kennedy Jr. & Carolyn Bessette . I’m appropriately ashamed of watching this show (I’m sorry, Schlossberg family!), but it’s a fantastic combination of cool and dumb.",
+   "section": "screen-share",
+   "recommender": "Meredith"
+  },
+  {
+   "id": "2026-02-28-marathon",
+   "name": "Marathon",
+   "url": "https://www.marathonthegame.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Marathon (a new extraction shooter game by Bungie) is having an open play-test / demo this weekend so that’s what I’ll be into for the next few days.",
+   "section": "crowdsourced",
+   "recommender": "Janego (reader)"
+  },
+  {
+   "id": "2026-02-28-agnes-auberts-mystical-cat-shelter",
+   "name": "Agnes Aubert’s Mystical Cat Shelter",
+   "url": "https://www.amazon.com/Agnes-Auberts-Mystical-Cat-Shelter/dp/0593973259/?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "Really enjoying Agnes Aubert’s Mystical Cat Shelter by Heather Fawcett (author of the delightful Emily Wilde series). Feels like a cross between Jonathan Strange & Mr Norrell and Howl’s Moving Castle .",
+   "section": "crowdsourced",
+   "recommender": "Spencer (reader)"
+  },
+  {
+   "id": "2026-02-28-apple-passwords",
+   "name": "Apple Passwords",
+   "url": "https://support.apple.com/en-us/120758",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Since 1Password have upped their price I’ve spent a few hours moving over to Apple Passwords and Uplock . Was mostly okay, but it’s a shame you can’t transfer over all your passkeys to Apple Passwords. Uplock having a lifetime purchase is a big plus.",
+   "section": "crowdsourced",
+   "recommender": "Matthew (reader)"
+  },
+  {
+   "id": "2026-02-28-uplock",
+   "name": "Uplock",
+   "url": "https://uplock.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Since 1Password have upped their price I’ve spent a few hours moving over to Apple Passwords and Uplock . Was mostly okay, but it’s a shame you can’t transfer over all your passkeys to Apple Passwords. Uplock having a lifetime purchase is a big plus.",
+   "section": "crowdsourced",
+   "recommender": "Matthew (reader)"
+  },
+  {
+   "id": "2026-02-28-demon-slayer",
+   "name": "Demon Slayer",
+   "url": "https://www.themoviedb.org/tv/85937?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Been watching Demon Slayer this past month, and FINALLY watched the Infinity Castle movie in a theater, and, it’s so clear how these anime movies are wildly different (and spectacular!) in tone, direction and characterization from our current crop of Hollywood blockbusters.",
+   "section": "crowdsourced",
+   "recommender": "Anshuman (reader)"
+  },
+  {
+   "id": "2026-02-28-infinity-castle",
+   "name": "Infinity Castle",
+   "url": "https://www.themoviedb.org/movie/1311031?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Been watching Demon Slayer this past month, and FINALLY watched the Infinity Castle movie in a theater, and, it’s so clear how these anime movies are wildly different (and spectacular!) in tone, direction and characterization from our current crop of Hollywood blockbusters.",
+   "section": "crowdsourced",
+   "recommender": "Anshuman (reader)"
+  },
+  {
+   "id": "2026-02-28-fastmail",
+   "name": "Fastmail",
+   "url": "https://www.fastmail.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just yesterday switched my family from my grandfathered free Google Apps plan for our custom domain email to Fastmail . Fastmail is private but supports industry standard IMAP and CalDAV protocols, so we can use the built-in mail apps on our phones and computers.",
+   "section": "crowdsourced",
+   "recommender": "Mike (reader)"
+  },
+  {
+   "id": "2026-02-28-comedy-bang-bang",
+   "name": "Comedy Bang Bang!",
+   "url": "https://landing.podtrac.com/comedybangbang",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been listening to Comedy Bang Bang! Still super funny. Big Paul F. Tompkins fan.",
+   "section": "crowdsourced",
+   "recommender": "Mo (reader)"
+  },
+  {
+   "id": "2026-02-28-star-trek-voyager-across-the-unknown",
+   "name": "Star Trek Voyager: Across the Unknown",
+   "url": "https://www.stvatu.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Star Trek Voyager: Across the Unknown . Despite the occasionally brutal RNG, it’s so fun to be able to dive into my favourite Trek stories and tweak the outcomes.",
+   "section": "crowdsourced",
+   "recommender": "Jono (reader)"
+  },
+  {
+   "id": "2026-02-28-on-the-calculation-of-volume",
+   "name": "On the Calculation of Volume",
+   "url": "https://www.amazon.com/Calculation-Book-I-Solvej-Balle/dp/0811237257/?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "Reading the first book in the On the Calculation of Volume series. It’s a time loop story, like Groundhog Day but way more realistic and sorta sad but it’s great so far!",
+   "section": "crowdsourced",
+   "recommender": "Colin (reader)"
+  },
+  {
+   "id": "2026-02-28-how-tv-screens-made-watching-movies-worse",
+   "name": "How TV screens made watching movies worse",
+   "url": "https://www.youtube.com/watch?v=wlUV6y5TUko",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The news of the YouTube app coming to the Apple Vision Pro made me re-watch the only good use of 360 video I’ve seen: ‘ How TV screens made watching movies worse ,’ a fully 3D-animated, 20-minute video essay about how the home releases of movies differ from their theatrical cuts and why that…",
+   "section": "crowdsourced",
+   "recommender": "Nathan (reader)"
+  },
+  {
+   "id": "2026-02-28-noodle",
+   "name": "Noodle",
+   "url": "https://www.youtube.com/@noodlefunny/videos",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The news of the YouTube app coming to the Apple Vision Pro made me re-watch the only good use of 360 video I’ve seen: ‘ How TV screens made watching movies worse ,’ a fully 3D-animated, 20-minute video essay about how the home releases of movies differ from their theatrical cuts and why that…",
+   "section": "crowdsourced",
+   "recommender": "Nathan (reader)"
+  },
+  {
+   "id": "2026-02-28-out-in-new-york-city-vlogging-again",
+   "name": "out in New York City vlogging again",
+   "url": "https://www.youtube.com/watch?v=FUtgcOxRrqY",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This winter has been a disaster, where I live and many other places. So much snow, so many snow days, so much chaos. First of all, I hope you’ve all stayed safe and warm and well! Second of all, there is one bit of good news in all this: Casey Neistat is out in New York City vlogging again .",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-28-paul-fords-blog",
+   "name": "Paul Ford’s blog",
+   "url": "https://ftrain.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This winter has been a disaster, where I live and many other places. So much snow, so many snow days, so much chaos. First of all, I hope you’ve all stayed safe and warm and well! Second of all, there is one bit of good news in all this: Casey Neistat is out in New York City vlogging again .",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

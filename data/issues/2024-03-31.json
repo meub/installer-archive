@@ -1,0 +1,569 @@
+{
+ "schema": 1,
+ "date": "2024-03-31",
+ "post_type": "issue",
+ "title": "An AI voice notes app that really works",
+ "url": "https://www.theverge.com/2024/3/31/24116047/cleft-notes-ai-voice-spider-verse-short-steve-believers-installer-newsletter",
+ "author": "David Pierce",
+ "number": 32,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:36+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-03-31-anne-hathaway",
+   "name": "Anne Hathaway",
+   "url": "https://www.vanityfair.com/hollywood/anne-hathaway-cover-story",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about AI search engines and the future of Disney Plus , reading about Anne Hathaway and Andrew Huberman and Jonathan Kanter , talking productivity apps with the WVFRM crew, continuing to watch every “ how they made Dune ” video I can get my hands on, listening to the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-31-andrew-huberman",
+   "name": "Andrew Huberman",
+   "url": "https://nymag.com/intelligencer/article/andrew-huberman-podcast-stanford-joe-rogan.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about AI search engines and the future of Disney Plus , reading about Anne Hathaway and Andrew Huberman and Jonathan Kanter , talking productivity apps with the WVFRM crew, continuing to watch every “ how they made Dune ” video I can get my hands on, listening to the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-31-jonathan-kanter",
+   "name": "Jonathan Kanter",
+   "url": "https://www.nytimes.com/2024/03/22/technology/jonathan-kanter-apple-antitrust.html?partner=slack",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about AI search engines and the future of Disney Plus , reading about Anne Hathaway and Andrew Huberman and Jonathan Kanter , talking productivity apps with the WVFRM crew, continuing to watch every “ how they made Dune ” video I can get my hands on, listening to the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-31-talking-productivity-apps",
+   "name": "talking productivity apps",
+   "url": "https://www.youtube.com/watch?v=dUMY3Xhmzjc",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been writing about AI search engines and the future of Disney Plus , reading about Anne Hathaway and Andrew Huberman and Jonathan Kanter , talking productivity apps with the WVFRM crew, continuing to watch every “ how they made Dune ” video I can get my hands on, listening to the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-31-how-they-made-dune",
+   "name": "how they made Dune",
+   "url": "https://www.youtube.com/watch?v=uIKupTibxKQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been writing about AI search engines and the future of Disney Plus , reading about Anne Hathaway and Andrew Huberman and Jonathan Kanter , talking productivity apps with the WVFRM crew, continuing to watch every “ how they made Dune ” video I can get my hands on, listening to the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-31-black-box",
+   "name": "Black Box",
+   "url": "https://www.theguardian.com/technology/series/blackbox",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about AI search engines and the future of Disney Plus , reading about Anne Hathaway and Andrew Huberman and Jonathan Kanter , talking productivity apps with the WVFRM crew, continuing to watch every “ how they made Dune ” video I can get my hands on, listening to the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-31-what-the-format-is",
+   "name": "what The Format is",
+   "url": "https://www.youtube.com/watch?v=1iKFPtkJEVI",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been writing about AI search engines and the future of Disney Plus , reading about Anne Hathaway and Andrew Huberman and Jonathan Kanter , talking productivity apps with the WVFRM crew, continuing to watch every “ how they made Dune ” video I can get my hands on, listening to the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-31-cleft-notes",
+   "name": "Cleft Notes",
+   "url": "https://www.cleftnotes.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been playing around with a lot of AI-powered voice notes apps, and this one might be the best yet. You just talk, and the app turns your unordered thoughts into nicely formatted notes — which you can always just toggle back into your transcripts.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-31-a-gentleman-in-moscow",
+   "name": "A Gentleman in Moscow",
+   "url": "https://www.themoviedb.org/tv/208942-a-gentleman-in-moscow",
+   "alt_urls": [
+    "https://www.amortowles.com/a-gentleman-in-moscow-about-the-book/"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Amor Towles’ book is an all-timer, and the show — starring Ewan McGregor as a count living under house arrest in a fancy hotel, I swear, it’s more exciting than it sounds — looks like it holds up pretty well. I might even pay for Paramount Plus for this.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-31-the-anxious-generation-by-jonathan-haidt",
+   "name": "The Anxious Generation , by Jonathan Haidt",
+   "url": "https://www.penguinrandomhouse.com/books/729231/the-anxious-generation-by-jonathan-haidt/",
+   "alt_urls": [
+    "https://www.theatlantic.com/technology/archive/2024/03/teen-childhood-smartphone-use-mental-health-effects/677722/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Remember that Atlantic story about the effect of phones and social media on kids that went mega-viral a couple of weeks ago? This is the book version.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-31-steve-martin-a-documentary-in-2-pieces",
+   "name": "Steve! (martin) a documentary in 2 pieces",
+   "url": "https://www.themoviedb.org/tv/248287-steve-martin-a-documentary-in-2-pieces?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This doc is three-plus hours long, which is a lot of time to spend with Steve Martin. But it’s Steve Martin! In a way, it’s a documentary all about how nobody really knows the main character, which is quite the conceit, but it’s still a deep look at a deeply funny dude.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-31-sigmaos",
+   "name": "SigmaOS",
+   "url": "https://sigmaos.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is a browser full of interesting ideas about how browsers should work. Most recently, the company rolled out a bunch of AI features for searching and summarizing the web. As a person who publishes on the internet, it makes me feel a lot of feelings. As a user, it’s pretty useful.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-31-the-believers",
+   "name": "The Believers",
+   "url": "https://www.themoviedb.org/tv/244571?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "A Netflix show about startups, religion, fraud, the power of marketing and belief, faking it till you make it, crimes, cops, more crimes, and more cops? Yes, I will be watching this on Netflix this weekend.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-31-spotify-courses",
+   "name": "Spotify Courses",
+   "url": "https://courses.spotify.com/",
+   "alt_urls": [
+    "https://www.theverge.com/2024/3/25/24110545/spotify-online-courses-learning-video-test-uk-skillshare-bbc-maestro-playvirtuoso"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Every time Spotify launches a new thing, I have two thoughts. First, oh no, how is this going to further ruin the Spotify UI? Then, second, oh huh, I might actually use this. This week’s entrant: video and audio educational courses.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-31-the-spider-within-a-spider-verse-story",
+   "name": "The Spider Within: A Spider-Verse Story",
+   "url": "https://www.youtube.com/watch?v=AFPLRIdn1pk",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "A full-on movie in a seven-minute short. The animation style in the Spider-Verse movies continues to blow my mind, and this story about anxiety and communication is a pretty powerful one. And it’s all for a good cause!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-31-the-8bitdo-commodore-64-keyboard",
+   "name": "The 8BitDo Commodore 64 keyboard",
+   "url": "https://www.8bitdo.com/retro-mechanical-keyboard-c64/",
+   "alt_urls": [
+    "https://www.theverge.com/2024/3/28/24113566/8bitdo-commodore-64-retro-mechanical-keyboard-specs-release-date-price-features"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Thanks to everyone who emailed last week after my plea about keyboards! I’m looking at silent switches and the Logitech MX Keys, but my heart already belongs to this $110 device: a retro beige keyboard with all the flair and customization it deserves.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-31-iphone-13-mini-but-i-dont-like-it",
+   "name": "iPhone 13 Mini, but I don’t like it",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 13 Mini, but I don’t like it. I do like that it’s not that big, but I vow my next phone will not be an Apple.",
+   "section": "screen-share",
+   "recommender": "Jesse"
+  },
+  {
+   "id": "2024-03-31-actually-on-youtube",
+   "name": "actually on YouTube",
+   "url": "https://www.youtube.com/c/PawnStars",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Watch content. During the pandemic, YouTube radicalized me to be into watches. On TikTok, I was being served a lot of Pawn Stars clips, and I loved it. Then, I realized all the clips were actually on YouTube , and that way, I wouldn’t need to worry about TikTok destroying my brain.",
+   "section": "screen-share",
+   "recommender": "Jesse"
+  },
+  {
+   "id": "2024-03-31-antiques-roadshow-clips",
+   "name": "Antiques Roadshow clips",
+   "url": "https://www.youtube.com/@RoadshowPBS",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Watch content. During the pandemic, YouTube radicalized me to be into watches. On TikTok, I was being served a lot of Pawn Stars clips, and I loved it. Then, I realized all the clips were actually on YouTube , and that way, I wouldn’t need to worry about TikTok destroying my brain.",
+   "section": "screen-share",
+   "recommender": "Jesse"
+  },
+  {
+   "id": "2024-03-31-receiving-an-absurd-estimate-on-his-rolex",
+   "name": "receiving an absurd estimate on his Rolex",
+   "url": "https://www.youtube.com/watch?v=b9Y4bmbh1KY",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Watch content. During the pandemic, YouTube radicalized me to be into watches. On TikTok, I was being served a lot of Pawn Stars clips, and I loved it. Then, I realized all the clips were actually on YouTube , and that way, I wouldn’t need to worry about TikTok destroying my brain.",
+   "section": "screen-share",
+   "recommender": "Jesse"
+  },
+  {
+   "id": "2024-03-31-hodinkee",
+   "name": "Hodinkee",
+   "url": "https://www.youtube.com/@hodinkee",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Watch content. During the pandemic, YouTube radicalized me to be into watches. On TikTok, I was being served a lot of Pawn Stars clips, and I loved it. Then, I realized all the clips were actually on YouTube , and that way, I wouldn’t need to worry about TikTok destroying my brain.",
+   "section": "screen-share",
+   "recommender": "Jesse"
+  },
+  {
+   "id": "2024-03-31-teddy-baldassarre",
+   "name": "Teddy Baldassarre",
+   "url": "https://www.youtube.com/@TeddyBaldassarre",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Watch content. During the pandemic, YouTube radicalized me to be into watches. On TikTok, I was being served a lot of Pawn Stars clips, and I loved it. Then, I realized all the clips were actually on YouTube , and that way, I wouldn’t need to worry about TikTok destroying my brain.",
+   "section": "screen-share",
+   "recommender": "Jesse"
+  },
+  {
+   "id": "2024-03-31-mind-the-game",
+   "name": "Mind the Game",
+   "url": "https://www.youtube.com/@MindTheGamePodcast",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Watch content. During the pandemic, YouTube radicalized me to be into watches. On TikTok, I was being served a lot of Pawn Stars clips, and I loved it. Then, I realized all the clips were actually on YouTube , and that way, I wouldn’t need to worry about TikTok destroying my brain.",
+   "section": "screen-share",
+   "recommender": "Jesse"
+  },
+  {
+   "id": "2024-03-31-newcomers",
+   "name": "Newcomers",
+   "url": "https://headgum.com/newcomers",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Watch content. During the pandemic, YouTube radicalized me to be into watches. On TikTok, I was being served a lot of Pawn Stars clips, and I loved it. Then, I realized all the clips were actually on YouTube , and that way, I wouldn’t need to worry about TikTok destroying my brain.",
+   "section": "screen-share",
+   "recommender": "Jesse"
+  },
+  {
+   "id": "2024-03-31-after-midnight",
+   "name": "After Midnight",
+   "url": "https://cbsallaccess.qflm.net/c/482924/224914/3065?u=https%3A%2F%2Fwww.cbs.com%2Fshows%2Fafter-midnight%2F",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Watch content. During the pandemic, YouTube radicalized me to be into watches. On TikTok, I was being served a lot of Pawn Stars clips, and I loved it. Then, I realized all the clips were actually on YouTube , and that way, I wouldn’t need to worry about TikTok destroying my brain.",
+   "section": "screen-share",
+   "recommender": "Jesse"
+  },
+  {
+   "id": "2024-03-31-dinner-time-live",
+   "name": "Dinner Time Live",
+   "url": "https://www.netflix.com/title/81748864",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "Watch content. During the pandemic, YouTube radicalized me to be into watches. On TikTok, I was being served a lot of Pawn Stars clips, and I loved it. Then, I realized all the clips were actually on YouTube , and that way, I wouldn’t need to worry about TikTok destroying my brain.",
+   "section": "screen-share",
+   "recommender": "Jesse"
+  },
+  {
+   "id": "2024-03-31-foodnoms",
+   "name": "FoodNoms",
+   "url": "https://www.foodnoms.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Found a new macro tracker / food diary that I love — FoodNoms . It has the best AI feature I’ve seen in this category: it will guess at the approximate caloric / nutritional value of a meal, so if you go out for breakfast and don’t feel like trying to break down every ounce of that eggs Benedict…",
+   "section": "crowdsourced",
+   "recommender": "Nick (reader)"
+  },
+  {
+   "id": "2024-03-31-end-of-beginning",
+   "name": "End of Beginning",
+   "url": "https://www.youtube.com/watch?v=EoVQ_TQFJy0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Addicted to playing ‘ End of Beginning ’ by Djo on loop and only just now found out that it’s by the side project of the cute floppy-haired guy from Stranger Things .",
+   "section": "crowdsourced",
+   "recommender": "Amy (reader)"
+  },
+  {
+   "id": "2024-03-31-just-now-found-out",
+   "name": "just now found out",
+   "url": "https://www.theguardian.com/music/2024/mar/19/djo-joe-keery-interview-psychedelic-electro-pop-stranger-things",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Addicted to playing ‘ End of Beginning ’ by Djo on loop and only just now found out that it’s by the side project of the cute floppy-haired guy from Stranger Things .",
+   "section": "crowdsourced",
+   "recommender": "Amy (reader)"
+  },
+  {
+   "id": "2024-03-31-3-body-problem",
+   "name": "3 Body Problem",
+   "url": "https://www.themoviedb.org/tv/108545-3-body-problem?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "3 Body Problem has consumed my week and my brain. Now that I’ve finished S1, I’m on to the audiobook , narrated by Rosalind Chao.",
+   "section": "crowdsourced",
+   "recommender": "Bud (reader)"
+  },
+  {
+   "id": "2024-03-31-the-audiobook",
+   "name": "the audiobook",
+   "url": "https://read.macmillan.com/lp/the-three-body-problem-audiobook-9781250370600/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "3 Body Problem has consumed my week and my brain. Now that I’ve finished S1, I’m on to the audiobook , narrated by Rosalind Chao.",
+   "section": "crowdsourced",
+   "recommender": "Bud (reader)"
+  },
+  {
+   "id": "2024-03-31-lego-technic-mars-crew-exploration-rover",
+   "name": "Lego Technic Mars Crew Exploration Rover",
+   "url": "https://www.lego.com/en-us/product/mars-crew-exploration-rover-42180",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m currently building the Lego Technic Mars Crew Exploration Rover . It just dropped this month!",
+   "section": "crowdsourced",
+   "recommender": "Jeff (reader)"
+  },
+  {
+   "id": "2024-03-31-plunderstorm",
+   "name": "Plunderstorm",
+   "url": "https://worldofwarcraft.blizzard.com/en-us/news/24073142/hoist-the-sails-a-plunderstorm-has-arrived",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Since you mentioned battle royales, Blizzard has just released a limited-time BR called Plunderstorm . It is accessible within the main menu of WoW, uses WoW assets and themes, but does not feature your player character and plays completely differently. It is the weirdest thing I’ve seen in ages.",
+   "section": "crowdsourced",
+   "recommender": "Sanjeev (reader)"
+  },
+  {
+   "id": "2024-03-31-strategery-for-ios",
+   "name": "Strategery for iOS",
+   "url": "https://apps.apple.com/us/app/strategery/id298908505",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Strategery for iOS . This game app especially shines on iPad where you can create larger battlefields. It’s almost meditative to play rather than stressful to lose like Risk , once you get the hang of it.",
+   "section": "crowdsourced",
+   "recommender": "Jake (reader)"
+  },
+  {
+   "id": "2024-03-31-slice-dice",
+   "name": "Slice & Dice",
+   "url": "https://store.steampowered.com/app/1775490/Slice__Dice/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Slice & Dice just shipped this week on Steam, and it’s totally worth checking out if you’re a fan of Slay the Spire . I’ve been playing an early version on itch.io for a couple of years, and fair warning: I had to uninstall it because I was playing it too much.",
+   "section": "crowdsourced",
+   "recommender": "Ron (reader)"
+  },
+  {
+   "id": "2024-03-31-slay-the-spire",
+   "name": "Slay the Spire",
+   "url": "https://store.steampowered.com/app/646570/Slay_the_Spire/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Slice & Dice just shipped this week on Steam, and it’s totally worth checking out if you’re a fan of Slay the Spire . I’ve been playing an early version on itch.io for a couple of years, and fair warning: I had to uninstall it because I was playing it too much.",
+   "section": "crowdsourced",
+   "recommender": "Ron (reader)"
+  },
+  {
+   "id": "2024-03-31-dragons-dogma-2",
+   "name": "Dragon’s Dogma 2",
+   "url": "https://www.dragonsdogma.com/2/en-us/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Dragon’s Dogma 2 had been occupying my brain space all week. It’s a marvelous mix of fantasy adventuring and a chaos simulator, with spectacular results.",
+   "section": "crowdsourced",
+   "recommender": "Bobby (reader)"
+  },
+  {
+   "id": "2024-03-31-blight-club",
+   "name": "Blight Club",
+   "url": "https://www.youtube.com/playlist?list=PLXlhzeWIuTHIGNBahKzWx9Hy54BXtM8Ef",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Dragon’s Dogma 2 had been occupying my brain space all week. It’s a marvelous mix of fantasy adventuring and a chaos simulator, with spectacular results.",
+   "section": "crowdsourced",
+   "recommender": "Bobby (reader)"
+  },
+  {
+   "id": "2024-03-31-marvel-snap",
+   "name": "Marvel Snap",
+   "url": "https://www.marvelsnap.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I used to watch everything from Marvel, but I don’t think I’m the only one who lost interest in the MCU. As a longtime Spidey and X-Men fan, I now scratch my Marvel itch with games. Card games for mobile and one for desktop. Marvel Snap is quite fun, and you can play (and win!)",
+   "section": "crowdsourced",
+   "recommender": "Jasper (reader)"
+  },
+  {
+   "id": "2024-03-31-midnight-suns",
+   "name": "Midnight Suns",
+   "url": "https://midnightsuns.2k.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I used to watch everything from Marvel, but I don’t think I’m the only one who lost interest in the MCU. As a longtime Spidey and X-Men fan, I now scratch my Marvel itch with games. Card games for mobile and one for desktop. Marvel Snap is quite fun, and you can play (and win!)",
+   "section": "crowdsourced",
+   "recommender": "Jasper (reader)"
+  },
+  {
+   "id": "2024-03-31-justin-timberlakes-recent-appearance",
+   "name": "Justin Timberlake’s recent appearance",
+   "url": "https://www.youtube.com/watch?v=cMIJsoaxRjk",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Roughly once a year, I stumble across an NPR Tiny Desk video, realize Tiny Desk is the best thing on YouTube, and then spend a few days or months watching dozens of them. (This time, it was Justin Timberlake’s recent appearance that got me rehooked.)",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-31-olivia-rodrigo",
+   "name": "Olivia Rodrigo",
+   "url": "https://www.youtube.com/watch?v=jmh3iruf4RA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Roughly once a year, I stumble across an NPR Tiny Desk video, realize Tiny Desk is the best thing on YouTube, and then spend a few days or months watching dozens of them. (This time, it was Justin Timberlake’s recent appearance that got me rehooked.)",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-31-the-cast-of-the-lion-king",
+   "name": "the cast of The Lion King",
+   "url": "https://www.youtube.com/watch?v=cx67TnQrqcg",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Roughly once a year, I stumble across an NPR Tiny Desk video, realize Tiny Desk is the best thing on YouTube, and then spend a few days or months watching dozens of them. (This time, it was Justin Timberlake’s recent appearance that got me rehooked.)",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-31-usher",
+   "name": "Usher",
+   "url": "https://www.youtube.com/watch?v=up8ODGFWgFg",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Roughly once a year, I stumble across an NPR Tiny Desk video, realize Tiny Desk is the best thing on YouTube, and then spend a few days or months watching dozens of them. (This time, it was Justin Timberlake’s recent appearance that got me rehooked.)",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-31-the-taylor-swift-one",
+   "name": "the Taylor Swift one",
+   "url": "https://www.youtube.com/watch?v=FvVnP8G6ITs",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Roughly once a year, I stumble across an NPR Tiny Desk video, realize Tiny Desk is the best thing on YouTube, and then spend a few days or months watching dozens of them. (This time, it was Justin Timberlake’s recent appearance that got me rehooked.)",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

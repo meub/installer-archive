@@ -1,0 +1,512 @@
+{
+ "schema": 1,
+ "date": "2024-07-14",
+ "post_type": "issue",
+ "title": "A supercheap Android phone with looks to spare",
+ "url": "https://www.theverge.com/24197282/cmf-phone-1-diggnation-galaxy-ring-installer-newsletter",
+ "author": "David Pierce",
+ "number": 45,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-07-14-made-for-love",
+   "name": "Made for Love",
+   "url": "https://www.harpercollins.com/products/made-for-love-alissa-nutting?variant=32121851412514",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m back from a few days off, feeling rested and sunburned and ready to rumble. Thanks to everyone who sent birthday wishes!",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-14-ai-gamers",
+   "name": "AI gamers",
+   "url": "https://www.nytimes.com/2024/07/10/world/asia/lee-saedol-go-ai.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m back from a few days off, feeling rested and sunburned and ready to rumble. Thanks to everyone who sent birthday wishes!",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-14-ai-musicians",
+   "name": "AI musicians",
+   "url": "https://restofworld.org/2024/ai-song-flowgpt-bad-bunny/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m back from a few days off, feeling rested and sunburned and ready to rumble. Thanks to everyone who sent birthday wishes!",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-14-ferrari-evs",
+   "name": "Ferrari EVs",
+   "url": "https://www.nytimes.com/2024/07/06/business/ferrari-electric-vehicles.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m back from a few days off, feeling rested and sunburned and ready to rumble. Thanks to everyone who sent birthday wishes!",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-14-turning-point",
+   "name": "Turning Point",
+   "url": "https://www.themoviedb.org/tv/245926-turning-point-the-bomb-and-the-cold-war?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’m back from a few days off, feeling rested and sunburned and ready to rumble. Thanks to everyone who sent birthday wishes!",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-14-lazy-weather",
+   "name": "Lazy Weather",
+   "url": "https://lazyweather.xyz/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m back from a few days off, feeling rested and sunburned and ready to rumble. Thanks to everyone who sent birthday wishes!",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-14-listening-to-podcasts-at-2x-speed",
+   "name": "listening to podcasts at 2x speed",
+   "url": "https://www.newyorker.com/culture/the-new-yorker-interview/ira-glass-hears-it-all",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m back from a few days off, feeling rested and sunburned and ready to rumble. Thanks to everyone who sent birthday wishes!",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-14-dot",
+   "name": "Dot",
+   "url": "https://new.computer/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m back from a few days off, feeling rested and sunburned and ready to rumble. Thanks to everyone who sent birthday wishes!",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-14-the-cmf-phone-1",
+   "name": "The CMF Phone 1",
+   "url": "https://us.nothing.tech/products/cmf-phone-1",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A nice-looking, long-lasting Android phone for $200? With an OLED screen and interchangeable backplates and a bunch of really cool accessories, one of which is a kickstand? Yes. Please. In orange, of course.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-14-the-samsung-galaxy-ring",
+   "name": "The Samsung Galaxy Ring",
+   "url": "https://howl.me/cmEz7vzJrkt",
+   "alt_urls": [
+    "https://www.theverge.com/2024/7/10/24195165/samsung-galaxy-z-fold-flip-6-screen-battery-price",
+    "https://www.theverge.com/24194938/samsung-galaxy-ring-hands-on-price-unpacked-2024"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m still a fan of Samsung’s Fold and Flip phones, even though the new models are very same-y and even more expensive . But I’m most excited about the Galaxy Ring, which seems to have pretty much nailed the smart ring hardware — and even has some interesting ideas about gesture control.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-14-the-diggnation-reunion-part-1",
+   "name": "The Diggnation Reunion Part 1",
+   "url": "https://www.youtube.com/watch?v=Y1vX5xDgk5Y",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=Cd7vhmaKP6E"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ The Diggnation Reunion Part 1 .” If you’re a tech lover of a certain age, there’s a strong chance you grew up watching Kevin Rose and Alex Albrecht drink and make jokes about tech while sitting on a couch. Watching the guys get back together was a delightful blast from the past.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-14-delta-1-6",
+   "name": "Delta 1.6",
+   "url": "https://faq.deltaemulator.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Delta’s game emulation is on the iPad! I’m actually not sure how much I’ll use this given how much of my retro gaming is on an iPhone with a Backbone controller. But this update, with a bigger screen and support for multiple games at once, does sound pretty great.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-14-amazons-new-echo-spot",
+   "name": "Amazon’s new Echo Spot",
+   "url": "https://www.amazon.com/dp/B0BFC7WQ6R?tag=theverge02-20",
+   "alt_urls": [
+    "https://www.theverge.com/2024/7/8/24194272/amazon-echo-spot-alexa-smart-speaker"
+   ],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "To me, this is the exact right balance of things for an Alexa speaker. It’s small, it’s $45 (for now), it has a touchscreen but no camera, and it’s the right size for a nightstand. I keep promising to leave my phone out of my bedroom, and maybe this’ll replace it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-14-sunny",
+   "name": "Sunny",
+   "url": "https://www.themoviedb.org/tv/157226-sunny",
+   "alt_urls": [
+    "https://www.theverge.com/24194360/apple-tv-plus-sunny-review"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "A woman loses her husband but gets a robot from his tech company to help her through it. Strangeness ensues. Such a good premise! And by all accounts , this show continues Apple TV Plus’ run of great sci-fi stuff. I’ll definitely catch up before episode 3 drops on Wednesday.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-14-openvibe",
+   "name": "Openvibe",
+   "url": "https://openvibe.social/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Bluesky, Mastodon, Threads, and Nostr, all in one timeline in one app. This is basically a clever hack, not the interconnected social universe of my dreams, but it’s a pretty good hack! And I like that it basically hides which network people are using; it’s just people, in a timeline.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-14-pestle",
+   "name": "Pestle",
+   "url": "https://pestlechef.app/",
+   "alt_urls": [
+    "https://pestlechef.app/blog/save-recipes-from-instagram"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I love a good recipe app. I mostly use Crouton and Mela, but Pestle’s new ability to import recipes from Instagram Reels is pretty awesome. Just drop in the link, give it a name, and it’ll turn a video into a bunch of ingredients and steps.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-14-iphone-13-mini",
+   "name": "iPhone 13 Mini",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 13 Mini.",
+   "section": "screen-share",
+   "recommender": "Evan"
+  },
+  {
+   "id": "2024-07-14-flightradar24",
+   "name": "Flightradar24",
+   "url": "https://www.flightradar24.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Kids [group]: A thing they don’t tell you about parenting in the 2020s is how many school, camp, and bus apps you are forced to acquire and check. Ships / planes: The only AR apps I’ve ever used.",
+   "section": "screen-share",
+   "recommender": "Evan"
+  },
+  {
+   "id": "2024-07-14-marinetraffic",
+   "name": "MarineTraffic",
+   "url": "https://www.marinetraffic.com/en/ais/home",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Kids [group]: A thing they don’t tell you about parenting in the 2020s is how many school, camp, and bus apps you are forced to acquire and check. Ships / planes: The only AR apps I’ve ever used.",
+   "section": "screen-share",
+   "recommender": "Evan"
+  },
+  {
+   "id": "2024-07-14-cloudbeats",
+   "name": "CloudBeats",
+   "url": "https://www.cloudbeatsapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Kids [group]: A thing they don’t tell you about parenting in the 2020s is how many school, camp, and bus apps you are forced to acquire and check. Ships / planes: The only AR apps I’ve ever used.",
+   "section": "screen-share",
+   "recommender": "Evan"
+  },
+  {
+   "id": "2024-07-14-libby",
+   "name": "Libby",
+   "url": "https://libbyapp.com/interview/welcome#doYouHaveACard",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Kids [group]: A thing they don’t tell you about parenting in the 2020s is how many school, camp, and bus apps you are forced to acquire and check. Ships / planes: The only AR apps I’ve ever used.",
+   "section": "screen-share",
+   "recommender": "Evan"
+  },
+  {
+   "id": "2024-07-14-instapaper",
+   "name": "Instapaper",
+   "url": "https://www.instapaper.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Kids [group]: A thing they don’t tell you about parenting in the 2020s is how many school, camp, and bus apps you are forced to acquire and check. Ships / planes: The only AR apps I’ve ever used.",
+   "section": "screen-share",
+   "recommender": "Evan"
+  },
+  {
+   "id": "2024-07-14-mossin-annie",
+   "name": "Mossin’ Annie",
+   "url": "https://www.youtube.com/channel/UC71ybLVpbKNfSOua7-SHhpw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Moss. Made a moss garden this year and I’m into all things moss-related. Websites on how to maintain it and its incredible properties, moss gurus (e.g., Mossin’ Annie ). Moss! The new Charley Crockett album . Just a genius songwriter and singer, with an incredible story.",
+   "section": "screen-share",
+   "recommender": "Evan"
+  },
+  {
+   "id": "2024-07-14-charley-crockett-album",
+   "name": "Charley Crockett album",
+   "url": "https://charleycrockett.com/listen/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Moss. Made a moss garden this year and I’m into all things moss-related. Websites on how to maintain it and its incredible properties, moss gurus (e.g., Mossin’ Annie ). Moss! The new Charley Crockett album . Just a genius songwriter and singer, with an incredible story.",
+   "section": "screen-share",
+   "recommender": "Evan"
+  },
+  {
+   "id": "2024-07-14-the-braindead-megaphone",
+   "name": "The Braindead Megaphone",
+   "url": "https://www.penguinrandomhouse.com/books/300474/the-braindead-megaphone-by-george-saunders/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Moss. Made a moss garden this year and I’m into all things moss-related. Websites on how to maintain it and its incredible properties, moss gurus (e.g., Mossin’ Annie ). Moss! The new Charley Crockett album . Just a genius songwriter and singer, with an incredible story.",
+   "section": "screen-share",
+   "recommender": "Evan"
+  },
+  {
+   "id": "2024-07-14-taskmaster",
+   "name": "Taskmaster",
+   "url": "https://www.themoviedb.org/tv/63404-taskmaster?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Moss. Made a moss garden this year and I’m into all things moss-related. Websites on how to maintain it and its incredible properties, moss gurus (e.g., Mossin’ Annie ). Moss! The new Charley Crockett album . Just a genius songwriter and singer, with an incredible story.",
+   "section": "screen-share",
+   "recommender": "Evan"
+  },
+  {
+   "id": "2024-07-14-slick-inbox",
+   "name": "Slick Inbox",
+   "url": "https://apps.apple.com/es/app/slick-inbox/id1488257035?l=en-GB",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "I just wanted to share an app that (and it is a shock for me) no one knows about. It’s called Slick Inbox . The idea is very simple: it allows you to create your own inbox only for newsletters. I hate reading newsletters in my personal Gmail box, and this is a very convenient solution to my problem.",
+   "section": "crowdsourced",
+   "recommender": "Denis (reader)"
+  },
+  {
+   "id": "2024-07-14-supacell",
+   "name": "Supacell",
+   "url": "https://www.themoviedb.org/tv/158141-supacell",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I just binged all six episodes of Netflix’s Supacell . It’s like Heroes but grimier, set in South London, with an almost entirely Black cast and made by Rapman. It’s one of the best things I’ve seen this year and such a fresh show in a genre that is basically monopolized by Marvel.",
+   "section": "crowdsourced",
+   "recommender": "Guilherme (reader)"
+  },
+  {
+   "id": "2024-07-14-the-singularity-is-nearer",
+   "name": "The Singularity is Nearer",
+   "url": "https://www.mcnallyjackson.com/book/9780399562761",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Currently reading The Singularity is Nearer by Ray Kurzweil. We are lucky to see human evolution in real time.",
+   "section": "crowdsourced",
+   "recommender": "Matthew (reader)"
+  },
+  {
+   "id": "2024-07-14-underdog-fantasy",
+   "name": "Underdog Fantasy",
+   "url": "https://underdogfantasy.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Best Ball drafts on Underdog Fantasy . What was once a niche version of fantasy football is now an (absurdly?) popular sports betting format where players draft an entire team within an hour or less and then compete against strangers.",
+   "section": "crowdsourced",
+   "recommender": "Noah (reader)"
+  },
+  {
+   "id": "2024-07-14-vr-exercise-tracker",
+   "name": "VR Exercise Tracker",
+   "url": "https://vrhealth.institute/vr_exercise_tracker/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Using the VR Exercise Tracker app created by the VR Health Institute. They use science-backed measurement of VR activity to help you measure your VR workouts. Connects with Apple Watch and other Bluetooth fitness devices.",
+   "section": "crowdsourced",
+   "recommender": "Dan (reader)"
+  },
+  {
+   "id": "2024-07-14-dungeons-daddies",
+   "name": "Dungeons & Daddies",
+   "url": "https://www.dungeonsanddaddies.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As a new dad, Dungeons & Daddies resonates with me in a special way. This (self-described non-BDSM) podcast puts a hilarious twist on D&D , following four dads navigating a fantastical realm to rescue their lost sons.",
+   "section": "crowdsourced",
+   "recommender": "Mark (reader)"
+  },
+  {
+   "id": "2024-07-14-boox-go-10-3",
+   "name": "Boox Go 10.3",
+   "url": "https://shop.boox.com/products/go103",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just bought a Boox Go 10.3 E Ink tablet and am really enjoying it. Very slim, nicely designed, no front light, and fairly great to write on when needed. It’s meant more as a competitor to the Remarkable 2 (i.e., a note-taking device), but I’m enjoying it for reading articles via Omnivore.",
+   "section": "crowdsourced",
+   "recommender": "Patrick (reader)"
+  },
+  {
+   "id": "2024-07-14-deep-work",
+   "name": "Deep Work",
+   "url": "https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve recently started reading a book called Deep Work by Cal Newport on the merits of dedicating time to focus on a task with minimal distractions.",
+   "section": "crowdsourced",
+   "recommender": "Dave (reader)"
+  },
+  {
+   "id": "2024-07-14-apple-penlite-the-ipad-before-the-ipad",
+   "name": "Apple PenLite: The iPad Before the iPad",
+   "url": "https://www.youtube.com/watch?v=yc-QRgpUIqU&t=1s",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Apple PenLite: The iPad Before the iPad .” I have been watching Colin Holter’s channel for a few years now and really love his stuff, but this video is really something different for him. He interviewed several former Apple employees, and I thought it was really well done.",
+   "section": "crowdsourced",
+   "recommender": "Ian (reader)"
+  },
+  {
+   "id": "2024-07-14-every-frame-a-painting",
+   "name": "Every Frame a Painting",
+   "url": "https://www.youtube.com/@everyframeapainting",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I sincerely believe that “ Every Frame a Painting ” is the best YouTube series of all time. If you haven’t watched them, watch all of them. (If you only watch one, watch this one on Edgar Wright . Or this one on David Fincher . Or this one on the sound of Marvel movies . Just watch them all!)",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-14-this-one-on-edgar-wright",
+   "name": "this one on Edgar Wright",
+   "url": "https://www.youtube.com/watch?v=3FOzD4Sfgag",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I sincerely believe that “ Every Frame a Painting ” is the best YouTube series of all time. If you haven’t watched them, watch all of them. (If you only watch one, watch this one on Edgar Wright . Or this one on David Fincher . Or this one on the sound of Marvel movies . Just watch them all!)",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-14-this-one-on-david-fincher",
+   "name": "this one on David Fincher",
+   "url": "https://www.youtube.com/watch?v=QPAloq5MCUA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I sincerely believe that “ Every Frame a Painting ” is the best YouTube series of all time. If you haven’t watched them, watch all of them. (If you only watch one, watch this one on Edgar Wright . Or this one on David Fincher . Or this one on the sound of Marvel movies . Just watch them all!)",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-14-the-sound-of-marvel-movies",
+   "name": "the sound of Marvel movies",
+   "url": "https://www.youtube.com/watch?v=7vfqkvwW2fs",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I sincerely believe that “ Every Frame a Painting ” is the best YouTube series of all time. If you haven’t watched them, watch all of them. (If you only watch one, watch this one on Edgar Wright . Or this one on David Fincher . Or this one on the sound of Marvel movies . Just watch them all!)",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-14-a-short-trailer",
+   "name": "a short trailer",
+   "url": "https://www.youtube.com/watch?v=mSlZKdApob0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I sincerely believe that “ Every Frame a Painting ” is the best YouTube series of all time. If you haven’t watched them, watch all of them. (If you only watch one, watch this one on Edgar Wright . Or this one on David Fincher . Or this one on the sound of Marvel movies . Just watch them all!)",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-14-chairs",
+   "name": "Chairs",
+   "url": "https://www.youtube.com/watch?v=FfGKNJ4mldE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I sincerely believe that “ Every Frame a Painting ” is the best YouTube series of all time. If you haven’t watched them, watch all of them. (If you only watch one, watch this one on Edgar Wright . Or this one on David Fincher . Or this one on the sound of Marvel movies . Just watch them all!)",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

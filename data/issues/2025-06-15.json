@@ -1,0 +1,395 @@
+{
+ "schema": 1,
+ "date": "2025-06-15",
+ "post_type": "issue",
+ "title": "Would you switch browsers for a chatbot?",
+ "url": "https://www.theverge.com/installer-newsletter/687068/dia-browser-snapseed-f1-installer",
+ "author": "David Pierce",
+ "number": 87,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:39+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-06-15-sabrina-carpenter",
+   "name": "Sabrina Carpenter",
+   "url": "https://www.rollingstone.com/music/music-features/sabrina-carpenter-new-album-mans-best-friend-fame-1235359144/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sabrina Carpenter and Khaby Lame and intimacy coordinators , finally making a dent in Barbarians at the Gate , watching all the Ben Schwartz and Friends I can find on YouTube , planning my days with the new Finalist beta , recklessly installing all the Apple…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-15-khaby-lame",
+   "name": "Khaby Lame",
+   "url": "https://www.nytimes.com/2025/06/10/world/europe/khaby-lame-detained-immigration.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sabrina Carpenter and Khaby Lame and intimacy coordinators , finally making a dent in Barbarians at the Gate , watching all the Ben Schwartz and Friends I can find on YouTube , planning my days with the new Finalist beta , recklessly installing all the Apple…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-15-intimacy-coordinators",
+   "name": "intimacy coordinators",
+   "url": "https://www.newyorker.com/magazine/2025/06/16/how-i-learned-to-become-an-intimacy-coordinator",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sabrina Carpenter and Khaby Lame and intimacy coordinators , finally making a dent in Barbarians at the Gate , watching all the Ben Schwartz and Friends I can find on YouTube , planning my days with the new Finalist beta , recklessly installing all the Apple…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-15-barbarians-at-the-gate",
+   "name": "Barbarians at the Gate",
+   "url": "https://www.harpercollins.com/products/barbarians-at-the-gate-bryan-burroughjohn-helyar?variant=32206878539810",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sabrina Carpenter and Khaby Lame and intimacy coordinators , finally making a dent in Barbarians at the Gate , watching all the Ben Schwartz and Friends I can find on YouTube , planning my days with the new Finalist beta , recklessly installing all the Apple…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-15-ben-schwartz-and-friends",
+   "name": "Ben Schwartz and Friends",
+   "url": "https://www.youtube.com/@rejectedjokes/videos",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Sabrina Carpenter and Khaby Lame and intimacy coordinators , finally making a dent in Barbarians at the Gate , watching all the Ben Schwartz and Friends I can find on YouTube , planning my days with the new Finalist beta , recklessly installing all the Apple…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-15-new-finalist-beta",
+   "name": "new Finalist beta",
+   "url": "https://www.finalist.works/beta-3-begins/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sabrina Carpenter and Khaby Lame and intimacy coordinators , finally making a dent in Barbarians at the Gate , watching all the Ben Schwartz and Friends I can find on YouTube , planning my days with the new Finalist beta , recklessly installing all the Apple…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-15-apple-developer-betas",
+   "name": "Apple developer betas",
+   "url": "https://developer.apple.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sabrina Carpenter and Khaby Lame and intimacy coordinators , finally making a dent in Barbarians at the Gate , watching all the Ben Schwartz and Friends I can find on YouTube , planning my days with the new Finalist beta , recklessly installing all the Apple…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-15-dakota-johnsons-current-press-tour",
+   "name": "Dakota Johnson’s current press tour",
+   "url": "https://www.youtube.com/watch?v=j9Qm6_lEdcQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Sabrina Carpenter and Khaby Lame and intimacy coordinators , finally making a dent in Barbarians at the Gate , watching all the Ben Schwartz and Friends I can find on YouTube , planning my days with the new Finalist beta , recklessly installing all the Apple…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-15-dia",
+   "name": "Dia",
+   "url": "https://www.diabrowser.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I know there are a lot of Arc fans here in the Installerverse, and I know you, like me, will have a lot of feelings about the company’s new and extremely AI-focused browser.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-15-snapseed-3-0",
+   "name": "Snapseed 3.0",
+   "url": "https://apps.apple.com/us/app/snapseed-photo-editor/id439438619",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "I completely forgot Snapseed even existed, and now here’s a really nice update with a bunch of new editing tools and a nice new redesign! As straightforward photo editors go, this is one of the better ones. The new version is only on iOS right now, but I assume it’s heading to Android shortly.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-15-i-tried-to-make-something-in-america",
+   "name": "I Tried To Make Something In America",
+   "url": "https://www.youtube.com/watch?v=3ZTGwcHQfLY",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ I Tried To Make Something In America .” I was first turned onto the story of the Smarter Scrubber by a great Search Engine episode, and this is a great companion to the story about what it really takes to bring manufacturing back to the US. And why it’s hard to justify.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-15-the-f1-haptic-trailer",
+   "name": "The F1 haptic trailer",
+   "url": "https://apple.co/-Haptic",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "That link, and the trailer, will only do anything for you if you have a newer iPhone. But even if you don’t care about the movie, the trailer — which actually buzzes in sync with the car’s rumbles and revs — is just really, really cool.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-15-android-16",
+   "name": "Android 16",
+   "url": "https://www.android.com/articles/android-16-features/",
+   "alt_urls": [
+    "https://www.theverge.com/news/684601/android-16-launch-live-updates-notifications"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "You can’t get the cool, colorful new look just yet or the desktop mode I am extremely excited about — there’s a lot of good stuff in Android 16 but most of it is coming later. Still, Live Updates look good, and there’s some helpful accessibility stuff, as well.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-15-the-infinite-machine-olto",
+   "name": "The Infinite Machine Olto",
+   "url": "https://www.infinitemachine.com/olto",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am such a sucker for any kind of futuristic-looking electric scooter, and this one really hits the sweet spot. Part moped, part e-bike, all Blade Runner vibes. If it wasn’t $3,500, then I would’ve probably ordered one already.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-15-the-fujifilm-x-e5",
+   "name": "The Fujifilm X-E5.",
+   "url": "https://www.fujifilm-x.com/en-us/products/cameras/x-e5/",
+   "alt_urls": [
+    "https://www.theverge.com/news/685782/fujifilm-xe5-mirrorless-camera-x100-price-specs"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I kept wondering why Fujifilm didn’t just make, like, a hundred different great-looking cameras at every imaginable price because everyone wants a camera this cool. Well, here we are ! It’s a spin on the X100VI but with interchangeable lenses and a few power-user features.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-15-call-her-alex",
+   "name": "Call Her Alex",
+   "url": "https://www.themoviedb.org/tv/290251-call-her-alex",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I confess I’m no Call Her Daddy diehard, but I found this two-part doc on Alex Cooper really interesting. Cooper’s story is all about understanding people, the internet, and what it means to feel connected now. It’s all very low-stakes and somehow also existential?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-15-steve-jobs-2005-stanford-commencement-address",
+   "name": "Steve Jobs - 2005 Stanford Commencement Address",
+   "url": "https://www.youtube.com/watch?v=jiHZqamCD8c",
+   "alt_urls": [
+    "https://stevejobsarchive.com/exhibits/stay-hungry-stay-foolish"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Steve Jobs - 2005 Stanford Commencement Address .” For the 20th anniversary of Jobs’ famous (and genuinely fabulous) speech, the Steve Jobs Archive put together a big package of stories , notes, and other materials around the speech. Plus, a newly high-def version of the video.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-15-dune-awakening",
+   "name": "Dune: Awakening",
+   "url": "https://duneawakening.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Dune has ascended to the rare territory of “I will check out anything from this franchise, ever, no questions asked.” This game is big on open-world survival and ornithopters, too, so it’s even more my kind of thing. And it’s apparently punishingly difficult in spots.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-15-remarkable-paper-pro",
+   "name": "Remarkable Paper Pro",
+   "url": "https://remarkable.com/products/remarkable-paper/pro",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I had tried the paper planner in the leather Paper Republic journal but since have moved onto the Remarkable Paper Pro color e-ink device which takes everything you like about paper but makes it editable and color coded.",
+   "section": "crowdsourced",
+   "recommender": "Jason (reader)"
+  },
+  {
+   "id": "2025-06-15-monsters-we-make",
+   "name": "Monsters We Make",
+   "url": "https://monsterswemake.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I started reading a manga series from content creator Cory Kenshin called Monsters We Make . So far, I love it. Already preordered Vol. 2.",
+   "section": "crowdsourced",
+   "recommender": "Rob (reader)"
+  },
+  {
+   "id": "2025-06-15-gamesir-cyclone-2",
+   "name": "GameSir Cyclone 2",
+   "url": "https://gamesir.com/products/gamesir-cyclone2-black",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently went down the third party controller rabbit hole after my trusty adapted Xbox One controller finally kicked the bucket, and I wanted something I could use across my PC, phone, handheld, Switch, etc. I’ve been playing with the GameSir Cyclone 2 for a few weeks, and it feels really deluxe.",
+   "section": "crowdsourced",
+   "recommender": "Sam (reader)"
+  },
+  {
+   "id": "2025-06-15-long-way-home",
+   "name": "Long Way Home",
+   "url": "https://www.themoviedb.org/tv/262594-long-way-home",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The Apple TV Plus miniseries Long Way Home . It’s Ewan McGregor and Charley Boorman’s fourth Long Way series. This time they are touring some European countries on vintage bikes that they fixed, and it’s such a light-hearted show from two really down to earth humans.",
+   "section": "crowdsourced",
+   "recommender": "Esmael (reader)"
+  },
+  {
+   "id": "2025-06-15-devil-and-the-deep-blue-sea",
+   "name": "Devil and the Deep Blue Sea",
+   "url": "https://www.christianitytoday.com/podcasts/devil-and-the-deep-blue-sea/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Podcast recommendation: Devil and the Deep Blue Sea by Christianity Today. A deep dive into the Satanic Panic of the 80’s and 90’s.",
+   "section": "crowdsourced",
+   "recommender": "Drew (reader)"
+  },
+  {
+   "id": "2025-06-15-splatoon-3",
+   "name": "Splatoon 3",
+   "url": "https://splatoon.nintendo.com/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Splatoon 3 (the free Switch 2 update) and the new How to Train Your Dragon .",
+   "section": "crowdsourced",
+   "recommender": "Aaron (reader)"
+  },
+  {
+   "id": "2025-06-15-how-to-train-your-dragon",
+   "name": "How to Train Your Dragon",
+   "url": "https://www.themoviedb.org/movie/1087192-how-to-train-your-dragon?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Splatoon 3 (the free Switch 2 update) and the new How to Train Your Dragon .",
+   "section": "crowdsourced",
+   "recommender": "Aaron (reader)"
+  },
+  {
+   "id": "2025-06-15-mario-kart-world",
+   "name": "Mario Kart World",
+   "url": "https://www.nintendo.com/us/gaming-systems/switch-2/featured-games/mario-kart-world/world/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I can’t put Mario Kart World down. When I get tired of the intense Knockout Tour mode I go to Free Roam and try to knock out P-Switch challenges, some of which are really tough! I’m obsessed.",
+   "section": "crowdsourced",
+   "recommender": "Dave (reader)"
+  },
+  {
+   "id": "2025-06-15-fable",
+   "name": "Fable",
+   "url": "https://fable.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Fable , a cool app for finding books with virtual book clubs. It’s the closest to a more cozy online bookstore with more honest reviews. I just wish you could click on the author’s name to see their other books.",
+   "section": "crowdsourced",
+   "recommender": "Astrid (reader)"
+  },
+  {
+   "id": "2025-06-15-wildgate",
+   "name": "Wildgate",
+   "url": "https://playwildgate.com/en-US/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is the Summer Games Fest week (formerly E3, RIP) and there are a TON of game demos to try out on Steam. One that has caught my attention / play time the most is Wildgate . It’s a team based spaceship shooter where ship crews battle and try to escape with a powerful artifact.",
+   "section": "crowdsourced",
+   "recommender": "Sean (reader)"
+  },
+  {
+   "id": "2025-06-15-battlefront-2",
+   "name": "Battlefront 2",
+   "url": "https://www.ea.com/games/starwars/battlefront/star-wars-battlefront-2",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Battlefront 2 is back for some reason. Still looks great.",
+   "section": "crowdsourced",
+   "recommender": "Ian (reader)"
+  },
+  {
+   "id": "2025-06-15-the-weather-machine",
+   "name": "The Weather Machine",
+   "url": "https://www.andrewblum.net/the-weather-machine-2",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have long been fascinated by weather forecasting. I recommend Andrew Blum’s book, The Weather Machine , to people all the time, as a way to understand both how we learned to predict the weather and why it’s a literally culture-changing thing to be able to do so.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-15-the-fifth-risk",
+   "name": "The Fifth Risk",
+   "url": "https://wwnorton.com/books/The-Fifth-Risk/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have long been fascinated by weather forecasting. I recommend Andrew Blum’s book, The Weather Machine , to people all the time, as a way to understand both how we learned to predict the weather and why it’s a literally culture-changing thing to be able to do so.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-15-weather-lab",
+   "name": "Weather Lab",
+   "url": "https://deepmind.google.com/science/weatherlab",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve also been hearing for years that weather forecasting is a perfect use for AI. It’s all about vast quantities of historical data, tiny fluctuations in readings, and finding patterns that often don’t want to be found.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

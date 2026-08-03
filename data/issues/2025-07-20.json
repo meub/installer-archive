@@ -1,0 +1,569 @@
+{
+ "schema": 1,
+ "date": "2025-07-20",
+ "post_type": "issue",
+ "title": "The Switch 2’s next killer app is already here",
+ "url": "https://www.theverge.com/installer-newsletter/710157/donkey-kong-bananza-openai-chatgpt-agent-installer",
+ "author": "Jay Peters",
+ "number": 90,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:39+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-07-20-the-bear-s-fourth-season",
+   "name": "The Bear ’s fourth season",
+   "url": "https://www.themoviedb.org/tv/136315-the-bear?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I have been watching The Bear ’s fourth season , preparing for the deluge of Qi2.2 wireless chargers , pondering how I’ll use the upcoming Bigfoot emoji to troll my group chats, studying the relaunched EmojiTracker , reading this giant profile of NBA star Joel Embiid , enjoying Pixar’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-20-upcoming-bigfoot-emoji",
+   "name": "upcoming Bigfoot emoji",
+   "url": "https://blog.unicode.org/2025/07/say-hello-to-new-emoji-coming-in.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I have been watching The Bear ’s fourth season , preparing for the deluge of Qi2.2 wireless chargers , pondering how I’ll use the upcoming Bigfoot emoji to troll my group chats, studying the relaunched EmojiTracker , reading this giant profile of NBA star Joel Embiid , enjoying Pixar’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-20-relaunched",
+   "name": "relaunched",
+   "url": "https://blog.emojipedia.org/emojitracker-is-back-2025/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I have been watching The Bear ’s fourth season , preparing for the deluge of Qi2.2 wireless chargers , pondering how I’ll use the upcoming Bigfoot emoji to troll my group chats, studying the relaunched EmojiTracker , reading this giant profile of NBA star Joel Embiid , enjoying Pixar’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-20-emojitracker",
+   "name": "EmojiTracker",
+   "url": "http://emojitracker.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I have been watching The Bear ’s fourth season , preparing for the deluge of Qi2.2 wireless chargers , pondering how I’ll use the upcoming Bigfoot emoji to troll my group chats, studying the relaunched EmojiTracker , reading this giant profile of NBA star Joel Embiid , enjoying Pixar’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-20-giant-profile-of-nba-star-joel-embiid",
+   "name": "giant profile of NBA star Joel Embiid",
+   "url": "https://www.espn.com/nba/story/_/id/45747447/joel-embiid-philadelphia-76ers-star-sees-you",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I have been watching The Bear ’s fourth season , preparing for the deluge of Qi2.2 wireless chargers , pondering how I’ll use the upcoming Bigfoot emoji to troll my group chats, studying the relaunched EmojiTracker , reading this giant profile of NBA star Joel Embiid , enjoying Pixar’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-20-hoppers-teaser-trailer",
+   "name": "Hoppers teaser trailer",
+   "url": "https://www.youtube.com/watch?v=hJnAHzo4-KI",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I have been watching The Bear ’s fourth season , preparing for the deluge of Qi2.2 wireless chargers , pondering how I’ll use the upcoming Bigfoot emoji to troll my group chats, studying the relaunched EmojiTracker , reading this giant profile of NBA star Joel Embiid , enjoying Pixar’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-20-fifth-and-final-seasons-new-trailer",
+   "name": "fifth and final season’s new trailer",
+   "url": "https://youtu.be/iKZyYdwS3Wg?feature=shared",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I have been watching The Bear ’s fourth season , preparing for the deluge of Qi2.2 wireless chargers , pondering how I’ll use the upcoming Bigfoot emoji to troll my group chats, studying the relaunched EmojiTracker , reading this giant profile of NBA star Joel Embiid , enjoying Pixar’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-20-donkey-kong-bananza",
+   "name": "Donkey Kong Bananza",
+   "url": "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/?srsltid=AfmBOookFBPWgGYLmFe681GkoppsTg6_yRjdvvVVyxo5pGbSQAXb8tOj",
+   "alt_urls": [
+    "https://www.theverge.com/games-review/707704/donkey-kong-bananza-review-nintendo-switch-2"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "DK’s first new 3D platformer in more than 25 years is, by all accounts, totally awesome . If you’ve already started to get bored of your new Switch 2, Bananza seems like an incredible adventure to get lost in. I can’t wait to play it and smash stuff.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-20-openais-chatgpt-agent",
+   "name": "OpenAI’s ChatGPT Agent",
+   "url": "https://openai.com/index/introducing-chatgpt-agent/",
+   "alt_urls": [
+    "https://www.theverge.com/ai-artificial-intelligence/709158/openai-new-release-chatgpt-agent-operator-deep-research"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "OpenAI’s new agent can now “do work for you using its own computer,” like briefing you about your calendar or finding flights on Expedia. Seems impressive, though it’s apparently slow right now .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-20-algospeak-how-social-media-is-transforming-the-f",
+   "name": "Algospeak: How Social Media Is Transforming the Future of Language",
+   "url": "https://www.penguinrandomhouse.com/books/776856/algospeak-by-adam-aleksic/",
+   "alt_urls": [
+    "https://www.tiktok.com/@etymologynerd?lang=en",
+    "https://www.theverge.com/internet-culture/697406/algospeak-adam-aleksic-excerpt"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This new book from linguist Adam Aleksic — who you might know better as etymologynerd on TikTok — explores how algorithms are changing language.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-20-cyberpunk-2077-ultimate-edition-on-mac",
+   "name": "Cyberpunk 2077: Ultimate Edition on Mac",
+   "url": "https://apps.apple.com/us/app/cyberpunk-2077-ultimate/id6633429424?mt=12",
+   "alt_urls": [
+    "https://www.theverge.com/2023/9/20/23881536/cyberpunk-2077-phantom-liberty-update-2-0",
+    "https://www.theverge.com/news/708100/cyberpunk-2077-mac-system-requirements-modes-ray-tracing",
+    "https://www.theverge.com/news/708381/cyberpunk-2077-update-2-3-autodrive-vrr-consoles-patch"
+   ],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "CD Projekt Red’s now very good sci-fi RPG is finally available to play on Apple computers. You’ll need a Mac with Apple Silicon and at least 16GB of unified memory to run it , but that means it’ll apparently work on the M1 Air that I’m writing this newsletter on, which blows my mind.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-20-wacoms-movinkpad-11",
+   "name": "Wacom’s MovinkPad 11",
+   "url": "https://www.wacom.com/en-de/products/portable-pad/wacom-movinkpad-11#Overview",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This new $449.95 Wacom tablet doesn’t need to be connected to a PC to work — you can just draw on it. I always aspired to be the kind of person who can capably draw on a tablet, and this seems like a good device to do that with.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-20-8bitdos-pro-3-bluetooth-gamepad",
+   "name": "8BitDo’s Pro 3 Bluetooth Gamepad",
+   "url": "https://www.8bitdo.com/pro3/",
+   "alt_urls": [
+    "https://www.theverge.com/tech/643886/joystick-drift-tunneling-magnetoresistance-tmr-hall-effect-gaming-solution"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This controller solves the problem of fretting over different ABXY button layouts by making the buttons magnetic so you can switch them around. Genius! It also has TMR joysticks, which are less prone to joystick drift .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-20-elgato-stream-deck",
+   "name": "Elgato Stream Deck",
+   "url": "https://www.elgato.com/us/en",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Instead of just white and black, you can now get the handy, customizable console and other Elgato accessories in “forest green,” “pink petal,” “wild lavender,” and “glacier ice.” I usually get every gadget in black, but the green looks pretty darn nice.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-20-apples-emoji-game",
+   "name": "Apple’s Emoji Game",
+   "url": "https://www.apple.com/newsroom/2025/07/apple-news-plus-introduces-emoji-game/",
+   "alt_urls": [
+    "https://www.theverge.com/24186786/wordle-original-name-mr-bugs-wordy-nugz-wardle",
+    "https://www.theverge.com/21327599/how-to-make-emoji-yawning-face-waffle-proposal-unicode"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Apple News Plus subscribers can now play a new emoji-themed word game. I am considering subscribing just to try it — it sounds like my jam .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-20-pixel-7",
+   "name": "Pixel 7",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: Pixel 7. I’m of the “drive it until the wheels fall off” type when it comes to electronics, so this three-year-old phone is actually somewhat on the new end for me.",
+   "section": "screen-share",
+   "recommender": "Molly"
+  },
+  {
+   "id": "2025-07-20-signal",
+   "name": "Signal",
+   "url": "https://signal.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The apps: The apps are all labeled, save for the quickbar ones: Signal , Bluesky , Proton Mail , Google Calendar , and Chrome . The two cut-off names are Pocket Casts and CloudLibrary .",
+   "section": "screen-share",
+   "recommender": "Molly"
+  },
+  {
+   "id": "2025-07-20-bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.social/about",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The apps: The apps are all labeled, save for the quickbar ones: Signal , Bluesky , Proton Mail , Google Calendar , and Chrome . The two cut-off names are Pocket Casts and CloudLibrary .",
+   "section": "screen-share",
+   "recommender": "Molly"
+  },
+  {
+   "id": "2025-07-20-proton-mail",
+   "name": "Proton Mail",
+   "url": "https://proton.me/mail",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The apps: The apps are all labeled, save for the quickbar ones: Signal , Bluesky , Proton Mail , Google Calendar , and Chrome . The two cut-off names are Pocket Casts and CloudLibrary .",
+   "section": "screen-share",
+   "recommender": "Molly"
+  },
+  {
+   "id": "2025-07-20-google-calendar",
+   "name": "Google Calendar",
+   "url": "https://workspace.google.com/intl/en-US/products/calendar/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The apps: The apps are all labeled, save for the quickbar ones: Signal , Bluesky , Proton Mail , Google Calendar , and Chrome . The two cut-off names are Pocket Casts and CloudLibrary .",
+   "section": "screen-share",
+   "recommender": "Molly"
+  },
+  {
+   "id": "2025-07-20-chrome",
+   "name": "Chrome",
+   "url": "https://www.google.com/chrome/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The apps: The apps are all labeled, save for the quickbar ones: Signal , Bluesky , Proton Mail , Google Calendar , and Chrome . The two cut-off names are Pocket Casts and CloudLibrary .",
+   "section": "screen-share",
+   "recommender": "Molly"
+  },
+  {
+   "id": "2025-07-20-pocket-casts",
+   "name": "Pocket Casts",
+   "url": "https://pocketcasts.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The apps: The apps are all labeled, save for the quickbar ones: Signal , Bluesky , Proton Mail , Google Calendar , and Chrome . The two cut-off names are Pocket Casts and CloudLibrary .",
+   "section": "screen-share",
+   "recommender": "Molly"
+  },
+  {
+   "id": "2025-07-20-cloudlibrary",
+   "name": "CloudLibrary",
+   "url": "https://www.yourcloudlibrary.com/en/home.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The apps: The apps are all labeled, save for the quickbar ones: Signal , Bluesky , Proton Mail , Google Calendar , and Chrome . The two cut-off names are Pocket Casts and CloudLibrary .",
+   "section": "screen-share",
+   "recommender": "Molly"
+  },
+  {
+   "id": "2025-07-20-libby",
+   "name": "Libby",
+   "url": "https://libbyapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a big reader, so it’s probably not surprising that three of the apps on the home screen are book-related.",
+   "section": "screen-share",
+   "recommender": "Molly"
+  },
+  {
+   "id": "2025-07-20-storygraph",
+   "name": "StoryGraph",
+   "url": "https://thestorygraph.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a big reader, so it’s probably not surprising that three of the apps on the home screen are book-related.",
+   "section": "screen-share",
+   "recommender": "Molly"
+  },
+  {
+   "id": "2025-07-20-goodreads",
+   "name": "Goodreads",
+   "url": "https://www.goodreads.com/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
+   "blurb": "I’m a big reader, so it’s probably not surprising that three of the apps on the home screen are book-related.",
+   "section": "screen-share",
+   "recommender": "Molly"
+  },
+  {
+   "id": "2025-07-20-piranesi-by-susanna-clarke",
+   "name": "Piranesi by Susanna Clarke",
+   "url": "https://www.curtisbrown.co.uk/client/susanna-clarke/work/piranesi",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a big reader, so it’s probably not surprising that three of the apps on the home screen are book-related.",
+   "section": "screen-share",
+   "recommender": "Molly"
+  },
+  {
+   "id": "2025-07-20-inoreader",
+   "name": "Inoreader",
+   "url": "https://www.inoreader.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a very heavy RSS user, and Inoreader is my RSS reader. It’s perhaps a bit ironic as someone who writes an email newsletter that I don’t like reading newsletters in my email inbox, but I much prefer to sit down and read my newsletters at my preferred reading time than have them interrupt me…",
+   "section": "screen-share",
+   "recommender": "Molly"
+  },
+  {
+   "id": "2025-07-20-paprika",
+   "name": "Paprika",
+   "url": "https://www.paprikaapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a very heavy RSS user, and Inoreader is my RSS reader. It’s perhaps a bit ironic as someone who writes an email newsletter that I don’t like reading newsletters in my email inbox, but I much prefer to sit down and read my newsletters at my preferred reading time than have them interrupt me…",
+   "section": "screen-share",
+   "recommender": "Molly"
+  },
+  {
+   "id": "2025-07-20-dungeon-crawler-carl",
+   "name": "Dungeon Crawler Carl",
+   "url": "https://mattdinniman.com/hardcovers/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve recently discovered the litRPG genre, having caught the Dungeon Crawler Carl bug a few months ago.",
+   "section": "screen-share",
+   "recommender": "Molly"
+  },
+  {
+   "id": "2025-07-20-beware-of-chicken",
+   "name": "Beware of Chicken",
+   "url": "https://www.royalroad.com/fiction/39408/beware-of-chicken",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve recently discovered the litRPG genre, having caught the Dungeon Crawler Carl bug a few months ago.",
+   "section": "screen-share",
+   "recommender": "Molly"
+  },
+  {
+   "id": "2025-07-20-dinky-little-remote-control",
+   "name": "dinky little remote control",
+   "url": "https://www.amazon.com/dp/B0CQLF4SPJ?th=1&linkCode=ll1&tag=vergenewsletter-20&linkId=50dc1d8d4126bd9b053dfa87742d0872&language=en_US&tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "I’ve recently discovered the litRPG genre, having caught the Dungeon Crawler Carl bug a few months ago.",
+   "section": "screen-share",
+   "recommender": "Molly"
+  },
+  {
+   "id": "2025-07-20-fourth-issue",
+   "name": "fourth issue",
+   "url": "https://thehtml.review/04/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve recently discovered the litRPG genre, having caught the Dungeon Crawler Carl bug a few months ago.",
+   "section": "screen-share",
+   "recommender": "Molly"
+  },
+  {
+   "id": "2025-07-20-lost",
+   "name": "Lost",
+   "url": "https://www.themoviedb.org/tv/4607-lost?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Got an Nvidia Shield TV Pro (2019) for the upscaling feature and watched the best single episode of television — ‘The Constant,’ Lost . It’s like getting a DAC and in-ear monitors to re-listen to your old favorites.”",
+   "section": "crowdsourced",
+   "recommender": null
+  },
+  {
+   "id": "2025-07-20-charles-sumner-conscience-of-a-nation",
+   "name": "Charles Sumner: Conscience of a Nation",
+   "url": "https://us.macmillan.com/books/9781250362551/charlessumner/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "For reasons surely not related to current events, I’ve been reading a lot about the leadup to the Civil War.",
+   "section": "crowdsourced",
+   "recommender": "Hoto (reader)"
+  },
+  {
+   "id": "2025-07-20-cyberpunk-2077",
+   "name": "Cyberpunk 2077",
+   "url": "https://www.cyberpunk.net/us/en/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been playing through my Steam Summer Sale haul and having a blast. ( Cyberpunk 2077 , Besiege , Emily is Away , Nubby Number Factory , A Short Hike .) I’ve also gotten into Letterboxed recently, having fun there after recruiting some friends to join.",
+   "section": "crowdsourced",
+   "recommender": "trekkie86 (reader)"
+  },
+  {
+   "id": "2025-07-20-besiege",
+   "name": "Besiege",
+   "url": "https://www.spiderlinggames.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been playing through my Steam Summer Sale haul and having a blast. ( Cyberpunk 2077 , Besiege , Emily is Away , Nubby Number Factory , A Short Hike .) I’ve also gotten into Letterboxed recently, having fun there after recruiting some friends to join.",
+   "section": "crowdsourced",
+   "recommender": "trekkie86 (reader)"
+  },
+  {
+   "id": "2025-07-20-emily-is-away",
+   "name": "Emily is Away",
+   "url": "http://kyleseeley.com/emilyisaway.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been playing through my Steam Summer Sale haul and having a blast. ( Cyberpunk 2077 , Besiege , Emily is Away , Nubby Number Factory , A Short Hike .) I’ve also gotten into Letterboxed recently, having fun there after recruiting some friends to join.",
+   "section": "crowdsourced",
+   "recommender": "trekkie86 (reader)"
+  },
+  {
+   "id": "2025-07-20-nubby-number-factory",
+   "name": "Nubby Number Factory",
+   "url": "https://www.mogdogblog.com/games",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been playing through my Steam Summer Sale haul and having a blast. ( Cyberpunk 2077 , Besiege , Emily is Away , Nubby Number Factory , A Short Hike .) I’ve also gotten into Letterboxed recently, having fun there after recruiting some friends to join.",
+   "section": "crowdsourced",
+   "recommender": "trekkie86 (reader)"
+  },
+  {
+   "id": "2025-07-20-a-short-hike",
+   "name": "A Short Hike",
+   "url": "https://ashorthike.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been playing through my Steam Summer Sale haul and having a blast. ( Cyberpunk 2077 , Besiege , Emily is Away , Nubby Number Factory , A Short Hike .) I’ve also gotten into Letterboxed recently, having fun there after recruiting some friends to join.",
+   "section": "crowdsourced",
+   "recommender": "trekkie86 (reader)"
+  },
+  {
+   "id": "2025-07-20-letterboxed",
+   "name": "Letterboxed",
+   "url": "https://letterboxd.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been playing through my Steam Summer Sale haul and having a blast. ( Cyberpunk 2077 , Besiege , Emily is Away , Nubby Number Factory , A Short Hike .) I’ve also gotten into Letterboxed recently, having fun there after recruiting some friends to join.",
+   "section": "crowdsourced",
+   "recommender": "trekkie86 (reader)"
+  },
+  {
+   "id": "2025-07-20-13-minutes-presents",
+   "name": "13 Minutes Presents",
+   "url": "https://www.bbc.co.uk/programmes/w13xttx2",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been playing through my Steam Summer Sale haul and having a blast. ( Cyberpunk 2077 , Besiege , Emily is Away , Nubby Number Factory , A Short Hike .) I’ve also gotten into Letterboxed recently, having fun there after recruiting some friends to join.",
+   "section": "crowdsourced",
+   "recommender": "trekkie86 (reader)"
+  },
+  {
+   "id": "2025-07-20-the-anthropologists",
+   "name": "The Anthropologists",
+   "url": "https://www.bloomsbury.com/us/anthropologists-9781639733064/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Started reading The Anthropologists . Breezy, lovely writing!",
+   "section": "crowdsourced",
+   "recommender": "Jake (reader)"
+  },
+  {
+   "id": "2025-07-20-careless-people",
+   "name": "Careless People",
+   "url": "https://read.macmillan.com/fib/careless-people/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It may be clichéd, but reading Careless People by Sarah Wynn-Williams. And watching Superman has gotten me into reading the Superman comics, so from a Reddit recommendation, I’m currently reading Superman: Up in the Sky by Tom King.",
+   "section": "crowdsourced",
+   "recommender": "pangaean (reader)"
+  },
+  {
+   "id": "2025-07-20-superman",
+   "name": "Superman",
+   "url": "https://themoviedb.org/movie/1061474-superman",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "It may be clichéd, but reading Careless People by Sarah Wynn-Williams. And watching Superman has gotten me into reading the Superman comics, so from a Reddit recommendation, I’m currently reading Superman: Up in the Sky by Tom King.",
+   "section": "crowdsourced",
+   "recommender": "pangaean (reader)"
+  },
+  {
+   "id": "2025-07-20-superman-up-in-the-sky",
+   "name": "Superman: Up in the Sky",
+   "url": "https://www.dc.com/graphic-novels/superman-up-in-the-sky",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It may be clichéd, but reading Careless People by Sarah Wynn-Williams. And watching Superman has gotten me into reading the Superman comics, so from a Reddit recommendation, I’m currently reading Superman: Up in the Sky by Tom King.",
+   "section": "crowdsourced",
+   "recommender": "pangaean (reader)"
+  },
+  {
+   "id": "2025-07-20-stepmania",
+   "name": "StepMania",
+   "url": "https://www.stepmania.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Been playing Dance Dance Revolution with a mat I got online as my indoor summer (and air conditioned) exercise! Works on PC with the included USB stick with StepMania and on my old PS2, still chugging along with original discs from childhood. It’s been humbling to say the least, but great cardio!",
+   "section": "crowdsourced",
+   "recommender": "WhatsTheMatter (reader)"
+  }
+ ]
+}

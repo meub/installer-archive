@@ -1,0 +1,439 @@
+{
+ "schema": 1,
+ "date": "2024-10-13",
+ "post_type": "issue",
+ "title": "Now we can all wake up like Mario",
+ "url": "https://www.theverge.com/2024/10/13/24268065/nintendo-alarmo-money-electric-onedrive-mastodon-installer",
+ "author": "David Pierce",
+ "number": 56,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:35+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-10-13-bill-lawrences-tv-shows",
+   "name": "Bill Lawrence’s TV shows",
+   "url": "https://www.theringer.com/tv/2024/10/9/24265322/bad-monkey-season-finale-shrinking-season-2-apple-tv-bill-lawrence",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Bill Lawrence’s TV shows and the massively powerful crypto lobby and the wild world of plankton , listening to Ed Helms narrate the excellent Snafu podcast, playing an alarming amount of both Balatro and Retro Goal , trying to get back in the habit of making…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-13-the-massively-powerful-crypto-lobby",
+   "name": "the massively powerful crypto lobby",
+   "url": "https://www.newyorker.com/magazine/2024/10/14/silicon-valley-the-new-lobbying-monster",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Bill Lawrence’s TV shows and the massively powerful crypto lobby and the wild world of plankton , listening to Ed Helms narrate the excellent Snafu podcast, playing an alarming amount of both Balatro and Retro Goal , trying to get back in the habit of making…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-13-the-wild-world-of-plankton",
+   "name": "the wild world of plankton",
+   "url": "https://www.theguardian.com/news/article/2024/aug/20/strange-and-wondrous-creatures-plankton-and-the-origins-of-life-on-earth",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Bill Lawrence’s TV shows and the massively powerful crypto lobby and the wild world of plankton , listening to Ed Helms narrate the excellent Snafu podcast, playing an alarming amount of both Balatro and Retro Goal , trying to get back in the habit of making…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-13-snafu",
+   "name": "Snafu",
+   "url": "https://www.iheart.com/podcast/1119-snafu-with-ed-helms-102539700/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Bill Lawrence’s TV shows and the massively powerful crypto lobby and the wild world of plankton , listening to Ed Helms narrate the excellent Snafu podcast, playing an alarming amount of both Balatro and Retro Goal , trying to get back in the habit of making…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-13-balatro",
+   "name": "Balatro",
+   "url": "https://www.playbalatro.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Bill Lawrence’s TV shows and the massively powerful crypto lobby and the wild world of plankton , listening to Ed Helms narrate the excellent Snafu podcast, playing an alarming amount of both Balatro and Retro Goal , trying to get back in the habit of making…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-13-retro-goal",
+   "name": "Retro Goal",
+   "url": "https://www.newstargames.com/servlet/Content/en/text/releases/Releases/item/448/Releases-Retro-Goal",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Bill Lawrence’s TV shows and the massively powerful crypto lobby and the wild world of plankton , listening to Ed Helms narrate the excellent Snafu podcast, playing an alarming amount of both Balatro and Retro Goal , trying to get back in the habit of making…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-13-ray-ban-meta-smart-glasses",
+   "name": "Ray-Ban Meta smart glasses",
+   "url": "https://www.ray-ban.com/usa/electronics/RW4006ray-ban | meta wayfarer-black/8056597988384",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Bill Lawrence’s TV shows and the massively powerful crypto lobby and the wild world of plankton , listening to Ed Helms narrate the excellent Snafu podcast, playing an alarming amount of both Balatro and Retro Goal , trying to get back in the habit of making…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-13-alarmo",
+   "name": "Alarmo",
+   "url": "https://www.nintendo.com/us/store/products/nintendo-sound-clock-alarmo-121311/",
+   "alt_urls": [
+    "https://www.theverge.com/2024/9/23/24251736/nintendo-mmwave-device-24ghz-fcc-filing",
+    "https://www.theverge.com/24266272/nintendo-alarmo-sound-clock-hands-on"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "Leave it to Nintendo to build the most charming alarm clock of all time. No, it’s not the high-tech new gadget some people were hoping for . But a super configurable sleep tracking clock that uses Mario noises and retro animations to get your butt out of bed? I’m obviously sold.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-13-money-electric-the-bitcoin-mystery",
+   "name": "Money Electric: The Bitcoin Mystery",
+   "url": "https://www.themoviedb.org/movie/1365712-money-electric-the-bitcoin-mystery",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Another day, another splashy reveal that “we’ve found Satoshi Nakamoto!” Color me deeply, deeply skeptical. But even that aside, this doc does a good job of arguing that Nakamoto — and Bitcoin in general — matters.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-13-microsoft-onedrive",
+   "name": "Microsoft OneDrive",
+   "url": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage/",
+   "alt_urls": [
+    "https://www.theverge.com/2024/10/8/24265312/microsoft-onedrive-mobile-app-search-colored-folders-file-explorer"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "OneDrive has always been, like, fine. But if Microsoft really has made it faster , improved search, and finally shipped a more photos-focused mobile app, it might finally be a worthy competitor to Google Drive and Dropbox. (Low bar, but hey.)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-13-mastodon-4-3",
+   "name": "Mastodon 4.3",
+   "url": "https://blog.joinmastodon.org/2024/10/mastodon-4.3/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve found it difficult in recent months to really care about Mastodon, which just seemed like it wasn’t ready to be the next big thing. But I think this update, meant to make the platform easier to use but especially meant to make it easier to find people to follow, is pretty exciting.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-13-miraibo-go",
+   "name": "Miraibo Go",
+   "url": "https://miraibogo.dreamcubegame.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "People keep comparing this open-world monster-taming game to Palworld — because it appears to be super fun and bonkers and also because it doesn’t not look like Pokémon , you know? Either way, I anticipate seeing a lot of people capturing Miras this weekend.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-13-forums-are-still-alive-active-and-a-treasure-tro",
+   "name": "Forums Are Still Alive, Active, And A Treasure Trove Of Information",
+   "url": "https://aftermath.site/best-active-forums-internet-today",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“ Forums Are Still Alive, Active, And A Treasure Trove Of Information .” Chris Person, a writer at Aftermath and friend of The Verge, is right: if you want the real real on almost anything, the best place to go is a forum.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-13-piece-by-piece",
+   "name": "Piece By Piece",
+   "url": "https://www.themoviedb.org/movie/1236419-piece-by-piece?language=en-US",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=7Bc6trBc1kc"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Even if you don’t care at all about Pharrell Williams, you should watch a few minutes of this Morgan Neville-directed doc, which is entirely animated with Legos. (If you’re going to do that… maybe wait ’til it hits streaming.) The trailer alone makes me want to watch hours of this style.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-13-goodnotes",
+   "name": "Goodnotes",
+   "url": "https://www.goodnotes.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If you’re the write-by-hand type, Goodnotes is one of the best apps out there. And it’s cool to see the company bring AI to the mix — it’s doing some of the same search, handwriting improvement, and equation-solving stuff that is so cool in Apple Notes.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-13-dookie-demastered",
+   "name": "Dookie Demastered",
+   "url": "https://www.dookiedemastered.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The silliest, most delightful thing of the week: Green Day took its 30-year-old masterpiece of a record and tried to make it work on, like, an electric toothbrush. Am I willing to pay $79 for a Big Mouth Billy Bass that plays the song “Basket Case”? OF COURSE I AM.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-13-google-docs-tabs",
+   "name": "Google Docs tabs",
+   "url": "https://workspaceupdates.googleblog.com/2024/10/tabs-in-google-docs.html",
+   "alt_urls": [
+    "https://www.theverge.com/2024/10/8/24265025/google-docs-tabs-organization-feature-availability"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This is one of those tiny organizational things — splitting a Google Docs doc into tabs instead of just a billion pages — that is going to make my life so much easier. Now can Google just make the mobile app good? Please?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-13-its-a-pixel-6",
+   "name": "It’s a Pixel 6",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: It’s a Pixel 6. I know this may go against the tech enthusiast philosophy of “the latest and greatest,” but I tend to hold on to my phones as long as they work (or break — I’ve been known to drop one or two).",
+   "section": "screen-share",
+   "recommender": "Barbara"
+  },
+  {
+   "id": "2024-10-13-agatha-all-along",
+   "name": "Agatha All Along",
+   "url": "https://www.themoviedb.org/tv/138501-agatha-all-along?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Current media obsessions include Agatha All Along , The Great British Bake Off , and rewatching Doctor Who . We’re just finishing the Peter Capaldi era and haven’t yet decided whether to proceed to the Jodie Whittaker era or go back to one of the old Whos, like Tom Baker.",
+   "section": "screen-share",
+   "recommender": "Barbara"
+  },
+  {
+   "id": "2024-10-13-the-great-british-bake-off",
+   "name": "The Great British Bake Off",
+   "url": "https://www.themoviedb.org/tv/87012-the-great-british-bake-off?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Current media obsessions include Agatha All Along , The Great British Bake Off , and rewatching Doctor Who . We’re just finishing the Peter Capaldi era and haven’t yet decided whether to proceed to the Jodie Whittaker era or go back to one of the old Whos, like Tom Baker.",
+   "section": "screen-share",
+   "recommender": "Barbara"
+  },
+  {
+   "id": "2024-10-13-doctor-who",
+   "name": "Doctor Who",
+   "url": "https://www.themoviedb.org/movie/15691-doctor-who?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Current media obsessions include Agatha All Along , The Great British Bake Off , and rewatching Doctor Who . We’re just finishing the Peter Capaldi era and haven’t yet decided whether to proceed to the Jodie Whittaker era or go back to one of the old Whos, like Tom Baker.",
+   "section": "screen-share",
+   "recommender": "Barbara"
+  },
+  {
+   "id": "2024-10-13-slow-horses",
+   "name": "Slow Horses",
+   "url": "https://www.themoviedb.org/tv/95480-slow-horses?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Current media obsessions include Agatha All Along , The Great British Bake Off , and rewatching Doctor Who . We’re just finishing the Peter Capaldi era and haven’t yet decided whether to proceed to the Jodie Whittaker era or go back to one of the old Whos, like Tom Baker.",
+   "section": "screen-share",
+   "recommender": "Barbara"
+  },
+  {
+   "id": "2024-10-13-the-bright-sword",
+   "name": "The Bright Sword",
+   "url": "https://www.penguinrandomhouse.com/books/554241/the-bright-sword-by-lev-grossman/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Current media obsessions include Agatha All Along , The Great British Bake Off , and rewatching Doctor Who . We’re just finishing the Peter Capaldi era and haven’t yet decided whether to proceed to the Jodie Whittaker era or go back to one of the old Whos, like Tom Baker.",
+   "section": "screen-share",
+   "recommender": "Barbara"
+  },
+  {
+   "id": "2024-10-13-words-with-friends-2",
+   "name": "Words With Friends 2",
+   "url": "https://www.zynga.com/games/words-with-friends-2/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Current media obsessions include Agatha All Along , The Great British Bake Off , and rewatching Doctor Who . We’re just finishing the Peter Capaldi era and haven’t yet decided whether to proceed to the Jodie Whittaker era or go back to one of the old Whos, like Tom Baker.",
+   "section": "screen-share",
+   "recommender": "Barbara"
+  },
+  {
+   "id": "2024-10-13-wordle",
+   "name": "Wordle",
+   "url": "https://www.nytimes.com/games/wordle/index.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Current media obsessions include Agatha All Along , The Great British Bake Off , and rewatching Doctor Who . We’re just finishing the Peter Capaldi era and haven’t yet decided whether to proceed to the Jodie Whittaker era or go back to one of the old Whos, like Tom Baker.",
+   "section": "screen-share",
+   "recommender": "Barbara"
+  },
+  {
+   "id": "2024-10-13-duolingo",
+   "name": "Duolingo",
+   "url": "https://www.duolingo.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Current media obsessions include Agatha All Along , The Great British Bake Off , and rewatching Doctor Who . We’re just finishing the Peter Capaldi era and haven’t yet decided whether to proceed to the Jodie Whittaker era or go back to one of the old Whos, like Tom Baker.",
+   "section": "screen-share",
+   "recommender": "Barbara"
+  },
+  {
+   "id": "2024-10-13-im-starting-to-worry-about-this-black-box-of-doo",
+   "name": "I’m Starting to Worry About This Black Box of Doom",
+   "url": "https://us.macmillan.com/books/9781250285959/imstartingtoworryaboutthisblackboxofdoom",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Reading Jason Pargin’s I’m Starting to Worry About This Black Box of Doom . A dark, funny commentary on modern culture.",
+   "section": "crowdsourced",
+   "recommender": "Matthew (reader)"
+  },
+  {
+   "id": "2024-10-13-strudel",
+   "name": "Strudel",
+   "url": "https://strudel.cc/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Strudel . I’ve used a lot of live-coding languages and frameworks, but so far, this one has worked the best for me. It’s a really fun and immediate way of making music compared to a traditional DAW.",
+   "section": "crowdsourced",
+   "recommender": "Tom (reader)"
+  },
+  {
+   "id": "2024-10-13-ticktick",
+   "name": "TickTick",
+   "url": "https://ticktick.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently stopped using TickTick , as I’ve been trying to reduce my subscriptions. I wanted to try living off of Apple Reminders. I feel like it’s 90 percent of the way there. Luckily, for the last 10 percent, I think I found the perfect app with GoodTask !",
+   "section": "crowdsourced",
+   "recommender": "John (reader)"
+  },
+  {
+   "id": "2024-10-13-goodtask",
+   "name": "GoodTask",
+   "url": "https://goodtaskapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently stopped using TickTick , as I’ve been trying to reduce my subscriptions. I wanted to try living off of Apple Reminders. I feel like it’s 90 percent of the way there. Luckily, for the last 10 percent, I think I found the perfect app with GoodTask !",
+   "section": "crowdsourced",
+   "recommender": "John (reader)"
+  },
+  {
+   "id": "2024-10-13-native-union-re-classic-case",
+   "name": "Native Union (Re)Classic Case",
+   "url": "https://www.nativeunion.com/products/reclassic-case-for-iphone-16?variant=42708279492747",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I picked up the Native Union (Re)Classic Case for my iPhone 16 Pro, and this thing is nice.",
+   "section": "crowdsourced",
+   "recommender": "Joe (reader)"
+  },
+  {
+   "id": "2024-10-13-superlocal-maps",
+   "name": "Superlocal Maps",
+   "url": "https://superlocal.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Superlocal Maps has been a lot of fun and really useful. My favorite feature is Fog of World, which keeps track of where you have and haven’t ‘discovered’ in the world, similar to discovering locations in games like Fortnite but in the real world.",
+   "section": "crowdsourced",
+   "recommender": "Harry (reader)"
+  },
+  {
+   "id": "2024-10-13-3-in-1-ninja-luxe",
+   "name": "3-in-1 Ninja Luxe",
+   "url": "http://ninjakitchen.pxf.io/Mmae22",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The new 3-in-1 Ninja Luxe espresso machine has been keeping me overcaffeinated. Weight-based dosing ensures your beans are consistently ground, it evaluates the shots you pull to recommend changes to grind size, and the automated frother makes it easy to get right, too.",
+   "section": "crowdsourced",
+   "recommender": "Scott (reader)"
+  },
+  {
+   "id": "2024-10-13-idle-iktah",
+   "name": "Idle Iktah",
+   "url": "https://grounded.games/idle_iktah.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I was looking for a good idle / incremental game to play in down moments, and Idle Iktah has totally fit the bill. I can enjoy mobile games a bit too much sometimes and have to be cautious about getting caught in addictive gameplay loops.",
+   "section": "crowdsourced",
+   "recommender": "Emmett (reader)"
+  },
+  {
+   "id": "2024-10-13-forever-notes",
+   "name": "Forever Notes",
+   "url": "https://www.myforevernotes.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Apple’s native apps have gotten good enough to be your main productivity stack. Forever Notes is an elegant and fresh look at configuring Apple Notes as a sophisticated note program. As a longtime and happy Obsidian user, I’m impressed with how well this configuration works.",
+   "section": "crowdsourced",
+   "recommender": "Jim (reader)"
+  },
+  {
+   "id": "2024-10-13-overcast",
+   "name": "Overcast",
+   "url": "https://overcast.fm/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am an old paying Overcast user and can confirm that the new Swift version is finally working fine.",
+   "section": "crowdsourced",
+   "recommender": "Gabriel (reader)"
+  }
+ ]
+}

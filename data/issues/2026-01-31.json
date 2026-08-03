@@ -1,0 +1,479 @@
+{
+ "schema": 1,
+ "date": "2026-01-31",
+ "post_type": "issue",
+ "title": "A nice upgrade for Apple’s simplest gadget",
+ "url": "https://www.theverge.com/tech/871493/apple-airtags-yahoo-scout-wonder-man-installer",
+ "author": "David Pierce",
+ "number": 114,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:40+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-01-31-wind-turbines",
+   "name": "wind turbines",
+   "url": "https://www.curbed.com/article/wind-farm-offshore-new-york-city-empire-wind-trump-injunction.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about wind turbines and phishing scams and oboes , keeping organized with the ultra-minimal Attn app, testing the lovely Aeronaut Bluesky client, spending too much time researching electric snow shovels , finally upgrading my trusty podcast headphones to a new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-31-phishing-scams",
+   "name": "phishing scams",
+   "url": "https://dispatch-media.com/the-student-behind-a-phishing-empire/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about wind turbines and phishing scams and oboes , keeping organized with the ultra-minimal Attn app, testing the lovely Aeronaut Bluesky client, spending too much time researching electric snow shovels , finally upgrading my trusty podcast headphones to a new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-31-oboes",
+   "name": "oboes",
+   "url": "https://www.nytimes.com/2026/01/14/arts/music/oboe-laubin-jim-phelan.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about wind turbines and phishing scams and oboes , keeping organized with the ultra-minimal Attn app, testing the lovely Aeronaut Bluesky client, spending too much time researching electric snow shovels , finally upgrading my trusty podcast headphones to a new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-31-attn",
+   "name": "Attn",
+   "url": "https://attnos.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about wind turbines and phishing scams and oboes , keeping organized with the ultra-minimal Attn app, testing the lovely Aeronaut Bluesky client, spending too much time researching electric snow shovels , finally upgrading my trusty podcast headphones to a new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-31-aeronaut",
+   "name": "Aeronaut",
+   "url": "https://aeronautapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about wind turbines and phishing scams and oboes , keeping organized with the ultra-minimal Attn app, testing the lovely Aeronaut Bluesky client, spending too much time researching electric snow shovels , finally upgrading my trusty podcast headphones to a new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-31-electric-snow-shovels",
+   "name": "electric snow shovels",
+   "url": "https://www.youtube.com/watch?v=U1AlRJXsaks",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about wind turbines and phishing scams and oboes , keeping organized with the ultra-minimal Attn app, testing the lovely Aeronaut Bluesky client, spending too much time researching electric snow shovels , finally upgrading my trusty podcast headphones to a new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-31-a-new-beyerdynamic-pair",
+   "name": "a new Beyerdynamic pair",
+   "url": "https://north-america.beyerdynamic.com/p/dt-770-pro",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about wind turbines and phishing scams and oboes , keeping organized with the ultra-minimal Attn app, testing the lovely Aeronaut Bluesky client, spending too much time researching electric snow shovels , finally upgrading my trusty podcast headphones to a new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-31-superstore",
+   "name": "Superstore",
+   "url": "https://www.themoviedb.org/tv/62649-superstore?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about wind turbines and phishing scams and oboes , keeping organized with the ultra-minimal Attn app, testing the lovely Aeronaut Bluesky client, spending too much time researching electric snow shovels , finally upgrading my trusty podcast headphones to a new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-31-apple-airtags",
+   "name": "Apple AirTags",
+   "url": "https://www.amazon.com/Apple-AirTag-2nd-Generation-Precision/dp/B0GJTFXNRX/?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "This is great timing, because all my AirTag batteries are dying. I’m most excited by the new model’s louder speaker, but it’s full of little upgrades that should make this very simple, very useful gadget just a little better at everything.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-31-yahoo-scout",
+   "name": "Yahoo Scout",
+   "url": "https://scout.yahoo.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is already straight-up my favorite AI search product on the web. It has lots of links, it’s not weirdly friendly or overly complex — it’s kind of like an auto-generating Wikipedia page, on whatever subject you pick. Just make sure you click the links instead of believing the bot, you know?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-31-crushable",
+   "name": "Crushable",
+   "url": "https://www.yahoo.com/games/play/crushable/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Big week for Yahoo, apparently! This is Wordle meets Candy Crush , if that makes any sense? I do like the idea of a finite version of games like this that incentivize you to just play a few minutes a day. Also, TIL the Yahoo Games app exists. And is pretty good.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-31-openclaw",
+   "name": "OpenClaw",
+   "url": "https://openclaw.ai/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Don’t call it Moltbot, or Clawdbot — it’s apparently OpenClaw now. Whatever the name, this tool for controlling your devices with AI and messaging apps has absolutely taken over the internet. Use it with caution, but my goodness is it powerful.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-31-wonder-man",
+   "name": "Wonder Man",
+   "url": "https://www.themoviedb.org/tv/198178-wonder-man?language=en-US",
+   "alt_urls": [
+    "https://www.theverge.com/entertainment/866197/wonder-man-review-mcu-disney-plus"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Today I learned Wonder Man is a thing that exists? As skeptical as I am of every new Marvel creation these days, the reviews for this series have been solid, and love that it seems to barely even want to be a superhero show.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-31-shrinking-season-3",
+   "name": "Shrinking season 3",
+   "url": "https://www.themoviedb.org/tv/136311-shrinking?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This show has just continued to deliver, and I’ve officially reached the “I hope they make a billion episodes and I will watch every single one” stage of my fandom. Plus, there is apparently even more star power this season?!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-31-halide-mark-iii",
+   "name": "Halide Mark III",
+   "url": "https://www.lux.camera/mark-iii-looks/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A big (though still in preview) upgrade to one of the best iOS camera apps. Process Zero is one of the best ways to take phone pictures, if you ask me, and I already dig the new film-simulation preset as well.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-31-the-sonos-amp-multi",
+   "name": "The Sonos Amp Multi",
+   "url": "https://www.sonos.com/en-us/shop/amp-multi/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The first new Sonos hardware in a minute, and it’s not exactly a mainstream gadget: It’s meant for people designing and installing huge and complex systems. But hey, if that’s you, this thing might be a godsend.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-31-chrome-auto-browse",
+   "name": "Chrome auto browse",
+   "url": "https://www.google.com/chrome/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "AI agents are quickly becoming table stakes for any web browser, despite the fact they don’t often work very well. But frankly, if anyone can put the pieces together successfully and navigate the web on your behalf, it’s Google. I’ll be testing this one a lot.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-31-i-had-to-check-the-settings",
+   "name": "I had to check the settings",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: I had to check the settings. I know. It’s an iPhone 15. I’m a “work gave me this phone” guy.",
+   "section": "screen-share",
+   "recommender": "Mims"
+  },
+  {
+   "id": "2026-01-31-bitcam",
+   "name": "BitCam",
+   "url": "https://iconfactory.com/bc.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "In the lower-left corner is BitCam . If you have an attachment to the original black-and-white dithering algorithm, and like the way high-contrast photos look in it, it’s for you.",
+   "section": "screen-share",
+   "recommender": "Mims"
+  },
+  {
+   "id": "2026-01-31-hark",
+   "name": "Hark",
+   "url": "https://harkaudio.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "In the lower-left corner is BitCam . If you have an attachment to the original black-and-white dithering algorithm, and like the way high-contrast photos look in it, it’s for you.",
+   "section": "screen-share",
+   "recommender": "Mims"
+  },
+  {
+   "id": "2026-01-31-bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Bluesky is good now, just don’t tell anyone. The BBC has started posting really deep cuts from its archive , including a documentary about windmills that is so painterly it could be screened at MoMA. I remain a forever Polytopia addict, it calms me.",
+   "section": "screen-share",
+   "recommender": "Mims"
+  },
+  {
+   "id": "2026-01-31-really-deep-cuts-from-its-archive",
+   "name": "really deep cuts from its archive",
+   "url": "https://www.youtube.com/BBCArchive",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Bluesky is good now, just don’t tell anyone. The BBC has started posting really deep cuts from its archive , including a documentary about windmills that is so painterly it could be screened at MoMA. I remain a forever Polytopia addict, it calms me.",
+   "section": "screen-share",
+   "recommender": "Mims"
+  },
+  {
+   "id": "2026-01-31-a-documentary-about-windmills",
+   "name": "a documentary about windmills",
+   "url": "https://www.youtube.com/watch?v=e5m4TALNvog",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Bluesky is good now, just don’t tell anyone. The BBC has started posting really deep cuts from its archive , including a documentary about windmills that is so painterly it could be screened at MoMA. I remain a forever Polytopia addict, it calms me.",
+   "section": "screen-share",
+   "recommender": "Mims"
+  },
+  {
+   "id": "2026-01-31-polytopia",
+   "name": "Polytopia",
+   "url": "https://polytopia.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Bluesky is good now, just don’t tell anyone. The BBC has started posting really deep cuts from its archive , including a documentary about windmills that is so painterly it could be screened at MoMA. I remain a forever Polytopia addict, it calms me.",
+   "section": "screen-share",
+   "recommender": "Mims"
+  },
+  {
+   "id": "2026-01-31-maria-konnikova",
+   "name": "Maria Konnikova",
+   "url": "https://mariakonnikova.substack.com/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "newsletter"
+   ],
+   "blurb": "Bluesky is good now, just don’t tell anyone. The BBC has started posting really deep cuts from its archive , including a documentary about windmills that is so painterly it could be screened at MoMA. I remain a forever Polytopia addict, it calms me.",
+   "section": "screen-share",
+   "recommender": "Mims"
+  },
+  {
+   "id": "2026-01-31-a-great-newsletter-item",
+   "name": "a great newsletter item",
+   "url": "https://mariakonnikova.substack.com/p/the-power-of-the-literally-written",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "newsletter"
+   ],
+   "blurb": "Bluesky is good now, just don’t tell anyone. The BBC has started posting really deep cuts from its archive , including a documentary about windmills that is so painterly it could be screened at MoMA. I remain a forever Polytopia addict, it calms me.",
+   "section": "screen-share",
+   "recommender": "Mims"
+  },
+  {
+   "id": "2026-01-31-the-roottrees-are-dead",
+   "name": "The Roottrees are Dead",
+   "url": "https://roottrees.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been obsessing over The Roottrees are Dead , a game where you play an investigator in 1998 attempting to put together a family tree. You do this using era-appropriate internet search engines and a corkboard with string. Also the soundtrack that plays is the perfect vibe.",
+   "section": "crowdsourced",
+   "recommender": "Jonathan (reader)"
+  },
+  {
+   "id": "2026-01-31-these-matter-enabled-tapo-ones",
+   "name": "these Matter-enabled Tapo ones",
+   "url": "https://www.tp-link.com/us/home-networking/smart-switch/tapo-s505/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I use Apple’s Home app to control all the smart stuff in the house. I installed Wemo light switches six-ish years ago. They never worked consistently. Recently swapped them out for these Matter-enabled Tapo ones .",
+   "section": "crowdsourced",
+   "recommender": "Ryan (reader)"
+  },
+  {
+   "id": "2026-01-31-mecha-comet",
+   "name": "Mecha Comet",
+   "url": "https://mecha.so/comet",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Mecha Comet is a modular Linux handheld and I’ve fallen in love with it!",
+   "section": "crowdsourced",
+   "recommender": "@trainsandinternet (reader)"
+  },
+  {
+   "id": "2026-01-31-halo-the-master-chief-collection",
+   "name": "Halo: The Master Chief Collection",
+   "url": "https://www.xbox.com/en-US/games/halo-the-master-chief-collection",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I’m playing through Halo: The Master Chief Collection , and lamenting over how badly Microsoft dropped the ball with this iconic IP. (You had Cortana, that could’ve been your cool AI assistant, but you killed it?! And the Halo TV series! And the latest Halo games!)",
+   "section": "crowdsourced",
+   "recommender": "Anshuman (reader)"
+  },
+  {
+   "id": "2026-01-31-send-help",
+   "name": "Send Help",
+   "url": "https://www.themoviedb.org/movie/1198994-send-help?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Watching Send Help , aka the third gory horror movie I’ve seen in the cinemas this month.",
+   "section": "crowdsourced",
+   "recommender": "Kev (reader)"
+  },
+  {
+   "id": "2026-01-31-focusflight",
+   "name": "FocusFlight",
+   "url": "https://apps.apple.com/us/app/focusflight-deepfocus-timer/id6648771147",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "I recently discovered FocusFlight , and it has become the app I turn to when I need to dive into focused work. It’s a really cool mix of ideas, and as an aviation nut, it’s a great app for me to use while I’m trying to stay focused on work or any other activity.",
+   "section": "crowdsourced",
+   "recommender": "Adam (reader)"
+  },
+  {
+   "id": "2026-01-31-fiio-snowsky-disc",
+   "name": "Fiio Snowsky Disc",
+   "url": "https://www.aliexpress.com/p/wiki/article.html?keywords=fiio-launched-the-snowsky-disc-an-affordable-retro-inspired-music-player",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My Fiio Snowsky Disc DAP AliExpress order came in last weekend, and I’ve been having lots of fun with it this week. It’s modeled to call back to an earlier generation of music players, this time a minidisc unit.",
+   "section": "crowdsourced",
+   "recommender": "Brian (reader)"
+  },
+  {
+   "id": "2026-01-31-pokemon-tcg-pocket",
+   "name": "Pokémon TCG Pocket",
+   "url": "https://tcgpocket.pokemon.com/en-us/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The newest Pokémon TCG Pocket update just dropped this week, so I’ll be ripping packs and building some fun new decks. Excited about Stadium cards finally in the game!",
+   "section": "crowdsourced",
+   "recommender": "Bob (reader)"
+  },
+  {
+   "id": "2026-01-31-blood-on-the-clocktower",
+   "name": "Blood on the Clocktower",
+   "url": "https://bloodontheclocktower.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I wanted to recommend Blood on the Clocktower :) It’s a social deduction game, similar to Mafia, Werewolf, or Among Us , but it has the added advantage of making every role useful and players can participate even after their death.",
+   "section": "crowdsourced",
+   "recommender": "Jack (reader)"
+  },
+  {
+   "id": "2026-01-31-no-rolls-barred",
+   "name": "No Rolls Barred",
+   "url": "https://www.youtube.com/playlist?list=PLQBGXhGots83LIf1qY4Zg0Mp9qU1Kr2Hv",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I wanted to recommend Blood on the Clocktower :) It’s a social deduction game, similar to Mafia, Werewolf, or Among Us , but it has the added advantage of making every role useful and players can participate even after their death.",
+   "section": "crowdsourced",
+   "recommender": "Jack (reader)"
+  },
+  {
+   "id": "2026-01-31-good-time-society",
+   "name": "Good Time Society",
+   "url": "https://www.youtube.com/playlist?list=PLtzTuYwAIJ8UHTl0L7DjjWNmQUHNgo4UA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I wanted to recommend Blood on the Clocktower :) It’s a social deduction game, similar to Mafia, Werewolf, or Among Us , but it has the added advantage of making every role useful and players can participate even after their death.",
+   "section": "crowdsourced",
+   "recommender": "Jack (reader)"
+  },
+  {
+   "id": "2026-01-31-wrote-a-great-essay",
+   "name": "wrote a great essay",
+   "url": "https://www.inkandswitch.com/essay/local-first/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The team at Ink & Switch wrote a great essay about local-first software a while back, and this week I stumbled on CultRepo’s 10-minute YouTube doc that digs in on the concept even more.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-01-31-cultrepos-10-minute-youtube-doc",
+   "name": "CultRepo’s 10-minute YouTube doc",
+   "url": "https://www.youtube.com/watch?v=10d8HxS4y_g",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The team at Ink & Switch wrote a great essay about local-first software a while back, and this week I stumbled on CultRepo’s 10-minute YouTube doc that digs in on the concept even more.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

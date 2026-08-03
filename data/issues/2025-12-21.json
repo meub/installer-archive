@@ -1,0 +1,492 @@
+{
+ "schema": 1,
+ "date": "2025-12-21",
+ "post_type": "issue",
+ "title": "Our favorite stuff of 2025",
+ "url": "https://www.theverge.com/tech/848567/best-tech-movies-gadgets-2025-installer",
+ "author": "David Pierce",
+ "number": 110,
+ "sections_found": [
+  "intro",
+  "my-favorite-stuff-of",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:40+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-12-21-mall-santas",
+   "name": "mall Santas",
+   "url": "https://www.esquire.com/lifestyle/a69597294/santaland-bob-rutan/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about mall Santas and malleable software and phone bans , wondering how I barely know any of the songs in DJ Earworm’s annual mashup , waiting patiently for Ugmonk’s Layflat notebooks to go back on sale, finally setting up my Switch 2 Camera for some holiday gaming…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-21-malleable-software",
+   "name": "malleable software",
+   "url": "https://www.inkandswitch.com/essay/malleable-software/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about mall Santas and malleable software and phone bans , wondering how I barely know any of the songs in DJ Earworm’s annual mashup , waiting patiently for Ugmonk’s Layflat notebooks to go back on sale, finally setting up my Switch 2 Camera for some holiday gaming…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-21-phone-bans",
+   "name": "phone bans",
+   "url": "https://nymag.com/intelligencer/article/how-new-york-public-school-phone-ban-saved-high-school.html?isNewSocialUser=false&providerId=google.com",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about mall Santas and malleable software and phone bans , wondering how I barely know any of the songs in DJ Earworm’s annual mashup , waiting patiently for Ugmonk’s Layflat notebooks to go back on sale, finally setting up my Switch 2 Camera for some holiday gaming…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-21-dj-earworms-annual-mashup",
+   "name": "DJ Earworm’s annual mashup",
+   "url": "https://www.youtube.com/watch?v=R68omRiNLTs",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about mall Santas and malleable software and phone bans , wondering how I barely know any of the songs in DJ Earworm’s annual mashup , waiting patiently for Ugmonk’s Layflat notebooks to go back on sale, finally setting up my Switch 2 Camera for some holiday gaming…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-21-layflat-notebooks",
+   "name": "Layflat notebooks",
+   "url": "https://ugmonk.com/collections/objects/products/layflat-notebook-bundle-set-of-3?variant=45850867433622",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about mall Santas and malleable software and phone bans , wondering how I barely know any of the songs in DJ Earworm’s annual mashup , waiting patiently for Ugmonk’s Layflat notebooks to go back on sale, finally setting up my Switch 2 Camera for some holiday gaming…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-21-switch-2-camera",
+   "name": "Switch 2 Camera",
+   "url": "https://www.amazon.com/Nintendo-SwitchTM-2-Camera-Switch/dp/B0F3VY5HYY/?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "This week, I’ve been reading about mall Santas and malleable software and phone bans , wondering how I barely know any of the songs in DJ Earworm’s annual mashup , waiting patiently for Ugmonk’s Layflat notebooks to go back on sale, finally setting up my Switch 2 Camera for some holiday gaming…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-21-craft",
+   "name": "Craft",
+   "url": "https://www.craft.do/imagine",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about mall Santas and malleable software and phone bans , wondering how I barely know any of the songs in DJ Earworm’s annual mashup , waiting patiently for Ugmonk’s Layflat notebooks to go back on sale, finally setting up my Switch 2 Camera for some holiday gaming…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-21-drummer-boy",
+   "name": "Drummer Boy",
+   "url": "https://www.youtube.com/watch?v=txpdpWyY2xg",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about mall Santas and malleable software and phone bans , wondering how I barely know any of the songs in DJ Earworm’s annual mashup , waiting patiently for Ugmonk’s Layflat notebooks to go back on sale, finally setting up my Switch 2 Camera for some holiday gaming…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-21-enshittification",
+   "name": "Enshittification",
+   "url": "https://us.macmillan.com/books/9780374619329/enshittification/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Cory Doctorow’s book was very fun to read, while simultaneously filling me with rage on every page. It explains the world in that way that is just really satisfying and helpful, a real oh so it’s not just me sort of feeling.",
+   "section": "my-favorite-stuff-of",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-21-the-sony-wh-1000xm6",
+   "name": "The Sony WH-1000XM6",
+   "url": "https://www.amazon.com/Sony-WH-1000XM5-Canceling-Headphones-Midnight/dp/B0FZYGSQSJ/?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "I bought both these and a pair of AirPods Pro 3 this year and like them both a great deal, but the Sonys are just a cut above. I can wear them all day, they sound great, their noise cancellation is ridiculous. Am I ashamed to admit I wore these a lot while holding screaming newborns this year?",
+   "section": "my-favorite-stuff-of",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-21-the-nintendo-switch-2",
+   "name": "The Nintendo Switch 2",
+   "url": "https://www.amazon.com/Nintendo-Switch-2-System/dp/B0F3GWXLTS/?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "Much as I love the headphones, this is my gadget purchase of the year. I spent years saying all I wanted was a better, faster Switch, and that’s exactly what I got. Life in Mario Kart World is still really good.",
+   "section": "my-favorite-stuff-of",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-21-claude-code",
+   "name": "Claude Code.",
+   "url": "https://claude.com/product/claude-code",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "There’s a lot of crappy AI out there, but there’s simply no question that large language models can write workable code for simple projects. I’ve spent the year retuning my brain to solve all my tiny problems by building one-off apps and browser extensions, and suddenly my power knows no bounds.",
+   "section": "my-favorite-stuff-of",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-21-antinote",
+   "name": "Antinote",
+   "url": "https://antinote.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "For all my note-taking systems, I am constantly in need of a quick scratchpad to just do some math or write stuff down. This Mac app is a scratchpad that doubles as a calculator, a timer, a list-maker, and much more. I use it (and the iOS beta!) a million times a day.",
+   "section": "my-favorite-stuff-of",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-21-the-studio",
+   "name": "The Studio",
+   "url": "https://www.themoviedb.org/tv/247767-the-studio?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Take my 2025 TV recommendations with a grain of salt, because for a lot of life and work reasons I’ve never been so behind on great shows. ( Pluribus is about to be my Christmas present to myself.)",
+   "section": "my-favorite-stuff-of",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-21-amazons-echo-dot-max",
+   "name": "Amazon’s Echo Dot Max",
+   "url": "https://www.amazon.com/dp/B0D6SX8VLQ/?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "I haven’t been a smart speaker guy for years, but we moved into a new house this fall, and I took the opportunity to install some smart lights and a new speaker.",
+   "section": "my-favorite-stuff-of",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-21-philips-hue-essentials",
+   "name": "Philips Hue Essentials",
+   "url": "https://www.amazon.com/Philips-Hue-Essential-Starter-Kit/dp/B0FMGR8TGB/?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "Smart lights are expensive. They also rule. I’ve rigged mine up so that my once too-bright-and-too-cold house now feels cozy and warm all the time.",
+   "section": "my-favorite-stuff-of",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-21-good-hang",
+   "name": "Good Hang",
+   "url": "https://www.theringer.com/podcasts/good-hang-with-amy-poehler",
+   "alt_urls": [
+    "https://www.theringer.com/podcasts/good-hang-with-amy-poehler/2025/03/18/martin-short"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "It takes a lot for a new podcast to enter my rotation, and I don’t listen to many celeb-to-celeb podcasts. And yet, I’ve listened to every single one of these Amy Poehler chats. (And judging by the charts, so has everybody else.)",
+   "section": "my-favorite-stuff-of",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-21-puzzmo",
+   "name": "Puzzmo",
+   "url": "https://www.puzzmo.com/today/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve spent a lot of time trying to find better things to do on my phone, and the trade I recommend most is swapping social media scrolling for five minutes of puzzle games. From Really Bad Chess to Pile-Up Poker, Puzzmo is now one of the few apps I use every single day.",
+   "section": "my-favorite-stuff-of",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-21-iphone-17-pro",
+   "name": "iPhone 17 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 17 Pro. Not orange. I’ve never used another smartphone aside from the iPhone. I like my groove / rut. I do not like Liquid Glass though.",
+   "section": "screen-share",
+   "recommender": "Jason"
+  },
+  {
+   "id": "2025-12-21-swarm",
+   "name": "Swarm",
+   "url": "https://swarmapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Welcome to my normcore homescreen. I don’t really spend a lot of time evaluating new apps or whatever.",
+   "section": "screen-share",
+   "recommender": "Jason"
+  },
+  {
+   "id": "2025-12-21-the-american-revolution",
+   "name": "The American Revolution",
+   "url": "https://www.pbs.org/show/the-american-revolution/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "You know who’s really great at their jobs? Ken Burns and his collaborators. I’ve been watching The American Revolution on PBS, and it’s just so interesting. It’s the kind of show I put on and 10 minutes in, I’m like, oh no, I actually wanted to go to sleep before 1AM tonight...",
+   "section": "screen-share",
+   "recommender": "Jason"
+  },
+  {
+   "id": "2025-12-21-opus-4-5",
+   "name": "Opus 4.5",
+   "url": "https://www.anthropic.com/news/claude-opus-4-5",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "You know who’s really great at their jobs? Ken Burns and his collaborators. I’ve been watching The American Revolution on PBS, and it’s just so interesting. It’s the kind of show I put on and 10 minutes in, I’m like, oh no, I actually wanted to go to sleep before 1AM tonight...",
+   "section": "screen-share",
+   "recommender": "Jason"
+  },
+  {
+   "id": "2025-12-21-raindrop",
+   "name": "Raindrop",
+   "url": "https://raindrop.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "You know who’s really great at their jobs? Ken Burns and his collaborators. I’ve been watching The American Revolution on PBS, and it’s just so interesting. It’s the kind of show I put on and 10 minutes in, I’m like, oh no, I actually wanted to go to sleep before 1AM tonight...",
+   "section": "screen-share",
+   "recommender": "Jason"
+  },
+  {
+   "id": "2025-12-21-keychron-q1-he",
+   "name": "Keychron Q1 HE",
+   "url": "https://www.amazon.com/Keychron-Mechanical-Double-Rail-Compatible-Hot-swappable/dp/B0D4YKXSPD/?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The Keychron Q1 HE keyboard that I’m currently tapping away on. It’s heavy as a brick, wonderful to type on, can be customised up the wazoo and is very slick to look at, in black, cream and a single red Escape key (the ANSI version apparently has a red Enter key as well, but not the ISO I’m…",
+   "section": "crowdsourced",
+   "recommender": "Anders (reader)"
+  },
+  {
+   "id": "2025-12-21-project-hail-mary",
+   "name": "Project Hail Mary",
+   "url": "https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135229/?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "Project Hail Mary by Andy Weir. I got back into reading this summer and read all three of his novels. Only after I finished Project Hail Mary did I figure out it’s coming out as a movie next year, so that was fun!",
+   "section": "crowdsourced",
+   "recommender": "Michael (reader)"
+  },
+  {
+   "id": "2025-12-21-home-assistant-green",
+   "name": "Home Assistant Green",
+   "url": "https://www.home-assistant.io/green/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Home Assistant Green . I was hesitant to go for it and I don’t regret it. It’s an amazing thing. I have several sensors connected via Zigbee and I love automation. I only buy new things that can be integrated into Home Assistant. I highly recommend it.",
+   "section": "crowdsourced",
+   "recommender": "Andris (reader)"
+  },
+  {
+   "id": "2025-12-21-fujifilm-x100v",
+   "name": "Fujifilm X100V",
+   "url": "https://www.fujifilm-x.com/en-us/products/cameras/x100v/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "In April 2024 I became a father, and have been obsessively taking photos on my iPhone. I got sick of how every photo looked the same and in May 2025, bought a used Fujifilm X100V (after reading the Verge review of the X Half and going down a rabbit hole of what camera I wanted).",
+   "section": "crowdsourced",
+   "recommender": "Zayd (reader)"
+  },
+  {
+   "id": "2025-12-21-gemini",
+   "name": "Gemini",
+   "url": "https://gemini.google.com/app",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My favorite tech-thing of the year is vibe coding! I’m a marketer with a very low level in development (I vaguely understand html and css).",
+   "section": "crowdsourced",
+   "recommender": "Rémi (reader)"
+  },
+  {
+   "id": "2025-12-21-chatgpt",
+   "name": "ChatGPT",
+   "url": "https://chatgpt.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My favorite tech-thing of the year is vibe coding! I’m a marketer with a very low level in development (I vaguely understand html and css).",
+   "section": "crowdsourced",
+   "recommender": "Rémi (reader)"
+  },
+  {
+   "id": "2025-12-21-claude",
+   "name": "Claude",
+   "url": "https://claude.ai/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My favorite tech-thing of the year is vibe coding! I’m a marketer with a very low level in development (I vaguely understand html and css).",
+   "section": "crowdsourced",
+   "recommender": "Rémi (reader)"
+  },
+  {
+   "id": "2025-12-21-apple-vision-pro",
+   "name": "Apple Vision Pro",
+   "url": "https://www.apple.com/apple-vision-pro/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Loving the new-to-me Apple Vision Pro . Work, entertainment etc are awesome in it. Couldn’t convince myself at MSRP, but at under $2,000 in the used market it’s awesome. Wish I had gotten one last year!",
+   "section": "crowdsourced",
+   "recommender": "Tony (reader)"
+  },
+  {
+   "id": "2025-12-21-trmnl",
+   "name": "TRMNL",
+   "url": "https://usetrmnl.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "For me it’s TRMNL . It’s such a nice and well thought out device supported by a great software platform. It allows me to tinker, but also to just use the ready made plugins without hassle.",
+   "section": "crowdsourced",
+   "recommender": "Estof (reader)"
+  },
+  {
+   "id": "2025-12-21-riddara",
+   "name": "Riddara",
+   "url": "https://www.riddara.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I started leasing a Riddara EV pickup, and I honestly love it. Coolest thing about it was reverse charging, even though I didn’t use it but just in case I’m running out of battery on my other EVs, I could use it to top it off. In terms of performance, it’s instantly fast, doing 0-60 in 4.5 seconds!",
+   "section": "crowdsourced",
+   "recommender": "Abdulla (reader)"
+  },
+  {
+   "id": "2025-12-21-sun-eater",
+   "name": "Sun Eater",
+   "url": "https://www.amazon.com/Shadows-Upon-Time-Eater-Seven/dp/0756420008/?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "Christopher Ruocchio’s Sun Eater series wrapped up in 2025, and it is far and away the sci-fi space opera I’ve ever read. I’d encourage fans of strong prose, deep and long tailed character development and tens-of-chapters long battles to dive in.",
+   "section": "crowdsourced",
+   "recommender": "Jon (reader)"
+  },
+  {
+   "id": "2025-12-21-ayn-odin-2-portal",
+   "name": "AYN Odin 2 Portal",
+   "url": "https://www.ayntec.com/products/odin2-portal",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Mine would have to be Android handhelds like the AYN Odin 2 Portal . Think of an ARM-based Steam Deck. It can run Android, emulation, and Steam games. The latter using Gamehub. Also has WiFi 7 and an OLED screen. Because it’s ARM, the battery life is much better than x86 handhelds.",
+   "section": "crowdsourced",
+   "recommender": "Alric (reader)"
+  },
+  {
+   "id": "2025-12-21-apple-in-china",
+   "name": "Apple in China",
+   "url": "https://www.amazon.com/Apple-China-Capture-Greatest-Company/dp/1668053373/?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The book Apple in China by Patrick McGee was hands down my favorite read of the year. Illuminates Apple’s larger-than-the-Marshall Plan impact on the Chinese technology manufacturing since the late 90s. So much to unpack from this masterfully told story.",
+   "section": "crowdsourced",
+   "recommender": "Cary (reader)"
+  },
+  {
+   "id": "2025-12-21-airpods-pro",
+   "name": "AirPods Pro",
+   "url": "https://www.amazon.com/Apple-Cancellation-Translation-Headphones-High-Fidelity/dp/B0FQFB8FMG/?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "AirPods Pro and the Dungeons and Daddies podcast! Many late nights with headphones in listening to this D&D podcast about four dads searching the realm for their kids. Turns out professional actors/comedians playing D&D is the best?",
+   "section": "crowdsourced",
+   "recommender": "Matt (reader)"
+  },
+  {
+   "id": "2025-12-21-dungeons-and-daddies",
+   "name": "Dungeons and Daddies",
+   "url": "https://www.dungeonsanddaddies.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "AirPods Pro and the Dungeons and Daddies podcast! Many late nights with headphones in listening to this D&D podcast about four dads searching the realm for their kids. Turns out professional actors/comedians playing D&D is the best?",
+   "section": "crowdsourced",
+   "recommender": "Matt (reader)"
+  },
+  {
+   "id": "2025-12-21-hp-1xc-calculators",
+   "name": "HP-1xC calculators",
+   "url": "https://en.wikipedia.org/wiki/HP_Voyager",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My favourite new-to-me thing of this year was discovering the wonders of the HP-1xC calculators . Launched in 1981/82, this series of calculators covered three very different domains of calculation: financial (HP-12C), scientific (HP-11C and HP-15C) and programming (HP-16C).",
+   "section": "crowdsourced",
+   "recommender": "William (reader)"
+  },
+  {
+   "id": "2025-12-21-mymind",
+   "name": "Mymind",
+   "url": "https://mymind.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Mymind . Simply brilliant, fast, intuitive, elegant and useful.",
+   "section": "crowdsourced",
+   "recommender": "Nicos (reader)"
+  },
+  {
+   "id": "2025-12-21-the-empire-of-the-vampire",
+   "name": "The Empire of the Vampire",
+   "url": "https://www.amazon.com/Empire-Vampire-1/dp/1250246512/?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The Empire of the Vampire by Jay Kristoff. As the title implies, it’s a vampire story. It’s bloody and brutal, the world lives in eternal winter, it’s surprisingly Catholic in its lore, one of the main characters is queer.",
+   "section": "crowdsourced",
+   "recommender": "Hannes (reader)"
+  },
+  {
+   "id": "2025-12-21-selphy-photo-printer",
+   "name": "Selphy Photo Printer",
+   "url": "https://www.usa.canon.com/shop/printers/selphy",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I picked up a Selphy Photo Printer in late November to bring to life a ‘Movie Wall’ I’ve been wanting to do forever. From Thanksgiving to Christmas we only watch holiday movies + TV.",
+   "section": "crowdsourced",
+   "recommender": "Taylor (reader)"
+  }
+ ]
+}

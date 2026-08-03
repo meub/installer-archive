@@ -1,0 +1,617 @@
+{
+ "schema": 1,
+ "date": "2025-05-04",
+ "post_type": "issue",
+ "title": "A worthy sequel to one of the best websites ever",
+ "url": "https://www.theverge.com/installer-newsletter/660376/one-million-chessboards-raycast-thunderbolts-installer",
+ "author": "David Pierce",
+ "number": 81,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-05-04-tech-bro-group-chats",
+   "name": "tech bro group chats",
+   "url": "https://www.semafor.com/article/04/27/2025/the-group-chats-that-changed-america",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about tech bro group chats and the history of ChatGPT and The Rest is History , wondering if maybe I should buy a Xiaomi car while simultaneously configuring a Slate Truck I never end up reserving, marveling over Steven Soderbergh’s filmmaking skills , testing out the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-04-the-history-of-chatgpt",
+   "name": "the history of ChatGPT",
+   "url": "https://www.quantamagazine.org/when-chatgpt-broke-an-entire-field-an-oral-history-20250430/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about tech bro group chats and the history of ChatGPT and The Rest is History , wondering if maybe I should buy a Xiaomi car while simultaneously configuring a Slate Truck I never end up reserving, marveling over Steven Soderbergh’s filmmaking skills , testing out the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-04-the-rest-is-history",
+   "name": "The Rest is History",
+   "url": "https://www.wsj.com/arts-culture/how-two-irreverent-historians-made-their-podcast-a-global-sensation-81de0a1b?st=KMycAg",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about tech bro group chats and the history of ChatGPT and The Rest is History , wondering if maybe I should buy a Xiaomi car while simultaneously configuring a Slate Truck I never end up reserving, marveling over Steven Soderbergh’s filmmaking skills , testing out the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-04-buy-a-xiaomi-car",
+   "name": "buy a Xiaomi car",
+   "url": "https://www.youtube.com/watch?v=IYz9kxLHj7g",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about tech bro group chats and the history of ChatGPT and The Rest is History , wondering if maybe I should buy a Xiaomi car while simultaneously configuring a Slate Truck I never end up reserving, marveling over Steven Soderbergh’s filmmaking skills , testing out the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-04-slate-truck",
+   "name": "Slate Truck",
+   "url": "https://www.slate.auto/en",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about tech bro group chats and the history of ChatGPT and The Rest is History , wondering if maybe I should buy a Xiaomi car while simultaneously configuring a Slate Truck I never end up reserving, marveling over Steven Soderbergh’s filmmaking skills , testing out the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-04-steven-soderberghs-filmmaking-skills",
+   "name": "Steven Soderbergh’s filmmaking skills",
+   "url": "https://www.youtube.com/watch?v=gfz0OHyCST0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about tech bro group chats and the history of ChatGPT and The Rest is History , wondering if maybe I should buy a Xiaomi car while simultaneously configuring a Slate Truck I never end up reserving, marveling over Steven Soderbergh’s filmmaking skills , testing out the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-04-limitless-pendant",
+   "name": "Limitless Pendant",
+   "url": "https://www.limitless.ai/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about tech bro group chats and the history of ChatGPT and The Rest is History , wondering if maybe I should buy a Xiaomi car while simultaneously configuring a Slate Truck I never end up reserving, marveling over Steven Soderbergh’s filmmaking skills , testing out the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-04-delta",
+   "name": "Delta",
+   "url": "https://faq.deltaemulator.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about tech bro group chats and the history of ChatGPT and The Rest is History , wondering if maybe I should buy a Xiaomi car while simultaneously configuring a Slate Truck I never end up reserving, marveling over Steven Soderbergh’s filmmaking skills , testing out the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-04-one-million-chessboards",
+   "name": "One Million Chessboards",
+   "url": "https://eieio.games/blog/one-million-chessboards/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "From the creator of One Million Checkboxes, one of the internet’s most bizarre and riveting social experiences, this is even more fun: a million chessboards, all playing at once. And once I discovered you can move pieces between boards, my brain truly began to melt.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-04-meta-ai",
+   "name": "Meta AI",
+   "url": "https://ai.meta.com/meta-ai/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I don’t know, y’all. Is an endless social feed of AI-generated stuff a good idea or a deeply horrible one? I have a theory, but I’m trying to stay open-minded. I do know that I’d rather use Meta AI in its own app instead of inside of Instagram. So that’s something.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-04-kayak-ai",
+   "name": "Kayak.ai",
+   "url": "http://kayak.ai",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is the kind of AI I’m more bullish on. It’s a conversational interface on a bunch of structured data — hotels, flights, rental cars — so you can just describe the trip you’re looking for rather than deal with a billion drop-downs and menus.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-04-raycast-for-ios",
+   "name": "Raycast for iOS",
+   "url": "https://www.raycast.com/ios",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=AXce_yexL0o"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Raycast continues to be the first app I install on a new Mac, and while the iOS app isn’t nearly as powerful — right now it’s really just an AI chat tool and a way to sync notes — it’s still been a handy addition to my homescreen. Hoping there’s lots more to come here.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-04-thunderbolts",
+   "name": "Thunderbolts",
+   "url": "https://www.themoviedb.org/movie/986056-thunderbolts",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Is Marvel… back? I did not expect the reviews on this movie about a bunch of lesser-known antiheroes to get rave reviews, and yet by all accounts this is the best thing since Endgame. And I’ll watch Florence Pugh in anything.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-04-shokz-opendots-one",
+   "name": "Shokz OpenDots One",
+   "url": "https://shokz.com/products/opendots-one?variant=44602028687560",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The ear-clip headphone design is really growing on me, and these new $200 ones look like the perfect thing for sticking on one ear during dog walks and boring meetings. And the fact that they’re interchangeable, so you can put either one in either ear? Game changer.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-04-the-nothing-cmf-phone-pro-2",
+   "name": "The Nothing CMF Phone Pro 2",
+   "url": "https://us.nothing.tech/pages/cmf-phone-2-pro",
+   "alt_urls": [
+    "https://www.theverge.com/news/657064/nothing-cmf-phone-pro-2-launch-us-release-price-modules"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The first CMF Phone was among the coolest cheap Android phones I’ve seen in years, and the new model follows it well . It’s even more modular (though annoyingly not really backwards compatible), has more cameras, and remains extremely nice to look at.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-04-letter-lock",
+   "name": "Letter Lock",
+   "url": "https://wordswithfriends.com/?af_xp=social&af_force_deeplink=true&wf_action=navigate&wf_kingdom=launch&source_caller=ui&wf_counter=appcl&pid=Social_Organic_YT&is_retargeting=true&wf_class=WWF_YT_No_043025_LetterLock&wf_phylum=appsflyer_link&wf_screen=games_list&shortlink=YTLetterLock&deep_link_value=wf_action%253Dnavigate%2526wf_screen%253Dletter_lock%2526wf_counter%253Dappcl%2526wf_kingdom%253Dlaunch%2526wf_phylum%253Dappsflyer_link%2526wf_class%253DWWF_YT_No_043025_LetterLock&c=WWF_YT_No_043025_LetterLock",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A new daily (and single-player) game inside of Words With Friends , which does a good job of being easy to understand but hard to master. I find the WWF app to be completely hideous, and I’m still opening it every day to play this.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-04-wonder-blocks",
+   "name": "Wonder Blocks",
+   "url": "https://www.kickstarter.com/projects/mybirdbuddy/experience-wonder",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [
+    "kickstarter"
+   ],
+   "blurb": "The folks behind the delightful Bird Buddy now have a little nature-in-a-box kit that I suspect even I could successfully keep alive. It’s a Kickstarter, but the company’s legit, and it already smashed its backing goal.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-04-iphone-15-pro",
+   "name": "iPhone 15 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 15 Pro.",
+   "section": "screen-share",
+   "recommender": "Zach"
+  },
+  {
+   "id": "2025-05-04-street-dresden",
+   "name": "Street, Dresden",
+   "url": "https://www.moma.org/collection/works/78426",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: It’s Street, Dresden by the German expressionist painter Ernst Ludwig Kirchner. It’s also the wallpaper on my computer and my iPad.",
+   "section": "screen-share",
+   "recommender": "Zach"
+  },
+  {
+   "id": "2025-05-04-playing-naked-people",
+   "name": "Playing Naked People",
+   "url": "https://www.wikiart.org/en/ernst-ludwig-kirchner/playing-naked-people",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: It’s Street, Dresden by the German expressionist painter Ernst Ludwig Kirchner. It’s also the wallpaper on my computer and my iPad.",
+   "section": "screen-share",
+   "recommender": "Zach"
+  },
+  {
+   "id": "2025-05-04-fantastical",
+   "name": "Fantastical",
+   "url": "https://flexibits.com/fantastical",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The only app I am ever behind on notifications for is Messages. It ruins my life. Outlook is the only email app that works for me because I am dragging around an ancient iCloud email address that I am desperate to migrate from.",
+   "section": "screen-share",
+   "recommender": "Zach"
+  },
+  {
+   "id": "2025-05-04-things",
+   "name": "Things",
+   "url": "https://www.culturedcode.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The only app I am ever behind on notifications for is Messages. It ruins my life. Outlook is the only email app that works for me because I am dragging around an ancient iCloud email address that I am desperate to migrate from.",
+   "section": "screen-share",
+   "recommender": "Zach"
+  },
+  {
+   "id": "2025-05-04-overcast",
+   "name": "Overcast",
+   "url": "https://overcast.fm/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I will ride for Overcast until the day I die, and I don’t care that it’s redundant to have both the icon and the widget on my homescreen. I use the Riverside app to record my strange podcast ( Out of Breath ) where I interview a guest while I am going for a run in Prospect Park.",
+   "section": "screen-share",
+   "recommender": "Zach"
+  },
+  {
+   "id": "2025-05-04-riverside",
+   "name": "Riverside",
+   "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwihzqjls4CNAxVKW0cBHRkmEssYABAAGgJxdQ&co=1&gclid=Cj0KCQjwlMfABhCWARIsADGXdy87nm1Ze_tTzIGoj6731JVNw7et2jTb9G-JBQzifZfTJ1bLreDPKWAaArg_EALw_wcB&sig=AOD64_3dqOJgkA3bYDZXNR49oJ9UqaS3oQ&q&adurl&ved=2ahUKEwj-66Lls4CNAxVQF1kFHX4wCPwQ0Qx6BAgOEAE",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I will ride for Overcast until the day I die, and I don’t care that it’s redundant to have both the icon and the widget on my homescreen. I use the Riverside app to record my strange podcast ( Out of Breath ) where I interview a guest while I am going for a run in Prospect Park.",
+   "section": "screen-share",
+   "recommender": "Zach"
+  },
+  {
+   "id": "2025-05-04-out-of-breath",
+   "name": "Out of Breath",
+   "url": "https://podcasts.apple.com/us/podcast/out-of-breath-with-zach-schiffman/id1766513873",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
+   "blurb": "I will ride for Overcast until the day I die, and I don’t care that it’s redundant to have both the icon and the widget on my homescreen. I use the Riverside app to record my strange podcast ( Out of Breath ) where I interview a guest while I am going for a run in Prospect Park.",
+   "section": "screen-share",
+   "recommender": "Zach"
+  },
+  {
+   "id": "2025-05-04-ladder",
+   "name": "Ladder",
+   "url": "https://www.joinladder.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently switched to the workout app Ladder from Future only because it is way cheaper, but I really do miss Future’s interface. I love Reeder and the Substack app to catch up on my newsletters and RSS feeds. I don’t get any real news from there, it’s more where I read more specialized voices.",
+   "section": "screen-share",
+   "recommender": "Zach"
+  },
+  {
+   "id": "2025-05-04-future",
+   "name": "Future",
+   "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwit84ras4CNAxXgSEcBHYjxDHkYABABGgJxdQ&co=1&gclid=Cj0KCQjwlMfABhCWARIsADGXdy9iYt36lfSjWAChM1rfQM4xvaDYNwSa3nXGdoFVACo-U09fghCtm-waAtjnEALw_wcB&sig=AOD64_31iii-x_Q7IxM7OAF-4oto1Ig0og&q&adurl&ved=2ahUKEwjWxoXas4CNAxVGF1kFHRc6OuUQ0Qx6BAgOEAE",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently switched to the workout app Ladder from Future only because it is way cheaper, but I really do miss Future’s interface. I love Reeder and the Substack app to catch up on my newsletters and RSS feeds. I don’t get any real news from there, it’s more where I read more specialized voices.",
+   "section": "screen-share",
+   "recommender": "Zach"
+  },
+  {
+   "id": "2025-05-04-reeder",
+   "name": "Reeder",
+   "url": "https://reederapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently switched to the workout app Ladder from Future only because it is way cheaper, but I really do miss Future’s interface. I love Reeder and the Substack app to catch up on my newsletters and RSS feeds. I don’t get any real news from there, it’s more where I read more specialized voices.",
+   "section": "screen-share",
+   "recommender": "Zach"
+  },
+  {
+   "id": "2025-05-04-substack",
+   "name": "Substack",
+   "url": "https://substack.com/app",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "newsletter"
+   ],
+   "blurb": "I recently switched to the workout app Ladder from Future only because it is way cheaper, but I really do miss Future’s interface. I love Reeder and the Substack app to catch up on my newsletters and RSS feeds. I don’t get any real news from there, it’s more where I read more specialized voices.",
+   "section": "screen-share",
+   "recommender": "Zach"
+  },
+  {
+   "id": "2025-05-04-readwise-reader",
+   "name": "Readwise Reader",
+   "url": "https://readwise.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently switched to the workout app Ladder from Future only because it is way cheaper, but I really do miss Future’s interface. I love Reeder and the Substack app to catch up on my newsletters and RSS feeds. I don’t get any real news from there, it’s more where I read more specialized voices.",
+   "section": "screen-share",
+   "recommender": "Zach"
+  },
+  {
+   "id": "2025-05-04-static-comp-bag",
+   "name": "Static Comp Bag",
+   "url": "https://www.colinmeredith.com/products/static-comp-bag-black",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am short, so I can’t wear a backpack around New York or I will look like a middle schooler, but I have been putting my shoulders through too much trying to be a heavy tote bag person.",
+   "section": "screen-share",
+   "recommender": "Zach"
+  },
+  {
+   "id": "2025-05-04-street-night-live",
+   "name": "Street Night Live",
+   "url": "https://streetnightlive.substack.com/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "newsletter"
+   ],
+   "blurb": "I am short, so I can’t wear a backpack around New York or I will look like a middle schooler, but I have been putting my shoulders through too much trying to be a heavy tote bag person.",
+   "section": "screen-share",
+   "recommender": "Zach"
+  },
+  {
+   "id": "2025-05-04-the-new-cast-recording-of-gypsy",
+   "name": "the new cast recording of Gypsy",
+   "url": "https://www.youtube.com/watch?v=AAJp_fO54gU",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I am short, so I can’t wear a backpack around New York or I will look like a middle schooler, but I have been putting my shoulders through too much trying to be a heavy tote bag person.",
+   "section": "screen-share",
+   "recommender": "Zach"
+  },
+  {
+   "id": "2025-05-04-broadway-legends-package",
+   "name": "Broadway Legends package",
+   "url": "https://www.vulture.com/article/biggest-broadway-stars-legends-actors-actresses-interviews.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am short, so I can’t wear a backpack around New York or I will look like a middle schooler, but I have been putting my shoulders through too much trying to be a heavy tote bag person.",
+   "section": "screen-share",
+   "recommender": "Zach"
+  },
+  {
+   "id": "2025-05-04-up-first-plus",
+   "name": "Up First Plus",
+   "url": "https://plus.npr.org/upfirst",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am short, so I can’t wear a backpack around New York or I will look like a middle schooler, but I have been putting my shoulders through too much trying to be a heavy tote bag person.",
+   "section": "screen-share",
+   "recommender": "Zach"
+  },
+  {
+   "id": "2025-05-04-dji-osmo-pocket-3",
+   "name": "DJI Osmo Pocket 3",
+   "url": "https://www.dji.com/osmo-pocket-3",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am short, so I can’t wear a backpack around New York or I will look like a middle schooler, but I have been putting my shoulders through too much trying to be a heavy tote bag person.",
+   "section": "screen-share",
+   "recommender": "Zach"
+  },
+  {
+   "id": "2025-05-04-beelink",
+   "name": "Beelink",
+   "url": "https://www.bee-link.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Mini PCs! They are small, have some serious power, and seem like a nice way to start a home lab. Personally researching amongst the more popular brands out there right now like Beelink and Minisforum . Although tariffs seem to be impacting prices, which sucks.",
+   "section": "crowdsourced",
+   "recommender": "Cizzo (reader)"
+  },
+  {
+   "id": "2025-05-04-minisforum",
+   "name": "Minisforum",
+   "url": "https://www.minisforum.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Mini PCs! They are small, have some serious power, and seem like a nice way to start a home lab. Personally researching amongst the more popular brands out there right now like Beelink and Minisforum . Although tariffs seem to be impacting prices, which sucks.",
+   "section": "crowdsourced",
+   "recommender": "Cizzo (reader)"
+  },
+  {
+   "id": "2025-05-04-onecast",
+   "name": "OneCast",
+   "url": "https://www.onecast.me/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "OneCast for Xbox remote and cloud gaming. Don’t like third-party apps, but I tried it on iOS (only) and it works really well. Looks better and sharper than the web apps (sorry web apps, I still believe in you). It has a trial and a one time only purchase.",
+   "section": "crowdsourced",
+   "recommender": "Uli (reader)"
+  },
+  {
+   "id": "2025-05-04-gondolas",
+   "name": "gondolas",
+   "url": "https://www.youtube.com/watch?v=a5126u88E7E",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I watched this great video about how gondolas 🚡 are emerging as a public transit solution uniquely suited to Latin American cities.",
+   "section": "crowdsourced",
+   "recommender": "Mark (reader)"
+  },
+  {
+   "id": "2025-05-04-sunderfolk",
+   "name": "Sunderfolk",
+   "url": "https://www.dreamhaven.com/games/sunderfolk",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I wanted to recommend Sunderfolk because it’s the first RPG that’s finally gotten my wife to play video games with me — something only the Jackbox Party series managed before.",
+   "section": "crowdsourced",
+   "recommender": "Paulo (reader)"
+  },
+  {
+   "id": "2025-05-04-mixolumia",
+   "name": "Mixolumia",
+   "url": "https://mixolumia.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Been revisiting Mixolumia (“lesbian Tetris ”) recently. It’s sort of like if Tetris was harder and prettier. It takes some practice, but it’s worth it I think.",
+   "section": "crowdsourced",
+   "recommender": "Sophie (reader)"
+  },
+  {
+   "id": "2025-05-04-the-internet-used-to-be-a-place",
+   "name": "The Internet Used To Be A Place",
+   "url": "https://www.youtube.com/watch?v=oYlcUbLAFmw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I stumbled across this YouTube video the other night: “ The Internet Used To Be A Place .” Sarah Baker goes into detail about how the internet used to exist as a physical place, isolated to a shared computer in a family room, that took a physical act to log on, and logging off was an actual thing.",
+   "section": "crowdsourced",
+   "recommender": "Nicholas (reader)"
+  },
+  {
+   "id": "2025-05-04-cosmos",
+   "name": "Cosmos",
+   "url": "https://www.cosmos.so/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I bailed on Pinterest and have been using Cosmos for organizing visual inspo. Pinterest lost its way and has gotten pushy and distracting. Cosmos is bringing it back to basics, feels calm, and has a pleasant house style.",
+   "section": "crowdsourced",
+   "recommender": "Brooks (reader)"
+  },
+  {
+   "id": "2025-05-04-loot",
+   "name": "Loot",
+   "url": "https://www.themoviedb.org/tv/197449-loot?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’m currently watching Loot on Apple TV, starring Maya Rudolph as the divorced wife of a tech billionaire working with her charity foundation and struggling with her vast wealth to fit in with ‘normal’ life, a comic concept clearly based on Mackenzie Scott / Jeff Bezos.",
+   "section": "crowdsourced",
+   "recommender": "Ben (reader)"
+  },
+  {
+   "id": "2025-05-04-the-residence",
+   "name": "The Residence",
+   "url": "https://www.themoviedb.org/tv/242054-the-residence?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’m currently watching Loot on Apple TV, starring Maya Rudolph as the divorced wife of a tech billionaire working with her charity foundation and struggling with her vast wealth to fit in with ‘normal’ life, a comic concept clearly based on Mackenzie Scott / Jeff Bezos.",
+   "section": "crowdsourced",
+   "recommender": "Ben (reader)"
+  },
+  {
+   "id": "2025-05-04-space-pirate-trainer-dx",
+   "name": "Space Pirate Trainer DX",
+   "url": "https://www.meta.com/experiences/space-pirate-trainer-dx/1663790613725314/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am playing ‘Arena’ mode from the VR game Space Pirate Trainer DX . It is like being inside Quake in a 10 x 10m arena. Super niche but awesome for people with a Quest headset and a friend with Quest.",
+   "section": "crowdsourced",
+   "recommender": "Filip (reader)"
+  },
+  {
+   "id": "2025-05-04-conclave",
+   "name": "Conclave",
+   "url": "https://www.themoviedb.org/movie/974576-conclave",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "We all watched Conclave over the last week or so, right? If not, you should, that movie rips. All religion aside, the Pope selection process is thoroughly fascinating — secretive, complicated, frankly kind of weird, and hugely important in so many ways.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-04-how-to-become-pope",
+   "name": "How to Become Pope",
+   "url": "https://www.youtube.com/watch?v=kF8I_r9XT7A",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "We all watched Conclave over the last week or so, right? If not, you should, that movie rips. All religion aside, the Pope selection process is thoroughly fascinating — secretive, complicated, frankly kind of weird, and hugely important in so many ways.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-04-a-long-doc-on-max",
+   "name": "a long doc on Max",
+   "url": "https://www.themoviedb.org/tv/77513-pope-the-most-powerful-man-in-history/watch?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "We all watched Conclave over the last week or so, right? If not, you should, that movie rips. All religion aside, the Pope selection process is thoroughly fascinating — secretive, complicated, frankly kind of weird, and hugely important in so many ways.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-04-bet-on-who-will-be-the-next-pope",
+   "name": "bet on who will be the next pope",
+   "url": "https://polymarket.com/event/who-will-be-the-next-pope",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "We all watched Conclave over the last week or so, right? If not, you should, that movie rips. All religion aside, the Pope selection process is thoroughly fascinating — secretive, complicated, frankly kind of weird, and hugely important in so many ways.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

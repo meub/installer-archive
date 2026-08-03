@@ -1,0 +1,472 @@
+{
+ "schema": 1,
+ "date": "2023-09-24",
+ "post_type": "issue",
+ "title": "Apple’s new software is widgets all the way down",
+ "url": "https://www.theverge.com/23885600/ios-ipados-interactive-widgets-dalle-3-amazon-echo-installer-newsletter",
+ "author": "David Pierce",
+ "number": 7,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "deep-dive",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:37+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2023-09-24-the-ai-writing-lives-of-real-writers",
+   "name": "the AI writing lives of real writers",
+   "url": "https://www.wired.com/story/confessions-viral-ai-writer-chatgpt/?src=longreads",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the AI writing lives of real writers , rewatching the John Wick movies to prepare for The Continental , shopping for StandBy-capable iPhone docks , getting back into VR exercise with Supernatural boxing , and really, really, really hoping Microsoft’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-24-the-continental",
+   "name": "The Continental",
+   "url": "https://imp.i305175.net/c/482924/828265/11640",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the AI writing lives of real writers , rewatching the John Wick movies to prepare for The Continental , shopping for StandBy-capable iPhone docks , getting back into VR exercise with Supernatural boxing , and really, really, really hoping Microsoft’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-24-standby-capable-iphone-docks",
+   "name": "StandBy-capable iPhone docks",
+   "url": "https://9to5toys.com/2023/09/15/best-standby-magsafe-chargers-iphone-15/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the AI writing lives of real writers , rewatching the John Wick movies to prepare for The Continental , shopping for StandBy-capable iPhone docks , getting back into VR exercise with Supernatural boxing , and really, really, really hoping Microsoft’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-24-supernatural-boxing",
+   "name": "Supernatural boxing",
+   "url": "https://www.getsupernatural.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the AI writing lives of real writers , rewatching the John Wick movies to prepare for The Continental , shopping for StandBy-capable iPhone docks , getting back into VR exercise with Supernatural boxing , and really, really, really hoping Microsoft’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-24-new-apple-software-upgrade-week",
+   "name": "New Apple Software Upgrade Week",
+   "url": "https://www.macstories.net/stories/ios-and-ipados-17-the-macstories-review/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Oh, and fair warning: this week’s pretty Apple-heavy. But it’s New Apple Software Upgrade Week , so there’s just a lot to go through. We’ll do the same for Android 14 in a couple of weeks, too, I suspect, so send me all your favorite Android stuff!",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-24-orion",
+   "name": "Orion",
+   "url": "https://www.lux.camera/meet-orion/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A new iPad app that lets you use it like an HDMI display, as long as you have a capture card. (They’re cheap.) That means your iPad can be an external screen for your game system, your Raspberry Pi, basically anything you could plug into a TV or monitor.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-24-microsofts-surface-laptop-studio-2",
+   "name": "Microsoft’s Surface Laptop Studio 2",
+   "url": "https://www.microsoft.com/en-us/d/surface-laptop-studio-2/8rqr54krf1dz",
+   "alt_urls": [
+    "https://www.theverge.com/23883722/microsoft-surface-laptop-studio-2-hands-on-features-photos"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This is the Windows MacBook Pro, and I mean that in the best way. The first-gen Laptop Studio is my daily driver Windows PC, and I love the look, the funky screen, everything about it except the processor and the battery life. Microsoft seems to have fixed both and then some.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-24-based-on-a-true-story",
+   "name": "Based on a true story",
+   "url": "https://www.npr.org/2023/09/20/1197954107/gamestop-dumb-money-based-on",
+   "alt_urls": [
+    "https://www.themoviedb.org/movie/792293-dumb-money?language=en-US",
+    "https://www.npr.org/2023/09/15/1197954055/axie-infinity-north-korea-ronin"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "“ Based on a true story .” The movie Dumb Money sounds like it’s not particularly accurate but still a lot of fun, but I’m still thinking about this Planet Money episode that dove into the story of how the GameStop saga turned into a bidding war and a race in Hollywood to make the first movie about…",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-24-amazons-echo-hub",
+   "name": "Amazon’s Echo Hub",
+   "url": "https://www.amazon.com/Echo-Hub/dp/B0BCR7M9KX?tag=theverge02-20",
+   "alt_urls": [
+    "https://www.theverge.com/2023/9/20/23880766/amazon-alexa-echo-hub-smart-displays-price-matter"
+   ],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "One $179.99 screen, which you can mount on your wall or leave in a dock on a table, that controls all your smart home stuff. (At least all your Echo-capable stuff, anyway, which is a pretty big list.)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-24-vulture-s-movies-fantasy-league",
+   "name": "Vulture ’s Movies Fantasy League",
+   "url": "https://www.vulture.com/movies-league/#scoring",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a sucker for any kind of fantasy league, so, of course, I’m all in on this one from our friends at Vulture : you pick a bunch of 2023 movies, and get points for how they perform in theaters and at awards shows. I’m taking The Killer and Paw Patrol all the way to the top.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-24-dall-e-3",
+   "name": "DALL-E 3",
+   "url": "https://openai.com/dall-e-3",
+   "alt_urls": [
+    "https://www.theverge.com/2023/9/20/23881241/openai-dalle-third-version-generative-ai"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "OpenAI’s image-generation tool seems to have gotten some big upgrades , particularly in its ability to integrate with ChatGPT to improve the prompts you give the tool. (It’s just chatbots on chatbots, y’all.)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-24-youtube-create",
+   "name": "YouTube Create",
+   "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.producer&pcampaignid=web_share",
+   "alt_urls": [
+    "https://www.theverge.com/2023/9/21/23883755/youtube-create-mobile-video-editing-app-tiktok-capcut"
+   ],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "It’s deeply bizarre that it took YouTube this long to make an actually useful, mobile-first video tool for creators . But hey: it’s in the Play Store now. In beta. And maybe not accessible to everyone. But if you’re a Shorts-making fiend, it’s still progress.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-24-tally-2-0",
+   "name": "Tally 2.0",
+   "url": "https://tally.so/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Google Forms is the worst, and everyone should stop using it. The new version of Tally is much nicer: it looks a lot (like, a lot ) like Notion, and it’s pretty easy both to build and share a form for collecting really any kind of data from your friends or co-workers or whoever.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-24-google-bard-extensions",
+   "name": "Google Bard Extensions",
+   "url": "https://bard.google.com/extensions",
+   "alt_urls": [
+    "https://www.theverge.com/2023/9/19/23878999/google-bard-ai-chatbot-gmail-docs-drive-extensions"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Google’s AI chatbot got a big upgrade this week : you can now integrate it with Gmail, Drive, YouTube, and other Google products.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-24-whisper-notes",
+   "name": "Whisper Notes",
+   "url": "https://www.whispernotes.xyz/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve become sort of obsessed with voice-notes apps, mostly because I spend a lot of time walking around pushing a stroller and need a way to write down all the things I’ll otherwise forget to do.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-24-overcasts",
+   "name": "Overcast’s",
+   "url": "https://overcast.fm/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Playback widgets. This is the single best and most universally useful thing you can do: put a widget for your favorite music or podcasts app — many have already updated, Spotify infuriatingly has not, and I think Overcast’s widget is the best so far — and you can play or pause your stuff from your…",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-24-the-things-widget",
+   "name": "the Things widget",
+   "url": "https://culturedcode.com/things/blog/2023/09/interactive-widgets-and-more/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Checkbox widgets . Do you use a to-do list app? Use its widget to see and check off your tasks throughout the day! (I really like the Things widget , and the built-in Reminders app has a good one, too.)",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-24-focus",
+   "name": "Focus",
+   "url": "https://meaningful-things.com/focus",
+   "alt_urls": [
+    "https://timelines.app/",
+    "https://overdesigned.net/timesup/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Timer widgets. If you’re the Pomodoro-tracker type, you can use Focus to quickly start and stop your work sessions. You can use Timelines to track your time. Time’s Up is pretty good for just setting and stopping timers of any kind for any reason.",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-24-gentler-streak",
+   "name": "Gentler Streak",
+   "url": "https://gentler.app/",
+   "alt_urls": [
+    "https://streaksapp.com/",
+    "https://waterminder.com/",
+    "https://agiletortoise.com/tally/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Counter widgets. Interactive widgets make it so much easier to track just about anything. You can use a habit-tracking app like Gentler Streak or Streaks (which I am finally actually using every day), a single-purpose app like WaterMinder , or just a number counter like Tally to keep track of just…",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-24-noaa-weather-radar-rainviewer",
+   "name": "NOAA Weather Radar RainViewer",
+   "url": "https://www.rainviewer.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Weather widgets . Now, instead of just seeing the temperature or one graph or whatever, apps like NOAA Weather Radar RainViewer (that name!) let you tap to switch from temperature to precipitation and more, all on the homescreen.",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-24-iphone-14-pro-max",
+   "name": "iPhone 14 Pro Max",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 14 Pro Max",
+   "section": "screen-share",
+   "recommender": "Ben"
+  },
+  {
+   "id": "2023-09-24-rishmody",
+   "name": "rishmody",
+   "url": "https://twitter.com/rishmody",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The apps: Safari, Perplexity.ai (better than Google for many queries), Calendar, Spotify, Untitled (beautiful, minimalist podcast app by @ rishmody , still in beta ), Endel, Audible, Slack, Superhuman, TestFlight (I look forward to a new TestFlight Matter build every day at about 6PM), Figma…",
+   "section": "screen-share",
+   "recommender": "Ben"
+  },
+  {
+   "id": "2023-09-24-in-beta",
+   "name": "in beta",
+   "url": "https://testflight.apple.com/join/a4bmx5rA",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "beta"
+   ],
+   "blurb": "The apps: Safari, Perplexity.ai (better than Google for many queries), Calendar, Spotify, Untitled (beautiful, minimalist podcast app by @ rishmody , still in beta ), Endel, Audible, Slack, Superhuman, TestFlight (I look forward to a new TestFlight Matter build every day at about 6PM), Figma…",
+   "section": "screen-share",
+   "recommender": "Ben"
+  },
+  {
+   "id": "2023-09-24-wentworth-wooden-jigsaw-puzzles",
+   "name": "Wentworth Wooden Jigsaw Puzzles",
+   "url": "https://www.wentworthpuzzles.com/us/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Wentworth Wooden Jigsaw Puzzles . My wife and I got hooked on a recent family vacation. Beautiful puzzles. We just bought a new 1,000-piece-r. Grapefruit Spindrift . My addiction. What can I say? Dwarkesh Podcast . I listen to a lot of podcasts.",
+   "section": "screen-share",
+   "recommender": "Ben"
+  },
+  {
+   "id": "2023-09-24-grapefruit-spindrift",
+   "name": "Grapefruit Spindrift",
+   "url": "https://doordash.7zd4df.net/c/482924/655830/10350?u=https%3A%2F%2Fwww.doordash.com%2Fbrowse%2Fmerchants%2F331358%2Fproducts%2F3329%3Fdd_sic%3Durpc_64e6c07d-7984-4683-b7a2-3b71f1e8fbcd%26gad%3D1%26gclid%3DCjwKCAjwgZCoBhBnEiwAz35RwiE9GHjYggopywbBNAfG4I7wAaIXpJbSOba9cMu2SiTijUK2s7LJRRoCa64QAvD_BwE%26gclsrc%3Daw.ds%26kclickid%3D_k_CjwKCAjwgZCoBhBnEiwAz35RwiE9GHjYggopywbBNAfG4I7wAaIXpJbSOba9cMu2SiTijUK2s7LJRRoCa64QAvD_BwE_k_%26ms_id%3D3329%26o_d_id%3Ddx_2f4f2412326748b48f1af48994bc507d%26region_id%3D23354723%26store_id%3D23354723%26utm_adgroup_id%3D143775301616%26utm_campaign%3DCX_US_SE_LP_GO_VOL_CUSXXX_18881914733_CONVEN_%2520PL_TOT_CONVN_DRINKSSXXXXXX_EVG_ROAS_XXX_COUSA_EN_EN_X_DOOR_GO_SE_TXT_SmartShopx%26utm_content%3D143775301616%26utm_creative_id%3D634147312452%26utm_medium%3DPLA%26utm_product_id%3D3329%26utm_source%3DGoogle%26utm_term%3D",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Wentworth Wooden Jigsaw Puzzles . My wife and I got hooked on a recent family vacation. Beautiful puzzles. We just bought a new 1,000-piece-r. Grapefruit Spindrift . My addiction. What can I say? Dwarkesh Podcast . I listen to a lot of podcasts.",
+   "section": "screen-share",
+   "recommender": "Ben"
+  },
+  {
+   "id": "2023-09-24-dwarkesh-podcast",
+   "name": "Dwarkesh Podcast",
+   "url": "https://www.dwarkeshpatel.com/podcast",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Wentworth Wooden Jigsaw Puzzles . My wife and I got hooked on a recent family vacation. Beautiful puzzles. We just bought a new 1,000-piece-r. Grapefruit Spindrift . My addiction. What can I say? Dwarkesh Podcast . I listen to a lot of podcasts.",
+   "section": "screen-share",
+   "recommender": "Ben"
+  },
+  {
+   "id": "2023-09-24-saunas",
+   "name": "Saunas",
+   "url": "https://www.mikkelaaland.com/sweat-bathing-and-the-body.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Wentworth Wooden Jigsaw Puzzles . My wife and I got hooked on a recent family vacation. Beautiful puzzles. We just bought a new 1,000-piece-r. Grapefruit Spindrift . My addiction. What can I say? Dwarkesh Podcast . I listen to a lot of podcasts.",
+   "section": "screen-share",
+   "recommender": "Ben"
+  },
+  {
+   "id": "2023-09-24-fotmob",
+   "name": "FotMob",
+   "url": "https://www.fotmob.com/download",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As a fellow Arsenal fan, I love FotMob — a service to check football (soccer) scores, stats, team sheets, player info, play-by-plays, etc. Polished and native-feeling apps for iPhone and iPad (which also works on Mac), with early support for new APIs.",
+   "section": "crowdsourced",
+   "recommender": "Erlend (reader)"
+  },
+  {
+   "id": "2023-09-24-blacklight",
+   "name": "Blacklight",
+   "url": "https://themarkup.org/series/blacklight",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Blacklight shines a light on the websites you browse to see what tracking technologies it might be using. Is the site fairly clean, or does it look like a Jackson Pollock painting?",
+   "section": "crowdsourced",
+   "recommender": "Jason (reader)"
+  },
+  {
+   "id": "2023-09-24-vesselfinder",
+   "name": "VesselFinder",
+   "url": "https://www.vesselfinder.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I found out about VesselFinder recently. Watching it makes me feel like a God playing real life as a city builder.",
+   "section": "crowdsourced",
+   "recommender": "Sam (reader)"
+  },
+  {
+   "id": "2023-09-24-your-face-belongs-to-us",
+   "name": "Your Face Belongs to Us",
+   "url": "https://www.penguinrandomhouse.com/books/691288/your-face-belongs-to-us-by-kashmir-hill/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m reading Your Face Belongs to Us by Kashmir Hill, and it’s very good.",
+   "section": "crowdsourced",
+   "recommender": "Creighton (reader)"
+  },
+  {
+   "id": "2023-09-24-home-assistant",
+   "name": "Home Assistant",
+   "url": "https://www.home-assistant.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve continued my descent into bliss / madness with Home Assistant ; I replaced a couple more Wi-Fi devices w/ Zigbee ones — and things work better, thanks to mesh networking! The Home Assistant devs keep cranking out updates, and it really has changed my perception of what a smart home can be.",
+   "section": "crowdsourced",
+   "recommender": "Cassidy (reader)"
+  },
+  {
+   "id": "2023-09-24-the-afterparty",
+   "name": "The Afterparty",
+   "url": "https://www.themoviedb.org/tv/106454-the-afterparty",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Season 2 of The Afterparty on Apple TV Plus was really good. It’s kind of like Knives Out but with less emphasis on being clever.",
+   "section": "crowdsourced",
+   "recommender": "Ross (reader)"
+  },
+  {
+   "id": "2023-09-24-knives-out",
+   "name": "Knives Out",
+   "url": "https://www.themoviedb.org/movie/546554-knives-out",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Season 2 of The Afterparty on Apple TV Plus was really good. It’s kind of like Knives Out but with less emphasis on being clever.",
+   "section": "crowdsourced",
+   "recommender": "Ross (reader)"
+  },
+  {
+   "id": "2023-09-24-merlin-bird-id",
+   "name": "Merlin Bird ID",
+   "url": "https://merlin.allaboutbirds.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Merlin Bird ID . It’s fun to be able to record a bird song nearby and be told what it is. The photo ID is also nice, but I find it hard to get a good pic sometimes. Pro tip: download the US and Canada Continental pack. It’s not much bigger, and you’re set if you travel.",
+   "section": "crowdsourced",
+   "recommender": "Mike (reader)"
+  },
+  {
+   "id": "2023-09-24-app-in-the-air",
+   "name": "App in the Air",
+   "url": "https://appintheair.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "App in the Air is like your flight-saver app. It alerts you fast enough about cancellations and delays, sometimes even faster than some airlines can manage. The app also caters to the aviation geeks, keeping track of your journeys and carbon footprint.",
+   "section": "crowdsourced",
+   "recommender": "Vivian (reader)"
+  },
+  {
+   "id": "2023-09-24-a-good-wsj-story-this-week",
+   "name": "a good WSJ story this week",
+   "url": "https://www.wsj.com/arts-culture/music/streaming-is-changing-the-sound-of-music-182dc907",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Ever since, I’ve been obsessed with Spotify Music. And there was a good WSJ story this week digging into how Spotify — and really streaming in general — is changing everything from how artists get paid to the structure of songs themselves. PBS made a good video about this a few years ago, too.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-09-24-a-good-video-about-this",
+   "name": "a good video about this",
+   "url": "https://www.youtube.com/watch?v=hnfTaqGFW8M",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Ever since, I’ve been obsessed with Spotify Music. And there was a good WSJ story this week digging into how Spotify — and really streaming in general — is changing everything from how artists get paid to the structure of songs themselves. PBS made a good video about this a few years ago, too.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

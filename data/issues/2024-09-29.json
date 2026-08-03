@@ -1,0 +1,474 @@
+{
+ "schema": 1,
+ "date": "2024-09-29",
+ "post_type": "issue",
+ "title": "The AR and VR headsets you’ll actually wear",
+ "url": "https://www.theverge.com/2024/9/29/24256056/meta-orion-quest-3s-smart-glasses-balatro-mobile-zelda-game-installer",
+ "author": "David Pierce",
+ "number": 54,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:36+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-09-29-ai-slop",
+   "name": "AI slop",
+   "url": "https://nymag.com/intelligencer/article/ai-generated-content-internet-online-slop-spam.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about AI slop and sports betting and Jony Ive , clearing my schedule for the new season of The Great British Bake Off , watching Sicario and Pirates of the Caribbean and A Quiet Place: Day One on plane-seat screens like their directors intended, insta-subscribing to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-29-sports-betting",
+   "name": "sports betting",
+   "url": "https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/?gift=k0U64u18D2aq-OO1R88tratYmCl0htqu3Qoy-Rlh_hc",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about AI slop and sports betting and Jony Ive , clearing my schedule for the new season of The Great British Bake Off , watching Sicario and Pirates of the Caribbean and A Quiet Place: Day One on plane-seat screens like their directors intended, insta-subscribing to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-29-jony-ive",
+   "name": "Jony Ive",
+   "url": "https://www.nytimes.com/2024/09/21/technology/jony-ive-apple-lovefrom.html?sgrp=c-cb&ngrp=mnp&pvid=9496347B-0FD9-43B1-BCAB-A2E27741071B",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about AI slop and sports betting and Jony Ive , clearing my schedule for the new season of The Great British Bake Off , watching Sicario and Pirates of the Caribbean and A Quiet Place: Day One on plane-seat screens like their directors intended, insta-subscribing to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-29-the-great-british-bake-off",
+   "name": "The Great British Bake Off",
+   "url": "https://www.themoviedb.org/tv/87012-the-great-british-bake-off",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about AI slop and sports betting and Jony Ive , clearing my schedule for the new season of The Great British Bake Off , watching Sicario and Pirates of the Caribbean and A Quiet Place: Day One on plane-seat screens like their directors intended, insta-subscribing to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-29-sicario",
+   "name": "Sicario",
+   "url": "https://www.themoviedb.org/movie/273481-sicario",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about AI slop and sports betting and Jony Ive , clearing my schedule for the new season of The Great British Bake Off , watching Sicario and Pirates of the Caribbean and A Quiet Place: Day One on plane-seat screens like their directors intended, insta-subscribing to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-29-pirates-of-the-caribbean",
+   "name": "Pirates of the Caribbean",
+   "url": "https://www.themoviedb.org/movie/22-pirates-of-the-caribbean-the-curse-of-the-black-pearl",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about AI slop and sports betting and Jony Ive , clearing my schedule for the new season of The Great British Bake Off , watching Sicario and Pirates of the Caribbean and A Quiet Place: Day One on plane-seat screens like their directors intended, insta-subscribing to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-29-a-quiet-place-day-one",
+   "name": "A Quiet Place: Day One",
+   "url": "https://www.themoviedb.org/movie/762441-a-quiet-place-day-one",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about AI slop and sports betting and Jony Ive , clearing my schedule for the new season of The Great British Bake Off , watching Sicario and Pirates of the Caribbean and A Quiet Place: Day One on plane-seat screens like their directors intended, insta-subscribing to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-29-hasan-minhajs-new-youtube-show",
+   "name": "Hasan Minhaj’s new YouTube show",
+   "url": "https://www.youtube.com/watch?v=VhdtiQ_PWnA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about AI slop and sports betting and Jony Ive , clearing my schedule for the new season of The Great British Bake Off , watching Sicario and Pirates of the Caribbean and A Quiet Place: Day One on plane-seat screens like their directors intended, insta-subscribing to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-29-pocket-casts-new-feature",
+   "name": "Pocket Casts’ new feature",
+   "url": "https://blog.pocketcasts.com/2024/09/19/sharing/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about AI slop and sports betting and Jony Ive , clearing my schedule for the new season of The Great British Bake Off , watching Sicario and Pirates of the Caribbean and A Quiet Place: Day One on plane-seat screens like their directors intended, insta-subscribing to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-29-metas-quest-3s",
+   "name": "Meta’s Quest 3S",
+   "url": "https://www.meta.com/quest/quest-3s/",
+   "alt_urls": [
+    "https://www.theverge.com/23906313/meta-quest-3-review-vr-mixed-reality-headset"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "My biggest issues with the Quest 3 were the price and the passthrough, and this new model appears to have solved both. It’s back in “totally reasonable game console” range, and the passthrough demos looked much sharper than before. They look great, though not as good as…",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-29-the-limited-edition-ray-ban-meta-wayfarer",
+   "name": "The limited-edition Ray-Ban Meta Wayfarer",
+   "url": "https://www.meta.com/smart-glasses/wayfarer-limited-edition-shiny-transparent-sapphire-transitions/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I already own two pairs of Meta’s smart glasses (don’t ask), but I am still lusting over this clear pair. They’re more expensive, and they actually undo some of the good non-gadget vibes of the other models, but they look so good.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-29-balatro-mobile",
+   "name": "Balatro Mobile",
+   "url": "https://www.playbalatro.com/mobile",
+   "alt_urls": [
+    "https://www.theverge.com/24081130/balatro-fujifilm-x100vi-drive-to-survive-twitter-books-installer"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This might be the most recommended thing in the history of Installer — I swear, every week someone tells me how much this poker roguelike has taken over their life. And now it’s on your phone! $10, no data collected, no microtransactions, my screen time is about to go through the roof.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-29-wolfs",
+   "name": "Wolfs",
+   "url": "https://www.themoviedb.org/movie/877817-wolfs?language=en-US",
+   "alt_urls": [
+    "https://www.nytimes.com/2024/08/25/business/media/apple-movies-theaters-wolfs.html"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This Clooney-Pitt Apple TV Plus movie has a fascinating backstory that says a lot about the future of Hollywood, but I also just love a big-budget flick in which movie stars say cool lines in cool ways. This appears to be exactly that.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-29-the-new-roku-ultra",
+   "name": "The new Roku Ultra",
+   "url": "https://www.tkqlhce.com/click-8836598-11553901?sid=VergeInstaller092724&url=https%3A%2F%2Fwww.roku.com%2Fproducts%2Froku-ultra",
+   "alt_urls": [
+    "https://www.theverge.com/2024/9/23/24250684/google-tv-streamer-4k-review-smart-home-hub"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I helped review the Google TV Streamer this week, and I really love that thing. But I’m also psyched to see Roku keep pushing — the new one’s not reinventing the wheel, but it’s faster and better, and that is a very good thing.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-29-the-wild-robot",
+   "name": "The Wild Robot",
+   "url": "https://www.themoviedb.org/movie/1184918-the-wild-robot?language=en-US",
+   "alt_urls": [
+    "https://www.theverge.com/24243766/megalopolis-review"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I’d really like to tell you to go see Megalopolis this weekend, but every single indication is that the movie is hot garbage .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-29-the-legend-of-zelda-echoes-of-wisdom",
+   "name": "The Legend of Zelda: Echoes of Wisdom",
+   "url": "https://www.nintendo.com/us/store/products/the-legend-of-zelda-echoes-of-wisdom-switch/",
+   "alt_urls": [
+    "https://www.theverge.com/24253919/the-legend-of-zelda-echoes-of-wisdom-review-nintendo-switch"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "A Zelda game… in which you get to play as Zelda. That’s the dream! This game doesn’t seem to be as big or awe-inspiring or platform-defining as Breath of the Wild or Tears of the Kingdom, but it sounds clever and fun just the same.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-29-spotifys-ai-playlist-feature",
+   "name": "Spotify’s AI Playlist feature",
+   "url": "https://newsroom.spotify.com/2024-09-24/ai-playlist-expanding-usa-canada-ireland-new-zealand/",
+   "alt_urls": [
+    "https://www.theverge.com/2024/9/24/24252971/spotify-ai-playlist-builder-beta-available-us-canada"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This is terrible news for my relentless quest to quit Spotify: the AI playlists are great. Now that the feature is available in the US , I’ve been using it to name a few bands or songs, plus an overall vibe, and it picks a few dozen songs that, at least so far, always seem to hit.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-29-social-studies",
+   "name": "Social Studies",
+   "url": "https://www.themoviedb.org/tv/258898-social-studies?language=en-US",
+   "alt_urls": [
+    "https://www.imdb.com/name/nm1132362/"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Being a kid is hard work. And this doc digs in with a group of students on how much… maybe not always harder, but definitely more complicated, social media has made being a kid in 2024. This comes from a good team , too, and I’m excited about it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-29-the-nothing-ear-open",
+   "name": "The Nothing Ear Open",
+   "url": "https://us.nothing.tech/products/ear-open",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Nothing’s headphones have been really solid, and as a recent and aggressive convert to open earbuds, I’m pumped to see how these sound. They look so cool, too! Big week for clear gadgets.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-29-iphone-16-pro-max",
+   "name": "iPhone 16 Pro Max",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 16 Pro Max .",
+   "section": "screen-share",
+   "recommender": "Joanna"
+  },
+  {
+   "id": "2024-09-29-bought-it-through-this-site",
+   "name": "bought it through this site",
+   "url": "https://urldefense.com/v3/__https://techthings.cmail20.com/t/d-l-vkkutdy-irhthikts-q/__;!!F0Stn7g!G_jlUoF7lgEp1IerlOnxY6xNnq6WxnRZywT2kNUIF0onyWr8E5EntxZzNuvhILgb2plhGkYafT7ArngMTIvAqF4%24",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: This is my dog Browser. It isn’t the best shot of him, but the framing is nice for putting him in the middle of the screen. My lockscreen wallpaper is this awesome retro iPod made by a designer named Shane Levine.",
+   "section": "screen-share",
+   "recommender": "Joanna"
+  },
+  {
+   "id": "2024-09-29-the-devil-at-his-elbow",
+   "name": "The Devil at His Elbow",
+   "url": "https://www.penguinrandomhouse.com/books/711848/the-devil-at-his-elbow-by-valerie-bauerlein/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Devil at His Elbow . I’m currently listening to this audiobook by my wildly talented colleague Valerie Bauerlein. It’s all about the Murdaugh murders. The writing, the details, the whole thing, is so gripping. I find myself just sitting in the garage waiting until a chapter is done.",
+   "section": "screen-share",
+   "recommender": "Joanna"
+  },
+  {
+   "id": "2024-09-29-full-swing",
+   "name": "Full Swing",
+   "url": "https://www.netflix.com/title/81483353",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "The Devil at His Elbow . I’m currently listening to this audiobook by my wildly talented colleague Valerie Bauerlein. It’s all about the Murdaugh murders. The writing, the details, the whole thing, is so gripping. I find myself just sitting in the garage waiting until a chapter is done.",
+   "section": "screen-share",
+   "recommender": "Joanna"
+  },
+  {
+   "id": "2024-09-29-take-your-pet-to-school-day",
+   "name": "Take Your Pet to School Day",
+   "url": "https://www.amazon.com/Take-Your-Pet-School-Day/dp/1524765597?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The Devil at His Elbow . I’m currently listening to this audiobook by my wildly talented colleague Valerie Bauerlein. It’s all about the Murdaugh murders. The writing, the details, the whole thing, is so gripping. I find myself just sitting in the garage waiting until a chapter is done.",
+   "section": "screen-share",
+   "recommender": "Joanna"
+  },
+  {
+   "id": "2024-09-29-sliding-seas",
+   "name": "Sliding Seas",
+   "url": "https://www.slidingseas.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Sliding Seas . It’s a match-three (or four!) game but also so much more: there’s real strategy required behind your moves to beat levels at the higher end, but it’s never unfair, and while there are in-app purchases and power-ups you can buy to make a level easier, you crucially never need to.",
+   "section": "crowdsourced",
+   "recommender": "Jamie (reader)"
+  },
+  {
+   "id": "2024-09-29-gisnep",
+   "name": "Gisnep",
+   "url": "https://gisnep.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Gisnep is another daily puzzle game, this time by David Friedman of Ironic Sans . It appears as a crossword-esque grid, but the words only go across and wrap around. The goal is to reveal both a quote and the source by filling in letters from vertical columns.",
+   "section": "crowdsourced",
+   "recommender": "Kyle (reader)"
+  },
+  {
+   "id": "2024-09-29-satisfactory",
+   "name": "Satisfactory",
+   "url": "https://www.satisfactorygame.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Satisfactory 1.0 launched a week ago or so. A great group of devs have effectively made a game that feels like work but is fun. If you love conveyor belts and staying up all night, this might be for you.",
+   "section": "crowdsourced",
+   "recommender": "Matt (reader)"
+  },
+  {
+   "id": "2024-09-29-omnifocus",
+   "name": "OmniFocus",
+   "url": "https://www.omnigroup.com/omnifocus/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Can’t believe you haven’t mentioned switching to OmniFocus ! As a fellow perennial ‘task manager switcher,’ this app is a staple in my rotation.",
+   "section": "crowdsourced",
+   "recommender": "Pedro (reader)"
+  },
+  {
+   "id": "2024-09-29-app-in-the-air",
+   "name": "App in the Air",
+   "url": "https://appintheair.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I previously recommended App in the Air as a great travel companion, but unfortunately, it’s shutting down . If you’re looking for an alternative, Flighty is excellent, especially for travel stats, and they’re building an importer for App in the Air users.",
+   "section": "crowdsourced",
+   "recommender": "Vivian (reader)"
+  },
+  {
+   "id": "2024-09-29-its-shutting-down",
+   "name": "it’s shutting down",
+   "url": "https://appintheair.com/shutdown",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I previously recommended App in the Air as a great travel companion, but unfortunately, it’s shutting down . If you’re looking for an alternative, Flighty is excellent, especially for travel stats, and they’re building an importer for App in the Air users.",
+   "section": "crowdsourced",
+   "recommender": "Vivian (reader)"
+  },
+  {
+   "id": "2024-09-29-flighty",
+   "name": "Flighty",
+   "url": "https://flighty.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I previously recommended App in the Air as a great travel companion, but unfortunately, it’s shutting down . If you’re looking for an alternative, Flighty is excellent, especially for travel stats, and they’re building an importer for App in the Air users.",
+   "section": "crowdsourced",
+   "recommender": "Vivian (reader)"
+  },
+  {
+   "id": "2024-09-29-english-teacher",
+   "name": "English Teacher",
+   "url": "https://www.themoviedb.org/tv/258902-english-teacher",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "We’ve been watching English Teacher on FX. Constant laughs and, so far, each episode has been better than the last. Easily one of the funniest shows on TV right now.",
+   "section": "crowdsourced",
+   "recommender": "Danial (reader)"
+  },
+  {
+   "id": "2024-09-29-humanscale-fr300-ergonomic-foot-rocker",
+   "name": "Humanscale FR300 Ergonomic Foot Rocker",
+   "url": "https://www.kqzyfj.com/click-8836598-14458972?sid=VergeInstaller092724&url=https%3A%2F%2Fwww.humanscale.com%2Fproducts%2Fproduct-buy.cfm%3Fgroup%3DFR300",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I was gifted the Humanscale FR300 Ergonomic Foot Rocker , which is a very tech-sounding name for a very manual / mechanical rocking footrest. It’s very pleasant to use. I’ve also been standing on it sometimes... which I’m not sure is safe but sure is fun!",
+   "section": "crowdsourced",
+   "recommender": "Wisdom (reader)"
+  },
+  {
+   "id": "2024-09-29-black-milanese-loop",
+   "name": "Black Milanese Loop",
+   "url": "https://www.apple.com/shop/product/MXKG3AM/A/49mm-black-titanium-milanese-loop-medium",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Repeatedly putting in my Amazon cart the Black Milanese Loop for the Apple Watch Ultra 2. I was so close to buying it like three times. Now it’s out of stock. Even Apple says early November for shipping.",
+   "section": "crowdsourced",
+   "recommender": "Scott (reader)"
+  },
+  {
+   "id": "2024-09-29-lm-studio",
+   "name": "LM Studio",
+   "url": "https://lmstudio.ai/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Been playing with different LLMs using LM Studio . Integrated it into my Obsidian vault to help summarize and organize things into specific formats. It’s been extremely cool!",
+   "section": "crowdsourced",
+   "recommender": "Cody (reader)"
+  },
+  {
+   "id": "2024-09-29-obsidian",
+   "name": "Obsidian",
+   "url": "https://obsidian.md/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Been playing with different LLMs using LM Studio . Integrated it into my Obsidian vault to help summarize and organize things into specific formats. It’s been extremely cool!",
+   "section": "crowdsourced",
+   "recommender": "Cody (reader)"
+  },
+  {
+   "id": "2024-09-29-this-anker-model",
+   "name": "this Anker model",
+   "url": "https://www.amazon.com/gp/product/B08GKL41V4?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "I’ve had back-to-back-to-back-to-back trips over the last two weeks, and I would just like to quickly shout out my new No. 1 travel hack: a wall charger that doubles as a big-ass portable battery.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-29-a-newer-one",
+   "name": "a newer one",
+   "url": "https://www.anker.com/products/a1626?variant=42089536290966",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve had back-to-back-to-back-to-back trips over the last two weeks, and I would just like to quickly shout out my new No. 1 travel hack: a wall charger that doubles as a big-ass portable battery.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

@@ -1,0 +1,449 @@
+{
+ "schema": 1,
+ "date": "2023-12-10",
+ "post_type": "issue",
+ "title": "Google finally gives ChatGPT some competition",
+ "url": "https://www.theverge.com/23993867/google-gemini-chatgpt-beeper-imessage-lego-fortnite-installer-newsletter",
+ "author": "David Pierce",
+ "number": 17,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:37+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2023-12-10-a-murder-at-the-end-of-the-world",
+   "name": "A Murder at the End of the World",
+   "url": "https://www.themoviedb.org/tv/134095-a-murder-at-the-end-of-the-world",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been watching A Murder at the End of the World and (finally!) Barbie , reading about Gary Gensler’s war on crypto , robot trucks , and Taylor Swift’s world takeover , playing Puzzmo’s Really Bad Chess , and catching up on all the super-popular TikToks I missed this year.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-10-barbie",
+   "name": "Barbie",
+   "url": "https://www.themoviedb.org/movie/346698-barbie",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been watching A Murder at the End of the World and (finally!) Barbie , reading about Gary Gensler’s war on crypto , robot trucks , and Taylor Swift’s world takeover , playing Puzzmo’s Really Bad Chess , and catching up on all the super-popular TikToks I missed this year.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-10-gary-genslers-war-on-crypto",
+   "name": "Gary Gensler’s war on crypto",
+   "url": "https://fortune.com/longform/gary-gensler-sec-chair-interview-cryptocurrency-climate-change/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching A Murder at the End of the World and (finally!) Barbie , reading about Gary Gensler’s war on crypto , robot trucks , and Taylor Swift’s world takeover , playing Puzzmo’s Really Bad Chess , and catching up on all the super-popular TikToks I missed this year.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-10-taylor-swifts-world-takeover",
+   "name": "Taylor Swift’s world takeover",
+   "url": "https://time.com/6342806/person-of-the-year-2023-taylor-swift/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching A Murder at the End of the World and (finally!) Barbie , reading about Gary Gensler’s war on crypto , robot trucks , and Taylor Swift’s world takeover , playing Puzzmo’s Really Bad Chess , and catching up on all the super-popular TikToks I missed this year.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-10-puzzmos-really-bad-chess",
+   "name": "Puzzmo’s Really Bad Chess",
+   "url": "https://www.puzzmo.com/play/really-bad-chess",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been watching A Murder at the End of the World and (finally!) Barbie , reading about Gary Gensler’s war on crypto , robot trucks , and Taylor Swift’s world takeover , playing Puzzmo’s Really Bad Chess , and catching up on all the super-popular TikToks I missed this year.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-10-google-gemini",
+   "name": "Google Gemini",
+   "url": "https://deepmind.google/technologies/gemini/#introduction",
+   "alt_urls": [
+    "https://www.theverge.com/2023/12/6/23990466/google-gemini-llm-ai-model",
+    "https://bard.google.com/chat",
+    "https://www.theverge.com/2023/12/6/23989591/google-gemini-ai-model-pixel-8-pro-recorder-smart-reply"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Talking to Google CEO Sundar Pichai this week, I got the distinct sense that he sees the new Gemini model as the moment Google starts to win the AI war. Is he right? Who knows! Gemini certainly has its issues.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-10-beeper-mini",
+   "name": "Beeper Mini",
+   "url": "https://blog.beeper.com/p/introducing-beeper-mini-get-blue",
+   "alt_urls": [
+    "https://www.theverge.com/2023/12/5/23987817/beeper-mini-imessage-android-reverse-engineer",
+    "https://www.theverge.com/2023/12/8/23994089/apple-beeper-mini-android-blocked-imessage-app"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "What a saga this was! The universal messaging app released a new app for Android that did one thing — let you send blue-bubble iMessages — and did it well. So well, it seems, that Apple quickly figured out a way to shut it down . I don’t think we’ve seen the last of this back-and-forth.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-10-the-artificial-podcast-series",
+   "name": "The Artificial podcast series",
+   "url": "https://www.wsj.com/podcasts/the-journal/artificial-episode-1-the-dream/494574b2-9a1d-44d5-a908-adbc5abd97f8",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I think every reporter I know is currently digging into the history of OpenAI, trying to figure out how this weirdly structured organization came to be the biggest thing in artificial intelligence.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-10-mammoth-2",
+   "name": "Mammoth 2",
+   "url": "https://getmammoth.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve used a lot of Mastodon apps, and this is my new favorite. Mammoth is nice-looking and fast but also really devoted to helping you find good people and posts on the platform. It’s only for Apple devices, which is a bummer, but it’s a really nice app.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-10-resident-evil-4-s-vr-mode",
+   "name": "Resident Evil 4 ’s VR Mode",
+   "url": "https://www.playstation.com/en-us/games/resident-evil-4-remake/?smcid=ma%20",
+   "alt_urls": [
+    "https://www.theverge.com/23642938/resident-evil-4-remake-review-xbox-ps5-steam"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "You could argue that Resident Evil games have been the best thing in VR for a long time. Now, PSVR users are getting a pretty full VR version of Resident Evil 4, which is one of the best games in the series and was remade as one of the best games of the year. I might need to buy a PSVR for this.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-10-lego-fortnite",
+   "name": "Lego Fortnite",
+   "url": "https://www.lego.com/en-us/themes/fortnite/about",
+   "alt_urls": [
+    "https://www.theverge.com/2023/12/7/23990660/lego-fortnite-release-epic"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I played a lot of OG Fortnite recently and actually loved the game minus all the tie-ins and branded stuff. But this is something else : a massive new island and almost an entirely new game within Fortnite . I’ve only played it a bit, but it’s very cool.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-10-digital-foundrys-grand-theft-auto-vi-trailer-bre",
+   "name": "Digital Foundry’s Grand Theft Auto VI trailer breakdown",
+   "url": "https://www.youtube.com/watch?v=obiC2OzgThc",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Have you watched the GTA VI trailer yet? Statistically speaking, I think everyone on earth already has. And if you’re as excited about it as I am, you’ll love this 37-minute, absurdly deep exegesis of practically every frame and pixel we’ve seen so far.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-10-disney-plus-with-hulu",
+   "name": "Disney Plus with Hulu",
+   "url": "https://disneyplus.bn5x.net/c/482924/564546/9358?u=https%3A%2F%2Fwww.disneyplus.com%2F&subid1=Installer120823",
+   "alt_urls": [
+    "https://www.fastcompany.com/90993539/disney-plus-hulu-integration-beta"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Disney’s combined streaming service is now in beta testing, which means you might start to see a Hulu tab inside of your Disney app. Fast Company has a fun story on all the unexpected challenges of shoving two services together like this, but ultimately, it looks pretty simple.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-10-visual-electric",
+   "name": "Visual Electric",
+   "url": "https://visualelectric.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A new and clever riff on AI image generation — this one gives you all kinds of dynamic control, so instead of prompting and re-prompting, you can tweak your images almost as if you’re in Photoshop.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-10-apple-iphone-15-pro",
+   "name": "Apple iPhone 15 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: Apple iPhone 15 Pro.",
+   "section": "screen-share",
+   "recommender": "Dan"
+  },
+  {
+   "id": "2023-12-10-samsung-galaxy-z-fold-5",
+   "name": "Samsung Galaxy Z Fold 5",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone : Samsung Galaxy Z Fold 5.",
+   "section": "screen-share",
+   "recommender": "Dan"
+  },
+  {
+   "id": "2023-12-10-backdrops",
+   "name": "Backdrops",
+   "url": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers&hl=en_US&gl=US",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "The wallpaper: Something I found in the Backdrops app, the best wallpaper app for Android, that I thought looked cool. I don’t really get to see it all that often, though, because I crap my homescreen up with so much stuff, but oh well.",
+   "section": "screen-share",
+   "recommender": "Dan"
+  },
+  {
+   "id": "2023-12-10-the-silo-trilogy-of-books",
+   "name": "the Silo trilogy of books",
+   "url": "https://www.harpercollins.com/products/wool-hugh-howey?variant=39935376982050",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been reading the Silo trilogy of books about a decade late, and I’m about a third of the way through the last one, Dust . I loved the show on Apple TV Plus earlier this year, and I’ve been really enjoying the books, which have similar vibes, even if the story doesn’t line up 1:1 with the show.",
+   "section": "screen-share",
+   "recommender": "Dan"
+  },
+  {
+   "id": "2023-12-10-dust",
+   "name": "Dust",
+   "url": "https://www.harpercollins.com/products/dust-hugh-howey?variant=39936037191714",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been reading the Silo trilogy of books about a decade late, and I’m about a third of the way through the last one, Dust . I loved the show on Apple TV Plus earlier this year, and I’ve been really enjoying the books, which have similar vibes, even if the story doesn’t line up 1:1 with the show.",
+   "section": "screen-share",
+   "recommender": "Dan"
+  },
+  {
+   "id": "2023-12-10-a-new-season-of-fargo",
+   "name": "a new season of Fargo",
+   "url": "https://www.themoviedb.org/tv/60622-fargo",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’ve been reading the Silo trilogy of books about a decade late, and I’m about a third of the way through the last one, Dust . I loved the show on Apple TV Plus earlier this year, and I’ve been really enjoying the books, which have similar vibes, even if the story doesn’t line up 1:1 with the show.",
+   "section": "screen-share",
+   "recommender": "Dan"
+  },
+  {
+   "id": "2023-12-10-the-morning-show",
+   "name": "The Morning Show",
+   "url": "https://tv.apple.com/us/show/the-morning-show/umc.cmc.25tn3v8ku4b39tr6ccgb8nl6m",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "I’ve been reading the Silo trilogy of books about a decade late, and I’m about a third of the way through the last one, Dust . I loved the show on Apple TV Plus earlier this year, and I’ve been really enjoying the books, which have similar vibes, even if the story doesn’t line up 1:1 with the show.",
+   "section": "screen-share",
+   "recommender": "Dan"
+  },
+  {
+   "id": "2023-12-10-a-magsafe-ring-sticker",
+   "name": "a MagSafe ring sticker",
+   "url": "https://www.spigen.com/products/magsafe-metal-plate",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been reading the Silo trilogy of books about a decade late, and I’m about a third of the way through the last one, Dust . I loved the show on Apple TV Plus earlier this year, and I’ve been really enjoying the books, which have similar vibes, even if the story doesn’t line up 1:1 with the show.",
+   "section": "screen-share",
+   "recommender": "Dan"
+  },
+  {
+   "id": "2023-12-10-a-second-magsafe-ring",
+   "name": "a second MagSafe ring",
+   "url": "https://www.threads.net/@danseifert/post/C0CIfm1LUsu",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been reading the Silo trilogy of books about a decade late, and I’m about a third of the way through the last one, Dust . I loved the show on Apple TV Plus earlier this year, and I’ve been really enjoying the books, which have similar vibes, even if the story doesn’t line up 1:1 with the show.",
+   "section": "screen-share",
+   "recommender": "Dan"
+  },
+  {
+   "id": "2023-12-10-crokinole",
+   "name": "Crokinole",
+   "url": "https://crokinole.ca/collections/crokinole-boards",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I was just introduced to the Canadian ‘board game’ Crokinole , and it’s pretty rad. The boards are the size of a small table.",
+   "section": "crowdsourced",
+   "recommender": "Tom (reader)"
+  },
+  {
+   "id": "2023-12-10-omnivore",
+   "name": "Omnivore",
+   "url": "https://omnivore.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Throwback to an earlier Installer that brought up Omnivore as a read-it-later service. I have since moved all of my newsletters (including Installer ) over to Omnivore and out of my standard email inbox.",
+   "section": "crowdsourced",
+   "recommender": "Nicholas (reader)"
+  },
+  {
+   "id": "2023-12-10-godzilla-minus-one",
+   "name": "Godzilla Minus One",
+   "url": "https://www.themoviedb.org/movie/940721-1-0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Godzilla Minus One was fantastic and deserves attention from those that haven’t been traditionally interested in kaiju movies.",
+   "section": "crowdsourced",
+   "recommender": "Luke (reader)"
+  },
+  {
+   "id": "2023-12-10-scott-pilgrim-takes-off",
+   "name": "Scott Pilgrim Takes Off",
+   "url": "https://www.netflix.com/title/81153115",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "Scott Pilgrim Takes Off is an alternative story to the original comics. The cast from its movie adaptation is back. Combine that with the anime-like animation, and you have the perfect binge-watch for the weekend.",
+   "section": "crowdsourced",
+   "recommender": "Bahadir (reader)"
+  },
+  {
+   "id": "2023-12-10-this-little-device",
+   "name": "this little device",
+   "url": "https://www.starlinghome.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Vergecast reminded me that this little device has connected my Nest devices to Apple HomeKit for over three years without breaking once. I forgot I even used it in my setup.",
+   "section": "crowdsourced",
+   "recommender": "Chris (reader)"
+  },
+  {
+   "id": "2023-12-10-informed",
+   "name": "Informed",
+   "url": "https://www.informed.so/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Informed . It’s a kinda new news app. Looks super clean. Articles don’t refresh as often as I’d like. Still rocking with it though.",
+   "section": "crowdsourced",
+   "recommender": "Omar (reader)"
+  },
+  {
+   "id": "2023-12-10-duckduckgo",
+   "name": "DuckDuckGo",
+   "url": "https://duckduckgo.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Using DuckDuckGo / Firefox Relay to remove trackers from emails and clean up links. Useful for newsletters or shopping websites.",
+   "section": "crowdsourced",
+   "recommender": "Lucens (reader)"
+  },
+  {
+   "id": "2023-12-10-firefox-relay",
+   "name": "Firefox Relay",
+   "url": "https://relay.firefox.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Using DuckDuckGo / Firefox Relay to remove trackers from emails and clean up links. Useful for newsletters or shopping websites.",
+   "section": "crowdsourced",
+   "recommender": "Lucens (reader)"
+  },
+  {
+   "id": "2023-12-10-wacaco-picopresso",
+   "name": "Wacaco Picopresso",
+   "url": "https://www.wacaco.com/products/picopresso",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Been loving the espresso I’ve been making this week with my new Wacaco Picopresso .",
+   "section": "crowdsourced",
+   "recommender": "James (reader)"
+  },
+  {
+   "id": "2023-12-10-nowplaying",
+   "name": "NowPlaying",
+   "url": "https://nowplaying.page/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’d like to recommend NowPlaying . This app is the most beautiful way to detect fun details about any song, album, or artist.",
+   "section": "crowdsourced",
+   "recommender": "Hidde (reader)"
+  },
+  {
+   "id": "2023-12-10-the-excel-world-championships",
+   "name": "the Excel World Championships",
+   "url": "https://fmworldcup.com/the-active-cell/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m writing to you this week from Las Vegas, where one of the year’s great sporting events is taking place. No, not that one. Not that one, either. Yes! It’s the Excel World Championships !",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-10-watch-the-finals-live-tonight-on-youtube",
+   "name": "watch the finals live tonight on YouTube",
+   "url": "https://www.youtube.com/watch?v=UDGdPE_C9u8",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "If you’re reading this on Saturday, you can watch the finals live tonight on YouTube (look for me in the crowd!). If you’re not seeing this until Sunday, head over to the Financial Modeling World Cup’s YouTube page , and you can see all the competitions from this year.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-10-financial-modeling-world-cups-youtube-page",
+   "name": "Financial Modeling World Cup’s YouTube page",
+   "url": "https://www.youtube.com/@FMWC",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "If you’re reading this on Saturday, you can watch the finals live tonight on YouTube (look for me in the crowd!). If you’re not seeing this until Sunday, head over to the Financial Modeling World Cup’s YouTube page , and you can see all the competitions from this year.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

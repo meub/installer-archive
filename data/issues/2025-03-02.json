@@ -1,0 +1,591 @@
+{
+ "schema": 1,
+ "date": "2025-03-02",
+ "post_type": "issue",
+ "title": "Our favorite speakers, headphones, and other music gear",
+ "url": "https://www.theverge.com/installer-newsletter/621782/best-speakers-headphones-music-gear-installer",
+ "author": "David Pierce",
+ "number": 73,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "group-project",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-03-02-the-zizians",
+   "name": "the Zizians",
+   "url": "https://www.wired.com/story/delirious-violent-impossible-true-story-zizians/?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the Zizians and fancy suits and Heavyweight , watching Suits LA and The White Lotus , obsessively tracking Formula 1 testing , apologizing profusely to anyone who watched The Gorge on my recommendation, working to an eight-hour mix of the Severance music , seeing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-fancy-suits",
+   "name": "fancy suits",
+   "url": "https://www.theatlantic.com/magazine/archive/2025/03/gary-shteyngart-bespoke-suit-mens-fashion-self-love/681441/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the Zizians and fancy suits and Heavyweight , watching Suits LA and The White Lotus , obsessively tracking Formula 1 testing , apologizing profusely to anyone who watched The Gorge on my recommendation, working to an eight-hour mix of the Severance music , seeing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-heavyweight",
+   "name": "Heavyweight",
+   "url": "https://www.nytimes.com/2025/02/25/business/media/heavyweight-podcast-returning.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the Zizians and fancy suits and Heavyweight , watching Suits LA and The White Lotus , obsessively tracking Formula 1 testing , apologizing profusely to anyone who watched The Gorge on my recommendation, working to an eight-hour mix of the Severance music , seeing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-suits-la",
+   "name": "Suits LA",
+   "url": "https://www.themoviedb.org/tv/259453-suits-l-a",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about the Zizians and fancy suits and Heavyweight , watching Suits LA and The White Lotus , obsessively tracking Formula 1 testing , apologizing profusely to anyone who watched The Gorge on my recommendation, working to an eight-hour mix of the Severance music , seeing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-the-white-lotus",
+   "name": "The White Lotus",
+   "url": "https://www.themoviedb.org/tv/111803-the-white-lotus",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about the Zizians and fancy suits and Heavyweight , watching Suits LA and The White Lotus , obsessively tracking Formula 1 testing , apologizing profusely to anyone who watched The Gorge on my recommendation, working to an eight-hour mix of the Severance music , seeing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-formula-1-testing",
+   "name": "Formula 1 testing",
+   "url": "https://prf.hn/click/camref:1100l3D7Gy/%5Bp_id:1011l394533%5D/destination:https%3A%2F%2Fwww.formula1.com%2Fen%2Fracing%2F2025%2Fpre-season-testing",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the Zizians and fancy suits and Heavyweight , watching Suits LA and The White Lotus , obsessively tracking Formula 1 testing , apologizing profusely to anyone who watched The Gorge on my recommendation, working to an eight-hour mix of the Severance music , seeing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-the-gorge",
+   "name": "The Gorge",
+   "url": "https://www.themoviedb.org/movie/950396-the-gorge?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about the Zizians and fancy suits and Heavyweight , watching Suits LA and The White Lotus , obsessively tracking Formula 1 testing , apologizing profusely to anyone who watched The Gorge on my recommendation, working to an eight-hour mix of the Severance music , seeing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-an-eight-hour-mix-of-the-severance-music",
+   "name": "an eight-hour mix of the Severance music",
+   "url": "https://www.youtube.com/watch?v=JRnDYB28bL8",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about the Zizians and fancy suits and Heavyweight , watching Suits LA and The White Lotus , obsessively tracking Formula 1 testing , apologizing profusely to anyone who watched The Gorge on my recommendation, working to an eight-hour mix of the Severance music , seeing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-bend",
+   "name": "Bend",
+   "url": "https://www.getbend.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the Zizians and fancy suits and Heavyweight , watching Suits LA and The White Lotus , obsessively tracking Formula 1 testing , apologizing profusely to anyone who watched The Gorge on my recommendation, working to an eight-hour mix of the Severance music , seeing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-encanto",
+   "name": "Encanto",
+   "url": "https://www.themoviedb.org/movie/568124-encanto",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about the Zizians and fancy suits and Heavyweight , watching Suits LA and The White Lotus , obsessively tracking Formula 1 testing , apologizing profusely to anyone who watched The Gorge on my recommendation, working to an eight-hour mix of the Severance music , seeing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-the-framework-laptop-12",
+   "name": "The Framework Laptop 12",
+   "url": "https://frame.work/laptop12",
+   "alt_urls": [
+    "https://www.theverge.com/pc-gaming/619605/framework-desktop-preview-hands-on",
+    "https://frame.work/desktop"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "All my PC gamer friends are more excited about the Framework Desktop , but I think the company’s cheapest (and best-looking) laptop is going to be one to watch. There’s still a lot we don’t know about this thing, but I hope I get to recommend it to a lot of folks this year.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-photoshop-for-iphone",
+   "name": "Photoshop for iPhone",
+   "url": "https://adobe.prf.hn/click/camref:1011l3IdQV/destination:https%3A%2F%2Fwww.adobe.com%2Fproducts%2Fphotoshop%2Fapp.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "For the first time, there’s a mobile version of Photoshop that actually feels like Photoshop. This is not entirely a good thing — there’s a lot going on in this app — and Adobe is awfully late to the game here, but a super-powered image editor is always a welcome thing on smartphones.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-flashes-for-bluesky",
+   "name": "Flashes for Bluesky",
+   "url": "https://apps.apple.com/us/app/flashes-for-bluesky/id6741443033?itscg=30200&itsct=apps_box_link&mttnsubad=6741443033",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "What if Bluesky, but Instagram? That’s the whole idea behind this app, which reskins Bluesky to be much more visual and image-heavy, and gives you a way to quickly post photos (with filters!) of your own. This is the kind of open social stuff I just love.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-claude-3-7",
+   "name": "Claude 3.7",
+   "url": "https://www.anthropic.com/news/claude-3-7-sonnet",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m still hearing all the time about how much more people like Claude than ChatGPT or Gemini, and this new model is fascinating. “Deep research” is all the rage right now, but Claude now lets you decide how deep, and thus how slow, it’ll be.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-the-sigma-bf",
+   "name": "The Sigma BF",
+   "url": "https://www.sigma-global.com/en/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "In terms of features and usability, there’s no way this is the best $2,000 camera you can buy. But on pure aesthetic appeal, I’m not sure anything is beating this blocky, beautiful, ultra-simplified camera.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-monster-hunter-wilds",
+   "name": "Monster Hunter Wilds",
+   "url": "https://www.monsterhunter.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s only February, and this is already getting a lot of Game of the Year buzz — there are a lot of new mechanics to get used to, but it appears to be very much worth the six-year wait.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-beeper-beta",
+   "name": "Beeper Beta",
+   "url": "https://www.beeper.com/beta",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I won’t lie, I kind of forgot about Beeper. But it’s back and starting to ship again; the new Mac app is basically the old Texts.com app with a new color scheme, but the iOS app appears to be totally new. (Android, meanwhile, remains the best platform for Beeper by a mile.)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-john-oliver-on-facebook-and-content-moderation",
+   "name": "John Oliver on Facebook and content moderation",
+   "url": "https://www.youtube.com/watch?v=nf7XHR3EVHo",
+   "alt_urls": [
+    "https://johnoliverwantsyourraterotica.com/"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I always love John Oliver, but this is particularly great: thoughtful and smart on Section 230, the challenges and politics of content moderation, and much more. Also, don’t miss the Last Week Tonight guide to making yourself less valuable to Meta .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-why-are-there-so-many-ios-only-apps",
+   "name": "Why Are There So Many iOS-Only Apps?",
+   "url": "https://www.youtube.com/watch?v=x2hQa5heXCU",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Why Are There So Many iOS-Only Apps? ” An extremely good answer to an extremely Installer-y question! (And one I’ve been looking into recently, as well.) To all of you who are annoyed there aren’t more Android-first apps in here: I’m with you, and here’s why.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-edifier",
+   "name": "Edifier",
+   "url": "https://www.edifier.com/us/product-category/bookshelf-speakers",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A bunch of folks recommended various Edifier speakers, across the whole range of products. They’re nice, and y’all seem to like their stuff from the cheapest Bluetooth models to the highest-end pro gear.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-homepods",
+   "name": "HomePods",
+   "url": "https://www.apple.com/shop/buy-homepod/homepod",
+   "alt_urls": [
+    "https://www.apple.com/shop/buy-homepod/homepod-mini"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I would never in a million years have guessed how many people would tell me they have, and love, HomePods and HomePod Minis . I heard from so many people who bought them on one sale and are thrilled with the results.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-kef-lsx",
+   "name": "KEF LSX",
+   "url": "https://us.kef.com/products/lsx-2-lt",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I also heard a bunch about the KEF LSX , a set of really nice-looking speakers that work wirelessly or wired, with Chromecast and AirPlay, and are exactly the kind of versatile bookshelf speakers I’ve been looking for. I’m going to end up buying these.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-vizio-soundbar",
+   "name": "Vizio soundbar",
+   "url": "https://www.vizio.com/en/sound-bar/sb/SL512X-0806",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Lots of “just buy a soundbar” responses, too! The Vizio soundbar got some love, but I heard from a few people that practically any soundbar will be a huge upgrade to your living room audio system. I tend to agree.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-a-udio-technica",
+   "name": "A udio Technica",
+   "url": "https://www.audio-technica.com/en-us/turntables",
+   "alt_urls": [
+    "https://uturnaudio.com/products/orbit-basic-turntable",
+    "https://www.project-audio.com/en/turntables/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Turntables are so back. A udio Technica seems to be the go-to brand, but I also heard good things about the U-Turn Audio Orbit and all of Pro-Ject ’s gear.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-sony-walkman",
+   "name": "Sony Walkman",
+   "url": "https://www.kqzyfj.com/click-8836598-15268034?url=https%3A%2F%2Felectronics.sony.com%2Faudio%2Fwalkman-digital-recorders%2Fwalkman-mp3-players%2Fp%2Fnwa306-b",
+   "alt_urls": [
+    "https://km5.co.jp/en-us/products/cd-1b?pr_prod_strat=e5_desc&pr_rec_id=84d4c9ca3&pr_rec_pid=7999814271219&pr_ref_pid=7744468254963&pr_seq=uniform"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I am convinced that every single person who owns a Sony Walkman emailed me to tell me they love it. I believe you! I kind of want one now. There are also a lot of iPod restorers out there, and one person who shared the coolest-looking CD player I’ve ever seen.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-there-is-a-strong-preference-for-streaming-audio",
+   "name": "There is a strong preference for streaming audio over Chromecast Audio, rather t",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "han AirPlay, Bluetooth, or anything else. The quality is better, and a bunch of you told me it’s more reliable and better synced across speakers.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-hifiberry",
+   "name": "HiFiBerry",
+   "url": "https://www.hifiberry.com/shop/boards/hifiberry-dacplus-rca-version/",
+   "alt_urls": [
+    "https://www.hifiberry.com/hifiberryos/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "A few of you told me about home systems you’ve built with Raspberry Pis, the HiFiBerry converter, and the HiFiBerryOS . Sounds like a relatively straightforward and extremely fun project.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-im-using-an-iphone-15",
+   "name": "I’m using an iPhone 15",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: I’m using an iPhone 15.",
+   "section": "screen-share",
+   "recommender": "Colin"
+  },
+  {
+   "id": "2025-03-02-wallpaper-i-use",
+   "name": "wallpaper I use",
+   "url": "https://digitalminimalist.gumroad.com/l/sgact?layout=profile",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: The minimal wallpaper I use is designed to blend with the dock for a cleaner look. It’s created by another Notion creator, the Digital Minimalist .",
+   "section": "screen-share",
+   "recommender": "Colin"
+  },
+  {
+   "id": "2025-03-02-digital-minimalist",
+   "name": "Digital Minimalist",
+   "url": "https://www.digitalminimalist.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: The minimal wallpaper I use is designed to blend with the dock for a cleaner look. It’s created by another Notion creator, the Digital Minimalist .",
+   "section": "screen-share",
+   "recommender": "Colin"
+  },
+  {
+   "id": "2025-03-02-gumroad",
+   "name": "Gumroad",
+   "url": "https://tinyblocks.gumroad.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After seeing how many people were interested in my dock setup, I created a free detailed guide that’s available on my Gumroad .",
+   "section": "screen-share",
+   "recommender": "Colin"
+  },
+  {
+   "id": "2025-03-02-notion",
+   "name": "Notion",
+   "url": "https://www.notion.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Productivity tools, especially Notion (I’m working on becoming a Notion creator). Learning Korean (I’m living in Korea currently). It’s challenging but rewarding. I have a private lesson once a week. As I’m a huge Notion nerd, I’ve created my own setup there to track vocabulary and grammar rules.",
+   "section": "screen-share",
+   "recommender": "Colin"
+  },
+  {
+   "id": "2025-03-02-secret-project-books",
+   "name": "Secret Project books",
+   "url": "https://www.brandonsanderson.com/pages/standalones-cosmere",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Productivity tools, especially Notion (I’m working on becoming a Notion creator). Learning Korean (I’m living in Korea currently). It’s challenging but rewarding. I have a private lesson once a week. As I’m a huge Notion nerd, I’ve created my own setup there to track vocabulary and grammar rules.",
+   "section": "screen-share",
+   "recommender": "Colin"
+  },
+  {
+   "id": "2025-03-02-wax-wayne-series",
+   "name": "Wax & Wayne series",
+   "url": "https://www.brandonsanderson.com/pages/the-mistborn-saga-the-wax-wayne-series",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Productivity tools, especially Notion (I’m working on becoming a Notion creator). Learning Korean (I’m living in Korea currently). It’s challenging but rewarding. I have a private lesson once a week. As I’m a huge Notion nerd, I’ve created my own setup there to track vocabulary and grammar rules.",
+   "section": "screen-share",
+   "recommender": "Colin"
+  },
+  {
+   "id": "2025-03-02-huckleberry",
+   "name": "Huckleberry",
+   "url": "https://huckleberrycare.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "We started using Huckleberry right away to track our baby’s eating, diapers, sleeping, and even my wife’s pumping, and we probably haven’t grazed the surface of what the app offers. Super helpful to simply make sure your baby has eaten enough and has soiled enough diapers plus much more!",
+   "section": "crowdsourced",
+   "recommender": "Spencer (reader)"
+  },
+  {
+   "id": "2025-03-02-keys-to-go-2",
+   "name": "Keys-To-Go 2",
+   "url": "https://logitech.cfzu.net/c/482924/499820/8585?u=https%3A%2F%2Fwww.logitech.com%2Fen-us%2Fshop%2Fp%2Fkeys-to-go2-universal.920-012867",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve recently paired up my Keys-To-Go 2 with my Boox Poke 3 and it’s a perfect coffee shop set-up for distractionless writing.",
+   "section": "crowdsourced",
+   "recommender": "Jeroen (reader)"
+  },
+  {
+   "id": "2025-03-02-boox-poke-3",
+   "name": "Boox Poke 3",
+   "url": "https://onyxboox.com/boox_poke3",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve recently paired up my Keys-To-Go 2 with my Boox Poke 3 and it’s a perfect coffee shop set-up for distractionless writing.",
+   "section": "crowdsourced",
+   "recommender": "Jeroen (reader)"
+  },
+  {
+   "id": "2025-03-02-industry",
+   "name": "Industry",
+   "url": "https://www.themoviedb.org/tv/90812-industry",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Starting to watch the third season of Industry , the Max series about a group of hungry, young graduates competing for a limited number of permanent positions at Pierpoint & Co., a leading bank in London.",
+   "section": "crowdsourced",
+   "recommender": "Rob (reader)"
+  },
+  {
+   "id": "2025-03-02-kobo-clara-bw",
+   "name": "Kobo Clara BW",
+   "url": "https://us.kobobooks.com/products/kobo-clara-bw",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been diving into the world of e-readers this week and just made the switch from Kindle to a Kobo Clara BW . It’s the perfect handheld size with clear text and an auto warm light that makes reading sessions at night so easy. It’s like a smaller Paperwhite.",
+   "section": "crowdsourced",
+   "recommender": "Ian (reader)"
+  },
+  {
+   "id": "2025-03-02-chessup-2",
+   "name": "ChessUp 2",
+   "url": "https://playchessup.com/products/chessup-2",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "ChessUp 2 . The board allows you to play chess against the computer, and it can also provide assistance to one or both of the players during a 1v1 game. The board and pieces feel really high quality, and give a satisfying soft and pleasant sound when you move them.",
+   "section": "crowdsourced",
+   "recommender": "Thomas (reader)"
+  },
+  {
+   "id": "2025-03-02-how-to-prove-youre-not-an-ai",
+   "name": "how to prove you’re not an AI",
+   "url": "https://www.youtube.com/watch?v=qO0WvudbO04",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Learning how to prove you’re not an AI , and the future of content verification with C2PA.",
+   "section": "crowdsourced",
+   "recommender": "Colin (reader)"
+  },
+  {
+   "id": "2025-03-02-anybox",
+   "name": "Anybox",
+   "url": "https://anybox.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Saw the Anybox mention in the latest Installer as a way to capture links and notes, but a AAA tip for you or your readers: it’s also a fantastic way to capture images across any Apple device and categorize them for later.",
+   "section": "crowdsourced",
+   "recommender": "Ryan (reader)"
+  },
+  {
+   "id": "2025-03-02-this-documentary",
+   "name": "this documentary",
+   "url": "https://www3.nhk.or.jp/nhkworld/en/shows/4003192/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Watched this documentary on NHK about the creator of the manga Detective Conan . This shows what people do for the love of the art",
+   "section": "crowdsourced",
+   "recommender": "Gigg (reader)"
+  },
+  {
+   "id": "2025-03-02-deta-surf",
+   "name": "Deta Surf",
+   "url": "https://deta.surf/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I was able to join the alpha for Deta Surf and it’s one of the strangest and most interesting web browsers I’ve ever used. It’s absolutely brimming with personality.",
+   "section": "crowdsourced",
+   "recommender": "Luke (reader)"
+  },
+  {
+   "id": "2025-03-02-josh-johnson",
+   "name": "Josh Johnson",
+   "url": "https://www.joshjohnsoncomedy.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A few weeks ago, my social feeds started filling up with videos and clips from the comedian Josh Johnson . This was great news; he’s hilarious.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-set-on-deepseek",
+   "name": "set on DeepSeek",
+   "url": "https://www.youtube.com/watch?v=zWOPThV8kIs",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "A few weeks ago, my social feeds started filling up with videos and clips from the comedian Josh Johnson . This was great news; he’s hilarious.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-on-the-tiktok-ban",
+   "name": "on the TikTok ban",
+   "url": "https://www.youtube.com/watch?v=plxKPZpZLZo",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "A few weeks ago, my social feeds started filling up with videos and clips from the comedian Josh Johnson . This was great news; he’s hilarious.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-02-another-one-on-hawk-tuah",
+   "name": "another one on Hawk Tuah",
+   "url": "https://www.youtube.com/watch?v=zyrooi9dAV0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "A few weeks ago, my social feeds started filling up with videos and clips from the comedian Josh Johnson . This was great news; he’s hilarious.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

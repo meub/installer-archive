@@ -1,0 +1,417 @@
+{
+ "schema": 1,
+ "date": "2024-07-21",
+ "post_type": "issue",
+ "title": "Two new must-have Android apps",
+ "url": "https://www.theverge.com/2024/7/21/24202162/notion-calendar-claude-android-tinypod-ea-football-installer",
+ "author": "David Pierce",
+ "number": 46,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:36+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-07-21-donald-glover",
+   "name": "Donald Glover",
+   "url": "https://www.nytimes.com/2024/07/17/arts/music/donald-glover-childish-gambino-bando-stone.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about Apple betas and AR gadgets , reading about Donald Glover and the scourge of meetings and what it takes to feed the Olympics , admiring Christian Selig’s keyboard layout , watching Hard Knocks and The Beekeeper , and trying (and failing) to perfect my blueberry…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-21-the-scourge-of-meetings",
+   "name": "the scourge of meetings",
+   "url": "https://www.theatlantic.com/ideas/archive/2024/07/white-collar-meetings-more-frequent/678941/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about Apple betas and AR gadgets , reading about Donald Glover and the scourge of meetings and what it takes to feed the Olympics , admiring Christian Selig’s keyboard layout , watching Hard Knocks and The Beekeeper , and trying (and failing) to perfect my blueberry…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-21-what-it-takes-to-feed-the-olympics",
+   "name": "what it takes to feed the Olympics",
+   "url": "https://www.eater.com/24172073/paris-2024-olympics-athlete-food-summer-games",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about Apple betas and AR gadgets , reading about Donald Glover and the scourge of meetings and what it takes to feed the Olympics , admiring Christian Selig’s keyboard layout , watching Hard Knocks and The Beekeeper , and trying (and failing) to perfect my blueberry…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-21-christian-seligs-keyboard-layout",
+   "name": "Christian Selig’s keyboard layout",
+   "url": "https://www.youtube.com/watch?v=7UXsD7nSfDY&t=138s",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been writing about Apple betas and AR gadgets , reading about Donald Glover and the scourge of meetings and what it takes to feed the Olympics , admiring Christian Selig’s keyboard layout , watching Hard Knocks and The Beekeeper , and trying (and failing) to perfect my blueberry…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-21-hard-knocks",
+   "name": "Hard Knocks",
+   "url": "https://www.themoviedb.org/tv/257916-hard-knocks-offseason-with-the-new-york-giants?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been writing about Apple betas and AR gadgets , reading about Donald Glover and the scourge of meetings and what it takes to feed the Olympics , admiring Christian Selig’s keyboard layout , watching Hard Knocks and The Beekeeper , and trying (and failing) to perfect my blueberry…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-21-the-beekeeper",
+   "name": "The Beekeeper",
+   "url": "https://www.themoviedb.org/movie/866398-the-beekeeper?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been writing about Apple betas and AR gadgets , reading about Donald Glover and the scourge of meetings and what it takes to feed the Olympics , admiring Christian Selig’s keyboard layout , watching Hard Knocks and The Beekeeper , and trying (and failing) to perfect my blueberry…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-21-notion-calendar-for-android",
+   "name": "Notion Calendar for Android",
+   "url": "https://www.notion.so/product/calendar#downloads",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I still really hate the app icon, but other than that, this is one of the best-looking and generally sharpest calendar apps out there. It’s especially great if you’re also a Notion user, but even if not, I think it’s an upgrade on Google Cal.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-21-claude-for-android",
+   "name": "Claude for Android",
+   "url": "https://play.google.com/store/apps/details?id=com.anthropic.claude",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "Over and over the last few weeks, I’ve been hearing people talk about how much they like Claude 3.5 Sonnet — even more than they like ChatGPT. I like Claude’s app a lot, too, especially its ability to import and understand screenshots.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-21-the-tinypod",
+   "name": "The TinyPod",
+   "url": "https://thetinypod.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s a case for an Apple Watch that makes it look like an iPod, and even as I type that, it sounds totally ridiculous. But you better believe I will be buying this thing and seeing if it turns my Watch into the music-playing, message-sending dumbphone of my dreams.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-21-wild-wild-space",
+   "name": "Wild Wild Space",
+   "url": "https://www.themoviedb.org/movie/1283214-wild-wild-space",
+   "alt_urls": [
+    "https://www.harpercollins.com/products/when-the-heavens-went-on-sale-ashlee-vance"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "We think of space as, like, a grand beautiful unknown. But in so many ways, it’s becoming just another place for companies to try and conquer. This HBO series (based on a great Ashlee Vance book ) is a particularly epic — and somewhat terrifying? — startup story.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-21-utm-se",
+   "name": "UTM SE",
+   "url": "https://getutm.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I would’ve happily bet you $10 that Apple would never approve an app that just straight-up emulates a Windows computer. I’m glad to have lost that bet! UTM SE can do retro games, but it can also do all kinds of other stuff. (Just don’t expect it to, like, actually replace your computer.)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-21-ea-sports-college-football-25",
+   "name": "EA Sports College Football 25 .",
+   "url": "https://www.ea.com/games/ea-sports-college-football/college-football-25",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After 11 years, it’s back and apparently as good as ever. The story of this game is a hilariously perfect tale about the internet, capitalism, and fame, but ultimately, I’m just excited to finally turn my alma mater into the football juggernaut it very much is not.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-21-overcast",
+   "name": "Overcast",
+   "url": "https://overcast.fm/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A big update this week to one of the best podcast apps for Apple devices. Marco Arment, the developer, is right when he says it’s noticeably faster in almost every way, and Overcast does things like Smart Speed and volume enhancement better than anything else.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-21-the-canon-r5-mark-ii",
+   "name": "The Canon R5 Mark II",
+   "url": "https://www.usa.canon.com/shop/p/eos-r5-mark-ii",
+   "alt_urls": [
+    "https://www.theverge.com/2024/7/17/24200381/canon-eos-r1-r5-mark-ii-2024-announce"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Photographers and camera nerds have been waiting for this one for a while, and with good reason . The R5 II is faster for photos, more functional for video, and has a new autofocus system that sounds pretty great. $4,300 ain’t cheap, but awesome cameras never are.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-21-nintendo-world-championships-nes-edition",
+   "name": "Nintendo World Championships: NES Edition",
+   "url": "https://www.nintendo.com/us/store/products/nintendo-world-championships-nes-edition-switch/",
+   "alt_urls": [
+    "https://www.theverge.com/24199846/nintendo-world-championships-nes-edition-review-switch-speedrunning"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "A bunch of classic video games, chopped up and put back together into tiny new pieces all designed to be played at blisteringly fast speeds. Such a cool idea and a great new spin on some old faves.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-21-skywalkers-a-love-story",
+   "name": "Skywalkers: A Love Story",
+   "url": "https://www.themoviedb.org/movie/1214488-skywalkers-a-love-story",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=gLDYtH1RH-U"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I can’t get enough of those YouTube videos of people parkouring their way around skyscrapers and abandoned buildings, even if they do stress me out. This Netflix doc is a lot of that kind of stuff and a love story, all in one.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-21-dysons-ontrac-headphones",
+   "name": "Dyson’s OnTrac headphones",
+   "url": "https://www.dyson.com/headphones",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Glad to see Dyson go a little less, uh, Bane-ish with its second set of headphones. The OnTrac are super expensive — $500! — but look pretty good, and I’m rooting for anything going this hard on customization.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-21-twisters",
+   "name": "Twisters",
+   "url": "https://www.themoviedb.org/movie/718821-twisters?language=en-US",
+   "alt_urls": [
+    "https://www.themoviedb.org/movie/664-twister?language=en-US"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Here’s a weekend plan for you. This afternoon, watch Twister , which holds up shockingly well 28 years later. (The effects still rip, too.) Tonight, go see Twisters, which has gotten solid reviews and looks like exactly the kind of movie that should be seen in a huge, loud movie theater.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-07-21-iphone-14-pro",
+   "name": "iPhone 14 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 14 Pro.",
+   "section": "screen-share",
+   "recommender": "Ryan"
+  },
+  {
+   "id": "2024-07-21-usga-ghin",
+   "name": "USGA GHIN",
+   "url": "https://www.ghin.com/login",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "USGA GHIN : The app that has probably never been featured here before! It’s for keeping track of my golf scores and handicap. I still play Wordle every morning. I like to think it gets my creative juices flowing, but really, it’s just a way to avoid checking email for an extra few minutes.",
+   "section": "screen-share",
+   "recommender": "Ryan"
+  },
+  {
+   "id": "2024-07-21-wordle",
+   "name": "Wordle",
+   "url": "https://www.nytimes.com/games/wordle/index.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "USGA GHIN : The app that has probably never been featured here before! It’s for keeping track of my golf scores and handicap. I still play Wordle every morning. I like to think it gets my creative juices flowing, but really, it’s just a way to avoid checking email for an extra few minutes.",
+   "section": "screen-share",
+   "recommender": "Ryan"
+  },
+  {
+   "id": "2024-07-21-terrifying-questions",
+   "name": "Terrifying Questions",
+   "url": "https://www.terrifyingquestions.com",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Terrifying Questions is a great philosophy podcast by Futurama writer Eric Kaplan and professor Taylor Carman. Each week, they discuss a philosophical question. It’s smart, funny, and interesting but without being inaccessible.",
+   "section": "crowdsourced",
+   "recommender": "Jonathan (reader)"
+  },
+  {
+   "id": "2024-07-21-fable",
+   "name": "Fable",
+   "url": "https://fable.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Fable ! It has been great for me and got me into reading again!",
+   "section": "crowdsourced",
+   "recommender": "Ataya (reader)"
+  },
+  {
+   "id": "2024-07-21-scavengers-reign",
+   "name": "Scavengers Reign",
+   "url": "https://www.themoviedb.org/tv/204154-scavengers-reign",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I feel a little late to the party but watching Scavengers Reign , which is on Netflix outside the US. Honestly one of the best shows I’ve seen in a long time. Rarely does sci-fi feel this alien or unknown. Even if you don’t like sci-fi, watch it for the incredible music alone!",
+   "section": "crowdsourced",
+   "recommender": "Alex (reader)"
+  },
+  {
+   "id": "2024-07-21-star-trek-prodigy",
+   "name": "Star Trek Prodigy",
+   "url": "https://www.themoviedb.org/tv/106393-star-trek-prodigy",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Star Trek Prodigy season two on Netflix has blown me away. Season one was good, but season two is one of the best seasons of Star Trek (so far).",
+   "section": "crowdsourced",
+   "recommender": "J (reader)"
+  },
+  {
+   "id": "2024-07-21-company-of-heroes-3",
+   "name": "Company of Heroes 3",
+   "url": "https://store.playstation.com/en-us/product/UP0177-PPSA09713_00-COMPANYOFHEROES3",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I’m trying out Company of Heroes 3 on the PS5. Consoles get a bad rap for RTS games, but it’s only because porting playable controls takes more effort. Haven’t played enough to have an opinion on CoH3 yet, but EndWar and Halo Wars on the 360 were both great to control.",
+   "section": "crowdsourced",
+   "recommender": "Ian (reader)"
+  },
+  {
+   "id": "2024-07-21-omnivores",
+   "name": "Omnivore’s",
+   "url": "https://omnivore.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I can’t get over Omnivore’s text-to-speech article reader! I had started off using ElevenLabs’ Reader app to read articles to me, and though their voices are more realistic, I just looove the way Omnivore switches voices for a quoted passage. No idea when Omnivore made this update, but I’m obsessed!",
+   "section": "crowdsourced",
+   "recommender": "Roxxy (reader)"
+  },
+  {
+   "id": "2024-07-21-elevenlabs-reader-app",
+   "name": "ElevenLabs’ Reader app",
+   "url": "https://elevenlabs.io/blog/introducing-elevenlabs-reader-app",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I can’t get over Omnivore’s text-to-speech article reader! I had started off using ElevenLabs’ Reader app to read articles to me, and though their voices are more realistic, I just looove the way Omnivore switches voices for a quoted passage. No idea when Omnivore made this update, but I’m obsessed!",
+   "section": "crowdsourced",
+   "recommender": "Roxxy (reader)"
+  },
+  {
+   "id": "2024-07-21-aew",
+   "name": "AEW",
+   "url": "https://www.allelitewrestling.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Been really enjoying what AEW has been up to recently, definitely coming out of some creative doldrums. They have a storyline where Toni Storm is the champ playing a black-and-white movie star (literally her intro and promos are B&W).",
+   "section": "crowdsourced",
+   "recommender": "Richard (reader)"
+  },
+  {
+   "id": "2024-07-21-the-battle-of-the-beams",
+   "name": "The Battle of the Beams",
+   "url": "https://www.penguin.co.uk/books/442430/the-battle-of-the-beams-by-whipple-tom/9780552177801",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Reading The Battle of the Beams , the story of the development of radar during WW2 and the countermeasures to it. Some incredible tales, really eye-opening.",
+   "section": "crowdsourced",
+   "recommender": "Peter (reader)"
+  },
+  {
+   "id": "2024-07-21-dayton-audio-b40-speakers",
+   "name": "Dayton Audio B40 speakers",
+   "url": "https://daytonaudio.com/product/2050/classic-b40-bookshelf-speaker-pair-wood",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Ordered a pair of Dayton Audio B40 speakers . They sound like $50, but like… a really good $50. Dayton’s B452 and 652 speakers were long-reigning champs of the ‘beginner audiophile,’ and it’s cool to see this update.",
+   "section": "crowdsourced",
+   "recommender": "Emmet (reader)"
+  },
+  {
+   "id": "2024-07-21-flow-minimalist-launcher",
+   "name": "Flow Minimalist Launcher",
+   "url": "https://play.google.com/store/apps/details?id=com.app.flowlauncher&hl=en_US",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "I’ve been playing around with the Flow Minimalist Launcher . So far, it has led to me reading before bed instead of scrolling and, at least for now, prevented me from buying a Boox Palma.",
+   "section": "crowdsourced",
+   "recommender": "Zachary (reader)"
+  },
+  {
+   "id": "2024-07-21-always-be-knolling",
+   "name": "Always Be Knolling",
+   "url": "https://www.youtube.com/watch?v=s-CTkbHnpNQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "A while back, when I was working on a story about a woodworking computer maker , I learned about the designer Tom Sachs’ concept of “ Always Be Knolling .”",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

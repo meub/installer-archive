@@ -1,0 +1,640 @@
+{
+ "schema": 1,
+ "date": "2024-01-28",
+ "post_type": "issue",
+ "title": "A star creator’s go-to travel gear",
+ "url": "https://www.theverge.com/24051717/masters-of-the-air-palworld-amie-ali-abdaal-psych-installer-newsletter",
+ "author": "David Pierce",
+ "number": 23,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "setups",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:37+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-01-28-the-sudden-rise-in-freight-train-heists",
+   "name": "the sudden rise in freight train heists",
+   "url": "https://www.nytimes.com/2024/01/23/magazine/train-robbery-amazon-packages.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the sudden rise in freight train heists and the strange state of Air Jordans , watching Jon Stewart’s Mark Twain Prize speeches all over again, wondering if I should buy an original Macintosh on eBay instead of continuing to pay my mortgage, scheming to get my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-the-strange-state-of-air-jordans",
+   "name": "the strange state of Air Jordans",
+   "url": "https://www.theatlantic.com/technology/archive/2024/01/air-jordan-trend-is-over/677195/?src=longreads",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the sudden rise in freight train heists and the strange state of Air Jordans , watching Jon Stewart’s Mark Twain Prize speeches all over again, wondering if I should buy an original Macintosh on eBay instead of continuing to pay my mortgage, scheming to get my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-jon-stewarts-mark-twain-prize-speeches",
+   "name": "Jon Stewart’s Mark Twain Prize speeches",
+   "url": "https://www.youtube.com/watch?v=leN3PbNvi3c",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about the sudden rise in freight train heists and the strange state of Air Jordans , watching Jon Stewart’s Mark Twain Prize speeches all over again, wondering if I should buy an original Macintosh on eBay instead of continuing to pay my mortgage, scheming to get my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-an-original-macintosh-on-ebay",
+   "name": "an original Macintosh on eBay",
+   "url": "https://www.ebay.com/itm/276241968327",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the sudden rise in freight train heists and the strange state of Air Jordans , watching Jon Stewart’s Mark Twain Prize speeches all over again, wondering if I should buy an original Macintosh on eBay instead of continuing to pay my mortgage, scheming to get my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-weller",
+   "name": "Weller",
+   "url": "https://apps.apple.com/us/app/weller-gain-muscle-with-bands/id1616421370",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "This week, I’ve been reading about the sudden rise in freight train heists and the strange state of Air Jordans , watching Jon Stewart’s Mark Twain Prize speeches all over again, wondering if I should buy an original Macintosh on eBay instead of continuing to pay my mortgage, scheming to get my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-the-chess-com-app",
+   "name": "the Chess.com app",
+   "url": "https://www.chess.com/play/apps",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the sudden rise in freight train heists and the strange state of Air Jordans , watching Jon Stewart’s Mark Twain Prize speeches all over again, wondering if I should buy an original Macintosh on eBay instead of continuing to pay my mortgage, scheming to get my…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-masters-of-the-air",
+   "name": "Masters of the Air",
+   "url": "https://tv.apple.com/us/show/masters-of-the-air/umc.cmc.7bxcni0vwgll9kmicq738k5q2",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "Okay, so, I need you to clear your weekend schedule. Because first, you’re going to rewatch Band of Brothers, which is exactly as good as you remember. Then, you’re going to watch The Pacific, finally, which you kind of forgot about until recently.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-lumiere",
+   "name": "Lumiere",
+   "url": "https://lumiere-video.github.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Google Research just kind of quietly dropped a new image-to-video AI model, which it calls “a space-time diffusion model for video generation,” which is an extremely cool thing to call it. As far as I can tell, you can’t actually use it yet, but its results look pretty impressive.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-the-hasselblad-907x-cfv-100c",
+   "name": "The Hasselblad 907X & CFV 100C",
+   "url": "https://www.hasselblad.com/v-system/907x-cfv-100c/",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=vRbODU9Tz_g&t=18s"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Quite the name, and quite the price — $8,200! — but also quite the camera. As smartphone cameras continue to eat everything, I love watching high-end cameras get even more beautiful, even more impressive, and even more… real? Non-AI-y?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-the-mint-pixel-8",
+   "name": "The mint Pixel 8",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://store.google.com/product/pixel_8_pro?hl=en-US",
+   "alt_urls": [
+    "https://www.theverge.com/2024/1/24/24049317/google-pixel-8-pro-mint-color-announced-hands-on",
+    "https://www.theverge.com/2024/1/23/24048246/pixel-9-pro-leak-specs-google"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I own a black iPhone, and it’s boring and lame and I wish it looked a lot more like this . Bring back phones with cool, vibrant, unusual colors! I don’t know that I’d buy this one — I mean, Pixel 9 leaks are already happening — but I dig the look.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-palworld",
+   "name": "Palworld",
+   "url": "https://store.steampowered.com/app/1623730/Palworld/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Technically, I should have mentioned this last week, but it became such a phenomenon this week that we just have to talk about it. Pokemon! With guns! And dubious legal standing!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-twenty-thousand-hertz-into-the-huluverse",
+   "name": "Twenty Thousand Hertz : “Into The Huluverse.”",
+   "url": "https://www.20k.org/episodes/intothehuluverse",
+   "alt_urls": [
+    "https://www.20k.org/episodes/netflix?rq=netflix",
+    "https://www.20k.org/episodes/autotone",
+    "https://www.20k.org/episodes/tiktalk"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This podcast has done a bunch of really great deep dives on tech sounds over the years, like the Netflix sound and the noises electric cars make and the omnipresent TikTok narrator . This one, on the sound you hear every time you open Hulu, is another great entrant in the series.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-in-the-know",
+   "name": "In the Know",
+   "url": "https://www.themoviedb.org/tv/210684-in-the-know?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "About once a day, I wish Silicon Valley would come back to HBO. This is the closest I’m gonna get, I think: Mike Judge and Zach Woods made another satire show, only this time, it’s animated and about NPR. I’ve only seen the first episode, which feels extremely “internet in 2024”-y. In a good way.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-transcripts-for-apple-podcasts",
+   "name": "Transcripts for Apple Podcasts",
+   "url": "https://podcasters.apple.com/support/5316-transcripts-on-apple-podcasts",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been a very happy Pocket Casts user for a long time, and this feature — which generates transcripts for every episode you listen to and scrolls them live like they’re song lyrics — is the first thing I’ve ever been jealous of. Every podcast app should do this.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-an-away-suitcase",
+   "name": "An Away suitcase",
+   "url": "https://www.pntra.com/t/8-11514-88849-155614?sid=verge012624&url=https%3A%2F%2Fwww.awaytravel.com%2Fsuitcases%2Fmedium%3Fcolor%3Dnavy",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": ", medium sized.",
+   "section": "setups",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-the-peak-design-travel-backpack",
+   "name": "The Peak Design Travel Backpack",
+   "url": "https://www.peakdesign.com/products/travel-backpack/",
+   "alt_urls": [
+    "https://www.peakdesign.com/products/camera-cube"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": ", with two camera cubes inside.",
+   "section": "setups",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-sony-a7s-iii",
+   "name": "Sony A7S III",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce7sm3-b",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "In one cube: a Sony A7S III camera. “My main filming angle.”",
+   "section": "setups",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-sony-a7c",
+   "name": "Sony A7C",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce7c-b",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "In the other cube: a Sony A7C . “With a 50mm lens, with an extra lens. That’s my photo camera, and it means if I want to do a podcast, I have double cameras, double angles.”",
+   "section": "setups",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-sennheiser-mkh-416",
+   "name": "Sennheiser MKH 416",
+   "url": "https://www.sennheiser.com/en-us/catalog/products/microphones/mkh-416/mkh-416-p48u3-001511",
+   "alt_urls": [
+    "https://www.shure.com/en-US/products/microphones/mv7?variant=MV7-K"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Two mics: a Sennheiser MKH 416 shotgun mic and a Shure MV7 podcast mic.",
+   "section": "setups",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-falcon-eyes-rollflex",
+   "name": "Falcon Eyes Rollflex",
+   "url": "https://www.falconeyeshk.com/post/rollflex-iii-3rd-gen-led-flex-light",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A Falcon Eyes Rollflex light. “It’s a rollable LED panel with a softbox that folds down into like a third of a half of a suitcase. People are always like, ‘Whoa, how does your camera look so good?’ And it’s because of the light. That light is incredible.”",
+   "section": "setups",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-manfrotto-nano",
+   "name": "Manfrotto Nano",
+   "url": "https://www.manfrotto.com/global/nano-lighting-stand-black-5001b-1/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A Manfrotto Nano light stand. “Which weighs almost nothing.”",
+   "section": "setups",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-iphone-15-pro-titanium",
+   "name": "iPhone 15 Pro, titanium",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone : iPhone 15 Pro, titanium.",
+   "section": "screen-share",
+   "recommender": "Dennis"
+  },
+  {
+   "id": "2024-01-28-what-brian-chesky-said",
+   "name": "what Brian Chesky said",
+   "url": "https://www.youtube.com/watch?v=4ef0juAMqoE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The wallpaper : Apple’s weather one, I LOVE the ambience it provides. I think that design will move a lot more into this direction (and also align with what Brian Chesky said about bringing more depth into design that is unequal to skeuomorphism).",
+   "section": "screen-share",
+   "recommender": "Dennis"
+  },
+  {
+   "id": "2024-01-28-noto",
+   "name": "Noto",
+   "url": "https://www.noteapps.ca/noto/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Noto is a lovely indie note-taking app built by a Pinterest engineer. Very interesting scroll interactions and overall interesting information hierarchy. Haptic is a small app designed by my friend Alexey Sekachov . He is one of the best designers I know. Ice Rage is a random old game I love.",
+   "section": "screen-share",
+   "recommender": "Dennis"
+  },
+  {
+   "id": "2024-01-28-haptic",
+   "name": "Haptic",
+   "url": "https://apps.apple.com/us/app/haptic-journal/id1479167334",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Noto is a lovely indie note-taking app built by a Pinterest engineer. Very interesting scroll interactions and overall interesting information hierarchy. Haptic is a small app designed by my friend Alexey Sekachov . He is one of the best designers I know. Ice Rage is a random old game I love.",
+   "section": "screen-share",
+   "recommender": "Dennis"
+  },
+  {
+   "id": "2024-01-28-alexey-sekachov",
+   "name": "Alexey Sekachov",
+   "url": "https://twitter.com/sekachov",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Noto is a lovely indie note-taking app built by a Pinterest engineer. Very interesting scroll interactions and overall interesting information hierarchy. Haptic is a small app designed by my friend Alexey Sekachov . He is one of the best designers I know. Ice Rage is a random old game I love.",
+   "section": "screen-share",
+   "recommender": "Dennis"
+  },
+  {
+   "id": "2024-01-28-ice-rage",
+   "name": "Ice Rage",
+   "url": "https://apps.apple.com/us/app/ice-rage/id481028647",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Noto is a lovely indie note-taking app built by a Pinterest engineer. Very interesting scroll interactions and overall interesting information hierarchy. Haptic is a small app designed by my friend Alexey Sekachov . He is one of the best designers I know. Ice Rage is a random old game I love.",
+   "section": "screen-share",
+   "recommender": "Dennis"
+  },
+  {
+   "id": "2024-01-28-zenly",
+   "name": "Zenly",
+   "url": "https://zenly.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Noto is a lovely indie note-taking app built by a Pinterest engineer. Very interesting scroll interactions and overall interesting information hierarchy. Haptic is a small app designed by my friend Alexey Sekachov . He is one of the best designers I know. Ice Rage is a random old game I love.",
+   "section": "screen-share",
+   "recommender": "Dennis"
+  },
+  {
+   "id": "2024-01-28-honk",
+   "name": "Honk",
+   "url": "https://honk.me/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Noto is a lovely indie note-taking app built by a Pinterest engineer. Very interesting scroll interactions and overall interesting information hierarchy. Haptic is a small app designed by my friend Alexey Sekachov . He is one of the best designers I know. Ice Rage is a random old game I love.",
+   "section": "screen-share",
+   "recommender": "Dennis"
+  },
+  {
+   "id": "2024-01-28-family",
+   "name": "Family",
+   "url": "https://family.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Noto is a lovely indie note-taking app built by a Pinterest engineer. Very interesting scroll interactions and overall interesting information hierarchy. Haptic is a small app designed by my friend Alexey Sekachov . He is one of the best designers I know. Ice Rage is a random old game I love.",
+   "section": "screen-share",
+   "recommender": "Dennis"
+  },
+  {
+   "id": "2024-01-28-amie",
+   "name": "Amie",
+   "url": "https://amie.so/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Dennis , an app I built for myself. I believe modern artists use software, not paint. It’s an app with the simplest interface ever. It uses your camera, and there are no buttons. You can press anywhere on the screen, and that will record a 0.2-second clip.",
+   "section": "screen-share",
+   "recommender": "Dennis"
+  },
+  {
+   "id": "2024-01-28-stardew-valley",
+   "name": "Stardew Valley",
+   "url": "https://www.gq.com/story/stardew-valley-eric-barone-profile",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My favorite article on the internet is on Stardew Valley by GQ . I wish everyone used the Hemingway app to improve their writing. Mainly to shorten sentences. I’m obsessed with @nikolaisavic on TikTok. His video transitions are crazyyy. This Are.na board was a huge inspo for us.",
+   "section": "screen-share",
+   "recommender": "Dennis"
+  },
+  {
+   "id": "2024-01-28-hemingway-app",
+   "name": "Hemingway app",
+   "url": "https://beta.hemingwayapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My favorite article on the internet is on Stardew Valley by GQ . I wish everyone used the Hemingway app to improve their writing. Mainly to shorten sentences. I’m obsessed with @nikolaisavic on TikTok. His video transitions are crazyyy. This Are.na board was a huge inspo for us.",
+   "section": "screen-share",
+   "recommender": "Dennis"
+  },
+  {
+   "id": "2024-01-28-nikolaisavic",
+   "name": "@nikolaisavic",
+   "url": "https://www.tiktok.com/@nikolaisavic",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My favorite article on the internet is on Stardew Valley by GQ . I wish everyone used the Hemingway app to improve their writing. Mainly to shorten sentences. I’m obsessed with @nikolaisavic on TikTok. His video transitions are crazyyy. This Are.na board was a huge inspo for us.",
+   "section": "screen-share",
+   "recommender": "Dennis"
+  },
+  {
+   "id": "2024-01-28-this-are-na-board",
+   "name": "This Are.na board",
+   "url": "https://www.are.na/a-sta/we-drink-light",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My favorite article on the internet is on Stardew Valley by GQ . I wish everyone used the Hemingway app to improve their writing. Mainly to shorten sentences. I’m obsessed with @nikolaisavic on TikTok. His video transitions are crazyyy. This Are.na board was a huge inspo for us.",
+   "section": "screen-share",
+   "recommender": "Dennis"
+  },
+  {
+   "id": "2024-01-28-delicious-in-dungeon",
+   "name": "Delicious in Dungeon",
+   "url": "https://www.netflix.com/title/81564899",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "Loved the first episode of Delicious in Dungeon on Netflix — beautifully drawn, delightfully unhinged, absolutely earnest.",
+   "section": "crowdsourced",
+   "recommender": "Jordan (reader)"
+  },
+  {
+   "id": "2024-01-28-reminders-smart-list",
+   "name": "Reminders Smart List",
+   "url": "https://support.apple.com/guide/iphone/use-smart-lists-iphe882772ed/ios",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Something dead simple but so helpful — a shared Reminders Smart List on iOS. My gf and I moved in last fall and wanted an easy way to keep track of groceries as we alternate who goes. Nice use of AI without trying to be more than a shopping list.",
+   "section": "crowdsourced",
+   "recommender": "Connor (reader)"
+  },
+  {
+   "id": "2024-01-28-superstore",
+   "name": "Superstore",
+   "url": "https://www.themoviedb.org/tv/62649-superstore?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I was looking for a new comfort show, so I have started watching Superstore . It’s an incredibly funny and heartwarming show. And it’s very addictive.",
+   "section": "crowdsourced",
+   "recommender": "Tirth (reader)"
+  },
+  {
+   "id": "2024-01-28-luck-be-a-landlord",
+   "name": "Luck be a Landlord",
+   "url": "https://store.steampowered.com/app/1404850/Luck_be_a_Landlord/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Luck be a Landlord . I’ve been spending too much time playing this silly game. It’s a perfect 10-minute break game.",
+   "section": "crowdsourced",
+   "recommender": "Tara (reader)"
+  },
+  {
+   "id": "2024-01-28-psych",
+   "name": "Psych",
+   "url": "https://www.themoviedb.org/tv/1447-psych?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Started back my (however-many-I-lost-count) rewatch of Psych , with the added benefit of increased playback speed on my iPad.",
+   "section": "crowdsourced",
+   "recommender": "Sean (reader)"
+  },
+  {
+   "id": "2024-01-28-small-fry",
+   "name": "Small Fry",
+   "url": "https://lisabrennanjobs.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m really enjoying the memoir Small Fry by Lisa Brennan-Jobs! Steve Jobs’ daughter shares a personal, more down-to-earth experience with the person the world idolizes. I think it humanizes him, which doesn’t necessarily detract from his impact on the world but makes it more well-rounded.",
+   "section": "crowdsourced",
+   "recommender": "Ben (reader)"
+  },
+  {
+   "id": "2024-01-28-baumgartner-restoration",
+   "name": "Baumgartner Restoration",
+   "url": "https://www.youtube.com/@BaumgartnerRestoration",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "If your jam is videos of experts showing you their process, I strongly recommend Baumgartner Restoration on YouTube.",
+   "section": "crowdsourced",
+   "recommender": "Gaetan (reader)"
+  },
+  {
+   "id": "2024-01-28-qswatermelon-monkey-land",
+   "name": "QSWaterMelon : Monkey Land",
+   "url": "https://apps.apple.com/us/app/qswatermelon-monkey-land/id6469450477",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "The iOS game QSWaterMelon : Monkey Land has been taking over my life for the past couple of weeks — it’s very intuitive but has more strategy than first appears and is insanely addictive. My mom, who has never played a video game in her life, is hooked!",
+   "section": "crowdsourced",
+   "recommender": "Mohsin (reader)"
+  },
+  {
+   "id": "2024-01-28-superbetter",
+   "name": "SuperBetter",
+   "url": "https://superbetter.com/our-story/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am currently reading SuperBetter , which is a book about the power of games and how a gameful approach to life would do us good. Also, I have been watching Citizen Khan , a British comedy show about a British Pakistani named Mr. Khan.",
+   "section": "crowdsourced",
+   "recommender": "Clive (reader)"
+  },
+  {
+   "id": "2024-01-28-citizen-khan",
+   "name": "Citizen Khan",
+   "url": "https://www.themoviedb.org/tv/58552-citizen-khan",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I am currently reading SuperBetter , which is a book about the power of games and how a gameful approach to life would do us good. Also, I have been watching Citizen Khan , a British comedy show about a British Pakistani named Mr. Khan.",
+   "section": "crowdsourced",
+   "recommender": "Clive (reader)"
+  },
+  {
+   "id": "2024-01-28-neo70s",
+   "name": "Neo70s",
+   "url": "https://www.qwertykeys.com/products/neo70",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Really been enjoying building and rebuilding my Neo70s , in-stock FRL TKL keyboards.",
+   "section": "crowdsourced",
+   "recommender": "Noah (reader)"
+  },
+  {
+   "id": "2024-01-28-airshow",
+   "name": "Airshow",
+   "url": "https://apps.apple.com/us/app/airshow-lightweight-podcasts/id1584582270",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "For anyone else that is dropping Castro in the wake of its recent troubles, I’d like to recommend Airshow . While not a direct replacement for Castro’s Inbox, I’ve been able to approximate that feature with Airshow’s playlists. It took some work, but I’m happy with it!",
+   "section": "crowdsourced",
+   "recommender": "Mike (reader)"
+  },
+  {
+   "id": "2024-01-28-the-launch-event-itself",
+   "name": "the launch event itself",
+   "url": "https://www.youtube.com/watch?v=8bepzUM1x3w",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week is the 40th anniversary of the original Macintosh launch, which is a pretty cool milestone for a pretty cool computer.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-epic-1984-ad",
+   "name": "epic 1984 ad",
+   "url": "https://www.youtube.com/watch?v=VtvjbmoDx-I",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week is the 40th anniversary of the original Macintosh launch, which is a pretty cool milestone for a pretty cool computer.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-fun-retro-tech-episode",
+   "name": "fun “Retro Tech” episode",
+   "url": "https://www.youtube.com/watch?v=VJI88QIW7H4&t=2s",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week is the 40th anniversary of the original Macintosh launch, which is a pretty cool milestone for a pretty cool computer.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-two-hour-retrospective",
+   "name": "two-hour retrospective",
+   "url": "https://www.youtube.com/watch?v=Vl__10euTRo",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week is the 40th anniversary of the original Macintosh launch, which is a pretty cool milestone for a pretty cool computer.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-01-28-a-power-mac-g4-cube",
+   "name": "a Power Mac G4 Cube",
+   "url": "https://en.wikipedia.org/wiki/Power_Mac_G4_Cube",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Also, everyone’s been sharing stories about their first Macs, so here’s mine. I grew up on Windows, and when I decided I wanted a Mac, I didn’t have two nickels to rub together, so I went on Craigslist and bought a Power Mac G4 Cube . I think I paid like $150 for it.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

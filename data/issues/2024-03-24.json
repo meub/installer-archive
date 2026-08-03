@@ -1,0 +1,469 @@
+{
+ "schema": 1,
+ "date": "2024-03-24",
+ "post_type": "issue",
+ "title": "The biggest new battle royale is ready for your phone",
+ "url": "https://www.theverge.com/2024/3/24/24109107/3-body-problem-stardew-valley-warzone-mobile-installer-newsletter",
+ "author": "David Pierce",
+ "number": 31,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "spotlight",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:36+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-03-24-la-crime-rings",
+   "name": "LA crime rings",
+   "url": "https://www.newyorker.com/magazine/2024/03/25/the-crime-rings-stealing-everything-from-purses-to-power-tools",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about LA crime rings and AI music tools , watching March Madness even though all my brackets are already busted, watching the story of Mickey Mouse and pretending I don’t care about Love Is Blind while my wife watches even though I’m now kind of obsessed with Love Is…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-24-ai-music-tools",
+   "name": "AI music tools",
+   "url": "https://www.rollingstone.com/music/music-features/suno-ai-chatgpt-for-music-1234982307/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about LA crime rings and AI music tools , watching March Madness even though all my brackets are already busted, watching the story of Mickey Mouse and pretending I don’t care about Love Is Blind while my wife watches even though I’m now kind of obsessed with Love Is…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-24-the-story-of-mickey-mouse",
+   "name": "the story of Mickey Mouse",
+   "url": "https://www.youtube.com/watch?v=i_tT3R-Qrgw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about LA crime rings and AI music tools , watching March Madness even though all my brackets are already busted, watching the story of Mickey Mouse and pretending I don’t care about Love Is Blind while my wife watches even though I’m now kind of obsessed with Love Is…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-24-love-is-blind",
+   "name": "Love Is Blind",
+   "url": "https://www.themoviedb.org/tv/99353-love-is-blind?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about LA crime rings and AI music tools , watching March Madness even though all my brackets are already busted, watching the story of Mickey Mouse and pretending I don’t care about Love Is Blind while my wife watches even though I’m now kind of obsessed with Love Is…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-24-his-new-podcast",
+   "name": "his new podcast",
+   "url": "https://linktr.ee/mindthegame",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about LA crime rings and AI music tools , watching March Madness even though all my brackets are already busted, watching the story of Mickey Mouse and pretending I don’t care about Love Is Blind while my wife watches even though I’m now kind of obsessed with Love Is…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-24-3-body-problem",
+   "name": "3 Body Problem",
+   "url": "https://www.themoviedb.org/tv/108545-3-body-problem?language=en-US",
+   "alt_urls": [
+    "https://www.theverge.com/2024/3/21/24102256/netflix-3-body-problem-review"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "From the co-creators of Game of Thrones, this is a sprawling sci-fi thriller about spies, theoretical physics, geopolitics, and much more. (I just realized that actually makes it sound a lot like Game of Thrones. ) The reviews so far are good, not great , but I’m psyched about this one.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-24-threads-in-the-fediverse",
+   "name": "Threads in the fediverse",
+   "url": "https://www.threads.net/@zuck/post/C4yMgnQRH_T",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I want so badly to make “the Threadiverse” a thing. So badly. But I digress: this is cool news! Threads is starting a real beta rollout allowing people to post on Threads and syndicate it through the fediverse via ActivityPub! This is the social networking stuff I believe in.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-24-dune-part-two-director-denis-villeneuve-breaks-d",
+   "name": "Dune: Part Two Director Denis Villeneuve Breaks Down the Sandworm Scene",
+   "url": "https://www.youtube.com/watch?v=7E6AcXUKSVA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Dune: Part Two Director Denis Villeneuve Breaks Down the Sandworm Scene . ” I’m sure I’ve said this before, but “watching people do their jobs really, really well” is my favorite genre of YouTube.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-24-call-of-duty-warzone-mobile",
+   "name": "Call of Duty: Warzone Mobile",
+   "url": "https://www.callofduty.com/warzonemobile",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This game took up most of the storage on my phone and makes it heat up to about the surface of the sun every time I play. But this is a proper high-end battle royale game on mobile, and I’ll be playing it (with a controller, like a sane person) a lot this weekend.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-24-the-ikea-sjoss-charger",
+   "name": "The Ikea Sjöss charger",
+   "url": "https://www.ikea.com/us/en/p/sjoess-45w-2-port-usb-charger-fast-charging-10574470/",
+   "alt_urls": [
+    "https://www.theverge.com/2024/3/21/24107515/ikea-sjoss-chargers-30w-45w-usb-c-price-specs-features"
+   ],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "Ikea’s gadgets are like Ikea’s other stuff: not fancy, not super exciting, but cheap and reliable and totally good enough. This new USB wall wart might not charge your laptop super fast, but a $15 two-port USB-C charger is a darn good deal.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-24-beeper-for-android",
+   "name": "Beeper for Android",
+   "url": "https://www.beeper.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After the whole iMessage saga, Beeper is back to building excellent cross-platform messaging apps. Its latest Android app is in public beta now, and it’s great. Fast, simple, lots of handy organization features. Who needs iMessage, really?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-24-stardew-valley-1-6",
+   "name": "Stardew Valley 1.6",
+   "url": "https://store.steampowered.com/app/413150/Stardew_Valley/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I confess, I never really got into Stardew Valley , but that’s clearly a me problem: the game is at record player levels right now after dropping a huge update with a new farm, a bunch of new stuff you can do, and… mayonnaise. And the game’s on sale right now, too!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-24-power-user",
+   "name": "Power User",
+   "url": "https://podcasts.voxmedia.com/show/power-user-with-taylor-lorenz",
+   "alt_urls": [
+    "https://www.theverge.com/23906577/ai-gadgets-humane-pin-pixel-8-asassins-creed-spotify-microsoft-installer"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Taylor Lorenz, a great reporter (and friend of Installer ) just launched her new podcast this week, and the first episode is a really fun whip around the internet — from TikTok bans to Facebook pokes to Shrimp Jesus, which I just learned is a real and horrifying thing.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-24-what-is-ai-pin",
+   "name": "What is AI Pin?",
+   "url": "https://www.youtube.com/watch?v=1H4SNFtEzys",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ What is AI Pin? ” I find the AI Pin, and frankly, Humane’s whole thing, really interesting. The company has been sort of weird and mysterious for the last year, but this video — which seems to suggest the Pin is shipping really soon — is the most compelling demo and explanation I’ve seen yet.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-24-x-men-97",
+   "name": "X-Men ‘97",
+   "url": "https://www.themoviedb.org/tv/138502-x-men-97?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The X-Men are so back. It has a new animation style, an updated version of the intro and theme song you might remember from the ’90s, and a vibe that will feel good and right to anyone who missed this show during its long absence. I forgot how much I loved it until I was right back in it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-24-barcodes",
+   "name": "Barcodes",
+   "url": "https://smallcolossus.com/apps/barcodes",
+   "alt_urls": [
+    "https://stocardapp.com/en/us"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "There are a bunch of apps that can do this, but on iOS, I did it with the app Barcodes , and on Android, I used Stocard . Stocard’s “offers” are kind of incessant and annoying because the app is trying to be a rewards program in its own right, but in general, I like both apps.",
+   "section": "spotlight",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-24-you-can-do-some-of-this-in-google-wallet-or-appl",
+   "name": "You can do some of this in Google Wallet or Apple Wallet, but those interfaces a",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "re weirder and less reliable, in my experience. If you don’t want to use an app at all, you can probably just use a folder of photos, but the apps make it all better.",
+   "section": "spotlight",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-24-you-might-be-amazed-how-many-things-you-can-put",
+   "name": "You might be amazed how many things you can put in here",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Anything with a code you scan — a gym pass, a Costco card, the thing you use to get into a parking garage, any QR code — can go in there. All the swipe-y magnetic strip stuff, though, no dice.",
+   "section": "spotlight",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-24-barcodes-has-some-really-great-widgets-and-id-se",
+   "name": "Barcodes has some really great widgets, and I’d set one of them up with your mos",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "t-used card. So, like, Starbucks + grocery store + parking garage, all super easy to access. (It’s also really handy on the Apple Watch.)",
+   "section": "spotlight",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-24-ive-seen-some-stories-about-scanners-especially",
+   "name": "I’ve seen some stories about scanners, especially old ones or ones at an angle,",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "that can’t quite scan a code on your phone. I haven’t had any issues yet, but maybe don’t throw away your most important cards just in case.",
+   "section": "spotlight",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-24-i-use-a-pixel-7a-for-a-bunch-of-reasons-but-chie",
+   "name": "I use a Pixel 7A for a bunch of reasons, but chief among them is… it’s affordabl",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: I use a Pixel 7A for a bunch of reasons, but chief among them is… it’s affordable. I really think smartphones are commodities. The 7A does everything I need it to do, it has an excellent camera, and if I accidentally toss it into the ocean, it’s not a catastrophic financial loss.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2024-03-24-mistercade",
+   "name": "MiSTerCade",
+   "url": "https://misteraddons.com/products/mistercade",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "MiSTerCade . I recently got a Sega New Astro City arcade cabinet, which is the kind of really indulgent purchase I’ve put off forever, and somewhere in that pandemic haze, I decided it was time to just do it.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2024-03-24-sega-new-astro-city",
+   "name": "Sega New Astro City",
+   "url": "https://segaretro.org/New_Astro_City",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "MiSTerCade . I recently got a Sega New Astro City arcade cabinet, which is the kind of really indulgent purchase I’ve put off forever, and somewhere in that pandemic haze, I decided it was time to just do it.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2024-03-24-my-primer-on-mister-here",
+   "name": "my primer on MiSTer here",
+   "url": "https://www.polygon.com/22640171/mister-project-classic-gaming-retro-fpga-board-chip-io-explainer-usb-hub",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "MiSTerCade . I recently got a Sega New Astro City arcade cabinet, which is the kind of really indulgent purchase I’ve put off forever, and somewhere in that pandemic haze, I decided it was time to just do it.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2024-03-24-prince-of-persia-the-lost-crown",
+   "name": "Prince of Persia: The Lost Crown",
+   "url": "https://www.ubisoft.com/en-us/game/prince-of-persia/the-lost-crown",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "MiSTerCade . I recently got a Sega New Astro City arcade cabinet, which is the kind of really indulgent purchase I’ve put off forever, and somewhere in that pandemic haze, I decided it was time to just do it.",
+   "section": "screen-share",
+   "recommender": "Chris"
+  },
+  {
+   "id": "2024-03-24-this-video",
+   "name": "This video",
+   "url": "https://www.youtube.com/watch?v=AD5aAd8Oy84",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This video on the engineering details behind Apple’s new $130 USB-C cable.",
+   "section": "crowdsourced",
+   "recommender": "Vinay (reader)"
+  },
+  {
+   "id": "2024-03-24-fastmail",
+   "name": "Fastmail",
+   "url": "https://www.fastmail.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "You mentioned that Proton is the best non-Gmail alternative, and although I do agree that it’s not bad, many sites don’t like Proton, and a lot of people in the privacy community have voiced issues with it. I personally have Fastmail , and I love it.",
+   "section": "crowdsourced",
+   "recommender": "Anthony (reader)"
+  },
+  {
+   "id": "2024-03-24-queue",
+   "name": "Queue",
+   "url": "https://www.queue.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Queue is great for tracking shows and movies you want to / are watching and to find new things. I use it all the time.",
+   "section": "crowdsourced",
+   "recommender": "Mike (reader)"
+  },
+  {
+   "id": "2024-03-24-transcripts-on-apple-podcasts",
+   "name": "Transcripts on Apple Podcasts",
+   "url": "https://podcasters.apple.com/support/5316-transcripts-on-apple-podcasts",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Checking in a few weeks after iOS 17.4… Transcripts on Apple Podcasts is shockingly good. I’ve fully converted over from Pocket Casts. Ability to quickly scroll through and read an article when I have a few minutes is amazing.",
+   "section": "crowdsourced",
+   "recommender": "Omesh (reader)"
+  },
+  {
+   "id": "2024-03-24-upnote",
+   "name": "UpNote",
+   "url": "https://getupnote.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just left Evernote after more than a decade of use. Stagnant, bloated, and increasingly overpriced since new ownership. Switched to UpNote and very happy with it so far.",
+   "section": "crowdsourced",
+   "recommender": "Kirk (reader)"
+  },
+  {
+   "id": "2024-03-24-shogun",
+   "name": "Shōgun",
+   "url": "https://www.themoviedb.org/tv/126308-shogun?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Watching Shōgun . Enjoying it so much, I am replaying Ghost of Tsushima .",
+   "section": "crowdsourced",
+   "recommender": "John (reader)"
+  },
+  {
+   "id": "2024-03-24-ghost-of-tsushima",
+   "name": "Ghost of Tsushima",
+   "url": "https://www.suckerpunch.com/category/games/ghostoftsushima/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Watching Shōgun . Enjoying it so much, I am replaying Ghost of Tsushima .",
+   "section": "crowdsourced",
+   "recommender": "John (reader)"
+  },
+  {
+   "id": "2024-03-24-stray-shot",
+   "name": "Stray Shot",
+   "url": "https://punkcake.club/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Stray Shot , a twin-stick arena shooter where your missed shots spawn into more enemies. There’s a timer, and with too few enemies, your score will be low, but too many will probably overwhelm you. There are eight arenas with multiple enemy types and a few different game modes.",
+   "section": "crowdsourced",
+   "recommender": "301.82 (reader)"
+  },
+  {
+   "id": "2024-03-24-risk",
+   "name": "Risk",
+   "url": "https://apps.apple.com/us/app/risk-global-domination/id1051334048?itsct=apps_box_link&itscg=30200",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Got back into playing Risk on iOS. I basically just play very quick games against the computer every now and then, and it’s fun. I just ignore all the in-app purchase stuff they’ve added to it since the last time I opened it.",
+   "section": "crowdsourced",
+   "recommender": "Julián (reader)"
+  },
+  {
+   "id": "2024-03-24-mars-after-midnight",
+   "name": "Mars After Midnight",
+   "url": "https://play.date/games/mars-after-midnight/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have to plug Mars After Midnight on the Playdate.",
+   "section": "crowdsourced",
+   "recommender": "Scott (reader)"
+  },
+  {
+   "id": "2024-03-24-manhunt-the-12-day-chase-for-lincolns-killer",
+   "name": "Manhunt: The 12-Day Chase for Lincoln’s Killer",
+   "url": "https://www.harpercollins.com/products/manhunt-james-l-swanson",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Manhunt: The 12-Day Chase for Lincoln’s Killer . I highly recommend the book, as it was just an incredible account of the Lincoln assassination, from the plot to the shooting and the escape. Of course, I will check out the miniseries as well.",
+   "section": "crowdsourced",
+   "recommender": "John (reader)"
+  },
+  {
+   "id": "2024-03-24-the-miniseries",
+   "name": "the miniseries",
+   "url": "https://www.themoviedb.org/tv/155533-manhunt",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Manhunt: The 12-Day Chase for Lincoln’s Killer . I highly recommend the book, as it was just an incredible account of the Lincoln assassination, from the plot to the shooting and the escape. Of course, I will check out the miniseries as well.",
+   "section": "crowdsourced",
+   "recommender": "John (reader)"
+  },
+  {
+   "id": "2024-03-24-in-black",
+   "name": "In black",
+   "url": "https://www.apple.com/shop/product/MMMR3LL/A/magic-keyboard-with-touch-id-and-numeric-keypad-for-mac-models-with-apple-silicon-us-english-black-keys",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve never been a mechanical keyboard fan — too loud! — but I’m realizing that if you’re not into mechanical keyboards, all your choices are kind of boring. I’m worried I’ll just end up getting lazy and buy Apple’s Magic Keyboard. ( In black , natch.)",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

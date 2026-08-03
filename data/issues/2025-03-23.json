@@ -1,0 +1,530 @@
+{
+ "schema": 1,
+ "date": "2025-03-23",
+ "post_type": "issue",
+ "title": "An old smartwatch favorite makes a comeback",
+ "url": "https://www.theverge.com/installer-newsletter/633860/pebble-2-duo-assassins-creed-shadows-pixel-9a-installer",
+ "author": "David Pierce",
+ "number": 76,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-03-23-polymarket",
+   "name": "Polymarket",
+   "url": "https://nymag.com/intelligencer/article/is-polymarket-legal-politics-betting-shayne-coplan.html?ueid=f9ef11fa130d0e73612252405a8f1791&__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I have been shirking most of my responsibilities to watch March Madness. But I’ve also been reading about Polymarket and the future of social media and Taylor Sheridan , watching the Severance finale and immediately starting a full season two rewatch, listening to Amy Poehler’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-23-the-future-of-social-media",
+   "name": "the future of social media",
+   "url": "https://www.ft.com/content/79d2d19a-08df-48fc-9a6f-a9dbef58f642?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I have been shirking most of my responsibilities to watch March Madness. But I’ve also been reading about Polymarket and the future of social media and Taylor Sheridan , watching the Severance finale and immediately starting a full season two rewatch, listening to Amy Poehler’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-23-taylor-sheridan",
+   "name": "Taylor Sheridan",
+   "url": "https://www.rollingstone.com/tv-movies/tv-movie-features/taylor-sheridan-shows-yellowstone-landman-lioness-1235288471/?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I have been shirking most of my responsibilities to watch March Madness. But I’ve also been reading about Polymarket and the future of social media and Taylor Sheridan , watching the Severance finale and immediately starting a full season two rewatch, listening to Amy Poehler’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-23-severance",
+   "name": "Severance",
+   "url": "https://www.themoviedb.org/tv/95396-severance",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I have been shirking most of my responsibilities to watch March Madness. But I’ve also been reading about Polymarket and the future of social media and Taylor Sheridan , watching the Severance finale and immediately starting a full season two rewatch, listening to Amy Poehler’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-23-delightful-new-podcast",
+   "name": "delightful new podcast",
+   "url": "https://www.youtube.com/channel/UC1lg-nYUcZ1pjo6EC2Nj5Sw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I have been shirking most of my responsibilities to watch March Madness. But I’ve also been reading about Polymarket and the future of social media and Taylor Sheridan , watching the Severance finale and immediately starting a full season two rewatch, listening to Amy Poehler’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-23-ipad",
+   "name": "iPad",
+   "url": "https://www.apple.com/ipad/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I have been shirking most of my responsibilities to watch March Madness. But I’ve also been reading about Polymarket and the future of social media and Taylor Sheridan , watching the Severance finale and immediately starting a full season two rewatch, listening to Amy Poehler’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-23-nothing-phone-3a-pro",
+   "name": "Nothing Phone 3A Pro",
+   "url": "https://us.nothing.tech/pages/phone-3a-pro",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I have been shirking most of my responsibilities to watch March Madness. But I’ve also been reading about Polymarket and the future of social media and Taylor Sheridan , watching the Severance finale and immediately starting a full season two rewatch, listening to Amy Poehler’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-23-the-core-2-duo",
+   "name": "The Core 2 Duo",
+   "url": "https://store.repebble.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have so many fond memories of Pebble smartwatches, which combined features, battery life, and simplicity better than basically anything I’ve used since. And now they’re back! They’re not called Pebbles, but they’re Pebbles.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-23-assassins-creed-shadows",
+   "name": "Assassin’s Creed Shadows",
+   "url": "https://www.ubisoft.com/en-us/game/assassins-creed/shadows",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "There are three game franchises I will always try any new version of, no matter what, and Assassin’s Creed is one of them. There have been some disappointments, but this isn’t one of them — there’s no wheel-reinvention happening here, but the game is huge, gorgeous, and exactly what I want it to be.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-23-day-one-for-windows",
+   "name": "Day One for Windows",
+   "url": "https://apps.microsoft.com/detail/9nn2h8x92wbt?cid=web_blog&hl=en-US&gl=US",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "windows"
+   ],
+   "blurb": "I have tried all the journaling apps, and Day One is still the best around. The Windows app is long overdue, and while I don’t think it’s the best-looking version, it’s at least pretty full-featured right out of the gate. Another excuse not to switch away.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-23-the-google-pixel-9a",
+   "name": "The Google Pixel 9A",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://store.google.com/product/pixel_9a?hl=en-US",
+   "alt_urls": [
+    "https://www.theverge.com/news/632509/google-pixel-9a-quality-issue-delay"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I almost didn’t include this one, because you can’t actually buy it yet thanks to some ongoing hardware weirdness that Google ought to be a lot more forthcoming about.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-23-tweek",
+   "name": "Tweek",
+   "url": "https://tweek.so/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Tweek is one of my favorite super-simple planner apps, except I’ve always hated it on mobile. Now it has some new views and design tweaks that make it really nice on mobile! I hate how much I want to go back and throw my life into this app.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-23-can-you-fool-a-self-driving-car",
+   "name": "Can You Fool A Self Driving Car?",
+   "url": "https://www.youtube.com/watch?v=IQJL3htsDyQ",
+   "alt_urls": [
+    "https://www.theverge.com/tesla/631308/mark-rober-tesla-youtube-autopilot-lidar-fake-claims"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Can You Fool A Self Driving Car? ” This Mark Rober video is full of interesting and fun ideas — even though there are some very sketchy details in the methodology and results. I still liked it, even just as a way of understanding why this is such a hard problem to solve.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-23-the-fujifilm-gfx100rf",
+   "name": "The Fujifilm GFX100RF",
+   "url": "https://www.fujifilm-x.com/global/products/cameras/gfx100rf/",
+   "alt_urls": [
+    "https://www.theverge.com/news/633093/fujifilm-gfx100rf-camera-features-price",
+    "https://www.youtube.com/watch?v=Nmdqa82SVPY"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Love seeing Fujifilm take its gorgeous X100 fixed-lens vibe and start adding it to its other camera lines. In this case, a medium format GFX camera with both looks and specs to spare. Yeah, yeah, yeah, it’s $4,900. I can still hope someone steals me one.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-23-gemini-canvas",
+   "name": "Gemini Canvas",
+   "url": "https://gemini.google.com/canvas",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I hear all the time that these live-updating canvas views are a great way to interact with AI bots — and Google’s version of the feature is instantly one of the most accessible and straightforward canvas tools I’ve seen. Gemini is… kind of good?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-23-xenoblade-chronicles-x",
+   "name": "Xenoblade Chronicles X",
+   "url": "https://www.nintendo.com/us/store/products/xenoblade-chronicles-x-definitive-edition-switch/",
+   "alt_urls": [
+    "https://www.theverge.com/games-review/629964/xenoblade-chronicles-x-definitive-edition-review-nintendo-switch"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "A decade-old Wii U game just made it to the Switch, where I suspect it will find new life. My colleague Andrew Webster called the game “an absolutely massive sci-fi RPG,” which is really all I need to hear.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-23-still-an-iphone-15-pro",
+   "name": "Still an iPhone 15 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: Still an iPhone 15 Pro. That rumored iPhone 17 Air better be compelling and keep the USB-C port (a must for iOS app development), otherwise the old 15 Pro might have to go for another ride.",
+   "section": "screen-share",
+   "recommender": "Greg"
+  },
+  {
+   "id": "2025-03-23-drive-to-survive",
+   "name": "Drive to Survive",
+   "url": "https://www.themoviedb.org/tv/87083-formula-1-drive-to-survive",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Severance . Fun fact: because season 1 had nine episodes, and last week’s episode was the ninth and ended on the exact same line, I was dead sure I’d just watched the season 2 finale… and spent an entire day feeling utterly frustrated. Drive to Survive and Formula 1 .",
+   "section": "screen-share",
+   "recommender": "Greg"
+  },
+  {
+   "id": "2025-03-23-formula-1",
+   "name": "Formula 1",
+   "url": "https://prf.hn/click/camref:1100l3D7Gy/%5Bp_id:1011l394533%5D/destination:https%3A%2F%2Fwww.formula1.com%2F",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Severance . Fun fact: because season 1 had nine episodes, and last week’s episode was the ninth and ended on the exact same line, I was dead sure I’d just watched the season 2 finale… and spent an entire day feeling utterly frustrated. Drive to Survive and Formula 1 .",
+   "section": "screen-share",
+   "recommender": "Greg"
+  },
+  {
+   "id": "2025-03-23-first-epic-race-of-2025",
+   "name": "first epic race of 2025",
+   "url": "https://youtu.be/md9-jG4RzXs?feature=shared",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Severance . Fun fact: because season 1 had nine episodes, and last week’s episode was the ninth and ended on the exact same line, I was dead sure I’d just watched the season 2 finale… and spent an entire day feeling utterly frustrated. Drive to Survive and Formula 1 .",
+   "section": "screen-share",
+   "recommender": "Greg"
+  },
+  {
+   "id": "2025-03-23-targzs",
+   "name": "Targz’s",
+   "url": "https://shop.targz.fr/blogs/pen-plotter-updates",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Severance . Fun fact: because season 1 had nine episodes, and last week’s episode was the ninth and ended on the exact same line, I was dead sure I’d just watched the season 2 finale… and spent an entire day feeling utterly frustrated. Drive to Survive and Formula 1 .",
+   "section": "screen-share",
+   "recommender": "Greg"
+  },
+  {
+   "id": "2025-03-23-exhibition",
+   "name": "exhibition",
+   "url": "https://shop.targz.fr/blogs/pen-plotter-updates/plotting-my-way-into-the-grand-palais",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Severance . Fun fact: because season 1 had nine episodes, and last week’s episode was the ninth and ended on the exact same line, I was dead sure I’d just watched the season 2 finale… and spent an entire day feeling utterly frustrated. Drive to Survive and Formula 1 .",
+   "section": "screen-share",
+   "recommender": "Greg"
+  },
+  {
+   "id": "2025-03-23-timelapse",
+   "name": "timelapse",
+   "url": "https://www.instagram.com/p/DDIYGfCNqwu/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Severance . Fun fact: because season 1 had nine episodes, and last week’s episode was the ninth and ended on the exact same line, I was dead sure I’d just watched the season 2 finale… and spent an entire day feeling utterly frustrated. Drive to Survive and Formula 1 .",
+   "section": "screen-share",
+   "recommender": "Greg"
+  },
+  {
+   "id": "2025-03-23-videos",
+   "name": "videos",
+   "url": "https://www.instagram.com/p/DEvMx6dNvdQ/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Severance . Fun fact: because season 1 had nine episodes, and last week’s episode was the ninth and ended on the exact same line, I was dead sure I’d just watched the season 2 finale… and spent an entire day feeling utterly frustrated. Drive to Survive and Formula 1 .",
+   "section": "screen-share",
+   "recommender": "Greg"
+  },
+  {
+   "id": "2025-03-23-imagining-arc",
+   "name": "Imagining Arc",
+   "url": "https://pod.link/1758984150",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Severance . Fun fact: because season 1 had nine episodes, and last week’s episode was the ninth and ended on the exact same line, I was dead sure I’d just watched the season 2 finale… and spent an entire day feeling utterly frustrated. Drive to Survive and Formula 1 .",
+   "section": "screen-share",
+   "recommender": "Greg"
+  },
+  {
+   "id": "2025-03-23-conversations-on-quality",
+   "name": "Conversations on Quality",
+   "url": "https://www.youtube.com/playlist?list=PLP9v0Y4zla9vkQMGvpj2KNuRIefy0HaR2",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Severance . Fun fact: because season 1 had nine episodes, and last week’s episode was the ninth and ended on the exact same line, I was dead sure I’d just watched the season 2 finale… and spent an entire day feeling utterly frustrated. Drive to Survive and Formula 1 .",
+   "section": "screen-share",
+   "recommender": "Greg"
+  },
+  {
+   "id": "2025-03-23-supernote-nomad",
+   "name": "Supernote Nomad",
+   "url": "https://supernote.com/pages/supernote-nomad",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just picked up a Supernote Nomad , which is hitting the sweet spot for an e-ink reader and notetaker for me. Being able to read EPUBs and PDFs while drawing on them like a physical book is exactly what I want out of an e-reader.",
+   "section": "crowdsourced",
+   "recommender": "Sage (reader)"
+  },
+  {
+   "id": "2025-03-23-calibre",
+   "name": "Calibre",
+   "url": "https://calibre-ebook.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just picked up a Supernote Nomad , which is hitting the sweet spot for an e-ink reader and notetaker for me. Being able to read EPUBs and PDFs while drawing on them like a physical book is exactly what I want out of an e-reader.",
+   "section": "crowdsourced",
+   "recommender": "Sage (reader)"
+  },
+  {
+   "id": "2025-03-23-customizing-the-epub-formatting",
+   "name": "customizing the epub formatting",
+   "url": "https://www.reddit.com/r/Supernote/comments/1990lg3/after_some_trial_and_error_ive_landed_on_my_ideal/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just picked up a Supernote Nomad , which is hitting the sweet spot for an e-ink reader and notetaker for me. Being able to read EPUBs and PDFs while drawing on them like a physical book is exactly what I want out of an e-reader.",
+   "section": "crowdsourced",
+   "recommender": "Sage (reader)"
+  },
+  {
+   "id": "2025-03-23-custom-font",
+   "name": "custom font",
+   "url": "https://djr.com/fern",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just picked up a Supernote Nomad , which is hitting the sweet spot for an e-ink reader and notetaker for me. Being able to read EPUBs and PDFs while drawing on them like a physical book is exactly what I want out of an e-reader.",
+   "section": "crowdsourced",
+   "recommender": "Sage (reader)"
+  },
+  {
+   "id": "2025-03-23-derrick-gee",
+   "name": "Derrick Gee",
+   "url": "https://www.patreon.com/gee_derrick",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently stopped relying on algorithms for music discovery and instead I subscribed to a Patreon for a (don’t like this term but) tastemaker named Derrick Gee .",
+   "section": "crowdsourced",
+   "recommender": "Mike (reader)"
+  },
+  {
+   "id": "2025-03-23-adolescence",
+   "name": "Adolescence",
+   "url": "https://www.themoviedb.org/tv/249042-adolescence",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Adolescence on Netflix. Amazing drama with hour long episodes filmed in one shot, single camera. Even includes a camera passover to a drone just to make things more complicated.",
+   "section": "crowdsourced",
+   "recommender": "Paul (reader)"
+  },
+  {
+   "id": "2025-03-23-ladder",
+   "name": "Ladder",
+   "url": "https://www.joinladder.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been using Ladder , and I’ve found it generally perfect. My coach drops six workouts each week and prioritizes three. On top of this, the iOS app is such a great experience.",
+   "section": "crowdsourced",
+   "recommender": "Kevin (reader)"
+  },
+  {
+   "id": "2025-03-23-urlist",
+   "name": "URList",
+   "url": "https://urlist.xyz/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "URList , a little tool for making lists.",
+   "section": "crowdsourced",
+   "recommender": "Itay (reader)"
+  },
+  {
+   "id": "2025-03-23-legion",
+   "name": "Legion",
+   "url": "https://www.themoviedb.org/tv/67195-legion",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I finished rewatching FX’s Legion and was as glued to it as the first watch. What particularly caught my attention is some of the scenes narrated by Jon Hamm in Season 2 and how unfortunately prescient they are.",
+   "section": "crowdsourced",
+   "recommender": "Zayd (reader)"
+  },
+  {
+   "id": "2025-03-23-this-1970s-bbc-documentary",
+   "name": "this 1970’s BBC documentary",
+   "url": "https://www.bbc.co.uk/programmes/p01z4rrj",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I was absolutely fascinated by this 1970’s BBC documentary about how the coming age of the microchip would lead to ‘our children growing up without jobs to go to.’ Interesting echoes of the AI debate.",
+   "section": "crowdsourced",
+   "recommender": "Mike (reader)"
+  },
+  {
+   "id": "2025-03-23-into-the-aether",
+   "name": "Into the Aether",
+   "url": "https://intothecast.online/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week I am happily listening to Into the Aether , a low-key video game podcast. They are known for marathon GOTY-casts and console retrospectives. This week they announced they’re joining a podcast network, so I’m just really happy for them.",
+   "section": "crowdsourced",
+   "recommender": "Dan (reader)"
+  },
+  {
+   "id": "2025-03-23-shashingo",
+   "name": "Shashingo",
+   "url": "https://shashingo.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m going to Japan next week for my honeymoon, and have been using a couple tools to pick up basic Japanese. One of them is a game, Shashingo , which helps you learn through photography.",
+   "section": "crowdsourced",
+   "recommender": "Cameron (reader)"
+  },
+  {
+   "id": "2025-03-23-cleo-abram",
+   "name": "Cleo Abram",
+   "url": "https://www.youtube.com/watch?v=enevSuDgf3U&t=71s",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "One of my favorite niche genres of YouTube is “I got a tour of a Disney lab.” There are tons of these videos out there — Cleo Abram and CrunchLabs both published some in the last two weeks, The Wall Street Journal and MKBHD did them last year, and there are so many more a quick search away — and I…",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-23-crunchlabs",
+   "name": "CrunchLabs",
+   "url": "https://www.youtube.com/watch?v=16LuvR2CARA&t=365s",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "One of my favorite niche genres of YouTube is “I got a tour of a Disney lab.” There are tons of these videos out there — Cleo Abram and CrunchLabs both published some in the last two weeks, The Wall Street Journal and MKBHD did them last year, and there are so many more a quick search away — and I…",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-23-the-wall-street-journal",
+   "name": "The Wall Street Journal",
+   "url": "https://www.youtube.com/watch?v=9miiL-nb1bY",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "One of my favorite niche genres of YouTube is “I got a tour of a Disney lab.” There are tons of these videos out there — Cleo Abram and CrunchLabs both published some in the last two weeks, The Wall Street Journal and MKBHD did them last year, and there are so many more a quick search away — and I…",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-23-mkbhd",
+   "name": "MKBHD",
+   "url": "https://www.youtube.com/watch?v=1KEtxTQUzxY",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "One of my favorite niche genres of YouTube is “I got a tour of a Disney lab.” There are tons of these videos out there — Cleo Abram and CrunchLabs both published some in the last two weeks, The Wall Street Journal and MKBHD did them last year, and there are so many more a quick search away — and I…",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-23-the-imagineering-story",
+   "name": "The Imagineering Story",
+   "url": "https://ondisneyplus.disney.com/show/the-imagineering-story",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "One of my favorite niche genres of YouTube is “I got a tour of a Disney lab.” There are tons of these videos out there — Cleo Abram and CrunchLabs both published some in the last two weeks, The Wall Street Journal and MKBHD did them last year, and there are so many more a quick search away — and I…",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

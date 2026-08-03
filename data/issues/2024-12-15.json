@@ -1,0 +1,431 @@
+{
+ "schema": 1,
+ "date": "2024-12-15",
+ "post_type": "issue",
+ "title": "A worthy update to my favorite mobile game ever",
+ "url": "https://www.theverge.com/2024/12/15/24320546/monument-valley-3-mozi-supernote-joi-installer",
+ "author": "David Pierce",
+ "number": 64,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:36+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-12-15-raw-milk",
+   "name": "raw milk",
+   "url": "https://www.statnews.com/2024/05/15/bird-flu-raw-milk-fda-loophole-lax-enforcement-interstate-ban/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about raw milk and $HAWK and WhatsApp , watching A Man on the Inside and the new Ken Burns da Vinci doc , finally getting caught up on The Great British Bake Off (about which I have SO MANY FEELINGS), storing all my loyalty numbers and Airbnb codes in Cheatsheet , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-15-hawk",
+   "name": "$HAWK",
+   "url": "https://defector.com/the-hawk-tuah-memecoin-rug-pull-is-the-apotheosis-of-bag-culture",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about raw milk and $HAWK and WhatsApp , watching A Man on the Inside and the new Ken Burns da Vinci doc , finally getting caught up on The Great British Bake Off (about which I have SO MANY FEELINGS), storing all my loyalty numbers and Airbnb codes in Cheatsheet , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-15-whatsapp",
+   "name": "WhatsApp",
+   "url": "https://restofworld.org/2024/how-whatsapp-for-business-changed-the-world/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about raw milk and $HAWK and WhatsApp , watching A Man on the Inside and the new Ken Burns da Vinci doc , finally getting caught up on The Great British Bake Off (about which I have SO MANY FEELINGS), storing all my loyalty numbers and Airbnb codes in Cheatsheet , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-15-a-man-on-the-inside",
+   "name": "A Man on the Inside",
+   "url": "https://www.themoviedb.org/tv/245312-a-man-on-the-inside",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about raw milk and $HAWK and WhatsApp , watching A Man on the Inside and the new Ken Burns da Vinci doc , finally getting caught up on The Great British Bake Off (about which I have SO MANY FEELINGS), storing all my loyalty numbers and Airbnb codes in Cheatsheet , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-15-ken-burns-da-vinci-doc",
+   "name": "Ken Burns da Vinci doc",
+   "url": "https://www.pbs.org/kenburns/leonardo-da-vinci/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about raw milk and $HAWK and WhatsApp , watching A Man on the Inside and the new Ken Burns da Vinci doc , finally getting caught up on The Great British Bake Off (about which I have SO MANY FEELINGS), storing all my loyalty numbers and Airbnb codes in Cheatsheet , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-15-the-great-british-bake-off",
+   "name": "The Great British Bake Off",
+   "url": "https://www.themoviedb.org/tv/87012-the-great-british-bake-off?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about raw milk and $HAWK and WhatsApp , watching A Man on the Inside and the new Ken Burns da Vinci doc , finally getting caught up on The Great British Bake Off (about which I have SO MANY FEELINGS), storing all my loyalty numbers and Airbnb codes in Cheatsheet , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-15-cheatsheet",
+   "name": "Cheatsheet",
+   "url": "https://overdesigned.net/cheatsheet/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about raw milk and $HAWK and WhatsApp , watching A Man on the Inside and the new Ken Burns da Vinci doc , finally getting caught up on The Great British Bake Off (about which I have SO MANY FEELINGS), storing all my loyalty numbers and Airbnb codes in Cheatsheet , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-15-monument-valley-3",
+   "name": "Monument Valley 3",
+   "url": "https://linktr.ee/ustwogames",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve thought about it, and Monument Valley is my favorite mobile game series of all time. It’s gorgeous, quiet without being ponderous, and infinitely replayable. Even the soundtrack is one of my all-time faves!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-15-mozi",
+   "name": "Mozi",
+   "url": "https://www.mozi.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Ev Williams built Twitter, Medium, and now this — an app for making plans with your real friends, and connecting with folks who are in town. Strikes me as kind of… niche? But clever. And since Facebook stopped mattering, there’s really nothing else like it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-15-ios-18-2",
+   "name": "iOS 18.2",
+   "url": "https://www.apple.com/newsroom/2024/12/apple-intelligence-now-features-image-playground-genmoji-and-more/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m including this one mostly as a PSA to iPhone owners: all the Apple Intelligence stuff is whatever, but the fact that you can change go to Settings > Apps > Default Apps and change what you use for keyboards, calls, email, and more, absolutely rules. Go make it work the way you want.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-15-the-supernote-a5-x2-manta",
+   "name": "The Supernote A5 X2 Manta",
+   "url": "https://supernote.com/products/supernote-a5-x2-manta",
+   "alt_urls": [
+    "https://www.theverge.com/2024/12/12/24319575/supernote-a5-x2-manta-tablet-e-ink-electronic-paper-upgradeable-repairable"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Dumb name, really cool-looking new E Ink tablet. $459 is a lot for a device like this, but I dig Supernote’s emphasis on making it repairable and upgradeable . I love that these digital notebooks continue to get better.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-15-joi-planner",
+   "name": "Joi Planner",
+   "url": "https://joi.software/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "You surely already know this about me, but I am a sucker for a beautiful app. And this one, a combo calendar / tasks / habit tracker for iPhones, is one of the best-looking “day at a glance” designs I’ve ever seen. The app is, and feels, like it’s missing some features, but I dig it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-15-nickel-boys",
+   "name": "Nickel Boys",
+   "url": "https://www.themoviedb.org/movie/1028196-nickel-boys?language=en-US",
+   "alt_urls": [
+    "https://www.penguinrandomhouse.com/books/223161/the-nickel-boys-by-colson-whitehead/"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Based on the terrific, brutal novel of the same name, the movie is filmed almost entirely in first-person views. And it seems to work. A lot of people think this is going to win a lot of awards — don’t miss it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-15-behind-the-scenes-calling-the-simpsons-monday-ni",
+   "name": "Behind the scenes calling the Simpsons Monday Night Football Game",
+   "url": "https://www.youtube.com/watch?v=1OFonMY6XlI",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=LWG8sDU06n8"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Behind the scenes calling the Simpsons Monday Night Football Game .” I never totally got the appeal of these animated side broadcasts, but the technical story of how they work is extremely cool.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-15-carry-on",
+   "name": "Carry-On.",
+   "url": "https://www.themoviedb.org/movie/1005331-carry-on?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I don’t know if it’s just my algorithm or what, but this Netflix movie has been everywhere on my feeds the last few weeks. It also might be the new record holder for giving away the whole thing in the trailer.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-15-iphone-15",
+   "name": "iPhone 15",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 15.",
+   "section": "screen-share",
+   "recommender": "Esther"
+  },
+  {
+   "id": "2024-12-15-shrinking",
+   "name": "Shrinking",
+   "url": "https://www.themoviedb.org/tv/136311-shrinking?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Watching: Shrinking . I’ve been really enjoying this show — it’s one of the least cynical things in entertainment right now. It’s not quite Scrubs level (highly recommend a rewatch!), but it’s heartfelt, funny, beautifully written and shot, and never saccharine. Playing: Mahjong !",
+   "section": "screen-share",
+   "recommender": "Esther"
+  },
+  {
+   "id": "2024-12-15-mahjong",
+   "name": "Mahjong",
+   "url": "https://en.wikipedia.org/wiki/Mahjong",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Watching: Shrinking . I’ve been really enjoying this show — it’s one of the least cynical things in entertainment right now. It’s not quite Scrubs level (highly recommend a rewatch!), but it’s heartfelt, funny, beautifully written and shot, and never saccharine. Playing: Mahjong !",
+   "section": "screen-share",
+   "recommender": "Esther"
+  },
+  {
+   "id": "2024-12-15-real-mah-jongg-app",
+   "name": "Real Mah Jongg app",
+   "url": "https://apps.apple.com/us/app/real-mah-jongg/id1249840399",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Watching: Shrinking . I’ve been really enjoying this show — it’s one of the least cynical things in entertainment right now. It’s not quite Scrubs level (highly recommend a rewatch!), but it’s heartfelt, funny, beautifully written and shot, and never saccharine. Playing: Mahjong !",
+   "section": "screen-share",
+   "recommender": "Esther"
+  },
+  {
+   "id": "2024-12-15-moliere-le-spectacle-musical",
+   "name": "Molière: Le Spectacle Musical",
+   "url": "https://www.youtube.com/channel/UCc5t5wb25TAO4bCA1d8yMrQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Watching: Shrinking . I’ve been really enjoying this show — it’s one of the least cynical things in entertainment right now. It’s not quite Scrubs level (highly recommend a rewatch!), but it’s heartfelt, funny, beautifully written and shot, and never saccharine. Playing: Mahjong !",
+   "section": "screen-share",
+   "recommender": "Esther"
+  },
+  {
+   "id": "2024-12-15-the-soundtrack-on-spotify",
+   "name": "the soundtrack on Spotify",
+   "url": "https://open.spotify.com/album/2WGmvzwlgOwxua1HyyxNEZ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "Watching: Shrinking . I’ve been really enjoying this show — it’s one of the least cynical things in entertainment right now. It’s not quite Scrubs level (highly recommend a rewatch!), but it’s heartfelt, funny, beautifully written and shot, and never saccharine. Playing: Mahjong !",
+   "section": "screen-share",
+   "recommender": "Esther"
+  },
+  {
+   "id": "2024-12-15-the-atlantic",
+   "name": "The Atlantic",
+   "url": "https://www.theatlantic.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Watching: Shrinking . I’ve been really enjoying this show — it’s one of the least cynical things in entertainment right now. It’s not quite Scrubs level (highly recommend a rewatch!), but it’s heartfelt, funny, beautifully written and shot, and never saccharine. Playing: Mahjong !",
+   "section": "screen-share",
+   "recommender": "Esther"
+  },
+  {
+   "id": "2024-12-15-bambu-a1",
+   "name": "Bambu A1",
+   "url": "https://us.store.bambulab.com/products/a1",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m trying to learn 3D modeling because I just got a Bambu A1 .",
+   "section": "crowdsourced",
+   "recommender": "Erwin (reader)"
+  },
+  {
+   "id": "2024-12-15-mynoise",
+   "name": "myNoise",
+   "url": "https://mynoise.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My favorite music-to-work-by site is myNoise . I particularly like ‘Medieval Library’ and ‘Medieval Village’ (with turned-down blacksmith’s clang).",
+   "section": "crowdsourced",
+   "recommender": "Molly (reader)"
+  },
+  {
+   "id": "2024-12-15-caves-of-qud",
+   "name": "Caves of Qud",
+   "url": "https://www.cavesofqud.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Caves of Qud is an esoteric masterpiece of a game, I’m on my tenth character, I’ve barely seen a fraction of the world, but I’m hooked",
+   "section": "crowdsourced",
+   "recommender": "Jack (reader)"
+  },
+  {
+   "id": "2024-12-15-deep-work",
+   "name": "Deep Work",
+   "url": "https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have finished reading Deep Work by Cal Newport. It provided useful insights about how to take time out of your busy schedule to focus on deep work. It also provided how to minimise distractions and cut down shallow work.",
+   "section": "crowdsourced",
+   "recommender": "Ankur (reader)"
+  },
+  {
+   "id": "2024-12-15-pixel-9-pro-fold",
+   "name": "Pixel 9 Pro Fold",
+   "url": "https://www.tkqlhce.com/click-8836598-15751464?url=https%3A%2F%2Fstore.google.com%2Fus%2Fproduct%2Fpixel_9_pro_fold%3Fhl%3Den-US%26pli%3D1",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I got really really enamored by the Pixel 9 Pro Fold . I don’t know why. The thickness of it, just sitting next to a 15 Pro Max and then unfolding it to that screen inside… it’s something.",
+   "section": "crowdsourced",
+   "recommender": "Abhi (reader)"
+  },
+  {
+   "id": "2024-12-15-mouthwashing",
+   "name": "Mouthwashing",
+   "url": "https://store.steampowered.com/app/2475490/Mouthwashing/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "The game Mouthwashing is getting a lot of attention right now, but I am just letting Indiana Jones and the Great Circle wash over me. It’s been a very long time since we had anything even remotely good with this franchise, but this game seems to really nail the vibe.",
+   "section": "crowdsourced",
+   "recommender": "Mike (reader)"
+  },
+  {
+   "id": "2024-12-15-indiana-jones-and-the-great-circle",
+   "name": "Indiana Jones and the Great Circle",
+   "url": "https://indianajones.bethesda.net/en-US",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The game Mouthwashing is getting a lot of attention right now, but I am just letting Indiana Jones and the Great Circle wash over me. It’s been a very long time since we had anything even remotely good with this franchise, but this game seems to really nail the vibe.",
+   "section": "crowdsourced",
+   "recommender": "Mike (reader)"
+  },
+  {
+   "id": "2024-12-15-wind-and-truth",
+   "name": "Wind and Truth",
+   "url": "https://us.macmillan.com/books/9781250319180/windandtruth/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Reading the gargantuan Wind and Truth from Brandon Sanderson! It’s been quite a doozy of a book.",
+   "section": "crowdsourced",
+   "recommender": "Jiatao (reader)"
+  },
+  {
+   "id": "2024-12-15-baseus-bowie-ma10",
+   "name": "Baseus Bowie MA10",
+   "url": "https://www.baseus.com/products/bowie-ma10-tws-wireless-earbuds",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I needed a cheap pair of earbuds while I wait for the AirPods Pro 3. I bought the Baseus Bowie MA10 and they work better than I could ask for. They do exactly what I need them to do: play my music and podcasts.",
+   "section": "crowdsourced",
+   "recommender": "Alex (reader)"
+  },
+  {
+   "id": "2024-12-15-rog-ally-x",
+   "name": "ROG Ally X",
+   "url": "https://rog.asus.com/us/gaming-handhelds/rog-ally/rog-ally-x-2024/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just bought a ROG Ally X and I’m excited to dual boot it with Bazzite to turn it into half Steam Deck / half Windows gaming handheld, so that I can get the best of both worlds.",
+   "section": "crowdsourced",
+   "recommender": "Benny (reader)"
+  },
+  {
+   "id": "2024-12-15-bazzite",
+   "name": "Bazzite",
+   "url": "https://bazzite.gg/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just bought a ROG Ally X and I’m excited to dual boot it with Bazzite to turn it into half Steam Deck / half Windows gaming handheld, so that I can get the best of both worlds.",
+   "section": "crowdsourced",
+   "recommender": "Benny (reader)"
+  },
+  {
+   "id": "2024-12-15-stories-are-weapons",
+   "name": "Stories Are Weapons",
+   "url": "https://wwnorton.com/books/9780393881516",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just finished the excellent Stories Are Weapons by Annalee Newitz, about the power of storytelling & worldbuilding in propaganda & psyops. Fascinating, insightful, often funny & tragic in turns. A really great read that’s helping me process our increasingly polarized world.",
+   "section": "crowdsourced",
+   "recommender": "Kailey (reader)"
+  },
+  {
+   "id": "2024-12-15-miles-davis-and-the-search-for-the-sound",
+   "name": "Miles Davis and the Search for the Sound",
+   "url": "https://www.simonandschuster.com/books/Miles-Davis-and-the-Search-for-the-Sound/Dave-Chisholm/9798886560428",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "So I am completely new to graphic novels. Went on Reddit to see the top recommendations. Came across Miles Davis and the Search for the Sound . What an amazing intro to this medium! Highly recommended for fans of Miles Davis and jazz.",
+   "section": "crowdsourced",
+   "recommender": "Mike (reader)"
+  }
+ ]
+}

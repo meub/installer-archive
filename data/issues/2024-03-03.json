@@ -1,0 +1,628 @@
+{
+ "schema": 1,
+ "date": "2024-03-03",
+ "post_type": "issue",
+ "title": "The very best food stuff on the internet",
+ "url": "https://www.theverge.com/24087968/food-youtube-blogs-recipes-dune-final-fantasy-oneplus-installer-newsletter",
+ "author": "David Pierce",
+ "number": 28,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:37+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-03-03-that-wacky-ai-willy-wonka-event",
+   "name": "that wacky AI Willy Wonka event",
+   "url": "https://www.wired.com/story/willys-chocolate-experience-actor-ai-script-interview/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about that wacky AI Willy Wonka event and what happened to the Apple Car , dying laughing at “ Indiana Jones and the $3,500 Headset ,” testing Twodos as a new tasks app for iOS, giving both Notion and Notion Calendar another shot, and trying to figure out how to import…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-03-what-happened-to-the-apple-car",
+   "name": "what happened to the Apple Car",
+   "url": "https://www.nytimes.com/2024/02/28/technology/behind-the-apple-car-dead.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about that wacky AI Willy Wonka event and what happened to the Apple Car , dying laughing at “ Indiana Jones and the $3,500 Headset ,” testing Twodos as a new tasks app for iOS, giving both Notion and Notion Calendar another shot, and trying to figure out how to import…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-03-indiana-jones-and-the-3-500-headset",
+   "name": "Indiana Jones and the $3,500 Headset",
+   "url": "https://twitter.com/ActionMovieKid/status/1761383471987970192",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about that wacky AI Willy Wonka event and what happened to the Apple Car , dying laughing at “ Indiana Jones and the $3,500 Headset ,” testing Twodos as a new tasks app for iOS, giving both Notion and Notion Calendar another shot, and trying to figure out how to import…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-03-twodos",
+   "name": "Twodos",
+   "url": "https://apps.apple.com/ca/app/twodos-simple-todos/id6463499163",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "This week, I’ve been reading about that wacky AI Willy Wonka event and what happened to the Apple Car , dying laughing at “ Indiana Jones and the $3,500 Headset ,” testing Twodos as a new tasks app for iOS, giving both Notion and Notion Calendar another shot, and trying to figure out how to import…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-03-notion",
+   "name": "Notion",
+   "url": "https://www.notion.so/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about that wacky AI Willy Wonka event and what happened to the Apple Car , dying laughing at “ Indiana Jones and the $3,500 Headset ,” testing Twodos as a new tasks app for iOS, giving both Notion and Notion Calendar another shot, and trying to figure out how to import…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-03-notion-calendar",
+   "name": "Notion Calendar",
+   "url": "https://calendar.notion.so/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about that wacky AI Willy Wonka event and what happened to the Apple Car , dying laughing at “ Indiana Jones and the $3,500 Headset ,” testing Twodos as a new tasks app for iOS, giving both Notion and Notion Calendar another shot, and trying to figure out how to import…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-03-dune-part-two",
+   "name": "Dune: Part Two",
+   "url": "https://www.themoviedb.org/movie/693134-dune-part-two?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "The vibes around this movie are so good that I finally got around to watching Part One (which is awesome, despite the fact that hardly anything ever happens?). The buzz is that it’s bigger and better, and obviously I have to see it in theaters to get one of those horrifying popcorn buckets.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-03-final-fantasy-vii-rebirth",
+   "name": "Final Fantasy VII Rebirth",
+   "url": "https://ffvii.square-enix-games.com/en-us/games/rebirth",
+   "alt_urls": [
+    "https://www.theverge.com/2024/2/29/24086758/final-fantasy-vii-rebirth-interview-naoki-hamaguchi-yoshinori-kitase"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This game will make you feel feelings. Stressful, intense, breath-holding feelings . But in a good way. It’s a huge open game with a ton to do, and while it doesn’t exactly reinvent the wheel, everyone seems to be finding something to love in here.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-03-sennheisers-momentum-true-wireless-4",
+   "name": "Sennheiser’s Momentum True Wireless 4",
+   "url": "https://www.sennheiser-hearing.com/en-US/p/momentum-true-wireless-4/",
+   "alt_urls": [
+    "https://www.theverge.com/24086715/sennheiser-momentum-true-wireless-4-earbuds-review"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Sennheiser should be a bigger name in headphones; it just consistently churns out great-sounding stuff. These new $300 buds are definitely high-end, but their audio quality can hang , and they have a bunch of features — like Auracast! — that make them pretty compelling.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-03-the-tourist-season-2",
+   "name": "The Tourist season 2",
+   "url": "https://www.themoviedb.org/tv/120909-the-tourist?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The first season of this show was a huge hit internationally but kind of under the radar in the US — though it’s having a moment now that it’s on Netflix. I loved it: it’s intense and surprising and beautifully made. If you haven’t watched yet, now’s the time to watch both seasons.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-03-this-hardware-company-may-be-the-next-apple",
+   "name": "This Hardware Company May Be the Next Apple!",
+   "url": "https://www.youtube.com/watch?v=l8hTo_GBrBI",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ This Hardware Company May Be the Next Apple! ” I always like to describe Teenage Engineering as your favorite tech company’s favorite tech company.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-03-the-oneplus-watch-2",
+   "name": "The OnePlus Watch 2",
+   "url": "https://www.oneplus.com/us/buy-oneplus-watch-2",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "OnePlus’ first smartwatch was… bad. But this one seems to be good! Early reviews say it has solid battery life and pretty good performance, more health and fitness stuff, and a much-improved design. It’s not cheap, but it looks like OnePlus is figuring this smartwatch stuff out.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-03-the-recipe-with-kenji-and-deb",
+   "name": "The Recipe with Kenji and Deb",
+   "url": "https://www.therecipepodcast.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A new food thing! Perfect timing for this week. And I love the show so far: it’s about food, but it’s also about how two very smart people create recipes, which means it’s about how they think about food and how they work. It’s a pure process deep dive, and it’s great.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-03-google-docs-markups",
+   "name": "Google Docs markups",
+   "url": "https://www.android.com/new-features-on-android/?feature=google-docs-markups#gms-filter",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If you have an Android device, you can now highlight, draw, or otherwise mark up Google Docs right within the app. This is so much better than leaving a million comments or doing that weird thing where you change the font color and write your notes that way. I need an Android tablet.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-03-burn-book",
+   "name": "Burn Book",
+   "url": "https://www.simonandschuster.com/books/Burn-Book/Kara-Swisher/9781982163891",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The discourse around Kara Swisher’s book has been so funny — some people love it, some people hate it, and everybody’s talking about it, which is just precisely the way I suspect Kara wants it. Few people have seen as much of tech as she has; whatever this book is, I’m sure I’m gonna like it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-03-superhuman-instant-reply",
+   "name": "Superhuman Instant Reply",
+   "url": "https://blog.superhuman.com/superhuman-ai-instant-reply/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m on the record that I think the very best thing AI chatbots do is write emails. Superhuman took it one step further by marrying AI to Gmail-like smart replies, so now you can tap, like, “Sounds good,” and it’ll write out a whole email for you.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-03-i-have-the-google-pixel-8-pro-and-am-a-pixel-dev",
+   "name": "I have the Google Pixel 8 Pro and am a Pixel devotee",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: I have the Google Pixel 8 Pro and am a Pixel devotee.",
+   "section": "screen-share",
+   "recommender": "Stephanie"
+  },
+  {
+   "id": "2024-03-03-the-traitors",
+   "name": "The Traitors",
+   "url": "https://www.themoviedb.org/tv/212457-the-traitors",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Like everyone else I know, I’m obsessed with The Traitors . We watch it as soon as it airs because I can’t stand being spoiled. And I love Tournament of Champions , Guy Fieri’s game show-esque cooking competition with a stacked roster of big-name chefs.",
+   "section": "screen-share",
+   "recommender": "Stephanie"
+  },
+  {
+   "id": "2024-03-03-tournament-of-champions",
+   "name": "Tournament of Champions",
+   "url": "https://www.themoviedb.org/tv/100095-tournament-of-champions",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Like everyone else I know, I’m obsessed with The Traitors . We watch it as soon as it airs because I can’t stand being spoiled. And I love Tournament of Champions , Guy Fieri’s game show-esque cooking competition with a stacked roster of big-name chefs.",
+   "section": "screen-share",
+   "recommender": "Stephanie"
+  },
+  {
+   "id": "2024-03-03-chile-crisp",
+   "name": "chile crisp",
+   "url": "https://www.eater.com/22308176/best-chile-crisps-lao-gan-ma-momofuku-fly-by-jing-pantry-essential",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Like everyone else I know, I’m obsessed with The Traitors . We watch it as soon as it airs because I can’t stand being spoiled. And I love Tournament of Champions , Guy Fieri’s game show-esque cooking competition with a stacked roster of big-name chefs.",
+   "section": "screen-share",
+   "recommender": "Stephanie"
+  },
+  {
+   "id": "2024-03-03-mama-teavs-hot-garlic",
+   "name": "Mama Teav’s Hot Garlic",
+   "url": "https://mamateavs.com/products/mama-teavs-hot-garlic-new",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Like everyone else I know, I’m obsessed with The Traitors . We watch it as soon as it airs because I can’t stand being spoiled. And I love Tournament of Champions , Guy Fieri’s game show-esque cooking competition with a stacked roster of big-name chefs.",
+   "section": "screen-share",
+   "recommender": "Stephanie"
+  },
+  {
+   "id": "2024-03-03-yun-hais-su-chili-crisp-mala",
+   "name": "Yun Hai’s Su Chili Crisp Mala",
+   "url": "https://yunhai.shop/products/su-chili-crisp-mala",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Like everyone else I know, I’m obsessed with The Traitors . We watch it as soon as it airs because I can’t stand being spoiled. And I love Tournament of Champions , Guy Fieri’s game show-esque cooking competition with a stacked roster of big-name chefs.",
+   "section": "screen-share",
+   "recommender": "Stephanie"
+  },
+  {
+   "id": "2024-03-03-fly-by-jings-sichuan-chili-crisp",
+   "name": "Fly by Jing’s Sichuan Chili Crisp",
+   "url": "https://shareasale.com/r.cfm?b=1699437&u=1225169&m=105661&urllink=https%3A%2F%2Fflybyjing.com%2Fshop%2Fsichuan-chili-crisp%2F",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Like everyone else I know, I’m obsessed with The Traitors . We watch it as soon as it airs because I can’t stand being spoiled. And I love Tournament of Champions , Guy Fieri’s game show-esque cooking competition with a stacked roster of big-name chefs.",
+   "section": "screen-share",
+   "recommender": "Stephanie"
+  },
+  {
+   "id": "2024-03-03-a-jam-spoon",
+   "name": "a jam spoon",
+   "url": "https://www.muji.us/products/silicone-jam-spoon-mcda0a",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Like everyone else I know, I’m obsessed with The Traitors . We watch it as soon as it airs because I can’t stand being spoiled. And I love Tournament of Champions , Guy Fieri’s game show-esque cooking competition with a stacked roster of big-name chefs.",
+   "section": "screen-share",
+   "recommender": "Stephanie"
+  },
+  {
+   "id": "2024-03-03-paprika",
+   "name": "Paprika",
+   "url": "https://www.paprikaapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This was not just the most recommended app but the most recommended thing by far in my inbox: a cross-platform app for meal planning, recipes, and grocery shopping. There are a lot of apps that do this, but Paprika is your overwhelming favorite.",
+   "section": "crowdsourced",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-03-mela",
+   "name": "Mela",
+   "url": "https://mela.recipes/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The runner-up in the app category: Mela doesn’t do as much as Paprika, and it only works on Apple devices, but wow is it well designed and just delightful to use.",
+   "section": "crowdsourced",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-03-claire-saffitz",
+   "name": "Claire Saffitz",
+   "url": "https://www.dessertperson.com/",
+   "alt_urls": [
+    "https://www.dessertperson.com/dessert-person-cookbook",
+    "https://www.youtube.com/@CSaffitz/featured",
+    "https://www.youtube.com/watch?v=HoK_ASldUrY"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Everybody loves Claire Saffitz. I got recommendations for her Dessert Person cookbook and a whole slew of people saying how much they love her YouTube channel . I just rediscovered her breakfast sandwich video , and I know what I’m doing this weekend.",
+   "section": "crowdsourced",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-03-ethan-chlebowski",
+   "name": "Ethan Chlebowski",
+   "url": "https://www.ethanchlebowski.com/",
+   "alt_urls": [
+    "https://www.cookwell.com/",
+    "https://www.ethanchlebowski.com/newsletter",
+    "https://www.youtube.com/@EthanChlebowski"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "You all like his recipe site , his newsletter , and especially his YouTube channel . His approach is a little different from most: he makes a lot of videos about whether you really need expensive parmesan cheese and lots of deep dives into food science.",
+   "section": "crowdsourced",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-03-just-the-recipe",
+   "name": "Just the Recipe",
+   "url": "https://www.justtherecipe.com/",
+   "alt_urls": [
+    "https://cookbookmanager.com/",
+    "https://cooked.wiki/",
+    "https://pestlechef.app/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "All the just-the-recipe services . One thing everyone wants is a way to turn complicated, ad-filled food websites into simple recipes. Paprika and Mela both do that well; folks also recommended Just the Recipe , CookBook , Cooked , and Pestle as ways to get the recipe without all the extra stuff.",
+   "section": "crowdsourced",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-03-mythical-kitchen",
+   "name": "Mythical Kitchen",
+   "url": "https://www.youtube.com/channel/UCXGR70CkW_pXb8n52LzCCRw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "By far my favorite food content is from Mythical Kitchen on YouTube. Started as part of Rhett & Link’s Good Mythical Morning and has grown into an awesome channel with a great cast.",
+   "section": "crowdsourced",
+   "recommender": "Mack (reader)"
+  },
+  {
+   "id": "2024-03-03-nilered",
+   "name": "NileRed",
+   "url": "https://www.youtube.com/@NileRed",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "NileRed is another YouTuber who is more chemist than chef, but that doesn’t stop him from doing weird stuff like turning a plastic glove into grape soda .",
+   "section": "crowdsourced",
+   "recommender": "Wally (reader)"
+  },
+  {
+   "id": "2024-03-03-turning-a-plastic-glove-into-grape-soda",
+   "name": "turning a plastic glove into grape soda",
+   "url": "https://www.youtube.com/watch?v=zFZ5jQ0yuNA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "NileRed is another YouTuber who is more chemist than chef, but that doesn’t stop him from doing weird stuff like turning a plastic glove into grape soda .",
+   "section": "crowdsourced",
+   "recommender": "Wally (reader)"
+  },
+  {
+   "id": "2024-03-03-budget-bytes",
+   "name": "Budget Bytes",
+   "url": "https://www.budgetbytes.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The best and most important food blog I’ve ever found is Budget Bytes . Beth, the founder of the website, puts together great low-cost recipes, broken down by ingredient price.",
+   "section": "crowdsourced",
+   "recommender": "Zoe (reader)"
+  },
+  {
+   "id": "2024-03-03-baked-oatmeal",
+   "name": "baked oatmeal",
+   "url": "https://www.budgetbytes.com/baked-oatmeal/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The best and most important food blog I’ve ever found is Budget Bytes . Beth, the founder of the website, puts together great low-cost recipes, broken down by ingredient price.",
+   "section": "crowdsourced",
+   "recommender": "Zoe (reader)"
+  },
+  {
+   "id": "2024-03-03-cook-well",
+   "name": "Cook Well",
+   "url": "https://www.cookwell.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recommend checking out Cook Well for your food-related issue. Dead simple, no gimmicks. Best recipe site I’ve used in years.",
+   "section": "crowdsourced",
+   "recommender": "Matty (reader)"
+  },
+  {
+   "id": "2024-03-03-world-of-mouth",
+   "name": "World of Mouth",
+   "url": "https://www.worldofmouth.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I specifically want to recommend World of Mouth . They are trying to create a community for foodies. I tried it on my vacation to Vietnam recently, and it was surprisingly great. The selection may be a little sparse vs. other mediums, but quality over quantity.",
+   "section": "crowdsourced",
+   "recommender": "Nachiketa (reader)"
+  },
+  {
+   "id": "2024-03-03-bake-it-up-a-notch",
+   "name": "Bake It Up a Notch",
+   "url": "https://www.youtube.com/playlist?list=PLucz12o2JWvUHPZrS8JmHNbr7VYT2I9yr",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "There are a bunch of really great cooking instruction shows free on YouTube. Personal favorites are “ Bake It Up a Notch ” by Erin Jeanne McDowell on Food52 , “ Cooking 101 ” with Sohla El-Waylly, and also — less educational but delightful — “ Mystery Menu ” and the gingerbread house series with…",
+   "section": "crowdsourced",
+   "recommender": "Kailey (reader)"
+  },
+  {
+   "id": "2024-03-03-food52",
+   "name": "Food52",
+   "url": "https://www.youtube.com/@food52",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "There are a bunch of really great cooking instruction shows free on YouTube. Personal favorites are “ Bake It Up a Notch ” by Erin Jeanne McDowell on Food52 , “ Cooking 101 ” with Sohla El-Waylly, and also — less educational but delightful — “ Mystery Menu ” and the gingerbread house series with…",
+   "section": "crowdsourced",
+   "recommender": "Kailey (reader)"
+  },
+  {
+   "id": "2024-03-03-cooking-101",
+   "name": "Cooking 101",
+   "url": "https://www.youtube.com/playlist?list=PLYG6O_GQCZwjetsTY9AzFDuPuzN37Rq9U",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "There are a bunch of really great cooking instruction shows free on YouTube. Personal favorites are “ Bake It Up a Notch ” by Erin Jeanne McDowell on Food52 , “ Cooking 101 ” with Sohla El-Waylly, and also — less educational but delightful — “ Mystery Menu ” and the gingerbread house series with…",
+   "section": "crowdsourced",
+   "recommender": "Kailey (reader)"
+  },
+  {
+   "id": "2024-03-03-mystery-menu",
+   "name": "Mystery Menu",
+   "url": "https://www.youtube.com/playlist?list=PLYG6O_GQCZwikXIXw5p0vFQBif-RxUpHy",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "There are a bunch of really great cooking instruction shows free on YouTube. Personal favorites are “ Bake It Up a Notch ” by Erin Jeanne McDowell on Food52 , “ Cooking 101 ” with Sohla El-Waylly, and also — less educational but delightful — “ Mystery Menu ” and the gingerbread house series with…",
+   "section": "crowdsourced",
+   "recommender": "Kailey (reader)"
+  },
+  {
+   "id": "2024-03-03-gingerbread-house-series",
+   "name": "gingerbread house series",
+   "url": "https://www.youtube.com/watch?v=ksgkpdxPPy8&list=PLYG6O_GQCZwjK7GurWsWWAKlOhN-9KM9Z&index=6&t=11s",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "There are a bunch of really great cooking instruction shows free on YouTube. Personal favorites are “ Bake It Up a Notch ” by Erin Jeanne McDowell on Food52 , “ Cooking 101 ” with Sohla El-Waylly, and also — less educational but delightful — “ Mystery Menu ” and the gingerbread house series with…",
+   "section": "crowdsourced",
+   "recommender": "Kailey (reader)"
+  },
+  {
+   "id": "2024-03-03-sidekick-app",
+   "name": "Sidekick app",
+   "url": "https://sortedfood.com/sidekick/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Gotta be the Sidekick app from the guys at Sorted Food on YouTube. The channel is a riot: a mix of professional chefs and ‘regular guys’ competing and learning about cooking together.",
+   "section": "crowdsourced",
+   "recommender": "John (reader)"
+  },
+  {
+   "id": "2024-03-03-sorted-food",
+   "name": "Sorted Food",
+   "url": "https://www.youtube.com/sortedfood",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Gotta be the Sidekick app from the guys at Sorted Food on YouTube. The channel is a riot: a mix of professional chefs and ‘regular guys’ competing and learning about cooking together.",
+   "section": "crowdsourced",
+   "recommender": "John (reader)"
+  },
+  {
+   "id": "2024-03-03-new-york-times-cooking",
+   "name": "New York Times Cooking",
+   "url": "https://cooking.nytimes.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I also use the New York Times Cooking website and BBC Good Food as major sources of recipes. It’s great to get recipes without a big story like a lot of cooking blogs do.",
+   "section": "crowdsourced",
+   "recommender": "Richard (reader)"
+  },
+  {
+   "id": "2024-03-03-bbc-good-food",
+   "name": "BBC Good Food",
+   "url": "https://www.bbcgoodfood.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I also use the New York Times Cooking website and BBC Good Food as major sources of recipes. It’s great to get recipes without a big story like a lot of cooking blogs do.",
+   "section": "crowdsourced",
+   "recommender": "Richard (reader)"
+  },
+  {
+   "id": "2024-03-03-tabitha-brown",
+   "name": "Tabitha Brown",
+   "url": "https://www.youtube.com/@iamtabithabrown",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "My nomination is for the Tabitha Brown YouTube channel. She is a Black woman who shares vegan recipes and restaurants and also a renowned actress with a children’s show that is also hosted on her channel — overall just a lovely person and personality, and her North Carolina-isms and slang ‘that’s…",
+   "section": "crowdsourced",
+   "recommender": "S. Erin (reader)"
+  },
+  {
+   "id": "2024-03-03-frenchguycooking",
+   "name": "FrenchGuyCooking",
+   "url": "https://www.youtube.com/@FrenchGuyCooking",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Since you mentioned ramen, I must mention Alex (aka FrenchGuyCooking ) on YouTube. He’s done a ton of videos about ramen (I believe two series ), and they’re fantastic. You can also see a lot of DIY on his channel as he builds or modifies his equipment.",
+   "section": "crowdsourced",
+   "recommender": "Tiago (reader)"
+  },
+  {
+   "id": "2024-03-03-two",
+   "name": "two",
+   "url": "https://www.youtube.com/playlist?list=PLURsDaOr8hWXGHjXPa3nTFZnbqJcAfs4N",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Since you mentioned ramen, I must mention Alex (aka FrenchGuyCooking ) on YouTube. He’s done a ton of videos about ramen (I believe two series ), and they’re fantastic. You can also see a lot of DIY on his channel as he builds or modifies his equipment.",
+   "section": "crowdsourced",
+   "recommender": "Tiago (reader)"
+  },
+  {
+   "id": "2024-03-03-series",
+   "name": "series",
+   "url": "https://www.youtube.com/playlist?list=PLURsDaOr8hWVIL1uXpFewd0smwYfyO0A9",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Since you mentioned ramen, I must mention Alex (aka FrenchGuyCooking ) on YouTube. He’s done a ton of videos about ramen (I believe two series ), and they’re fantastic. You can also see a lot of DIY on his channel as he builds or modifies his equipment.",
+   "section": "crowdsourced",
+   "recommender": "Tiago (reader)"
+  },
+  {
+   "id": "2024-03-03-hack-an-old-ipod",
+   "name": "hack an old iPod",
+   "url": "https://www.youtube.com/watch?v=-IXHjeDBgKo",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I don’t know. Maybe the right answer is just to hack an old iPod and go back to living the local music life. I do miss that click wheel.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

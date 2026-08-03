@@ -1,0 +1,584 @@
+{
+ "schema": 1,
+ "date": "2026-07-11",
+ "post_type": "issue",
+ "title": "The perfect kit for all your tiny repairs",
+ "url": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
+ "author": "David Pierce",
+ "number": 135,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:41+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-07-11-cold-plunges",
+   "name": "cold plunges",
+   "url": "https://www.nytimes.com/2026/07/08/magazine/cold-plunge-fix.html?unlocked_article_code=1.wFA.AHQn.AMSie9IN3Bkv",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about cold plunges and Colson Whitehead and the food truck mafia , finally getting to the theater to see Obsession , watching The Agency because it’s apparently everyone’s favorite underrated show, nodding sadly to Adam Conover’s video about the death of sitcoms …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-11-colson-whitehead",
+   "name": "Colson Whitehead",
+   "url": "https://www.newyorker.com/magazine/2026/06/29/colson-whitehead-profile",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about cold plunges and Colson Whitehead and the food truck mafia , finally getting to the theater to see Obsession , watching The Agency because it’s apparently everyone’s favorite underrated show, nodding sadly to Adam Conover’s video about the death of sitcoms …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-11-the-food-truck-mafia",
+   "name": "the food truck mafia",
+   "url": "https://washingtonian.com/2026/06/29/dc-food-truck-mafia-national-mall/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about cold plunges and Colson Whitehead and the food truck mafia , finally getting to the theater to see Obsession , watching The Agency because it’s apparently everyone’s favorite underrated show, nodding sadly to Adam Conover’s video about the death of sitcoms …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-11-obsession",
+   "name": "Obsession",
+   "url": "https://www.themoviedb.org/movie/1339713-obsession?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about cold plunges and Colson Whitehead and the food truck mafia , finally getting to the theater to see Obsession , watching The Agency because it’s apparently everyone’s favorite underrated show, nodding sadly to Adam Conover’s video about the death of sitcoms …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-11-the-agency",
+   "name": "The Agency",
+   "url": "https://www.themoviedb.org/tv/219971-the-agency?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about cold plunges and Colson Whitehead and the food truck mafia , finally getting to the theater to see Obsession , watching The Agency because it’s apparently everyone’s favorite underrated show, nodding sadly to Adam Conover’s video about the death of sitcoms …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-11-the-death-of-sitcoms",
+   "name": "the death of sitcoms",
+   "url": "https://www.youtube.com/watch?v=gpSghW4J3ws",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about cold plunges and Colson Whitehead and the food truck mafia , finally getting to the theater to see Obsession , watching The Agency because it’s apparently everyone’s favorite underrated show, nodding sadly to Adam Conover’s video about the death of sitcoms …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-11-dune-part-three-trailer",
+   "name": "Dune: Part Three trailer",
+   "url": "https://www.youtube.com/watch?v=NdvqHc56lE0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about cold plunges and Colson Whitehead and the food truck mafia , finally getting to the theater to see Obsession , watching The Agency because it’s apparently everyone’s favorite underrated show, nodding sadly to Adam Conover’s video about the death of sitcoms …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-11-atlas",
+   "name": "Atlas",
+   "url": "https://asekachov.com/atlasformac",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about cold plunges and Colson Whitehead and the food truck mafia , finally getting to the theater to see Obsession , watching The Agency because it’s apparently everyone’s favorite underrated show, nodding sadly to Adam Conover’s video about the death of sitcoms …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-11-infowars",
+   "name": "InfoWars",
+   "url": "https://www.youtube.com/channel/UCWqDfNvSLfttUF1c53AWA4w",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about cold plunges and Colson Whitehead and the food truck mafia , finally getting to the theater to see Obsession , watching The Agency because it’s apparently everyone’s favorite underrated show, nodding sadly to Adam Conover’s video about the death of sitcoms …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-11-the-ifixit-megalodon-driver-kit",
+   "name": "The iFixit Megalodon Driver Kit",
+   "url": "https://www.ifixit.com/products/megalodon-driver-kit",
+   "alt_urls": [
+    "https://hototools.com/products/3-6v-electric-screwdriver-kit"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "My last year has been filled with small and large home repairs, and I really should have gotten a kit like this. It’s not a full-on gadget repair set (though iFixit has a good one of those, too), more of a just-right set of bits, adapters, and drivers for all the small fixes life requires.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-11-the-nothing-earbuds-3a",
+   "name": "The Nothing Earbuds 3A",
+   "url": "https://us.nothing.tech/products/ear-3a",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Nothing’s wireless earbuds have generally been among the best you can get for $99. I’m also very intrigued by the new Audio Snapshot feature, which records a snippet of whatever you’re listening to — for me, it’ll be mostly podcast moments I want to remember — and syncs it to your phone. Nifty!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-11-ugmonks-analog-card-variety-pack",
+   "name": "Ugmonk’s Analog Card Variety Pack",
+   "url": "https://ugmonk.com/products/analog-card-variety-pack",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I know there are a lot of Analog fans in the Installerverse, and all the new card types look great for some pen-and-paper productivity. The more I lean into just using a card a day to keep myself organized, the more I like it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-11-gpt-live",
+   "name": "GPT-Live",
+   "url": "https://openai.com/index/introducing-gpt-live/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "AI Voice Modes have always struck me as a good demo and a weird product. I don’t think aimless chatbot chat is a good thing, and the bots never worked that well anyway. By all accounts, this is a huge improvement, much more useful and much less trying to be your best friend.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-11-apple-usb-c-earpods-review-better-than-you-think",
+   "name": "Apple USB-C Earpods Review: Better Than You Think",
+   "url": "https://www.youtube.com/watch?v=B7gw6FKRoIw",
+   "alt_urls": [
+    "https://www.apple.com/shop/product/myqy3am/a/earpods-usb-c"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Apple USB-C Earpods Review: Better Than You Think .” I have been shouting for years, to anyone who will listen, that everyone should have a pair or six of Apple’s $20 wired earbuds . They sound good, the mic is great — they’re just a fabulous pair of backup headphones. But don’t just believe me!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-11-blooms-by-play-doh",
+   "name": "Blooms by Play-Doh",
+   "url": "https://goto.target.com/c/482924/81938/2092?u=https%3A%2F%2Fwww.target.com%2Fp%2Fblooms-by-play-doh-rosy-petite-flower-bouquet-arts-and-crafts-kit-for-adults-diy-home-and-desk-decor-gifting%2F-%2FA-95181375",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "You can just imagine the meeting at Hasbro. “Adults love Legos, right? They’ll totally love Play-Doh, too!” I have a three-year-old who loves the stuff, and I gotta tell you: The logic tracks. I don’t know that I would have started with flower arrangements? But there’s something fun here.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-11-claude-reflection",
+   "name": "Claude reflection",
+   "url": "https://www.anthropic.com/news/reflect-with-claude",
+   "alt_urls": [
+    "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "My colleague Hayden Field called it “ Claude Wrapped ,” and that’s about right. This is probably mostly a business-analytics tool ( where did all those tokens go??",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-11-the-man-will-burn",
+   "name": "The Man Will Burn",
+   "url": "https://www.themoviedb.org/tv/252884-the-man-will-burn",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Weirdly, I think understanding Burning Man is actually crucial to understanding this moment in technology, culture, and the world. This four-part series was made by people who love Burning Man, which definitely colors the doc — but at least the first episode shows the place off pretty well.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-11-knockoff",
+   "name": "Knockoff",
+   "url": "https://knockoff.shopping/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A browser extension that attempts to sort the nonsense Amazon brands from the actual brands and help you get to the best version of a product more quickly. An incredible referendum on the state of Amazon that this is even necessary, but… it’s extremely necessary.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-11-ian-bogost",
+   "name": "Ian Bogost",
+   "url": "https://ianbogost.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Ian Bogost is one of my favorite writers on tech, because he always seems to be asking the right question: Is any of this new technology good for us as people? I’ve come back many times to his love letter to landlines , his explanation for why email sucks , and many others.",
+   "section": "screen-share",
+   "recommender": "Ian"
+  },
+  {
+   "id": "2026-07-11-his-love-letter-to-landlines",
+   "name": "his love letter to landlines",
+   "url": "https://www.theatlantic.com/technology/archive/2023/09/landlines-comeback-home-phones/675280/?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Ian Bogost is one of my favorite writers on tech, because he always seems to be asking the right question: Is any of this new technology good for us as people? I’ve come back many times to his love letter to landlines , his explanation for why email sucks , and many others.",
+   "section": "screen-share",
+   "recommender": "Ian"
+  },
+  {
+   "id": "2026-07-11-why-email-sucks",
+   "name": "why email sucks",
+   "url": "https://www.theatlantic.com/technology/archive/2019/08/yahoo-mails-plan-to-fix-email-make-computers-read-it/595183/?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Ian Bogost is one of my favorite writers on tech, because he always seems to be asking the right question: Is any of this new technology good for us as people? I’ve come back many times to his love letter to landlines , his explanation for why email sucks , and many others.",
+   "section": "screen-share",
+   "recommender": "Ian"
+  },
+  {
+   "id": "2026-07-11-the-small-stuff-how-to-lead-a-more-gratifying-li",
+   "name": "The Small Stuff: How to Lead a More Gratifying Life",
+   "url": "https://www.simonandschuster.com/books/The-Small-Stuff/Ian-Bogost/9781668062630",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Ian has a book out this week called The Small Stuff: How to Lead a More Gratifying Life , which answers the same question in a much broader and frankly much more bizarre way.",
+   "section": "screen-share",
+   "recommender": "Ian"
+  },
+  {
+   "id": "2026-07-11-homebridge",
+   "name": "Homebridge",
+   "url": "https://homebridge.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The device: This is the plugin page — sort of like the apps page — for my home’s Homebridge installation. Homebridge is server software that makes smart-home devices that don’t work natively with Apple’s home-automation app appear and operate in the Apple Home app.",
+   "section": "screen-share",
+   "recommender": "Ian"
+  },
+  {
+   "id": "2026-07-11-bond",
+   "name": "Bond",
+   "url": "https://bondhome.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The apps: So much going on here. Bond allows me to control ceiling fans from Apple Home. Pico allows me to reprogram Lutron Pico wall switch remotes to do anything I want — such as controlling ceiling fans or opening garage doors and gates.",
+   "section": "screen-share",
+   "recommender": "Ian"
+  },
+  {
+   "id": "2026-07-11-lutron-pico",
+   "name": "Lutron Pico",
+   "url": "https://www.casetawireless.com/us/en/products/pico-remotes",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The apps: So much going on here. Bond allows me to control ceiling fans from Apple Home. Pico allows me to reprogram Lutron Pico wall switch remotes to do anything I want — such as controlling ceiling fans or opening garage doors and gates.",
+   "section": "screen-share",
+   "recommender": "Ian"
+  },
+  {
+   "id": "2026-07-11-shelly-relay",
+   "name": "Shelly relay",
+   "url": "https://us.shelly.com/collections/relays",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Speaking of which, Garage Door Shelly1 connects a Shelly relay that I soldered to a non-code-cycling, oldschool gate remote, which opens the gate at the end of the alley behind my house, which means I can press a button in Carplay and open it, my garage door, and unlock my house.",
+   "section": "screen-share",
+   "recommender": "Ian"
+  },
+  {
+   "id": "2026-07-11-unifi-protect",
+   "name": "UniFi Protect",
+   "url": "https://ui.com/physical-security",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Speaking of which, Garage Door Shelly1 connects a Shelly relay that I soldered to a non-code-cycling, oldschool gate remote, which opens the gate at the end of the alley behind my house, which means I can press a button in Carplay and open it, my garage door, and unlock my house.",
+   "section": "screen-share",
+   "recommender": "Ian"
+  },
+  {
+   "id": "2026-07-11-i-wrote-about-for-the-atlantic",
+   "name": "I wrote about for The Atlantic",
+   "url": "https://www.theatlantic.com/technology/archive/2022/10/home-security-surveillance-system-cameras/671760/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Speaking of which, Garage Door Shelly1 connects a Shelly relay that I soldered to a non-code-cycling, oldschool gate remote, which opens the gate at the end of the alley behind my house, which means I can press a button in Carplay and open it, my garage door, and unlock my house.",
+   "section": "screen-share",
+   "recommender": "Ian"
+  },
+  {
+   "id": "2026-07-11-r-oddlysatisfying",
+   "name": "r/oddlysatisfying",
+   "url": "https://www.reddit.com/r/oddlysatisfying/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The r/oddlysatisfying subreddit. Asking ChatGPT for help with home repairs. Backgammon (just a tabletop set, with a hard enameled surface that makes the dice dance and spin in a gratifying way). Power over Ethernet (POE) splitters.",
+   "section": "screen-share",
+   "recommender": "Ian"
+  },
+  {
+   "id": "2026-07-11-chatgpt",
+   "name": "ChatGPT",
+   "url": "https://chatgpt.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The r/oddlysatisfying subreddit. Asking ChatGPT for help with home repairs. Backgammon (just a tabletop set, with a hard enameled surface that makes the dice dance and spin in a gratifying way). Power over Ethernet (POE) splitters.",
+   "section": "screen-share",
+   "recommender": "Ian"
+  },
+  {
+   "id": "2026-07-11-backgammon",
+   "name": "Backgammon",
+   "url": "https://en.wikipedia.org/wiki/Backgammon",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The r/oddlysatisfying subreddit. Asking ChatGPT for help with home repairs. Backgammon (just a tabletop set, with a hard enameled surface that makes the dice dance and spin in a gratifying way). Power over Ethernet (POE) splitters.",
+   "section": "screen-share",
+   "recommender": "Ian"
+  },
+  {
+   "id": "2026-07-11-power-over-ethernet",
+   "name": "Power over Ethernet",
+   "url": "https://en.wikipedia.org/wiki/Power_over_Ethernet",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The r/oddlysatisfying subreddit. Asking ChatGPT for help with home repairs. Backgammon (just a tabletop set, with a hard enameled surface that makes the dice dance and spin in a gratifying way). Power over Ethernet (POE) splitters.",
+   "section": "screen-share",
+   "recommender": "Ian"
+  },
+  {
+   "id": "2026-07-11-mad-men",
+   "name": "Mad Men",
+   "url": "https://www.themoviedb.org/tv/1104-mad-men?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The r/oddlysatisfying subreddit. Asking ChatGPT for help with home repairs. Backgammon (just a tabletop set, with a hard enameled surface that makes the dice dance and spin in a gratifying way). Power over Ethernet (POE) splitters.",
+   "section": "screen-share",
+   "recommender": "Ian"
+  },
+  {
+   "id": "2026-07-11-neuromancer",
+   "name": "Neuromancer",
+   "url": "https://www.penguinrandomhouse.com/books/538861/neuromancer-by-william-gibson/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Re-reading Neuromancer following Apple TV’s latest teaser . The Verge is totally right on Apple TV crushing sci-fi shows .",
+   "section": "crowdsourced",
+   "recommender": "Austin (reader)"
+  },
+  {
+   "id": "2026-07-11-latest-teaser",
+   "name": "latest teaser",
+   "url": "https://www.youtube.com/watch?v=HJBnlZKgeUg",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Re-reading Neuromancer following Apple TV’s latest teaser . The Verge is totally right on Apple TV crushing sci-fi shows .",
+   "section": "crowdsourced",
+   "recommender": "Austin (reader)"
+  },
+  {
+   "id": "2026-07-11-4-x-3",
+   "name": "4 x 3",
+   "url": "https://www.hankgreen.com/fourbythree",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Playing the new puzzle game 4 x 3 .",
+   "section": "crowdsourced",
+   "recommender": "Rohit (reader)"
+  },
+  {
+   "id": "2026-07-11-myke-hurley",
+   "name": "Myke Hurley",
+   "url": "https://www.mykehurley.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Really loving Myke Hurley ’s podcasts, hard to pick just one, but his Designed in California Kickstarter with Jason Snell on the history of Apple just completed with $300K raised. Pretty cool!",
+   "section": "crowdsourced",
+   "recommender": "Rowan (reader)"
+  },
+  {
+   "id": "2026-07-11-designed-in-california",
+   "name": "Designed in California",
+   "url": "https://www.kickstarter.com/projects/designedincalifornia/designed-in-california-an-apple-history-podcast",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [
+    "kickstarter"
+   ],
+   "blurb": "Really loving Myke Hurley ’s podcasts, hard to pick just one, but his Designed in California Kickstarter with Jason Snell on the history of Apple just completed with $300K raised. Pretty cool!",
+   "section": "crowdsourced",
+   "recommender": "Rowan (reader)"
+  },
+  {
+   "id": "2026-07-11-brother-printer",
+   "name": "Brother printer",
+   "url": "https://www.brother-usa.com",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I spent a few hours setting up a new Brother printer for my mom. It’s like the opposite of enshittification. Reasonable prices and it just prints. It shouldn’t be a breath of fresh air, but it is.",
+   "section": "crowdsourced",
+   "recommender": "Ben (reader)"
+  },
+  {
+   "id": "2026-07-11-klara-and-the-sun",
+   "name": "Klara and the Sun",
+   "url": "https://www.penguinrandomhouse.com/books/653825/klara-and-the-sun-a-gma-book-club-pick-by-kazuo-ishiguro/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Reading the so-far excellent but bittersweet Klara and the Sun by Kazuo Ishiguro, before Taika Waititi’s movie version comes out in October.",
+   "section": "crowdsourced",
+   "recommender": "Gatherer Hunter (reader)"
+  },
+  {
+   "id": "2026-07-11-sony-aibo-ers210",
+   "name": "Sony Aibo ERS210",
+   "url": "https://aibo.miraheze.org/wiki/ERS-210",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I took my Sony Aibo ERS210 out of my mom’s attic to bring back to the US. But it didn’t fit in my luggage... So I will need to come up with another plan.",
+   "section": "crowdsourced",
+   "recommender": "Bart (reader)"
+  },
+  {
+   "id": "2026-07-11-western-musical-scales-and-notation",
+   "name": "Western musical scales and notation",
+   "url": "https://www.youtube.com/watch?v=06pZa25naBc",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This video about the development of Western musical scales and notation was not only fascinating, but the production value was off the charts. Highly recommended even if you don’t know a ton of music theory!",
+   "section": "crowdsourced",
+   "recommender": "Arden (reader)"
+  },
+  {
+   "id": "2026-07-11-the-ghost-in-the-shell",
+   "name": "The Ghost in the Shell",
+   "url": "https://www.themoviedb.org/movie/1706919-the-ghost-in-the-shell",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "The new The Ghost in the Shell anime on Amazon Prime is fantastic, true to the manga and done by the same studio that did Dan Da Dan ! Only one episode out so far but I’m already psyched.",
+   "section": "crowdsourced",
+   "recommender": "Ryan (reader)"
+  },
+  {
+   "id": "2026-07-11-dan-da-dan",
+   "name": "Dan Da Dan",
+   "url": "https://www.themoviedb.org/tv/240411",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The new The Ghost in the Shell anime on Amazon Prime is fantastic, true to the manga and done by the same studio that did Dan Da Dan ! Only one episode out so far but I’m already psyched.",
+   "section": "crowdsourced",
+   "recommender": "Ryan (reader)"
+  },
+  {
+   "id": "2026-07-11-the-story-behind-star-wars-galaxies-notorious-je",
+   "name": "The Story Behind Star Wars Galaxies’ Notorious Jedi Problem",
+   "url": "https://www.youtube.com/watch?v=UAv0LYLQi5c",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "‘ The Story Behind Star Wars Galaxies’ Notorious Jedi Problem .’ Best interview / video I’ve watched on YouTube in a while. It’s a fascinating story of developing software for millions of users.",
+   "section": "crowdsourced",
+   "recommender": "JStaal (reader)"
+  },
+  {
+   "id": "2026-07-11-trakt",
+   "name": "Trakt",
+   "url": "https://app.trakt.tv/?mode=media",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The sad product news of the week is that TV Time, which a lot of people use to find and track their favorite shows, is shutting down . And you only have until July 15th (next Wednesday) to get your data out.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-11-sofa",
+   "name": "Sofa",
+   "url": "https://www.sofahq.com/blog/sofa-5-2",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The sad product news of the week is that TV Time, which a lot of people use to find and track their favorite shows, is shutting down . And you only have until July 15th (next Wednesday) to get your data out.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-11-sequel",
+   "name": "Sequel",
+   "url": "https://www.getsequel.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The sad product news of the week is that TV Time, which a lot of people use to find and track their favorite shows, is shutting down . And you only have until July 15th (next Wednesday) to get your data out.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

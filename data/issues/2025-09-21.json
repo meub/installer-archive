@@ -1,0 +1,535 @@
+{
+ "schema": 1,
+ "date": "2025-09-21",
+ "post_type": "issue",
+ "title": "The best smart glasses got a little better",
+ "url": "https://www.theverge.com/tech/782118/meta-smart-glasses-notion-3-skate-installer",
+ "author": "David Pierce",
+ "number": 98,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:39+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-09-21-competitive-massage",
+   "name": "competitive massage",
+   "url": "https://www.newyorker.com/magazine/2025/09/15/rivals-rub-shoulders-in-the-world-of-competitive-massage?bxid=5be9d8763f92a40469e762a5&cndid=25744259&hasha=fdbd6b02c04f0b357b324f79e81b179b&hashb=9c40f1798ffee5d2b0ea4fbc40cf8eda67c2b9e8&hashc=dfe25122182d1fcf578f597cef8aca4b7b253f41969e8c585f26b5ff2ad1a7e1&esrc=&mbid=CRMNYR012019",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about competitive massage and space soda and how people really use AI , checking out Adolescence now that it won all those Emmys, playing The New York Times’ new domino game , finally listening to The Lazarus Heist , doing a bunch of writing in Ulysses , using Remind Me…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-21-space-soda",
+   "name": "space soda",
+   "url": "https://www.nytimes.com/2025/07/29/science/coke-pepsi-nasa-space-shuttle.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about competitive massage and space soda and how people really use AI , checking out Adolescence now that it won all those Emmys, playing The New York Times’ new domino game , finally listening to The Lazarus Heist , doing a bunch of writing in Ulysses , using Remind Me…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-21-how-people-really-use-ai",
+   "name": "how people really use AI",
+   "url": "https://openai.com/index/how-people-are-using-chatgpt/?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about competitive massage and space soda and how people really use AI , checking out Adolescence now that it won all those Emmys, playing The New York Times’ new domino game , finally listening to The Lazarus Heist , doing a bunch of writing in Ulysses , using Remind Me…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-21-adolescence",
+   "name": "Adolescence",
+   "url": "https://www.themoviedb.org/tv/249042-adolescence?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about competitive massage and space soda and how people really use AI , checking out Adolescence now that it won all those Emmys, playing The New York Times’ new domino game , finally listening to The Lazarus Heist , doing a bunch of writing in Ulysses , using Remind Me…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-21-new-domino-game",
+   "name": "new domino game",
+   "url": "https://www.nytimes.com/games/pips",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about competitive massage and space soda and how people really use AI , checking out Adolescence now that it won all those Emmys, playing The New York Times’ new domino game , finally listening to The Lazarus Heist , doing a bunch of writing in Ulysses , using Remind Me…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-21-the-lazarus-heist",
+   "name": "The Lazarus Heist",
+   "url": "https://www.bbc.co.uk/programmes/w13xtvg9/episodes/downloads",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about competitive massage and space soda and how people really use AI , checking out Adolescence now that it won all those Emmys, playing The New York Times’ new domino game , finally listening to The Lazarus Heist , doing a bunch of writing in Ulysses , using Remind Me…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-21-ulysses",
+   "name": "Ulysses",
+   "url": "https://ulysses.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about competitive massage and space soda and how people really use AI , checking out Adolescence now that it won all those Emmys, playing The New York Times’ new domino game , finally listening to The Lazarus Heist , doing a bunch of writing in Ulysses , using Remind Me…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-21-remind-me-faster",
+   "name": "Remind Me Faster",
+   "url": "https://apps.apple.com/us/app/remind-me-faster/id985555908",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "This week, I’ve been reading about competitive massage and space soda and how people really use AI , checking out Adolescence now that it won all those Emmys, playing The New York Times’ new domino game , finally listening to The Lazarus Heist , doing a bunch of writing in Ulysses , using Remind Me…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-21-federico-viticcis-ios-26-review",
+   "name": "Federico Viticci’s iOS 26 review",
+   "url": "https://www.macstories.net/stories/ios-and-ipados-26-the-macstories-review/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about competitive massage and space soda and how people really use AI , checking out Adolescence now that it won all those Emmys, playing The New York Times’ new domino game , finally listening to The Lazarus Heist , doing a bunch of writing in Ulysses , using Remind Me…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-21-ray-ban-meta-wayfarer-gen-2",
+   "name": "Ray-Ban Meta Wayfarer Gen 2",
+   "url": "https://www.dpbolvw.net/click-8836598-17053308?url=https%3A%2F%2Fwww.meta.com%2Fai-glasses%2Fray-ban-meta-wayfarer-matte-black-clear-gen-2%2F",
+   "alt_urls": [
+    "https://www.theverge.com/tech/779566/meta-ray-ban-display-hands-on-smart-glasses-price-battery-specs"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Meta’s new smart glasses with a screen look like a technical achievement, but if you’re in the market for smart glasses, the simple model seems like the right one. The upgraded version is more expensive at $379, but comes with double the battery and a bunch of other upgrades too.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-21-skate",
+   "name": "Skate",
+   "url": "https://www.ea.com/games/skate",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been waiting for this game for a while, and it mostly delivers: it’s a big, open space in which you mostly just wander around jumping over stuff, and it’s very fun to do so. The game is still in early access, and there’s only so much to do so far, but I’m having fun.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-21-american-sweatshop",
+   "name": "American Sweatshop",
+   "url": "https://www.themoviedb.org/movie/1215020-american-sweatshop?language=en-US",
+   "alt_urls": [
+    "https://www.theverge.com/entertainment/779050/american-sweatshop-uta-briesewitz-interview"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "A thriller about a content moderator is both a genius premise and a very 2025 one. It’s about what people do, what people post, and how it changes all of us online. Reviews are good, it sounds pretty intense , and I’m ready for it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-21-vivaldi-7-6",
+   "name": "Vivaldi 7.6",
+   "url": "https://vivaldi.com/blog/vivaldi-on-desktop-7-6/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A big update to one of my favorite browsers, which is really close to replacing Arc as my day-to-day app. The big new thing here is all customization, and be warned: you will, like I did, spend half a day getting your browser exactly the way you want it. Eh, whatever, I had a blast.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-21-google-for-windows",
+   "name": "Google for Windows",
+   "url": "https://labs.google.com/search/experiment/40",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A million years ago, Google had a really useful desktop app that could search files, the web, and more from your desktop. Bizarrely enough, it’s back as a local AI tool! It’s only an experiment, but I’ve been hearing good things about it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-21-swiped",
+   "name": "Swiped",
+   "url": "https://www.themoviedb.org/movie/1265344-swiped?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "In the vein of Dropout and WeCrashed, this Hulu movie seems to be kinda-sorta true and kinda-sorta worked over to be a better story. But it’s about Whitney Wolfe Herd, founder of Bumble and a key character in the rise of online dating. She’s fascinating; I’ll watch.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-21-the-kuxiu-x40-turbo-charger",
+   "name": "The Kuxiu X40 Turbo charger",
+   "url": "https://kuxiu.co/products/kuxiu-x40-turbo-stand",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am a huge proponent of multi-device charging stands, which become just a default place to drop all your crap every day. My colleague Thomas Ricker loves his Kuxiu charger, and this one’s even more powerful — and folds up super small for travel.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-21-notion-3-0",
+   "name": "Notion 3.0",
+   "url": "https://www.notion.com/blog/introducing-notion-3-0",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Notion’s big idea is to build an AI system that can do all the busywork you do in Notion — and potentially elsewhere. Its new tools sound incredibly ambitious, and maybe more intrusive than some people are looking for.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-21-how-social-media-exacerbates-disaster-disinforma",
+   "name": "How Social Media Exacerbates Disaster & Disinformation",
+   "url": "https://www.youtube.com/watch?v=pf0jS4M3cKg",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ How Social Media Exacerbates Disaster & Disinformation . ” Really, really great episode of Jon Stewart’s The Weekly Show podcast, talking to The Atlantic ’s Charlie Warzel about how Being Online has changed us both individually and collectively. It’s bleak! But it’s important.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-21-lego-voyagers",
+   "name": "Lego Voyagers",
+   "url": "https://www.lego.com/en-us/games/lego-voyagers",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I love this concept so much: a cooperative two-player puzzle game in which every solution involves building of some kind. Somebody please convince my wife to spend a million hours playing this with me.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-21-iphone-16-pro-max-i-gotta-have-the-best-video-ca",
+   "name": "iPhone 16 Pro Max — I gotta have the best video capture and largest screen!",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 16 Pro Max — I gotta have the best video capture and largest screen!",
+   "section": "screen-share",
+   "recommender": "Caleb"
+  },
+  {
+   "id": "2025-09-21-lost",
+   "name": "Lost",
+   "url": "https://www.themoviedb.org/tv/4607-lost?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I am into rewatching shows I loved a decade ago. I started with Lost , then it was Prison Break , and now The Blacklist . Lost was outstanding TV. The latter two are formulaic as all get-out, but they are mindless without being trashy, which is exactly what I need.",
+   "section": "screen-share",
+   "recommender": "Caleb"
+  },
+  {
+   "id": "2025-09-21-prison-break",
+   "name": "Prison Break",
+   "url": "https://www.themoviedb.org/tv/2288-prison-break?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I am into rewatching shows I loved a decade ago. I started with Lost , then it was Prison Break , and now The Blacklist . Lost was outstanding TV. The latter two are formulaic as all get-out, but they are mindless without being trashy, which is exactly what I need.",
+   "section": "screen-share",
+   "recommender": "Caleb"
+  },
+  {
+   "id": "2025-09-21-the-blacklist",
+   "name": "The Blacklist",
+   "url": "https://www.themoviedb.org/tv/46952-the-blacklist?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I am into rewatching shows I loved a decade ago. I started with Lost , then it was Prison Break , and now The Blacklist . Lost was outstanding TV. The latter two are formulaic as all get-out, but they are mindless without being trashy, which is exactly what I need.",
+   "section": "screen-share",
+   "recommender": "Caleb"
+  },
+  {
+   "id": "2025-09-21-reacher",
+   "name": "Reacher",
+   "url": "https://www.themoviedb.org/tv/108978-reacher?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I am into rewatching shows I loved a decade ago. I started with Lost , then it was Prison Break , and now The Blacklist . Lost was outstanding TV. The latter two are formulaic as all get-out, but they are mindless without being trashy, which is exactly what I need.",
+   "section": "screen-share",
+   "recommender": "Caleb"
+  },
+  {
+   "id": "2025-09-21-tom-clancys-jack-ryan",
+   "name": "Tom Clancy’s Jack Ryan",
+   "url": "https://www.themoviedb.org/tv/73375-jack-ryan?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I am into rewatching shows I loved a decade ago. I started with Lost , then it was Prison Break , and now The Blacklist . Lost was outstanding TV. The latter two are formulaic as all get-out, but they are mindless without being trashy, which is exactly what I need.",
+   "section": "screen-share",
+   "recommender": "Caleb"
+  },
+  {
+   "id": "2025-09-21-ear-hustle",
+   "name": "Ear Hustle",
+   "url": "https://www.earhustlesq.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am into rewatching shows I loved a decade ago. I started with Lost , then it was Prison Break , and now The Blacklist . Lost was outstanding TV. The latter two are formulaic as all get-out, but they are mindless without being trashy, which is exactly what I need.",
+   "section": "screen-share",
+   "recommender": "Caleb"
+  },
+  {
+   "id": "2025-09-21-radiolab",
+   "name": "Radiolab",
+   "url": "https://radiolab.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am into rewatching shows I loved a decade ago. I started with Lost , then it was Prison Break , and now The Blacklist . Lost was outstanding TV. The latter two are formulaic as all get-out, but they are mindless without being trashy, which is exactly what I need.",
+   "section": "screen-share",
+   "recommender": "Caleb"
+  },
+  {
+   "id": "2025-09-21-snap-judgment",
+   "name": "Snap Judgment",
+   "url": "https://snapjudgment.org/podcast-episodes/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am into rewatching shows I loved a decade ago. I started with Lost , then it was Prison Break , and now The Blacklist . Lost was outstanding TV. The latter two are formulaic as all get-out, but they are mindless without being trashy, which is exactly what I need.",
+   "section": "screen-share",
+   "recommender": "Caleb"
+  },
+  {
+   "id": "2025-09-21-kpop-demon-hunters",
+   "name": "KPop Demon Hunters",
+   "url": "https://www.themoviedb.org/movie/803796-kpop-demon-hunters?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "After enjoying KPop Demon Hunters , I worked through Pop Star Academy: KATSEYE . I had no knowledge of the competition before diving in. I still haven’t watched the YouTube portion of the competition.",
+   "section": "crowdsourced",
+   "recommender": "Sean (reader)"
+  },
+  {
+   "id": "2025-09-21-pop-star-academy-katseye",
+   "name": "Pop Star Academy: KATSEYE",
+   "url": "https://www.themoviedb.org/tv/260264-pop-star-academy-katseye?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "After enjoying KPop Demon Hunters , I worked through Pop Star Academy: KATSEYE . I had no knowledge of the competition before diving in. I still haven’t watched the YouTube portion of the competition.",
+   "section": "crowdsourced",
+   "recommender": "Sean (reader)"
+  },
+  {
+   "id": "2025-09-21-overwatch-2",
+   "name": "Overwatch 2",
+   "url": "https://overwatch.blizzard.com/en-us/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After getting really tired of cheaters in Fortnite , I’ve started learning Overwatch 2 , and I’m having a blast. I mean, it’s like trying to play pickup basketball where every player has five different roles, but when it works, it’s magic!",
+   "section": "crowdsourced",
+   "recommender": "Laszlo (reader)"
+  },
+  {
+   "id": "2025-09-21-macos-tahoe",
+   "name": "MacOS Tahoe",
+   "url": "https://www.apple.com/os/macos/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "New Spotlight in MacOS Tahoe is a game changer for running Shortcuts and other automation.",
+   "section": "crowdsourced",
+   "recommender": "Jack (reader)"
+  },
+  {
+   "id": "2025-09-21-batman-1",
+   "name": "Batman 1",
+   "url": "https://www.dc.com/comics/batman-2025/batman-2025-1",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Folks, if you’re not into comics, now is a great time to get into them. DC Comics just renewed the Batman series with Batman 1 written by Matt Fraction, art by Jorge Jimenez, letters by Clayton Cowles, and color by Tomeu Morey.",
+   "section": "crowdsourced",
+   "recommender": "John (reader)"
+  },
+  {
+   "id": "2025-09-21-taskmaster-nz",
+   "name": "Taskmaster NZ",
+   "url": "https://www.themoviedb.org/tv/111880-taskmaster-nz?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Burning thru seasons of Taskmaster NZ in order to laugh rather than cry — highly recommend (it’s on YouTube !)",
+   "section": "crowdsourced",
+   "recommender": "Amaro (reader)"
+  },
+  {
+   "id": "2025-09-21-on-youtube",
+   "name": "on YouTube",
+   "url": "https://www.youtube.com/c/TaskmasterNZ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Burning thru seasons of Taskmaster NZ in order to laugh rather than cry — highly recommend (it’s on YouTube !)",
+   "section": "crowdsourced",
+   "recommender": "Amaro (reader)"
+  },
+  {
+   "id": "2025-09-21-here",
+   "name": "here",
+   "url": "https://www.youtube.com/watch?v=yQ2InF9APac",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The DJI Mini Pro 5 is prrreeeety nice with the after dark safety upgrades (tempting me to trade in the 4). Great breakdown video here .",
+   "section": "crowdsourced",
+   "recommender": "Jonny (reader)"
+  },
+  {
+   "id": "2025-09-21-nts-radio",
+   "name": "NTS Radio",
+   "url": "https://www.nts.live/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve spent every morning this week in the company of NTS Radio . I really like the variety of the music the hosts play — anything from Wilco, latin jazz, and ambient music to obscure 80s meditation tapes and video game soundtracks. It’s 24/7, ad-free, and listener-supported!",
+   "section": "crowdsourced",
+   "recommender": "tobysaurus99 (reader)"
+  },
+  {
+   "id": "2025-09-21-apple-in-china",
+   "name": "Apple In China",
+   "url": "https://www.simonandschuster.com/books/Apple-in-China/Patrick-McGee/9781668053379",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m into reading this book Apple In China by Patrick McGee, and it’s a doozy. Lots of learning, gossip and drama. The perfect mix for a book to keep me glued to it.",
+   "section": "crowdsourced",
+   "recommender": "Sencion (reader)"
+  },
+  {
+   "id": "2025-09-21-hindsight",
+   "name": "Hindsight",
+   "url": "https://hindsight.today/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been unwinding with Hindsight , a low-stress, no FOMO RSS reader. Instead of real-time feeds, it shows you yesterday’s news. It’s become a welcome part of my morning routine!",
+   "section": "crowdsourced",
+   "recommender": "Kyle (reader)"
+  },
+  {
+   "id": "2025-09-21-smartypants",
+   "name": "Smartypants",
+   "url": "https://www.dropout.tv/smartypants",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s been a week, y’all. Life’s busy, news is nuts, just a lot happening! For some reason, the thing that has made me feel better over and over this week has been Smartypants , the truly genius Dropout show in which very smart people give totally unhinged presentations about deeply bizarre…",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-21-fixing-grocery-stores",
+   "name": "fixing grocery stores",
+   "url": "https://www.youtube.com/watch?v=RxMR1TMec04",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "It’s been a week, y’all. Life’s busy, news is nuts, just a lot happening! For some reason, the thing that has made me feel better over and over this week has been Smartypants , the truly genius Dropout show in which very smart people give totally unhinged presentations about deeply bizarre…",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-21-how-to-email-like-a-white-lady",
+   "name": "how to email like a white lady",
+   "url": "https://www.youtube.com/watch?v=Uwaj8it4t3k",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "It’s been a week, y’all. Life’s busy, news is nuts, just a lot happening! For some reason, the thing that has made me feel better over and over this week has been Smartypants , the truly genius Dropout show in which very smart people give totally unhinged presentations about deeply bizarre…",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-21-zach-reinos-argument-against-the-ocean",
+   "name": "Zach Reino’s argument against the ocean",
+   "url": "https://www.youtube.com/watch?v=UO1Kcxahjdo",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "It’s been a week, y’all. Life’s busy, news is nuts, just a lot happening! For some reason, the thing that has made me feel better over and over this week has been Smartypants , the truly genius Dropout show in which very smart people give totally unhinged presentations about deeply bizarre…",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

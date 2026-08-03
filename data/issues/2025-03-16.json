@@ -1,0 +1,486 @@
+{
+ "schema": 1,
+ "date": "2025-03-16",
+ "post_type": "issue",
+ "title": "A bad movie full of big ideas about tech",
+ "url": "https://www.theverge.com/installer-newsletter/629893/electric-state-mickey-17-mulaney-netflix-installer",
+ "author": "David Pierce",
+ "number": 75,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-03-16-benson-boone",
+   "name": "Benson Boone",
+   "url": "https://www.rollingstone.com/music/music-features/benson-boone-beautiful-things-new-album-american-heart-1235288819/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Benson Boone and Tyler Cowen and EV factories and YouTube yoga , catching up on old episodes of Smartypants , making a rare trek to the theater to see Black Bag , swapping in Duck.ai for my chatbot and AI search needs, getting rehooked on the Tick, Tick… Boom!",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-16-tyler-cowen",
+   "name": "Tyler Cowen",
+   "url": "https://www.economist.com/1843/2025/02/28/tyler-cowen-the-man-who-wants-to-know-everything",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Benson Boone and Tyler Cowen and EV factories and YouTube yoga , catching up on old episodes of Smartypants , making a rare trek to the theater to see Black Bag , swapping in Duck.ai for my chatbot and AI search needs, getting rehooked on the Tick, Tick… Boom!",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-16-ev-factories",
+   "name": "EV factories",
+   "url": "https://restofworld.org/2025/gotion-ev-battery-us-expansion-backlash-michigan/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Benson Boone and Tyler Cowen and EV factories and YouTube yoga , catching up on old episodes of Smartypants , making a rare trek to the theater to see Black Bag , swapping in Duck.ai for my chatbot and AI search needs, getting rehooked on the Tick, Tick… Boom!",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-16-youtube-yoga",
+   "name": "YouTube yoga",
+   "url": "https://www.vox.com/the-goods/2020/5/6/21241805/yoga-with-adriene-youtube-workout-at-home",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Benson Boone and Tyler Cowen and EV factories and YouTube yoga , catching up on old episodes of Smartypants , making a rare trek to the theater to see Black Bag , swapping in Duck.ai for my chatbot and AI search needs, getting rehooked on the Tick, Tick… Boom!",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-16-smartypants",
+   "name": "Smartypants",
+   "url": "https://www.youtube.com/watch?v=SPNQ8fGFHFA&list=PLuKg-Whduhkllm72_hQUMknAh2vitiQpI",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Benson Boone and Tyler Cowen and EV factories and YouTube yoga , catching up on old episodes of Smartypants , making a rare trek to the theater to see Black Bag , swapping in Duck.ai for my chatbot and AI search needs, getting rehooked on the Tick, Tick… Boom!",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-16-black-bag",
+   "name": "Black Bag",
+   "url": "https://www.themoviedb.org/movie/1233575-black-bag",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about Benson Boone and Tyler Cowen and EV factories and YouTube yoga , catching up on old episodes of Smartypants , making a rare trek to the theater to see Black Bag , swapping in Duck.ai for my chatbot and AI search needs, getting rehooked on the Tick, Tick… Boom!",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-16-duck-ai",
+   "name": "Duck.ai",
+   "url": "http://duck.ai",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Benson Boone and Tyler Cowen and EV factories and YouTube yoga , catching up on old episodes of Smartypants , making a rare trek to the theater to see Black Bag , swapping in Duck.ai for my chatbot and AI search needs, getting rehooked on the Tick, Tick… Boom!",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-16-tick-tick-boom-soundtrack",
+   "name": "Tick, Tick… Boom! soundtrack",
+   "url": "https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "This week, I’ve been reading about Benson Boone and Tyler Cowen and EV factories and YouTube yoga , catching up on old episodes of Smartypants , making a rare trek to the theater to see Black Bag , swapping in Duck.ai for my chatbot and AI search needs, getting rehooked on the Tick, Tick… Boom!",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-16-remarkable",
+   "name": "Remarkable",
+   "url": "https://remarkable.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Benson Boone and Tyler Cowen and EV factories and YouTube yoga , catching up on old episodes of Smartypants , making a rare trek to the theater to see Black Bag , swapping in Duck.ai for my chatbot and AI search needs, getting rehooked on the Tick, Tick… Boom!",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-16-the-electric-state",
+   "name": "The Electric State",
+   "url": "https://www.themoviedb.org/movie/777443-the-electric-state",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=9gUDaPTPxwo&embeds_referring_origin=https://www.themoviedb.org"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This movie is, by virtually all accounts, crap. (They couldn’t even make a good trailer for it!) But I have a feeling this flick, a very unusual take on a robot uprising, will still end up in the long-term canon of Tech Movies People Talk About Forever. Saving this for my next plane ride.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-16-mickey-17",
+   "name": "Mickey 17",
+   "url": "https://www.themoviedb.org/movie/696506-mickey-17",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Here’s one to actually watch on purpose: a new one from the director of Parasite that is both a high-concept action flick and a meditation on what it means to be human. Deep! And fun!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-16-everybodys-live-with-john-mulaney",
+   "name": "Everybody’s Live with John Mulaney",
+   "url": "https://www.themoviedb.org/tv/283387-everybody-s-live-with-john-mulaney",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I really enjoyed the quirky, occasionally unhinged run of Everybody’s in LA last year, and Mulaney and co. seem to have recaptured the fun for this new Netflix show. I don’t know if I’d watch it every week forever, but there’s something about the… live-ness that I really like.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-16-skich",
+   "name": "Skich",
+   "url": "https://skich.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A really interesting alternative iOS app store (unfortunately only available to folks in the EU) that promises both lower fees for devs and better discovery for players. This thing is still very new — it doesn’t even have any games! — but is worth watching.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-16-good-robot",
+   "name": "Good Robot",
+   "url": "https://www.vox.com/unexplainable",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A new series from our friends at Vox , part of the terrific Unexplainable podcast, all about the rise of AI and the many, many, many questions it creates. The episodes I’ve heard are interesting and terrifying, which feels exactly right for all things AI.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-16-pocket-casts-web",
+   "name": "Pocket Casts Web",
+   "url": "https://blog.pocketcasts.com/2025/03/11/webplayer/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Speaking of podcasts! Pocket Casts has been my favorite podcast app for years, and my only hesitation has been that you have to pay for many of its best features. No longer: its web and desktop apps are now free, and you can sync all your stuff across all your devices.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-16-wanderstop",
+   "name": "Wanderstop",
+   "url": "https://www.wanderstopgame.com/",
+   "alt_urls": [
+    "https://stanleyparable.com/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "A game for Xbox, PlayStation, and PC about making tea. And hard work. And redemption. And quiet. And community. I get both Animal Crossing and Stardew Valley vibes from this game, and I mean that in the best possible way.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-16-matter-co-reader",
+   "name": "Matter Co-Reader",
+   "url": "https://hq.getmatter.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve mentioned Matter here a few times — it’s a really lovely read-later app for Apple devices. This new feature is a very clever use of AI: you select some text, the app will offer up questions you might have about it, and you just tap to learn more.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-16-openvibe-1-9",
+   "name": "Openvibe 1.9",
+   "url": "https://openvibe.social/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The all-in-one social feed app got the feature it needed most: timeline saving, so you can pick up where you left off next time you’re in the app. This immediately turned Openvibe from an app I think is neat to one I’m using almost every day.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-16-her-experience-at-the-trump-grill",
+   "name": "her experience at the Trump Grill",
+   "url": "https://www.vanityfair.com/news/2016/12/trump-grill-review",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Tina Nguyen joined The Verge ’s politics team a couple of weeks ago, in an extremely chill and normal time to be covering the intersection of technology and politics.",
+   "section": "screen-share",
+   "recommender": "Tina"
+  },
+  {
+   "id": "2025-03-16-lime",
+   "name": "Lime",
+   "url": "https://www.li.me/vehicles/scooter",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Lime scooters are endemic in DC, which makes it easy to jet around the two-mile radius of places I visit on a regular basis, but if I have to go somewhere like Union Station (or locations where I have to wear heels), I’ll race Uber and Lyft against each other.",
+   "section": "screen-share",
+   "recommender": "Tina"
+  },
+  {
+   "id": "2025-03-16-control-center-app",
+   "name": "Control Center app",
+   "url": "https://apps.apple.com/us/app/elgato-control-center/id1446254313",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "The Control Center app is for me to adjust my Elgato Key Lights at my desk. I initially got them for doing media hits, but it turns out that they make excellent sun lamps, too. (My home office has NO WINDOWS, and I swear to god, they’ve improved my productivity.)",
+   "section": "screen-share",
+   "recommender": "Tina"
+  },
+  {
+   "id": "2025-03-16-elgato-key-lights",
+   "name": "Elgato Key Lights",
+   "url": "https://www.elgato.com/us/en/p/key-light",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Control Center app is for me to adjust my Elgato Key Lights at my desk. I initially got them for doing media hits, but it turns out that they make excellent sun lamps, too. (My home office has NO WINDOWS, and I swear to god, they’ve improved my productivity.)",
+   "section": "screen-share",
+   "recommender": "Tina"
+  },
+  {
+   "id": "2025-03-16-calm",
+   "name": "Calm",
+   "url": "https://www.calm.com/ua-homepage",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Of course I have the Calm app. Have you seen what I cover for a living?",
+   "section": "screen-share",
+   "recommender": "Tina"
+  },
+  {
+   "id": "2025-03-16-nebula",
+   "name": "Nebula",
+   "url": "https://nebula.tv/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I subscribe to Nebula just to have access to episodes of Jet Lag: The Game a week before they hit YouTube . (It’s a travel game show that’s perfect for people who love public transit and flight logistics.)",
+   "section": "screen-share",
+   "recommender": "Tina"
+  },
+  {
+   "id": "2025-03-16-jet-lag-the-game",
+   "name": "Jet Lag: The Game",
+   "url": "https://nebula.tv/jetlag",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I subscribe to Nebula just to have access to episodes of Jet Lag: The Game a week before they hit YouTube . (It’s a travel game show that’s perfect for people who love public transit and flight logistics.)",
+   "section": "screen-share",
+   "recommender": "Tina"
+  },
+  {
+   "id": "2025-03-16-hit-youtube",
+   "name": "hit YouTube",
+   "url": "https://www.youtube.com/c/jetlagthegame",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I subscribe to Nebula just to have access to episodes of Jet Lag: The Game a week before they hit YouTube . (It’s a travel game show that’s perfect for people who love public transit and flight logistics.)",
+   "section": "screen-share",
+   "recommender": "Tina"
+  },
+  {
+   "id": "2025-03-16-cotopaxi-allpa",
+   "name": "Cotopaxi Allpa",
+   "url": "https://www.cotopaxi.com/collections/allpa",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I subscribe to Nebula just to have access to episodes of Jet Lag: The Game a week before they hit YouTube . (It’s a travel game show that’s perfect for people who love public transit and flight logistics.)",
+   "section": "screen-share",
+   "recommender": "Tina"
+  },
+  {
+   "id": "2025-03-16-peak-design-15l",
+   "name": "Peak Design 15L",
+   "url": "https://www.peakdesign.com/products/everyday-backpack-zip?Size=15L",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I subscribe to Nebula just to have access to episodes of Jet Lag: The Game a week before they hit YouTube . (It’s a travel game show that’s perfect for people who love public transit and flight logistics.)",
+   "section": "screen-share",
+   "recommender": "Tina"
+  },
+  {
+   "id": "2025-03-16-pikachu-longchamp-bag",
+   "name": "Pikachu Longchamp bag",
+   "url": "https://www.lofficielmalaysia.com/fashion/the-longchamp-x-pokemon-collection-is-here",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I subscribe to Nebula just to have access to episodes of Jet Lag: The Game a week before they hit YouTube . (It’s a travel game show that’s perfect for people who love public transit and flight logistics.)",
+   "section": "screen-share",
+   "recommender": "Tina"
+  },
+  {
+   "id": "2025-03-16-this-video",
+   "name": "This video",
+   "url": "https://www.youtube.com/watch?v=sYVA62aI5k4",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I subscribe to Nebula just to have access to episodes of Jet Lag: The Game a week before they hit YouTube . (It’s a travel game show that’s perfect for people who love public transit and flight logistics.)",
+   "section": "screen-share",
+   "recommender": "Tina"
+  },
+  {
+   "id": "2025-03-16-prado-traveler",
+   "name": "Prado Traveler",
+   "url": "https://www.pradotraveler.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "You mention Fantasy Hike sometimes, so you’ve got to try Prado Traveler . It’s an incremental step counter RPG where your daily steps fuel your character to delve dungeons, level up, and get loot.",
+   "section": "crowdsourced",
+   "recommender": "Emmett (reader)"
+  },
+  {
+   "id": "2025-03-16-arco",
+   "name": "Arco",
+   "url": "https://arco.game/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Playing Arco . Great game — good combat system, good story, deserves a wider audience!",
+   "section": "crowdsourced",
+   "recommender": "Ben (reader)"
+  },
+  {
+   "id": "2025-03-16-organic-maps",
+   "name": "Organic Maps",
+   "url": "https://organicmaps.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I discovered Organic Maps , a well-made app for OpenStreetMap . It seems to have great data where I live in Central Europe, and it even has public transport routing and opening hours. I try to look into open-source alternatives for US big tech apps, as you can’t predict the future right now.",
+   "section": "crowdsourced",
+   "recommender": "Alex (reader)"
+  },
+  {
+   "id": "2025-03-16-openstreetmap",
+   "name": "OpenStreetMap",
+   "url": "https://www.openstreetmap.org/#map=4/38.01/-95.84",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I discovered Organic Maps , a well-made app for OpenStreetMap . It seems to have great data where I live in Central Europe, and it even has public transport routing and opening hours. I try to look into open-source alternatives for US big tech apps, as you can’t predict the future right now.",
+   "section": "crowdsourced",
+   "recommender": "Alex (reader)"
+  },
+  {
+   "id": "2025-03-16-mr-inbetween",
+   "name": "Mr Inbetween",
+   "url": "https://www.themoviedb.org/tv/81358-mr-inbetween",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The Australian TV series Mr Inbetween is having a bit of a renaissance in Australia at the moment. You might like it.",
+   "section": "crowdsourced",
+   "recommender": "Bennett (reader)"
+  },
+  {
+   "id": "2025-03-16-flipper-zero",
+   "name": "Flipper Zero",
+   "url": "https://flipperzero.one/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Flipper Zero is a really intriguing multitool that may be useful in the coming end times.",
+   "section": "crowdsourced",
+   "recommender": "Scott (reader)"
+  },
+  {
+   "id": "2025-03-16-mickey7",
+   "name": "Mickey7",
+   "url": "https://us.macmillan.com/books/9781250275035/mickey7/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Before seeing Mickey 17, I can recommend the book Mickey7 to anyone that liked anything by Andy Weir ( The Martian , Project Hail Mary ), Dennis E. Taylor ( Bobiverse series), or Martha Wells ( Murderbot series). Fun and smart sci-fi that is a joy to read!",
+   "section": "crowdsourced",
+   "recommender": "David (reader)"
+  },
+  {
+   "id": "2025-03-16-logseq",
+   "name": "Logseq",
+   "url": "https://logseq.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Logseq has replaced all my workflow tools with one succinct journal-based document engine that builds the knowledge graph as I bullet journal. It even has Emacs’ Org mode-style to-do lists and an extensive plugin ecosystem. Also open source!",
+   "section": "crowdsourced",
+   "recommender": "James (reader)"
+  },
+  {
+   "id": "2025-03-16-this-review",
+   "name": "this review",
+   "url": "https://www.pcmag.com/reviews/zwo-seestar-s50",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Before the holidays, I read this review of Zwo’s Seestar S50 ‘smart telescope.’ That rekindled my longtime (but never acted on) interest in astronomy. I learned that Zwo was coming out with a new, smaller entry-level model, the Seestar S30 , so I preordered one in early December.",
+   "section": "crowdsourced",
+   "recommender": "David (reader)"
+  },
+  {
+   "id": "2025-03-16-seestar-s30",
+   "name": "Seestar S30",
+   "url": "https://www.zwoastro.com/product/seestar-s30-smart-telescope/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Before the holidays, I read this review of Zwo’s Seestar S50 ‘smart telescope.’ That rekindled my longtime (but never acted on) interest in astronomy. I learned that Zwo was coming out with a new, smaller entry-level model, the Seestar S30 , so I preordered one in early December.",
+   "section": "crowdsourced",
+   "recommender": "David (reader)"
+  }
+ ]
+}

@@ -1,0 +1,581 @@
+{
+ "schema": 1,
+ "date": "2026-07-18",
+ "post_type": "issue",
+ "title": "The apps, gadgets, and tools every reader needs",
+ "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+ "author": "David Pierce",
+ "number": 136,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "group-project",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:41+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-07-18-version-history",
+   "name": "Version History",
+   "url": "https://pod.link/1840983742",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been recording the next season of Version History (this season’s finale is out on Sunday!), reading about data center heists and Backyard Baseball and the creator of Calvin and Hobbes , canceling my October plans to see Digger 30 or 40 times, taking on the new Knockout Tour routes…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-data-center-heists",
+   "name": "data center heists",
+   "url": "https://www.nytimes.com/2026/07/12/magazine/data-center-heist.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been recording the next season of Version History (this season’s finale is out on Sunday!), reading about data center heists and Backyard Baseball and the creator of Calvin and Hobbes , canceling my October plans to see Digger 30 or 40 times, taking on the new Knockout Tour routes…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-backyard-baseball",
+   "name": "Backyard Baseball",
+   "url": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html?partner=slack&__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been recording the next season of Version History (this season’s finale is out on Sunday!), reading about data center heists and Backyard Baseball and the creator of Calvin and Hobbes , canceling my October plans to see Digger 30 or 40 times, taking on the new Knockout Tour routes…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-the-creator-of-calvin-and-hobbes",
+   "name": "the creator of Calvin and Hobbes",
+   "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of?__readwiseLocation=",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "newsletter"
+   ],
+   "blurb": "This week, I’ve been recording the next season of Version History (this season’s finale is out on Sunday!), reading about data center heists and Backyard Baseball and the creator of Calvin and Hobbes , canceling my October plans to see Digger 30 or 40 times, taking on the new Knockout Tour routes…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-digger",
+   "name": "Digger",
+   "url": "https://www.youtube.com/watch?v=qORTe1wW3Wg",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been recording the next season of Version History (this season’s finale is out on Sunday!), reading about data center heists and Backyard Baseball and the creator of Calvin and Hobbes , canceling my October plans to see Digger 30 or 40 times, taking on the new Knockout Tour routes…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-new-knockout-tour-routes",
+   "name": "new Knockout Tour routes",
+   "url": "https://www.nintendo.com/au/news-and-articles/mario-kart-world-update-adds-two-new-routes-to-knockout-tour-and-more/?srsltid=AfmBOorzvCLewxvYX4v9Vzght0LGU7akZC1DpTgmarrRX79wmvGkAsAy",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "This week, I’ve been recording the next season of Version History (this season’s finale is out on Sunday!), reading about data center heists and Backyard Baseball and the creator of Calvin and Hobbes , canceling my October plans to see Digger 30 or 40 times, taking on the new Knockout Tour routes…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-mario-kart-world",
+   "name": "Mario Kart World",
+   "url": "https://www.nintendo.com/us/store/products/mario-kart-world-switch-2/?srsltid=AfmBOooYlHpV6SL5bZlSuyHL3kTL8SvgvUOrm11bmSclYqc86oxYL2r5",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "This week, I’ve been recording the next season of Version History (this season’s finale is out on Sunday!), reading about data center heists and Backyard Baseball and the creator of Calvin and Hobbes , canceling my October plans to see Digger 30 or 40 times, taking on the new Knockout Tour routes…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-revisionist-history",
+   "name": "Revisionist History",
+   "url": "https://www.pushkin.fm/podcasts/revisionist-history/the-staten-island-problem-part-1-the-mayor-vs-the-borough-president",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been recording the next season of Version History (this season’s finale is out on Sunday!), reading about data center heists and Backyard Baseball and the creator of Calvin and Hobbes , canceling my October plans to see Digger 30 or 40 times, taking on the new Knockout Tour routes…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-the-very-first-chatbot",
+   "name": "the very first chatbot",
+   "url": "https://direct.mit.edu/books/oa-monograph/6171/Inventing-ELIZAHow-the-First-Chatbot-Shaped-the",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been recording the next season of Version History (this season’s finale is out on Sunday!), reading about data center heists and Backyard Baseball and the creator of Calvin and Hobbes , canceling my October plans to see Digger 30 or 40 times, taking on the new Knockout Tour routes…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-flipper-busy-bar",
+   "name": "Flipper Busy Bar",
+   "url": "https://busy.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been recording the next season of Version History (this season’s finale is out on Sunday!), reading about data center heists and Backyard Baseball and the creator of Calvin and Hobbes , canceling my October plans to see Digger 30 or 40 times, taking on the new Knockout Tour routes…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-the-odyssey",
+   "name": "The Odyssey",
+   "url": "https://www.themoviedb.org/movie/1368337-the-odyssey",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I’ll be honest: I expected this movie to not be great. Hot director bites off too big a story, not even Christopher Nolan can hit every time, right? WRONG.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-bear-2-9",
+   "name": "Bear 2.9",
+   "url": "https://blog.bear.app/2026/07/bear-2-9-use-tag-as-workspace/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Bear’s tag-based system has always felt a little too limiting to me, but expanding the idea into Workspaces makes it way more powerful without being any more complex. So clever, so useful, still one of the best apps to write in across Apple devices.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-the-world-cup-final",
+   "name": "The World Cup final",
+   "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/final",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "By just about any measure, Sunday’s game will be the biggest thing on TV… until we do this again in four years. This year’s tournament has been spectacular, and whether you like soccer or not, the final tends to be good TV. Treat it like the Super Bowl! Have a party!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-how-microtransactions-almost-ruined-gaming-with",
+   "name": "How Microtransactions (Almost) Ruined Gaming, with Dan Soder",
+   "url": "https://www.youtube.com/watch?v=h9vEednqNb0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ How Microtransactions (Almost) Ruined Gaming, with Dan Soder .” Really good episode of Pablo Torre Finds Out that makes an imperfect but very compelling argument that we have almost completely lost the plot when it comes to gaming. But the fight is not yet entirely lost.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-aphera",
+   "name": "Aphera",
+   "url": "https://aphera.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been hearing good things about this new Mac-based photo editor, which is fast and powerful and aimed directly at replacing the ever-rising price of Adobe’s tools. Ditching Lightroom is a lot to ask, but I’m excited to give this a real shot.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-parchment",
+   "name": "Parchment",
+   "url": "https://apps.apple.com/us/app/parchment-agenda-daily-note/id6779987526",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Chris Lawley, friend of Installer , shipped his notes-and-tasks app for Apple devices this week, and it’s really well done! It goes hard on just showing you what matters right now and hiding everything else, and I kind of appreciate that.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-the-loading-museum",
+   "name": "The Loading Museum",
+   "url": "https://sheets.works/data-viz/the-loading-museum",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "What a fun idea: a repository of all the things that have made us wait on our computers. Watch a photo load like it’s 1997, remember what it felt like to wait for the internet to connect, and learn what designers have always known about how to make slow things feel faster.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-the-codex-micro",
+   "name": "The Codex Micro",
+   "url": "https://openai.com/supply/co-lab/work-louder/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I love a shortcut button, and while I think $230 is an absurd price to pay for a bunch of buttons you could re-create with a Stream Deck or any number of other things, I do think these agent-controlling keys are pretty delightful. Work Louder stuff just tends to feel good.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-kindle-paperwhite",
+   "name": "Kindle Paperwhite",
+   "url": "https://www.amazon.com/dp/B0CFPHV9ZN?lv=shuf&channelId=500&plpRedirect=mhFallback&th=1&linkCode=ll2&tag=vergenewsletter-20&linkId=e9e0a86a6e6775ea8422345e033c0df3&language=en_US&tag=theverge02-20",
+   "alt_urls": [
+    "https://www.apple.com/ipad-mini",
+    "https://shop.boox.com/products/palma2"
+   ],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "I read mostly on one of three devices: a Kindle Paperwhite , an iPad Mini , or a Boox Palma 2 . The iPad is for when I need to take lots of notes and highlights, the Palma goes everywhere with me, and the Paperwhite lives next to my bed.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-kindle-app",
+   "name": "Kindle app",
+   "url": "https://www.amazon.com/b?node=16571048011&linkCode=ll2&tag=vergenewsletter-20&linkId=72a13cf153611cae52bdc21b639b82ba&language=en_US&tag=theverge02-20",
+   "alt_urls": [
+    "https://read.readwise.io/",
+    "https://instapaper.com/",
+    "https://www.getmatter.com/"
+   ],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "As a result, I mostly read books in the Kindle app , but all of the rest of my digital reading happens in Readwise Reader .",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-feedbin",
+   "name": "Feedbin",
+   "url": "https://feedbin.com/",
+   "alt_urls": [
+    "https://www.goldenhillsoftware.com/unread/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I use Feedbin for RSS reading. On my computer, I use Feedbin’s website; on mobile I mostly use Unread .",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-bookshop-org",
+   "name": "Bookshop.org",
+   "url": "https://bookshop.org/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
+   "blurb": "When I buy physical books, which I’m trying to do a lot more now that I have a toddler who sees me looking at screens all the time, I try to buy them from Bookshop.org . Or from my local library / bookstore. My book collection is growing for the first time in forever, and it’s a delight.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-libby",
+   "name": "Libby",
+   "url": "https://libbyapp.com/",
+   "alt_urls": [
+    "https://www.hoopladigital.com/",
+    "https://www.mylibro.com/",
+    "https://www.discoversora.com/families"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The library! Yay libraries! So many of us are using Libby and Hoopla and MyLibro and Sora and so many other tools to make the most of our library cards. Absolutely love to see it.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-kindle",
+   "name": "Kindle",
+   "url": "https://www.amazon.com/kindle?&linkCode=ll2&tag=vergenewsletter-20&linkId=58bf887b4cc1f8a0cadc28f79f4e6846&language=en_US&tag=theverge02-20",
+   "alt_urls": [
+    "https://www.apple.com/ipad-mini",
+    "https://us.kobobooks.com/products/kobo-clara-bw",
+    "https://us.kobobooks.com/products/kobo-libra-colour",
+    "https://www.xteink.com/products/xteink-x4",
+    "https://shop.boox.com/products/palma2"
+   ],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The Kindle and the iPad Mini are the big winners among reading devices. No big surprise there, really. But I also heard from Kobo fans (both Clara and Libra ), more than one devoted iPod Touch fan, and lots of believers in the Xteink X4 . Oh, and of course, the Boox Palma remains a winner.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-kindle-2",
+   "name": "Kindle",
+   "url": "https://www.amazon.com/b?node=16571048011&linkCode=ll2&tag=vergenewsletter-20&linkId=9ed41f7b71a1dccf9d587c6927718f2d&language=en_US&tag=theverge02-20",
+   "alt_urls": [
+    "https://apps.apple.com/us/app/apple-books/id364709193",
+    "https://www.bookfusion.com/",
+    "https://bookshop.org/info/ebooks"
+   ],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The most popular reading apps were, also unsurprisingly, Kindle and Apple Books . But there are some devoted BookFusion fans out there, too, and Bookshop.org ’s app appears to be catching on.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-the-storygraph",
+   "name": "The StoryGraph",
+   "url": "https://thestorygraph.com/",
+   "alt_urls": [
+    "https://booktrack.app/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "We love a way to track our collection, and our progress. Both The StoryGraph and Book Tracker have a lot of fans, and practically everyone either quit or is looking to quit Goodreads.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-audible",
+   "name": "Audible",
+   "url": "https://www.audibletrial.com/c/482924/982711/12951?u=https%3A%2F%2Fwww.audible.com",
+   "alt_urls": [
+    "https://www.spotify.com/us/audiobooks/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Lots of us like to listen to books, which of course means Audible came up a few times. But a lot of us are also making good use of the 15 hours of audio that come with Spotify Premium .",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-bookbub",
+   "name": "BookBub",
+   "url": "https://www.bookbub.com/",
+   "alt_urls": [
+    "https://www.chirpbooks.com/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": ", a great site for finding ebook sales, came up a bunch. So did Chirp , its sister site for audiobooks.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-readwise",
+   "name": "Readwise",
+   "url": "https://readwise.io/",
+   "alt_urls": [
+    "https://www.notion.com/",
+    "https://www.craft.do/",
+    "https://obsidian.md/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Saving and syncing highlights is an ongoing project for a lot of us. Lots of Readwise users out there, syncing stuff to Notion and Craft and Obsidian , but also a lot of folks building their own apps to make this easier.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-unread",
+   "name": "Unread",
+   "url": "https://www.goldenhillsoftware.com/unread/",
+   "alt_urls": [
+    "https://reederapp.com/",
+    "https://instapaper.com/home",
+    "https://read.readwise.io/",
+    "https://wallabag.org/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I heard about, conservatively, 50 different RSS readers. Unread and Reeder were the RSS favorites, and Instapaper , Readwise Reader , and Wallabag are the go-tos for saving stuff for later.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-cirrux",
+   "name": "Cirrux",
+   "url": "https://cirrux.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m moving from Google (Gmail) to a fantastic European alternative: Cirrux . With a sync service you can untie yourself from Big Tech, without losing your emails.",
+   "section": "crowdsourced",
+   "recommender": "Olaf (reader)"
+  },
+  {
+   "id": "2026-07-18-the-ghost-in-the-shell",
+   "name": "The Ghost in the Shell",
+   "url": "https://www.themoviedb.org/tv/255358",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The Ghost in the Shell anime on Amazon is the best looking thing on TV. It’s as lore-dense as a concrete brick, but if you can look past that, it’s absolutely worth the watch.",
+   "section": "crowdsourced",
+   "recommender": "B Carzo (reader)"
+  },
+  {
+   "id": "2026-07-18-gravity",
+   "name": "Gravity",
+   "url": "https://www.gravitynotes.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Gravity is the best / simplest note-taking app. Most note apps, as you take notes, they get lost as you add more, losing their relevance; with Gravity you can snap any note to the top of the page. The simplicity is brilliant.",
+   "section": "crowdsourced",
+   "recommender": "Andrew (reader)"
+  },
+  {
+   "id": "2026-07-18-4x3",
+   "name": "4x3",
+   "url": "https://www.hankgreen.com/fourbythree/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Thanks to Rohit for the 4x3 suggestion in last week’s Installer . The other game on the site, Smush , is also fantastic. Both are wonderful fresh takes on games from the New York Times.",
+   "section": "crowdsourced",
+   "recommender": "Kurt (reader)"
+  },
+  {
+   "id": "2026-07-18-smush",
+   "name": "Smush",
+   "url": "https://www.hankgreen.com/smush/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Thanks to Rohit for the 4x3 suggestion in last week’s Installer . The other game on the site, Smush , is also fantastic. Both are wonderful fresh takes on games from the New York Times.",
+   "section": "crowdsourced",
+   "recommender": "Kurt (reader)"
+  },
+  {
+   "id": "2026-07-18-pebble-index-01",
+   "name": "Pebble Index 01",
+   "url": "https://repebble.com/index",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I ordered the Pebble Index 01 ring. I desperately want to dictate little notes to myself and opening an app on my phone is a lot of friction.",
+   "section": "crowdsourced",
+   "recommender": "Anna (reader)"
+  },
+  {
+   "id": "2026-07-18-seek-immediate-shelter",
+   "name": "Seek Immediate Shelter",
+   "url": "https://us.macmillan.com/books/9781250410122/seekimmediateshelter/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just finished the book Seek Immediate Shelter by Vincent Yu. It follows a bunch of people in a small town as they get an emergency ‘incoming missile’ text, then the ‘false alert’ message about 20 minutes later, and how each person reacts during and after the alert. It was fantastic.",
+   "section": "crowdsourced",
+   "recommender": "Matt (reader)"
+  },
+  {
+   "id": "2026-07-18-joon-lees-youtube-channel",
+   "name": "Joon Lee’s YouTube channel",
+   "url": "https://www.youtube.com/@iamjoonlee",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Recently stumbled upon Joon Lee’s YouTube channel . Fantastic deep dives on current sports/culture from an independent perspective. Spoiler - Most things have been ruined by gambling & private equity. In an age of hot takes and clickbait, he’s the breath of fresh air sports media fans need.",
+   "section": "crowdsourced",
+   "recommender": "Brett (reader)"
+  },
+  {
+   "id": "2026-07-18-hypertexting",
+   "name": "Hypertexting",
+   "url": "https://hypertexting.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been playing around with Hypertexting , a new app that treats RSS (and your personal blog) like an open social network. It’s really interesting and has a lot of potential.",
+   "section": "crowdsourced",
+   "recommender": "Chris (reader)"
+  },
+  {
+   "id": "2026-07-18-r-9m9h9e9",
+   "name": "/r/9M9H9E9",
+   "url": "https://www.reddit.com/r/9M9H9E9/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week I’ve been reading The Interface Series, which was a sci-fi/horror web serial from about 10 years ago. Each chapter is posted as a comment in a random, unrelated Reddit thread, but it’s all been collated at /r/9M9H9E9 . Fascinating speculative fiction that makes the most of its medium.",
+   "section": "crowdsourced",
+   "recommender": "Andie (reader)"
+  },
+  {
+   "id": "2026-07-18-matt-damon-recently-explain",
+   "name": "Matt Damon recently explain",
+   "url": "https://www.youtube.com/watch?v=PfOkaa2a_iA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’ve always appreciated the size and power of an IMAX screen, but until I heard Matt Damon recently explain how strange it is to act into an IMAX camera, I don’t think I really understood how remarkable and complicated the technology really is.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-this-tested-video",
+   "name": "this Tested video",
+   "url": "https://www.youtube.com/watch?v=7S_geBV5bLQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’ve always appreciated the size and power of an IMAX screen, but until I heard Matt Damon recently explain how strange it is to act into an IMAX camera, I don’t think I really understood how remarkable and complicated the technology really is.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-this-christopher-nolan-interview",
+   "name": "this Christopher Nolan interview",
+   "url": "https://www.youtube.com/watch?v=xhAFHWc93nY",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’ve always appreciated the size and power of an IMAX screen, but until I heard Matt Damon recently explain how strange it is to act into an IMAX camera, I don’t think I really understood how remarkable and complicated the technology really is.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-the-dying-art-of-70mm",
+   "name": "the dying art of 70mm",
+   "url": "https://www.youtube.com/watch?v=YTp2IwYNQGE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’ve always appreciated the size and power of an IMAX screen, but until I heard Matt Damon recently explain how strange it is to act into an IMAX camera, I don’t think I really understood how remarkable and complicated the technology really is.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-18-this-excellent-explainer",
+   "name": "this excellent explainer",
+   "url": "https://www.youtube.com/watch?v=ZFVwqi8sElI",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’ve always appreciated the size and power of an IMAX screen, but until I heard Matt Damon recently explain how strange it is to act into an IMAX camera, I don’t think I really understood how remarkable and complicated the technology really is.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

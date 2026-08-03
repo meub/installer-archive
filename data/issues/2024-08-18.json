@@ -1,0 +1,580 @@
+{
+ "schema": 1,
+ "date": "2024-08-18",
+ "post_type": "issue",
+ "title": "The app for taking better photos — with no AI",
+ "url": "https://www.theverge.com/2024/8/18/24222043/halide-process-zero-google-gemini-podcast-installer",
+ "author": "David Pierce",
+ "number": 48,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:36+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-08-18-mr-penumbras-24-hour-bookstore",
+   "name": "Mr. Penumbra’s 24-Hour Bookstore",
+   "url": "https://www.robinsloan.com/books/penumbra/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m back after a couple of weeks off — thanks to everyone who wished me a good vacation and sent over book recommendations! I wound up reading Mr. Penumbra’s 24-Hour Bookstore , She Rides Shotgun , and The Wager and highly recommend all three.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-18-she-rides-shotgun",
+   "name": "She Rides Shotgun",
+   "url": "https://www.harpercollins.com/products/she-rides-shotgun-jordan-harper",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m back after a couple of weeks off — thanks to everyone who wished me a good vacation and sent over book recommendations! I wound up reading Mr. Penumbra’s 24-Hour Bookstore , She Rides Shotgun , and The Wager and highly recommend all three.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-18-the-wager",
+   "name": "The Wager",
+   "url": "https://www.davidgrann.com/book/the-wager/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m back after a couple of weeks off — thanks to everyone who wished me a good vacation and sent over book recommendations! I wound up reading Mr. Penumbra’s 24-Hour Bookstore , She Rides Shotgun , and The Wager and highly recommend all three.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-18-worldcoin",
+   "name": "Worldcoin",
+   "url": "https://www.bloomberg.com/news/features/2024-08-12/how-worldcoin-is-building-digital-ids-to-combat-the-ai-apocalypse?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcyMzQ3MzA2NSwiZXhwIjoxNzI0MDc3ODY1LCJhcnRpY2xlSWQiOiJTSTNOU0lEV0xVNjgwMCIsImJjb25uZWN0SWQiOiI5MTM4NzMzNDcyQkY0QjlGQTg0OTI3QTVBRjY1QzBCRiJ9.igiQsa7rx_8KqyNgY1qY_rvBsIP5Y9-1uytMgNOBxAM",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Worldcoin and Conan O’Brien , watching Bad Monkey and rewatching The Night Manager , tweaking my recipe for a maple syrup Old Fashioned, listening to 99 Percent Invisible ’s excellent series on The Power Broker , rebooting all my fantasy football leagues, and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-18-conan-obrien",
+   "name": "Conan O’Brien",
+   "url": "https://www.nytimes.com/2024/06/21/arts/television/conan-obrien.html?sgrp=c-cb",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Worldcoin and Conan O’Brien , watching Bad Monkey and rewatching The Night Manager , tweaking my recipe for a maple syrup Old Fashioned, listening to 99 Percent Invisible ’s excellent series on The Power Broker , rebooting all my fantasy football leagues, and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-18-bad-monkey",
+   "name": "Bad Monkey",
+   "url": "https://www.themoviedb.org/tv/130853-bad-monkey?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Worldcoin and Conan O’Brien , watching Bad Monkey and rewatching The Night Manager , tweaking my recipe for a maple syrup Old Fashioned, listening to 99 Percent Invisible ’s excellent series on The Power Broker , rebooting all my fantasy football leagues, and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-18-the-night-manager",
+   "name": "The Night Manager",
+   "url": "https://www.themoviedb.org/tv/61859-the-night-manager?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Worldcoin and Conan O’Brien , watching Bad Monkey and rewatching The Night Manager , tweaking my recipe for a maple syrup Old Fashioned, listening to 99 Percent Invisible ’s excellent series on The Power Broker , rebooting all my fantasy football leagues, and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-18-excellent-series-on-the-power-broker",
+   "name": "excellent series on The Power Broker",
+   "url": "https://99percentinvisible.org/club/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Worldcoin and Conan O’Brien , watching Bad Monkey and rewatching The Night Manager , tweaking my recipe for a maple syrup Old Fashioned, listening to 99 Percent Invisible ’s excellent series on The Power Broker , rebooting all my fantasy football leagues, and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-18-halides-process-zero",
+   "name": "Halide’s Process Zero",
+   "url": "https://halide.cam/",
+   "alt_urls": [
+    "https://www.theverge.com/2024/8/14/24220178/halide-camera-app-process-zero-ai"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Halide was already one of the best camera apps for iPhone and iPad, but this feature — which strips out all the processing your phone does and gives you as raw an image as possible — is just so much fun to play with. Give it a whirl this weekend.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-18-the-google-pixel-9-pro-fold",
+   "name": "The Google Pixel 9 Pro Fold",
+   "url": "https://www.dpbolvw.net/click-8836598-15751464?url=https%3A%2F%2Fstore.google.com%2Fus%2Fproduct%2Fpixel_9_pro_fold%3Fhl%3Den-US%26pli%3D1",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The name is bad. The phone looks awesome. Google seems to have gotten the foldable phone design pretty right this time, and using Gemini side by side with an app is actually a great case for a larger screen. There are lots of new Pixel devices this week, but I’m most excited about the Fold.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-18-gemini-live",
+   "name": "Gemini Live",
+   "url": "https://blog.google/products/gemini/made-by-google-gemini-ai-updates/",
+   "alt_urls": [
+    "https://www.theverge.com/2024/8/15/24220378/openai-advanced-voice-mode-uncanny-valley"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Big week for chatty voice assistants! OpenAI rolled out Advanced Voice Mode for ChatGPT, which is both cool and creepy . And Google showed off Gemini Live, which, well, same. I’m curious to see if either of these can go from nifty novelty to actually useful feature.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-18-alien-romulus",
+   "name": "Alien: Romulus",
+   "url": "https://www.themoviedb.org/movie/945961-alien-romulus",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I honestly don’t care if this movie’s any good. (And the reviews so far are… pretty mixed.) I’m thrilled to have a reason to get back into the Alien universe, and you better believe I’ll be seeing this in the biggest, loudest theater I can find.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-18-first-look-inside-blue-origins-new-glenn-factory",
+   "name": "First Look Inside Blue Origin’s New Glenn Factory w/ Jeff Bezos!",
+   "url": "https://www.youtube.com/watch?v=rsuqSn7ifpU",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ First Look Inside Blue Origin’s New Glenn Factory w/ Jeff Bezos! ” I’m embarrassed to say I hadn’t watched any Everyday Astronaut videos before this one crossed my recommendations. I learned a ton from this long, deep, truly wild factory tour. Insta-subscribe.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-18-meta-quest-hdmi-link",
+   "name": "Meta Quest HDMI Link",
+   "url": "https://www.meta.com/experiences/7452106424824357/?intern_source=blog&intern_content=meta-quest-hdmi-link-launch#reviews",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If we’ve learned anything from the Vision Pro this year, it’s that VR headsets are just really, really big televisions. Meta’s new app means you can plug almost anything in and use your headset as the big screen it’s meant to be.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-18-unread-for-mac",
+   "name": "Unread for Mac",
+   "url": "https://www.goldenhillsoftware.com/unread/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This one’s like two weeks old, but I was on vacation, so I just saw it: my favorite RSS reader for iOS is now on the Mac, and it’s great. Fast, simple, nice to look at, works with everything, instantly part of my day-to-day workflow.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-18-industry-season-3",
+   "name": "Industry season 3",
+   "url": "https://www.themoviedb.org/tv/90812-industry?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "It took a while for this HBO show to get its flowers, but it totally deserves the belated love. It has some of the same chaotic energy as Succession, lots of the money and bad behavior, and plenty of good-looking people doing hateable stuff.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-18-neuecast",
+   "name": "Neuecast",
+   "url": "https://neuecast.app/",
+   "alt_urls": [
+    "https://overcast.fm/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I actually like the new Overcast design, but evidently, not everyone’s a fan. And if, for whatever reason, you’re looking for a new podcast app, this is a gorgeous, simple one that’s remarkably full-featured for being so new.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-18-niagara-launcher",
+   "name": "Niagara Launcher",
+   "url": "https://niagaralauncher.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Earlier this summer , I mentioned how much I‘d been enjoying the Niagara Launcher , a minimalist Android launcher that reinvents your homescreen into something much more manageable and straightforward. And I heard from so many of you that you like it, too!",
+   "section": "screen-share",
+   "recommender": "Peter"
+  },
+  {
+   "id": "2024-08-18-photograph",
+   "name": "photograph",
+   "url": "https://unsplash.com/photos/green-leaf-plants-wMqPJs2x0-A",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: The first one is based on a photograph from Annie Spratt , and the second is a blurred version of a wallpaper I did while tinkering with the fantastic 3D modeling software Blender. You can find the wallpapers in Niagara Launcher or on my Google Drive .",
+   "section": "screen-share",
+   "recommender": "Peter"
+  },
+  {
+   "id": "2024-08-18-annie-spratt",
+   "name": "Annie Spratt",
+   "url": "https://www.anniespratt.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: The first one is based on a photograph from Annie Spratt , and the second is a blurred version of a wallpaper I did while tinkering with the fantastic 3D modeling software Blender. You can find the wallpapers in Niagara Launcher or on my Google Drive .",
+   "section": "screen-share",
+   "recommender": "Peter"
+  },
+  {
+   "id": "2024-08-18-on-my-google-drive",
+   "name": "on my Google Drive",
+   "url": "https://drive.google.com/drive/u/2/folders/1xKNSVeV4sJjn-sjtF5RlO5q4i0-haqhB",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: The first one is based on a photograph from Annie Spratt , and the second is a blurred version of a wallpaper I did while tinkering with the fantastic 3D modeling software Blender. You can find the wallpapers in Niagara Launcher or on my Google Drive .",
+   "section": "screen-share",
+   "recommender": "Peter"
+  },
+  {
+   "id": "2024-08-18-caprasimo",
+   "name": "Caprasimo",
+   "url": "https://fonts.google.com/specimen/Caprasimo",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The launcher: I was tempted to post an iPhone setup here to see the reaction, but I’m using and testing Niagara Launcher. I prefer a simple setup, and everything you see — the icon packs, weather, calendar, and media widgets — comes with Niagara Launcher.",
+   "section": "screen-share",
+   "recommender": "Peter"
+  },
+  {
+   "id": "2024-08-18-hide-the-pain-harold",
+   "name": "Hide the Pain Harold",
+   "url": "https://knowyourmeme.com/memes/hide-the-pain-harold",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Todoist : Almost every thought I want to write down lands here first. It’s fast, feels native, and syncs seamlessly with Google Calendar. The developers have put a lot of thought and care into it.",
+   "section": "screen-share",
+   "recommender": "Peter"
+  },
+  {
+   "id": "2024-08-18-artstation",
+   "name": "ArtStation",
+   "url": "https://www.artstation.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Todoist : Almost every thought I want to write down lands here first. It’s fast, feels native, and syncs seamlessly with Google Calendar. The developers have put a lot of thought and care into it.",
+   "section": "screen-share",
+   "recommender": "Peter"
+  },
+  {
+   "id": "2024-08-18-stash",
+   "name": "Stash",
+   "url": "https://www.stashmedia.tv/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Todoist : Almost every thought I want to write down lands here first. It’s fast, feels native, and syncs seamlessly with Google Calendar. The developers have put a lot of thought and care into it.",
+   "section": "screen-share",
+   "recommender": "Peter"
+  },
+  {
+   "id": "2024-08-18-a-video-about-phantom-islands",
+   "name": "a video about phantom islands",
+   "url": "https://www.youtube.com/watch?v=PVemGumEEgo",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "YouTube videos I recommend watching: a video about phantom islands by Map Men, a British duo teaching geography in the funniest way possible; a discussion from a fitness forum turned into an Ace Attorney case (warning: profane language); and Captain Disillusion’s latest debunk video , packed with…",
+   "section": "screen-share",
+   "recommender": "Peter"
+  },
+  {
+   "id": "2024-08-18-an-ace-attorney-case",
+   "name": "an Ace Attorney case",
+   "url": "https://www.youtube.com/watch?v=teC_uksSPBU",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "YouTube videos I recommend watching: a video about phantom islands by Map Men, a British duo teaching geography in the funniest way possible; a discussion from a fitness forum turned into an Ace Attorney case (warning: profane language); and Captain Disillusion’s latest debunk video , packed with…",
+   "section": "screen-share",
+   "recommender": "Peter"
+  },
+  {
+   "id": "2024-08-18-latest-debunk-video",
+   "name": "latest debunk video",
+   "url": "https://www.youtube.com/watch?v=oVWsbpdDxTg",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "YouTube videos I recommend watching: a video about phantom islands by Map Men, a British duo teaching geography in the funniest way possible; a discussion from a fitness forum turned into an Ace Attorney case (warning: profane language); and Captain Disillusion’s latest debunk video , packed with…",
+   "section": "screen-share",
+   "recommender": "Peter"
+  },
+  {
+   "id": "2024-08-18-wario-land-4",
+   "name": "Wario Land 4",
+   "url": "https://www.nintendo.com/en-gb/Games/Game-Boy-Advance/Wario-Land-4-267596.html",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "YouTube videos I recommend watching: a video about phantom islands by Map Men, a British duo teaching geography in the funniest way possible; a discussion from a fitness forum turned into an Ace Attorney case (warning: profane language); and Captain Disillusion’s latest debunk video , packed with…",
+   "section": "screen-share",
+   "recommender": "Peter"
+  },
+  {
+   "id": "2024-08-18-mirrors-edge",
+   "name": "Mirror’s Edge",
+   "url": "https://www.ea.com/games/mirrors-edge/mirrors-edge",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "YouTube videos I recommend watching: a video about phantom islands by Map Men, a British duo teaching geography in the funniest way possible; a discussion from a fitness forum turned into an Ace Attorney case (warning: profane language); and Captain Disillusion’s latest debunk video , packed with…",
+   "section": "screen-share",
+   "recommender": "Peter"
+  },
+  {
+   "id": "2024-08-18-super-smash-bros-ultimate",
+   "name": "Super Smash Bros. Ultimate",
+   "url": "https://www.smashbros.com/en_US/index.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "YouTube videos I recommend watching: a video about phantom islands by Map Men, a British duo teaching geography in the funniest way possible; a discussion from a fitness forum turned into an Ace Attorney case (warning: profane language); and Captain Disillusion’s latest debunk video , packed with…",
+   "section": "screen-share",
+   "recommender": "Peter"
+  },
+  {
+   "id": "2024-08-18-jeff-cables-photography-blog",
+   "name": "Jeff Cable’s photography blog",
+   "url": "https://blog.jeffcable.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I followed Jeff Cable’s photography blog during the Olympics. There are technical , logistical , and emotional articles. Working in post-production, I wondered how many cameras were being used during the Olympics. Found this blog post about Olympic Broadcasting Services .",
+   "section": "crowdsourced",
+   "recommender": "Sinan (reader)"
+  },
+  {
+   "id": "2024-08-18-technical",
+   "name": "technical",
+   "url": "https://blog.jeffcable.com/2024/07/behind-scenes-at-olympics-canon-heaven.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I followed Jeff Cable’s photography blog during the Olympics. There are technical , logistical , and emotional articles. Working in post-production, I wondered how many cameras were being used during the Olympics. Found this blog post about Olympic Broadcasting Services .",
+   "section": "crowdsourced",
+   "recommender": "Sinan (reader)"
+  },
+  {
+   "id": "2024-08-18-logistical",
+   "name": "logistical",
+   "url": "https://blog.jeffcable.com/2024/07/olympic-challenges-getting-around-this.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I followed Jeff Cable’s photography blog during the Olympics. There are technical , logistical , and emotional articles. Working in post-production, I wondered how many cameras were being used during the Olympics. Found this blog post about Olympic Broadcasting Services .",
+   "section": "crowdsourced",
+   "recommender": "Sinan (reader)"
+  },
+  {
+   "id": "2024-08-18-emotional",
+   "name": "emotional",
+   "url": "https://blog.jeffcable.com/2024/07/photos-of-goat-simone-biles-and-ladies.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I followed Jeff Cable’s photography blog during the Olympics. There are technical , logistical , and emotional articles. Working in post-production, I wondered how many cameras were being used during the Olympics. Found this blog post about Olympic Broadcasting Services .",
+   "section": "crowdsourced",
+   "recommender": "Sinan (reader)"
+  },
+  {
+   "id": "2024-08-18-about-olympic-broadcasting-services",
+   "name": "about Olympic Broadcasting Services",
+   "url": "https://prolight-sound-blog.com/technology-at-the-opening-ceremony-of-the-2024-olympic-games/#:~:text=I%20agree-,Olympic%20Broadcasting%20Services%20(OBS):%20broadcasting%20at%20a%20high%20level,-The%20task%20of",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I followed Jeff Cable’s photography blog during the Olympics. There are technical , logistical , and emotional articles. Working in post-production, I wondered how many cameras were being used during the Olympics. Found this blog post about Olympic Broadcasting Services .",
+   "section": "crowdsourced",
+   "recommender": "Sinan (reader)"
+  },
+  {
+   "id": "2024-08-18-denim",
+   "name": "Denim",
+   "url": "https://apps.apple.com/us/app/denim-playlist-cover-maker/id1532250420",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Denim has been my favorite utility to create great-looking custom covers for playlists on Apple Music.",
+   "section": "crowdsourced",
+   "recommender": "Krishna (reader)"
+  },
+  {
+   "id": "2024-08-18-a-psalm-for-the-wild-built",
+   "name": "A Psalm for the Wild-Built",
+   "url": "https://us.macmillan.com/books/9781250236210/apsalmforthewildbuilt",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A Psalm for the Wild-Built . It’s set in a future where humans and robots have gone their separate ways and really paints a portrait of a world where I think many of us would like to live.",
+   "section": "crowdsourced",
+   "recommender": "Nolan (reader)"
+  },
+  {
+   "id": "2024-08-18-this-black-and-white-e-ink-smartphone",
+   "name": "this black and white E Ink smartphone",
+   "url": "https://store.bigme.vip/products/bigme-hibreak-smartphone?variant=43652835180723",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Really into this black and white E Ink smartphone I was crazy enough to preorder from China.",
+   "section": "crowdsourced",
+   "recommender": "Christopher (reader)"
+  },
+  {
+   "id": "2024-08-18-quick-journal",
+   "name": "Quick Journal",
+   "url": "https://apps.apple.com/us/app/quick-journal-just-write/id6554003659",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "I’m enjoying Quick Journal , a simple text-only journaling app for iOS.",
+   "section": "crowdsourced",
+   "recommender": "Joe (reader)"
+  },
+  {
+   "id": "2024-08-18-the-case-of-the-missing-hit",
+   "name": "The Case of the Missing Hit",
+   "url": "https://gimletmedia.com/shows/reply-all/o2h8bx",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I relistened to ‘ The Case of the Missing Hit ’ from Reply All and forgot how much I loved it. It got me thinking of podcasts I’ve listened to that had me on the edge of my seat, and I remembered Dr. Death .",
+   "section": "crowdsourced",
+   "recommender": "David (reader)"
+  },
+  {
+   "id": "2024-08-18-dr-death",
+   "name": "Dr. Death",
+   "url": "https://wondery.com/shows/dr-death/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I relistened to ‘ The Case of the Missing Hit ’ from Reply All and forgot how much I loved it. It got me thinking of podcasts I’ve listened to that had me on the edge of my seat, and I remembered Dr. Death .",
+   "section": "crowdsourced",
+   "recommender": "David (reader)"
+  },
+  {
+   "id": "2024-08-18-guestcast",
+   "name": "GuestCast",
+   "url": "https://guestcast.xyz/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "GuestCast . I’ve been using this site to follow my tech reporters and politicians when they go on random podcasts.",
+   "section": "crowdsourced",
+   "recommender": "Ben (reader)"
+  },
+  {
+   "id": "2024-08-18-match-land",
+   "name": "Match Land",
+   "url": "http://www.racecatgames.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Match Land . It hasn’t been updated in a super long time but still works. I have yet to find a match RPG game that can replace it. For me, it has the perfect game physics as far as speed and moving tiles, and nothing else I’ve tried is as satisfying.",
+   "section": "crowdsourced",
+   "recommender": "Justin (reader)"
+  },
+  {
+   "id": "2024-08-18-how-to-take-smart-notes",
+   "name": "How to Take Smart Notes",
+   "url": "https://www.soenkeahrens.de/en/takesmartnotes",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Based on your clear interest in note-taking apps, I assume you’ve already read How to Take Smart Notes by Sönke Ahrens. If you haven’t, check it out — you might like it. It’s short, to the point, and interesting for people who take a lot of notes for future articles / books / papers.",
+   "section": "crowdsourced",
+   "recommender": "Robert (reader)"
+  },
+  {
+   "id": "2024-08-18-todoist",
+   "name": "Todoist",
+   "url": "https://todoist.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The new day calendar view in Todoist is absolutely amazing and makes it super simple to plan tasks around meetings.",
+   "section": "crowdsourced",
+   "recommender": "Glenn (reader)"
+  },
+  {
+   "id": "2024-08-18-lazy-sunday",
+   "name": "Lazy Sunday",
+   "url": "https://www.youtube.com/watch?v=sRhTeaa_B98",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I don’t remember how I discovered The Lonely Island and Seth Meyers Podcast , but I’m really glad I did. Every episode is a dissection of one of the Lonely Island’s SNL digital shorts, a shocking number of which ended up being kind of culturally iconic.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-18-that-episode",
+   "name": "That episode",
+   "url": "https://www.youtube.com/watch?v=ps3OCyGARPA&list=PLR9ZV6ngzoSoOseURPwXOqGRaY2XNerj8&index=3",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I don’t remember how I discovered The Lonely Island and Seth Meyers Podcast , but I’m really glad I did. Every episode is a dissection of one of the Lonely Island’s SNL digital shorts, a shocking number of which ended up being kind of culturally iconic.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

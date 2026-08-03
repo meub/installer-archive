@@ -1,0 +1,401 @@
+{
+ "schema": 1,
+ "date": "2024-06-30",
+ "post_type": "issue",
+ "title": "The portable speakers you need this summer",
+ "url": "https://www.theverge.com/24188267/best-portable-bluetooth-speakers-boom-beats-installer",
+ "author": "David Pierce",
+ "number": 44,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-06-30-hot-dog-contests",
+   "name": "hot dog contests",
+   "url": "https://www.grubstreet.com/article/george-richard-shea-nathans-hot-dog-contest-joey-chestnut.html?origSession=D230906MFWlQqVt60CUOY5ubbUvkIAfRRZ2esV2u80koGGmszc%3D&_gl=1*thiar8*_gcl_au*ODA5NjQ0NTQyLjE3MTgyMDM3OTE.*FPAU*ODA5NjQ0NTQyLjE3MTgyMDM3OTE.*_ga*MTUwNDExNjU1MC4xNzE4MjAzNzkx*_ga_DNE38RK1HX*MTcxOTQyNTEyNi4zLjEuMTcxOTQyNTQzOS4wLjAuMjMzMzAwNTA0*_fplc*eUxiWVJscWQ2YVczMDhFYzdCaXNZV1FRTGdVWTN0eWFtQk5CeVY2a3dEWEFOTjhoQTdpVnFXT0RrWlpiTGdEOGU4Yk5Wa2MzRnB6c2hBRkxMNDFwNTcxQnZpZGl0TzVtUGlDUkFJJTJGVGFiSllFdnp2bkkyUmIzOVgyazBLTnclM0QlM0Q.#_ga=2.99469086.1460630708.1719425126-1504116550.1718203791",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about why I love the Boox Palma , reading about hot dog contests and the history of Markdown and the future of streaming , watching Shoresy and Federer and a lot of soccer (it’s been a very sports-y week), mourning the end of the Longform podcast , developing a strange…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-30-the-history-of-markdown",
+   "name": "the history of Markdown",
+   "url": "https://www.wired.com/story/the-eternal-truth-of-markdown/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about why I love the Boox Palma , reading about hot dog contests and the history of Markdown and the future of streaming , watching Shoresy and Federer and a lot of soccer (it’s been a very sports-y week), mourning the end of the Longform podcast , developing a strange…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-30-the-future-of-streaming",
+   "name": "the future of streaming",
+   "url": "https://www.nytimes.com/2024/06/22/technology/netflix-amazon-disney-sony-streaming.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about why I love the Boox Palma , reading about hot dog contests and the history of Markdown and the future of streaming , watching Shoresy and Federer and a lot of soccer (it’s been a very sports-y week), mourning the end of the Longform podcast , developing a strange…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-30-shoresy",
+   "name": "Shoresy",
+   "url": "https://www.themoviedb.org/tv/158756-shoresy?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been writing about why I love the Boox Palma , reading about hot dog contests and the history of Markdown and the future of streaming , watching Shoresy and Federer and a lot of soccer (it’s been a very sports-y week), mourning the end of the Longform podcast , developing a strange…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-30-federer",
+   "name": "Federer",
+   "url": "https://www.themoviedb.org/movie/1247031-federer-twelve-final-days?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been writing about why I love the Boox Palma , reading about hot dog contests and the history of Markdown and the future of streaming , watching Shoresy and Federer and a lot of soccer (it’s been a very sports-y week), mourning the end of the Longform podcast , developing a strange…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-30-longform-podcast",
+   "name": "Longform podcast",
+   "url": "https://longform.org/posts/longform-podcast-585-john-jeremiah-sullivan",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about why I love the Boox Palma , reading about hot dog contests and the history of Markdown and the future of streaming , watching Shoresy and Federer and a lot of soccer (it’s been a very sports-y week), mourning the end of the Longform podcast , developing a strange…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-30-salt-water-taffy",
+   "name": "salt water taffy",
+   "url": "https://taffyshop.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about why I love the Boox Palma , reading about hot dog contests and the history of Markdown and the future of streaming , watching Shoresy and Federer and a lot of soccer (it’s been a very sports-y week), mourning the end of the Longform podcast , developing a strange…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-30-the-ue-wonderboom-4",
+   "name": "The UE Wonderboom 4",
+   "url": "https://ultimate-ears.dubn.net/c/482924/1434069/8590?u=https%3A%2F%2Fus.ultimateears.com%2Fproducts%2Fwonderboom-4-active-black%3Fvariant%3D48836498391326",
+   "alt_urls": [
+    "https://ultimate-ears.dubn.net/c/482924/1434069/8590?u=https%3A%2F%2Fus.ultimateears.com%2Fproducts%2Feverboom"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "A few weeks ago, I said the best speaker advice I can give you was to buy a UE Wonderboom. I stand by this, especially now that there’s a new one that charges with USB-C! The new Everboom , with a built-in carabiner and some extra sound oomph, is very tempting, but you can’t beat this for $100.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-30-the-beats-pill",
+   "name": "The Beats Pill",
+   "url": "https://www.apple.com/shop/product/MW443LL/A/beats-pill-wireless-bluetooth-speaker-matte-black",
+   "alt_urls": [
+    "https://www.theverge.com/24185290/beats-pill-2024-bluetooth-speaker-review"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "More new speakers! I have a weakness for a nice-looking portable sound system, and the new Pill looks pretty great. Chris Welch likes how it sounds , and I love that it does wired audio and charges other gadgets through the USB-C port. Beats did well here, even if I’m still Wonderboomin’.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-30-verge-apparel",
+   "name": "Verge apparel",
+   "url": null,
+   "alt_urls": [
+    "https://shop.theverge.com/",
+    "https://www.theverge.com/24182647/verge-store-merch-shirt-hoodie-mug"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I really try not to shill for Verge stuff too much here, but I’m genuinely psyched about the new stuff we’ve been working on . I’m into the hoodie in particular, and the (finally properly sized) mug. Retooling our store has been a fun project, and I hope you like the stuff, too!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-30-death-of-the-follower-the-future-of-creativity-o",
+   "name": "Death of the Follower & the Future of Creativity on the Web",
+   "url": "https://www.youtube.com/watch?v=hwn6-8XpIuE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Death of the Follower & the Future of Creativity on the Web .” I always like hearing Jack Conte talk about the internet and stumbled on this SXSW talk in which he basically explains how “follow” and “subscribe” changed the world — and how we need to change it again.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-30-elevenlabs-reader",
+   "name": "ElevenLabs Reader",
+   "url": "https://elevenlabs.io/blog/introducing-elevenlabs-reader-app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "ElevenLabs does AI voices better than any product I’ve ever seen and built this iPhone app (with Android coming soon, apparently) in a really clever way. You just share any article or book or PDF to the app, pick a voice, and it’ll read it aloud.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-30-blackmagic-camera-for-android",
+   "name": "Blackmagic Camera for Android",
+   "url": "https://play.google.com/store/apps/details?id=com.blackmagicdesign.android.blackmagiccam",
+   "alt_urls": [
+    "https://www.theverge.com/2024/6/24/24184789/blackmagic-design-free-camera-app-android-samsung-galaxy-google-pixel"
+   ],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "There is a truly annoying lack of great third-party camera apps for Android, but this is a good one , with lots of manual controls and instant feedback. It’s only on a few phones for now, but I’ll take what I can get.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-30-notion-sites",
+   "name": "Notion Sites",
+   "url": "https://www.notion.so/product/sites",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is a small but very clever thing: build a Notion page and, with one click, publish it to the web. If you want, like, a one-page personal website or a quick and easy event page. This is way easier than just about anything else out there.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-30-the-bear-season-3",
+   "name": "The Bear season 3",
+   "url": "https://www.themoviedb.org/tv/136315-the-bear?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I agree with everyone who’s annoyed that Hulu dropped this season all at once instead of a week at a time — drag it out, give us time to obsess over it! That said, I will be watching every second of it this weekend. And then rewatching all three seasons as soon as I’m done.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-30-figma-slides",
+   "name": "Figma Slides",
+   "url": "https://www.figma.com/blog/figma-slides/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Figma got some really big updates across the board this week: a redesign, a bunch of AI stuff, and more. But Slides is particularly cool. It’s a mix of design tool and presentation tool, and it looks a whole lot more fun to play with than PowerPoint.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-30-iphone-15-pro",
+   "name": "iPhone 15 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 15 Pro.",
+   "section": "screen-share",
+   "recommender": "Sara"
+  },
+  {
+   "id": "2024-06-30-blackmagic-camera",
+   "name": "Blackmagic Camera",
+   "url": "https://www.blackmagicdesign.com/products/blackmagiccamera",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Blackmagic Camera . An AMAZING camera app that allows you to shoot Apple Log at a reasonable file size. (Shooting Log in Apple’s camera will leave you with massive ProRes HQ files.) Apple Notes .",
+   "section": "screen-share",
+   "recommender": "Sara"
+  },
+  {
+   "id": "2024-06-30-apple-notes",
+   "name": "Apple Notes",
+   "url": "https://apps.apple.com/us/app/notes/id1110145109",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Blackmagic Camera . An AMAZING camera app that allows you to shoot Apple Log at a reasonable file size. (Shooting Log in Apple’s camera will leave you with massive ProRes HQ files.) Apple Notes .",
+   "section": "screen-share",
+   "recommender": "Sara"
+  },
+  {
+   "id": "2024-06-30-nanit",
+   "name": "Nanit",
+   "url": "https://shareasale.com/r.cfm?b=918500&u=1225169&m=68043&urllink=https%3A%2F%2Fwww.nanit.com%2F",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Blackmagic Camera . An AMAZING camera app that allows you to shoot Apple Log at a reasonable file size. (Shooting Log in Apple’s camera will leave you with massive ProRes HQ files.) Apple Notes .",
+   "section": "screen-share",
+   "recommender": "Sara"
+  },
+  {
+   "id": "2024-06-30-adam-savages-tested",
+   "name": "Adam Savage’s Tested",
+   "url": "https://www.youtube.com/channel/UCiDJtJKMICpb9B1qf7qjEOA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Blackmagic Camera . An AMAZING camera app that allows you to shoot Apple Log at a reasonable file size. (Shooting Log in Apple’s camera will leave you with massive ProRes HQ files.) Apple Notes .",
+   "section": "screen-share",
+   "recommender": "Sara"
+  },
+  {
+   "id": "2024-06-30-really-bad-chess",
+   "name": "Really Bad Chess",
+   "url": "http://reallybadchess.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Seeing chess in Installer made me think of another great chess game! Really Bad Chess by Zach Gage is apparently really good for my brain. It’s available on iOS and Android with an in-app purchase, and it’s free if you pay for Apple Arcade!",
+   "section": "crowdsourced",
+   "recommender": "Harvey (reader)"
+  },
+  {
+   "id": "2024-06-30-17776",
+   "name": "17776",
+   "url": "https://www.sbnation.com/a/17776-football/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m sad that more people don’t know about “ 17776 ” and “ 20020 ,” stories from the far future about football and sapient satellites.",
+   "section": "crowdsourced",
+   "recommender": "Lego (reader)"
+  },
+  {
+   "id": "2024-06-30-20020",
+   "name": "20020",
+   "url": "https://www.sbnation.com/c/secret-base/21410129/20020",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m sad that more people don’t know about “ 17776 ” and “ 20020 ,” stories from the far future about football and sapient satellites.",
+   "section": "crowdsourced",
+   "recommender": "Lego (reader)"
+  },
+  {
+   "id": "2024-06-30-temptation-of-the-force",
+   "name": "Temptation of the Force",
+   "url": "https://www.penguinrandomhouse.com/books/730631/star-wars-temptation-of-the-force-the-high-republic-by-tessa-gratton/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just finished Temptation of the Force by Tessa Gratton. It’s the latest novel in the Star Wars: The High Republic storyline, and these continue to be some of my favorite books of the last 10 years, definitely in the Star Wars universe.",
+   "section": "crowdsourced",
+   "recommender": "Justin (reader)"
+  },
+  {
+   "id": "2024-06-30-umai-dry-vacuum-bags",
+   "name": "Umai Dry vacuum bags",
+   "url": "https://umaidry.com/pages/vacuum-sealer-recommendations",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Starting to cure a pancetta and capicola using Umai Dry vacuum bags . I don’t have a great place to cure and dry meats in our city home, so it’s nice to be able to do it in the fridge. Bonus: I get to use the new vacuum sealer my family got me for Father’s Day!",
+   "section": "crowdsourced",
+   "recommender": "Timothy (reader)"
+  },
+  {
+   "id": "2024-06-30-what-a-board-of-directors-does",
+   "name": "what a board of directors does",
+   "url": "https://www.anildash.com/2024/06/20/dash-board/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Anil Dash wrote up two posts on what a board of directors does , and it’s fascinating! Required reading if you’re into how corporate governance works.",
+   "section": "crowdsourced",
+   "recommender": "Richard (reader)"
+  },
+  {
+   "id": "2024-06-30-deep-rock-galactic-survivor",
+   "name": "Deep Rock Galactic: Survivor",
+   "url": "https://www.fundaygames.dk/deep-rock-galactic-survivor",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I cannot stop playing Deep Rock Galactic: Survivor on PC. In this roguelike, you’re a dwarf mining precious minerals and battling hordes of bugs on an alien planet. It’s ridiculously fun, easy to pick up, and the weapon and skill systems are ​thoroughly satisfying to navigate.",
+   "section": "crowdsourced",
+   "recommender": "Abhimanyu (reader)"
+  },
+  {
+   "id": "2024-06-30-light-phone",
+   "name": "Light Phone",
+   "url": "https://www.thelightphone.com/lightiii",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A while back, I went through the same journey you seem to be on: ‘I want a Light Phone , but… what if I just turned my iPhone into a Light Phone?’ The option I like most is building my own with Widgy Widgets . It’s a very powerful app that allows you to build your own widgets.",
+   "section": "crowdsourced",
+   "recommender": "Tom (reader)"
+  },
+  {
+   "id": "2024-06-30-widgy-widgets",
+   "name": "Widgy Widgets",
+   "url": "https://apps.apple.com/us/app/widgy-widgets-home-lock-watch/id1524540481",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "A while back, I went through the same journey you seem to be on: ‘I want a Light Phone , but… what if I just turned my iPhone into a Light Phone?’ The option I like most is building my own with Widgy Widgets . It’s a very powerful app that allows you to build your own widgets.",
+   "section": "crowdsourced",
+   "recommender": "Tom (reader)"
+  },
+  {
+   "id": "2024-06-30-service-model",
+   "name": "Service Model",
+   "url": "https://us.macmillan.com/books/9781250290281/servicemodel",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m about halfway through Adrian Tchaikovsky’s new sci-fi book, Service Model , and it’s a great story about AI and our reliance on technology. Can’t put it down!",
+   "section": "crowdsourced",
+   "recommender": "Sighjinks (reader)"
+  },
+  {
+   "id": "2024-06-30-the-great-food-truck-race",
+   "name": "The Great Food Truck Race",
+   "url": "https://www.themoviedb.org/tv/33665-the-great-food-truck-race?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Before we go to bed, my wife and I sit down almost every night to watch something together. Sometimes we talk through the whole thing, sometimes we watch the show, sometimes we sit and stare at our phones the whole time. It’s nice all three ways!",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

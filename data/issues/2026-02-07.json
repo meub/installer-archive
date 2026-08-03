@@ -1,0 +1,721 @@
+{
+ "schema": 1,
+ "date": "2026-02-07",
+ "post_type": "issue",
+ "title": "The best way to watch the Olympics",
+ "url": "https://www.theverge.com/tech/875154/how-to-watch-olympics-nintendo-muppets-installer",
+ "author": "David Pierce",
+ "number": 115,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:40+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-02-07-the-washington-post",
+   "name": "The Washington Post",
+   "url": "https://nymag.com/intelligencer/article/inside-the-washington-posts-existential-meltdown.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about The Washington Post and the Murdochs and Polymarket and whatever a “ Soho House for creators ” is, watching Independence Day for the first time and Jurassic Park for roughly the 50th, bailing on everything for the next few weeks so I can watch the Olympics…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-the-murdochs",
+   "name": "the Murdochs",
+   "url": "https://www.newyorker.com/magazine/2026/02/09/bonfire-of-the-murdochs-gabriel-sherman-book-review",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about The Washington Post and the Murdochs and Polymarket and whatever a “ Soho House for creators ” is, watching Independence Day for the first time and Jurassic Park for roughly the 50th, bailing on everything for the next few weeks so I can watch the Olympics…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-polymarket",
+   "name": "Polymarket",
+   "url": "https://www.wsj.com/finance/regulation/polymarket-prediction-markets-kalshi-dd4702d6",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about The Washington Post and the Murdochs and Polymarket and whatever a “ Soho House for creators ” is, watching Independence Day for the first time and Jurassic Park for roughly the 50th, bailing on everything for the next few weeks so I can watch the Olympics…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-soho-house-for-creators",
+   "name": "Soho House for creators",
+   "url": "https://www.curbed.com/article/lighthouse-online-creator-office-greenpoint-kickstarter.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about The Washington Post and the Murdochs and Polymarket and whatever a “ Soho House for creators ” is, watching Independence Day for the first time and Jurassic Park for roughly the 50th, bailing on everything for the next few weeks so I can watch the Olympics…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-independence-day",
+   "name": "Independence Day",
+   "url": "https://www.themoviedb.org/movie/602-independence-day?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about The Washington Post and the Murdochs and Polymarket and whatever a “ Soho House for creators ” is, watching Independence Day for the first time and Jurassic Park for roughly the 50th, bailing on everything for the next few weeks so I can watch the Olympics…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-jurassic-park",
+   "name": "Jurassic Park",
+   "url": "https://www.themoviedb.org/movie/329-jurassic-park?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about The Washington Post and the Murdochs and Polymarket and whatever a “ Soho House for creators ” is, watching Independence Day for the first time and Jurassic Park for roughly the 50th, bailing on everything for the next few weeks so I can watch the Olympics…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-the-olympics",
+   "name": "the Olympics",
+   "url": "https://www.olympics.com/en/milano-cortina-2026",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about The Washington Post and the Murdochs and Polymarket and whatever a “ Soho House for creators ” is, watching Independence Day for the first time and Jurassic Park for roughly the 50th, bailing on everything for the next few weeks so I can watch the Olympics…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-paso",
+   "name": "Paso",
+   "url": "https://paso.to/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about The Washington Post and the Murdochs and Polymarket and whatever a “ Soho House for creators ” is, watching Independence Day for the first time and Jurassic Park for roughly the 50th, bailing on everything for the next few weeks so I can watch the Olympics…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-more-about-furby",
+   "name": "more about Furby",
+   "url": "https://www.youtube.com/watch?v=qg5Gx_Qn75o",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about The Washington Post and the Murdochs and Polymarket and whatever a “ Soho House for creators ” is, watching Independence Day for the first time and Jurassic Park for roughly the 50th, bailing on everything for the next few weeks so I can watch the Olympics…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-claude",
+   "name": "Claude",
+   "url": "https://claude.ai/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about The Washington Post and the Murdochs and Polymarket and whatever a “ Soho House for creators ” is, watching Independence Day for the first time and Jurassic Park for roughly the 50th, bailing on everything for the next few weeks so I can watch the Olympics…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-peacocks-gold-zone",
+   "name": "Peacock’s Gold Zone",
+   "url": "https://imp.i305175.net/c/482924/828265/11640?u=https%3A%2F%2Fwww.peacocktv.com%2Fsports%2Fgold-zone-day-1%2F6b59103e-fe47-3901-ac47-18e2061cba31&partnerpropertyid=7032191",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is not strictly a new thing, really, just a PSA: For my money there is no better way to watch the Olympics than through Gold Zone, which whips around the Games to show you the most interesting thing happening at any given moment.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-raindrop-io-stella",
+   "name": "Raindrop.io Stella",
+   "url": "https://help.raindrop.io/stella",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A big AI-powered update to my favorite bookmarking app. So far, it’s what you’d expect: a much better way to search, ask questions about, and otherwise interact with your bookmarks. After trying a bunch of other apps, I’ve been back in on Raindrop recently, and this comes at the perfect time.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-super-nintendo",
+   "name": "Super Nintendo",
+   "url": "https://www.penguinrandomhouse.com/books/753986/super-nintendo-by-keza-macdonald/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I really don’t think there’s another company quite like Nintendo. Keza MacDonald’s book is a business story, a game story, and more besides — I’ve only just started reading it and I’ve already learned a ton. (Stay tuned, by the way: we have an excertp from the book running on the site on Monday.)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-codex-for-mac",
+   "name": "Codex for Mac",
+   "url": "https://developers.openai.com/codex/app",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "OpenAI’s answer to Claude Code got a desktop app, and I’ve been hearing pretty good things about it. I’m particularly intrigued by the Automations feature, which I intend to use to help clean up my Downloads folder every week or so.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-the-muppet-show",
+   "name": "The Muppet Show",
+   "url": "https://www.themoviedb.org/movie/1548113-the-muppet-show",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "The Muppets were such a big part of my childhood, and it’s so weird that my own kids have barely seen them. This new special is both modern — Sabrina Carpenter and Seth Rogen are in it! — and perfectly timeless. I’m going to make my kids watch it 65,000 times.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-you-are-being-misled-about-renewable-energy-tech",
+   "name": "You are being misled about renewable energy technology",
+   "url": "https://www.youtube.com/watch?v=KtQ9nt2ZeGM",
+   "alt_urls": [
+    "https://www.relay.fm/cortex/175"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ You are being misled about renewable energy technology .” After hearing Alec on the great State of the Workflow series , I’ve been watching a lot of Technology Connections. This one is rightly going viral, because it’s a rare mix of totally reasonable and utterly infuriating.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-dragon-quest-vii-reimagined",
+   "name": "Dragon Quest VII Reimagined",
+   "url": "https://dragonquest.square-enix-games.com/games/en-us/dragon-quest-vii-reimagined/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I swear, once a week someone ships a remastered game that makes me go “Oh, man, I forgot about that game!” Somehow this series is 40 years old, and though the cartoony screenshots don’t totally do it for me, I suspect a lot of folks will have a blast digging back into this one.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-the-retrova-vintage-imaging-kit",
+   "name": "The RetroVa Vintage Imaging Kit",
+   "url": "https://www.kickstarter.com/projects/pgytech/pgytech-retrova-vintage-imaging-kit/description",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [
+    "kickstarter"
+   ],
+   "blurb": "Yes, it’s a Kickstarter, so proceed with caution. But: We’ve seen this company’s smartphone camera lens extenders work on Vivo and Oppo phones, so there’s good reason to believe this kit will work well on iPhones too. (Bummer that a lot of features look like they require a proprietary app, though.)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-queen-of-chess",
+   "name": "Queen of Chess",
+   "url": "https://www.themoviedb.org/movie/1596291-queen-of-chess",
+   "alt_urls": [
+    "https://www.themoviedb.org/tv/87739-the-queen-s-gambit?language=en-US"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Before this documentary hit Netflix, I confess I knew almost nothing about Judit Polgár, who in 1991 became the youngest chess grandmaster ever. Her story is remarkable, and so is the way chess is depicted in this film — very Queen’s Gambit , in the best way.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-iphone-17-pro-max",
+   "name": "iPhone 17 Pro Max",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 17 Pro Max.",
+   "section": "screen-share",
+   "recommender": "Terry"
+  },
+  {
+   "id": "2026-02-07-are-na",
+   "name": "Are.na",
+   "url": "http://are.na",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The apps: Find My, Fastmail, Fantastical, ChatGPT, Claude, Carrot Weather, Photos, Things, Reddit, Instagram, Margin, Current, Ivory, Are.na , Bear, Recollect, Phone, Messages, Safari.",
+   "section": "screen-share",
+   "recommender": "Terry"
+  },
+  {
+   "id": "2026-02-07-fastmail",
+   "name": "Fastmail",
+   "url": "https://www.fastmail.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have a home folder on the top left which has all of my various home automation apps (I’m too lazy to complete my HomeAssistant rig). Then Find My, because my kids love to see where Mom is and how long it’ll be before she gets home.",
+   "section": "screen-share",
+   "recommender": "Terry"
+  },
+  {
+   "id": "2026-02-07-fantastical",
+   "name": "Fantastical",
+   "url": "https://flexibits.com/fantastical",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have a home folder on the top left which has all of my various home automation apps (I’m too lazy to complete my HomeAssistant rig). Then Find My, because my kids love to see where Mom is and how long it’ll be before she gets home.",
+   "section": "screen-share",
+   "recommender": "Terry"
+  },
+  {
+   "id": "2026-02-07-nugs",
+   "name": "Nugs",
+   "url": "https://www.nugs.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The media folder contains things like Nugs (sweet streaming concert videos), Music, Patreon , etc. There’s also my two handy robot friends ChatGPT and Claude… and Carrot Weather , which is pretty much a robot, actually, so I guess I have three robot friends.",
+   "section": "screen-share",
+   "recommender": "Terry"
+  },
+  {
+   "id": "2026-02-07-patreon",
+   "name": "Patreon",
+   "url": "https://www.patreon.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The media folder contains things like Nugs (sweet streaming concert videos), Music, Patreon , etc. There’s also my two handy robot friends ChatGPT and Claude… and Carrot Weather , which is pretty much a robot, actually, so I guess I have three robot friends.",
+   "section": "screen-share",
+   "recommender": "Terry"
+  },
+  {
+   "id": "2026-02-07-carrot-weather",
+   "name": "Carrot Weather",
+   "url": "https://www.meetcarrot.com/weather/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The media folder contains things like Nugs (sweet streaming concert videos), Music, Patreon , etc. There’s also my two handy robot friends ChatGPT and Claude… and Carrot Weather , which is pretty much a robot, actually, so I guess I have three robot friends.",
+   "section": "screen-share",
+   "recommender": "Terry"
+  },
+  {
+   "id": "2026-02-07-bear",
+   "name": "Bear",
+   "url": "https://bear.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The media folder contains things like Nugs (sweet streaming concert videos), Music, Patreon , etc. There’s also my two handy robot friends ChatGPT and Claude… and Carrot Weather , which is pretty much a robot, actually, so I guess I have three robot friends.",
+   "section": "screen-share",
+   "recommender": "Terry"
+  },
+  {
+   "id": "2026-02-07-recollect-fyi",
+   "name": "Recollect.fyi",
+   "url": "https://recollect.fyi/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The media folder contains things like Nugs (sweet streaming concert videos), Music, Patreon , etc. There’s also my two handy robot friends ChatGPT and Claude… and Carrot Weather , which is pretty much a robot, actually, so I guess I have three robot friends.",
+   "section": "screen-share",
+   "recommender": "Terry"
+  },
+  {
+   "id": "2026-02-07-fallout",
+   "name": "Fallout",
+   "url": "https://www.themoviedb.org/tv/106379-fallout",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Shows: Fallout , The Chair Company , Star Trek: TNG , Pluribus , Superstore (Recently watched) movies: Eddington , Master and Commander , Zootopia 2 (kids…) Listening: Thrice , anything by Motown bassist James Jamerson , Van Halen , and Thelonious Monk",
+   "section": "screen-share",
+   "recommender": "Terry"
+  },
+  {
+   "id": "2026-02-07-the-chair-company",
+   "name": "The Chair Company",
+   "url": "https://www.themoviedb.org/tv/271267-chair-company",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Shows: Fallout , The Chair Company , Star Trek: TNG , Pluribus , Superstore (Recently watched) movies: Eddington , Master and Commander , Zootopia 2 (kids…) Listening: Thrice , anything by Motown bassist James Jamerson , Van Halen , and Thelonious Monk",
+   "section": "screen-share",
+   "recommender": "Terry"
+  },
+  {
+   "id": "2026-02-07-star-trek-tng",
+   "name": "Star Trek: TNG",
+   "url": "https://www.themoviedb.org/tv/655-star-trek-the-next-generation?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Shows: Fallout , The Chair Company , Star Trek: TNG , Pluribus , Superstore (Recently watched) movies: Eddington , Master and Commander , Zootopia 2 (kids…) Listening: Thrice , anything by Motown bassist James Jamerson , Van Halen , and Thelonious Monk",
+   "section": "screen-share",
+   "recommender": "Terry"
+  },
+  {
+   "id": "2026-02-07-pluribus",
+   "name": "Pluribus",
+   "url": "https://www.themoviedb.org/tv/225171-pluribus?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Shows: Fallout , The Chair Company , Star Trek: TNG , Pluribus , Superstore (Recently watched) movies: Eddington , Master and Commander , Zootopia 2 (kids…) Listening: Thrice , anything by Motown bassist James Jamerson , Van Halen , and Thelonious Monk",
+   "section": "screen-share",
+   "recommender": "Terry"
+  },
+  {
+   "id": "2026-02-07-superstore",
+   "name": "Superstore",
+   "url": "https://www.themoviedb.org/tv/62649-superstore?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Shows: Fallout , The Chair Company , Star Trek: TNG , Pluribus , Superstore (Recently watched) movies: Eddington , Master and Commander , Zootopia 2 (kids…) Listening: Thrice , anything by Motown bassist James Jamerson , Van Halen , and Thelonious Monk",
+   "section": "screen-share",
+   "recommender": "Terry"
+  },
+  {
+   "id": "2026-02-07-eddington",
+   "name": "Eddington",
+   "url": "https://www.themoviedb.org/movie/648878-eddington?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Shows: Fallout , The Chair Company , Star Trek: TNG , Pluribus , Superstore (Recently watched) movies: Eddington , Master and Commander , Zootopia 2 (kids…) Listening: Thrice , anything by Motown bassist James Jamerson , Van Halen , and Thelonious Monk",
+   "section": "screen-share",
+   "recommender": "Terry"
+  },
+  {
+   "id": "2026-02-07-master-and-commander",
+   "name": "Master and Commander",
+   "url": "https://www.themoviedb.org/movie/8619-master-and-commander-the-far-side-of-the-world",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Shows: Fallout , The Chair Company , Star Trek: TNG , Pluribus , Superstore (Recently watched) movies: Eddington , Master and Commander , Zootopia 2 (kids…) Listening: Thrice , anything by Motown bassist James Jamerson , Van Halen , and Thelonious Monk",
+   "section": "screen-share",
+   "recommender": "Terry"
+  },
+  {
+   "id": "2026-02-07-zootopia-2",
+   "name": "Zootopia 2",
+   "url": "https://www.themoviedb.org/movie/1084242-zootopia-2?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Shows: Fallout , The Chair Company , Star Trek: TNG , Pluribus , Superstore (Recently watched) movies: Eddington , Master and Commander , Zootopia 2 (kids…) Listening: Thrice , anything by Motown bassist James Jamerson , Van Halen , and Thelonious Monk",
+   "section": "screen-share",
+   "recommender": "Terry"
+  },
+  {
+   "id": "2026-02-07-thrice",
+   "name": "Thrice",
+   "url": "https://thrice.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Shows: Fallout , The Chair Company , Star Trek: TNG , Pluribus , Superstore (Recently watched) movies: Eddington , Master and Commander , Zootopia 2 (kids…) Listening: Thrice , anything by Motown bassist James Jamerson , Van Halen , and Thelonious Monk",
+   "section": "screen-share",
+   "recommender": "Terry"
+  },
+  {
+   "id": "2026-02-07-james-jamerson",
+   "name": "James Jamerson",
+   "url": "https://en.wikipedia.org/wiki/James_Jamerson",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Shows: Fallout , The Chair Company , Star Trek: TNG , Pluribus , Superstore (Recently watched) movies: Eddington , Master and Commander , Zootopia 2 (kids…) Listening: Thrice , anything by Motown bassist James Jamerson , Van Halen , and Thelonious Monk",
+   "section": "screen-share",
+   "recommender": "Terry"
+  },
+  {
+   "id": "2026-02-07-van-halen",
+   "name": "Van Halen",
+   "url": "http://www.van-halen.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Shows: Fallout , The Chair Company , Star Trek: TNG , Pluribus , Superstore (Recently watched) movies: Eddington , Master and Commander , Zootopia 2 (kids…) Listening: Thrice , anything by Motown bassist James Jamerson , Van Halen , and Thelonious Monk",
+   "section": "screen-share",
+   "recommender": "Terry"
+  },
+  {
+   "id": "2026-02-07-thelonious-monk",
+   "name": "Thelonious Monk",
+   "url": "https://www.theloniousmonkmusic.com/#/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Shows: Fallout , The Chair Company , Star Trek: TNG , Pluribus , Superstore (Recently watched) movies: Eddington , Master and Commander , Zootopia 2 (kids…) Listening: Thrice , anything by Motown bassist James Jamerson , Van Halen , and Thelonious Monk",
+   "section": "screen-share",
+   "recommender": "Terry"
+  },
+  {
+   "id": "2026-02-07-batocera",
+   "name": "Batocera",
+   "url": "https://batocera.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I took an old mini desktop PC and threw Batocera on it so that I can play emulated games with a nice front end, and earn RetroAchievements while playing some old classics!",
+   "section": "crowdsourced",
+   "recommender": "Chris (reader)"
+  },
+  {
+   "id": "2026-02-07-retroachievements",
+   "name": "RetroAchievements",
+   "url": "https://retroachievements.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I took an old mini desktop PC and threw Batocera on it so that I can play emulated games with a nice front end, and earn RetroAchievements while playing some old classics!",
+   "section": "crowdsourced",
+   "recommender": "Chris (reader)"
+  },
+  {
+   "id": "2026-02-07-heir-to-the-empire-trilogy",
+   "name": "Heir to the Empire trilogy",
+   "url": "https://www.penguinrandomhouse.com/series/RWN/star-wars-the-thrawn-trilogy---legends/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Timothy Zahn’s Heir to the Empire trilogy , which is regarded as the best series of Star Wars books.",
+   "section": "crowdsourced",
+   "recommender": "Noah (reader)"
+  },
+  {
+   "id": "2026-02-07-the-audible-audiobooks",
+   "name": "the Audible audiobooks",
+   "url": "https://www.audibletrial.com/c/482924/982711/12951?u=https%3A%2F%2Fwww.audible.com%2Fseries%2FStar-Wars-The-Thrawn-Trilogy-Legends-Audiobooks%2FB0C447PKXY&partnerpropertyid=7032191",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Timothy Zahn’s Heir to the Empire trilogy , which is regarded as the best series of Star Wars books.",
+   "section": "crowdsourced",
+   "recommender": "Noah (reader)"
+  },
+  {
+   "id": "2026-02-07-fitera",
+   "name": "Fitera",
+   "url": "https://getfitera.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I started using this app called Fitera to track my workouts. If you were using Apple Notes to track workouts and then importing them to Microsoft Excel manually at home to visualize, then this solves that (very niche, albeit real) problem.",
+   "section": "crowdsourced",
+   "recommender": "Athan (reader)"
+  },
+  {
+   "id": "2026-02-07-foodnoms",
+   "name": "FoodNoms",
+   "url": "https://foodnoms.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I started using this app called Fitera to track my workouts. If you were using Apple Notes to track workouts and then importing them to Microsoft Excel manually at home to visualize, then this solves that (very niche, albeit real) problem.",
+   "section": "crowdsourced",
+   "recommender": "Athan (reader)"
+  },
+  {
+   "id": "2026-02-07-um-actually",
+   "name": "Um, Actually",
+   "url": "https://watch.dropout.tv/um-actually",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "​​Watching the new series of Um, Actually on Dropout, as well as rewatching some of my other Dropout top shows ( Game Changer , VIP , etc.). Did I mention how much I love Dropout?",
+   "section": "crowdsourced",
+   "recommender": "Andrew (reader)"
+  },
+  {
+   "id": "2026-02-07-game-changer",
+   "name": "Game Changer",
+   "url": "https://watch.dropout.tv/game-changer",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "​​Watching the new series of Um, Actually on Dropout, as well as rewatching some of my other Dropout top shows ( Game Changer , VIP , etc.). Did I mention how much I love Dropout?",
+   "section": "crowdsourced",
+   "recommender": "Andrew (reader)"
+  },
+  {
+   "id": "2026-02-07-vip",
+   "name": "VIP",
+   "url": "https://watch.dropout.tv/very-important-people",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "​​Watching the new series of Um, Actually on Dropout, as well as rewatching some of my other Dropout top shows ( Game Changer , VIP , etc.). Did I mention how much I love Dropout?",
+   "section": "crowdsourced",
+   "recommender": "Andrew (reader)"
+  },
+  {
+   "id": "2026-02-07-linux-mint",
+   "name": "Linux Mint",
+   "url": "https://linuxmint.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Switching to Linux Mint has removed all the Windows bloat and breathed new life into my eight-year-old laptop; it’s so much faster and pleasant to use now (and no start menu ads!).",
+   "section": "crowdsourced",
+   "recommender": "Sleepy (reader)"
+  },
+  {
+   "id": "2026-02-07-bs-phototime",
+   "name": "BS Phototime",
+   "url": "https://www.youtube.com/@BS-phototime",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’d like to recommend the podcast / YouTube channel BS Phototime . It features two accomplished and intelligent photographers, Sissi Lu and Birgit Buchart.",
+   "section": "crowdsourced",
+   "recommender": "Mark (reader)"
+  },
+  {
+   "id": "2026-02-07-wonder-man",
+   "name": "Wonder Man",
+   "url": "https://www.themoviedb.org/tv/198178-wonder-man?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Watching Wonder Man ! It feels like the LA LA Land of Marvel",
+   "section": "crowdsourced",
+   "recommender": "Jeremy (reader)"
+  },
+  {
+   "id": "2026-02-07-chronicles-of-a-liquid-society",
+   "name": "Chronicles of a Liquid Society",
+   "url": "https://www.harpercollins.com/products/chronicles-of-a-liquid-society-umberto-eco?variant=39935235719202",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m reading Chronicles of a Liquid Society , the last book from Umberto Eco. A collection of his editorials that read like blog posts. They range from 2000 onward, so some of the topics are now quaint (like the implausible idea in 2004 that every kid has a computer in class).",
+   "section": "crowdsourced",
+   "recommender": "Rich (reader)"
+  },
+  {
+   "id": "2026-02-07-bbc-archives-youtube-channel",
+   "name": "BBC Archive’s YouTube channel",
+   "url": "https://www.youtube.com/@BBCArchive",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Last week, thanks to Chris Mims, I spent some time on the BBC Archive’s YouTube channel . This evidently convinced the YouTube algorithm that all I want is really old TV segments — and honestly, it was correct.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-clips-from-the-old-top-gear-crew",
+   "name": "clips from the old Top Gear crew",
+   "url": "https://www.youtube.com/@TopGearClassic",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "When I haven’t been enjoying a treasure trove of well-curated clips from the old Top Gear crew , I’ve been watching a ton of old news clips from the early days of personal computing and the internet.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-way-too-difficult",
+   "name": "way too difficult",
+   "url": "https://www.youtube.com/watch?v=0KDdU0DCbJA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "When I haven’t been enjoying a treasure trove of well-curated clips from the old Top Gear crew , I’ve been watching a ton of old news clips from the early days of personal computing and the internet.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-just-a-startup-guy",
+   "name": "just a startup guy",
+   "url": "https://www.youtube.com/watch?v=KnXee-GN8AE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "When I haven’t been enjoying a treasure trove of well-curated clips from the old Top Gear crew , I’ve been watching a ton of old news clips from the early days of personal computing and the internet.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-was-just-a-bookseller",
+   "name": "was just a bookseller,",
+   "url": "https://www.youtube.com/watch?v=8OsY1V3iN6E",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "When I haven’t been enjoying a treasure trove of well-curated clips from the old Top Gear crew , I’ve been watching a ton of old news clips from the early days of personal computing and the internet.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-02-07-the-most-sci-fi-thing",
+   "name": "the most sci-fi thing",
+   "url": "https://www.youtube.com/watch?v=EpA8Lf8Gt1Q",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "When I haven’t been enjoying a treasure trove of well-curated clips from the old Top Gear crew , I’ve been watching a ton of old news clips from the early days of personal computing and the internet.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

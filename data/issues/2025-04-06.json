@@ -1,0 +1,580 @@
+{
+ "schema": 1,
+ "date": "2025-04-06",
+ "post_type": "issue",
+ "title": "One streaming app to (almost) rule them all",
+ "url": "https://www.theverge.com/installer-newsletter/643890/plex-delta-skylight-switch-2-installer",
+ "author": "David Pierce",
+ "number": 78,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-04-06-baseball-bats",
+   "name": "baseball bats",
+   "url": "https://www.espn.com/mlb/story/_/id/44477141/mlb-2025-torpedo-bowling-pin-bats-new-york-yankees-taking-baseball",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about baseball bats and work-life balance and BYD and Scarlett Johansson , watching Paradise , rekindling my love of pear-flavored jelly beans , sharing Robin Sloan’s AI take with anyone who will listen, grooving to the greatest unexpected Doechii remix of all time, and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-06-work-life-balance",
+   "name": "work-life balance",
+   "url": "https://www.theatlantic.com/family/archive/2025/04/work-email-slack-boundaries/682261/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about baseball bats and work-life balance and BYD and Scarlett Johansson , watching Paradise , rekindling my love of pear-flavored jelly beans , sharing Robin Sloan’s AI take with anyone who will listen, grooving to the greatest unexpected Doechii remix of all time, and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-06-byd",
+   "name": "BYD",
+   "url": "https://www.bloomberg.com/news/features/2024-10-16/electric-car-brand-byd-leads-race-to-make-cheap-evs-despite-tariffs",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about baseball bats and work-life balance and BYD and Scarlett Johansson , watching Paradise , rekindling my love of pear-flavored jelly beans , sharing Robin Sloan’s AI take with anyone who will listen, grooving to the greatest unexpected Doechii remix of all time, and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-06-scarlett-johansson",
+   "name": "Scarlett Johansson",
+   "url": "https://www.instyle.com/scarlett-johansson-interview-2025-11688161",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about baseball bats and work-life balance and BYD and Scarlett Johansson , watching Paradise , rekindling my love of pear-flavored jelly beans , sharing Robin Sloan’s AI take with anyone who will listen, grooving to the greatest unexpected Doechii remix of all time, and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-06-paradise",
+   "name": "Paradise",
+   "url": "https://www.themoviedb.org/tv/245927-paradise?language=en-US%27",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about baseball bats and work-life balance and BYD and Scarlett Johansson , watching Paradise , rekindling my love of pear-flavored jelly beans , sharing Robin Sloan’s AI take with anyone who will listen, grooving to the greatest unexpected Doechii remix of all time, and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-06-pear-flavored-jelly-beans",
+   "name": "pear-flavored jelly beans",
+   "url": "https://www.jellybelly.com/juicy-pear-jelly-beans-16-oz-re-sealable-bag/p/9000_JUICY_PEAR",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about baseball bats and work-life balance and BYD and Scarlett Johansson , watching Paradise , rekindling my love of pear-flavored jelly beans , sharing Robin Sloan’s AI take with anyone who will listen, grooving to the greatest unexpected Doechii remix of all time, and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-06-robin-sloans-ai-take",
+   "name": "Robin Sloan’s AI take",
+   "url": "https://www.robinsloan.com/lab/cybernetic-ceo/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about baseball bats and work-life balance and BYD and Scarlett Johansson , watching Paradise , rekindling my love of pear-flavored jelly beans , sharing Robin Sloan’s AI take with anyone who will listen, grooving to the greatest unexpected Doechii remix of all time, and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-06-unexpected-doechii-remix",
+   "name": "unexpected Doechii remix",
+   "url": "https://www.tiktok.com/@themcelroyfamily/video/7485525420050320671",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about baseball bats and work-life balance and BYD and Scarlett Johansson , watching Paradise , rekindling my love of pear-flavored jelly beans , sharing Robin Sloan’s AI take with anyone who will listen, grooving to the greatest unexpected Doechii remix of all time, and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-06-the-monitor-mount",
+   "name": "the monitor mount",
+   "url": "https://www.amazon.com/dp/B0BBLZT428?&linkCode=ll1&tag=theverge02-20&linkId=19f06e1d6c269f49078f99de2eea5aa0&language=en_US&tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "This week, I’ve been reading about baseball bats and work-life balance and BYD and Scarlett Johansson , watching Paradise , rekindling my love of pear-flavored jelly beans , sharing Robin Sloan’s AI take with anyone who will listen, grooving to the greatest unexpected Doechii remix of all time, and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-06-plex",
+   "name": "Plex",
+   "url": "https://www.plex.tv/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Plex has spent a lot of time and energy trying to become a proper, legit streaming platform, and the new mobile app is by far the most mainstream-useful thing it has ever made. Mixing streaming media with my library, and lots of discovery tools, feels really nice.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-06-delta-1-7",
+   "name": "Delta 1.7",
+   "url": "https://faq.deltaemulator.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The iPhone’s best game emulator, now with online multiplayer! (At least for DS games.) It also has nice screenshot support and some new N64-specific updates, which gives me great hope for the Mario Golf ROM I’ve already put too many hours into.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-06-skylight",
+   "name": "Skylight",
+   "url": "https://skylight.social/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It looks exactly like TikTok, but it runs on the same AT Protocol that powers Bluesky. That is a very enticing combination — and it’s a really nice app for something so brand new. Bluesky is really starting to look like the fediverse.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-06-celebrate-50-years-of-microsoft-with-the-company",
+   "name": "Celebrate 50 years of Microsoft with the company’s original source code",
+   "url": "https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week was the 50th anniversary of Microsoft, and Bill Gates marked the occasion by releasing all its original Altair BASIC source code — via one of the cooler retro-style websites you’ll ever use.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-06-the-nintendo-switch-2",
+   "name": "The Nintendo Switch 2",
+   "url": "https://www.nintendo.com/us/store/products/nintendo-switch-2-system-123669/",
+   "alt_urls": [
+    "https://www.theverge.com/nintendo/638604/nintendo-switch-2-direct-news-trailers-stream"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "I know, we’ve talked about this before, and I know, it’s not launching until June. But the new Switch — a console I am outrageously, maybe unprecedentedly, excited about, especially now that we’ve learned more about its specs and its game lineup — is officially launching in June, and I just needed…",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-06-i-hate-my-phone-so-i-got-rid-of-it",
+   "name": "I hate my phone so I got rid of it.",
+   "url": "https://www.youtube.com/watch?v=nnsyGSTKlw0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ I hate my phone so I got rid of it. ” Been a while since a 46-minute YouTube rant had me nodding this hard — but Eddy Burback does a great job of explaining both why our phones are a problem, and why life without a phone feels increasingly impossible. Using a landline? Can you imagine ?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-06-a-minecraft-movie",
+   "name": "A Minecraft Movie",
+   "url": "https://www.themoviedb.org/movie/950387-a-minecraft-movie",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "The reviews are meh, because of course they are. But I’ll watch Jack Black in anything, and I’m genuinely curious to see both what the blocky movie world looks like and how this very clearly Lego Movie- inspired flick pulls off the whole “just keep building” bit.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-06-devonthink-4-0",
+   "name": "DEVONthink 4.0",
+   "url": "https://www.devontechnologies.com/apps/devonthink",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "DEVONthink is, like, the ultimate Mac app for just storing all your junk. The design’s a little ’90s for my taste, but the new beta has some nice updates and a huge set of AI tools for finding, summarizing, and organizing content. I’m tempted to throw my whole life back in the app.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-06-koira",
+   "name": "Koira",
+   "url": "https://dont-nod.com/en/games/koira/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Another delightful entrant (for Steam and PS5) in one of my favorite game genres — the quiet, simple puzzler that never tries to do too much but somehow seems to keep your attention forever. Plus, you get a puppy friend!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-06-iphone-16-pro-max",
+   "name": "iPhone 16 Pro Max",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 16 Pro Max. I love the big phones and have embraced the PopSocket life.",
+   "section": "screen-share",
+   "recommender": "Shawn"
+  },
+  {
+   "id": "2025-04-06-things",
+   "name": "Things",
+   "url": "https://culturedcode.com/things/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Things , Bear , and Reeder are a few of my favorite apps of all time. I’ve used Reeder (now Reeder Classic) for a long time and have always been impressed with the app’s craftsmanship. The new Reeder is even better.",
+   "section": "screen-share",
+   "recommender": "Shawn"
+  },
+  {
+   "id": "2025-04-06-bear",
+   "name": "Bear",
+   "url": "https://bear.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Things , Bear , and Reeder are a few of my favorite apps of all time. I’ve used Reeder (now Reeder Classic) for a long time and have always been impressed with the app’s craftsmanship. The new Reeder is even better.",
+   "section": "screen-share",
+   "recommender": "Shawn"
+  },
+  {
+   "id": "2025-04-06-reeder",
+   "name": "Reeder",
+   "url": "https://apps.apple.com/us/app/reeder/id6475002485",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Things , Bear , and Reeder are a few of my favorite apps of all time. I’ve used Reeder (now Reeder Classic) for a long time and have always been impressed with the app’s craftsmanship. The new Reeder is even better.",
+   "section": "screen-share",
+   "recommender": "Shawn"
+  },
+  {
+   "id": "2025-04-06-youtube-channel",
+   "name": "YouTube channel",
+   "url": "https://www.youtube.com/@shawn.hickman",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I have a YouTube channel . I’ve been experimenting with shooting Apple Log, and the Blackmagic Camera app is by far the most flexible. You need to do a bit of learning, but it’s pretty sweet once you’ve gotten a handle on it.",
+   "section": "screen-share",
+   "recommender": "Shawn"
+  },
+  {
+   "id": "2025-04-06-blackmagic-camera",
+   "name": "Blackmagic Camera",
+   "url": "https://www.blackmagicdesign.com/products/blackmagiccamera",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have a YouTube channel . I’ve been experimenting with shooting Apple Log, and the Blackmagic Camera app is by far the most flexible. You need to do a bit of learning, but it’s pretty sweet once you’ve gotten a handle on it.",
+   "section": "screen-share",
+   "recommender": "Shawn"
+  },
+  {
+   "id": "2025-04-06-lightroom",
+   "name": "Lightroom",
+   "url": "https://adobe.prf.hn/click/camref:1011l3IdQV/destination:https%3A%2F%2Flightroom.adobe.com%2F",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have a YouTube channel . I’ve been experimenting with shooting Apple Log, and the Blackmagic Camera app is by far the most flexible. You need to do a bit of learning, but it’s pretty sweet once you’ve gotten a handle on it.",
+   "section": "screen-share",
+   "recommender": "Shawn"
+  },
+  {
+   "id": "2025-04-06-revenuecat",
+   "name": "RevenueCat",
+   "url": "https://www.revenuecat.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "RevenueCat is a great service that makes implementing and managing Sofa’s app subscriptions much easier.",
+   "section": "screen-share",
+   "recommender": "Shawn"
+  },
+  {
+   "id": "2025-04-06-severance",
+   "name": "Severance",
+   "url": "https://www.themoviedb.org/tv/95396-severance",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Severance . It’s probably my favorite TV show since the first season of Stranger Things … and I really want to buy one of the keyboards the MDR team uses! Now we must all endure the long wait for season 3.",
+   "section": "screen-share",
+   "recommender": "Shawn"
+  },
+  {
+   "id": "2025-04-06-one-of-the-keyboards",
+   "name": "one of the keyboards",
+   "url": "https://bsky.app/profile/basicappleguy.com/post/3llclmgvakc2q",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Severance . It’s probably my favorite TV show since the first season of Stranger Things … and I really want to buy one of the keyboards the MDR team uses! Now we must all endure the long wait for season 3.",
+   "section": "screen-share",
+   "recommender": "Shawn"
+  },
+  {
+   "id": "2025-04-06-benjamin-franklin",
+   "name": "Benjamin Franklin",
+   "url": "https://www.themoviedb.org/tv/156138-benjamin-franklin",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Severance . It’s probably my favorite TV show since the first season of Stranger Things … and I really want to buy one of the keyboards the MDR team uses! Now we must all endure the long wait for season 3.",
+   "section": "screen-share",
+   "recommender": "Shawn"
+  },
+  {
+   "id": "2025-04-06-the-roosevelts-an-intimate-history",
+   "name": "The Roosevelts: An Intimate History",
+   "url": "https://www.themoviedb.org/tv/65646-the-roosevelts-an-intimate-history",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Severance . It’s probably my favorite TV show since the first season of Stranger Things … and I really want to buy one of the keyboards the MDR team uses! Now we must all endure the long wait for season 3.",
+   "section": "screen-share",
+   "recommender": "Shawn"
+  },
+  {
+   "id": "2025-04-06-the-war",
+   "name": "The War",
+   "url": "https://www.themoviedb.org/tv/31750-the-war",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Severance . It’s probably my favorite TV show since the first season of Stranger Things … and I really want to buy one of the keyboards the MDR team uses! Now we must all endure the long wait for season 3.",
+   "section": "screen-share",
+   "recommender": "Shawn"
+  },
+  {
+   "id": "2025-04-06-framelines",
+   "name": "Framelines",
+   "url": "https://www.youtube.com/channel/UCg97Ni73ozwdoSytGSqTRyA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Severance . It’s probably my favorite TV show since the first season of Stranger Things … and I really want to buy one of the keyboards the MDR team uses! Now we must all endure the long wait for season 3.",
+   "section": "screen-share",
+   "recommender": "Shawn"
+  },
+  {
+   "id": "2025-04-06-and-now-magazines",
+   "name": "and now magazines",
+   "url": "https://frame-lines.com/en-us",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Severance . It’s probably my favorite TV show since the first season of Stranger Things … and I really want to buy one of the keyboards the MDR team uses! Now we must all endure the long wait for season 3.",
+   "section": "screen-share",
+   "recommender": "Shawn"
+  },
+  {
+   "id": "2025-04-06-dungeon-pages",
+   "name": "Dungeon Pages",
+   "url": "https://www.pnparcade.com/products/dungeon-pages-core-set",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I played Dungeon Pages for the first time on my iPad last night and REALLY enjoyed it! Would be even more enjoyable on paper to get away from doomscrolling for a while.",
+   "section": "crowdsourced",
+   "recommender": "Dylan (reader)"
+  },
+  {
+   "id": "2025-04-06-the-x-t50",
+   "name": "the X-T50",
+   "url": "https://www.fujifilm-x.com/en-us/products/cameras/x-t50/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I initially had my heart set on the Fujifilm X100VI, but a friend suggested the X-T50 . It’s been a great learning experience, and I’m pleased with the photos I’ve taken. I’m still discovering all the nuances of the Fujifilm ecosystem.",
+   "section": "crowdsourced",
+   "recommender": "Paul (reader)"
+  },
+  {
+   "id": "2025-04-06-simpli-soda",
+   "name": "Simpli Soda",
+   "url": "https://simplisoda.com/product/quick-connect-cylinders/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If you’re liking your SodaStream, you should check out Simpli Soda — they’re a family business out of SE Wisconsin that does mail-in cylinder swaps for all brands (including quick-connects like your SodaStream Art uses) for less $$.",
+   "section": "crowdsourced",
+   "recommender": "Cori (reader)"
+  },
+  {
+   "id": "2025-04-06-baldurs-gate-3",
+   "name": "Baldur’s Gate 3",
+   "url": "https://baldursgate3.game/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Late to the party, but Baldur’s Gate 3 . I was blown away by how quickly I got immersed, and I’m only on my first playthrough. I didn’t realize that it ran natively on macOS until last month.",
+   "section": "crowdsourced",
+   "recommender": "Drake (reader)"
+  },
+  {
+   "id": "2025-04-06-mealime",
+   "name": "Mealime",
+   "url": "https://www.mealime.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Wanted to recommend a great app I have been happily using (+ paying for) for five years that no one else seems to talk about: Mealime . It’s the perfect app if, like me, you struggle not only at planning recipes for the week but also the act of shopping itself.",
+   "section": "crowdsourced",
+   "recommender": "Drew (reader)"
+  },
+  {
+   "id": "2025-04-06-li-hing-pineapple-rings",
+   "name": "Li Hing pineapple rings",
+   "url": "https://wholesaleunlimitedhi.com/products/li-hing-gummy-pineapple-rings?_psq=li+hing+pine&_v=1.0",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I absolutely love Li Hing pineapple rings . I’m told they’re common in Hawaii, but on the East Coast, they’re new to me. Sour and delicious. I order mine from Wholesale Unlimited Hawaii , and they’re fun and delicious and unique.",
+   "section": "crowdsourced",
+   "recommender": "Steve (reader)"
+  },
+  {
+   "id": "2025-04-06-wholesale-unlimited-hawaii",
+   "name": "Wholesale Unlimited Hawaii",
+   "url": "https://wholesaleunlimitedhi.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I absolutely love Li Hing pineapple rings . I’m told they’re common in Hawaii, but on the East Coast, they’re new to me. Sour and delicious. I order mine from Wholesale Unlimited Hawaii , and they’re fun and delicious and unique.",
+   "section": "crowdsourced",
+   "recommender": "Steve (reader)"
+  },
+  {
+   "id": "2025-04-06-reacher",
+   "name": "Reacher",
+   "url": "https://www.themoviedb.org/tv/108978-reacher?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I finished watching Reacher season 3 on Prime Video. I liked the season as an action flick, but it doesn’t feel like a Reacher -level story. The investigation element was missing from this season. Season 1 was the strongest offering in this series.",
+   "section": "crowdsourced",
+   "recommender": "Ankur (reader)"
+  },
+  {
+   "id": "2025-04-06-johnny-decimal",
+   "name": "Johnny.Decimal",
+   "url": "https://johnnydecimal.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just found out about the Johnny.Decimal system last night. Diving in to reorganizing my work files as I descend further down the PKM rabbit hole.",
+   "section": "crowdsourced",
+   "recommender": "Dirk (reader)"
+  },
+  {
+   "id": "2025-04-06-otherwise-objectionable",
+   "name": "Otherwise Objectionable",
+   "url": "https://pod.link/1798723661",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Otherwise Objectionable is an excellent history of Section 230. Hosted by Mike Masnick and featuring recollections from the folks who were there at the inception of the ‘26 words that created the Internet.’ Section 230 is under threat (yet again), so it’s a good time to learn why it’s so important…",
+   "section": "crowdsourced",
+   "recommender": "Zip (reader)"
+  },
+  {
+   "id": "2025-04-06-jake-hurwitz-and-amir-blumenfeld",
+   "name": "Jake Hurwitz and Amir Blumenfeld",
+   "url": "https://en.wikipedia.org/wiki/Jake_and_Amir",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If you were extremely online during a very specific time period, the names Jake Hurwitz and Amir Blumenfeld might mean a lot to you. They were two of my first favorite online comedians, part of a brilliant CollegeHumor gang that was way ahead of its time making funny stuff on the internet.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-06-their-youtube-channel",
+   "name": "their YouTube channel",
+   "url": "https://www.youtube.com/@JakeandAmir",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "If you’ve never watched a Jake and Amir, head to their YouTube channel , sort by oldest, and give it a whirl .",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-06-give-it-a-whirl",
+   "name": "give it a whirl",
+   "url": "https://www.youtube.com/watch?v=fXLqAqoBcXM",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "If you’ve never watched a Jake and Amir, head to their YouTube channel , sort by oldest, and give it a whirl .",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-06-greatest-jake-and-amir-episode-ever",
+   "name": "Greatest Jake and Amir Episode Ever",
+   "url": "https://www.youtube.com/watch?v=N8jTzDuY9NE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "If you’ve never watched a Jake and Amir, head to their YouTube channel , sort by oldest, and give it a whirl .",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-04-06-their-patreon",
+   "name": "their Patreon",
+   "url": "https://www.patreon.com/ja",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If you’ve never watched a Jake and Amir, head to their YouTube channel , sort by oldest, and give it a whirl .",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

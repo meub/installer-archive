@@ -1,0 +1,507 @@
+{
+ "schema": 1,
+ "date": "2024-08-25",
+ "post_type": "issue",
+ "title": "The best smartphone photos of the year",
+ "url": "https://www.theverge.com/2024/8/25/24226795/best-smartphone-photos-2024-hollywood-hack-blink-twice-installer",
+ "author": "David Pierce",
+ "number": 49,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:36+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-08-25-upstart-baseball-teams",
+   "name": "upstart baseball teams",
+   "url": "https://www.theringer.com/mlb/2024/8/13/24216407/oakland-ballers-pro-sports-startup-athletics",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about upstart baseball teams and canceled comics and Francis Ford Coppola , watching Logan Lucky , binging Teo Crawford’s camera videos , listening to The Mess Around and thus rewatching New Girl for the millionth time, trying to plan a trip to the Nintendo Museum this…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-25-canceled-comics",
+   "name": "canceled comics",
+   "url": "https://www.newyorker.com/culture/persons-of-interest/matt-rifes-sleepless-summer",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about upstart baseball teams and canceled comics and Francis Ford Coppola , watching Logan Lucky , binging Teo Crawford’s camera videos , listening to The Mess Around and thus rewatching New Girl for the millionth time, trying to plan a trip to the Nintendo Museum this…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-25-francis-ford-coppola",
+   "name": "Francis Ford Coppola",
+   "url": "https://www.gq.com/story/francis-ford-coppola-50-years-after-the-godfather",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about upstart baseball teams and canceled comics and Francis Ford Coppola , watching Logan Lucky , binging Teo Crawford’s camera videos , listening to The Mess Around and thus rewatching New Girl for the millionth time, trying to plan a trip to the Nintendo Museum this…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-25-logan-lucky",
+   "name": "Logan Lucky",
+   "url": "https://www.themoviedb.org/movie/399170-logan-lucky?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about upstart baseball teams and canceled comics and Francis Ford Coppola , watching Logan Lucky , binging Teo Crawford’s camera videos , listening to The Mess Around and thus rewatching New Girl for the millionth time, trying to plan a trip to the Nintendo Museum this…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-25-teo-crawfords-camera-videos",
+   "name": "Teo Crawford’s camera videos",
+   "url": "https://www.youtube.com/@teocrawford",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about upstart baseball teams and canceled comics and Francis Ford Coppola , watching Logan Lucky , binging Teo Crawford’s camera videos , listening to The Mess Around and thus rewatching New Girl for the millionth time, trying to plan a trip to the Nintendo Museum this…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-25-the-mess-around",
+   "name": "The Mess Around",
+   "url": "https://www.iheart.com/podcast/1119-the-mess-around-with-hann-91519104/?cmp=ios_share&sc=ios_social_share&pr=false&autoplay=true",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about upstart baseball teams and canceled comics and Francis Ford Coppola , watching Logan Lucky , binging Teo Crawford’s camera videos , listening to The Mess Around and thus rewatching New Girl for the millionth time, trying to plan a trip to the Nintendo Museum this…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-25-new-girl",
+   "name": "New Girl",
+   "url": "https://www.themoviedb.org/tv/1420-new-girl?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about upstart baseball teams and canceled comics and Francis Ford Coppola , watching Logan Lucky , binging Teo Crawford’s camera videos , listening to The Mess Around and thus rewatching New Girl for the millionth time, trying to plan a trip to the Nintendo Museum this…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-25-a-trip-to-the-nintendo-museum",
+   "name": "a trip to the Nintendo Museum",
+   "url": "https://www.wired.com/story/nintendo-museum-kyoto-reinvents-classic-games/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about upstart baseball teams and canceled comics and Francis Ford Coppola , watching Logan Lucky , binging Teo Crawford’s camera videos , listening to The Mess Around and thus rewatching New Girl for the millionth time, trying to plan a trip to the Nintendo Museum this…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-25-capacities",
+   "name": "Capacities",
+   "url": "https://capacities.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about upstart baseball teams and canceled comics and Francis Ford Coppola , watching Logan Lucky , binging Teo Crawford’s camera videos , listening to The Mess Around and thus rewatching New Girl for the millionth time, trying to plan a trip to the Nintendo Museum this…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-25-recommended-it-this-week",
+   "name": "recommended it this week",
+   "url": "https://www.platformer.news/ai-productivity-apps-capacities-raycast-readwise/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about upstart baseball teams and canceled comics and Francis Ford Coppola , watching Logan Lucky , binging Teo Crawford’s camera videos , listening to The Mess Around and thus rewatching New Girl for the millionth time, trying to plan a trip to the Nintendo Museum this…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-25-veritasium",
+   "name": "Veritasium",
+   "url": "https://www.youtube.com/@veritasium",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "And in the spirit of this unexpectedly podcast-filled week, I have a question: who’s your favorite lesser-known creator? We all know and love Veritasium and MKBHD , but I want to hear about all the ones that deserve just as much shine.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-25-mkbhd",
+   "name": "MKBHD",
+   "url": "https://www.youtube.com/user/marquesbrownlee",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "And in the spirit of this unexpectedly podcast-filled week, I have a question: who’s your favorite lesser-known creator? We all know and love Veritasium and MKBHD , but I want to hear about all the ones that deserve just as much shine.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-25-the-iphone-photography-awards-winners",
+   "name": "The iPhone Photography Awards winners",
+   "url": "https://www.ippawards.com/2024-winning-photographers/?v=3e8d115eb4b3",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The IPPA’s photographer of the year shoots on an iPhone 11! These winning photos are always an amazing source of inspiration (and wallpapers, just saying), and it’s particularly cool in this AI-heavy moment to see how awesome photographers still are.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-25-the-hollywood-hack",
+   "name": "The Hollywood Hack",
+   "url": "https://www.theringer.com/the-hollywood-hack",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Sony hack was 10 years ago, and the whole entertainment business is still feeling the ramifications. Love this pod so far, which is so far roughly equal parts about what happened and what it did to Hollywood.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-25-blink-twice",
+   "name": "Blink Twice",
+   "url": "https://www.themoviedb.org/movie/840705-blink-twice?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Channing Tatum. Playing a tech billionaire. In a murder-y thriller. I’m getting big Glass Onion vibes from this one, and I couldn’t be more excited.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-25-apple-podcasts-for-web",
+   "name": "Apple Podcasts for web",
+   "url": "https://podcasts.apple.com/us/browse",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
+   "blurb": "Apple made a good web app! I kind of still can’t believe it! Apple Podcasts is a great platform, and this goes a long way toward making it feel a little less locked to your specific devices. This plus the automatic transcripts has me genuinely considering switching.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-25-oceanxplorers",
+   "name": "OceanXplorers",
+   "url": "https://www.themoviedb.org/tv/118477-oceanxplorers",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This NatGeo show feels like a mix of Planet Earth and the scene in every James Bond movie where Bond gets to test out a bunch of wildly futuristic new gadgets. I’m enjoying learning about the high-tech ship and submarines as much as I am seeing the amazing footage they’re capturing.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-25-flip-video-was-successful-so-they-killed-it",
+   "name": "“Flip Video Was Successful! So They Killed It?”",
+   "url": "https://www.youtube.com/watch?v=s_GhYiIMQpE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I had straight-up forgotten about the Flip camera, and I had no idea how many strange twists and turns this product — and the company that made it — went through. A super fun tech time capsule, this one.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-25-the-wirecutter-show",
+   "name": "The Wirecutter Show",
+   "url": "https://link.chtbl.com/cxraerdM",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have been a loyal Wirecutter shopper forever, and the new pod fits the site’s vibe perfectly. Lots of tips and tricks, lots of behind-the-scenes testing stuff — I wound up taking furious notes during both of the first two episodes.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-25-why-everything-is-a-monopoly-again",
+   "name": "Why Everything is a Monopoly… Again",
+   "url": "https://www.youtube.com/watch?v=ukUGMPB1PT8",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Why Everything is a Monopoly… Again .” We’re in a pretty wild antitrust moment, right? This is a brisk, broad look at how it all works and how we got to the point where no matter what you’re doing or using or buying, you’re probably encountering a monopoly.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-25-the-ring-battery-doorbell",
+   "name": "The Ring Battery Doorbell",
+   "url": "https://ring.com/products/battery-doorbell",
+   "alt_urls": [
+    "https://www.theverge.com/2024/8/21/24223639/ring-battery-doorbell-camera-price-release-date-specs"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Longer battery, easier install, wider frame of video, night vision in color — it’s not a ground-breaking new idea about video doorbells, but it sure looks like a better video doorbell . If only I could convince myself to let me install one…",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-08-25-iphone-15-pro",
+   "name": "iPhone 15 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 15 Pro.",
+   "section": "screen-share",
+   "recommender": "Liam"
+  },
+  {
+   "id": "2024-08-25-fantastical",
+   "name": "Fantastical",
+   "url": "https://flexibits.com/fantastical",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a big fan of the large widget carousel that automatically flips to whatever iOS thinks is most relevant to me. I only keep 3 widgets within: Fantastical — which I will sorely miss when I move to a Pixel — Apple News , and Carrot Weather .",
+   "section": "screen-share",
+   "recommender": "Liam"
+  },
+  {
+   "id": "2024-08-25-apple-news",
+   "name": "Apple News",
+   "url": "https://www.apple.com/apple-news/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a big fan of the large widget carousel that automatically flips to whatever iOS thinks is most relevant to me. I only keep 3 widgets within: Fantastical — which I will sorely miss when I move to a Pixel — Apple News , and Carrot Weather .",
+   "section": "screen-share",
+   "recommender": "Liam"
+  },
+  {
+   "id": "2024-08-25-carrot-weather",
+   "name": "Carrot Weather",
+   "url": "https://www.meetcarrot.com/weather/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a big fan of the large widget carousel that automatically flips to whatever iOS thinks is most relevant to me. I only keep 3 widgets within: Fantastical — which I will sorely miss when I move to a Pixel — Apple News , and Carrot Weather .",
+   "section": "screen-share",
+   "recommender": "Liam"
+  },
+  {
+   "id": "2024-08-25-ios-18-beta",
+   "name": "iOS 18 beta",
+   "url": "https://beta.apple.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a big fan of the large widget carousel that automatically flips to whatever iOS thinks is most relevant to me. I only keep 3 widgets within: Fantastical — which I will sorely miss when I move to a Pixel — Apple News , and Carrot Weather .",
+   "section": "screen-share",
+   "recommender": "Liam"
+  },
+  {
+   "id": "2024-08-25-apple-podcasts",
+   "name": "Apple Podcasts",
+   "url": "https://www.apple.com/apple-podcasts/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My job has forced me to use Apple Podcasts in order to keep a close eye on our shows, and you know what? It has really come a long way. In my opinion, it is the only podcast app that is capable of recommending shows you’d actually want to try out.",
+   "section": "screen-share",
+   "recommender": "Liam"
+  },
+  {
+   "id": "2024-08-25-wiser-than-me-with-julia-louis-dreyfus",
+   "name": "Wiser Than Me with Julia Louis-Dreyfus",
+   "url": "https://lemonadamedia.com/show/wiser-than-me-with-julia-louis-dreyfus/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My job has forced me to use Apple Podcasts in order to keep a close eye on our shows, and you know what? It has really come a long way. In my opinion, it is the only podcast app that is capable of recommending shows you’d actually want to try out.",
+   "section": "screen-share",
+   "recommender": "Liam"
+  },
+  {
+   "id": "2024-08-25-the-episode-featuring-award-winning-author-isabe",
+   "name": "the episode featuring award-winning author Isabel Allende",
+   "url": "https://lemonadamedia.com/podcast/julia-gets-wise-with-isabel-allende/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My job has forced me to use Apple Podcasts in order to keep a close eye on our shows, and you know what? It has really come a long way. In my opinion, it is the only podcast app that is capable of recommending shows you’d actually want to try out.",
+   "section": "screen-share",
+   "recommender": "Liam"
+  },
+  {
+   "id": "2024-08-25-dola",
+   "name": "Dola",
+   "url": "https://heydola.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have found Dola indispensable. It’s free — what’s free anymore? It can write to Apple Calendar and is available on iMessage and WhatsApp; it’s incredibly useful as my productivity and task tracker and amazing for reminders.",
+   "section": "crowdsourced",
+   "recommender": "Andrew (reader)"
+  },
+  {
+   "id": "2024-08-25-the-serpent-queen",
+   "name": "The Serpent Queen",
+   "url": "https://www.themoviedb.org/tv/118189-the-serpent-queen",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The Serpent Queen . This Starz show is about 16th century Queen Catherine de’ Medici of France and her travails and triumphs. There is much court intrigue, perhaps murdering, perhaps poisoning, perhaps a really good time for the viewer.",
+   "section": "crowdsourced",
+   "recommender": "Romeo (reader)"
+  },
+  {
+   "id": "2024-08-25-saovivo",
+   "name": "SAOViVO",
+   "url": "https://saovivo.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been using this app called SAOViVO that is free and open source, and what it does is: it takes videos in your YouTube Channel, makes a queue out of them, and sends them back to YouTube as a live feed.",
+   "section": "crowdsourced",
+   "recommender": "Nicolas (reader)"
+  },
+  {
+   "id": "2024-08-25-graindead",
+   "name": "Graindead",
+   "url": "https://www.youtube.com/@graindead",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I have to recommend a great new YouTube channel called Graindead . A very deadpan channel about film cameras. “ Buying The Cheapest Cameras In Japan ” is a must-watch. Full of Classic British self-deprecating humor. “ A $1000 Lens Cap ” is also an interesting watch.",
+   "section": "crowdsourced",
+   "recommender": "Owen (reader)"
+  },
+  {
+   "id": "2024-08-25-buying-the-cheapest-cameras-in-japan",
+   "name": "Buying The Cheapest Cameras In Japan",
+   "url": "https://www.youtube.com/watch?v=HF4YagBjvHI",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I have to recommend a great new YouTube channel called Graindead . A very deadpan channel about film cameras. “ Buying The Cheapest Cameras In Japan ” is a must-watch. Full of Classic British self-deprecating humor. “ A $1000 Lens Cap ” is also an interesting watch.",
+   "section": "crowdsourced",
+   "recommender": "Owen (reader)"
+  },
+  {
+   "id": "2024-08-25-a-1000-lens-cap",
+   "name": "A $1000 Lens Cap",
+   "url": "https://www.youtube.com/watch?v=9_bpoLtQr8U",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I have to recommend a great new YouTube channel called Graindead . A very deadpan channel about film cameras. “ Buying The Cheapest Cameras In Japan ” is a must-watch. Full of Classic British self-deprecating humor. “ A $1000 Lens Cap ” is also an interesting watch.",
+   "section": "crowdsourced",
+   "recommender": "Owen (reader)"
+  },
+  {
+   "id": "2024-08-25-dress-to-impress",
+   "name": "Dress to Impress",
+   "url": "https://www.roblox.com/games/15101393044/Dress-To-Impress",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Dress to Impress on Roblox . It is like Among Us in the pandemic era, but for WFH ‘gurlies.’",
+   "section": "crowdsourced",
+   "recommender": "Sam (reader)"
+  },
+  {
+   "id": "2024-08-25-asus-rog-zephyrus-g14",
+   "name": "Asus ROG Zephyrus G14",
+   "url": "https://rog.asus.com/us/laptops/rog-zephyrus/rog-zephyrus-g14-2024/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am headed on a 5.5-hour flight to Hawaii, and I am very much looking forward to bringing the Asus ROG Zephyrus G14 to, wait for it… play EA Sports FC the whole way! Was inspired by a podcast I had listened to recently , I think…",
+   "section": "crowdsourced",
+   "recommender": "Richard (reader)"
+  },
+  {
+   "id": "2024-08-25-black-myth-wukong",
+   "name": "Black Myth: Wukong",
+   "url": "https://www.heishenhua.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "People worry about Chinese EVs coming to America, but people should keep an eye on Chinese game developers because Black Myth: Wukong just came out, and it has over 2 million players on Steam, shattering Elden Ring and Cyberpunk ’s records.",
+   "section": "crowdsourced",
+   "recommender": "John (reader)"
+  },
+  {
+   "id": "2024-08-25-add-eddie",
+   "name": "Add Eddie",
+   "url": "https://www.addeddie.com",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Add Eddie is a simple app for creating QR codes to your social profiles, messengers, vCards, payment services, websites, and more. It is a godsend for networking in real life, especially as a widget on my phone’s homescreen and on the Apple Watch.",
+   "section": "crowdsourced",
+   "recommender": "Dewa (reader)"
+  },
+  {
+   "id": "2024-08-25-apple-music",
+   "name": "Apple Music",
+   "url": "https://music.apple.com/us/browse",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "One of several reasons I couldn’t use anything else besides Apple Music is that it’s the only one with a music locker. I have uploaded tons of stuff: Commodore 64 remixes, missing KLF, Brian May and Jean-Michel Jarre albums, bootlegs, etc. The integration is great, too (if you have Apple stuff).",
+   "section": "crowdsourced",
+   "recommender": "Mathias (reader)"
+  },
+  {
+   "id": "2024-08-25-the-secret-history",
+   "name": "The Secret History",
+   "url": "https://bookshop.org/p/books/the-secret-history-donna-tartt/7827917",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
+   "blurb": "I’ve been reading The Secret History by Donna Tartt, and I’m surprised I didn’t read it sooner! It’s so good, and I’m so interested to see how it’s going to end!",
+   "section": "crowdsourced",
+   "recommender": "Flávio (reader)"
+  }
+ ]
+}

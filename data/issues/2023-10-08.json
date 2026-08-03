@@ -1,0 +1,431 @@
+{
+ "schema": 1,
+ "date": "2023-10-08",
+ "post_type": "issue",
+ "title": "The AI gadgets are coming",
+ "url": "https://www.theverge.com/23906577/ai-gadgets-humane-pin-pixel-8-asassins-creed-spotify-microsoft-installer",
+ "author": "David Pierce",
+ "number": 9,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "pro-tips",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:37+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2023-10-08-zeke-fauxs-excellent-crypto-book",
+   "name": "Zeke Faux’s excellent crypto book",
+   "url": "https://www.penguinrandomhouse.com/books/711959/number-go-up-by-zeke-faux/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading Zeke Faux’s excellent crypto book and the story of the viral cookies that suddenly disappeared , trying desperately to figure out what the heck the Humane AI Pin actually does, pouring all my notes and tasks into NotePlan , watching the new-to-Netflix season of The…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-08-the-story-of-the-viral-cookies-that-suddenly-dis",
+   "name": "the story of the viral cookies that suddenly disappeared",
+   "url": "https://thebaffler.com/salvos/a-bakers-secrets-denison",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading Zeke Faux’s excellent crypto book and the story of the viral cookies that suddenly disappeared , trying desperately to figure out what the heck the Humane AI Pin actually does, pouring all my notes and tasks into NotePlan , watching the new-to-Netflix season of The…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-08-noteplan",
+   "name": "NotePlan",
+   "url": "https://noteplan.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading Zeke Faux’s excellent crypto book and the story of the viral cookies that suddenly disappeared , trying desperately to figure out what the heck the Humane AI Pin actually does, pouring all my notes and tasks into NotePlan , watching the new-to-Netflix season of The…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-08-the-great-british-baking-show",
+   "name": "The Great British Baking Show",
+   "url": "https://www.netflix.com/title/80063224",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "This week, I’ve been reading Zeke Faux’s excellent crypto book and the story of the viral cookies that suddenly disappeared , trying desperately to figure out what the heck the Humane AI Pin actually does, pouring all my notes and tasks into NotePlan , watching the new-to-Netflix season of The…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-08-the-sphere-in-vegas",
+   "name": "The Sphere in Vegas",
+   "url": "https://www.youtube.com/watch?v=v3uRvJcM3z8",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading Zeke Faux’s excellent crypto book and the story of the viral cookies that suddenly disappeared , trying desperately to figure out what the heck the Humane AI Pin actually does, pouring all my notes and tasks into NotePlan , watching the new-to-Netflix season of The…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-08-the-history-of-the-altavista-search-engine",
+   "name": "the history of the AltaVista search engine",
+   "url": "https://www.vice.com/en/article/y3gn5v/whatever-happened-to-altavista-our-first-good-search-engine",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading Zeke Faux’s excellent crypto book and the story of the viral cookies that suddenly disappeared , trying desperately to figure out what the heck the Humane AI Pin actually does, pouring all my notes and tasks into NotePlan , watching the new-to-Netflix season of The…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-08-google-pixel-watch-2",
+   "name": "Google Pixel Watch 2",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://store.google.com/product/pixel_watch_2?hl=en-US",
+   "alt_urls": [
+    "https://www.theverge.com/2023/10/4/23895660/google-pixel-8-event-news-roundup",
+    "https://www.anrdoezrs.net/links/8836598/type/dlg/https://store.google.com/product/pixel_8_pro?hl=en-US",
+    "https://www.anrdoezrs.net/links/8836598/type/dlg/https://store.google.com/product/pixel_buds_pro?hl=en-US",
+    "https://www.theverge.com/23896271/pixel-watch-2-hands-on-google-price-specs"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Google launched the Pixel 8 phone lineup this week and some cool updates to the Pixel Buds Pro headphones, but I think the new $349.99 watch is the best new thing of the bunch .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-08-assassins-creed-mirage",
+   "name": "Assassin’s Creed Mirage",
+   "url": "https://www.ubisoft.com/en-us/game/assassins-creed/mirage",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I haven’t played this one yet, but I hear great things, and I love me some Assassin’s Creed. For years, it’s been basically the same game, only relentlessly bigger and more confusing, but this Egypt-set installment appears to be a return to its relentless form.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-08-forza-motorsport",
+   "name": "Forza Motorsport",
+   "url": "https://forza.net/motorsport",
+   "alt_urls": [
+    "https://www.theverge.com/23905255/forza-motorsport-launch-date-first-impressions"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "My other long-weekend project. An ultra-realistic, ultra-detailed game with endless side quests and upgrade tasks is pretty much everything I can ask for in a racing game. Now I just have to figure out how to sneak a full simulator rig into my house without anyone noticing…",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-08-spotify-audiobooks",
+   "name": "Spotify audiobooks",
+   "url": "https://www.spotify.com/us/audiobooks/",
+   "alt_urls": [
+    "https://www.theverge.com/2023/10/3/23902039/spotify-audiobooks-subscription-podcast-audible-amazon-pushkin"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I don’t love the way audiobooks are integrated within Spotify, but I do love getting 15 hours of audiobook listening a month with a Premium subscription.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-08-the-rewind-pendant",
+   "name": "The Rewind Pendant",
+   "url": "https://www.rewind.ai/pendant",
+   "alt_urls": [
+    "https://www.theverge.com/2023/3/23/23653127/rewind-ai-chatgpt-for-me-chatbot-mac"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This is straight out of sci-fi: a device you wear around your neck that records everything you say and hear, summarizes it, and tells you what matters later. Awesome? Horrifying? Who knows. But Rewind is definitely one of the most interesting companies in AI .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-08-loki-season-2",
+   "name": "Loki season 2",
+   "url": "https://disneyplus.bn5x.net/c/482924/564546/9358?u=https%3A%2F%2Fwww.disneyplus.com%2Fseries%2Floki%2F6pARMvILBGzF%3Fcid%3DDTCI-Synergy-Disneycom-Site-Awareness-Originals-US-Marvel-Loki-EN-HomeScreenBanner-Stream_on_DisneyPlus_button_Loki_Season_2_show_page-NA&subid1=Installer100623",
+   "alt_urls": [
+    "https://www.theverge.com/23901027/loki-season-2-review-marvel-disney-plus"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Loki and Wandavision are easily my two favorite Marvel shows from the last few years, so I was psyched to see Tom Hiddleston back as the universe’s favorite long-haired trickster. And unlike so many Marvel things recently, Loki ’s second season is pretty good !",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-08-the-new-microsoft-lists",
+   "name": "The new Microsoft Lists",
+   "url": "https://www.microsoft.com/en-us/microsoft-365/microsoft-lists",
+   "alt_urls": [
+    "https://www.theverge.com/2023/10/3/23901682/microsoft-onedrive-new-design-copilot-offline-features"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Microsoft is quietly building a really great set of simple productivity tools — between the also-new OneDrive , the always-great To Do, and the new Lists app that’s great for everything from shopping lists to to-watch lists, the ecosystem here is looking pretty great.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-08-this-is-financial-advice",
+   "name": "This is financial advice",
+   "url": "https://www.youtube.com/watch?v=5pYeoZaoWrA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ This is financial advice .” Someday, I won’t reflexively tell everyone to watch everything Folding Ideas publishes. Today is not that day: this is a 2.5-hour video about GameStop, WallStreetBets, Bed Bath & Beyond, the modern economy, and much more. Watch it. Watch it twice. Take notes.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-08-the-pixel-8s-generative-wallpapers",
+   "name": "The Pixel 8’s generative wallpapers",
+   "url": "https://blog.google/products/android/new-android-features-generative-ai/",
+   "alt_urls": [
+    "https://www.theverge.com/2023/5/10/23718088/google-android-14-ai-wallpaper-messages-magic-compose-io"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve become a big fan of frequently changing my wallpaper ever since Canoopsy recommended it in Installer a few weeks ago. Google’s new tool, which uses generative AI to create a wallpaper based on your prompts , is a super fun way to quickly make a wallpaper to match any mood of the day.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-08-orion",
+   "name": "Orion",
+   "url": "https://orion.tube/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A couple of weeks ago, I mentioned in Installer that a new app called Orion had come out. It turns your iPad into a display for pretty much anything that uses a display, from a game console to a Windows 98 computer . It’s a simple concept, but Orion is a really fun and clever app.",
+   "section": "pro-tips",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-08-a-windows-98-computer",
+   "name": "a Windows 98 computer",
+   "url": "https://www.tiktok.com/@verge/video/7285376730733301035",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A couple of weeks ago, I mentioned in Installer that a new app called Orion had come out. It turns your iPad into a display for pretty much anything that uses a display, from a game console to a Windows 98 computer . It’s a simple concept, but Orion is a really fun and clever app.",
+   "section": "pro-tips",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-08-a-halide-update",
+   "name": "a Halide update",
+   "url": "https://apps.apple.com/us/app/halide-mark-ii-pro-camera/id885697368",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Tether it to your camera. “As a photographer, I use Orion with my camera when I am doing a small video production.",
+   "section": "pro-tips",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-08-iphone-13",
+   "name": "iPhone 13",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 13",
+   "section": "screen-share",
+   "recommender": "Taylor"
+  },
+  {
+   "id": "2023-10-08-the-internets-favorite-meme",
+   "name": "the internet’s favorite meme",
+   "url": "https://knowyourmeme.com/memes/kevin-james-smirking-getty-image",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: the internet’s favorite meme",
+   "section": "screen-share",
+   "recommender": "Taylor"
+  },
+  {
+   "id": "2023-10-08-brian-jordan-alvarez",
+   "name": "Brian Jordan Alvarez",
+   "url": "https://www.tiktok.com/@brianjordanalvarez?referer_url=www.vulture.com%2F2023%2F10%2Fbrian-jordan-alvarez-tiktok-characters-explained.html&refer=embed&embed_source=121355058%2C121351166%2C121331973%2C120811592%2C120810756%3Bnull%3Bembed_masking&referer_video_id=7277315001944247594’",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Brian Jordan Alvarez extended univers e. This man has created an entire cast of characters on his TikTok. Blood in the Machine , Brian Merchant’s new book about the Luddite movement, is phenomenal. I can’t put it down! The Luddites have been so unfairly maligned.",
+   "section": "screen-share",
+   "recommender": "Taylor"
+  },
+  {
+   "id": "2023-10-08-an-entire-cast-of-characters",
+   "name": "an entire cast of characters",
+   "url": "https://www.vulture.com/2023/10/brian-jordan-alvarez-tiktok-characters-explained.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Brian Jordan Alvarez extended univers e. This man has created an entire cast of characters on his TikTok. Blood in the Machine , Brian Merchant’s new book about the Luddite movement, is phenomenal. I can’t put it down! The Luddites have been so unfairly maligned.",
+   "section": "screen-share",
+   "recommender": "Taylor"
+  },
+  {
+   "id": "2023-10-08-blood-in-the-machine",
+   "name": "Blood in the Machine",
+   "url": "https://www.hachettebookgroup.com/titles/brian-merchant/blood-in-the-machine/9780316487740/?lens=little-brown",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Brian Jordan Alvarez extended univers e. This man has created an entire cast of characters on his TikTok. Blood in the Machine , Brian Merchant’s new book about the Luddite movement, is phenomenal. I can’t put it down! The Luddites have been so unfairly maligned.",
+   "section": "screen-share",
+   "recommender": "Taylor"
+  },
+  {
+   "id": "2023-10-08-the-otherworld-podcast",
+   "name": "The Otherworld podcast",
+   "url": "https://www.otherworldpod.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Brian Jordan Alvarez extended univers e. This man has created an entire cast of characters on his TikTok. Blood in the Machine , Brian Merchant’s new book about the Luddite movement, is phenomenal. I can’t put it down! The Luddites have been so unfairly maligned.",
+   "section": "screen-share",
+   "recommender": "Taylor"
+  },
+  {
+   "id": "2023-10-08-discover-quickly",
+   "name": "Discover Quickly",
+   "url": "http://discoverquickly.com",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Discover Quickly lets you fall into a rabbit hole of your Spotify library by letting you traverse through music quickly and visually.",
+   "section": "crowdsourced",
+   "recommender": "Karan (reader)"
+  },
+  {
+   "id": "2023-10-08-rurouni-kenshin",
+   "name": "Rurouni Kenshin",
+   "url": "https://www.crunchyroll.com/series/G0XHWM1NK/rurouni-kenshin",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Currently watching the remake of Rurouni Kenshin anime in Crunchyroll.",
+   "section": "crowdsourced",
+   "recommender": "Christian (reader)"
+  },
+  {
+   "id": "2023-10-08-pi",
+   "name": "Pi",
+   "url": "https://pi.ai/talk",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just have to let you know that for whatever reason, Pi is the most slept-on conversational AI there is, by far. It is capable of handling complex searches in the background and formatting the information it’s scanned to present it in a highly digestible and highly human way.",
+   "section": "crowdsourced",
+   "recommender": "Jacob (reader)"
+  },
+  {
+   "id": "2023-10-08-fallout-shelter",
+   "name": "Fallout Shelter",
+   "url": "https://bethesda.net/en/game/falloutshelter",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Fallout Shelter . Highly engaging strategy game, to just survive against all odds. Played two consecutive nights without dropping the tablet. Once you figure out the overall survival plan, maybe it’s easy. Yet to be determined.",
+   "section": "crowdsourced",
+   "recommender": "Prabhat (reader)"
+  },
+  {
+   "id": "2023-10-08-paprika",
+   "name": "Paprika",
+   "url": "https://www.paprikaapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Paprika . An app that lets you save recipes from anywhere, Raindrop-style, but it also extracts the ingredients and steps from even the most seo-text-laden of webpages. It’s so good.",
+   "section": "crowdsourced",
+   "recommender": "Luke (reader)"
+  },
+  {
+   "id": "2023-10-08-runpee",
+   "name": "RunPee",
+   "url": "https://runpee.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been using and recommending RunPee to people for like over 10 years now. I know the UI / UX leaves a lot to be desired, but it’s an amazing app. When you’re watching a movie and need to pee, you open the app, and it tells you good times you can run to the bathroom.",
+   "section": "crowdsourced",
+   "recommender": "Ryan (reader)"
+  },
+  {
+   "id": "2023-10-08-wellness",
+   "name": "Wellness",
+   "url": "https://www.penguinrandomhouse.com/books/717451/wellness-by-nathan-hill/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Wellness by Nathan Hill! Arc Max for browsing.",
+   "section": "crowdsourced",
+   "recommender": "Nation (reader)"
+  },
+  {
+   "id": "2023-10-08-arc-max",
+   "name": "Arc Max",
+   "url": "https://arc.net/max",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Wellness by Nathan Hill! Arc Max for browsing.",
+   "section": "crowdsourced",
+   "recommender": "Nation (reader)"
+  },
+  {
+   "id": "2023-10-08-cocoon",
+   "name": "Cocoon",
+   "url": "https://www.cocoongame.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If you’re into challenging puzzle games that also look positively gorgeous and sound absolutely mesmerizing, you cannot miss Cocoon . I just finished it (takes a couple of hours) but was consistently amazed at the art (both visual and audio) and the puzzle design.",
+   "section": "crowdsourced",
+   "recommender": "Ismar (reader)"
+  },
+  {
+   "id": "2023-10-08-the-good-wife",
+   "name": "The Good Wife",
+   "url": "https://paramountplus.qflm.net/c/482924/175360/3065?u=https%3A%2F%2Fwww.paramountplus.com%2Fshows%2Fthe_good_wife%2F&subid1=Installer100623",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "For reasons I don’t fully understand, everyone I know seems to be rewatching The Good Wife . Myself included.",
+   "section": "crowdsourced",
+   "recommender": "Peter (reader)"
+  },
+  {
+   "id": "2023-10-08-ember-tumbler",
+   "name": "Ember Tumbler",
+   "url": "https://ember.com/products/ember-tumbler?variant=43379319570617",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I got an Ember Tumbler this week, the new $200 mug from the company that specializes in temperature-regulating drinkware. The company sent it to me to test, and I’ll end up writing something about it, but using it the last few days has reminded me of why tech is so much fun.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

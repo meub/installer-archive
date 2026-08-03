@@ -1,0 +1,508 @@
+{
+ "schema": 1,
+ "date": "2026-03-21",
+ "post_type": "issue",
+ "title": "An early contender for movie of the year",
+ "url": "https://www.theverge.com/tech/898265/project-hail-mary-airpods-max-2-installer",
+ "author": "David Pierce",
+ "number": 120,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "group-project",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:40+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-03-21-banksy",
+   "name": "Banksy",
+   "url": "https://www.reuters.com/investigates/special-report/global-art-banksy/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Banksy and music apps and influencer agents , watching Netflix docs about the manosphere and The Red Hot Chili Peppers , marveling at Ed Sheeran and Benny Blanco writing songs , enjoying Young Sherlock more than I expected, instantly subscribing to Joanna Stern’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-music-apps",
+   "name": "music apps",
+   "url": "https://hicks.design/journal/my-perfect-music-app-doesnt-exist",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Banksy and music apps and influencer agents , watching Netflix docs about the manosphere and The Red Hot Chili Peppers , marveling at Ed Sheeran and Benny Blanco writing songs , enjoying Young Sherlock more than I expected, instantly subscribing to Joanna Stern’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-influencer-agents",
+   "name": "influencer agents",
+   "url": "https://www.wsj.com/lifestyle/careers/uta-influencer-managers-ali-berman-raina-penchansky-alix-earle-5094867f?gaa_at=eafs&gaa_n=AWEtsqej5An9xvJuJ_254snS3IHREaCKEO8rKl21jc71H9o4toZVDvov3p3s-HIYEiI%3D&gaa_ts=69ac4c73&gaa_sig=pP9Unuslv_5SsaU8L96OiKNiBhQnT3Q3qW4bQcqvY9QKL9jRxv7NQQoHTqzKZyDru7nL4-3mbufHitWJhaoOSA%3D%3D",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Banksy and music apps and influencer agents , watching Netflix docs about the manosphere and The Red Hot Chili Peppers , marveling at Ed Sheeran and Benny Blanco writing songs , enjoying Young Sherlock more than I expected, instantly subscribing to Joanna Stern’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-the-manosphere",
+   "name": "the manosphere",
+   "url": "https://www.themoviedb.org/movie/1633264-louis-theroux-inside-the-manosphere",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about Banksy and music apps and influencer agents , watching Netflix docs about the manosphere and The Red Hot Chili Peppers , marveling at Ed Sheeran and Benny Blanco writing songs , enjoying Young Sherlock more than I expected, instantly subscribing to Joanna Stern’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-the-red-hot-chili-peppers",
+   "name": "The Red Hot Chili Peppers",
+   "url": "https://www.themoviedb.org/movie/1482168-the-rise-of-the-red-hot-chili-peppers-our-brother-hillel",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about Banksy and music apps and influencer agents , watching Netflix docs about the manosphere and The Red Hot Chili Peppers , marveling at Ed Sheeran and Benny Blanco writing songs , enjoying Young Sherlock more than I expected, instantly subscribing to Joanna Stern’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-ed-sheeran-and-benny-blanco-writing-songs",
+   "name": "Ed Sheeran and Benny Blanco writing songs",
+   "url": "https://www.youtube.com/watch?v=YgtfHLUIggU",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Banksy and music apps and influencer agents , watching Netflix docs about the manosphere and The Red Hot Chili Peppers , marveling at Ed Sheeran and Benny Blanco writing songs , enjoying Young Sherlock more than I expected, instantly subscribing to Joanna Stern’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-young-sherlock",
+   "name": "Young Sherlock",
+   "url": "https://www.themoviedb.org/tv/255661-young-sherlock-holmes",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Banksy and music apps and influencer agents , watching Netflix docs about the manosphere and The Red Hot Chili Peppers , marveling at Ed Sheeran and Benny Blanco writing songs , enjoying Young Sherlock more than I expected, instantly subscribing to Joanna Stern’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-joanna-sterns-new-tech-channel",
+   "name": "Joanna Stern’s new tech channel",
+   "url": "https://thenewthings.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Banksy and music apps and influencer agents , watching Netflix docs about the manosphere and The Red Hot Chili Peppers , marveling at Ed Sheeran and Benny Blanco writing songs , enjoying Young Sherlock more than I expected, instantly subscribing to Joanna Stern’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-sleep-with-me",
+   "name": "Sleep With Me",
+   "url": "https://www.sleepwithmepodcast.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Banksy and music apps and influencer agents , watching Netflix docs about the manosphere and The Red Hot Chili Peppers , marveling at Ed Sheeran and Benny Blanco writing songs , enjoying Young Sherlock more than I expected, instantly subscribing to Joanna Stern’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-unbeatable-costco-mix",
+   "name": "unbeatable Costco mix",
+   "url": "https://www.costco.com/p/-/ghirardelli-triple-chocolate-premium-brownie-mix-6-count/100381454",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Banksy and music apps and influencer agents , watching Netflix docs about the manosphere and The Red Hot Chili Peppers , marveling at Ed Sheeran and Benny Blanco writing songs , enjoying Young Sherlock more than I expected, instantly subscribing to Joanna Stern’s…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-project-hail-mary",
+   "name": "Project Hail Mary",
+   "url": "https://www.themoviedb.org/movie/687163-project-hail-mary",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "According to basically everyone I know and read, you need to see this movie. In a theater. As soon as humanly possible. I confess I didn’t like the book quite as much as The Martian — I loved that book and movie both — but I’m still getting tickets for this one this weekend.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-the-airpods-max-2",
+   "name": "The AirPods Max 2",
+   "url": "https://www.apple.com/airpods-max/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Honestly? It is outrageous to me that Apple updated these headphones without making them lighter or fixing that stupid charging case. But, in the sense that these are “AirPods Max only better,” they are better in a bunch of really useful ways. Just, I mean, the case. Come on.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-jury-duty-season-two",
+   "name": "Jury Duty season two",
+   "url": "https://www.themoviedb.org/tv/222023-jury-duty",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The first season was one of the sneaky delights of my recent TV history, to the point where I still kind of believe it was too good to be true. And apparently they’ve pulled it off again! The setup this time is a company retreat, and I am so ready for it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-netlify-new",
+   "name": "Netlify.New",
+   "url": "https://app.netlify.com/start",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I only recently discovered Netlify, which is an astonishingly simple way to deploy web apps. The platform’s newest feature — integrating AI agents so you can also create an app with a prompt — works surprisingly well, and is a fun way to noodle with some actually functional vibe-coded software.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-the-boox-go-10-3-gen-ii",
+   "name": "The Boox Go 10.3 Gen II",
+   "url": "https://shop.boox.com/products/go103gen2",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A nice update to a big ol’ e-reader. You get a new(er) version of Android, a nice front light (if you buy the Lumi model, which you should), and as ever all the Android apps you can stomach on an E Ink display.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-the-laundry-chair",
+   "name": "The Laundry Chair",
+   "url": "https://www.kickstarter.com/projects/simonegiertz/laundry-chair-the-bedroom-chair-you-have-always-wanted",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [
+    "kickstarter"
+   ],
+   "blurb": "Nobody does it like Simone Giertz. This project is extremely fun and a little retro, and also shockingly practical! I am forever guilty of throwing my clothes on a chair, and the idea of organizing that chaos a little bit without having to actually clean up is very appealing.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-claude-cowork-dispatch",
+   "name": "Claude Cowork Dispatch",
+   "url": "https://support.claude.com/en/articles/13947068-assign-tasks-to-claude-from-anywhere-in-cowork",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Another day, another OpenClaw But Less Dangerous. I’m fascinated by the extent to which messaging apps are becoming the interface to these AI agents, and how much powerful stuff people are willing to do from their phones.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-google-ai-studio-build",
+   "name": "Google AI Studio Build",
+   "url": "https://aistudio.google.com/apps",
+   "alt_urls": [
+    "https://stitch.withgoogle.com/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "A big swing at Claude Code, done Gemini-style. I’ve heard good things about what people are building (and I’m also hearing good things about Stitch , the company’s new AI design system). Seems like we’re heading toward a really interesting, three-way battle to be your AI Everything App.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-leuchtturm1917",
+   "name": "Leuchtturm1917",
+   "url": "https://www.leuchtturm1917.us/",
+   "alt_urls": [
+    "https://www.leuchtturm1917.us/classic-notebooks-1.html"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The big winner in my inbox this week was this German company, whose Classic Notebooks appear to be pretty much universally loved. They come in lots of sizes and colors, but I heard the most love for the A5 size. I bought a couple.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-field-notes",
+   "name": "Field Notes",
+   "url": "https://fieldnotesbrand.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "No particular surprise here — there’s just nobody doing tiny, durable, well-designed notebooks the way Field Notes does. A few of you mentioned using these as more disposable companions to larger, more permanent notebooks, and I like that idea a lot.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-baronfig",
+   "name": "Baronfig",
+   "url": "https://baronfig.com/",
+   "alt_urls": [
+    "https://baronfig.com/products/confidant-hardcover-notebook",
+    "https://baronfig.com/products/squire"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "A bunch of you love the Confidant notebook, which is also one I’ve used and liked in the past. Got a couple of votes for the Squire pen, too, which is $65 but y’all swear it’s worth it.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-travelers-company",
+   "name": "Traveler’s Company.",
+   "url": "https://travelerscompanyusa.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is a completely new brand to me, but it has not only popular notebooks but a whole ecosystem of accessories, charms, holders, and clips, so you can thoroughly overengineer your notebook setup. Very much my kind of thing.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-lamy-safari",
+   "name": "LAMY Safari",
+   "url": "https://www.lamy.com/en-us/p/lamy-safari-fountain-pen",
+   "alt_urls": [
+    "https://www.lamy.com/en-us/p/lamy-cp1-rollerball-pen/55111650083150"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The LAMY Safari , and the upgraded CP1 .",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-fisher-space-pen",
+   "name": "Fisher Space Pen",
+   "url": "https://www.spacepen.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Fisher Space Pen .",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-lepen-le-pen",
+   "name": "LePen Le Pen",
+   "url": "https://mylepen.com/collections/le-pen/products/le-pen",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The LePen Le Pen .",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-uni-ball-eye-fine",
+   "name": "Uni-Ball Eye Fine",
+   "url": "https://uniball.co.uk/brands/eye/uni-ball-eye-ub-157/",
+   "alt_urls": [
+    "https://www.unibrands.co/products/jetstream-rt-ballpoint-pens?variant=39362274656462"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The Uni-Ball Eye Fine and JetStream .",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-pilot-precise-v5",
+   "name": "Pilot Precise V5",
+   "url": "https://powertothepen.com/pens/precise-v5-rt/",
+   "alt_urls": [
+    "https://www.theverge.com/24066524/pilot-pen-precise-refillable-v5-v7-availability"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The Pilot Precise V5 . (No one wrote in about this, but my colleague Liz will kill me if I don’t mention her favorite pen in the whole wide world .)",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-fela-kuti-fear-no-man",
+   "name": "Fela Kuti: Fear No Man",
+   "url": "https://pod.link/1835735529",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just finished part one of 13 of Fela Kuti: Fear No Man , which had completely passed me by until I saw it on both The New Yorker ’s and The Guardian ’s end-of-year podcast lists.",
+   "section": "crowdsourced",
+   "recommender": "Richard (reader)"
+  },
+  {
+   "id": "2026-03-21-wikipedia-gacha",
+   "name": "Wikipedia Gacha",
+   "url": "https://wikigacha.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Unfortunately, I’ve become slightly obsessed with Wikipedia Gacha , the new Wikipedia card-collecting game.",
+   "section": "crowdsourced",
+   "recommender": "Yoinks (reader)"
+  },
+  {
+   "id": "2026-03-21-rekindle",
+   "name": "Rekindle",
+   "url": "https://rekindle.ink/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just found out about the Rekindle site, which adds a load of tools / games / utilities to your Kindle through the browser in an E Ink-friendly webpage!",
+   "section": "crowdsourced",
+   "recommender": "Andrew (reader)"
+  },
+  {
+   "id": "2026-03-21-the-fall-and-rise-of-reggie-dinkins",
+   "name": "The Fall and Rise of Reggie Dinkins",
+   "url": "https://www.themoviedb.org/tv/291334-the-fall-and-rise-of-reggie-dinkins",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’m watching The Fall and Rise of Reggie Dinkins (basically 30 Rock ) and Scrubs (literally Scrubs ) so I’m desperately trying to trick my brain into thinking it’s 2008.",
+   "section": "crowdsourced",
+   "recommender": "Zach (reader)"
+  },
+  {
+   "id": "2026-03-21-30-rock",
+   "name": "30 Rock",
+   "url": "https://www.themoviedb.org/tv/4608-30-rock",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’m watching The Fall and Rise of Reggie Dinkins (basically 30 Rock ) and Scrubs (literally Scrubs ) so I’m desperately trying to trick my brain into thinking it’s 2008.",
+   "section": "crowdsourced",
+   "recommender": "Zach (reader)"
+  },
+  {
+   "id": "2026-03-21-scrubs",
+   "name": "Scrubs",
+   "url": "https://www.themoviedb.org/tv/295778-scrubs",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’m watching The Fall and Rise of Reggie Dinkins (basically 30 Rock ) and Scrubs (literally Scrubs ) so I’m desperately trying to trick my brain into thinking it’s 2008.",
+   "section": "crowdsourced",
+   "recommender": "Zach (reader)"
+  },
+  {
+   "id": "2026-03-21-strongbox",
+   "name": "Strongbox",
+   "url": "https://strongboxsafe.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As 1Password increased the price I tried Strongbox and it is even nicer.",
+   "section": "crowdsourced",
+   "recommender": "Serghei (reader)"
+  },
+  {
+   "id": "2026-03-21-esoteric-ebb",
+   "name": "Esoteric Ebb",
+   "url": "https://esotericebb.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After what felt like a street-level advertising blitz this past Friday, I picked up Esoteric Ebb on Steam and proceeded to spend most of the weekend playing it! I have not played Disco Elysium yet, but I hear this is very much in that vein of games.",
+   "section": "crowdsourced",
+   "recommender": "Adam (reader)"
+  },
+  {
+   "id": "2026-03-21-disco-elysium",
+   "name": "Disco Elysium",
+   "url": "https://discoelysium.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After what felt like a street-level advertising blitz this past Friday, I picked up Esoteric Ebb on Steam and proceeded to spend most of the weekend playing it! I have not played Disco Elysium yet, but I hear this is very much in that vein of games.",
+   "section": "crowdsourced",
+   "recommender": "Adam (reader)"
+  },
+  {
+   "id": "2026-03-21-nyt-connections",
+   "name": "NYT Connections",
+   "url": "https://www.nytimes.com/games/connections",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently discovered the daily illustration that accompanies each NYT Connections puzzle, accessed by pressing the lightbulb icon above the puzzle. It gives a little hint or two about the solution in a really nice creative way.",
+   "section": "crowdsourced",
+   "recommender": "Tom (reader)"
+  },
+  {
+   "id": "2026-03-21-new-pebble-2-duos",
+   "name": "new Pebble 2 Duos",
+   "url": "https://repebble.com/watch#p2d",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I wore an Apple Watch for years. Then I got one of the new Pebble 2 Duos , which I like! Except I don’t like how it looks. I also want a little less technology on my body at all times, so I’ve been back in the market for a relatively non-fancy but also non-ugly watch to wear.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-casio-modders",
+   "name": "Casio modders",
+   "url": "https://www.reddit.com/r/casiomods/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "So far, the best part of my journey has been going down the rabbit hole of Casio modders : watchmakers taking apart these simple digital watches and upgrading them in all sorts of ways. Sometimes they get new features, sometimes they’re basically torn down and rebuilt entirely from scratch.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-this-modified-a700",
+   "name": "this modified A700",
+   "url": "https://urawatches.com/products/obsidian-black-a700-modified-casio-watch",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "So far, the best part of my journey has been going down the rabbit hole of Casio modders : watchmakers taking apart these simple digital watches and upgrading them in all sorts of ways. Sometimes they get new features, sometimes they’re basically torn down and rebuilt entirely from scratch.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-21-adam-savages-casio-royale-watch",
+   "name": "Adam Savage’s Casio Royale watch",
+   "url": "https://www.youtube.com/watch?v=DDv-GFTo87E",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "So far, the best part of my journey has been going down the rabbit hole of Casio modders : watchmakers taking apart these simple digital watches and upgrading them in all sorts of ways. Sometimes they get new features, sometimes they’re basically torn down and rebuilt entirely from scratch.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

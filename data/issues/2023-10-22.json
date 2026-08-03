@@ -1,0 +1,474 @@
+{
+ "schema": 1,
+ "date": "2023-10-22",
+ "post_type": "issue",
+ "title": "Mario and Spider-Man are both back in a big way",
+ "url": "https://www.theverge.com/2023/10/22/23925495/super-mario-bros-wonder-oneplus-open-spiderman-2-installer-newsletter",
+ "author": "David Pierce",
+ "number": 11,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:35+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2023-10-22-subpar-pool",
+   "name": "Subpar Pool",
+   "url": "https://subparpool.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’m spending all my free time playing Subpar Pool , testing Twine as my new go-to Android RSS reader, watching Zane Lowe talk music with Blink-182 , learning about the incredible work of the masters of film set design , reading Cory Doctorow’s new book, The Internet Con , finally for…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-22-twine",
+   "name": "Twine",
+   "url": "https://github.com/msasikanth/Twine",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "open-source"
+   ],
+   "blurb": "This week, I’m spending all my free time playing Subpar Pool , testing Twine as my new go-to Android RSS reader, watching Zane Lowe talk music with Blink-182 , learning about the incredible work of the masters of film set design , reading Cory Doctorow’s new book, The Internet Con , finally for…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-22-zane-lowe-talk-music-with-blink-182",
+   "name": "Zane Lowe talk music with Blink-182",
+   "url": "https://www.youtube.com/watch?v=uE6RpGJJWlQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’m spending all my free time playing Subpar Pool , testing Twine as my new go-to Android RSS reader, watching Zane Lowe talk music with Blink-182 , learning about the incredible work of the masters of film set design , reading Cory Doctorow’s new book, The Internet Con , finally for…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-22-the-masters-of-film-set-design",
+   "name": "the masters of film set design",
+   "url": "https://www.nytimes.com/2023/10/05/magazine/jack-fisk-movie-sets.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’m spending all my free time playing Subpar Pool , testing Twine as my new go-to Android RSS reader, watching Zane Lowe talk music with Blink-182 , learning about the incredible work of the masters of film set design , reading Cory Doctorow’s new book, The Internet Con , finally for…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-22-the-internet-con",
+   "name": "The Internet Con",
+   "url": "https://craphound.com/internetcon/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’m spending all my free time playing Subpar Pool , testing Twine as my new go-to Android RSS reader, watching Zane Lowe talk music with Blink-182 , learning about the incredible work of the masters of film set design , reading Cory Doctorow’s new book, The Internet Con , finally for…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-22-every-sesame-street-episode",
+   "name": "every Sesame Street episode",
+   "url": "https://play.max.com/video/watch/8c936d8d-088c-42a9-9ab9-2e886d680cf9/446d08ab-163d-43ba-96b5-1d92c7d2527e",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "This week, I’m spending all my free time playing Subpar Pool , testing Twine as my new go-to Android RSS reader, watching Zane Lowe talk music with Blink-182 , learning about the incredible work of the masters of film set design , reading Cory Doctorow’s new book, The Internet Con , finally for…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-22-super-mario-bros-wonder",
+   "name": "Super Mario Bros. Wonder",
+   "url": "https://supermariobroswonder.nintendo.com/",
+   "alt_urls": [
+    "https://www.theverge.com/23920647/super-mario-bros-wonder-review-nintendo-switch"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "The thoroughly modern side-scrolling Mario game that so many of us have been waiting for. Wonder is a really neat mix of a simple game with simple mechanics but also plenty of room for exploration and improvisation . I am going to play a lot of this game.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-22-the-oneplus-open",
+   "name": "The OnePlus Open",
+   "url": "https://www.oneplus.com/us/oneplus-open?irclickid=yJlX7v1sGxyPRoH2wyTRMVzHUkFTuSQxs21qzY0&irgwc=1",
+   "alt_urls": [
+    "https://www.theverge.com/23923599/oneplus-open-review-foldable-battery-screen-camera-price"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Yay, foldable phones! I really love the design of the Open , and OnePlus has some really cool feature ideas — but the whole thing is definitely let down by the price and durability issues.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-22-search-engine-s-is-there-a-sane-way-to-use-the-i",
+   "name": "Search Engine ’s “Is there a sane way to use the internet?",
+   "url": "https://pod.link/1614253637/episode/73c7c31d231e13771a7f5b1243999df7",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "” I’ve probably recommended Search Engine before, but it’s the first podcast in a while to make it into my “listen to every episode no matter what it’s about” rotation. This episode, with Ezra Klein, is a particularly thoughtful and helpful way of thinking about the internet now.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-22-meta-in-myanmar",
+   "name": "Meta in Myanmar",
+   "url": "https://erinkissane.com/meta-in-myanmar-full-series",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is a terrific four-part series about the rise of Facebook, WhatsApp, and the internet in general in Myanmar and the genocide that occurred in the country.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-22-trust-safety-tycoon",
+   "name": "Trust & Safety Tycoon",
+   "url": "https://trustandsafety.fun/",
+   "alt_urls": [
+    "https://moderatormayhem.engine.is/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Ever wondered what it’s like to try and make moderation, policy, and business decisions on the fly? Wonder no longer! This game from Techdirt is like a corporate training manual… but a good and useful one. (Techdirt’s other game, Moderator Mayhem , is similarly useful and fun.)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-22-the-wedding-scammer",
+   "name": "The Wedding Scammer",
+   "url": "https://pod.link/1711485987",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A true-crime podcast about a guy who joined a media startup that turned out to be a scam — and not even a particularly clever one. But the scammer behind it all had lots of other moves, and they all kept working!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-22-franz",
+   "name": "Franz",
+   "url": "https://twitter.com/IcePickLodge/status/1713866428359565727",
+   "alt_urls": [
+    "https://www.theverge.com/23914680/franz-virtual-companion-horror-game-ice-pick-lodge-ios-review",
+    "https://play.google.com/store/apps/details?id=franz.mystery.horror.interactive.story",
+    "https://apps.apple.com/kz/app/franz-interactive-story/id6468365936"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Imagine a Tamagotchi or a Neopet, but, like, super-duper cursed . That’s essentially the premise of this Android and iOS app in which you interact with and try to help a little AI companion that is pretty much always trying to take advantage of you in some way.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-22-whole-earth-index",
+   "name": "Whole Earth Index",
+   "url": "https://wholeearth.info/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The rabbit hole to end all rabbit holes for any tech-history buff: the entire archive of Whole Earth Catalog, the counterculture journal that was at the beginning of so much of Silicon Valley and tech and blogging and the internet and everything, is now online.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-22-spider-man-2",
+   "name": "Spider-Man 2",
+   "url": "https://store.playstation.com/en-us/concept/10002456",
+   "alt_urls": [
+    "https://www.theverge.com/23915605/spider-man-2-review-ps5"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "I absolutely loved the first Spider-Man game, which made “spending a long time moving from place to place” more fun than any game I can remember. The new game is more of the same , and I mean that in the best way: big action sequences, lots of quests, oh so much fun swinging from buildings.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-22-the-secret-life-of-jimmy-zhong",
+   "name": "The secret life of Jimmy Zhong",
+   "url": "https://www.cnbc.com/2023/10/17/crypto911.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Meet the man who stole 50,000 Bitcoin from the Silk Road, became a billionaire, stored a ton of money in a Cheetos popcorn tin (who knew that was even a thing!), and spent it all so lavishly he got caught. This is about the crypto-iest crypto story you’ll ever watch.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-22-a-pixel-7-i-may-switch-to-pixel-8-pro-using-my-4",
+   "name": "A Pixel 7 — I may switch to Pixel 8 (Pro) using my $400 Google Fi credit (but I’",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: A Pixel 7 — I may switch to Pixel 8 (Pro) using my $400 Google Fi credit (but I’ve got until January 2024 for this, so waiting things out until there are more Pixel 8 reviews).",
+   "section": "screen-share",
+   "recommender": "Bart"
+  },
+  {
+   "id": "2023-10-22-backdrops",
+   "name": "Backdrops",
+   "url": "https://play.google.com/store/apps/details?id=com.backdrops.wallpapers",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "The wallpaper: “Mountastic” by Kxnt from the Backdrops app. I picked this particular image because it strikes a great balance between being inspirational, matches the Cascade and Olympic mountains where I live, and has areas allowing for icons and widgets. Additionally, it matches my phone case .",
+   "section": "screen-share",
+   "recommender": "Bart"
+  },
+  {
+   "id": "2023-10-22-my-phone-case",
+   "name": "my phone case",
+   "url": "https://www.ringkestore.com/products/google-pixel-7-case-onyx",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: “Mountastic” by Kxnt from the Backdrops app. I picked this particular image because it strikes a great balance between being inspirational, matches the Cascade and Olympic mountains where I live, and has areas allowing for icons and widgets. Additionally, it matches my phone case .",
+   "section": "screen-share",
+   "recommender": "Bart"
+  },
+  {
+   "id": "2023-10-22-nova-launcher",
+   "name": "Nova Launcher",
+   "url": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "The launcher: I am a loyal user of Nova Launcher , allowing me to customize a lot of parts of the user interface, among which is setting a custom grid, removing app labels, and changing each icon individually.",
+   "section": "screen-share",
+   "recommender": "Bart"
+  },
+  {
+   "id": "2023-10-22-trycamel",
+   "name": "TryCamel",
+   "url": "https://github.com/cstew/TryCamel",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "open-source"
+   ],
+   "blurb": "TryCamel , which doesn’t do much besides offering a sharing target allowing me to track the price history of products by sharing Amazon links to it.",
+   "section": "screen-share",
+   "recommender": "Bart"
+  },
+  {
+   "id": "2023-10-22-threads",
+   "name": "Threads",
+   "url": "https://play.google.com/store/search?q=threads&c=apps",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "TryCamel , which doesn’t do much besides offering a sharing target allowing me to track the price history of products by sharing Amazon links to it.",
+   "section": "screen-share",
+   "recommender": "Bart"
+  },
+  {
+   "id": "2023-10-22-the-ebay-app",
+   "name": "the eBay app",
+   "url": "https://pages.ebay.com/mobile-app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "TryCamel , which doesn’t do much besides offering a sharing target allowing me to track the price history of products by sharing Amazon links to it.",
+   "section": "screen-share",
+   "recommender": "Bart"
+  },
+  {
+   "id": "2023-10-22-coohom",
+   "name": "Coohom",
+   "url": "https://www.coohom.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "TryCamel , which doesn’t do much besides offering a sharing target allowing me to track the price history of products by sharing Amazon links to it.",
+   "section": "screen-share",
+   "recommender": "Bart"
+  },
+  {
+   "id": "2023-10-22-lego-wildflower-bouquet",
+   "name": "Lego wildflower bouquet",
+   "url": "https://www.lego.com/en-us/themes/adults-welcome/botanical-collection/wildflower-bouquet",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "TryCamel , which doesn’t do much besides offering a sharing target allowing me to track the price history of products by sharing Amazon links to it.",
+   "section": "screen-share",
+   "recommender": "Bart"
+  },
+  {
+   "id": "2023-10-22-halloween-horror-nights",
+   "name": "Halloween Horror Nights",
+   "url": "https://www.universalorlando.com/hhn/en/us",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Checking out Halloween Horror Nights tomorrow! And you can bet I’ll be streaming The Exorcist tonight, then browsing the horror catalog of Peacock afterward.",
+   "section": "crowdsourced",
+   "recommender": "Christian (reader)"
+  },
+  {
+   "id": "2023-10-22-the-exorcist",
+   "name": "The Exorcist",
+   "url": "https://www.themoviedb.org/movie/9552-the-exorcist?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Checking out Halloween Horror Nights tomorrow! And you can bet I’ll be streaming The Exorcist tonight, then browsing the horror catalog of Peacock afterward.",
+   "section": "crowdsourced",
+   "recommender": "Christian (reader)"
+  },
+  {
+   "id": "2023-10-22-the-horror-catalog-of-peacock",
+   "name": "the horror catalog of Peacock",
+   "url": "https://imp.i305175.net/c/482924/828265/11640",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Checking out Halloween Horror Nights tomorrow! And you can bet I’ll be streaming The Exorcist tonight, then browsing the horror catalog of Peacock afterward.",
+   "section": "crowdsourced",
+   "recommender": "Christian (reader)"
+  },
+  {
+   "id": "2023-10-22-how-roblox-is-exploiting-young-game-developers",
+   "name": "How Roblox Is Exploiting Young Game Developers",
+   "url": "https://www.youtube.com/watch?v=_gXlauRB1EQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "With the mention of Roblox last week, I’d be remiss not to send in People Make Games’ two-part video series, ‘ How Roblox Is Exploiting Young Game Developers .’",
+   "section": "crowdsourced",
+   "recommender": "Michael (reader)"
+  },
+  {
+   "id": "2023-10-22-remix",
+   "name": "Remix",
+   "url": "https://getremix.ai/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I think of Remix as Instagram meets AI. I’ve had a lot of fun with it, as my prompting skill improves the more I use it. There’s also the concept of ‘remixing,’ which creates threads of related posts. Quite fun!",
+   "section": "crowdsourced",
+   "recommender": "Jason (reader)"
+  },
+  {
+   "id": "2023-10-22-gangs-of-london",
+   "name": "Gangs of London",
+   "url": "https://www.themoviedb.org/tv/85021-gangs-of-london",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "As a Canadian, we often are introduced to the pros (and cons) of culture from both the United States and the English Commonwealth. These two series — Gangs of London and Mr Inbetween — are sorely overlooked in the US, one from the UK and the other from Australia.",
+   "section": "crowdsourced",
+   "recommender": "Don (reader)"
+  },
+  {
+   "id": "2023-10-22-mr-inbetween",
+   "name": "Mr Inbetween",
+   "url": "https://www.themoviedb.org/tv/81358-mr-inbetween",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "As a Canadian, we often are introduced to the pros (and cons) of culture from both the United States and the English Commonwealth. These two series — Gangs of London and Mr Inbetween — are sorely overlooked in the US, one from the UK and the other from Australia.",
+   "section": "crowdsourced",
+   "recommender": "Don (reader)"
+  },
+  {
+   "id": "2023-10-22-this-book",
+   "name": "this book",
+   "url": "https://herringbonebooks.indielite.org/book/9781684810536",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As a Simpsons fan, this book just hit preorder stages, and I’m very excited to eventually get into it. It’s basically a collection of various memorabilia and merchandise throughout the course of the lifetime of the show.",
+   "section": "crowdsourced",
+   "recommender": "Joseph (reader)"
+  },
+  {
+   "id": "2023-10-22-killers-of-the-flower-moon",
+   "name": "Killers of the Flower Moon",
+   "url": "https://www.themoviedb.org/movie/466420-killers-of-the-flower-moon?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Killers of the Flower Moon opens this weekend.",
+   "section": "crowdsourced",
+   "recommender": "Junbo (reader)"
+  },
+  {
+   "id": "2023-10-22-catchup",
+   "name": "Catchup",
+   "url": "https://www.getcatchup.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Catchup is a simple but polished utility for keeping track of when you last talked to people close to you. You set how frequently you want to be in touch with each person (weekly, monthly, etc.) and see who’s due for a call.",
+   "section": "crowdsourced",
+   "recommender": "Lachlan (reader)"
+  },
+  {
+   "id": "2023-10-22-cocoon",
+   "name": "Cocoon",
+   "url": "https://www.cocoongame.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just finished Cocoon on PS5. Brilliant puzzle adventure game where you’re carrying orbs that house different realms and traversing between them. It’s also by one of the minds behind Inside and Limbo . Short, sweet, and a perfect precursor to Spider-Man 2 .",
+   "section": "crowdsourced",
+   "recommender": "Jackson (reader)"
+  },
+  {
+   "id": "2023-10-22-offsuit",
+   "name": "Offsuit",
+   "url": "https://offsuit.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Offsuit , AI offline poker app. Really clean interface, leaderboards, etc.",
+   "section": "crowdsourced",
+   "recommender": "Jonathan (reader)"
+  },
+  {
+   "id": "2023-10-22-derek-sivers-step-by-step-guide-to-tech-independ",
+   "name": "Derek Sivers’ step-by-step guide to “Tech Independence”",
+   "url": "https://sive.rs/ti",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve spent the last couple of weeks deep down the self-hosting rabbit hole working on some Vergecast stuff coming soon. I have this idea that I might be able to replace a lot of the (increasingly unreliable) cloud services I use with some self-hosted ones. So far, I have mostly failed.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

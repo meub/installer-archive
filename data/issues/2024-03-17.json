@@ -1,0 +1,475 @@
+{
+ "schema": 1,
+ "date": "2024-03-17",
+ "post_type": "issue",
+ "title": "A better way to find stuff to watch",
+ "url": "https://www.theverge.com/24102242/likewise-movie-recommendations-apple-car-proton-mail-evernote-installer",
+ "author": "David Pierce",
+ "number": 30,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:37+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-03-17-close-cities",
+   "name": "Close Cities",
+   "url": "https://thepangry.com/closecities/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been playing the fun puzzler Close Cities , scrounging up money to buy TikTok, reading the latest in my favorite spy-thriller series , debating becoming a mansion squatter , testing Today for simple tasks, taking notes on this great video about the editing in Oppenheimer , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-17-my-favorite-spy-thriller-series",
+   "name": "my favorite spy-thriller series",
+   "url": "https://us.macmillan.com/books/9781250871732/lonewolf",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been playing the fun puzzler Close Cities , scrounging up money to buy TikTok, reading the latest in my favorite spy-thriller series , debating becoming a mansion squatter , testing Today for simple tasks, taking notes on this great video about the editing in Oppenheimer , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-17-becoming-a-mansion-squatter",
+   "name": "becoming a mansion squatter",
+   "url": "https://www.curbed.com/article/squatters-rights-california-beverly-hills-los-angeles.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been playing the fun puzzler Close Cities , scrounging up money to buy TikTok, reading the latest in my favorite spy-thriller series , debating becoming a mansion squatter , testing Today for simple tasks, taking notes on this great video about the editing in Oppenheimer , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-17-today",
+   "name": "Today",
+   "url": "https://tdy.do/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been playing the fun puzzler Close Cities , scrounging up money to buy TikTok, reading the latest in my favorite spy-thriller series , debating becoming a mansion squatter , testing Today for simple tasks, taking notes on this great video about the editing in Oppenheimer , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-17-the-editing-in-oppenheimer",
+   "name": "the editing in Oppenheimer",
+   "url": "https://www.youtube.com/watch?v=zFiqCGM7n1g",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been playing the fun puzzler Close Cities , scrounging up money to buy TikTok, reading the latest in my favorite spy-thriller series , debating becoming a mansion squatter , testing Today for simple tasks, taking notes on this great video about the editing in Oppenheimer , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-17-the-most-recent-spacex-launch",
+   "name": "the most recent SpaceX launch",
+   "url": "https://www.youtube.com/watch?v=Dr8ZaMAa5jw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been playing the fun puzzler Close Cities , scrounging up money to buy TikTok, reading the latest in my favorite spy-thriller series , debating becoming a mansion squatter , testing Today for simple tasks, taking notes on this great video about the editing in Oppenheimer , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-17-likewise",
+   "name": "Likewise",
+   "url": "https://likewise.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been a fan of Likewise as a show and movie and podcast recommender for a while, and the app just got a redesign I really like. It’s extremely just TikTok, but it kind of works — you just scroll from title to title and trailer to trailer until you find something you like.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-17-the-apple-car-a-10-billion-failure",
+   "name": "The Apple Car - A $10 Billion Failure",
+   "url": "https://www.youtube.com/watch?v=aQYcwmRxnbE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "There’s been a lot of great reporting about what happened to Apple’s car project, and this is a great summary. It also makes a pretty good case that, actually, the things that make Apple Apple are exactly the reasons it was never going to win in the car biz.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-17-turning-point-the-bomb-and-the-cold-war",
+   "name": "Turning Point: The Bomb and the Cold War",
+   "url": "https://www.themoviedb.org/tv/245926-turning-point-the-bomb-and-the-cold-war",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "We all rewatched Oppenheimer this week after its big Oscar win, right? If not, go do that, it’s on Peacock. But if you’re looking for some more, this Netflix series is it: a deep dive into how the Cold War started, and whether it ever actually ended.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-17-proton-mail-for-desktop",
+   "name": "Proton Mail for desktop",
+   "url": "https://proton.me/mail",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m pretty ready to call Proton the best non-Gmail email service on the internet. (Gmail’s not even that great, it’s just… it’s Gmail.) The new Mac and Windows apps include both mail and calendar, and it’s silly they don’t work offline yet, but that’s apparently coming soon.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-17-the-dyson-360-vis-nav",
+   "name": "The Dyson 360 Vis Nav",
+   "url": "https://www.dyson.com/discover/innovation/new-machines/dyson-launches-healthier-homes-tech",
+   "alt_urls": [
+    "https://www.theverge.com/24098771/dyson-vis-nav-robot-vacuum-hands-on"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "A $1,200 robot vacuum seems silly, in the way that Dyson’s prices always seem silly, but they do seem to be worth it a lot. Early looks at this one seem sort of split on whether it’s worth the price, but its mega power and apparent skill with corners is pretty enticing.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-17-evernote",
+   "name": "Evernote",
+   "url": "https://evernote.com/",
+   "alt_urls": [
+    "https://evernote.com/blog/microsoft-outlook-calendar",
+    "https://twitter.com/evernote/status/1767964055887610234"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I never, ever thought I’d mention Evernote here — the app seemed to be on a slow road to nothingness. But under new ownership, it’s kind of on a tear?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-17-manhunt",
+   "name": "Manhunt",
+   "url": "https://www.themoviedb.org/tv/155533-manhunt?language=en-US",
+   "alt_urls": [
+    "https://www.harpercollins.com/products/manhunt-james-l-swanson?variant=32138794598434"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "A seven-part miniseries about the epic hunt for Abraham Lincoln’s killer? (Which, fun fact, apparently took place in part in the neighborhood where my wife grew up, but that’s not the point?) I’m here for it. I need to read the book it’s based on , too, which I’m told is terrific.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-17-dola",
+   "name": "Dola",
+   "url": "https://hidola.ai/en",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have long extolled the virtues of text messaging as a productivity tool. This is a really clever (and surprisingly powerful) version of that: an AI assistant that communicates through text messages, that can set reminders, make calendar events, and more.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-17-ozone-on-bluesky",
+   "name": "Ozone on Bluesky",
+   "url": "https://bsky.social/about/blog/03-12-2024-stackable-moderation",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is the fediverse stuff that gets me excited: the Bluesky team is open-sourcing its moderation tool, so that anyone can build their own moderation systems and users can use whichever one they want. And it all gets integrated right into Bluesky.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-17-google-pixel-fold",
+   "name": "Google Pixel Fold",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: Google Pixel Fold. Thirteen years of reviewing smartphones has cursed me with an unquenchable thirst for novelty, so I switch devices constantly even when I don’t need to — but I find the Pixel Fold never gets far from my daily rotation.",
+   "section": "screen-share",
+   "recommender": "Michael"
+  },
+  {
+   "id": "2024-03-17-living-in-the-future-podcast",
+   "name": "Living In The Future podcast",
+   "url": "https://i.mediatek.com/podcast",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "In preparing for a recent episode of the Living In The Future podcast , I watched the classic science-fiction film Outland . A 1981 Sean Connery playing a federal SPACE MARSHAL! Sent to tame a rough-and-tumble mining colony on one of Jupiter’s moons!",
+   "section": "screen-share",
+   "recommender": "Michael"
+  },
+  {
+   "id": "2024-03-17-outland",
+   "name": "Outland",
+   "url": "https://www.themoviedb.org/movie/10540-outland?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "In preparing for a recent episode of the Living In The Future podcast , I watched the classic science-fiction film Outland . A 1981 Sean Connery playing a federal SPACE MARSHAL! Sent to tame a rough-and-tumble mining colony on one of Jupiter’s moons!",
+   "section": "screen-share",
+   "recommender": "Michael"
+  },
+  {
+   "id": "2024-03-17-alter-ego",
+   "name": "Alter Ego",
+   "url": "https://www.playalterego.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "In preparing for a recent episode of the Living In The Future podcast , I watched the classic science-fiction film Outland . A 1981 Sean Connery playing a federal SPACE MARSHAL! Sent to tame a rough-and-tumble mining colony on one of Jupiter’s moons!",
+   "section": "screen-share",
+   "recommender": "Michael"
+  },
+  {
+   "id": "2024-03-17-cat-cafe",
+   "name": "cat cafe",
+   "url": "https://catcafebk.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "In preparing for a recent episode of the Living In The Future podcast , I watched the classic science-fiction film Outland . A 1981 Sean Connery playing a federal SPACE MARSHAL! Sent to tame a rough-and-tumble mining colony on one of Jupiter’s moons!",
+   "section": "screen-share",
+   "recommender": "Michael"
+  },
+  {
+   "id": "2024-03-17-pandora",
+   "name": "Pandora",
+   "url": "https://www.pandora.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a week late , but I wanted to get a single point on the board for Pandora . The new music page highlights artists that match my tastes, and they still have a stupendous radio feature — hardly surprising considering they popularized it.",
+   "section": "crowdsourced",
+   "recommender": "Will (reader)"
+  },
+  {
+   "id": "2024-03-17-pokemon-tcg",
+   "name": "Pokémon TCG",
+   "url": "https://www.pokemon.com/us/pokemon-tcg",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "New Pokémon TCG set coming next week, so prepping for that, as well as playing Pokémon Go , because well… I’m always playing Pokémon Go … always.",
+   "section": "crowdsourced",
+   "recommender": "Bobby (reader)"
+  },
+  {
+   "id": "2024-03-17-pokemon-go",
+   "name": "Pokémon Go",
+   "url": "https://pokemongolive.com/?hl=en",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "New Pokémon TCG set coming next week, so prepping for that, as well as playing Pokémon Go , because well… I’m always playing Pokémon Go … always.",
+   "section": "crowdsourced",
+   "recommender": "Bobby (reader)"
+  },
+  {
+   "id": "2024-03-17-bereal",
+   "name": "BeReal",
+   "url": "https://bereal.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "​​More and more of my friends have been signing on to BeReal — wonder if any other friend groups are seeing this growth. Also, the app keeps trying to get you to view public profiles and I would like them to stop that.",
+   "section": "crowdsourced",
+   "recommender": "Wisdom (reader)"
+  },
+  {
+   "id": "2024-03-17-empty-fasting",
+   "name": "Empty Fasting",
+   "url": "https://www.emptyfasting.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The amazing Empty Fasting app that launched this week. One-time fee for a beautifully designed fasting app.",
+   "section": "crowdsourced",
+   "recommender": "Esteban (reader)"
+  },
+  {
+   "id": "2024-03-17-darko-audio",
+   "name": "Darko Audio",
+   "url": "https://www.youtube.com/@DarkoAudio",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I thought I’d throw in a great ‘audio products’ reviewer, Darko Audio . He has some good info and thoughts at the high end and some nerdy written content on streaming protocols. Personally, I’m a Spotify user since, as you say, it’s everywhere.",
+   "section": "crowdsourced",
+   "recommender": "David (reader)"
+  },
+  {
+   "id": "2024-03-17-pixel-7-pro",
+   "name": "Pixel 7 Pro",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://store.google.com/us/config/pixel_7_pro",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Bought a used, but excellent condition Pixel 7 Pro . After trade-in, $201. Wife recently got the same-condition iPhone 13 . Makes you think about upgrade cycles. Also Zack from JerryRigEverything has left an impression on me regarding recycling tech and parts and whatnot.",
+   "section": "crowdsourced",
+   "recommender": "Omar (reader)"
+  },
+  {
+   "id": "2024-03-17-iphone-13",
+   "name": "iPhone 13",
+   "url": "https://www.apple.com/shop/buy-iphone/iphone-13",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Bought a used, but excellent condition Pixel 7 Pro . After trade-in, $201. Wife recently got the same-condition iPhone 13 . Makes you think about upgrade cycles. Also Zack from JerryRigEverything has left an impression on me regarding recycling tech and parts and whatnot.",
+   "section": "crowdsourced",
+   "recommender": "Omar (reader)"
+  },
+  {
+   "id": "2024-03-17-jerryrigeverything",
+   "name": "JerryRigEverything",
+   "url": "https://www.youtube.com/@JerryRigEverything",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Bought a used, but excellent condition Pixel 7 Pro . After trade-in, $201. Wife recently got the same-condition iPhone 13 . Makes you think about upgrade cycles. Also Zack from JerryRigEverything has left an impression on me regarding recycling tech and parts and whatnot.",
+   "section": "crowdsourced",
+   "recommender": "Omar (reader)"
+  },
+  {
+   "id": "2024-03-17-live-streams-of-nesting-european-eagle-owls",
+   "name": "live streams of nesting European eagle owls",
+   "url": "https://l.threads.net/?u=https://uhu.webcam.pixtura.de/cam3&e=AT1S8qbkwSeA4S1_z2X5cAf5r7C4Xl9w1X-viigpCsvMjmpT1UacOhPM1UN3VK9-ytc52w3AQbSv8nfRRMh9gH2KYj69LaYZLH6A8W32pUIWJTtIyFYTl1aj5YvIODtfCGhNiwUrDspr",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s owl breeding season, and I’m back to watching live streams of nesting European eagle owls . In addition to being cute, the camera quality for bird cams is so much better than it was just a couple years ago. Tristan and Isolde on Cam 3 have a clutch of 4 eggs this year!",
+   "section": "crowdsourced",
+   "recommender": "Daniel (reader)"
+  },
+  {
+   "id": "2024-03-17-mr-mrs-smith",
+   "name": "Mr. & Mrs. Smith",
+   "url": "https://www.themoviedb.org/tv/118642-mr-mrs-smith?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Watching Mr. & Mrs. Smith and organizing my notes using the PARA method in Microsoft Loop and Capacities .",
+   "section": "crowdsourced",
+   "recommender": "Carter (reader)"
+  },
+  {
+   "id": "2024-03-17-microsoft-loop",
+   "name": "Microsoft Loop",
+   "url": "https://www.microsoft.com/en-us/microsoft-loop",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Watching Mr. & Mrs. Smith and organizing my notes using the PARA method in Microsoft Loop and Capacities .",
+   "section": "crowdsourced",
+   "recommender": "Carter (reader)"
+  },
+  {
+   "id": "2024-03-17-capacities",
+   "name": "Capacities",
+   "url": "https://capacities.io",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Watching Mr. & Mrs. Smith and organizing my notes using the PARA method in Microsoft Loop and Capacities .",
+   "section": "crowdsourced",
+   "recommender": "Carter (reader)"
+  },
+  {
+   "id": "2024-03-17-hours",
+   "name": "Hours",
+   "url": "https://www.youtube.com/watch?v=iiNn8buHMsM",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "And y’all: if you’re not already into TrainTube, you are missing out. Hours upon hours of beautifully shot videos of awesome-looking trains in beautiful locations.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-17-hours-2",
+   "name": "hours",
+   "url": "https://www.youtube.com/watch?v=hl9dNvMwFwU",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "And y’all: if you’re not already into TrainTube, you are missing out. Hours upon hours of beautifully shot videos of awesome-looking trains in beautiful locations.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-17-beautifully",
+   "name": "beautifully",
+   "url": "https://www.youtube.com/watch?v=UoTgwaAKAiY’",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "And y’all: if you’re not already into TrainTube, you are missing out. Hours upon hours of beautifully shot videos of awesome-looking trains in beautiful locations.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-17-videos",
+   "name": "videos",
+   "url": "https://www.youtube.com/watch?v=crzbUVcL_K8",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "And y’all: if you’re not already into TrainTube, you are missing out. Hours upon hours of beautifully shot videos of awesome-looking trains in beautiful locations.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-03-17-an-hourlong-video-of-trains",
+   "name": "an hourlong video of trains",
+   "url": "https://www.youtube.com/watch?v=xVMsAgHy_IY",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "And y’all: if you’re not already into TrainTube, you are missing out. Hours upon hours of beautifully shot videos of awesome-looking trains in beautiful locations.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

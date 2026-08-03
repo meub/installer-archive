@@ -1,0 +1,482 @@
+{
+ "schema": 1,
+ "date": "2023-12-31",
+ "post_type": "issue",
+ "title": "The apps, movies, games, and everything else we loved in 2023",
+ "url": "https://www.theverge.com/2023/12/31/24019265/best-apps-games-movies-shows-2023",
+ "author": "David Pierce",
+ "number": 19,
+ "sections_found": [
+  "intro",
+  "davids-favorite-things",
+  "your-favorite-things"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:35+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2023-12-31-number-go-up",
+   "name": "Number Go Up",
+   "url": "https://www.penguinrandomhouse.com/books/711959/number-go-up-by-zeke-faux/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The best tech book I read this year, and one of my favorite “the future is weird” books ever. It’s an adventure story and a financial investigation, and I absolutely devoured it. Crypto is even more bizarre than you think.",
+   "section": "davids-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-ray-ban-meta-smart-glasses",
+   "name": "Ray-Ban Meta Smart Glasses",
+   "url": "https://www.meta.com/us/smart-glasses/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Two days with these things, and I was convinced that smart glasses are going to be a thing. They’re already my go-to gadget for phone calls on the go and are replacing my headphones more and more.",
+   "section": "davids-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-kagi",
+   "name": "Kagi",
+   "url": "https://kagi.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve tried all the search engines, and I always ended up back at Google — until Kagi. It’s private, it’s fast, it’s super customizable, it’s a little ugly but I’m getting over that, and it’s the first search engine I’ve tried that feels just as good as Google.",
+   "section": "davids-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-shrinking",
+   "name": "Shrinking",
+   "url": "https://tv.apple.com/us/show/shrinking/umc.cmc.apzybj6eqf6pzccd97kev7bs",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "I laughed, I cried. I did both those things several times on a plane while binge watching this show, which really confused the person next to me. It’s a winner from beginning to end.",
+   "section": "davids-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-anytype",
+   "name": "Anytype",
+   "url": "https://anytype.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s like Notion, only offline-first and super fast. Which turns out to be exactly what I was looking for. It’s also in beta, and has a steep learning curve, but now it’s set up to help me run basically my entire life. For now, anyway.",
+   "section": "davids-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-dungeons-dragons-honor-among-thieves",
+   "name": "Dungeons & Dragons: Honor Among Thieves",
+   "url": "https://www.themoviedb.org/movie/493529-dungeons-dragons-honor-among-thieves?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This was not the year of Serious Movies in my life — it was the year of “the baby’s finally asleep, what fun silly thing can I watch?” This was one of the most fun and one of the most silly. I loved it.",
+   "section": "davids-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-chip-war-the-fight-for-the-worlds-most-critical",
+   "name": "Chip War: The Fight for the World’s Most Critical Technology",
+   "url": "https://www.simonandschuster.com/books/Chip-War/Chris-Miller/9781982172008",
+   "alt_urls": [
+    "https://www.nytimes.com/2023/04/04/opinion/ezra-klein-podcast-chris-miller.html"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "A history of the chip industry, which is also a story about startups and geopolitics and all the things in the world you don’t think of as “technology” but very much are. Miller’s appearance on The Ezra Klein Show was also one of my favorite podcast interviews of the year.",
+   "section": "davids-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-super-mario-bros-wonder",
+   "name": "Super Mario Bros. Wonder",
+   "url": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "It’s probably not the best game of the year, but it’s certainly the one I played the most. It’s a perfect mix of old ideas and new ones, playable but challenging, and endlessly (like, endlessly ) replayable.",
+   "section": "davids-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-a-hybrid-charger",
+   "name": "A hybrid charger.",
+   "url": "https://www.anker.com/products/a1626?variant=42089536290966&collections_power-banks=undefined&Sort_by=Recommended",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The single best quality-of-life tech upgrade I made this year was to buy an Anker gizmo that is both a wall charger and an external battery. It charges my devices, and then itself, so next time I don’t have an outlet it still charges my phone. Game changer.",
+   "section": "davids-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-beef",
+   "name": "Beef",
+   "url": "https://www.netflix.com/title/81447461",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "This show had a moment, but I still don’t think enough people saw it. It’s such a bizarre premise, but one of the funniest and best-written things I watched this year. I just rewatched the whole show in two days.",
+   "section": "davids-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-mimestream",
+   "name": "Mimestream",
+   "url": "https://mimestream.com/",
+   "alt_urls": [
+    "https://www.theverge.com/23728602/mimestream-gmail-app-mac-review"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I haven’t opened Gmail’s ugly and cluttered web app in months, and I don’t miss it a bit . I’m terrible at email, and this Mac app has made me much better at it — here’s hoping an iOS version shows up in 2024.",
+   "section": "davids-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-twos",
+   "name": "Twos",
+   "url": "https://www.twosapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My never-ending quest for the perfect to-do list app led me to this app, which is both super simple — just a list of stuff you write down — and incredibly clever. Cross-platform, free to use, and improving really fast. I’ve been using it all year.",
+   "section": "davids-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-blackberry",
+   "name": "BlackBerry",
+   "url": "https://www.blackberrymovie.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Nobody believes me when I tell them to see this movie! But it’s excellent, regardless of whether you care a lick about the BlackBerry story.",
+   "section": "davids-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-google-bard",
+   "name": "Google Bard",
+   "url": "https://bard.google.com/chat",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Definitely not the AI tool I would have guessed would end up here. But the thing I use chatbots for most is finding stuff — in my email, my documents, YouTube, the web — and Google is just better at that. Bard’s bad at a lot of stuff, but it’s a solid search engine.",
+   "section": "davids-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-1password",
+   "name": "1Password",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://1password.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been using this app for years, but I really went all-in in 2023. Now all my two-factor codes, all my passkeys, all my important documents live here — and centralizing all that stuff in one place I trust has made my online life a lot easier.",
+   "section": "davids-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-working-it-out",
+   "name": "Working it Out",
+   "url": "https://www.birbigs.com/working-it-out-pod",
+   "alt_urls": [
+    "https://pjvogt.substack.com/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This and Search Engine are the two podcasts that entered my “listen to every episode no matter what” list this year. Listening to comedians tell jokes, talk about jokes, and think about life and process, is just perpetually fun.",
+   "section": "davids-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-tubi",
+   "name": "Tubi",
+   "url": "https://tubi.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A surprising amount of my TV watching time is now happening on Tubi, because it’s just easy: I don’t have to log in or search for anything. I just open the app and stuff starts playing. (The BBC Earth channel gets a lot of airtime in my house.)",
+   "section": "davids-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-backbone",
+   "name": "Backbone",
+   "url": "https://playbackbone.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Most of my phone-gaming time is either remote playing my PlayStation or playing silly driving games. The Backbone controller makes both better and is super easy to connect and carry around. Now I just have to find some new games to play.",
+   "section": "davids-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-the-roku-voice-remote-pro",
+   "name": "The Roku Voice Remote Pro",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://www.roku.com/products/accessories/roku-voice-remote-pro",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m on record about how bad I think all set-top boxes are, but this remote? This remote rules. A headphone jack for private listening, a useful voice assistant, a bunch of lovely buttons — it almost makes my stupidly slow smart TV bearable.",
+   "section": "davids-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-it-was-a-sh-t-show",
+   "name": "It Was a Sh*t Show",
+   "url": "https://www.youtube.com/@ItWasAShtShow",
+   "alt_urls": [
+    "https://www.youtube.com/@FirstWeFeast/featured",
+    "https://www.youtube.com/watch?v=XQQAx9XZADU",
+    "https://www.youtube.com/watch?v=Ed1SNj1KTPg"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This and Hot Ones are probably the YouTube series I talk about the most. The channel chronicles the making of shows and movies, and all the ways they go spectacularly, hilariously wrong.",
+   "section": "davids-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-arc",
+   "name": "Arc",
+   "url": "https://arc.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My favorite browser, no question, and clearly I’m not alone.",
+   "section": "your-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-the-steam-deck",
+   "name": "The Steam Deck",
+   "url": "https://store.steampowered.com/steamdeck",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "A lot of us got into handheld gaming this year, it appears, and this was by a mile the most-recommended gadget in my inbox.",
+   "section": "your-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-scavengers-reign",
+   "name": "Scavengers Reign",
+   "url": "https://www.themoviedb.org/tv/204154-scavengers-reign",
+   "alt_urls": [
+    "https://www.theverge.com/23912922/scavengers-reign-review-max"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "One of The Verge ’s favorite shows of the year , and definitely one of yours as well.",
+   "section": "your-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-artifact",
+   "name": "Artifact",
+   "url": "https://artifact.news/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The hot new thing in news apps! I’ve been getting a little annoyed with all the clutter and AI stuff recently, but it’s still a great way to find new stuff.",
+   "section": "your-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-omnivore",
+   "name": "Omnivore",
+   "url": "https://omnivore.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "An app for reading articles, newsletters, PDFs, and basically everything else. It’s a bit of a power-user tool, but it’s a really good one.",
+   "section": "your-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-david-pierce-close-david-pierce-editor-at-large",
+   "name": "David Pierce Close David Pierce Editor-at-Large Posts from this author will be a",
+   "url": null,
+   "alt_urls": [
+    "https://www.theverge.com/authors/david-pierce"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "dded to your daily email digest and your homepage feed. Follow Follow See All by David Pierce",
+   "section": "your-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-android-close-android-posts-from-this-topic-will",
+   "name": "Android Close Android Posts from this topic will be added to your daily email di",
+   "url": null,
+   "alt_urls": [
+    "https://www.theverge.com/android"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "gest and your homepage feed. Follow Follow See All Android",
+   "section": "your-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-apple-close-apple-posts-from-this-topic-will-be",
+   "name": "Apple Close Apple Posts from this topic will be added to your daily email digest",
+   "url": null,
+   "alt_urls": [
+    "https://www.theverge.com/apple"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "and your homepage feed. Follow Follow See All Apple",
+   "section": "your-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-apps-close-apps-posts-from-this-topic-will-be-ad",
+   "name": "Apps Close Apps Posts from this topic will be added to your daily email digest a",
+   "url": null,
+   "alt_urls": [
+    "https://www.theverge.com/apps"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "nd your homepage feed. Follow Follow See All Apps",
+   "section": "your-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-gadgets-close-gadgets-posts-from-this-topic-will",
+   "name": "Gadgets Close Gadgets Posts from this topic will be added to your daily email di",
+   "url": null,
+   "alt_urls": [
+    "https://www.theverge.com/gadgets"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "gest and your homepage feed. Follow Follow See All Gadgets",
+   "section": "your-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-google-close-google-posts-from-this-topic-will-b",
+   "name": "Google Close Google Posts from this topic will be added to your daily email dige",
+   "url": null,
+   "alt_urls": [
+    "https://www.theverge.com/google"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "st and your homepage feed. Follow Follow See All Google",
+   "section": "your-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-installer-close-installer-posts-from-this-topic",
+   "name": "Installer Close Installer Posts from this topic will be added to your daily emai",
+   "url": null,
+   "alt_urls": [
+    "https://www.theverge.com/installer-newsletter"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "l digest and your homepage feed. Follow Follow See All Installer",
+   "section": "your-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-tech-close-tech-posts-from-this-topic-will-be-ad",
+   "name": "Tech Close Tech Posts from this topic will be added to your daily email digest a",
+   "url": null,
+   "alt_urls": [
+    "https://www.theverge.com/tech"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "nd your homepage feed. Follow Follow See All Tech",
+   "section": "your-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-you-could-be-taking-way-better-photos-on-your-ph",
+   "name": "You could be taking way better photos on your phone",
+   "url": null,
+   "alt_urls": [
+    "https://www.theverge.com/tech/973055/how-to-take-better-smartphone-photos"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "You could be taking way better photos on your phone",
+   "section": "your-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-foldables-are-sort-of-boring-now-and-thats-great",
+   "name": "Foldables are sort of boring now — and that’s great news for Apple",
+   "url": null,
+   "alt_urls": [
+    "https://www.theverge.com/column/972937/foldable-phones-boring-apple"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Foldables are sort of boring now — and that’s great news for Apple",
+   "section": "your-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-fenders-ceo-seems-to-think-your-bandmates-are-ju",
+   "name": "Fender’s CEO seems to think your bandmates are just analog AI",
+   "url": null,
+   "alt_urls": [
+    "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Fender’s CEO seems to think your bandmates are just analog AI",
+   "section": "your-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-microsoft-is-bringing-xbox-360-games-to-pc",
+   "name": "Microsoft is bringing Xbox 360 games to PC",
+   "url": null,
+   "alt_urls": [
+    "https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Microsoft is bringing Xbox 360 games to PC",
+   "section": "your-favorite-things",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-31-xbox-prices-are-increasing-by-up-to-200-or-170",
+   "name": "Xbox prices are increasing by up to €200 or £170",
+   "url": null,
+   "alt_urls": [
+    "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Xbox prices are increasing by up to €200 or £170",
+   "section": "your-favorite-things",
+   "recommender": null
+  }
+ ]
+}

@@ -1,0 +1,633 @@
+{
+ "schema": 1,
+ "date": "2026-05-02",
+ "post_type": "issue",
+ "title": "The things we’re building",
+ "url": "https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer",
+ "author": "David Pierce",
+ "number": 126,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:40+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-05-02-the-tesla-diner",
+   "name": "the Tesla diner",
+   "url": "https://observer.co.uk/news/science-technology/article/down-and-out-at-the-tesla-diner",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Happy Ruthless Self-Promotion Week! We’re dedicating almost all of this issue to the stuff we’ve been making recently.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-dwarkesh-patel",
+   "name": "Dwarkesh Patel",
+   "url": "https://www.nytimes.com/2026/04/26/business/dwarkesh-patel-podcast-ai.html?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Happy Ruthless Self-Promotion Week! We’re dedicating almost all of this issue to the stuff we’ve been making recently.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-the-rest-is-history",
+   "name": "The Rest Is History",
+   "url": "https://www.newstatesman.com/culture/radio-podcasts/2025/12/lets-hear-it-for-the-rest-is-history",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Happy Ruthless Self-Promotion Week! We’re dedicating almost all of this issue to the stuff we’ve been making recently.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-ted-lasso",
+   "name": "Ted Lasso",
+   "url": "https://www.themoviedb.org/tv/97546-ted-lasso",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Happy Ruthless Self-Promotion Week! We’re dedicating almost all of this issue to the stuff we’ve been making recently.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-a-robot-injure-joanna-stern",
+   "name": "a robot injure Joanna Stern",
+   "url": "https://www.youtube.com/watch?v=ucy9VTLDwPU",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Happy Ruthless Self-Promotion Week! We’re dedicating almost all of this issue to the stuff we’ve been making recently.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-gorgeous-japanese-stationery",
+   "name": "gorgeous Japanese stationery",
+   "url": "https://www.youtube.com/watch?v=G_JOCxEB0ns",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Happy Ruthless Self-Promotion Week! We’re dedicating almost all of this issue to the stuff we’ve been making recently.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-run-a-sub-two-hour-marathon",
+   "name": "run a sub-two-hour marathon",
+   "url": "https://www.bbc.com/sport/athletics/articles/cn898pn2x08o",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Happy Ruthless Self-Promotion Week! We’re dedicating almost all of this issue to the stuff we’ve been making recently.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-chris-plantes-great-list-of-games-media",
+   "name": "Chris Plante’s great list of games media",
+   "url": "https://postgame.substack.com/p/an-incomplete-catalogue-of-games",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "newsletter"
+   ],
+   "blurb": "Happy Ruthless Self-Promotion Week! We’re dedicating almost all of this issue to the stuff we’ve been making recently.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-the-steam-controller",
+   "name": "The Steam Controller",
+   "url": "https://store.steampowered.com/sale/steamcontroller?curator_clanid=45479024",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I really respect the way Valve just understands what its users want. In this case, users want a super comfortable, outrageously customizable $99 controller that can be used in basically whatever bonkers way you can imagine.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-the-devil-wears-prada-2",
+   "name": "The Devil Wears Prada 2",
+   "url": "https://www.themoviedb.org/movie/1314481-the-devil-wears-prada-2",
+   "alt_urls": [
+    "https://www.themoviedb.org/movie/1430077-hokum"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I swear, this and Hokum have all the makings of a Barbenheimer-style doubleheader. And if you don’t get to a theater this weekend for what is evidently a pretty solid sequel, at least watch the original Devil Wears Prada this weekend. Holds up.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-widows-bay",
+   "name": "Widow’s Bay",
+   "url": "https://www.themoviedb.org/tv/270476-widow-s-bay",
+   "alt_urls": [
+    "https://www.theverge.com/entertainment/919634/widows-bay-apple-tv-cast-interview"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "All my TV-nerd friends have been waiting with bated breath for this new Apple TV show, and apparently it delivers . Funny and scary in equal measure is very hard to pull off, and I’m thrilled Matthew Rhys and co. are going straight on my watchlist.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-zed",
+   "name": "Zed",
+   "url": "https://zed.dev/",
+   "alt_urls": [
+    "https://zed.dev/blog/zed-1-0"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been hearing good things about this super-fast code editor for a while, and it finally officially launched . Some interesting AI integrations in here, but really its job is to work everywhere and never ever slow down. On that front, it seems to be a hit.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-talkie",
+   "name": "Talkie",
+   "url": "https://github.com/talkie-lm/talkie",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "open-source"
+   ],
+   "blurb": "Such a cool idea: a large language model exclusively trained on text from before 1931, with all the trappings of modern AI interaction but no knowledge of the modern world. These “vintage models” are starting to become a thing, and they’re a fascinating way to interact with history.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-im-done-renting-my-digital-life",
+   "name": "I’m done renting my digital life",
+   "url": "https://www.youtube.com/watch?v=S8mG6KOku1I",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ I’m done renting my digital life .” Really great video in which Iskren gets fed up with all the subscriptions in his life, and tries to go hard into physical media, self-hosting, and more. It’s fascinating! And hard! And expensive!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-john-oliver-on-ai-chatbots",
+   "name": "John Oliver on AI chatbots",
+   "url": "https://www.youtube.com/watch?v=Ykvf3MunGf8",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I know, I know, more John Oliver, surprise. But I feel like I’ve been screaming into a void that AI chatbots are not your friends, should not be your friends, dear lord stop treating them like friends, and Oliver does that and more in an extremely fun and thoughtful way.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-saros",
+   "name": "Saros",
+   "url": "https://housemarque.com/games/saros",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A brutally difficult game in which you try to stop a bad tech company from taking over a planet to strip it of its resources — a little too on the nose for our present times, maybe? Still, it’s a solid follow-up to Returnal that I suspect will make a lot of people happy.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-cursor-camp",
+   "name": "Cursor Camp",
+   "url": "https://neal.fun/cursor-camp/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A new John Oliver thing and a new Neal.fun thing? What a week! I don’t even really know how to explain this one. It’s a little Club Penguin-y, in the most delightful way. I played this way longer than I planned.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-lovables-mobile-app",
+   "name": "Lovable’s mobile app",
+   "url": "https://lovable.dev/blog/mobile-app",
+   "alt_urls": [
+    "https://play.google.com/store/apps/details?id=dev.lovable.build&pli=1",
+    "https://apps.apple.com/us/app/lovable-build-apps-with-ai/id6757471107"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "A lot of y’all out in the Installerverse have told me you’re using Lovable for vibe-coding projects. Now there’s an app for Android and iOS , so you can make mobile apps with your mobile apps.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-google-calendar",
+   "name": "Google Calendar",
+   "url": "https://calendar.google.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I use it on the web on my computer, and through an iOS app I just managed to get functional the other day. Basically the way it works is this: I connect the app to Google Calendar and Todoist , and it shows me everything I have to do today.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-todoist",
+   "name": "Todoist",
+   "url": "https://www.todoist.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I use it on the web on my computer, and through an iOS app I just managed to get functional the other day. Basically the way it works is this: I connect the app to Google Calendar and Todoist , and it shows me everything I have to do today.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-raindrop",
+   "name": "Raindrop",
+   "url": "http://raindrop.io",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I use it on the web on my computer, and through an iOS app I just managed to get functional the other day. Basically the way it works is this: I connect the app to Google Calendar and Todoist , and it shows me everything I have to do today.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-obsidian",
+   "name": "Obsidian",
+   "url": "https://obsidian.md/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The other thing it does is input: This app has a single window through which I can create a task (which syncs to Todoist), an event (to Google Calendar), or a note (which creates a text file that immediately gets picked up in Obsidian ).",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-drafts",
+   "name": "Drafts",
+   "url": "https://getdrafts.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The other thing it does is input: This app has a single window through which I can create a task (which syncs to Todoist), an event (to Google Calendar), or a note (which creates a text file that immediately gets picked up in Obsidian ).",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-raycast",
+   "name": "Raycast",
+   "url": "https://www.raycast.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The other thing it does is input: This app has a single window through which I can create a task (which syncs to Todoist), an event (to Google Calendar), or a note (which creates a text file that immediately gets picked up in Obsidian ).",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-scotuswatch",
+   "name": "SCOTUSWatch",
+   "url": "https://scottsapps.github.io",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a lawyer, and I had an important order due to be released sometime on a Friday afternoon — I figured there must be a way to automate checking for that order. And from that little python script (thank you Kagi AI) grew SCOTUSWatch (with Claude Code’s help).",
+   "section": "crowdsourced",
+   "recommender": "Scott (reader)"
+  },
+  {
+   "id": "2026-05-02-business-of-tech",
+   "name": "Business of Tech",
+   "url": "https://businessof.tech/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I host Business of Tech , a daily podcast covering the business side of the technology industry — not the consumer stuff, but the companies and people who actually run the tech that keeps businesses alive. Think managed service providers, IT service companies, the vendors who build for them.",
+   "section": "crowdsourced",
+   "recommender": "Dave (reader)"
+  },
+  {
+   "id": "2026-05-02-cross",
+   "name": "Cross",
+   "url": "https://apps.apple.com/us/app/cross-sync-tasks/id6760949467",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Just a few months ago I launched my app Cross . Cross is a to-do app that syncs to Notion. And makes it so much easier and faster to create a task in Notion.",
+   "section": "crowdsourced",
+   "recommender": "Luis (reader)"
+  },
+  {
+   "id": "2026-05-02-made-my-dumb-little-dream-come-true",
+   "name": "made my dumb little dream come true",
+   "url": "https://assets.simonfeilder.com/itsu",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "One of my favourite things is grab & go food, in particular Itsu and its fresh sushi. As a youthful spendthrift artiste, I particularly enjoyed their ‘everything is half price 30 minutes before we close’ policy.",
+   "section": "crowdsourced",
+   "recommender": "Simon (reader)"
+  },
+  {
+   "id": "2026-05-02-buena-vida-run-club",
+   "name": "Buena Vida Run Club",
+   "url": "https://buenavida.run",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I made Buena Vida Run Club . It’s Strava + MyFitnessPal + Runna + more in one app. This is no weekend vibe code... I’ve spent the past 16 months researching, designing & building. No AI hallucinations, just lots of detailed math & science.",
+   "section": "crowdsourced",
+   "recommender": "Cole (reader)"
+  },
+  {
+   "id": "2026-05-02-eating-38-cheeseburgers",
+   "name": "Eating 38 Cheeseburgers",
+   "url": "https://www.youtube.com/watch?v=S1GTNJc11wU",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I made a short film in 2023 about our current ever creeping descent into AI madness called Eating 38 Cheeseburgers . In a time when so many of us already feel isolated from one another, I saw this technology as something that could super charge that disconnection.",
+   "section": "crowdsourced",
+   "recommender": "Andrew (reader)"
+  },
+  {
+   "id": "2026-05-02-rulebook",
+   "name": "Rulebook",
+   "url": "https://lucas.io/rulebook/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I built a macOS app to automatically organize your files: Rulebook . You can set up rules, and it quietly sorts, renames, converts, beeps, moves, copies, archives, and tags your files in the background — like a personal assistant for your folders.",
+   "section": "crowdsourced",
+   "recommender": "Lucas (reader)"
+  },
+  {
+   "id": "2026-05-02-gamepal",
+   "name": "GamePal",
+   "url": "https://www.gamepalapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve built GamePal as a way to catalogue my ever growing game collection and track my play in a journal. As a designer it’s always been my dream to build my own iPhone (and soon iPad/Mac!) app and October 2024 was the moment.",
+   "section": "crowdsourced",
+   "recommender": "Jeremy (reader)"
+  },
+  {
+   "id": "2026-05-02-newslog",
+   "name": "Newslog",
+   "url": "https://www.newslog.me/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I built Newslog . It bundles your newsletters, RSS feeds, and articles into a single daily digest with an index and summaries. It’s designed specifically for calm, distraction-free reading on Kindle and deep-work archiving in Obsidian.",
+   "section": "crowdsourced",
+   "recommender": "Lucas (reader)"
+  },
+  {
+   "id": "2026-05-02-daymark",
+   "name": "Daymark",
+   "url": "https://apps.apple.com/us/app/daymark-dear-future-me/id6759787971",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Daymark is an iOS app that allows you to send virtual postcards to your future self. I struggle with perfectionism and noticing my progress, so I use this app to remind my future self of how things were in the weeks/months before.",
+   "section": "crowdsourced",
+   "recommender": "Antonio (reader)"
+  },
+  {
+   "id": "2026-05-02-a-project",
+   "name": "a project",
+   "url": "https://www.andrewpatra.com/work/hotline",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been working on a project that retrofitted an Arduino Uno into an old touchtone landline phone. The idea is that you can ‘dial’ in to a couple of numbers that I programmed and you’d get a song or a Fallout style audio log.",
+   "section": "crowdsourced",
+   "recommender": "Andrew (reader)"
+  },
+  {
+   "id": "2026-05-02-quakeinfo",
+   "name": "QuakeInfo",
+   "url": "https://www.quakeinfo.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I first released QuakeInfo in November of 2007, and it began as a way for me to learn iPhone development. QuakeInfo helped me stay informed about earthquakes around the world and near me (I live in the San Francisco Bay Area).",
+   "section": "crowdsourced",
+   "recommender": "Adam (reader)"
+  },
+  {
+   "id": "2026-05-02-changelock",
+   "name": "ChangeLock",
+   "url": "https://play.google.com/store/apps/details?id=com.thepascalheynol.changelock&pli=1",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "It’s called ChangeLock and it’s simply shoving in your face how much you use (i.e. unlock) your phone. Then at the end of each month asks you to donate a cent for each unlock. Donation is voluntary of course, but the little bit of pain on each unlock actually helps make this work psychologically.",
+   "section": "crowdsourced",
+   "recommender": "Pascal (reader)"
+  },
+  {
+   "id": "2026-05-02-a-filter",
+   "name": "a filter",
+   "url": "https://github.com/Stevoisiak/Stevos-GenAI-Blocklist",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "open-source"
+   ],
+   "blurb": "I made a filter that hides Generative AI features on websites: Google’s AI summaries, Copilot buttons, Reddit Answers, and more. I created it because of the numerous AI features popping up everywhere, and I was surprised something like this didn’t exist already.",
+   "section": "crowdsourced",
+   "recommender": "Steven (reader)"
+  },
+  {
+   "id": "2026-05-02-tuesday-night-movie-night",
+   "name": "Tuesday Night Movie Night",
+   "url": "https://www.tuesdaynightmovienight.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I made Tuesday Night Movie Night — the newsletter where readers get one good movie recommendation, every Tuesday. Our picks are 100 percent algorithm-free. We watch every movie we pick and write up the recommendation ourselves.",
+   "section": "crowdsourced",
+   "recommender": "Blake (reader)"
+  },
+  {
+   "id": "2026-05-02-an-old-skool-static-website",
+   "name": "an old-skool static website",
+   "url": "https://echofuturetruth.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been writing fiction for about 10 years and trying to find agents of publishers in a changing, confusing writer’s market. I decided to make an old-skool static website to publish my three-part speculative fiction novel as a serial, week by week.",
+   "section": "crowdsourced",
+   "recommender": "David (reader)"
+  },
+  {
+   "id": "2026-05-02-wedsearch",
+   "name": "WedSearch",
+   "url": "https://app.wedsearch.ai/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I built WedSearch entirely in Claude with zero coding knowledge. I’m now selling this to wedding suppliers and supplementing my wedding filmmaking income! Insane.​",
+   "section": "crowdsourced",
+   "recommender": "Arranv (reader)"
+  },
+  {
+   "id": "2026-05-02-play",
+   "name": "Play",
+   "url": "https://marcosatanaka.com/press-kit/play/play-press-kit.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Two years ago, you featured my app Play for saving and organizing videos. Since then, it’s grown a lot : better video player, support for transcripts and new AI features like summaries and Q&A. You can also filter subscription videos to hide YouTube shorts, and much more.",
+   "section": "crowdsourced",
+   "recommender": "Marcos (reader)"
+  },
+  {
+   "id": "2026-05-02-grown-a-lot",
+   "name": "grown a lot",
+   "url": "https://marcosatanaka.com/whats-new/play",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Two years ago, you featured my app Play for saving and organizing videos. Since then, it’s grown a lot : better video player, support for transcripts and new AI features like summaries and Q&A. You can also filter subscription videos to hide YouTube shorts, and much more.",
+   "section": "crowdsourced",
+   "recommender": "Marcos (reader)"
+  },
+  {
+   "id": "2026-05-02-did-it",
+   "name": "Did It",
+   "url": "https://did-it.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Did It , a daily wins journal I built, works on the opposite principle to a todo list. It only lets you record what you already did. No tasks waiting for tomorrow, just a quiet record of your day, however small or ordinary. Some days the win is shipping something. Some days it’s getting out of bed.",
+   "section": "crowdsourced",
+   "recommender": "Pascal (reader)"
+  },
+  {
+   "id": "2026-05-02-a-working-cyberpunk-2077-radio",
+   "name": "a working Cyberpunk 2077 Radio",
+   "url": "https://www.youtube.com/watch?v=5sSZlP6HIWE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I built a working Cyberpunk 2077 Radio . Hugely ambitious project (the FFT code to make the real-time spectrum display was a challenge, but authentic to how the radio works in the game).",
+   "section": "crowdsourced",
+   "recommender": "David (reader)"
+  },
+  {
+   "id": "2026-05-02-opencase",
+   "name": "OpenCase",
+   "url": "https://theopencase.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I make OpenCase (well, my wife and I are the entire company), the patented iPhone case with the open space for MagSafe accessories. It’s crazy how many advantages we have been alerted to by our customers due to the uniqueness of the design.",
+   "section": "crowdsourced",
+   "recommender": "John (reader)"
+  },
+  {
+   "id": "2026-05-02-dial",
+   "name": "Dial",
+   "url": "https://testflight.apple.com/join/yrKBnctM",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "beta"
+   ],
+   "blurb": "I got into home espresso two years ago and despite watching hundreds of YouTube videos, I felt like I was missing the right advice to pull better shots. I tried a few tracking apps and they all looked rough, so I built my own, called Dial .",
+   "section": "crowdsourced",
+   "recommender": "Christophe (reader)"
+  },
+  {
+   "id": "2026-05-02-the-phoenix-pencil-company",
+   "name": "The Phoenix Pencil Company",
+   "url": "https://bookshop.org/p/books/the-phoenix-pencil-company-a-novel-allison-king/5ed502fcd6030ea4?ean=9780063446236",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
+   "blurb": "I’m an author, and last year my debut novel The Phoenix Pencil Company was published (and picked as part of Reese’s Book Club!). While on the surface it’s historical fantasy about a pencil company in 1940s Shanghai, really at its core it’s a book all about data privacy.",
+   "section": "crowdsourced",
+   "recommender": "Allison (reader)"
+  },
+  {
+   "id": "2026-05-02-its-score",
+   "name": "its score",
+   "url": "https://open.spotify.com/album/47Kmv7voPLipz2zbyD8v84?si=0eDfk2mBSCK1wFhJT5VBnw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "I finally saw Project Hail Mary the other day, and knew halfway through the movie that its score was going to go in my rotation. It’s a little pluckier than some of the others I like, but it’s a perfect mood-setter.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-steve-jobs",
+   "name": "Steve Jobs",
+   "url": "https://open.spotify.com/album/4kDt5YadNve6Oq40IyfFBH?si=6MtD1_0aS0CjIHfOlE9ktw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "I finally saw Project Hail Mary the other day, and knew halfway through the movie that its score was going to go in my rotation. It’s a little pluckier than some of the others I like, but it’s a perfect mood-setter.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-05-02-spider-man-across-the-spider-verse",
+   "name": "Spider-Man: Across the Spider-Verse",
+   "url": "https://open.spotify.com/album/6nlUFeFAPjaDTA7A0VVwnO?si=T9VHqME2QQGANNNh2TXQ5Q",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "I finally saw Project Hail Mary the other day, and knew halfway through the movie that its score was going to go in my rotation. It’s a little pluckier than some of the others I like, but it’s a perfect mood-setter.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

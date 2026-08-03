@@ -1,0 +1,481 @@
+{
+ "schema": 1,
+ "date": "2025-02-02",
+ "post_type": "issue",
+ "title": "A better way to buy and read books",
+ "url": "https://www.theverge.com/installer-newsletter/604192/bookshop-spider-man-mythic-quest-installer",
+ "author": "David Pierce",
+ "number": 69,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-02-02-elon-musks-gamer-habits",
+   "name": "Elon Musk’s gamer habits",
+   "url": "https://www.washingtonpost.com/technology/2025/01/29/elon-musk-video-games-diablo-path-exile/?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Elon Musk’s gamer habits and spy satellites and how Bluesky works , trying Llamao for some offline AI-ing, organizing my photos with the Proof beta, buying more BonBon candy than I’m proud of, testing the Marginalia search engine, plotting to break into the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-02-spy-satellites",
+   "name": "spy satellites",
+   "url": "https://spectrum.ieee.org/reconnaissance-satellite?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Elon Musk’s gamer habits and spy satellites and how Bluesky works , trying Llamao for some offline AI-ing, organizing my photos with the Proof beta, buying more BonBon candy than I’m proud of, testing the Marginalia search engine, plotting to break into the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-02-how-bluesky-works",
+   "name": "how Bluesky works",
+   "url": "https://newsletter.pragmaticengineer.com/p/bluesky?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Elon Musk’s gamer habits and spy satellites and how Bluesky works , trying Llamao for some offline AI-ing, organizing my photos with the Proof beta, buying more BonBon candy than I’m proud of, testing the Marginalia search engine, plotting to break into the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-02-llamao",
+   "name": "Llamao",
+   "url": "https://llamao.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Elon Musk’s gamer habits and spy satellites and how Bluesky works , trying Llamao for some offline AI-ing, organizing my photos with the Proof beta, buying more BonBon candy than I’m proud of, testing the Marginalia search engine, plotting to break into the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-02-proof",
+   "name": "Proof",
+   "url": "https://proof-app.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Elon Musk’s gamer habits and spy satellites and how Bluesky works , trying Llamao for some offline AI-ing, organizing my photos with the Proof beta, buying more BonBon candy than I’m proud of, testing the Marginalia search engine, plotting to break into the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-02-bonbon",
+   "name": "BonBon",
+   "url": "https://bonbonnyc.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Elon Musk’s gamer habits and spy satellites and how Bluesky works , trying Llamao for some offline AI-ing, organizing my photos with the Proof beta, buying more BonBon candy than I’m proud of, testing the Marginalia search engine, plotting to break into the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-02-marginalia",
+   "name": "Marginalia",
+   "url": "https://marginalia-search.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Elon Musk’s gamer habits and spy satellites and how Bluesky works , trying Llamao for some offline AI-ing, organizing my photos with the Proof beta, buying more BonBon candy than I’m proud of, testing the Marginalia search engine, plotting to break into the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-02-the-new-dude-perfect-office",
+   "name": "the new Dude Perfect office",
+   "url": "https://www.youtube.com/watch?v=kObmcOaPcbM",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Elon Musk’s gamer habits and spy satellites and how Bluesky works , trying Llamao for some offline AI-ing, organizing my photos with the Proof beta, buying more BonBon candy than I’m proud of, testing the Marginalia search engine, plotting to break into the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-02-a-56-casio",
+   "name": "a $56 Casio",
+   "url": "https://www.casio.com/us/watches/casio/product.WS-B1000-2AV/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Elon Musk’s gamer habits and spy satellites and how Bluesky works , trying Llamao for some offline AI-ing, organizing my photos with the Proof beta, buying more BonBon candy than I’m proud of, testing the Marginalia search engine, plotting to break into the new…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-02-bookshop-org-ebooks",
+   "name": "Bookshop.org ebooks",
+   "url": "https://bookshop.org/ebooks",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
+   "blurb": "Bookshop.org does a great job of supporting independent local bookstores, and now it sells ebooks! The corresponding app is pretty basic so far, but it works, and I’m shifting my book-buying pretty quickly. (It works nicely on my Boox Palma, too, in case you were curious.)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-02-mythic-quest-season-4",
+   "name": "Mythic Quest season 4",
+   "url": "https://www.themoviedb.org/tv/94951-mythic-quest?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This is one of those shows that would be 100x more popular if it were on Netflix and not Apple TV Plus. I think the first season is basically flawless, and since then it’s been consistently at least very good.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-02-ai-software",
+   "name": "“AI Software.”",
+   "url": "https://www.youtube.com/watch?v=ua4rYsMdC4U",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "My favorite tech-related SNL skit in a minute — the idea of teaching things via an AI-generated bro-y podcast is barely even a joke anymore, and the cadence of the podcast is perfect. I assume the NotebookLM team is very happy about this.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-02-your-friendly-neighborhood-spider-man",
+   "name": "Your Friendly Neighborhood Spider-Man",
+   "url": "https://www.themoviedb.org/tv/138503-your-friendly-neighborhood-spider-man",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I am petrified of the possibility that Marvel is going to oversaturate and totally ruin Spider-Man, the way it has, uh, lots of other things. But this? This feels like an updated version of the Saturday morning cartoons I grew up with. It’s pure Millennial-nostalgia bait, and I’m here for it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-02-the-sirens-call-by-chris-hayes",
+   "name": "The Sirens’ Call, by Chris Hayes",
+   "url": "https://www.penguinrandomhouse.com/books/719661/the-sirens-call-by-chris-hayes/",
+   "alt_urls": [
+    "https://www.nytimes.com/2025/01/17/opinion/ezra-klein-podcast-chris-hayes.html"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "There’s a delightful irony in a long book about our increasingly terrible attention spans, but I’ve really enjoyed what I’ve read so far and really identify with Hayes trying to understand attention at a macro level and just, like, try to take his own brain back.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-02-we-made-mkbhds-dream-phone",
+   "name": "“We made MKBHD’s Dream Phone.",
+   "url": "https://www.youtube.com/watch?v=bny2NJkJGXc",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "” This is so interesting! Nothing got Marques Brownlee to spec out his ideal phone, and it does a really good job of running down what that phone would cost, how companies pick parts, and why it’s all more complicated than it sounds.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-02-spider-man-2-for-pc",
+   "name": "Spider-Man 2 for PC",
+   "url": "https://www.playstation.com/en-us/games/marvels-spider-man-2/marvels-spider-man-2-pc/",
+   "alt_urls": [
+    "https://www.polygon.com/spider-man-2-guides/516091/specs-system-requirements-minimum-ray-tracing"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "Speaking of great Spider-Man things — this is a very good port of a very good PlayStation game. You’ll need a beefy-ish GPU to really make the game sing, but it’s worth it just to spend dozens of hours web-slinging across the city.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-02-nvidia-geforce-rtx-5080",
+   "name": "Nvidia GeForce RTX 5080",
+   "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5080/",
+   "alt_urls": [
+    "https://www.theverge.com/2025/1/23/598045/nvidia-rtx-5080-review-test-benchmark"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "And speaking of GPUs! (I’m honestly not doing this on purpose.) The $999 5080 is out now, and my colleague Tom Warren found it to be… fine . It’s fine! But the good news is you can safely bargain hunt for a 4080 or 4090 instead.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-02-no-mans-sky-worlds-part-ii",
+   "name": "No Man’s Sky: Worlds Part II",
+   "url": "https://www.nomanssky.com/worlds-part-ii-update/",
+   "alt_urls": [
+    "https://www.theverge.com/news/599537/no-mans-sky-worlds-2-update"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "A gorgeous, impossibly huge, endlessly explorable game just got impossibly huge-er . Billions (billions!) of new solar systems, trillions (trillions!) of planets, I think you could play this game for the rest of your life and never see the end of it. Challenge accepted.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-02-xiaomi-14-ultra",
+   "name": "Xiaomi 14 Ultra",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: Xiaomi 14 Ultra.",
+   "section": "screen-share",
+   "recommender": "Dom"
+  },
+  {
+   "id": "2025-02-02-if-on-a-winters-night-a-traveler",
+   "name": "If on a Winter’s Night a Traveler",
+   "url": "https://www.harpercollins.com/products/if-on-a-winters-night-a-traveler-italo-calvino",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Google Translate is there because I’m trying to learn Italian and make myself read a couple pages of an Italian novel every day. I’m about to finish Italo Calvino’s If on a Winter’s Night a Traveler , and Translate is my backup for the many times I hit a word I don’t know.",
+   "section": "screen-share",
+   "recommender": "Dom"
+  },
+  {
+   "id": "2025-02-02-severance",
+   "name": "Severance",
+   "url": "https://tv.apple.com/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx?itscg=30200&itsct=tv_box_link&mttnsubad=umc.cmc.1srk2goyh2q2zdxcx605w8vtx&at=1001l7uV&ct=VergeInstaller013124",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "Severance . I know, me and everyone else. But season 2 has been great so far. I’m supremely into the entire aesthetic, and it feels like a treat just to get a TV show that’s appointment viewing again. New Philosopher . Before I was ever a journalist, I thought I was going to do a PhD in philosophy.",
+   "section": "screen-share",
+   "recommender": "Dom"
+  },
+  {
+   "id": "2025-02-02-new-philosopher",
+   "name": "New Philosopher",
+   "url": "https://www.newphilosopher.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Severance . I know, me and everyone else. But season 2 has been great so far. I’m supremely into the entire aesthetic, and it feels like a treat just to get a TV show that’s appointment viewing again. New Philosopher . Before I was ever a journalist, I thought I was going to do a PhD in philosophy.",
+   "section": "screen-share",
+   "recommender": "Dom"
+  },
+  {
+   "id": "2025-02-02-vittles",
+   "name": "Vittles",
+   "url": "https://www.vittlesmagazine.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Severance . I know, me and everyone else. But season 2 has been great so far. I’m supremely into the entire aesthetic, and it feels like a treat just to get a TV show that’s appointment viewing again. New Philosopher . Before I was ever a journalist, I thought I was going to do a PhD in philosophy.",
+   "section": "screen-share",
+   "recommender": "Dom"
+  },
+  {
+   "id": "2025-02-02-arcs",
+   "name": "Arcs",
+   "url": "https://ledergames.com/products/arcs",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Severance . I know, me and everyone else. But season 2 has been great so far. I’m supremely into the entire aesthetic, and it feels like a treat just to get a TV show that’s appointment viewing again. New Philosopher . Before I was ever a journalist, I thought I was going to do a PhD in philosophy.",
+   "section": "screen-share",
+   "recommender": "Dom"
+  },
+  {
+   "id": "2025-02-02-root",
+   "name": "Root",
+   "url": "https://ledergames.com/products/root-a-game-of-woodland-might-and-right",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Severance . I know, me and everyone else. But season 2 has been great so far. I’m supremely into the entire aesthetic, and it feels like a treat just to get a TV show that’s appointment viewing again. New Philosopher . Before I was ever a journalist, I thought I was going to do a PhD in philosophy.",
+   "section": "screen-share",
+   "recommender": "Dom"
+  },
+  {
+   "id": "2025-02-02-new-music-video",
+   "name": "new music video",
+   "url": "https://www.youtube.com/watch?v=MOEULOSVNK4",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Great new music video from OK Go. 64 videos on 64 iPhones! There’s also an interesting behind-the-scenes video to go with it.",
+   "section": "crowdsourced",
+   "recommender": "Owen (reader)"
+  },
+  {
+   "id": "2025-02-02-behind-the-scenes-video",
+   "name": "behind-the-scenes video",
+   "url": "https://www.youtube.com/watch?v=tY7hI-mPqr8",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Great new music video from OK Go. 64 videos on 64 iPhones! There’s also an interesting behind-the-scenes video to go with it.",
+   "section": "crowdsourced",
+   "recommender": "Owen (reader)"
+  },
+  {
+   "id": "2025-02-02-pataal-lok",
+   "name": "Pataal Lok",
+   "url": "https://www.themoviedb.org/tv/103051-paatal-lok?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Pataal Lok on Prime Video is phenomenal. Season 2 just dropped and is set in a part of India that even most Indians are unaware about. Check it out.",
+   "section": "crowdsourced",
+   "recommender": "Krishnan (reader)"
+  },
+  {
+   "id": "2025-02-02-telly",
+   "name": "Telly",
+   "url": "https://www.telly.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "About two weeks ago my Telly finally arrived after ~1.5 years of being on the waitlist and it absolutely lives up to the hype! My one big asterisk is that the integrated soundbar and secondary ‘Smart Screen’ at the bottom make the TV much taller than you expect.",
+   "section": "crowdsourced",
+   "recommender": "Drake (reader)"
+  },
+  {
+   "id": "2025-02-02-cine2nerdle-battle",
+   "name": "Cine2Nerdle Battle",
+   "url": "https://www.cinenerdle2.app/battle",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Cine2Nerdle Battle has been taking up a lot of time for me this week. You connect films based on shared cast or crew. Super fun for movie nerds.",
+   "section": "crowdsourced",
+   "recommender": "Mark (reader)"
+  },
+  {
+   "id": "2025-02-02-chatgpt-tasks",
+   "name": "ChatGPT Tasks",
+   "url": "https://chatgpt.com/tasks",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am using ChatGPT Tasks . I’ve since revised my first attempt to include three distinct gratitude writing prompts and three distinct AI news items. I’m also a Dallas Cowboys fan (don’t judge) and have ChatGPT monitoring their hunt for a new head coach.",
+   "section": "crowdsourced",
+   "recommender": "Tony (reader)"
+  },
+  {
+   "id": "2025-02-02-phanteks-evolv-x2",
+   "name": "Phanteks Evolv X2",
+   "url": "https://phanteks.com/product/evolv-x2-black/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week I’ll be taking apart my PC and transferring everything into a new Phanteks Evolv X2 case.",
+   "section": "crowdsourced",
+   "recommender": "Sean (reader)"
+  },
+  {
+   "id": "2025-02-02-ktool",
+   "name": "KTool",
+   "url": "https://ktool.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "KTool . It lets me get my RSS feeds and my newsletters to my Kindle so I can read them like a magazine and limit my scroll time. It’s amazing.",
+   "section": "crowdsourced",
+   "recommender": "Murphy (reader)"
+  },
+  {
+   "id": "2025-02-02-kvaesitso",
+   "name": "Kvaesitso",
+   "url": "https://github.com/MM2-0/Kvaesitso",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "open-source"
+   ],
+   "blurb": "Kvaesitso is an Android launcher that isn’t available on the Play Store, but as someone who loves to dabble in launchers, it’s one of the smartest I’ve ever used. It’s so clean, super intuitive, but thanks to an extraordinary search function, it’s also SO powerful.",
+   "section": "crowdsourced",
+   "recommender": "Luke (reader)"
+  },
+  {
+   "id": "2025-02-02-zen-browser",
+   "name": "Zen Browser",
+   "url": "https://zen-browser.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Switched over to Zen Browser . Basically Arc, but open-source and built on Firefox. Hoping for folders to be implemented soon.",
+   "section": "crowdsourced",
+   "recommender": "Phase (reader)"
+  },
+  {
+   "id": "2025-02-02-the-storygraph",
+   "name": "The StoryGraph",
+   "url": "https://thestorygraph.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Have made reading a big goal for this year. To that end, my partner and I started some goal tracking through an app called The StoryGraph , where you enter what you’re reading each day and it provides a nice summary, which you can share with others.",
+   "section": "crowdsourced",
+   "recommender": "Colin (reader)"
+  },
+  {
+   "id": "2025-02-02-tgl",
+   "name": "TGL",
+   "url": "https://tglgolf.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "On Monday this week, I hopped on a flight to West Palm Beach, FL, to go to a golf match. But not a normal golf match: I went to see TGL , a new indoor and simulator-based golf league that has a genuinely astonishing amount of new technology baked in.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-02-espn-has-a-good-story",
+   "name": "ESPN has a good story",
+   "url": "https://www.espn.com/golf/story/_/id/43396344/making-tgl-inaugural-season-sofi-center-jupiter-florida-tiger-woods-rory-mcilroy",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "On Monday this week, I hopped on a flight to West Palm Beach, FL, to go to a golf match. But not a normal golf match: I went to see TGL , a new indoor and simulator-based golf league that has a genuinely astonishing amount of new technology baked in.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-02-a-great-youtube-tour",
+   "name": "a great YouTube tour",
+   "url": "https://www.youtube.com/watch?v=PEMU-HzSoEE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’m going to have a bunch of stuff on The Verge about that trip in the next couple of weeks. But in the meantime, if you care at all about golf, you should check it out.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

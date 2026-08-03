@@ -1,0 +1,447 @@
+{
+ "schema": 1,
+ "date": "2024-02-18",
+ "post_type": "issue",
+ "title": "How to live your life in text files",
+ "url": "https://www.theverge.com/2024/2/18/24075077/bose-ultra-open-superlist-bulletin-text-files-note-apps-installer",
+ "author": "David Pierce",
+ "number": 26,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "spotlight",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:36+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-02-18-redesigned-you-com",
+   "name": "redesigned You.com",
+   "url": "https://you.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been playing with the redesigned You.com for AI research, trying out the Phanpy Mastodon client, getting back into Zombies, Run after reading Vee Song’s great story about Fantasy Hike , and reading the new “lost chapter” of The Martian before probably just rereading The Martian…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-18-phanpy",
+   "name": "Phanpy",
+   "url": "https://phanpy.social/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been playing with the redesigned You.com for AI research, trying out the Phanpy Mastodon client, getting back into Zombies, Run after reading Vee Song’s great story about Fantasy Hike , and reading the new “lost chapter” of The Martian before probably just rereading The Martian…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-18-zombies-run",
+   "name": "Zombies, Run",
+   "url": "https://zrx.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been playing with the redesigned You.com for AI research, trying out the Phanpy Mastodon client, getting back into Zombies, Run after reading Vee Song’s great story about Fantasy Hike , and reading the new “lost chapter” of The Martian before probably just rereading The Martian…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-18-lost-chapter-of-the-martian",
+   "name": "“lost chapter” of The Martian",
+   "url": "https://galactanet.com/lostsols.pdf",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been playing with the redesigned You.com for AI research, trying out the Phanpy Mastodon client, getting back into Zombies, Run after reading Vee Song’s great story about Fantasy Hike , and reading the new “lost chapter” of The Martian before probably just rereading The Martian…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-18-the-martian",
+   "name": "The Martian",
+   "url": "https://andyweirauthor.com/#the-martian",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been playing with the redesigned You.com for AI research, trying out the Phanpy Mastodon client, getting back into Zombies, Run after reading Vee Song’s great story about Fantasy Hike , and reading the new “lost chapter” of The Martian before probably just rereading The Martian…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-18-boses-ultra-open-earbuds",
+   "name": "Bose’s Ultra Open Earbuds",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://www.bose.com/p/earbuds/bose-ultra-open-earbuds/ULT-HEADPHONEOPN.html?cjdata=MXxOfDB8WXww&affiliateid=CJ8836598&Publisher=Vox+Media&cjevent=7e5a70cecc6111ee83834adc0a82b838",
+   "alt_urls": [
+    "https://www.theverge.com/24073019/bose-ultra-open-earbuds-review"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "For some reason, over the last year or so, almost all in-ear headphones suddenly leave my ears sore and scratchy. So I’m very curious to try these — even though at $299 they’re too expensive for my tastes, the clip-on style seems like it could work .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-18-bulletin",
+   "name": "Bulletin",
+   "url": "https://apps.apple.com/us/app/bulletin-ai-news/id6476572500",
+   "alt_urls": [
+    "https://twitter.com/JPEGuin/status/1758144223910441156"
+   ],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "The Verge ’s Parker Ortolani turned me onto this: a new (Apple-only) news- and RSS-reading app with a lot of AI features for summarization and stuff, but also just a really lovely UI for reading news feeds. You can add premade lists, dump in any site or feed, even save stuff to read later.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-18-the-space-race",
+   "name": "The Space Race",
+   "url": "https://www.themoviedb.org/movie/1107136-the-space-race/watch",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "A really cool documentary about early Black astronauts, with tons of archival footage and a really wild Cold War subplot. As with all good space docs, make sure you watch this one on the biggest screen you can find.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-18-mark-zuckerbergs-vision-pro-review",
+   "name": "Mark Zuckerberg’s Vision Pro review",
+   "url": "https://www.instagram.com/reel/C3TkhmivNzt",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The review itself is, like, fine — I think Zuck is right about a lot of the things people actually want headsets for, and about the price-to-quality balance being a tricky one. But shooting a review of a competitor’s product, with your own product, in such a casual way, is just fascinating to me.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-18-the-one-thing-keeping-this-iconic-vintage-laptop",
+   "name": "The ONE thing keeping this iconic vintage laptop from working…",
+   "url": "https://www.youtube.com/watch?v=oLNdFQ5gD_0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Recently, for reasons I hope to someday be able to tell you about, I’ve been deep down the rabbit hole of awesome old gadgets.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-18-superlist",
+   "name": "Superlist",
+   "url": "https://www.superlist.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week’s “to-do list app that’s so close to being everything I wanted and maybe I’ll just spend the whole weekend trying it out.” It’s a teams-first product, which, meh, but this is the best-looking productivity app I’ve seen in years.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-18-mario-vs-donkey-kong",
+   "name": "Mario vs. Donkey Kong",
+   "url": "https://www.nintendo.com/us/store/products/mario-vs-donkey-kong-switch/",
+   "alt_urls": [
+    "https://www.polygon.com/reviews/24072246/mario-vs-donkey-kong-switch-review"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "More updated spins on old-school Mario games for the Switch! How did we get so lucky! This one’s a platformer with a really fun puzzle-y twist , which is exactly the kind of game I like to spend too many hours playing on the couch.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-18-how-ai-tech-can-give-dead-people-a-voice",
+   "name": "How AI Tech Can Give Dead People a Voice",
+   "url": "https://www.youtube.com/watch?v=h3VZjuttZbQ",
+   "alt_urls": [
+    "https://www.theshotline.org/"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week’s winner of the “Is this powerful and awesome, or is this horrifying” award is The Shotline, which is using AI to recreate the voices of kids who were victims of gun violence. Joanna Stern’s video is great, and The Shotline’s voices will make you feel… a lot of things.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-18-duckduckgo",
+   "name": "DuckDuckGo",
+   "url": "https://duckduckgo.com/",
+   "alt_urls": [
+    "https://spreadprivacy.com/password-sync-backup/",
+    "https://www.theverge.com/2024/2/14/24071815/duckduckgo-browser-device-syncing-privacy-encryption"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "DDG just rolled out a cool new tool that lets you sync passwords and bookmarks across platforms without needing an account; you just scan a QR code to add a new device. At this point, I’m wary of saying any company is actually a good privacy option, but DuckDuckGo is certainly doing the work.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-18-noteplan",
+   "name": "NotePlan",
+   "url": "https://noteplan.co/",
+   "alt_urls": [
+    "https://obsidian.md/",
+    "https://logseq.com/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I use an iOS and Mac app called NotePlan for daily notes and task management — the app is built on top of a folder of Markdown files I can easily use anywhere else. Obsidian and Logseq are both the same way and are both excellent (if very different) apps.",
+   "section": "spotlight",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-18-raindrop",
+   "name": "Raindrop",
+   "url": "https://raindrop.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I use the bookmarking service Raindrop to store all the links I care about, for Installer and everything else, and once a week I export all my links as a CSV file and again as a text file.",
+   "section": "spotlight",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-18-day-one",
+   "name": "Day One",
+   "url": "https://dayoneapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "is where I keep my actual journal, and every month or so I export the whole thing to a PDF.",
+   "section": "spotlight",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-18-once-a-year-or-so-when-im-feeling-both-bored-and",
+   "name": "Once a year or so, when I’m feeling both bored and ambitious, I’ll back up my en",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "tire camera roll and Google Photos library to an external hard drive. All the other stuff goes into Google Drive, and onto that same hard drive.",
+   "section": "spotlight",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-18-this-is-an-iphone-14-i-believe",
+   "name": "This is an iPhone 14, I believe",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: This is an iPhone 14, I believe. The screen is cracked and I use it exclusively for work. I have an iPhone mini with no apps except Spotify and Google Maps that I use as my personal phone.",
+   "section": "screen-share",
+   "recommender": "Zoë"
+  },
+  {
+   "id": "2024-02-18-harry-potter",
+   "name": "Harry Potter",
+   "url": "https://www.wizardingworld.com/discover/books",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Right now, I’m rereading Harry Potter and listening to a lot of Caroline Shaw . Oh you meant on the internet??? Huh. Huuuuuh. I like the fashion newsletter Blackbird Spyplane . I’m a big fan of the Moderated Content podcast.",
+   "section": "screen-share",
+   "recommender": "Zoë"
+  },
+  {
+   "id": "2024-02-18-caroline-shaw",
+   "name": "Caroline Shaw",
+   "url": "https://carolineshaw.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Right now, I’m rereading Harry Potter and listening to a lot of Caroline Shaw . Oh you meant on the internet??? Huh. Huuuuuh. I like the fashion newsletter Blackbird Spyplane . I’m a big fan of the Moderated Content podcast.",
+   "section": "screen-share",
+   "recommender": "Zoë"
+  },
+  {
+   "id": "2024-02-18-blackbird-spyplane",
+   "name": "Blackbird Spyplane",
+   "url": "https://www.blackbirdspyplane.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Right now, I’m rereading Harry Potter and listening to a lot of Caroline Shaw . Oh you meant on the internet??? Huh. Huuuuuh. I like the fashion newsletter Blackbird Spyplane . I’m a big fan of the Moderated Content podcast.",
+   "section": "screen-share",
+   "recommender": "Zoë"
+  },
+  {
+   "id": "2024-02-18-moderated-content",
+   "name": "Moderated Content",
+   "url": "https://law.stanford.edu/evelyn-douek/moderated-content/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Right now, I’m rereading Harry Potter and listening to a lot of Caroline Shaw . Oh you meant on the internet??? Huh. Huuuuuh. I like the fashion newsletter Blackbird Spyplane . I’m a big fan of the Moderated Content podcast.",
+   "section": "screen-share",
+   "recommender": "Zoë"
+  },
+  {
+   "id": "2024-02-18-jacqueline-novak",
+   "name": "Jacqueline Novak",
+   "url": "https://www.jokesnovak.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Right now, I’m rereading Harry Potter and listening to a lot of Caroline Shaw . Oh you meant on the internet??? Huh. Huuuuuh. I like the fashion newsletter Blackbird Spyplane . I’m a big fan of the Moderated Content podcast.",
+   "section": "screen-share",
+   "recommender": "Zoë"
+  },
+  {
+   "id": "2024-02-18-a-new-comedy-special-on-netflix",
+   "name": "a new comedy special on Netflix",
+   "url": "https://www.themoviedb.org/movie/1214980-jacqueline-novak-get-on-your-knees",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Right now, I’m rereading Harry Potter and listening to a lot of Caroline Shaw . Oh you meant on the internet??? Huh. Huuuuuh. I like the fashion newsletter Blackbird Spyplane . I’m a big fan of the Moderated Content podcast.",
+   "section": "screen-share",
+   "recommender": "Zoë"
+  },
+  {
+   "id": "2024-02-18-dominion",
+   "name": "Dominion",
+   "url": "https://templegatesgames.com/gamepages/dominion.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been playing the new Dominion card game app! Dominion is a deckbuilding game from back in the day, and it’s got several (I believe 15) expansions so far. Previous iterations of the game online and in app form never fully realized their potential.",
+   "section": "crowdsourced",
+   "recommender": "Matt (reader)"
+  },
+  {
+   "id": "2024-02-18-worlds-beyond-number",
+   "name": "Worlds Beyond Number",
+   "url": "https://worldsbeyondnumber.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been listening to and immensely enjoying Worlds Beyond Number , an actual play narrative podcast from the best folks to ever do it.",
+   "section": "crowdsourced",
+   "recommender": "Caleb (reader)"
+  },
+  {
+   "id": "2024-02-18-retroid-pocket-4-pro",
+   "name": "Retroid Pocket 4 Pro",
+   "url": "https://www.goretroid.com/products/retroid-pocket-4-handheld",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I received my Retroid Pocket 4 Pro in the mail this week after about a month of waiting from China. It exceeded expectations, and I’m having a great time emulating N64, GameCube, and PlayStation 2 games.",
+   "section": "crowdsourced",
+   "recommender": "Nicholas (reader)"
+  },
+  {
+   "id": "2024-02-18-miyoo-plus",
+   "name": "Miyoo Plus",
+   "url": "https://miyoominiv2.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Having fun playing old Nintendo titles on the Miyoo Plus . Such a great device. Feels like a time machine.",
+   "section": "crowdsourced",
+   "recommender": "Jamie (reader)"
+  },
+  {
+   "id": "2024-02-18-prince-of-persia-the-lost-crown",
+   "name": "Prince of Persia: The Lost Crown",
+   "url": "https://www.ubisoft.com/en-us/game/prince-of-persia/the-lost-crown",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m playing, and overwhelmingly impressed with, Prince of Persia: The Lost Crown . It feels like a love letter to Castlevania and Metroid , and heavily inspired by Hollow Knight … but also innovates in some really clever ways. It also runs incredibly well on the Switch.",
+   "section": "crowdsourced",
+   "recommender": "Steve (reader)"
+  },
+  {
+   "id": "2024-02-18-mela",
+   "name": "Mela",
+   "url": "https://mela.recipes/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Probably one of the most used apps on my phone is Mela , by Silvio Rizzi. It’s a thoughtfully designed recipe app designed to share with your family. It has a shared family recipe library and integrations with Reminders and Calendar to ensure my fiancé and I are always on the same page.",
+   "section": "crowdsourced",
+   "recommender": "Liam (reader)"
+  },
+  {
+   "id": "2024-02-18-what-happened-last-week",
+   "name": "What Happened Last Week",
+   "url": "https://whathappenedlastweek.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s called What Happened Last Week , and it’s a great way to keep up with news from countries that are not often reported on in places like Africa, Asia, and Latin America.",
+   "section": "crowdsourced",
+   "recommender": "Richard (reader)"
+  },
+  {
+   "id": "2024-02-18-windows95man",
+   "name": "Windows95Man",
+   "url": "https://www.youtube.com/watch?v=Tf1NS1vEhSg",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Windows95Man is Finland’s entry to Eurovision this year, and it’s amazing on so many layers. Watching the video on YouTube is mandatory for full appreciation.",
+   "section": "crowdsourced",
+   "recommender": "Sighjinks (reader)"
+  },
+  {
+   "id": "2024-02-18-game-changer",
+   "name": "Game Changer",
+   "url": "https://www.dropout.tv/videos/second-place",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The new season of Game Changer on Dropout started this week, and it’s a treat as always!",
+   "section": "crowdsourced",
+   "recommender": "Noah (reader)"
+  },
+  {
+   "id": "2024-02-18-all-led-full-court-screen",
+   "name": "all-LED full-court screen",
+   "url": "https://www.threads.net/@nba/post/C3Xy02uMBfZ",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The biggest, weirdest tech story of this weekend is coming from a slightly surprising place: the floor of the NBA All-Star Game. Have you seen the videos of the all-LED full-court screen ? Here’s an example of what this kind of thing looks like during a game, too.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-02-18-heres-an-example",
+   "name": "Here’s an example",
+   "url": "https://www.youtube.com/watch?v=EclVSjR6JdQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The biggest, weirdest tech story of this weekend is coming from a slightly surprising place: the floor of the NBA All-Star Game. Have you seen the videos of the all-LED full-court screen ? Here’s an example of what this kind of thing looks like during a game, too.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

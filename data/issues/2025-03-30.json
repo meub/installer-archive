@@ -1,0 +1,534 @@
+{
+ "schema": 1,
+ "date": "2025-03-30",
+ "post_type": "issue",
+ "title": "Apple TV Plus is on a hot streak",
+ "url": "https://www.theverge.com/installer-newsletter/638592/the-studio-apple-tv-plus-installer",
+ "author": "David Pierce",
+ "number": 77,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-03-30-risc",
+   "name": "RISC",
+   "url": "https://www.wired.com/story/angelina-jolie-was-right-about-risc-architecture/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about RISC and Ben Affleck and Google’s new search boss , installing a SodaStream because my can situation is getting out of control, binge-watching How I Met Your Mother along with the new rewatch pod , watching Dead Talents Society after my colleagues raved about it…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-30-ben-affleck",
+   "name": "Ben Affleck",
+   "url": "https://www.gq.com/story/inside-ben-afflecks-plan-to-remake-hollywood?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about RISC and Ben Affleck and Google’s new search boss , installing a SodaStream because my can situation is getting out of control, binge-watching How I Met Your Mother along with the new rewatch pod , watching Dead Talents Society after my colleagues raved about it…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-30-googles-new-search-boss",
+   "name": "Google’s new search boss",
+   "url": "https://www.bloomberg.com/news/features/2025-03-24/google-s-ai-search-overhaul-racing-chatgpt-for-the-web-s-future?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc0Mjg1MjAwOCwiZXhwIjoxNzQzNDU2ODA4LCJhcnRpY2xlSWQiOiJTVE5CT0lEV1JHRzAwMCIsImJjb25uZWN0SWQiOiIxMEJDQkE5REUzM0U0M0M0ODBBNzNCMjFFQzdGQ0Q2RiJ9.vl2LLmt-bUdTwiswCIZ352kl7RP3HP3a03EWJSWCzJw&leadSource=uverify+wall&__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about RISC and Ben Affleck and Google’s new search boss , installing a SodaStream because my can situation is getting out of control, binge-watching How I Met Your Mother along with the new rewatch pod , watching Dead Talents Society after my colleagues raved about it…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-30-sodastream",
+   "name": "SodaStream",
+   "url": "https://sodastream.com/products/art?variant=40281333661738",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about RISC and Ben Affleck and Google’s new search boss , installing a SodaStream because my can situation is getting out of control, binge-watching How I Met Your Mother along with the new rewatch pod , watching Dead Talents Society after my colleagues raved about it…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-30-how-i-met-your-mother",
+   "name": "How I Met Your Mother",
+   "url": "https://www.themoviedb.org/tv/1100-how-i-met-your-mother?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about RISC and Ben Affleck and Google’s new search boss , installing a SodaStream because my can situation is getting out of control, binge-watching How I Met Your Mother along with the new rewatch pod , watching Dead Talents Society after my colleagues raved about it…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-30-the-new-rewatch-pod",
+   "name": "the new rewatch pod",
+   "url": "https://www.howwemadeyourmother.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about RISC and Ben Affleck and Google’s new search boss , installing a SodaStream because my can situation is getting out of control, binge-watching How I Met Your Mother along with the new rewatch pod , watching Dead Talents Society after my colleagues raved about it…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-30-dead-talents-society",
+   "name": "Dead Talents Society",
+   "url": "https://www.themoviedb.org/movie/1006724",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about RISC and Ben Affleck and Google’s new search boss , installing a SodaStream because my can situation is getting out of control, binge-watching How I Met Your Mother along with the new rewatch pod , watching Dead Talents Society after my colleagues raved about it…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-30-benny-blanco-interview",
+   "name": "Benny Blanco interview",
+   "url": "https://www.youtube.com/watch?v=Q12XDphPJL0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about RISC and Ben Affleck and Google’s new search boss , installing a SodaStream because my can situation is getting out of control, binge-watching How I Met Your Mother along with the new rewatch pod , watching Dead Talents Society after my colleagues raved about it…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-30-signal",
+   "name": "Signal",
+   "url": "https://signal.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about RISC and Ben Affleck and Google’s new search boss , installing a SodaStream because my can situation is getting out of control, binge-watching How I Met Your Mother along with the new rewatch pod , watching Dead Talents Society after my colleagues raved about it…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-30-new-star-gp",
+   "name": "New Star GP",
+   "url": "https://www.newstargames.com/new-star-gp",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about RISC and Ben Affleck and Google’s new search boss , installing a SodaStream because my can situation is getting out of control, binge-watching How I Met Your Mother along with the new rewatch pod , watching Dead Talents Society after my colleagues raved about it…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-30-the-studio",
+   "name": "The Studio",
+   "url": "https://www.themoviedb.org/tv/247767-the-studio?language=en-US",
+   "alt_urls": [
+    "https://www.theverge.com/tv-reviews/627183/the-studio-review-seth-rogen-apple"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’ve been excited for this show — a comedy with Seth Rogen as a Hollywood exec who wants to make cool things but also doesn’t want to get fired — since I saw the first trailer. The first episode is excellent, and the reviews have been glowing .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-30-images-in-chatgpt",
+   "name": "Images in ChatGPT",
+   "url": "https://help.openai.com/en/articles/8932459-creating-images-in-chatgpt",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This feature has made the internet super weird all week. I’ve seen and made some really cool, beautiful stuff, and also horrors I hoped to never encounter. This feels like a step beyond any image generation stuff I’ve seen before.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-30-the-twelve-south-airfly-pro-2",
+   "name": "The Twelve South AirFly Pro 2",
+   "url": "https://www.twelvesouth.com/products/airfly-pro-2",
+   "alt_urls": [
+    "https://www.theverge.com/news/634582/twelve-south-airfly-pro-2-wireless-headphone-bluetooth-dongle"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This is one of those accessories that shouldn’t need to exist, but I’m glad it does — a dongle for connecting Bluetooth headphones to seat-back screens, old-school audio systems, and more. The new model has better sound and faster pairing, which almost makes the $59.99 price tag tolerable.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-30-beyond-im-back-how-the-fax-machine-sent-sports-t",
+   "name": "Beyond ‘I’m Back’: How the Fax Machine Sent Sports to the Future",
+   "url": "https://www.youtube.com/watch?v=LIH1HE86piQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Beyond ‘I’m Back’: How the Fax Machine Sent Sports to the Future .” This is a really fun blast from the past about how fax machines intersected with some of the biggest moments in the history of sports, and how a now-quaint technology was, for so many years, a huge leap forward.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-30-vivaldi",
+   "name": "Vivaldi",
+   "url": "https://vivaldi.com/",
+   "alt_urls": [
+    "https://vivaldi.com/blog/privacy-without-compromise-proton-vpn-is-now-built-into-vivaldi/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "An excellent browser with a great new feature: a built-in VPN courtesy of Proton. It’s never super difficult to get a VPN, but baking this in for free and as part of your browser account makes things easy. One to keep installed, even if it’s not your daily driver.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-30-paul-american",
+   "name": "Paul American",
+   "url": "https://www.themoviedb.org/tv/283393-paul-american?language=ms?language%3Dms",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I cannot, in good conscience, tell you it’s a good idea to watch an eight-episode Max documentary about the Paul brothers that almost seems like a parody of itself. All I can tell you is that I will watch every single second of it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-30-side-quest",
+   "name": "Side Quest",
+   "url": "https://www.themoviedb.org/tv/216412-side-quest",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Now this I can happily recommend! Mythic Quest is one of my favorite comedies (another win for Apple TV Plus, somehow) and has always been at its best doing one-off bottle episodes.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-30-atomfall",
+   "name": "Atomfall",
+   "url": "https://atomfall.com/",
+   "alt_urls": [
+    "https://www.theverge.com/games-review/635297/atomfall-review-xbox-ps5-steam"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "A postapocalyptic survival game set in some extremely British locales, with a big world and a big story ? I don’t always love a wander-around game, but this sounds like my kind of wandering.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-30-iphone-14-pro",
+   "name": "iPhone 14 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 14 Pro. The screen is kind of crushed, but generally, it’s a fine device and actually fits in my hand!",
+   "section": "screen-share",
+   "recommender": "Marina"
+  },
+  {
+   "id": "2025-03-30-untitled-black-on-gray",
+   "name": "Untitled (Black on Gray)",
+   "url": "https://www.guggenheim.org/artwork/3535",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: It’s a Gothko! Mark Rothko’s Untitled (Black on Gray) that I saw at the Guggenheim years ago.",
+   "section": "screen-share",
+   "recommender": "Marina"
+  },
+  {
+   "id": "2025-03-30-ai-garbage-stinking-up-search-results",
+   "name": "AI garbage stinking up search results",
+   "url": "https://news.artnet.com/art-world/cubism-ai-slop-google-2597531",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: It’s a Gothko! Mark Rothko’s Untitled (Black on Gray) that I saw at the Guggenheim years ago.",
+   "section": "screen-share",
+   "recommender": "Marina"
+  },
+  {
+   "id": "2025-03-30-apple-fitness",
+   "name": "Apple Fitness",
+   "url": "https://www.apple.com/apple-fitness-plus/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Clearly, I’m really into gamified fitness right now. The Verge ’s Victoria Song turned me onto both Apple Fitness and Ladder , and I’m sort of oscillating between the two. I only still have Twitter as an occupational hazard. Otherwise it would be gone. The best (only good?)",
+   "section": "screen-share",
+   "recommender": "Marina"
+  },
+  {
+   "id": "2025-03-30-ladder",
+   "name": "Ladder",
+   "url": "https://www.joinladder.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Clearly, I’m really into gamified fitness right now. The Verge ’s Victoria Song turned me onto both Apple Fitness and Ladder , and I’m sort of oscillating between the two. I only still have Twitter as an occupational hazard. Otherwise it would be gone. The best (only good?)",
+   "section": "screen-share",
+   "recommender": "Marina"
+  },
+  {
+   "id": "2025-03-30-twitter",
+   "name": "Twitter",
+   "url": "https://x.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Clearly, I’m really into gamified fitness right now. The Verge ’s Victoria Song turned me onto both Apple Fitness and Ladder , and I’m sort of oscillating between the two. I only still have Twitter as an occupational hazard. Otherwise it would be gone. The best (only good?)",
+   "section": "screen-share",
+   "recommender": "Marina"
+  },
+  {
+   "id": "2025-03-30-letterboxd",
+   "name": "Letterboxd",
+   "url": "https://letterboxd.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Clearly, I’m really into gamified fitness right now. The Verge ’s Victoria Song turned me onto both Apple Fitness and Ladder , and I’m sort of oscillating between the two. I only still have Twitter as an occupational hazard. Otherwise it would be gone. The best (only good?)",
+   "section": "screen-share",
+   "recommender": "Marina"
+  },
+  {
+   "id": "2025-03-30-way-of-life",
+   "name": "Way of Life",
+   "url": "https://wayoflifeapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Way of Life — I should explain that one, because it sounds like a cult manual. It’s just a very simple habit tracker that doesn’t just count multiple streaks but generates handy little graphs and charts to visualize your W v. L day ratios. Gamify everything.",
+   "section": "screen-share",
+   "recommender": "Marina"
+  },
+  {
+   "id": "2025-03-30-acts-of-desperation",
+   "name": "Acts of Desperation",
+   "url": "https://www.hachettebookgroup.com/titles/megan-nolan/acts-of-desperation/9781549185779/?lens=little-brown",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I enjoyed reading Acts of Desperation recently, by Megan Nolan — a good book about a bad relationship. I’m still thinking about Companion even though I gave it only three stars on Letterboxd, but a solid three stars. More of an extended metaphor than a believable sci-fi flick, but satisfying.",
+   "section": "screen-share",
+   "recommender": "Marina"
+  },
+  {
+   "id": "2025-03-30-companion",
+   "name": "Companion",
+   "url": "https://www.themoviedb.org/movie/1084199-companion?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I enjoyed reading Acts of Desperation recently, by Megan Nolan — a good book about a bad relationship. I’m still thinking about Companion even though I gave it only three stars on Letterboxd, but a solid three stars. More of an extended metaphor than a believable sci-fi flick, but satisfying.",
+   "section": "screen-share",
+   "recommender": "Marina"
+  },
+  {
+   "id": "2025-03-30-silksong",
+   "name": "Silksong",
+   "url": "https://hollowknightsilksong.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I enjoyed reading Acts of Desperation recently, by Megan Nolan — a good book about a bad relationship. I’m still thinking about Companion even though I gave it only three stars on Letterboxd, but a solid three stars. More of an extended metaphor than a believable sci-fi flick, but satisfying.",
+   "section": "screen-share",
+   "recommender": "Marina"
+  },
+  {
+   "id": "2025-03-30-hollow-knight",
+   "name": "Hollow Knight",
+   "url": "https://www.hollowknight.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I enjoyed reading Acts of Desperation recently, by Megan Nolan — a good book about a bad relationship. I’m still thinking about Companion even though I gave it only three stars on Letterboxd, but a solid three stars. More of an extended metaphor than a believable sci-fi flick, but satisfying.",
+   "section": "screen-share",
+   "recommender": "Marina"
+  },
+  {
+   "id": "2025-03-30-multiviewer",
+   "name": "MultiViewer",
+   "url": "https://multiviewer.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As Formula 1 season begins, it’s worth mentioning that the best way of following the sport live or through replays for true F1 fans is by using the incredibly cool MultiViewer app. It enables you to use multiple streams and get live timing and tons of other data in real time.",
+   "section": "crowdsourced",
+   "recommender": "David (reader)"
+  },
+  {
+   "id": "2025-03-30-getinvoice",
+   "name": "GetInvoice",
+   "url": "https://www.get-invoice.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I discovered GetInvoice , a tool that extracts invoices and receipts from your emails and web portals. Has saved our company a huge amount of time for tax season.",
+   "section": "crowdsourced",
+   "recommender": "Miki (reader)"
+  },
+  {
+   "id": "2025-03-30-kobo",
+   "name": "Kobo",
+   "url": "https://us.kobobooks.com/collections/eReaders",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Amazon’s lockdown of book downloads convinced me to download all my books from various services and put them on a self-hosted server, accessible from my Kobo . So thanks for the nudge, Bezos!",
+   "section": "crowdsourced",
+   "recommender": "Dan (reader)"
+  },
+  {
+   "id": "2025-03-30-lunatask",
+   "name": "Lunatask",
+   "url": "https://lunatask.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I wanted to recommend Lunatask , which might be the ultimate platform for life tracking. It works cross platform, and it is end-to-end encrypted. It has already replaced Todoist for me, but that’s not all: it also has a Notes tab, which can be connected to your calendar or tasks.",
+   "section": "crowdsourced",
+   "recommender": "Matin (reader)"
+  },
+  {
+   "id": "2025-03-30-khakee-the-bengal-chapter",
+   "name": "Khakee: The Bengal Chapter",
+   "url": "https://www.themoviedb.org/tv/282394-khakee-the-bengal-chapter",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Watched Khakee: The Bengal Chapter (available on Netflix) this week. Very good.",
+   "section": "crowdsourced",
+   "recommender": "Rahul (reader)"
+  },
+  {
+   "id": "2025-03-30-journal",
+   "name": "Journal",
+   "url": "https://apps.apple.com/us/app/journal/id6447391597",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "I started using the iOS Journal app and reflecting on my day every day. I don’t write, like, an actual diary, but more looking back at the day to see how productive I am or if I did everything from my to-do list. So far, it helps a lot!",
+   "section": "crowdsourced",
+   "recommender": "Colin (reader)"
+  },
+  {
+   "id": "2025-03-30-healthy-minds-program",
+   "name": "Healthy Minds Program",
+   "url": "https://hminnovations.org/meditation-app",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Among the many subscription-based meditation apps, there’s this lesser-known Healthy Minds Program , made by actual scientists and pretty customizable. You can pick your own meditation time for any specific lesson, for example. And it’s completely free.",
+   "section": "crowdsourced",
+   "recommender": "Liviu (reader)"
+  },
+  {
+   "id": "2025-03-30-dragonyhm",
+   "name": "Dragonyhm",
+   "url": "https://www.spacebot-interactive.com/dragonyhm",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Been diving into ‘new’ Game Boy games after getting a ModRetro Chromatic. Besides the official games (my favorites are Dragonyhm and Hermano so far), there are a ton of polished games on itch.io and from other publishers. I had no idea.",
+   "section": "crowdsourced",
+   "recommender": "Justin (reader)"
+  },
+  {
+   "id": "2025-03-30-hermano",
+   "name": "Hermano",
+   "url": "https://modretro.com/products/hermano",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Been diving into ‘new’ Game Boy games after getting a ModRetro Chromatic. Besides the official games (my favorites are Dragonyhm and Hermano so far), there are a ton of polished games on itch.io and from other publishers. I had no idea.",
+   "section": "crowdsourced",
+   "recommender": "Justin (reader)"
+  },
+  {
+   "id": "2025-03-30-itch-io",
+   "name": "itch.io",
+   "url": "http://itch.io",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Been diving into ‘new’ Game Boy games after getting a ModRetro Chromatic. Besides the official games (my favorites are Dragonyhm and Hermano so far), there are a ton of polished games on itch.io and from other publishers. I had no idea.",
+   "section": "crowdsourced",
+   "recommender": "Justin (reader)"
+  },
+  {
+   "id": "2025-03-30-runna",
+   "name": "Runna",
+   "url": "https://www.runna.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I started using Runna to train for a local marathon and was impressed with its commitment to training plans. It gives off a far more serious vibe than Runkeeper (my previous favorite) or the Nike Run app, but it comes with a serious price tag. So far, I’m digging it",
+   "section": "crowdsourced",
+   "recommender": "but skeptical it’s worth the $.” – Tyler (reader)"
+  },
+  {
+   "id": "2025-03-30-unexpected-cheddar-cheese-spread",
+   "name": "Unexpected Cheddar Cheese Spread",
+   "url": "https://www.traderjoes.com/home/products/pdp/unexpected-cheddar-cheese-spread-074802",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I talk a lot in this newsletter about some of the things I care too much about. Note-taking apps, for one. Bad shows and movies about cool spies, to name another. But there’s one I don’t talk about much here, and that is my deep and abiding obsession with snacks.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-30-elote-corn-chip-dippers",
+   "name": "Elote Corn Chip Dippers",
+   "url": "https://www.traderjoes.com/home/products/pdp/organic-elote-corn-chip-dippers-060564",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I talk a lot in this newsletter about some of the things I care too much about. Note-taking apps, for one. Bad shows and movies about cool spies, to name another. But there’s one I don’t talk about much here, and that is my deep and abiding obsession with snacks.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-03-30-cabel-sassers-annual-snack-roundups",
+   "name": "Cabel Sasser’s annual snack roundups",
+   "url": "https://cabel.com/2025/01/27/the-snacks-cereals-of-2024/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I say this because, one, I want you to send me snack recommendations, and two, I discovered Cabel Sasser’s annual snack roundups and, through them, have both found a ton of good snacks and a new love for snack-related content. Maybe Installer will one day just be about snacks.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

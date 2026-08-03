@@ -1,0 +1,663 @@
+{
+ "schema": 1,
+ "date": "2025-11-02",
+ "post_type": "issue",
+ "title": "The best things to watch over and over and over",
+ "url": "https://www.theverge.com/tech/811575/best-shows-rewatch-multiple-times-installer",
+ "author": "David Pierce",
+ "number": 104,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "group-project",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:39+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-11-02-lotteries",
+   "name": "lotteries",
+   "url": "https://www.dopaminemarkets.com/p/the-lottery-fication-of-everything",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about lotteries and Jennifer Lawrence and religious AI , shame-watching Finding Mr.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-jennifer-lawrence",
+   "name": "Jennifer Lawrence",
+   "url": "https://www.newyorker.com/magazine/2025/11/03/jennifer-lawrence-profile",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about lotteries and Jennifer Lawrence and religious AI , shame-watching Finding Mr.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-religious-ai",
+   "name": "religious AI",
+   "url": "https://www.theguardian.com/technology/2025/oct/28/patrick-gelsinger-christian-ai-gloo-silicon-valley",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about lotteries and Jennifer Lawrence and religious AI , shame-watching Finding Mr.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-finding-mr-christmas",
+   "name": "Finding Mr. Christmas",
+   "url": "https://www.themoviedb.org/tv/261318-finding-mr-christmas",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about lotteries and Jennifer Lawrence and religious AI , shame-watching Finding Mr.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-mymind",
+   "name": "MyMind",
+   "url": "https://mymind.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about lotteries and Jennifer Lawrence and religious AI , shame-watching Finding Mr.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-taylor-sheridan",
+   "name": "Taylor Sheridan",
+   "url": "https://www.theringer.com/2025/10/29/tv/six-takeaways-from-taylor-sheridan-billion-dollar-departure-from-paramount",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about lotteries and Jennifer Lawrence and religious AI , shame-watching Finding Mr.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-teach-me-about-cold-brew",
+   "name": "teach me about cold brew",
+   "url": "https://www.youtube.com/watch?v=AB0QLjroFss",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about lotteries and Jennifer Lawrence and religious AI , shame-watching Finding Mr.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-ipad-pro",
+   "name": "iPad Pro",
+   "url": "https://www.apple.com/ipad-pro/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about lotteries and Jennifer Lawrence and religious AI , shame-watching Finding Mr.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-channels-7-0",
+   "name": "Channels 7.0",
+   "url": "https://getchannels.com/",
+   "alt_urls": [
+    "https://getchannels.com/2025/10/29/channels-7/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "A big update to an Installer favorite, mostly dedicated to making Channels look much nicer on both mobile devices and the Apple TV. If you’re a big library manager, this’ll be a huge upgrade. Plus it lets you multiview all the things!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-the-outer-worlds-2",
+   "name": "The Outer Worlds 2",
+   "url": "https://www.obsidian.net/games/the-outer-worlds-2",
+   "alt_urls": [
+    "https://www.theverge.com/entertainment/809022/the-outer-worlds-2-corporate-satire-interview-xbox"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I never played the original game in this series, but have heard mostly great things about its world- and character-building, and the sequel seems to be better on all fronts. The whole series is also basically a satire of capitalism and big government, which hits… different these days.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-bad-influencer",
+   "name": "Bad Influencer",
+   "url": "https://www.themoviedb.org/tv/302854-bad-influencer",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I am so delighted that “horrible things happen to / because of an influencer” is becoming a genre of show and movie. This Netflix miniseries is about con artists, knockoffs, crime rings, everything.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-the-nothing-phone-3a-lite",
+   "name": "The Nothing Phone 3a Lite",
+   "url": "https://nothing.tech/products/phone-3a-lite?Colour=White",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Another one for the “sucks we can’t buy this in America” files. This is a nice-looking, decently powerful phone with a big screen and a big battery. For like $300! (But only in the UK and Europe.) I love how good the low-end Android market is getting.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-battlefield-redsec",
+   "name": "Battlefield Redsec",
+   "url": "https://www.ea.com/games/battlefield/redsec",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Battle royale Battlefield . (Say that three times fast.) Play alone, play in squads, even do missions rather than just trying to survive. All the modes and customizability mean I’m almost certainly going to be awful at this game, but that’s okay.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-fortnite-sidekicks",
+   "name": "Fortnite Sidekicks",
+   "url": "https://www.fortnite.com/news/introducing-fortnite-sidekicks?lang=en-US",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Big week for battle royales! I include this — a new, largely adorable set of friends you can add to your Fortnite getup — as an excuse to say I’ve been getting back into Fortnite after a couple of years away from it, and it’s the best. Right now it’s being Simpsons- ified, and it’s so much fun.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-board",
+   "name": "Board",
+   "url": "https://board.fun/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I feel like we’ve seen roughly this idea — a tabletop surface that is both a screen and a playing surface that interacts with physical pieces, so you can play all kinds of augmented board games — a bunch of times.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-i-tried-the-first-humanoid-home-robot-it-got-wei",
+   "name": "I Tried the First Humanoid Home Robot. It Got Weird",
+   "url": "https://www.youtube.com/watch?v=f3c4mQty_so",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ I Tried the First Humanoid Home Robot. It Got Weird .” This is, like, the video Joanna Stern was born to make — a deep dive into a company building humanoid robots (which right now are just remote-controlled robots), and what it might be like to have these in our homes. None of it works!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-tor-15",
+   "name": "Tor 15",
+   "url": "https://blog.torproject.org/new-release-tor-browser-150/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Tor is a super powerful, privacy-focused browser, but it has never been the most… usable browser. The new version is cleaner and nicer looking, with vertical tabs (!) and some useful organization tricks.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-the-office",
+   "name": "The Office",
+   "url": "https://www.themoviedb.org/tv/2316-the-office",
+   "alt_urls": [
+    "https://www.themoviedb.org/tv/8592-parks-and-recreation",
+    "https://www.themoviedb.org/tv/4608-30-rock",
+    "https://www.themoviedb.org/tv/1420-new-girl",
+    "https://www.themoviedb.org/tv/7317-the-inbetweeners",
+    "https://www.themoviedb.org/tv/1100-how-i-met-your-mother",
+    "https://www.themoviedb.org/tv/18347-community",
+    "https://www.themoviedb.org/tv/688-the-west-wing",
+    "https://www.themoviedb.org/tv/2003-sports-night",
+    "https://www.themoviedb.org/tv/2947-veep",
+    "https://www.themoviedb.org/tv/60573-silicon-valley",
+    "https://www.themoviedb.org/tv/61662-schitt-s-creek",
+    "https://www.themoviedb.org/tv/102349-middleditch-schwartz",
+    "https://www.themoviedb.org/tv/62649-superstore"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": ", Parks and Recreation , 30 Rock , New Girl , The Inbetweeners , How I Met Your Mother , Community , The West Wing , Sports Night , Veep , Silicon Valley , Schitt’s Creek , Middleditch & Schwartz , Superstore .",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-the-next-generation",
+   "name": "The Next Generation",
+   "url": "https://www.themoviedb.org/tv/655-star-trek-the-next-generation?language=en-US",
+   "alt_urls": [
+    "https://www.themoviedb.org/tv/4608-30-rock",
+    "https://www.themoviedb.org/tv/2316-the-office",
+    "https://www.themoviedb.org/tv/8592-parks-and-recreation",
+    "https://www.themoviedb.org/tv/246-avatar-the-last-airbender?language=en-US",
+    "https://www.themoviedb.org/tv/4556-scrubs?language=en-US",
+    "https://www.themoviedb.org/tv/688-the-west-wing",
+    "https://www.themoviedb.org/tv/1400-seinfeld?language=en-US"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Star Trek (all of them, but especially The Next Generation ), 30 Rock , The Office , Parks and Recreation , Avatar: The Last Airbender , Scrubs , The West Wing , Seinfeld .",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-law-order",
+   "name": "Law & Order",
+   "url": "https://www.themoviedb.org/tv/549-law-order",
+   "alt_urls": [
+    "https://www.themoviedb.org/tv/2734-law-order-special-victims-unit",
+    "https://www.themoviedb.org/tv/32726-bob-s-burgers",
+    "https://www.themoviedb.org/tv/815-peep-show",
+    "https://www.themoviedb.org/tv/1668-friends",
+    "https://www.themoviedb.org/tv/1418-the-big-bang-theory",
+    "https://www.themoviedb.org/tv/66573-the-good-place",
+    "https://www.themoviedb.org/tv/3452-frasier",
+    "https://www.dropout.tv/shows/dimension-20",
+    "https://www.themoviedb.org/tv/61350-please-like-me?language=en-US",
+    "https://www.themoviedb.org/tv/1457-pride-and-prejudice?language=en-US",
+    "https://www.themoviedb.org/tv/3452-frasier",
+    "https://www.themoviedb.org/tv/48891-brooklyn-nine-nine",
+    "https://www.themoviedb.org/tv/1434-family-guy",
+    "https://www.themoviedb.org/tv/1100-how-i-met-your-mother",
+    "https://www.themoviedb.org/tv/66732-stranger-things",
+    "https://www.themoviedb.org/tv/1100-how-i-met-your-mother",
+    "https://www.themoviedb.org/tv/1678-the-golden-girls",
+    "https://www.themoviedb.org/tv/33880-the-legend-of-korra",
+    "https://www.themoviedb.org/tv/254-alias",
+    "https://www.themoviedb.org/tv/918-m-a-s-h?language=en-US",
+    "https://www.themoviedb.org/tv/2046-alias?language=en-US",
+    "https://www.themoviedb.org/tv/10283-archer",
+    "https://www.themoviedb.org/tv/76148-derry-girls",
+    "https://www.themoviedb.org/tv/10283-archer",
+    "https://www.themoviedb.org/tv/1405-dexter",
+    "https://www.themoviedb.org/tv/88728-i-think-you-should-leave-with-tim-robinson",
+    "https://www.themoviedb.org/tv/1405-dexter",
+    "https://www.themoviedb.org/tv/4271-farscape",
+    "https://www.themoviedb.org/tv/1952-mystery-science-theater-3000",
+    "https://www.themoviedb.org/tv/61662-schitt-s-creek",
+    "https://www.themoviedb.org/tv/97546-ted-lasso",
+    "https://www.themoviedb.org/tv/3319-darkwing-duck",
+    "https://www.themoviedb.org/tv/278009-old-money",
+    "https://www.themoviedb.org/tv/2686-three-s-company",
+    "https://www.themoviedb.org/tv/66732-stranger-things",
+    "https://www.themoviedb.org/tv/61828-detectorists"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "TV shows : Law & Order (and SVU ), Bob’s Burgers , Peep Show , Friends , The Big Bang Theory , The Good Place , Dimension 20 , Please Like Me , Pride & Prejudice , Frasier , Brooklyn Nine-Nine , Family Guy , Stranger Things , How I Met Your Mother , The Golden Girls , The Legend of Korra , MASH …",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-battleground",
+   "name": "Battleground",
+   "url": "https://www.themoviedb.org/movie/31623-battleground",
+   "alt_urls": [
+    "https://www.themoviedb.org/movie/37853-mister-roberts",
+    "https://www.themoviedb.org/movie/286217-the-martian?language=en-US",
+    "https://www.themoviedb.org/collection/1241-harry-potter-collection?language=en-US",
+    "https://www.themoviedb.org/movie/913-the-thomas-crown-affair?language=en-US",
+    "https://www.themoviedb.org/movie/37853-mister-roberts",
+    "https://www.themoviedb.org/movie/10671-airport",
+    "https://www.themoviedb.org/movie/2501-the-bourne-identity",
+    "https://www.themoviedb.org/movie/120-the-lord-of-the-rings-the-fellowship-of-the-ring",
+    "https://www.themoviedb.org/movie/9289-the-longest-day",
+    "https://www.themoviedb.org/movie/17971-midnight-madness",
+    "https://www.themoviedb.org/movie/786-almost-famous",
+    "https://www.themoviedb.org/movie/59861-larry-crowne",
+    "https://www.themoviedb.org/movie/76341-mad-max-fury-road",
+    "https://www.themoviedb.org/movie/786892-furiosa-a-mad-max-saga",
+    "https://www.themoviedb.org/movie/9675-sideways?language=en-US",
+    "https://www.themoviedb.org/movie/11974-the-burbs",
+    "https://www.themoviedb.org/movie/225565-that-awkward-moment?language=en-US",
+    "https://www.themoviedb.org/movie/15196-clue",
+    "https://www.themoviedb.org/movie/37735-easy-a",
+    "https://www.themoviedb.org/movie/50839-margin-call?language=en-US",
+    "https://www.themoviedb.org/movie/157336-interstellar"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Movies : Battleground , The Martian , any Harry Potter , The Thomas Crown Affair , Mister Roberts , Airport , any Bourne , any Lord of the Rings , The Longest Day , Midnight Madness , Almost Famous , Larry Crowne , Mad Max: Fury Road , Furiosa: A Mad Max Saga , Sideways , The ’Burbs , That Awkward…",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-yacht-rock",
+   "name": "Yacht Rock",
+   "url": "https://www.youtube.com/playlist?list=PL10CF667591857A2D",
+   "alt_urls": [
+    "https://www.youtube.com/@TwinTourGolf",
+    "https://www.youtube.com/@SouthernAdventuresYT",
+    "https://www.youtube.com/c/DownieLive",
+    "https://www.youtube.com/@hbmmaster",
+    "https://www.youtube.com/playlist?list=PL4QtKjJdB8FT6I0Wwe_ueQPCKv1lejXO3",
+    "https://www.youtube.com/playlist?list=PLLznZMqdhi_RVHtZYrMeoi3Fjg9VNhPAX",
+    "https://www.youtube.com/watch?v=9OwLLNPRbUw",
+    "https://www.youtube.com/shorts/0xMttYgv-co",
+    "https://www.youtube.com/watch?v=AzaTyxMduH4",
+    "https://www.youtube.com/watch?v=y38qQRg3UDI",
+    "https://www.youtube.com/watch?v=nV6uRftA-hM",
+    "https://www.youtube.com/@track-star-show",
+    "https://www.youtube.com/watch?v=ufSQMXLO95w",
+    "https://www.youtube.com/watch?v=IZqo1bYgkRs",
+    "https://www.youtube.com/watch?v=pCq9fOKIhzo",
+    "https://www.youtube.com/watch?v=EoR4CswJIMs"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "YouTube: Yacht Rock , Twin Tour , Southern Adventures , DownieLive , Jan Misali , Dominic Noble’s 50 Shades of Grey reviews , Todd in the Shadows’ Trainwreckords series , “ The Winterkeeper ,” Two pitbulls playing with balloons , Céline Dion’s “Pour que tu m’aimes encore ,” Dua Lipa’s Tiny Desk…",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-stuff-you-should-know",
+   "name": "Stuff You Should Know",
+   "url": "https://stuffyoushouldknow.com/",
+   "alt_urls": [
+    "https://photowalk.show/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Podcasts : Stuff You Should Know , The Photowalk",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-right-now-im-using-the-nothing-cmf-phone-1-which",
+   "name": "Right now I’m using the Nothing CMF Phone 1 , which has been good considering it",
+   "url": "https://us.nothing.tech/products/cmf-phone-1?Colour=Black&Capacity=8+128GB",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: Right now I’m using the Nothing CMF Phone 1 , which has been good considering it’s a $250 phone. The design is definitely cool. I still prefer iOS, though.",
+   "section": "screen-share",
+   "recommender": "Stevie"
+  },
+  {
+   "id": "2025-11-02-firewatch",
+   "name": "Firewatch",
+   "url": "https://www.firewatchgame.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: Some art from Firewatch . I’ve got the orange backplate on my phone so I like to use orange wallpapers to match.",
+   "section": "screen-share",
+   "recommender": "Stevie"
+  },
+  {
+   "id": "2025-11-02-hyperos-pack",
+   "name": "HyperOS pack",
+   "url": "https://play.google.com/store/apps/details?id=com.debojyoti.hyperos_icpack",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "The apps: Calculator, Gmail, Google Maps, Clock, Fossify Gallery, Discord, Spotify, Settings, Phone, Messages, Firefox, Camera. Icons are from the HyperOS pack .",
+   "section": "screen-share",
+   "recommender": "Stevie"
+  },
+  {
+   "id": "2025-11-02-pebble-time-2",
+   "name": "Pebble Time 2",
+   "url": "https://store.repebble.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I also have some lone apps sitting around outside my folders, like the revived Pebble app. I’ve still got a while left to wait for my Pebble Time 2 to ship, so I’ve been checking out the custom watchfaces people have been sharing since the app returned to the app stores.",
+   "section": "screen-share",
+   "recommender": "Stevie"
+  },
+  {
+   "id": "2025-11-02-focus-friend",
+   "name": "Focus Friend",
+   "url": "https://www.yourfocusfriend.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I also have some lone apps sitting around outside my folders, like the revived Pebble app. I’ve still got a while left to wait for my Pebble Time 2 to ship, so I’ve been checking out the custom watchfaces people have been sharing since the app returned to the app stores.",
+   "section": "screen-share",
+   "recommender": "Stevie"
+  },
+  {
+   "id": "2025-11-02-critical-role-campaign-4",
+   "name": "Critical Role Campaign 4",
+   "url": "https://www.youtube.com/@criticalrole",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’ve been doing my best to keep up with Critical Role Campaign 4 the past few weeks, which has been fantastic so far. It’s fun seeing so many of my favorite TTRPG players in the same campaign, and the GMing from Brennan Lee Mulligan is top-notch, as always.",
+   "section": "screen-share",
+   "recommender": "Stevie"
+  },
+  {
+   "id": "2025-11-02-the-morning-show",
+   "name": "The Morning Show",
+   "url": "https://www.themoviedb.org/tv/90282-the-morning-show?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’ve been doing my best to keep up with Critical Role Campaign 4 the past few weeks, which has been fantastic so far. It’s fun seeing so many of my favorite TTRPG players in the same campaign, and the GMing from Brennan Lee Mulligan is top-notch, as always.",
+   "section": "screen-share",
+   "recommender": "Stevie"
+  },
+  {
+   "id": "2025-11-02-the-outer-worlds-2-2",
+   "name": "The Outer Worlds 2",
+   "url": "https://outerworlds2.obsidian.net/enter",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been doing my best to keep up with Critical Role Campaign 4 the past few weeks, which has been fantastic so far. It’s fun seeing so many of my favorite TTRPG players in the same campaign, and the GMing from Brennan Lee Mulligan is top-notch, as always.",
+   "section": "screen-share",
+   "recommender": "Stevie"
+  },
+  {
+   "id": "2025-11-02-clues-by-sam",
+   "name": "Clues by Sam",
+   "url": "https://cluesbysam.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just discovered Clues by Sam — one logic puzzle per day. Love it. Make sure you read the rules below the puzzle for tips.",
+   "section": "crowdsourced",
+   "recommender": "Jim (reader)"
+  },
+  {
+   "id": "2025-11-02-yomi-2",
+   "name": "Yomi 2",
+   "url": "https://www.sirlingames.com/yomi2",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been playing a LOT lately of the card game Yomi 2 , mostly in its digital version on Steam. The basic gist is that it’s a fighting game in card game form, by a designer who loves fighting games and wants more people to enjoy the mindgames of high-level play.",
+   "section": "crowdsourced",
+   "recommender": "Greg (reader)"
+  },
+  {
+   "id": "2025-11-02-digital-version",
+   "name": "digital version",
+   "url": "https://store.steampowered.com/app/2022230/Yomi_2/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I’ve been playing a LOT lately of the card game Yomi 2 , mostly in its digital version on Steam. The basic gist is that it’s a fighting game in card game form, by a designer who loves fighting games and wants more people to enjoy the mindgames of high-level play.",
+   "section": "crowdsourced",
+   "recommender": "Greg (reader)"
+  },
+  {
+   "id": "2025-11-02-this-video",
+   "name": "This video",
+   "url": "https://youtu.be/eGkfByNEcw0?si=-iODqhV6tGGwmzpZ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This video about how the finale of Severance was edited is so fascinating!",
+   "section": "crowdsourced",
+   "recommender": "Kaleb (reader)"
+  },
+  {
+   "id": "2025-11-02-the-bird-of-the-year",
+   "name": "the bird of the year",
+   "url": "https://www.theguardian.com/environment/australian-bird-of-the-year-2025",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Every second year, the Guardian Australia hosts a national poll to select the bird of the year . The last iteration of this had over 320,000 votes, which is a lot for a small country like Australia!",
+   "section": "crowdsourced",
+   "recommender": "Jon (reader)"
+  },
+  {
+   "id": "2025-11-02-kagi",
+   "name": "Kagi",
+   "url": "https://kagi.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have also been using Kagi as my search engine. I have the search extension in Safari and I’ve been using their browser, Orion , for the past few weeks. Kagi search is built into the Orion browser, so it’s kind of a one-stop shop.",
+   "section": "crowdsourced",
+   "recommender": "Geoff (reader)"
+  },
+  {
+   "id": "2025-11-02-orion",
+   "name": "Orion",
+   "url": "https://kagi.com/orion/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have also been using Kagi as my search engine. I have the search extension in Safari and I’ve been using their browser, Orion , for the past few weeks. Kagi search is built into the Orion browser, so it’s kind of a one-stop shop.",
+   "section": "crowdsourced",
+   "recommender": "Geoff (reader)"
+  },
+  {
+   "id": "2025-11-02-frankenstein",
+   "name": "Frankenstein",
+   "url": "https://www.themoviedb.org/movie/1062722-frankenstein?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Guillermo Del Toro’s Frankenstein . It’s a straight adaptation of Frankenstein that also feels like the most Del Toro a Del Toro film could be. I loved it, but that description is pretty much all the review you could possibly need.",
+   "section": "crowdsourced",
+   "recommender": "Iain (reader)"
+  },
+  {
+   "id": "2025-11-02-the-emperor-of-gladness",
+   "name": "The Emperor of Gladness",
+   "url": "https://www.penguinrandomhouse.com/books/752232/the-emperor-of-gladness-oprahs-book-club-by-ocean-vuong/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Emperor of Gladness of Ocean Vuong. It beautifully captures the messiness of life in today’s America, and yet the humanity present in all that mess.",
+   "section": "crowdsourced",
+   "recommender": "Jeroen (reader)"
+  },
+  {
+   "id": "2025-11-02-house-of-guinness",
+   "name": "House of Guinness",
+   "url": "https://www.themoviedb.org/tv/250988-house-of-guinness",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I just started watching House of Guinness on Netflix and I would recommend it. I love my beer, maybe not the dark heavy but lager...IPA.",
+   "section": "crowdsourced",
+   "recommender": "Pooja (reader)"
+  },
+  {
+   "id": "2025-11-02-sublime",
+   "name": "Sublime",
+   "url": "https://sublime.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been using Sublime for two years now, and what Sari and her team have built there is a very human take on AI and personal highlights, bookmarks and idea discovery. They recently also introduced Podcast Magic , which is an unique and easy way to bookmark podcasts on the go.",
+   "section": "crowdsourced",
+   "recommender": "Atmos (reader)"
+  },
+  {
+   "id": "2025-11-02-podcast-magic",
+   "name": "Podcast Magic",
+   "url": "https://podcastmagic.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been using Sublime for two years now, and what Sari and her team have built there is a very human take on AI and personal highlights, bookmarks and idea discovery. They recently also introduced Podcast Magic , which is an unique and easy way to bookmark podcasts on the go.",
+   "section": "crowdsourced",
+   "recommender": "Atmos (reader)"
+  },
+  {
+   "id": "2025-11-02-bazzite",
+   "name": "Bazzite",
+   "url": "https://bazzite.gg/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Recently installed Bazzite on my gaming PC (dual-booting), and I think I’m a Linux convert now. Super easy to get up and running, and so far everything I’ve tried works right out of the box.",
+   "section": "crowdsourced",
+   "recommender": "Eddy (reader)"
+  },
+  {
+   "id": "2025-11-02-all-the-gear-nbc-is-using",
+   "name": "all the gear NBC is using",
+   "url": "https://www.sportsvideo.org/2025/10/21/nba-on-nbc-peacock-nbc-sports-nep-build-ultra-flexible-production-plan-that-seamlessly-blends-onsite-remi-models/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "So what did NBC do? The folks at Sports Video Group have two good stories on all the gear NBC is using , and how it upgraded its systems to bring better video to your screen. I love this stuff, and I am constantly reminded that it is vastly more complicated than it looks.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-11-02-upgraded-its-systems",
+   "name": "upgraded its systems",
+   "url": "https://www.sportsvideo.org/2025/10/20/how-nbc-sports-transitioned-stamford-faciliy-to-one-format-1080p-hdr/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "So what did NBC do? The folks at Sports Video Group have two good stories on all the gear NBC is using , and how it upgraded its systems to bring better video to your screen. I love this stuff, and I am constantly reminded that it is vastly more complicated than it looks.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

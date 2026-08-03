@@ -1,0 +1,492 @@
+{
+ "schema": 1,
+ "date": "2024-12-22",
+ "post_type": "issue",
+ "title": "A new and better way to control your smart home",
+ "url": "https://www.theverge.com/2024/12/22/24325938/home-assistant-voice-sonic-3-flipboard-surf-installer",
+ "author": "David Pierce",
+ "number": 65,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:36+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-12-22-spotifys-ghost-artists",
+   "name": "Spotify’s ghost artists",
+   "url": "https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Spotify’s ghost artists and Formula 1 and Mufasa and the deeply silly New York Jets , watching Hot Frosty (you can judge me, it’s fine) and re-watching 30 Rock , beating Balatro for the very first time, and trying to convince my toddler that it’s actually not fun…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-22-formula-1",
+   "name": "Formula 1",
+   "url": "https://www.essesmag.com/articles/the-tao-of-a-tv-lifer?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Spotify’s ghost artists and Formula 1 and Mufasa and the deeply silly New York Jets , watching Hot Frosty (you can judge me, it’s fine) and re-watching 30 Rock , beating Balatro for the very first time, and trying to convince my toddler that it’s actually not fun…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-22-mufasa",
+   "name": "Mufasa",
+   "url": "https://www.vulture.com/article/how-and-why-barry-jenkins-made-mufasa-for-disney.html?origSession=D241122p1ObrcCr+WlakrrXAijbwkLiv5OiXrMV65mZlp7EwhY%3D&__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Spotify’s ghost artists and Formula 1 and Mufasa and the deeply silly New York Jets , watching Hot Frosty (you can judge me, it’s fine) and re-watching 30 Rock , beating Balatro for the very first time, and trying to convince my toddler that it’s actually not fun…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-22-the-deeply-silly-new-york-jets",
+   "name": "the deeply silly New York Jets",
+   "url": "https://www.nytimes.com/athletic/6005172/2024/12/19/woody-johnson-jets-madden-sons/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Spotify’s ghost artists and Formula 1 and Mufasa and the deeply silly New York Jets , watching Hot Frosty (you can judge me, it’s fine) and re-watching 30 Rock , beating Balatro for the very first time, and trying to convince my toddler that it’s actually not fun…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-22-hot-frosty",
+   "name": "Hot Frosty",
+   "url": "https://www.themoviedb.org/movie/1290287-hot-frosty?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about Spotify’s ghost artists and Formula 1 and Mufasa and the deeply silly New York Jets , watching Hot Frosty (you can judge me, it’s fine) and re-watching 30 Rock , beating Balatro for the very first time, and trying to convince my toddler that it’s actually not fun…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-22-30-rock",
+   "name": "30 Rock",
+   "url": "https://www.themoviedb.org/tv/4608-30-rock?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Spotify’s ghost artists and Formula 1 and Mufasa and the deeply silly New York Jets , watching Hot Frosty (you can judge me, it’s fine) and re-watching 30 Rock , beating Balatro for the very first time, and trying to convince my toddler that it’s actually not fun…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-22-balatro",
+   "name": "Balatro",
+   "url": "https://www.playbalatro.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Spotify’s ghost artists and Formula 1 and Mufasa and the deeply silly New York Jets , watching Hot Frosty (you can judge me, it’s fine) and re-watching 30 Rock , beating Balatro for the very first time, and trying to convince my toddler that it’s actually not fun…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-22-home-assistant-voice",
+   "name": "Home Assistant Voice",
+   "url": "https://www.home-assistant.io/voice-pe/",
+   "alt_urls": [
+    "https://www.home-assistant.io/green/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I am currently actively avoiding becoming a Home Assistant person, because I know as soon as I get a Green in my house I’ll become a full-on smart home lunatic. But this new voice assistant and microphone — you can call it Jarvis! — has me more enticed than ever.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-22-flipboard-surf",
+   "name": "Flipboard Surf",
+   "url": "https://about.surf.social/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I ’ve been ranting and raving for two years about how the fediverse is the future, and Surf — a way to create and consume feeds of all kinds, from Mastodon and Bluesky to RSS and YouTube — is the best evidence I’ve seen yet.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-22-google-whisk",
+   "name": "Google Whisk",
+   "url": "https://labs.google/fx/tools/whisk",
+   "alt_urls": [
+    "https://www.theverge.com/2024/12/16/24322614/google-whisk-ai-generator-remix-pictures-plug-in"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Prompt engineering was… never a good idea. Google is one of the companies trying to find better ways — in this case, it built a way to prompt its models just by uploading some inspo images and then describing what you want. I don’t know if it’s useful, per se, but it’s fun to play with.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-22-sonic-the-hedgehog-3",
+   "name": "Sonic The Hedgehog 3",
+   "url": "https://www.themoviedb.org/movie/939243-sonic-the-hedgehog-3?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I feel like nobody ever talks about the Sonic movies? But I’ve really enjoyed the first two, and the reviews on the latest installment are really strong. And apparently Jim Carrey is on a whole new level in this one.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-22-acorn-8",
+   "name": "Acorn 8",
+   "url": "https://flyingmeat.com/acorn/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Acorn is one of my favorite Mac apps. It’s like Photoshop for babies, in the sense that it can’t do everything but it also doesn’t require a master’s degree to use. The new version brings a bunch of automated editing and selection features, Shortcuts integration, and some other useful new stuff.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-22-niagara-launcher",
+   "name": "Niagara Launcher",
+   "url": "https://niagaralauncher.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Niagara remains my favorite Android launcher, and I really like the new Usage Breaker feature that helps you track and manage your screen time. It’s much more subtle, and much more thoughtful, than all the OS-level stuff Google and Apple are doing.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-22-1-800-chatgpt",
+   "name": "1-800-ChatGPT",
+   "url": "https://x.com/OpenAI/status/1869462463848321264",
+   "alt_urls": [
+    "https://www.theverge.com/2024/12/18/24324376/openai-shipmas-1-800-chatgpt-whatsapp"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "A phone hotline for chatting with AI is definitely at least half a gimmick, but I kind of love it? (You can also message the number on WhatsApp.) There’s a long and delightful history of phone-number tech products like GOOG-411 and 777-FILM, and I’m glad it’s not over.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-22-the-lg-signature-oled-t",
+   "name": "The LG Signature OLED T",
+   "url": "https://www.dpbolvw.net/click-8836598-14581062?sid=VergeInstaller12&url=https%3A%2F%2Fwww.lg.com%2Fus%2Ftvs%2Flg-oled77t4pua-oled-4k-tv",
+   "alt_urls": [
+    "https://www.theverge.com/2024/12/18/24324379/lg-signature-oled-t-transparent-tv-price-announced"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "For our last Installer of the year, the most expensive thing we’ve ever discussed: a 77-inch, kinda-sorta transparent, fishbowl-looking TV that is both extremely cool and totally pointless, and is now on sale for $59,999. If you buy one of these, email me. I need to know everything.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-22-iphone-14",
+   "name": "iPhone 14",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 14.",
+   "section": "screen-share",
+   "recommender": "Hank"
+  },
+  {
+   "id": "2024-12-22-a-secret-project-on-here",
+   "name": "a secret project on here",
+   "url": "https://www.bubbleteagame.com/focus-friend",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "By far the most-used non-social media app on my phone is Notes. I rely on it in a very unhealthy way that makes it an extremely entertaining scroll… for me at least. My short-term memory isn’t what it used to be, so everything ends up in there.",
+   "section": "screen-share",
+   "recommender": "Hank"
+  },
+  {
+   "id": "2024-12-22-adrian-tchaikovsky",
+   "name": "Adrian Tchaikovsky",
+   "url": "https://adriantchaikovsky.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Adrian Tchaikovsky . If you haven’t read any, read Children of Time , but if you’ve only read the Children of Time series you’re missing out on so many very interesting ideas about what minds are and the bizarre and exciting future we are headed into. Bluesky .",
+   "section": "screen-share",
+   "recommender": "Hank"
+  },
+  {
+   "id": "2024-12-22-children-of-time",
+   "name": "Children of Time",
+   "url": "https://adriantchaikovsky.com/books-novels-novellas-by-adrian-tchaikovsky.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Adrian Tchaikovsky . If you haven’t read any, read Children of Time , but if you’ve only read the Children of Time series you’re missing out on so many very interesting ideas about what minds are and the bizarre and exciting future we are headed into. Bluesky .",
+   "section": "screen-share",
+   "recommender": "Hank"
+  },
+  {
+   "id": "2024-12-22-bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Adrian Tchaikovsky . If you haven’t read any, read Children of Time , but if you’ve only read the Children of Time series you’re missing out on so many very interesting ideas about what minds are and the bizarre and exciting future we are headed into. Bluesky .",
+   "section": "screen-share",
+   "recommender": "Hank"
+  },
+  {
+   "id": "2024-12-22-the-narwhal-wikipedia-page",
+   "name": "The Narwhal Wikipedia Page",
+   "url": "https://en.wikipedia.org/wiki/Narwhal",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Adrian Tchaikovsky . If you haven’t read any, read Children of Time , but if you’ve only read the Children of Time series you’re missing out on so many very interesting ideas about what minds are and the bizarre and exciting future we are headed into. Bluesky .",
+   "section": "screen-share",
+   "recommender": "Hank"
+  },
+  {
+   "id": "2024-12-22-this-youtube-channel-hg-modernism",
+   "name": "this YouTube channel HG Modernism",
+   "url": "https://www.youtube.com/watch?v=P0L-3FfkXfM",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Adrian Tchaikovsky . If you haven’t read any, read Children of Time , but if you’ve only read the Children of Time series you’re missing out on so many very interesting ideas about what minds are and the bizarre and exciting future we are headed into. Bluesky .",
+   "section": "screen-share",
+   "recommender": "Hank"
+  },
+  {
+   "id": "2024-12-22-sean-carrols-mindscape",
+   "name": "Sean Carrol’s Mindscape",
+   "url": "https://www.preposterousuniverse.com/podcast/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Adrian Tchaikovsky . If you haven’t read any, read Children of Time , but if you’ve only read the Children of Time series you’re missing out on so many very interesting ideas about what minds are and the bizarre and exciting future we are headed into. Bluesky .",
+   "section": "screen-share",
+   "recommender": "Hank"
+  },
+  {
+   "id": "2024-12-22-frontline",
+   "name": "Frontline",
+   "url": "https://www.youtube.com/channel/UC3ScyryU9Oy9Wse3a8OAmYQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Adrian Tchaikovsky . If you haven’t read any, read Children of Time , but if you’ve only read the Children of Time series you’re missing out on so many very interesting ideas about what minds are and the bizarre and exciting future we are headed into. Bluesky .",
+   "section": "screen-share",
+   "recommender": "Hank"
+  },
+  {
+   "id": "2024-12-22-tana",
+   "name": "Tana",
+   "url": "https://tana.inc/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If you haven’t played with Tana yet, I think that it is just about the most mind-blowing technology out there for personal knowledge management. It is a next-next-generation version of where knowledge graphs are going.",
+   "section": "crowdsourced",
+   "recommender": "Robert (reader)"
+  },
+  {
+   "id": "2024-12-22-the-agency",
+   "name": "The Agency",
+   "url": "https://www.themoviedb.org/tv/219971-the-agency?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Probably a show that’s a little under the radar right now is the show The Agency . Star-studded cast such as Michael Fassbender, Jeffrey Wright, and Richard Gere. This is a show that asks a lot from the viewer but is handsomely rewarded.",
+   "section": "crowdsourced",
+   "recommender": "John (reader)"
+  },
+  {
+   "id": "2024-12-22-classic-tkl",
+   "name": "Classic-TKL",
+   "url": "https://novelkeys.com/collections/frontpage/products/classic-tkl-keyboard",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Planning on building my second Classic-TKL keyboard from NovelKeys over the holiday break. The real challenge will be figuring out which keycaps to put on it!",
+   "section": "crowdsourced",
+   "recommender": "Noah (reader)"
+  },
+  {
+   "id": "2024-12-22-high-potential",
+   "name": "High Potential",
+   "url": "https://www.themoviedb.org/tv/226637-high-potential",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The ABC procedural High Potential has scratched the itch I’ve had since similar concept shows like Monk, Psych, or the Mentalist went off the air. Is it revolutionary…no. But if you love ‘person with special talent solves crimes’ this is a show for you.",
+   "section": "crowdsourced",
+   "recommender": "Mike (reader)"
+  },
+  {
+   "id": "2024-12-22-openvibe",
+   "name": "OpenVibe",
+   "url": "https://openvibe.social/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been trying all these Bluesky/fediverse clients. I like: OpenVibe , Graysky and Skeets .",
+   "section": "crowdsourced",
+   "recommender": "Jordan (reader)"
+  },
+  {
+   "id": "2024-12-22-graysky",
+   "name": "Graysky",
+   "url": "https://graysky.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been trying all these Bluesky/fediverse clients. I like: OpenVibe , Graysky and Skeets .",
+   "section": "crowdsourced",
+   "recommender": "Jordan (reader)"
+  },
+  {
+   "id": "2024-12-22-skeets",
+   "name": "Skeets",
+   "url": "https://www.skeetsapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been trying all these Bluesky/fediverse clients. I like: OpenVibe , Graysky and Skeets .",
+   "section": "crowdsourced",
+   "recommender": "Jordan (reader)"
+  },
+  {
+   "id": "2024-12-22-pantheon",
+   "name": "Pantheon",
+   "url": "https://www.themoviedb.org/tv/195339-pantheon",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "One of the best shows about AI I watched in the past year, Pantheon , is on Netflix instead of AMC Plus jail. Highly recommend!",
+   "section": "crowdsourced",
+   "recommender": "Saad (reader)"
+  },
+  {
+   "id": "2024-12-22-the-order",
+   "name": "The Order",
+   "url": "https://www.themoviedb.org/movie/1082195-the-order",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "It’s not going to spread Christmas cheer, but last night I went to a theatre near me to see The Order . It’s a pretty limited theatrical release (and on Prime Video in the rest of the world) but the movie is fantastic.",
+   "section": "crowdsourced",
+   "recommender": "John (reader)"
+  },
+  {
+   "id": "2024-12-22-suika-game",
+   "name": "Suika Game",
+   "url": "https://www.nintendo.com/us/store/products/suika-game-switch/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I am way late to the party but I am really enjoying Suika Game for the Switch. Nice change of pace compared to what I usually play and today I managed to get my first watermelon.",
+   "section": "crowdsourced",
+   "recommender": "Filip (reader)"
+  },
+  {
+   "id": "2024-12-22-murderbot-diaries",
+   "name": "Murderbot Diaries",
+   "url": "https://marthawells.com/murderbot.htm",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Read it before, but never finished the series, so I re-picked up the first in the Murderbot Diaries series and am super enjoying it (again).",
+   "section": "crowdsourced",
+   "recommender": "Dan (reader)"
+  },
+  {
+   "id": "2024-12-22-the-shallows",
+   "name": "The Shallows",
+   "url": "https://www.nicholascarr.com/?page_id=16",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Reading The Shallows by Nicholas Carr. It’s a very sobering read about our relationship with the internet, written in a manner that traverses the entire history of humans’ relationship with technology, literacy, and information intake.",
+   "section": "crowdsourced",
+   "recommender": "Joe (reader)"
+  },
+  {
+   "id": "2024-12-22-superman-trailer",
+   "name": "Superman trailer!",
+   "url": "https://www.youtube.com/watch?v=uhUht6vAsMY",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "That new Superman trailer!",
+   "section": "crowdsourced",
+   "recommender": "Nacho (reader)"
+  },
+  {
+   "id": "2024-12-22-someone-invented-the-elevator",
+   "name": "Someone invented the elevator",
+   "url": "https://www.newyorker.com/magazine/2008/04/21/up-and-then-down",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "One of my very favorite kinds of stories is how things beget other things in ways nobody could have seen coming. Someone invented the elevator , and so skyscrapers happened, and cities changed forever. Some lobbyist comes up with the term “ jaywalking ,” and suddenly cars rule the road.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-22-jaywalking",
+   "name": "jaywalking",
+   "url": "https://www.vox.com/2015/1/15/7551873/jaywalking-history",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "One of my very favorite kinds of stories is how things beget other things in ways nobody could have seen coming. Someone invented the elevator , and so skyscrapers happened, and cities changed forever. Some lobbyist comes up with the term “ jaywalking ,” and suddenly cars rule the road.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-22-the-invention-of-the-gang-nail-plate",
+   "name": "the invention of the gang-nail plate",
+   "url": "https://www.youtube.com/watch?v=3oIeLGkSCMA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "One of my very favorite kinds of stories is how things beget other things in ways nobody could have seen coming. Someone invented the elevator , and so skyscrapers happened, and cities changed forever. Some lobbyist comes up with the term “ jaywalking ,” and suddenly cars rule the road.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

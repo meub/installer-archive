@@ -1,0 +1,475 @@
+{
+ "schema": 1,
+ "date": "2026-06-20",
+ "post_type": "issue",
+ "title": "Toy Story has the right take on tech",
+ "url": "https://www.theverge.com/tech/952547/toy-story-5-tech-android-17-snap-specs-installer",
+ "author": "David Pierce",
+ "number": 133,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:40+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-06-20-sam-bankman-fried",
+   "name": "Sam Bankman-Fried",
+   "url": "https://nymag.com/intelligencer/article/sam-bankman-fried-prison-donald-trump-pardon-appeal.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sam Bankman-Fried and PE Guy and admin nights (which we should totally all do together one of these days), listening to Paul McCartney on Song Exploder , trudging through the bugs of the iOS 27 beta in order to use the good new Siri, once again trying and failing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-20-pe-guy",
+   "name": "PE Guy",
+   "url": "https://www.nytimes.com/2026/06/06/style/people-love-to-hate-this-fake-private-equity-guy.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sam Bankman-Fried and PE Guy and admin nights (which we should totally all do together one of these days), listening to Paul McCartney on Song Exploder , trudging through the bugs of the iOS 27 beta in order to use the good new Siri, once again trying and failing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-20-admin-nights",
+   "name": "admin nights",
+   "url": "https://www.newyorker.com/magazine/2026/06/22/misery-loves-company-if-there-are-snacks?bxid=5be9d8763f92a40469e762a5&cndid=25744259&hasha=fdbd6b02c04f0b357b324f79e81b179b&hashb=9c40f1798ffee5d2b0ea4fbc40cf8eda67c2b9e8&hashc=dfe25122182d1fcf578f597cef8aca4b7b253f41969e8c585f26b5ff2ad1a7e1&esrc=&mbid=CRMNYR012019",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sam Bankman-Fried and PE Guy and admin nights (which we should totally all do together one of these days), listening to Paul McCartney on Song Exploder , trudging through the bugs of the iOS 27 beta in order to use the good new Siri, once again trying and failing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-20-paul-mccartney-on-song-exploder",
+   "name": "Paul McCartney on Song Exploder",
+   "url": "https://songexploder.net/paul-mccartney",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sam Bankman-Fried and PE Guy and admin nights (which we should totally all do together one of these days), listening to Paul McCartney on Song Exploder , trudging through the bugs of the iOS 27 beta in order to use the good new Siri, once again trying and failing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-20-ios-27-beta",
+   "name": "iOS 27 beta",
+   "url": "https://beta.apple.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sam Bankman-Fried and PE Guy and admin nights (which we should totally all do together one of these days), listening to Paul McCartney on Song Exploder , trudging through the bugs of the iOS 27 beta in order to use the good new Siri, once again trying and failing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-20-youtube-music",
+   "name": "YouTube Music",
+   "url": "https://music.youtube.com/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Sam Bankman-Fried and PE Guy and admin nights (which we should totally all do together one of these days), listening to Paul McCartney on Song Exploder , trudging through the bugs of the iOS 27 beta in order to use the good new Siri, once again trying and failing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-20-elgato-prompter",
+   "name": "Elgato Prompter",
+   "url": "https://www.elgato.com/us/en/p/prompter",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sam Bankman-Fried and PE Guy and admin nights (which we should totally all do together one of these days), listening to Paul McCartney on Song Exploder , trudging through the bugs of the iOS 27 beta in order to use the good new Siri, once again trying and failing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-20-this-strange-cheap-headband",
+   "name": "this strange, cheap headband",
+   "url": "https://www.amazon.com/dp/B08SHX72WN?th=1&linkCode=ll2&tag=vergenewsletter-20&linkId=ba4df079af86fdf27bffcb357a4f8e76&language=en_US&tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Sam Bankman-Fried and PE Guy and admin nights (which we should totally all do together one of these days), listening to Paul McCartney on Song Exploder , trudging through the bugs of the iOS 27 beta in order to use the good new Siri, once again trying and failing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-20-toy-story-5",
+   "name": "Toy Story 5",
+   "url": "https://www.themoviedb.org/movie/1084244-toy-story-5?language=en-US",
+   "alt_urls": [
+    "https://www.theverge.com/entertainment/950739/toy-story-5-review"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "The bad guy is an iPad! I love it. And by all accounts, the movie completely works both as a story and as a thoughtful look at the real pros and cons of screentime. We often talk about device use in all the wrong ways; leave it to Pixar to get it right. I’ll be in the theater Saturday morning.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-20-lettera",
+   "name": "Lettera",
+   "url": "https://lettera.md/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Markdown editors are a dime a dozen right now, but hardly anybody does text editing better than Shiny Frog, the folks behind the great Bear app. This text editor is in beta, but it’s already super fast and stable at least for me. Gonna use this a lot.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-20-the-popsockets-low-pro-grip",
+   "name": "The PopSockets Low-Pro Grip",
+   "url": "https://www.apple.com/shop/product/hsjq2zm/a/popsockets-low-pro-grip-stand-magsafe-compatible",
+   "alt_urls": [
+    "https://www.popsockets.com/en-us/magsafe/magsafe-kick-out-grip-and-stands?pmin=0.01"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I might be the world’s most fervent supporter of PopSockets, and of phone grips of all kinds. (Phones are not comfortable to hold!) I’ve been using the kickstand PopSocket for a while, but am going to gladly trade it, and my $40, for the super-thin new model.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-20-mastodon-4-6",
+   "name": "Mastodon 4.6",
+   "url": "https://blog.joinmastodon.org/2026/06/mastodon-4.6/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I don’t spend that much time on Mastodon anymore, but this might help win me (and some others) back. Collections are a clever way to solve Mastodon’s big discovery and search problem, and a good way to help people get started on a new social network.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-20-snap-specs",
+   "name": "Snap Specs",
+   "url": "https://www.specs.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "$2,195 for a pair of smart glasses! Wild. I confess I am not at all convinced anyone’s going to want these — they’re big and wonky and way too expensive. But I also think Snap understands how people actually want to use technology better than just about anybody.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-20-android-17",
+   "name": "Android 17",
+   "url": "https://blog.google/products-and-platforms/platforms/android/android-17-features/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Coming soon to a Pixel near you: an easier way to capture reaction videos, floating app windows that seem like a very useful multitasking system that I hope iOS copies immediately, and a built-in controller for playing games on foldables.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-20-vsco-studio-pro",
+   "name": "VSCO Studio Pro",
+   "url": "https://www.vsco.co/studio-pro",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "VSCO makes nice photography stuff, and this app, which is made for editing huge sets of photos all at once, is very clever. “Make all my other photos look like this photo” is just such a useful editing trick! I’m not wild about the looming subscription model here, but I like what VSCO’s making.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-20-the-music-industry-is-broken",
+   "name": "The Music Industry is Broken",
+   "url": "https://www.youtube.com/watch?v=Yx7baJMQuVA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ The Music Industry is Broken .” Really good Drew Gooden video about how the business of music is changing thanks to streaming services, AI, ticketing monopolies, and more.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-20-the-microsoft-surface-laptop-8",
+   "name": "The Microsoft Surface Laptop 8",
+   "url": "https://www.microsoft.com/en-us/surface/devices/surface-laptop",
+   "alt_urls": [
+    "https://www.theverge.com/tech/950146/microsoft-surface-laptop-8-surface-pro-12-snapdragon-x2-specs-price"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "There’s a new Surface Pro , too, but I have long thought the more normal Surface Laptop (not to be confused with the Ultra) was one of the best Windows devices out there. If the new Qualcomm chips are as good as advertised, this should be a really useful all-purpose laptop.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-20-songs-of-the-dead",
+   "name": "Songs of The Dead",
+   "url": "https://www.simonandschuster.com/books/Songs-of-the-Dead/Brandon-Sanderson/The-Strata-Wars/9781668068144",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The beginning of a new series coauthored by Installerverse favorite Brandon Sanderson, called The Strata Wars, this book is about music and magic and time and space and a million other things. Some reviewers seemed to find it a bit much, but others loved it. And I know a lot of us love Sanderson.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-20-i-have-a-google-pixel-10",
+   "name": "I have a Google Pixel 10",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: I have a Google Pixel 10.",
+   "section": "screen-share",
+   "recommender": "Josh"
+  },
+  {
+   "id": "2026-06-20-microsoft-launcher",
+   "name": "Microsoft Launcher",
+   "url": "https://play.google.com/store/apps/details?id=com.microsoft.launcher&hl=en_US&pli=1",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "I use the Microsoft Launcher to ditch the At a Glance widget and search bar, and to let me use icon theme packs. I’ve mostly used Flight Pack, Retro Mode - Neon, and Viral to give my apps more of a cohesive look.",
+   "section": "screen-share",
+   "recommender": "Josh"
+  },
+  {
+   "id": "2026-06-20-kwgt",
+   "name": "KWGT",
+   "url": "https://play.google.com/store/apps/details?id=org.kustom.widget&hl=en_US",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "I use the Microsoft Launcher to ditch the At a Glance widget and search bar, and to let me use icon theme packs. I’ve mostly used Flight Pack, Retro Mode - Neon, and Viral to give my apps more of a cohesive look.",
+   "section": "screen-share",
+   "recommender": "Josh"
+  },
+  {
+   "id": "2026-06-20-myfitnesspal",
+   "name": "MyFitnessPal",
+   "url": "https://www.myfitnesspal.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My second page is for fitness and productivity. I’m a big Pixel Watch guy, so my Google Health widget is front and center, alongside my MyFitnessPal widget for daily calorie tracking. My favorite productivity app has been Focus Friend by Hank Green that’s equal parts Tamagotchi pet and focus timer.",
+   "section": "screen-share",
+   "recommender": "Josh"
+  },
+  {
+   "id": "2026-06-20-focus-friend",
+   "name": "Focus Friend",
+   "url": "https://www.yourfocusfriend.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My second page is for fitness and productivity. I’m a big Pixel Watch guy, so my Google Health widget is front and center, alongside my MyFitnessPal widget for daily calorie tracking. My favorite productivity app has been Focus Friend by Hank Green that’s equal parts Tamagotchi pet and focus timer.",
+   "section": "screen-share",
+   "recommender": "Josh"
+  },
+  {
+   "id": "2026-06-20-snipd",
+   "name": "Snipd",
+   "url": "https://www.snipd.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My second page is for fitness and productivity. I’m a big Pixel Watch guy, so my Google Health widget is front and center, alongside my MyFitnessPal widget for daily calorie tracking. My favorite productivity app has been Focus Friend by Hank Green that’s equal parts Tamagotchi pet and focus timer.",
+   "section": "screen-share",
+   "recommender": "Josh"
+  },
+  {
+   "id": "2026-06-20-not-suitable-for-work",
+   "name": "Not Suitable for Work",
+   "url": "https://www.themoviedb.org/tv/284725-not-suitable-for-work?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’m watching Mindy Kaling’s new show Not Suitable for Work on Hulu, and it’s surprisingly great for someone who doesn’t watch a lot of sitcoms. I’m a big Seinfeld guy, and it scratches that same itch of adults stumbling through life in NYC — but make it modern.",
+   "section": "screen-share",
+   "recommender": "Josh"
+  },
+  {
+   "id": "2026-06-20-asamapov",
+   "name": "AsamaPOV",
+   "url": "https://www.youtube.com/@Asamalifez",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’m watching Mindy Kaling’s new show Not Suitable for Work on Hulu, and it’s surprisingly great for someone who doesn’t watch a lot of sitcoms. I’m a big Seinfeld guy, and it scratches that same itch of adults stumbling through life in NYC — but make it modern.",
+   "section": "screen-share",
+   "recommender": "Josh"
+  },
+  {
+   "id": "2026-06-20-playstation-all-stars-battle-royale",
+   "name": "PlayStation All-Stars Battle Royale",
+   "url": "https://en.wikipedia.org/wiki/PlayStation_All-Stars_Battle_Royale",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m watching Mindy Kaling’s new show Not Suitable for Work on Hulu, and it’s surprisingly great for someone who doesn’t watch a lot of sitcoms. I’m a big Seinfeld guy, and it scratches that same itch of adults stumbling through life in NYC — but make it modern.",
+   "section": "screen-share",
+   "recommender": "Josh"
+  },
+  {
+   "id": "2026-06-20-cunk-on-life",
+   "name": "Cunk on Life",
+   "url": "https://www.themoviedb.org/movie/1253971-cunk-on-life",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I just watched Cunk on Life . It’s a BBC comedy/documentary on the topic of “life” from an absurdist’s perspective. It’s by Charlie Brooker of Black Mirror. I laughed so hard, I gave myself hiccups.",
+   "section": "crowdsourced",
+   "recommender": "Kelly (reader)"
+  },
+  {
+   "id": "2026-06-20-young-sherlock",
+   "name": "Young Sherlock",
+   "url": "https://www.themoviedb.org/tv/255661-young-sherlock?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Really enjoying Young Sherlock on Amazon Prime. It’s Guy Ritchie at his (almost) best: stylish, British, fast talking, crime-ridden, with a dash of humor and a healthy dose of fun.",
+   "section": "crowdsourced",
+   "recommender": "Logan (reader)"
+  },
+  {
+   "id": "2026-06-20-wildbirds",
+   "name": "Wildbirds",
+   "url": "https://wildbirds.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been using Wildbirds since closed beta and it’s everything birders want from Instagram, but better.",
+   "section": "crowdsourced",
+   "recommender": "Michiel (reader)"
+  },
+  {
+   "id": "2026-06-20-xenoblade-chronicles-definitive-edition-nintendo",
+   "name": "Xenoblade Chronicles: Definitive Edition — Nintendo Switch 2 Edition",
+   "url": "https://www.nintendo.com/us/store/products/xenoblade-chronicles-definitive-edition-nintendo-switch-2-edition-switch-2/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Playing Xenoblade Chronicles: Definitive Edition — Nintendo Switch 2 Edition and really hoping that these titles change at some point.",
+   "section": "crowdsourced",
+   "recommender": "Connor (reader)"
+  },
+  {
+   "id": "2026-06-20-claude",
+   "name": "Claude",
+   "url": "https://claude.ai/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m studying for a technical exam and put all the materials into Claude . I had it break down the material into daily, 30-minute study chunks to be emailed to me over the next two weeks. Each email has a prompt to do a short quiz at the end. A little wonky to start but it’s working well so far.",
+   "section": "crowdsourced",
+   "recommender": "Ian (reader)"
+  },
+  {
+   "id": "2026-06-20-dirty-little-zine",
+   "name": "Dirty Little Zine",
+   "url": "https://dirtylittlezine.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been using the Dirty Little Zine website to make pocket-sized photography zines. Cheap, fun, and easy way to get your photos out of the digital wasteland and into the real world.",
+   "section": "crowdsourced",
+   "recommender": "Mark (reader)"
+  },
+  {
+   "id": "2026-06-20-silo-books",
+   "name": "Silo books",
+   "url": "https://hughhowey.com/books/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Finished reading the series of Silo books in advance of the next season coming in July.",
+   "section": "crowdsourced",
+   "recommender": "Chris (reader)"
+  },
+  {
+   "id": "2026-06-20-expeditionary-force",
+   "name": "Expeditionary Force",
+   "url": "https://podiumentertainment.com/titles/5560/columbu",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m currently going through Craig Alanson’s Expeditionary Force sci-fi novels, they’re kinetic and silly and a bit rough around the edges at the same time, I’m having a blast.",
+   "section": "crowdsourced",
+   "recommender": "Carlo (reader)"
+  },
+  {
+   "id": "2026-06-20-powerwash-simulator",
+   "name": "PowerWash Simulator",
+   "url": "https://www.futurlab.co.uk/games/powerwash-simulator",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve gotten back into playing PowerWash Simulator after work. I’m actually kind of excited about Star Wars again after watching The Mandalorian and Grogu a couple of weeks ago so now I am looking forward to the PWS2 Star Wars DLC next month.",
+   "section": "crowdsourced",
+   "recommender": "Salt Palace (reader)"
+  },
+  {
+   "id": "2026-06-20-google-calendar-now-has-more-colors",
+   "name": "Google Calendar now has more colors!",
+   "url": "https://workspaceupdates.googleblog.com/2026/06/custom-event-colors-in-google-calendar.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "There was some sneakily big, Installerverse-adjacent news this week: Google Calendar now has more colors! Instead of just Google’s bad ideas about green and blue, you can now color-code your calendar with 200 custom colors.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-20-a-one-text-file",
+   "name": "a one-text-file",
+   "url": "https://jeffhuang.com/productivity_text_file/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "There was some sneakily big, Installerverse-adjacent news this week: Google Calendar now has more colors! Instead of just Google’s bad ideas about green and blue, you can now color-code your calendar with 200 custom colors.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-20-timeblocking",
+   "name": "timeblocking",
+   "url": "https://calnewport.com/deep-habits-the-importance-of-planning-every-minute-of-your-work-day/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "There was some sneakily big, Installerverse-adjacent news this week: Google Calendar now has more colors! Instead of just Google’s bad ideas about green and blue, you can now color-code your calendar with 200 custom colors.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

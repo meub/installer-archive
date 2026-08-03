@@ -1,0 +1,896 @@
+{
+ "schema": 1,
+ "date": "2024-09-08",
+ "post_type": "issue",
+ "title": "An all-in-one app for the internet",
+ "url": "https://www.theverge.com/2024/9/8/24237639/reeder-app-internet-feeds-astro-bot-gopro-dji-installer",
+ "author": "David Pierce",
+ "number": 51,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "group-project",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:37+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-09-08-cobalt-miners",
+   "name": "cobalt miners",
+   "url": "https://www.washingtonpost.com/graphics/business/batteries/congo-cobalt-mining-for-lithium-ion-battery/?src=longreads",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about cobalt miners and religious AI and the history of the Moleskine , listening to pop-punk Disney songs on repeat, finally starting The Sopranos (I know, I know), soundtracking my workday with the Earth.fm app , giving Tweek another whirl for simple task and calendar…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-religious-ai",
+   "name": "religious AI",
+   "url": "https://www.plough.com/en/topics/life/technology/chatgpt-goes-to-church",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about cobalt miners and religious AI and the history of the Moleskine , listening to pop-punk Disney songs on repeat, finally starting The Sopranos (I know, I know), soundtracking my workday with the Earth.fm app , giving Tweek another whirl for simple task and calendar…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-the-history-of-the-moleskine",
+   "name": "the history of the Moleskine",
+   "url": "https://thewalrus.ca/moleskine/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about cobalt miners and religious AI and the history of the Moleskine , listening to pop-punk Disney songs on repeat, finally starting The Sopranos (I know, I know), soundtracking my workday with the Earth.fm app , giving Tweek another whirl for simple task and calendar…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-pop-punk-disney-songs",
+   "name": "pop-punk Disney songs",
+   "url": "https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "This week, I’ve been reading about cobalt miners and religious AI and the history of the Moleskine , listening to pop-punk Disney songs on repeat, finally starting The Sopranos (I know, I know), soundtracking my workday with the Earth.fm app , giving Tweek another whirl for simple task and calendar…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-the-sopranos",
+   "name": "The Sopranos",
+   "url": "https://www.themoviedb.org/tv/1398-the-sopranos?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about cobalt miners and religious AI and the history of the Moleskine , listening to pop-punk Disney songs on repeat, finally starting The Sopranos (I know, I know), soundtracking my workday with the Earth.fm app , giving Tweek another whirl for simple task and calendar…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-the-earth-fm-app",
+   "name": "the Earth.fm app",
+   "url": "http://earth.fm",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about cobalt miners and religious AI and the history of the Moleskine , listening to pop-punk Disney songs on repeat, finally starting The Sopranos (I know, I know), soundtracking my workday with the Earth.fm app , giving Tweek another whirl for simple task and calendar…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-tweek",
+   "name": "Tweek",
+   "url": "https://tweek.so/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about cobalt miners and religious AI and the history of the Moleskine , listening to pop-punk Disney songs on repeat, finally starting The Sopranos (I know, I know), soundtracking my workday with the Earth.fm app , giving Tweek another whirl for simple task and calendar…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-nfl-sunday-ticket",
+   "name": "NFL Sunday Ticket",
+   "url": "https://tv.youtube.com/learn/nflsundayticket/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about cobalt miners and religious AI and the history of the Moleskine , listening to pop-punk Disney songs on repeat, finally starting The Sopranos (I know, I know), soundtracking my workday with the Earth.fm app , giving Tweek another whirl for simple task and calendar…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-nate-wrens-lines-pack",
+   "name": "Nate Wren’s Lines pack",
+   "url": "https://natewren.com/product/lines-ios-14-minimalist-icons/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I also have for you everybody’s favorite new PlayStation game, a new documentary about money in sports, two new cameras worth a look, and a terrific E Ink note-taking device. Oh, and apologies: I included the wrong link to my homescreen icon pack last week.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-reeder",
+   "name": "Reeder",
+   "url": "https://reederapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s a podcast app, a YouTube queue, an RSS reader, a social feed, and a whole bunch more, all in one place. (And for Apple devices only.)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-slow-horses-season-4",
+   "name": "Slow Horses season 4",
+   "url": "https://www.themoviedb.org/tv/95480-slow-horses?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I avoided this Apple TV Plus show for a while because I didn’t love the book, which is very well done but just kind of… slow. (I eventually soldiered through the first third of the first book, at which point it does start moving.) The show is not slow.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-astro-bot",
+   "name": "Astro Bot",
+   "url": "https://www.playstation.com/en-us/games/astro-bot/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I promised myself I was going to wait until Black Friday to buy a PS5… but this new game, an adorable platformer that seems to have charmed absolutely everyone who tried it, is going to make me pull the trigger sooner. Seriously, people love this game.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-the-remarkable-paper-pro",
+   "name": "The Remarkable Paper Pro",
+   "url": "https://remarkable.com/store/remarkable-paper/pro?irclickid=yOMUuVQeMxyIUbyVXTS:r2JgUkC3wJ1vnQSSw00&irgwc=1",
+   "alt_urls": [
+    "https://www.theverge.com/2024/9/4/24234815/the-remarkable-paper-pro-is-as-outrageous-as-it-is-luxurious"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This thing is pure E Ink overkill , with an overengineered color display and a bunch of extremely fancy features. It’s like $800 for the whole setup including the keyboard, which is an awful lot, but this is a heck of a note-taking device.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-the-money-game",
+   "name": "The Money Game",
+   "url": "https://www.themoviedb.org/tv/261681-the-money-game",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "A miniseries about the NIL revolution in college sports, which is actually a story about social media and the internet and the way that everybody, including athletes, struggles to balance life and content.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-circle-to-search-for-music",
+   "name": "Circle to Search for music",
+   "url": "https://blog.google/products/android/new-android-features-september-2024/",
+   "alt_urls": [
+    "https://www.theverge.com/2024/9/3/24234730/android-15-availability-circle-to-search-earthquake-alerts"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Forget Gemini — Google’s most clever AI features are all happening through Circle to Search. Google’s song lookup tool is the best in the biz, and with Circle to Search and Android 15 , you can get at it from anywhere.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-the-peak-design-outdoor-line",
+   "name": "The Peak Design Outdoor Line",
+   "url": "https://peakdesign.kckb.me/870de78b",
+   "alt_urls": [
+    "https://www.theverge.com/2024/9/3/24232208/peak-design-outdoor-backpacks-slings-price-specs"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Peak Design’s stuff is just always great, and the new line of rugged gear looks like a winner . (Don’t be thrown by the Kickstarter, it’s just how the company rolls for some reason. PD is legit.) I’ve recently become a sling convert for daily use, and I’m very into the new one here.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-the-gopro-hero-13-black",
+   "name": "The GoPro Hero 13 Black",
+   "url": "https://gopro.com/en/us/shop/cameras/learn/hero13black/CHDHX-131-master.html",
+   "alt_urls": [
+    "https://www.theverge.com/2024/9/4/24235177/gopro-hero-13-black-10-bit-g-log-upgraded-battery-new-lenses"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Every new GoPro is kind of the same: a little better in a bunch of ways but still a GoPro . And that’s fine! Adding some new lenses and improving transfer speeds goes a long way here, too.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-the-dji-neo",
+   "name": "The DJI Neo",
+   "url": "https://www.dji.com/neo?site=brandsite",
+   "alt_urls": [
+    "https://www.theverge.com/24236503/dji-neo-vs-hoverair-selfie-drone-specs-price-hands-on"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The other nifty camera launch of the week : a simple selfie drone that follows you around, does cool camera moves, and lands in your hand. Getting real Snap Pixy vibes from this thing, but I think this one might be a hit.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-the-plugbug-with-find-my",
+   "name": "The PlugBug with Find My",
+   "url": "https://www.twelvesouth.com/products/plugbug-multiport-usbc-charger-with-find-my",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My first reaction to the idea of a wall plug with Find My support was, just, why? But then I thought about how many hotels and coffee shops I’ve left chargers in, and I think this $70 gizmo might pay for itself pretty fast. Plus, Twelve South stuff rarely disappoints.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-work-from-hype",
+   "name": "Work From Hype",
+   "url": "https://www.youtube.com/@WorkFromHype/videos",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "all about desk setups and WFH gear",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-macho-nacho",
+   "name": "Macho Nacho",
+   "url": "https://www.youtube.com/@MachoNachoProductions",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "retro gaming",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-elliotisacoolguy",
+   "name": "Elliotisacoolguy",
+   "url": "https://www.youtube.com/@welliot",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "a very funny graphic designer",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-brandon-talbot",
+   "name": "Brandon Talbot",
+   "url": "https://www.youtube.com/@BrandonTalbot",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "fitness and health tech reviews",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-mobiletechreview",
+   "name": "MobileTechReview",
+   "url": "https://www.youtube.com/@mobiletechreview",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "gadget reviews",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-brandon-james-greer",
+   "name": "Brandon James Greer",
+   "url": "https://www.youtube.com/@BJGpixel",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "a pixel artist sharing their process",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-easy-allies",
+   "name": "Easy Allies",
+   "url": "https://www.youtube.com/c/easyallies",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "video game news and reviews",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-ritvikmath",
+   "name": "Ritvikmath",
+   "url": "https://www.youtube.com/@ritvikmath/featured",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "data science and predictions",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-technology-connections",
+   "name": "Technology Connections",
+   "url": "https://www.youtube.com/technologyconnections",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "everyday tech explainers",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-enrico-tartarotti",
+   "name": "Enrico Tartarotti",
+   "url": "https://www.youtube.com/@enricotartarotti/videos",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "essays on how tech works and how we use it",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-byte-review",
+   "name": "Byte Review",
+   "url": "https://www.youtube.com/@ByteReview",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "gadget lifestyle videos, especially Apple stuff",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-salem-techsperts",
+   "name": "Salem Techsperts",
+   "url": "https://www.youtube.com/@SalemTechsperts",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "stories from a computer repair shop",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-the-serial-port",
+   "name": "The Serial Port",
+   "url": "https://www.youtube.com/@theserialport",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "all things tech history",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-paul-e-t",
+   "name": "Paul E.T.",
+   "url": "https://www.youtube.com/@paul_et",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "(on movies)",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-not-just-bikes",
+   "name": "Not Just Bikes",
+   "url": "https://www.youtube.com/@notjustbikes",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "(on urban planning)",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-whats-so-great-about-that",
+   "name": "What’s So Great About That?",
+   "url": "https://www.youtube.com/@WhatsSoGreatAboutThat",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "(on… everything)",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-answer-in-progress",
+   "name": "Answer in Progress",
+   "url": "https://www.youtube.com/@answerinprogress",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "(also on… everything)",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-kaptainkristian",
+   "name": "Kaptainkristian",
+   "url": "https://www.youtube.com/@kaptainkristian",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "(on movies and TV)",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-golden-owl",
+   "name": "Golden Owl",
+   "url": "https://www.youtube.com/@GoldenOwl_Game",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "(on video game design)",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-blast-processing",
+   "name": "Blast Processing",
+   "url": "https://www.youtube.com/@BlastProcessing/videos",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "(on video game history)",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-middle-8",
+   "name": "Middle 8",
+   "url": "https://www.youtube.com/@Middle8",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "(on music culture)",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-minutefood",
+   "name": "MinuteFood",
+   "url": "https://www.youtube.com/@MinuteFood/videos",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "(on food)",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-calum",
+   "name": "Calum",
+   "url": "https://www.youtube.com/@CalumRaasay",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "(on transportation history)",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-berm-peak",
+   "name": "Berm Peak",
+   "url": "https://www.youtube.com/@SethsBikeHacks",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": ", all about bikes and scooters and anything you can ride on",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-slickerdrips",
+   "name": "Slickerdrips",
+   "url": "https://www.youtube.com/@slickerdrips",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": ", with lots of board game tutorials and playthroughs",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-vanwives",
+   "name": "Vanwives",
+   "url": "https://www.youtube.com/@Vanwives",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": ", on van life, DIY, and off-grid living",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-boulder-creek-railroad",
+   "name": "Boulder Creek Railroad",
+   "url": "https://www.youtube.com/@bouldercreekrailroad",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "a model builder half working and half teaching",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-escape-to-rural-france",
+   "name": "Escape to rural France",
+   "url": "https://www.youtube.com/@escapetoruralfrance",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": ", a guy chronicling his attempt to rebuild a chateau",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-jelles-marble-runs",
+   "name": "Jelle’s Marble Runs",
+   "url": "https://www.youtube.com/@jellesmarbleruns",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": ", because marble runs are never not fun",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-adventure-chasing",
+   "name": "Adventure Chasing",
+   "url": "https://www.youtube.com/@adventurechasing",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": ", a guy and his dog exploring the outdoors",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-08-iphone-14-pro-max",
+   "name": "iPhone 14 Pro Max",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 14 Pro Max",
+   "section": "screen-share",
+   "recommender": "Erick"
+  },
+  {
+   "id": "2024-09-08-dot",
+   "name": "Dot",
+   "url": "https://new.computer/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Dot : It’s an AI companion chatbot thing. It’s actually really cool. It’s very much like a journal or friend that responds to you and can give you some feedback and spark ideas. It’s great until it confuses some facts about you, which breaks the immersion.",
+   "section": "screen-share",
+   "recommender": "Erick"
+  },
+  {
+   "id": "2024-09-08-delta",
+   "name": "Delta",
+   "url": "https://faq.deltaemulator.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Delta : Did I mention I’m a gamer? It was LONG overdue for emulators to come into the App Store, and this is by far the best for playing retro games. If I find myself waiting around for something, I’ll quickly pop into a game of NBA Jam or Streets of Rage .",
+   "section": "screen-share",
+   "recommender": "Erick"
+  },
+  {
+   "id": "2024-09-08-hey",
+   "name": "Hey",
+   "url": "https://www.hey.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Hey : Hey is my favorite email client and service. The email screener and privacy-focused approach make it well worth the yearly subscription. And it looks better than most email apps.",
+   "section": "screen-share",
+   "recommender": "Erick"
+  },
+  {
+   "id": "2024-09-08-arc",
+   "name": "Arc",
+   "url": "https://arc.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Arc : This is a new addition to the homescreen and has quickly replaced Safari for me in most cases. Its “Browse For Me” feature is a godsend. I also love the app’s alternate icon, which pays homage to Netscape Navigator. It’s 1994 all over again!",
+   "section": "screen-share",
+   "recommender": "Erick"
+  },
+  {
+   "id": "2024-09-08-mcu-the-reign-of-marvel-studios",
+   "name": "MCU: The Reign of Marvel Studios",
+   "url": "https://wwnorton.com/books/9781631497513",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m currently reading MCU: The Reign of Marvel Studios . As a Marvel zombie from way back, I’m a huge fan of the movies and am fascinated by the behind-the-scenes look at how the sausage was made. I’m currently watching Dark Matter on Apple TV Plus.",
+   "section": "screen-share",
+   "recommender": "Erick"
+  },
+  {
+   "id": "2024-09-08-dark-matter",
+   "name": "Dark Matter",
+   "url": "https://www.themoviedb.org/tv/196322-dark-matter?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’m currently reading MCU: The Reign of Marvel Studios . As a Marvel zombie from way back, I’m a huge fan of the movies and am fascinated by the behind-the-scenes look at how the sausage was made. I’m currently watching Dark Matter on Apple TV Plus.",
+   "section": "screen-share",
+   "recommender": "Erick"
+  },
+  {
+   "id": "2024-09-08-paper-mario-the-thousand-year-door",
+   "name": "Paper Mario: The Thousand-Year Door",
+   "url": "https://www.nintendo.com/us/store/products/paper-mario-the-thousand-year-door-switch/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I’m currently reading MCU: The Reign of Marvel Studios . As a Marvel zombie from way back, I’m a huge fan of the movies and am fascinated by the behind-the-scenes look at how the sausage was made. I’m currently watching Dark Matter on Apple TV Plus.",
+   "section": "screen-share",
+   "recommender": "Erick"
+  },
+  {
+   "id": "2024-09-08-zen-browser",
+   "name": "Zen Browser",
+   "url": "https://zen-browser.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just moved my work Windows PC to Zen Browser . A Firefox version that has a very strong Arc feeling.",
+   "section": "crowdsourced",
+   "recommender": "Maciej (reader)"
+  },
+  {
+   "id": "2024-09-08-live-listen",
+   "name": "Live Listen",
+   "url": "https://support.apple.com/en-us/102479",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Was away at a cabin with family and we did not bring a camera. When the baby fell asleep, we popped in one AirPod and turned on Live Listen , left the phone in the room, and went about our business! Two birds with one stone, really, since then I didn’t have my phone.",
+   "section": "crowdsourced",
+   "recommender": "Saad (reader)"
+  },
+  {
+   "id": "2024-09-08-four-thousand-weeks",
+   "name": "Four Thousand Weeks",
+   "url": "https://www.oliverburkeman.com/fourthousandweeks",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Four Thousand Weeks by Oliver Burkeman is rocking my world right now. For those in constant search of productivity optimization (speaking of no one in particular, of course…), this book hits home.",
+   "section": "crowdsourced",
+   "recommender": "Ryan (reader)"
+  },
+  {
+   "id": "2024-09-08-diggnation",
+   "name": "Diggnation",
+   "url": "https://www.youtube.com/diggnation",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Diggnation came back. So that’s been some fun nostalgia.",
+   "section": "crowdsourced",
+   "recommender": "Brian (reader)"
+  },
+  {
+   "id": "2024-09-08-handlestash",
+   "name": "HandleStash",
+   "url": "https://handlestash.com/collections/handlestash-shock-absorbing-cup-holder",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The HandleStash — a shock absorbing beverage holder for bikes. Game-changer for morning commute / weekend morning rides with coffee.",
+   "section": "crowdsourced",
+   "recommender": "Jim (reader)"
+  },
+  {
+   "id": "2024-09-08-youtube-music",
+   "name": "YouTube Music",
+   "url": "https://music.youtube.com/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I switched from Spotify to YouTube Music a few years ago after Joe Rogan-gate and haven’t looked back! The audio quality is SO MUCH BETTER than Spotify. Feel that bass. There aren’t as many playlists, but just enough, and I tend to really enjoy checking out the new releases each week.",
+   "section": "crowdsourced",
+   "recommender": "Ellen (reader)"
+  },
+  {
+   "id": "2024-09-08-rice-cooker-cornbread",
+   "name": "rice cooker cornbread",
+   "url": "https://www.slurrp.com/recipes/rice-cooker-corn-bread-1612538822",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just got a rice cooker, and I’m eyeballing rice cooker cornbread for this weekend.",
+   "section": "crowdsourced",
+   "recommender": "Daniel (reader)"
+  },
+  {
+   "id": "2024-09-08-kaos",
+   "name": "Kaos",
+   "url": "https://www.themoviedb.org/tv/102621-kaos?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Kaos on Netflix is amazing. A perfect blend of Greek mythology and modern-day politics. Highly recommended.",
+   "section": "crowdsourced",
+   "recommender": "Sacchi (reader)"
+  },
+  {
+   "id": "2024-09-08-bear",
+   "name": "Bear",
+   "url": "https://bear.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’m procrastinating by deciding whether I should stick with Bear , go back to Obsidian , or accept my fate and move back to Apple Notes . It is torture.",
+   "section": "crowdsourced",
+   "recommender": "Eitan (reader)"
+  },
+  {
+   "id": "2024-09-08-obsidian",
+   "name": "Obsidian",
+   "url": "https://obsidian.md/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’m procrastinating by deciding whether I should stick with Bear , go back to Obsidian , or accept my fate and move back to Apple Notes . It is torture.",
+   "section": "crowdsourced",
+   "recommender": "Eitan (reader)"
+  },
+  {
+   "id": "2024-09-08-apple-notes",
+   "name": "Apple Notes",
+   "url": "https://apps.apple.com/us/app/notes/id1110145109",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "This week, I’m procrastinating by deciding whether I should stick with Bear , go back to Obsidian , or accept my fate and move back to Apple Notes . It is torture.",
+   "section": "crowdsourced",
+   "recommender": "Eitan (reader)"
+  },
+  {
+   "id": "2024-09-08-a-short-history-of-nearly-everything",
+   "name": "A Short History of Nearly Everything",
+   "url": "https://www.penguinrandomhouse.com/books/20549/a-short-history-of-nearly-everything-by-bill-bryson/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A Short History of Nearly Everything . I know that this book is pretty old and many people have already read it, but if you haven’t read it, you should surely give it a try.",
+   "section": "crowdsourced",
+   "recommender": "Aashwath (reader)"
+  },
+  {
+   "id": "2024-09-08-shapez-2",
+   "name": "Shapez 2",
+   "url": "https://shapez2.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I lost most of my Labor Day weekend to Shapez 2 . It’s incredible!",
+   "section": "crowdsourced",
+   "recommender": "Alec (reader)"
+  },
+  {
+   "id": "2024-09-08-watching-this-video",
+   "name": "watching this video",
+   "url": "https://www.youtube.com/watch?v=H_D7GXUeHGo",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Apple’s annual iPhone launch event is on Monday, and we’re going to get a whole bunch of new gear: sounds like phones, watches, headphones, and maybe even desktops are all on the docket. We’re also going to get upgrades to all of Apple’s software, too. Which is mostly good news!",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

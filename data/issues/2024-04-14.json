@@ -1,0 +1,479 @@
+{
+ "schema": 1,
+ "date": "2024-04-14",
+ "post_type": "issue",
+ "title": "Best video game TV show ever?",
+ "url": "https://www.theverge.com/24128766/fallout-show-dji-avata-2-fairbuds-installer-newsletter",
+ "author": "David Pierce",
+ "number": 34,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:37+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-04-14-the-com-world-war",
+   "name": "the Com World War",
+   "url": "https://www.404media.co/inside-the-com-world-war-robberies-brickings-and-drama/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about the Humane AI Pin and the Aboard app , reading about the Com World War and why studios cancel already-made movies , watching Ripley and a deep dive into the Game Boy’s incredible sturdiness and power , listening to The Rest is History take on Martin Luther , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-14-why-studios-cancel-already-made-movies",
+   "name": "why studios cancel already-made movies",
+   "url": "https://www.nytimes.com/2024/04/09/magazine/why-coyote-vs-acme-was-not-released.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about the Humane AI Pin and the Aboard app , reading about the Com World War and why studios cancel already-made movies , watching Ripley and a deep dive into the Game Boy’s incredible sturdiness and power , listening to The Rest is History take on Martin Luther , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-14-ripley",
+   "name": "Ripley",
+   "url": "https://www.themoviedb.org/tv/94028-ripley",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been writing about the Humane AI Pin and the Aboard app , reading about the Com World War and why studios cancel already-made movies , watching Ripley and a deep dive into the Game Boy’s incredible sturdiness and power , listening to The Rest is History take on Martin Luther , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-14-the-game-boys-incredible-sturdiness-and-power",
+   "name": "the Game Boy’s incredible sturdiness and power",
+   "url": "https://www.youtube.com/watch?v=BKm45Az02YE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been writing about the Humane AI Pin and the Aboard app , reading about the Com World War and why studios cancel already-made movies , watching Ripley and a deep dive into the Game Boy’s incredible sturdiness and power , listening to The Rest is History take on Martin Luther , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-14-the-rest-is-history",
+   "name": "The Rest is History",
+   "url": "https://therestishistory.com/episodes/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about the Humane AI Pin and the Aboard app , reading about the Com World War and why studios cancel already-made movies , watching Ripley and a deep dive into the Game Boy’s incredible sturdiness and power , listening to The Rest is History take on Martin Luther , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-14-martin-luther",
+   "name": "Martin Luther",
+   "url": "https://therestishistory.com/433-luther-the-man-who-changed-the-world-part-1/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been writing about the Humane AI Pin and the Aboard app , reading about the Com World War and why studios cancel already-made movies , watching Ripley and a deep dive into the Game Boy’s incredible sturdiness and power , listening to The Rest is History take on Martin Luther , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-14-amazons-echo-frames",
+   "name": "Amazon’s Echo Frames",
+   "url": "https://www.amazon.com/dp/B09SVFP7YC?th=1&linkCode=ll1&tag=theverge02-20&linkId=4bfd5d2efc8c7e2afd941a968c516d2a&language=en_US&tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "This week, I’ve been writing about the Humane AI Pin and the Aboard app , reading about the Com World War and why studios cancel already-made movies , watching Ripley and a deep dive into the Game Boy’s incredible sturdiness and power , listening to The Rest is History take on Martin Luther , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-14-davidpierce-11",
+   "name": "@davidpierce.11",
+   "url": "https://signal.me/#eu/DFwNqgC5pi/XiWA/OZPn//ZmpPvOjeuzX3N/frMdTLB3daHuGpJDN5qvClqAwyy0",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "(As always, the best part of Installer is your ideas and tips. What are you into right now? What should everyone else be into right now? Tell me everything: installer@theverge.com , or hit me up on Signal. I’m @davidpierce.11 .",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-14-fallout",
+   "name": "Fallout",
+   "url": "https://www.themoviedb.org/tv/106379-fallout?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "First The Last of Us , then Super Mario Bros ., now this! We’re suddenly spoiled for choice in great video game adaptations. It’s postapocalyptic, it’s epic, it’s apparently pretty funny? The reviews are fantastic — I’ll be watching this on the plane to and from Chicago this weekend. Can’t wait.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-14-the-dji-avata-2",
+   "name": "The DJI Avata 2",
+   "url": "https://www.dji.com/avata-2?awc=7327_1712876133_0b92dedb6a7d995d22d725c7a6470b96",
+   "alt_urls": [
+    "https://www.theverge.com/2024/4/11/24126785/dji-avata-2-price-release-date"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "There are two kinds of drones: camera drones and flying drones. This one’s a flyer : a first-person experience through goggles that lasts longer and moves better than its predecessor. I need to take one of these for a spin.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-14-find-my-device-on-android",
+   "name": "Find My Device on Android",
+   "url": "https://blog.google/products/android/android-find-my-device/",
+   "alt_urls": [
+    "https://www.theverge.com/2024/4/8/24124174/android-find-my-device-network-offline-tracker-tag-chipolo-pebblebee"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "It took Google a while to get this right, but device tracking is a great feature — and it appears Google will be much more open with the network than Apple is with Find My. Clever to use Nest devices to tell you where you left your keys in the house, too.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-14-the-antisocial-network-memes-to-mayhem",
+   "name": "The Antisocial Network: Memes to Mayhem",
+   "url": "https://www.themoviedb.org/movie/1242384-the-antisocial-network-memes-to-mayhem",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Most of these hand-wringy Netflix docs about how bad the internet is — The Great Hack , The Social Dilemma , that sort of thing — are simplistic and frustrating to watch. This 4chan doc has a bit of the same problem but is smart and deep enough to teach you a few things about the web.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-14-frame-io-version-4",
+   "name": "Frame.io Version 4",
+   "url": "http://frame.io",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If you do anything with video, especially with other people, this is a big upgrade: Frame.io this week got much better search, more organization tools, and custom metadata for better keeping track of things. And it’s all much better on mobile now.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-14-kobos-clara-colour",
+   "name": "Kobo’s Clara Colour",
+   "url": "https://us.kobobooks.com/collections/ereaders/products/kobo-clara-colour?ranMID=37217",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Color ebook readers! I love that Kobo exists as a check on and competitor to the Kindle, even though I’m stuck in Amazon’s ecosystem at this point. This is the latest and greatest in E Ink, and for $150, the faster and better Clara seems like a good deal.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-14-this-invention-made-disney-millions-but-then-the",
+   "name": "“This Invention Made Disney MILLIONS, but Then They LOST It!”",
+   "url": "https://www.youtube.com/watch?v=UQuIVsNzqDk&t=1s",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The Sodium Vapor Process is both an incredibly cool story about the history of filmmaking and a rad-sounding name for a pop punk band. Fun video about a fun invention and why a much worse product ended up winning out.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-14-fairphones-fairbuds",
+   "name": "Fairphone’s Fairbuds",
+   "url": "https://shop.fairphone.com/fairbuds",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Repairable earbuds are a huge win. Because, you know, environment and waste and stuff, but also because you can replace the battery when the battery dies! As someone who keeps replacing AirPods because they only last an hour after a while, this is a big win. They look pretty nice, too.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-14-strut",
+   "name": "Strut",
+   "url": "https://strut.so/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is a really nice-looking app for anyone who writes a lot. It’s part blank page, part organizer, plus a bunch of AI writing tools built in. You’ll pay if you want the AI, but lucky for me, I don’t. Free writing apps for the win!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-14-civil-war",
+   "name": "Civil War",
+   "url": "https://www.themoviedb.org/movie/929590-civil-war?language=en-US",
+   "alt_urls": [
+    "https://www.theverge.com/24125462/civil-war-movie-alex-garland-review"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I don’t know if I want to see this movie because it seems so plausible or if I never want to see this movie because it seems so plausible. But by all accounts, this dystopian near-future America goes pretty hard — though we’ll see if it really pulls it off .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-04-14-samsung-z-flip-5-smallest-android-phone-on-the-m",
+   "name": "Samsung Z Flip 5 — smallest Android phone on the market right now!",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: Samsung Z Flip 5 — smallest Android phone on the market right now!",
+   "section": "screen-share",
+   "recommender": "Eric"
+  },
+  {
+   "id": "2024-04-14-3-body-problem",
+   "name": "3 Body Problem",
+   "url": "https://www.themoviedb.org/tv/108545-3-body-problem?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I have two kids under four so I don’t get a ton of free time, but we’ve enjoyed 3 Body Problem on Netflix and Mr. & Mrs. Smith ! I’m listening to Kitchen Confidential by Anthony Bourdain and just finished reading There Is No Antimemetics Division by qntm — my new favorite author!",
+   "section": "screen-share",
+   "recommender": "Eric"
+  },
+  {
+   "id": "2024-04-14-mr-mrs-smith",
+   "name": "Mr. & Mrs. Smith",
+   "url": "https://www.themoviedb.org/tv/118642-mr-mrs-smith?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I have two kids under four so I don’t get a ton of free time, but we’ve enjoyed 3 Body Problem on Netflix and Mr. & Mrs. Smith ! I’m listening to Kitchen Confidential by Anthony Bourdain and just finished reading There Is No Antimemetics Division by qntm — my new favorite author!",
+   "section": "screen-share",
+   "recommender": "Eric"
+  },
+  {
+   "id": "2024-04-14-kitchen-confidential",
+   "name": "Kitchen Confidential",
+   "url": "https://www.penguinrandomhouse.com/books/16503/kitchen-confidential-by-anthony-bourdain/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have two kids under four so I don’t get a ton of free time, but we’ve enjoyed 3 Body Problem on Netflix and Mr. & Mrs. Smith ! I’m listening to Kitchen Confidential by Anthony Bourdain and just finished reading There Is No Antimemetics Division by qntm — my new favorite author!",
+   "section": "screen-share",
+   "recommender": "Eric"
+  },
+  {
+   "id": "2024-04-14-there-is-no-antimemetics-division",
+   "name": "There Is No Antimemetics Division",
+   "url": "https://qntm.org/scp",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have two kids under four so I don’t get a ton of free time, but we’ve enjoyed 3 Body Problem on Netflix and Mr. & Mrs. Smith ! I’m listening to Kitchen Confidential by Anthony Bourdain and just finished reading There Is No Antimemetics Division by qntm — my new favorite author!",
+   "section": "screen-share",
+   "recommender": "Eric"
+  },
+  {
+   "id": "2024-04-14-lena",
+   "name": "Lena",
+   "url": "https://qntm.org/mmacevedo",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have two kids under four so I don’t get a ton of free time, but we’ve enjoyed 3 Body Problem on Netflix and Mr. & Mrs. Smith ! I’m listening to Kitchen Confidential by Anthony Bourdain and just finished reading There Is No Antimemetics Division by qntm — my new favorite author!",
+   "section": "screen-share",
+   "recommender": "Eric"
+  },
+  {
+   "id": "2024-04-14-chatgpt",
+   "name": "ChatGPT",
+   "url": "https://chatgpt.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have two kids under four so I don’t get a ton of free time, but we’ve enjoyed 3 Body Problem on Netflix and Mr. & Mrs. Smith ! I’m listening to Kitchen Confidential by Anthony Bourdain and just finished reading There Is No Antimemetics Division by qntm — my new favorite author!",
+   "section": "screen-share",
+   "recommender": "Eric"
+  },
+  {
+   "id": "2024-04-14-tom-scotts-weekly-newsletter",
+   "name": "Tom Scott’s Weekly Newsletter",
+   "url": "https://www.tomscott.com/newsletter/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Tom Scott’s Weekly Newsletter . I’ve gotten some of my favorite stuff on the internet from that newsletter, like Kern Type , this post on anagrams , and so much more.",
+   "section": "crowdsourced",
+   "recommender": "Nachiketa (reader)"
+  },
+  {
+   "id": "2024-04-14-kern-type",
+   "name": "Kern Type",
+   "url": "https://type.method.ac/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Tom Scott’s Weekly Newsletter . I’ve gotten some of my favorite stuff on the internet from that newsletter, like Kern Type , this post on anagrams , and so much more.",
+   "section": "crowdsourced",
+   "recommender": "Nachiketa (reader)"
+  },
+  {
+   "id": "2024-04-14-this-post-on-anagrams",
+   "name": "this post on anagrams",
+   "url": "https://blog.plover.com/lang/anagram-scoring.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Tom Scott’s Weekly Newsletter . I’ve gotten some of my favorite stuff on the internet from that newsletter, like Kern Type , this post on anagrams , and so much more.",
+   "section": "crowdsourced",
+   "recommender": "Nachiketa (reader)"
+  },
+  {
+   "id": "2024-04-14-grindstone",
+   "name": "Grindstone",
+   "url": "https://www.capybaragames.com/games/grindstone/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I picked up Grindstone after a while away from it and have managed to 100 percent complete the main levels, the bonus levels and the “cosmic darkside,” and collect all the achievements. It has been worth the price of Apple Arcade on its own!",
+   "section": "crowdsourced",
+   "recommender": "Rod (reader)"
+  },
+  {
+   "id": "2024-04-14-revolut",
+   "name": "Revolut",
+   "url": "https://www.revolut.com/en-US/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve recently moved to the UK and I needed to get a bank. I chose Revolut . The app is feature-packed, reminding me a little of Simple (RIP). It’s a little loaded, and I really had to get used to it, but it works, and it’s pretty incredible. The multi-national, multi-currency use is impressive.",
+   "section": "crowdsourced",
+   "recommender": "Greg (reader)"
+  },
+  {
+   "id": "2024-04-14-antennapod",
+   "name": "AntennaPod",
+   "url": "https://antennapod.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been using AntennaPod for over a year, and it’s a perfect app to replace Google Podcasts. It’s open source, no ads, no analytics, and the people who work on it are amazing: they regularly conduct community calls to discuss the project and take feedback very seriously. Android only!",
+   "section": "crowdsourced",
+   "recommender": "Chethan (reader)"
+  },
+  {
+   "id": "2024-04-14-dune-imperium",
+   "name": "Dune: Imperium",
+   "url": "https://direwolfdigital.com/dune-imperium-digital/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Playing Dune: Imperium (on Android). Such a great way to experience this incredible board game! The AIs are tough!",
+   "section": "crowdsourced",
+   "recommender": "Gary (reader)"
+  },
+  {
+   "id": "2024-04-14-john-rogers",
+   "name": "John Rogers",
+   "url": "https://www.youtube.com/@JohnRogersWalks",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’ve been catching up with the criminally underrated John Rogers on YouTube. He typically makes history videos walking through the various boroughs of London, but the one that has caught my attention is him walking to North Ockendon , a small village that is technically considered part of London.",
+   "section": "crowdsourced",
+   "recommender": "Joe (reader)"
+  },
+  {
+   "id": "2024-04-14-him-walking-to-north-ockendon",
+   "name": "him walking to North Ockendon",
+   "url": "https://www.youtube.com/watch?v=gB4yCqy77aY",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’ve been catching up with the criminally underrated John Rogers on YouTube. He typically makes history videos walking through the various boroughs of London, but the one that has caught my attention is him walking to North Ockendon , a small village that is technically considered part of London.",
+   "section": "crowdsourced",
+   "recommender": "Joe (reader)"
+  },
+  {
+   "id": "2024-04-14-the-big-bang-theory",
+   "name": "The Big Bang Theory",
+   "url": "https://www.themoviedb.org/tv/1418-the-big-bang-theory",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’ve been rewatching early episodes of The Big Bang Theory and marveling at all the older tech. iPod docks in every apartment, an entire subplot about Siri when it launched on the 4s, and the super chunky Windows laptops.",
+   "section": "crowdsourced",
+   "recommender": "Kaleb (reader)"
+  },
+  {
+   "id": "2024-04-14-lyrak",
+   "name": "Lyrak",
+   "url": "https://www.lyrak.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m giving Lyrak a shot this week. Yes, ANOTHER social media app. They claim it’s built to be more real time than Threads, so better for news, which is good, and built on ActivityPub, which is great. Federation for the win! Still giving it a shot, but it’s interesting.",
+   "section": "crowdsourced",
+   "recommender": "Sighjinks (reader)"
+  },
+  {
+   "id": "2024-04-14-rytmos",
+   "name": "Rytmos",
+   "url": "https://rytmos.club/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "So I was playing Rytmos , an iOS puzzle game with a really great visual design themed around world music. They’ve got a bunch of Spotify playlists with examples of the music that inspired the game, but I’m an Apple Music user.",
+   "section": "crowdsourced",
+   "recommender": "Daniel (reader)"
+  },
+  {
+   "id": "2024-04-14-songshift",
+   "name": "SongShift",
+   "url": "https://www.songshift.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "So I was playing Rytmos , an iOS puzzle game with a really great visual design themed around world music. They’ve got a bunch of Spotify playlists with examples of the music that inspired the game, but I’m an Apple Music user.",
+   "section": "crowdsourced",
+   "recommender": "Daniel (reader)"
+  },
+  {
+   "id": "2024-04-14-logitech-mx-keys",
+   "name": "Logitech MX Keys",
+   "url": "https://logitech.cfzu.net/c/482924/499820/8585?u=https%3A%2F%2Fwww.logitech.com%2Fen-us%2Fproducts%2Fkeyboards%2Fmx-keys-s-wireless-keyboard.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A couple of weeks ago, I complained here about my busted keyboard and my complicated relationships with clicky mechanical keyboard. Thanks to everyone who reached out with ideas!",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

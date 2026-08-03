@@ -1,0 +1,666 @@
+{
+ "schema": 1,
+ "date": "2025-06-29",
+ "post_type": "issue",
+ "title": "Apple’s racing movie is finally here",
+ "url": "https://www.theverge.com/installer-newsletter/694482/f1-movie-apple-fairphone-death-stranding-installer",
+ "author": "David Pierce",
+ "number": 88,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:39+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-06-29-heat-dome",
+   "name": "heat dome",
+   "url": "https://www.npr.org/2025/06/24/g-s1-74358/heat-dome-hot-weather-explained",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Hi, friends! Welcome to Installer No. 88, your guide to the best and Verge -iest stuff in the world. (If you’re new here, welcome, happy heat dome , and also you can read all the old editions at the Installer homepage .)",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-crypto-crimes",
+   "name": "crypto crimes",
+   "url": "https://www.reuters.com/investigates/special-report/europe-espionage-teen-spy/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about crypto crimes and egg thieves and Gap , watching Last Breath and Tires and The Four Seasons , testing the super simple Min browser, learning a ton from The Magic of Code , playing too much Ridiculous Fishing , vibe-coding a tracker for baby feedings, finally…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-egg-thieves",
+   "name": "egg thieves",
+   "url": "https://www.washingtonpost.com/investigations/interactive/2025/eggs-prices-gouging-cal-maine-investigation/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzUwMzkyMDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzUxNzc0Mzk5LCJpYXQiOjE3NTAzOTIwMDAsImp0aSI6ImUzZmZiMTExLTQ3YWQtNDQyNS04YWQzLWJiNmEzN2E3NWEwNCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9pbnZlc3RpZ2F0aW9ucy9pbnRlcmFjdGl2ZS8yMDI1L2VnZ3MtcHJpY2VzLWdvdWdpbmctY2FsLW1haW5lLWludmVzdGlnYXRpb24vIn0.sBmJXCLzQGP0V9IlHSV0j1YKCbijP0WmBmsBaYeVhxU",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about crypto crimes and egg thieves and Gap , watching Last Breath and Tires and The Four Seasons , testing the super simple Min browser, learning a ton from The Magic of Code , playing too much Ridiculous Fishing , vibe-coding a tracker for baby feedings, finally…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-gap",
+   "name": "Gap",
+   "url": "https://www.bloomberg.com/news/features/2025-06-24/gap-ceo-s-turnaround-plan-was-working-until-trump-s-tariffs-derailed-it",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about crypto crimes and egg thieves and Gap , watching Last Breath and Tires and The Four Seasons , testing the super simple Min browser, learning a ton from The Magic of Code , playing too much Ridiculous Fishing , vibe-coding a tracker for baby feedings, finally…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-last-breath",
+   "name": "Last Breath",
+   "url": "https://www.themoviedb.org/movie/972533-last-breath?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about crypto crimes and egg thieves and Gap , watching Last Breath and Tires and The Four Seasons , testing the super simple Min browser, learning a ton from The Magic of Code , playing too much Ridiculous Fishing , vibe-coding a tracker for baby feedings, finally…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-tires",
+   "name": "Tires",
+   "url": "https://www.themoviedb.org/tv/247522-tires?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about crypto crimes and egg thieves and Gap , watching Last Breath and Tires and The Four Seasons , testing the super simple Min browser, learning a ton from The Magic of Code , playing too much Ridiculous Fishing , vibe-coding a tracker for baby feedings, finally…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-the-four-seasons",
+   "name": "The Four Seasons",
+   "url": "https://www.themoviedb.org/tv/243316-the-four-seasons?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about crypto crimes and egg thieves and Gap , watching Last Breath and Tires and The Four Seasons , testing the super simple Min browser, learning a ton from The Magic of Code , playing too much Ridiculous Fishing , vibe-coding a tracker for baby feedings, finally…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-min",
+   "name": "Min",
+   "url": "https://minbrowser.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about crypto crimes and egg thieves and Gap , watching Last Breath and Tires and The Four Seasons , testing the super simple Min browser, learning a ton from The Magic of Code , playing too much Ridiculous Fishing , vibe-coding a tracker for baby feedings, finally…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-the-magic-of-code",
+   "name": "The Magic of Code",
+   "url": "https://www.hachettebookgroup.com/titles/samuel-arbesman/the-magic-of-code/9781541704480/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about crypto crimes and egg thieves and Gap , watching Last Breath and Tires and The Four Seasons , testing the super simple Min browser, learning a ton from The Magic of Code , playing too much Ridiculous Fishing , vibe-coding a tracker for baby feedings, finally…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-ridiculous-fishing",
+   "name": "Ridiculous Fishing",
+   "url": "https://www.ridiculousfishing.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about crypto crimes and egg thieves and Gap , watching Last Breath and Tires and The Four Seasons , testing the super simple Min browser, learning a ton from The Magic of Code , playing too much Ridiculous Fishing , vibe-coding a tracker for baby feedings, finally…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-mario-kart-world",
+   "name": "Mario Kart World",
+   "url": "https://www.nintendo.com/us/gaming-systems/switch-2/featured-games/mario-kart-world/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "This week, I’ve been reading about crypto crimes and egg thieves and Gap , watching Last Breath and Tires and The Four Seasons , testing the super simple Min browser, learning a ton from The Magic of Code , playing too much Ridiculous Fishing , vibe-coding a tracker for baby feedings, finally…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-teenage-engineering-scooter",
+   "name": "Teenage Engineering scooter",
+   "url": "https://www.vassla.com/en/pages/epa-info",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about crypto crimes and egg thieves and Gap , watching Last Breath and Tires and The Four Seasons , testing the super simple Min browser, learning a ton from The Magic of Code , playing too much Ridiculous Fishing , vibe-coding a tracker for baby feedings, finally…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-project-indigo",
+   "name": "Project Indigo",
+   "url": "https://apps.apple.com/us/app/project-indigo/id6742591546",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "This week, I’ve been reading about crypto crimes and egg thieves and Gap , watching Last Breath and Tires and The Four Seasons , testing the super simple Min browser, learning a ton from The Magic of Code , playing too much Ridiculous Fishing , vibe-coding a tracker for baby feedings, finally…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-star-wars-lofi",
+   "name": "Star Wars Lofi",
+   "url": "https://www.youtube.com/playlist?list=PL148kCvXk8pA9rHNmK_fjitW24vdLZE21",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about crypto crimes and egg thieves and Gap , watching Last Breath and Tires and The Four Seasons , testing the super simple Min browser, learning a ton from The Magic of Code , playing too much Ridiculous Fishing , vibe-coding a tracker for baby feedings, finally…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-raycast",
+   "name": "Raycast",
+   "url": "https://www.raycast.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "And in the interest of filling up the Gmail for Jay, I have a question: what’s your favorite non-famous app?",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-mimestream",
+   "name": "Mimestream",
+   "url": "https://mimestream.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "And in the interest of filling up the Gmail for Jay, I have a question: what’s your favorite non-famous app?",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-unread",
+   "name": "Unread",
+   "url": "https://www.goldenhillsoftware.com/unread/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "And in the interest of filling up the Gmail for Jay, I have a question: what’s your favorite non-famous app?",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-raindrop-io",
+   "name": "Raindrop.io",
+   "url": "http://raindrop.io",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "And in the interest of filling up the Gmail for Jay, I have a question: what’s your favorite non-famous app?",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-deck-blue",
+   "name": "Deck.Blue",
+   "url": "https://deck.blue/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "And in the interest of filling up the Gmail for Jay, I have a question: what’s your favorite non-famous app?",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-f1-the-m-ovie",
+   "name": "F1 The M ovie",
+   "url": "https://www.themoviedb.org/movie/911430-f1-the-movie?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I did not expect this movie to be any good. But apparently it’s good! It definitely seems like a theater movie, in that the noise and size and spectacle are a big part of the appeal; I’m not sure that it’ll hit the same on my iPhone, you know?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-the-fairphone-6",
+   "name": "The Fairphone 6",
+   "url": "https://shop.fairphone.com/the-fairphone-gen-6",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Fairphone is doing some of the most ambitious, most interesting work in the smartphone biz right now, and the new model looks really nice. It ships with a simplified take on Android, upgradeable and modular parts, and an increasingly small list of tradeoffs. I really hope this phone’s a hit.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-the-titan-2",
+   "name": "The Titan 2",
+   "url": "https://www.kickstarter.com/projects/jellyphone/titan-2-the-latest-5g-qwerty-physical-keyboard-smartphone",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [
+    "kickstarter"
+   ],
+   "blurb": "Another fascinating phone this week! This one, from Unihertz, is mostly a solid-sounding Android 15 device… plus a massive physical keyboard. There are some really neat ideas here, but this thing only exists for people who miss their BlackBerry. Are those people still out there?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-death-stranding-2-on-the-beach",
+   "name": "Death Stranding 2: On the Beach",
+   "url": "https://www.kojimaproductions.jp/en/death-stranding-2",
+   "alt_urls": [
+    "https://www.theverge.com/games/691316/death-stranding-2-woodkid-kojima-music-player"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Death Stranding was a video game mostly about walking, and that totally worked for lots of gamers. The new one is just as meditative but even bigger, with more to do and more to explore. I hear great things about the music , too.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-11-ai",
+   "name": "11.ai",
+   "url": "http://11.ai",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "ElevenLabs continues to do really interesting stuff with AI voices, and this is probably its most complete product yet — a supercustomizable voice assistant that uses MCP to connect to lots of other apps and services.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-squid-game-season-three",
+   "name": "Squid Game season three",
+   "url": "https://www.themoviedb.org/tv/93405?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’m torn between thinking this show’s idea has run its course and thinking it could totally go on forever. Season two mostly made it work, and season three — evidently the last one — is set up to be a pretty epic conclusion.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-the-quest-3s-xbox-edition",
+   "name": "The Quest 3S Xbox Edition",
+   "url": "https://www.meta.com/quest/quest-3s/buy-xbox-edition/",
+   "alt_urls": [
+    "https://www.theverge.com/hands-on/690978/meta-quest-3s-xbox-edition-vr-headset-release-date-pricing"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Two big wins here: the Xbox black and green is a vastly better-looking color scheme for the Quest than the normal off-white colors, and an Xbox controller makes a lot of games easier to play in the headset.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-long-shadow-breaking-the-internet",
+   "name": "Long Shadow: Breaking the Internet",
+   "url": "https://longlead.com/article/long-shadow",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Every season of the Long Shadow podcast has been good, but these seven episodes — about the ways that technology has changed us in deeper ways than we even realize — are particularly up my alley.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-ironheart",
+   "name": "Ironheart",
+   "url": "https://www.themoviedb.org/tv/114471-ironheart",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "In general, all the futuristic tech in the Black Panther movies doesn’t get enough credit. This should change that: there’s a good story here, plus so much on awesome iron suits, the creative process, and a bunch of gear that I would very much like to own, please and thank you.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-a-blue-iphone-13-pro",
+   "name": "A blue iPhone 13 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: A blue iPhone 13 Pro.",
+   "section": "screen-share",
+   "recommender": "Travis"
+  },
+  {
+   "id": "2025-06-29-nyt-games",
+   "name": "NYT Games",
+   "url": "https://www.nytimes.com/crosswords",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "NYT Games gets prominent placement because my mom, sister, and I text each other our Connections results every day as a proof-of-life check-in. The NYTimes app is there to keep the Games app company.",
+   "section": "screen-share",
+   "recommender": "Travis"
+  },
+  {
+   "id": "2025-06-29-nytimes",
+   "name": "NYTimes",
+   "url": "https://www.nytimes.com/app",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "NYT Games gets prominent placement because my mom, sister, and I text each other our Connections results every day as a proof-of-life check-in. The NYTimes app is there to keep the Games app company.",
+   "section": "screen-share",
+   "recommender": "Travis"
+  },
+  {
+   "id": "2025-06-29-taskmaster",
+   "name": "Taskmaster",
+   "url": "https://www.youtube.com/c/Taskmaster",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The current seasons of Taskmaster , Game Changer , Dimension 20 and Jet Lag: The Game . Evangelizing the Toadette + Tune Thumper combo in Mario Kart World . I just started GMing my fourth online TTRPG with a group of friends I’ve been playing with for years.",
+   "section": "screen-share",
+   "recommender": "Travis"
+  },
+  {
+   "id": "2025-06-29-game-changer",
+   "name": "Game Changer",
+   "url": "https://www.dropout.tv/game-changer",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The current seasons of Taskmaster , Game Changer , Dimension 20 and Jet Lag: The Game . Evangelizing the Toadette + Tune Thumper combo in Mario Kart World . I just started GMing my fourth online TTRPG with a group of friends I’ve been playing with for years.",
+   "section": "screen-share",
+   "recommender": "Travis"
+  },
+  {
+   "id": "2025-06-29-dimension-20",
+   "name": "Dimension 20",
+   "url": "https://www.dropout.tv/dimension-20",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The current seasons of Taskmaster , Game Changer , Dimension 20 and Jet Lag: The Game . Evangelizing the Toadette + Tune Thumper combo in Mario Kart World . I just started GMing my fourth online TTRPG with a group of friends I’ve been playing with for years.",
+   "section": "screen-share",
+   "recommender": "Travis"
+  },
+  {
+   "id": "2025-06-29-jet-lag-the-game",
+   "name": "Jet Lag: The Game",
+   "url": "https://www.youtube.com/c/jetlagthegame",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The current seasons of Taskmaster , Game Changer , Dimension 20 and Jet Lag: The Game . Evangelizing the Toadette + Tune Thumper combo in Mario Kart World . I just started GMing my fourth online TTRPG with a group of friends I’ve been playing with for years.",
+   "section": "screen-share",
+   "recommender": "Travis"
+  },
+  {
+   "id": "2025-06-29-masquerade",
+   "name": "Masquerade",
+   "url": "https://masqueradenyc.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The current seasons of Taskmaster , Game Changer , Dimension 20 and Jet Lag: The Game . Evangelizing the Toadette + Tune Thumper combo in Mario Kart World . I just started GMing my fourth online TTRPG with a group of friends I’ve been playing with for years.",
+   "section": "screen-share",
+   "recommender": "Travis"
+  },
+  {
+   "id": "2025-06-29-cool-tools",
+   "name": "Cool Tools",
+   "url": "https://kk.org/cooltools/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Cool Tools have been around for 25 years, they have a podcast and have even published a book with the same name. It is a web site which recommends the best / cheapest tools available. This includes hand tools, machines, books, software, gadgets, websites, maps, and even ideas.",
+   "section": "crowdsourced",
+   "recommender": "Sinan (reader)"
+  },
+  {
+   "id": "2025-06-29-a-podcast",
+   "name": "a podcast",
+   "url": "https://kk.org/cooltools/category/podcast-2/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Cool Tools have been around for 25 years, they have a podcast and have even published a book with the same name. It is a web site which recommends the best / cheapest tools available. This includes hand tools, machines, books, software, gadgets, websites, maps, and even ideas.",
+   "section": "crowdsourced",
+   "recommender": "Sinan (reader)"
+  },
+  {
+   "id": "2025-06-29-a-book",
+   "name": "a book",
+   "url": "https://kk.org/cooltools/cool-tools-a-catalog-of-possibilities/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Cool Tools have been around for 25 years, they have a podcast and have even published a book with the same name. It is a web site which recommends the best / cheapest tools available. This includes hand tools, machines, books, software, gadgets, websites, maps, and even ideas.",
+   "section": "crowdsourced",
+   "recommender": "Sinan (reader)"
+  },
+  {
+   "id": "2025-06-29-live-feeds",
+   "name": "live feeds",
+   "url": "https://www.allaboutbirds.org/cams/red-tailed-hawks/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The red-tailed hawks’ nest at Cornell (and a bunch of other types of birds) have live feeds you can watch if you’re stressed out.",
+   "section": "crowdsourced",
+   "recommender": "Hayden (reader)"
+  },
+  {
+   "id": "2025-06-29-list",
+   "name": "List",
+   "url": "https://llllllll.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "List , with the too-cute-for-its-own-good URL llllllll.io (that’s eight of them), one of the nicest tools to put all the information you care about in order. It basically lets you make lists, and encourages you to get creative with them.",
+   "section": "crowdsourced",
+   "recommender": "Cosmin (reader)"
+  },
+  {
+   "id": "2025-06-29-llllllll-io",
+   "name": "llllllll.io",
+   "url": "http://llllllll.io",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "List , with the too-cute-for-its-own-good URL llllllll.io (that’s eight of them), one of the nicest tools to put all the information you care about in order. It basically lets you make lists, and encourages you to get creative with them.",
+   "section": "crowdsourced",
+   "recommender": "Cosmin (reader)"
+  },
+  {
+   "id": "2025-06-29-playing-at-the-world",
+   "name": "Playing at the World",
+   "url": "https://mitpress.mit.edu/9780262548779/playing-at-the-world-2e-volume-1/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Reading the recently-released, Playing at the World by Jon Peterson. It’s THE authoritative source on the origins of D&D, and by extension the invention of role-playing games and the origins of all the game mechanics that we take for granted from video games.",
+   "section": "crowdsourced",
+   "recommender": "Jonathan (reader)"
+  },
+  {
+   "id": "2025-06-29-king-of-the-road",
+   "name": "King of the Road",
+   "url": "https://www.youtube.com/playlist?list=PLDbSvEZka6GE70rFnP1OeY-gHBJm2169i",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Currently watching King of the Road (the Vice series, available on YouTube). Also playing a ton of Tony Hawk’s Pro Skater 1+2 , and the original THPS3 on my Steam Deck with Partymod. All of this skateboarding media made me pick up a longboard too, which has been fun so far!",
+   "section": "crowdsourced",
+   "recommender": "Alex (reader)"
+  },
+  {
+   "id": "2025-06-29-tony-hawks-pro-skater-1-2",
+   "name": "Tony Hawk’s Pro Skater 1+2",
+   "url": "https://www.tonyhawkthegame.com/1+2",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Currently watching King of the Road (the Vice series, available on YouTube). Also playing a ton of Tony Hawk’s Pro Skater 1+2 , and the original THPS3 on my Steam Deck with Partymod. All of this skateboarding media made me pick up a longboard too, which has been fun so far!",
+   "section": "crowdsourced",
+   "recommender": "Alex (reader)"
+  },
+  {
+   "id": "2025-06-29-post-games",
+   "name": "Post Games",
+   "url": "https://shows.acast.com/post-games",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The newish podcast Post Games from Chris Plante, former editor in chief and co-founder of Polygon . Great weekly dives into under-covered aspects of gaming news.",
+   "section": "crowdsourced",
+   "recommender": "Nick (reader)"
+  },
+  {
+   "id": "2025-06-29-every-5x5-nonogram",
+   "name": "Every 5x5 Nonogram",
+   "url": "https://pixelogic.app/every-5x5-nonogram#20750726",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Trying to solve Every 5x5 Nonogram (Picross for the Nintendo fans) with a community of people around the world. About half of the 25 million solutions are done. I’ve contributed about 650 so far.",
+   "section": "crowdsourced",
+   "recommender": "Sam (reader)"
+  },
+  {
+   "id": "2025-06-29-appblock",
+   "name": "AppBlock",
+   "url": "https://appblock.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I beat my phone addiction using the AppBlock Android app. It has a strict mode that makes it almost impossible to access blocked apps or websites. I also found a daily routine app that works for me.",
+   "section": "crowdsourced",
+   "recommender": "Jakub (reader)"
+  },
+  {
+   "id": "2025-06-29-routineflow",
+   "name": "RoutineFlow",
+   "url": "https://routineflow.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I beat my phone addiction using the AppBlock Android app. It has a strict mode that makes it almost impossible to access blocked apps or websites. I also found a daily routine app that works for me.",
+   "section": "crowdsourced",
+   "recommender": "Jakub (reader)"
+  },
+  {
+   "id": "2025-06-29-dungeon-crawler-carl",
+   "name": "Dungeon Crawler Carl",
+   "url": "https://www.penguinrandomhouse.com/series/43C/dungeon-crawler-carl/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The book series Dungeon Crawler Carl by Matt Dinniman is fantastic! The series is funny and engaging — I tore through all seven books in two weeks and couldn’t put them down!",
+   "section": "crowdsourced",
+   "recommender": "Kyle (reader)"
+  },
+  {
+   "id": "2025-06-29-uspcc-decks",
+   "name": "USPCC decks",
+   "url": "https://playingcarddecks.com/collections/uspcc",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Trying to learn cardistry with my USPCC decks that came in earlier today. They’re a big step up from the dollar store playing cards I was using before. (I got the gorgeous unicorn-themed cards and the low-poly skull-themed ones called Memento Mori Genesis .)",
+   "section": "crowdsourced",
+   "recommender": "Julia (reader)"
+  },
+  {
+   "id": "2025-06-29-unicorn-themed-cards",
+   "name": "unicorn-themed cards",
+   "url": "https://playingcarddecks.com/products/unicorn-bicycle-playing-cards",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Trying to learn cardistry with my USPCC decks that came in earlier today. They’re a big step up from the dollar store playing cards I was using before. (I got the gorgeous unicorn-themed cards and the low-poly skull-themed ones called Memento Mori Genesis .)",
+   "section": "crowdsourced",
+   "recommender": "Julia (reader)"
+  },
+  {
+   "id": "2025-06-29-memento-mori-genesis",
+   "name": "Memento Mori Genesis",
+   "url": "https://playingcarddecks.com/products/memento-mori-genesis-playing-cards-uspcc",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Trying to learn cardistry with my USPCC decks that came in earlier today. They’re a big step up from the dollar store playing cards I was using before. (I got the gorgeous unicorn-themed cards and the low-poly skull-themed ones called Memento Mori Genesis .)",
+   "section": "crowdsourced",
+   "recommender": "Julia (reader)"
+  },
+  {
+   "id": "2025-06-29-shes-a-beast",
+   "name": "She’s A Beast",
+   "url": "https://www.shesabeast.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A while back, I had Casey Johnston, author of She’s A Beast and A Physical Education , on the Vergecast to talk about phone usage .",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-a-physical-education",
+   "name": "A Physical Education",
+   "url": "https://www.caseyjohnston.website/my-work/a-physical-education",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A while back, I had Casey Johnston, author of She’s A Beast and A Physical Education , on the Vergecast to talk about phone usage .",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-06-29-an-extra-android-device",
+   "name": "an extra Android device",
+   "url": "https://intl.nothing.tech/products/cmf-phone-2-pro?Colour=Orange&Capacity=8+128GB",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Friends, I did that, and it rules. (I had an extra Android device lying around, but you can buy a pretty good one for a couple hundred bucks.)",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

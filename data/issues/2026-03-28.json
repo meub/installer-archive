@@ -1,0 +1,673 @@
+{
+ "schema": 1,
+ "date": "2026-03-28",
+ "post_type": "issue",
+ "title": "The must-have app for frequent flyers",
+ "url": "https://www.theverge.com/tech/902558/flighty-airport-bait-show-notion-installer",
+ "author": "David Pierce",
+ "number": 121,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:40+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-03-28-will-wright",
+   "name": "Will Wright",
+   "url": "https://www.vulture.com/article/will-wright-proxi-the-sims-games.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Will Wright and sync music and the smartphone theory of everything , picking up The Soul of a New Machine again after hearing that Tracy Kidder died, adding SNL UK to my weekly YouTube clip rotation, watching all my favorite things collide when Hilary Duff went on…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-28-the-smartphone-theory-of-everything",
+   "name": "the smartphone theory of everything",
+   "url": "https://www.theargumentmag.com/p/against-the-smartphone-theory-of",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Will Wright and sync music and the smartphone theory of everything , picking up The Soul of a New Machine again after hearing that Tracy Kidder died, adding SNL UK to my weekly YouTube clip rotation, watching all my favorite things collide when Hilary Duff went on…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-28-the-soul-of-a-new-machine",
+   "name": "The Soul of a New Machine",
+   "url": "https://www.tracykidder.com/the-soul-of-a-new-machine.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Will Wright and sync music and the smartphone theory of everything , picking up The Soul of a New Machine again after hearing that Tracy Kidder died, adding SNL UK to my weekly YouTube clip rotation, watching all my favorite things collide when Hilary Duff went on…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-28-snl-uk",
+   "name": "SNL UK",
+   "url": "https://www.youtube.com/playlist?list=PLziTV12IsNli26jHyCim7S3lkbklocmnG",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Will Wright and sync music and the smartphone theory of everything , picking up The Soul of a New Machine again after hearing that Tracy Kidder died, adding SNL UK to my weekly YouTube clip rotation, watching all my favorite things collide when Hilary Duff went on…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-28-hilary-duff-went-on-hot-ones",
+   "name": "Hilary Duff went on Hot Ones",
+   "url": "https://www.youtube.com/watch?v=TIlag-QNXbE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Will Wright and sync music and the smartphone theory of everything , picking up The Soul of a New Machine again after hearing that Tracy Kidder died, adding SNL UK to my weekly YouTube clip rotation, watching all my favorite things collide when Hilary Duff went on…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-28-parachord",
+   "name": "Parachord",
+   "url": "https://parachord.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Will Wright and sync music and the smartphone theory of everything , picking up The Soul of a New Machine again after hearing that Tracy Kidder died, adding SNL UK to my weekly YouTube clip rotation, watching all my favorite things collide when Hilary Duff went on…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-28-newsblur",
+   "name": "NewsBlur",
+   "url": "https://x.com/NewsBlur/status/2035142804901699985",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Will Wright and sync music and the smartphone theory of everything , picking up The Soul of a New Machine again after hearing that Tracy Kidder died, adding SNL UK to my weekly YouTube clip rotation, watching all my favorite things collide when Hilary Duff went on…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-28-the-new-podcast-from-the-serial-folks",
+   "name": "the new podcast from the Serial folks",
+   "url": "https://www.nytco.com/press/introducing-the-idiot-a-new-podcast-from-serial-productions/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Will Wright and sync music and the smartphone theory of everything , picking up The Soul of a New Machine again after hearing that Tracy Kidder died, adding SNL UK to my weekly YouTube clip rotation, watching all my favorite things collide when Hilary Duff went on…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-28-ball-x-pit",
+   "name": "Ball x Pit",
+   "url": "https://www.ballxpit.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Will Wright and sync music and the smartphone theory of everything , picking up The Soul of a New Machine again after hearing that Tracy Kidder died, adding SNL UK to my weekly YouTube clip rotation, watching all my favorite things collide when Hilary Duff went on…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-28-flighty",
+   "name": "Flighty",
+   "url": "https://flighty.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Ordinarily I’d only recommend Flighty to people who travel a lot — it’s an amazing app, but not cheap, and very much for power users. Right now, though, we could all use a little help navigating security lines, delays, and changes.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-28-bait",
+   "name": "Bait",
+   "url": "https://thehtml.review/05/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The premise of this show — about an actor auditioning to be James Bond, and all the weird stuff that follows — is so thoroughly internet-pilled and meta that it definitely shouldn’t work. But at least from what I’ve seen so far, it completely does.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-28-super-mario-bros-wonder",
+   "name": "Super Mario Bros. Wonder",
+   "url": "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-nintendo-switch-2-edition-plus-meetup-in-bellabel-park-switch-2/",
+   "alt_urls": [
+    "https://www.theverge.com/games/899839/super-mario-bros-wonder-nintendo-switch-2-review"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "Like my colleague Andrew Webster says , it’s always a good time to get back into this game. The new Switch 2 update comes with a bunch of new levels, boss battles, and characters — it’s not a ton of new content, but for me it was a great reason to basically start the game all over again.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-28-dropzone-5-0-for-mac",
+   "name": "Dropzone 5.0 for Mac",
+   "url": "https://aptonic.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My favorite apps are the ones that just seem to be obviously part of how your device always worked. Dropzone is like that: it’s just an easy, customizable way to save / share / download / whatever all sorts of things, just by dragging a file or a link.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-28-the-ten-pounds-episode",
+   "name": "The Ten Pounds Episode",
+   "url": "https://www.youtube.com/watch?v=DO4D9SV92PQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ The Ten Pounds Episode .” I mentioned this show in passing last week, but there is something about Friends Keep Secrets that I just cannot stop watching. It’s a celeb podcast meets trashy reality show, filmed and presented in the most fascinating way. I don’t even know if I like it!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-28-mike-nick-nick-alice",
+   "name": "Mike & Nick & Nick & Alice",
+   "url": "https://www.themoviedb.org/movie/1115544-mike-nick-nick-alice",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I have a list of shows and movies I think could have been hits, except they were ruined by stupid names. (The list is named for Kevin Can F*ck Himself, an incredible show no one watched.) This movie is weird and fun! I’d tell you to watch it if I could remember the name.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-28-notion-3-4",
+   "name": "Notion 3.4.",
+   "url": "https://www.notion.com/releases/2026-03-26",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I continue to think Notion is a remarkable piece of software that is just slow and annoying enough to make me constantly want to switch. But these are really nice changes: tabs and heading upgrades, a vastly cleaner sidebar, archives in databases, and more. Hey app developers everywhere?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-28-iphone-17-pro-512-gb-in-whatever-apple-calls-blu",
+   "name": "iPhone 17 Pro, 512 GB, in whatever Apple calls “blue” this year",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 17 Pro, 512 GB, in whatever Apple calls “blue” this year.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2026-03-28-a-switch-i-made-a-while-ago",
+   "name": "a switch I made a while ago",
+   "url": "https://www.caseyliss.com/2025/1/4/a-new-homescreen-thought-technology",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A lot of what’s on my homescreen shouldn’t be surprising. The most surprising thing to me is a switch I made a while ago : I switched from four semi-organized homescreens (and never using Spotlight) to two homescreens, and using Spotlight constantly.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2026-03-28-fantastical",
+   "name": "Fantastical",
+   "url": "https://flexibits.com/fantastical’",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The second screen has two widget stacks: photos from this day (from the Photos app and Widgetsmith), Fantastical and Parcel , a small Foodnoms widget, and four other frequently used apps.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2026-03-28-parcel",
+   "name": "Parcel",
+   "url": "https://parcel.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The second screen has two widget stacks: photos from this day (from the Photos app and Widgetsmith), Fantastical and Parcel , a small Foodnoms widget, and four other frequently used apps.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2026-03-28-foodnoms",
+   "name": "Foodnoms",
+   "url": "https://foodnoms.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The second screen has two widget stacks: photos from this day (from the Photos app and Widgetsmith), Fantastical and Parcel , a small Foodnoms widget, and four other frequently used apps.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2026-03-28-pushover",
+   "name": "Pushover",
+   "url": "https://pushover.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The second screen has two widget stacks: photos from this day (from the Photos app and Widgetsmith), Fantastical and Parcel , a small Foodnoms widget, and four other frequently used apps.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2026-03-28-home-assistant",
+   "name": "Home Assistant",
+   "url": "https://www.home-assistant.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The second screen has two widget stacks: photos from this day (from the Photos app and Widgetsmith), Fantastical and Parcel , a small Foodnoms widget, and four other frequently used apps.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2026-03-28-n8n",
+   "name": "n8n",
+   "url": "https://n8n.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The second screen has two widget stacks: photos from this day (from the Photos app and Widgetsmith), Fantastical and Parcel , a small Foodnoms widget, and four other frequently used apps.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2026-03-28-sports-alerts",
+   "name": "Sports Alerts",
+   "url": "https://www.lunosoftware.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The second screen has two widget stacks: photos from this day (from the Photos app and Widgetsmith), Fantastical and Parcel , a small Foodnoms widget, and four other frequently used apps.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2026-03-28-banktivity",
+   "name": "Banktivity",
+   "url": "https://www.banktivity.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The second screen has two widget stacks: photos from this day (from the Photos app and Widgetsmith), Fantastical and Parcel , a small Foodnoms widget, and four other frequently used apps.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2026-03-28-unifi-protect",
+   "name": "UniFi Protect",
+   "url": "https://apps.apple.com/us/app/unifi-protect/id1392492235",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "The second screen has two widget stacks: photos from this day (from the Photos app and Widgetsmith), Fantastical and Parcel , a small Foodnoms widget, and four other frequently used apps.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2026-03-28-indigo",
+   "name": "Indigo",
+   "url": "https://indigosocial.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The purple-ish icon with the lowercase “i” is Indigo , a forthcoming app from my friends Ben McCarthy and Aaron Vegh that I’m beta testing. It’s a unified Mastodon and Bluesky client that interleaves the two timelines as one.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2026-03-28-ben-mccarthy",
+   "name": "Ben McCarthy",
+   "url": "https://benricemccarthy.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The purple-ish icon with the lowercase “i” is Indigo , a forthcoming app from my friends Ben McCarthy and Aaron Vegh that I’m beta testing. It’s a unified Mastodon and Bluesky client that interleaves the two timelines as one.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2026-03-28-aaron-vegh",
+   "name": "Aaron Vegh",
+   "url": "https://aaron.vegh.ca/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The purple-ish icon with the lowercase “i” is Indigo , a forthcoming app from my friends Ben McCarthy and Aaron Vegh that I’m beta testing. It’s a unified Mastodon and Bluesky client that interleaves the two timelines as one.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2026-03-28-netnewswire",
+   "name": "NetNewsWire",
+   "url": "https://netnewswire.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The purple-ish icon with the lowercase “i” is Indigo , a forthcoming app from my friends Ben McCarthy and Aaron Vegh that I’m beta testing. It’s a unified Mastodon and Bluesky client that interleaves the two timelines as one.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2026-03-28-callsheet",
+   "name": "Callsheet",
+   "url": "https://callsheetapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The clapperboard is my app, Callsheet ! Imagine if IMDB was written and designed by someone who… well… cares. Instead of people who are just trying to funnel you into buying junk on Amazon. Or auto-playing videos. Or begging you to log in again .",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2026-03-28-due",
+   "name": "Due",
+   "url": "https://www.dueapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Next to Callsheet is Due , which I live by. Due will continually re-remind you of things until you clear that task. It’s as close as I get to any sort of formal task management system.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2026-03-28-scrubs",
+   "name": "Scrubs",
+   "url": "https://www.themoviedb.org/tv/295778-scrubs",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’m an unapologetic Scrubs fan, and I was very nervous about the reboot. As I write this, we’re several episodes in, and… it seems really good! They’ve at least acknowledged many of the things about the original Scrubs that didn’t age well, and are also taking characters in new directions.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2026-03-28-my-work",
+   "name": "my work",
+   "url": "https://atp.fm/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m an unapologetic Scrubs fan, and I was very nervous about the reboot. As I write this, we’re several episodes in, and… it seems really good! They’ve at least acknowledged many of the things about the original Scrubs that didn’t age well, and are also taking characters in new directions.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2026-03-28-concert-for-one",
+   "name": "Concert for One",
+   "url": "https://tv.apple.com/us/episode/raye/umc.cmc.2brt23wsqrd4wqqtwdynq6ise?showId=umc.cmc.2khlg44095l5tdllfpt2rgv9h",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "I’m an unapologetic Scrubs fan, and I was very nervous about the reboot. As I write this, we’re several episodes in, and… it seems really good! They’ve at least acknowledged many of the things about the original Scrubs that didn’t age well, and are also taking characters in new directions.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2026-03-28-my-21st-century-blues",
+   "name": "My 21st Century Blues",
+   "url": "https://album.link/i/1647623993",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m an unapologetic Scrubs fan, and I was very nervous about the reboot. As I write this, we’re several episodes in, and… it seems really good! They’ve at least acknowledged many of the things about the original Scrubs that didn’t age well, and are also taking characters in new directions.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2026-03-28-auto-catalog-archive",
+   "name": "Auto Catalog Archive",
+   "url": "https://autocatalogarchive.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m an unapologetic Scrubs fan, and I was very nervous about the reboot. As I write this, we’re several episodes in, and… it seems really good! They’ve at least acknowledged many of the things about the original Scrubs that didn’t age well, and are also taking characters in new directions.",
+   "section": "screen-share",
+   "recommender": "Casey"
+  },
+  {
+   "id": "2026-03-28-ayn-thor",
+   "name": "AYN Thor",
+   "url": "https://www.ayntec.com/products/ayn-thor",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m playing a bunch of Pokémon ROM hacks (like Eternal X and Renegade Platinum) on my AYN Thor and having the absolute time of my life.",
+   "section": "crowdsourced",
+   "recommender": "NEAL (reader)"
+  },
+  {
+   "id": "2026-03-28-noteful",
+   "name": "Noteful",
+   "url": "https://www.getnoteful.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Giving Noteful a try on iPad. It’s good and full of a lot of nice features. But I don’t know that I’ll ever be able to totally ditch pen and paper.",
+   "section": "crowdsourced",
+   "recommender": "Nick (reader)"
+  },
+  {
+   "id": "2026-03-28-the-capture",
+   "name": "The Capture",
+   "url": "https://www.themoviedb.org/tv/93166-the-capture",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Watching The Capture on BBC iPlayer which is very very good and I recommend. Massively into my MacBook Neo , which I bought sans Touch ID because you can enable sign in via Apple Watch.",
+   "section": "crowdsourced",
+   "recommender": "Nathan (reader)"
+  },
+  {
+   "id": "2026-03-28-macbook-neo",
+   "name": "MacBook Neo",
+   "url": "https://www.apple.com/macbook-neo/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Watching The Capture on BBC iPlayer which is very very good and I recommend. Massively into my MacBook Neo , which I bought sans Touch ID because you can enable sign in via Apple Watch.",
+   "section": "crowdsourced",
+   "recommender": "Nathan (reader)"
+  },
+  {
+   "id": "2026-03-28-beechmore-books",
+   "name": "Beechmore Books",
+   "url": "https://beechmorebooks.com/collections/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I can’t believe I missed the call for notebook comments! For what it’s worth, Beechmore Books is the undisputed champ of paper that doesn’t bleed through. I haven’t found any (other than dedicated sketchbooks) that do it as well. And it’s generally comparable to Leuchtturm1917.",
+   "section": "crowdsourced",
+   "recommender": "Bruce (reader)"
+  },
+  {
+   "id": "2026-03-28-bulova-computron",
+   "name": "Bulova Computron",
+   "url": "https://www.bulova.com/us/en/collection/computron/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I wear a Bulova Computron . Specifically the black and red one. It’s glorious. Like a lil ‘90s alarm clock radio on my wrist.",
+   "section": "crowdsourced",
+   "recommender": "Aidan (reader)"
+  },
+  {
+   "id": "2026-03-28-synology",
+   "name": "Synology",
+   "url": "https://www.synology.com/en-us",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Continuing to play with my Synology NAS setup with things like Plex , Jellyfin , the ARR suite , etc... to be prepared for the subscription apocalypse and re-rise of physical media.",
+   "section": "crowdsourced",
+   "recommender": "Jamison (reader)"
+  },
+  {
+   "id": "2026-03-28-plex",
+   "name": "Plex",
+   "url": "https://watch.plex.tv/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Continuing to play with my Synology NAS setup with things like Plex , Jellyfin , the ARR suite , etc... to be prepared for the subscription apocalypse and re-rise of physical media.",
+   "section": "crowdsourced",
+   "recommender": "Jamison (reader)"
+  },
+  {
+   "id": "2026-03-28-jellyfin",
+   "name": "Jellyfin",
+   "url": "https://jellyfin.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Continuing to play with my Synology NAS setup with things like Plex , Jellyfin , the ARR suite , etc... to be prepared for the subscription apocalypse and re-rise of physical media.",
+   "section": "crowdsourced",
+   "recommender": "Jamison (reader)"
+  },
+  {
+   "id": "2026-03-28-arr-suite",
+   "name": "ARR suite",
+   "url": "https://github.com/MathiasFurenes/synology-arr-guide",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "open-source"
+   ],
+   "blurb": "Continuing to play with my Synology NAS setup with things like Plex , Jellyfin , the ARR suite , etc... to be prepared for the subscription apocalypse and re-rise of physical media.",
+   "section": "crowdsourced",
+   "recommender": "Jamison (reader)"
+  },
+  {
+   "id": "2026-03-28-the-new-episode",
+   "name": "the new episode",
+   "url": "https://www.youtube.com/watch?v=DMNlzf8PiEM",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "With all the hubbub around the new episode , I FINALLY made time to watch The Amazing Digital Circus . Tons of fun (and psychological torment), I hope indie animation keeps on growing more powerful.",
+   "section": "crowdsourced",
+   "recommender": "Hanna (reader)"
+  },
+  {
+   "id": "2026-03-28-the-amazing-digital-circus",
+   "name": "The Amazing Digital Circus",
+   "url": "https://www.youtube.com/playlist?list=PLHovnlOusNLgvAbnxluXCVB3KLj8e4QB-",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "With all the hubbub around the new episode , I FINALLY made time to watch The Amazing Digital Circus . Tons of fun (and psychological torment), I hope indie animation keeps on growing more powerful.",
+   "section": "crowdsourced",
+   "recommender": "Hanna (reader)"
+  },
+  {
+   "id": "2026-03-28-xteink-x4",
+   "name": "Xteink X4",
+   "url": "https://www.xteink.com/products/xteink-x4",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I found a fantastic E Ink reader, the Xteink X4 . Its main features are that it’s pocket-sized and it doesn’t support any DRM. Carrying all my books on an e-reader that fits in my pocket is something else. You can even flash its firmware with an open-source project that makes it even better!",
+   "section": "crowdsourced",
+   "recommender": "Alric (reader)"
+  },
+  {
+   "id": "2026-03-28-an-open-source-project",
+   "name": "an open-source project",
+   "url": "https://github.com/crosspoint-reader/crosspoint-reader",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "open-source"
+   ],
+   "blurb": "I found a fantastic E Ink reader, the Xteink X4 . Its main features are that it’s pocket-sized and it doesn’t support any DRM. Carrying all my books on an e-reader that fits in my pocket is something else. You can even flash its firmware with an open-source project that makes it even better!",
+   "section": "crowdsourced",
+   "recommender": "Alric (reader)"
+  },
+  {
+   "id": "2026-03-28-the-pen-addict",
+   "name": "The Pen Addict",
+   "url": "https://www.penaddict.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I suggest you check out Brad Dowdy at The Pen Addict . (Start with his Top Five Pens list .) He also has a long running podcast, also called The Pen Addict .",
+   "section": "crowdsourced",
+   "recommender": "Dan (reader)"
+  },
+  {
+   "id": "2026-03-28-top-five-pens-list",
+   "name": "Top Five Pens list",
+   "url": "https://www.penaddict.com/top-5-pens",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I suggest you check out Brad Dowdy at The Pen Addict . (Start with his Top Five Pens list .) He also has a long running podcast, also called The Pen Addict .",
+   "section": "crowdsourced",
+   "recommender": "Dan (reader)"
+  },
+  {
+   "id": "2026-03-28-the-pen-addict-2",
+   "name": "The Pen Addict",
+   "url": "https://www.relay.fm/penaddict",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I suggest you check out Brad Dowdy at The Pen Addict . (Start with his Top Five Pens list .) He also has a long running podcast, also called The Pen Addict .",
+   "section": "crowdsourced",
+   "recommender": "Dan (reader)"
+  },
+  {
+   "id": "2026-03-28-obsolete-sounds",
+   "name": "Obsolete Sounds",
+   "url": "https://citiesandmemory.com/obsolete-sounds/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I discovered a website called Obsolete Sounds this week, and immediately fell in love. It is exactly what it sounds like: a trove of sounds you never hear anymore, from a winding pocket watch to a number-crunching calculating machine to melting glacier ice.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-28-the-submissions-from-last-year",
+   "name": "the submissions from last year",
+   "url": "https://citiesandmemory.com/spring-project-2025/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "And actually, to that end: Cities and Memory, the organization that hosts Obsolete Sounds, hosts an (I think) annual event in which it opens up its sound library to anyone who wants to play with and remix them. Listening back to the submissions from last year is a trip.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

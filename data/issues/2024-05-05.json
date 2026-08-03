@@ -1,0 +1,444 @@
+{
+ "schema": 1,
+ "date": "2024-05-05",
+ "post_type": "issue",
+ "title": "The best new browser for Windows",
+ "url": "https://www.theverge.com/2024/5/5/24148223/arc-browser-windows-claude-sofa-bose-beats-hacks-coffee-installer",
+ "author": "David Pierce",
+ "number": 36,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:36+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-05-05-baby-reindeer",
+   "name": "Baby Reindeer",
+   "url": "https://www.themoviedb.org/tv/241259-baby-reindeer?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I missed you all last week! I was at a friend’s bachelor party in South Carolina, playing golf and eating burgers and mostly staying offline. Thanks to everyone who reached out to say you missed the newsletter! But I’m back now, and so is Installer . We are so back.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-05-the-fall-guy",
+   "name": "The Fall Guy",
+   "url": "https://www.themoviedb.org/movie/746036-the-fall-guy?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I missed you all last week! I was at a friend’s bachelor party in South Carolina, playing golf and eating burgers and mostly staying offline. Thanks to everyone who reached out to say you missed the newsletter! But I’m back now, and so is Installer . We are so back.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-05-a-drink-before-the-war",
+   "name": "A Drink Before the War",
+   "url": "https://dennislehane.com/books/a-drink/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I missed you all last week! I was at a friend’s bachelor party in South Carolina, playing golf and eating burgers and mostly staying offline. Thanks to everyone who reached out to say you missed the newsletter! But I’m back now, and so is Installer . We are so back.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-05-challengers-score",
+   "name": "Challengers score",
+   "url": "https://challengers.lnk.to/scoreAY",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I missed you all last week! I was at a friend’s bachelor party in South Carolina, playing golf and eating burgers and mostly staying offline. Thanks to everyone who reached out to say you missed the newsletter! But I’m back now, and so is Installer . We are so back.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-05-arc-for-windows",
+   "name": "Arc for Windows",
+   "url": "https://arc.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Arc is still my favorite browser, and even in this first version, it’s surprisingly solid on Windows. (Though it is missing a couple of Arc’s more advanced features and some of the AI stuff.) If you try it, give it time — it’s a really big change from Chrome, but I’m still sold on it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-05-claude-for-ios",
+   "name": "Claude for iOS",
+   "url": "https://apps.apple.com/us/app/claude/id6473753684",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "I’m sure there’s a good rubric out there for which AI model is good for which purposes, but mostly I just gravitate toward whichever app is nicest? The new one from Anthropic is nice: clean, simple, faster than the web app for sure. I also really like the icon.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-05-no-cgi-is-really-just-invisible-cgi",
+   "name": "“‘No CGI’ is really just invisible CGI.”",
+   "url": "https://www.youtube.com/watch?v=n8oQ1jV859w",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The fourth and final installment in a really cool series about CGI, from the great The Movie Rabbit Hole YouTube channel. I learned so much about moviemaking and the good and bad tricks filmmakers use from these videos.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-05-sofa-4-0",
+   "name": "Sofa 4.0",
+   "url": "https://www.sofahq.com/",
+   "alt_urls": [
+    "https://www.macstories.net/reviews/sofa-4-0-a-customizable-downtime-tracker-without-compromises/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "A huge update to one of my favorite movie / book / show trackers. Sofa now lets you collect and organize anything, any way you want — MacStories has a great rundown of all the stuff you can do, and I’m already using it to plan summer trips.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-05-the-bose-soundlink-max",
+   "name": "The Bose SoundLink Max",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://www.bose.com/pxp/bose-soundlink-max",
+   "alt_urls": [
+    "https://www.theverge.com/2024/5/2/24146865/bose-soundlink-max-bluetooth-speaker-features",
+    "https://ultimate-ears.dubn.net/c/482924/1434069/8590?u=https%3A%2F%2Fus.ultimateears.com%2Fproducts%2Fwonderboom-3%3Fvariant%3D45836661653790"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "$399 is steep for a Bluetooth speaker, but I’m very into this one . Super-long battery life; an AUX port; a fun little handle; presumably excellent sound. I’ve been a UE Wonderboom believer for years, but I’ll be trying this one out this summer.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-05-the-beats-solo-4",
+   "name": "The Beats Solo 4",
+   "url": "https://www.apple.com/shop/product/MUW23LL/A/beats-solo-4-on-ear-wireless-headphones-matte-black?afid=p239|482924&cid=aos-us-aff-ir-482924",
+   "alt_urls": [
+    "https://www.theverge.com/24145150/beats-solo-4-headphones-review"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I agree with Chris Welch that it’s weird to not have ANC in these headphones. But I’m still into the look, love how light they are, and am stoked about the wired options as well.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-05-hacks-season-3",
+   "name": "Hacks season 3",
+   "url": "https://www.themoviedb.org/tv/124101-hacks?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I was late to this show about the lives and relationships of two comedians, but it’s funny and weird and extremely worth your time. Only 18 episodes to catch up on! You can do it this weekend!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-05-the-idea-of-you",
+   "name": "The Idea of You",
+   "url": "https://www.themoviedb.org/movie/843527-the-idea-of-you?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I’m currently biased toward Anne Hathaway because I just found out she’s also an Arsenal fan, which makes her cool and smart and great. But I keep hearing good things about this movie on Netflix about modern life and fame and the weirdness of both.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-05-phone-apps-for-weird-coffee-people",
+   "name": "“Phone Apps for (Weird) Coffee People.”",
+   "url": "https://www.youtube.com/watch?v=PhdxP9lId6A",
+   "alt_urls": [
+    "https://getfiltru.com/"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "James Hoffmann is a must-subscribe for all things coffee, but I especially loved this look at all the apps for coffee drinkers. I’ve become a huge Filtru fan in particular, and my coffee process is now fussier than ever. I love it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-05-05-purple-iphone-12-mini",
+   "name": "Purple iPhone 12 Mini",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: Purple iPhone 12 Mini. I absolutely LOVE this phone, and I’m dreading having to upgrade to a larger one eventually. (I would’ve gotten the 13 Mini, except it doesn’t come in purple.)",
+   "section": "screen-share",
+   "recommender": "Riley"
+  },
+  {
+   "id": "2024-05-05-originally-taken-by-joe-merrick",
+   "name": "originally taken by Joe Merrick",
+   "url": "https://x.com/joemerrick/status/1690333137296097280",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: A photo of a Pokémon drone show in the shape of Mew, originally taken by Joe Merrick (of Serebii fame), then slightly edited.",
+   "section": "screen-share",
+   "recommender": "Riley"
+  },
+  {
+   "id": "2024-05-05-steam-deck",
+   "name": "Steam Deck",
+   "url": "https://store.steampowered.com/steamdeck",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I bought myself a Steam Deck a few months ago and have been absolutely loving it! In fact, it’s the main way I kept myself entertained while we were stuck in Europe trying to launch AltStore PAL (god bless Dolphin emulator and Super Mario Galaxy 2 ).",
+   "section": "screen-share",
+   "recommender": "Riley"
+  },
+  {
+   "id": "2024-05-05-history-of-the-universe",
+   "name": "History of the Universe",
+   "url": "https://youtube.com/@HistoryoftheUniverse?si=2Ae4qt0FVOrJI-jV",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I bought myself a Steam Deck a few months ago and have been absolutely loving it! In fact, it’s the main way I kept myself entertained while we were stuck in Europe trying to launch AltStore PAL (god bless Dolphin emulator and Super Mario Galaxy 2 ).",
+   "section": "screen-share",
+   "recommender": "Riley"
+  },
+  {
+   "id": "2024-05-05-technology-connections",
+   "name": "Technology Connections",
+   "url": "https://youtube.com/@TechnologyConnections?si=c5bE3VbkEgeXhL7m",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I bought myself a Steam Deck a few months ago and have been absolutely loving it! In fact, it’s the main way I kept myself entertained while we were stuck in Europe trying to launch AltStore PAL (god bless Dolphin emulator and Super Mario Galaxy 2 ).",
+   "section": "screen-share",
+   "recommender": "Riley"
+  },
+  {
+   "id": "2024-05-05-update-day",
+   "name": "Update Day",
+   "url": "https://youtu.be/B_qnI1WrlnU?si=cPZ7tNgwGCvs77-B",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I bought myself a Steam Deck a few months ago and have been absolutely loving it! In fact, it’s the main way I kept myself entertained while we were stuck in Europe trying to launch AltStore PAL (god bless Dolphin emulator and Super Mario Galaxy 2 ).",
+   "section": "screen-share",
+   "recommender": "Riley"
+  },
+  {
+   "id": "2024-05-05-crazy-good",
+   "name": "Crazy Good",
+   "url": "https://www.netflix.com/title/81728557",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "Neal Brennan’s Crazy Good is the funniest stand-up on Netflix since Ali Wong’s Baby Cobra .",
+   "section": "crowdsourced",
+   "recommender": "Christopher (reader)"
+  },
+  {
+   "id": "2024-05-05-baby-cobra",
+   "name": "Baby Cobra",
+   "url": "https://www.netflix.com/title/80101493",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "Neal Brennan’s Crazy Good is the funniest stand-up on Netflix since Ali Wong’s Baby Cobra .",
+   "section": "crowdsourced",
+   "recommender": "Christopher (reader)"
+  },
+  {
+   "id": "2024-05-05-tana",
+   "name": "Tana",
+   "url": "https://tana.inc/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been obsessing over note-taking apps again because I am insane. Recently tried Tana , and it’s incredible. Feels like the most natural way for me to take notes (bullet journaling, tasks, project management) and is probably going to convince me to ditch Logseq and Obsidian and everything else.",
+   "section": "crowdsourced",
+   "recommender": "Rin (reader)"
+  },
+  {
+   "id": "2024-05-05-voiijer",
+   "name": "Voiijer",
+   "url": "https://voiijer.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Voiijer . This interesting social media app is focused on posting trips. From day hikes to overnight adventures abroad. I’ve tried it out a little bit, but it seems geared toward being a travel journal. Seems new and interesting.",
+   "section": "crowdsourced",
+   "recommender": "Nicholas (reader)"
+  },
+  {
+   "id": "2024-05-05-3blue1brown",
+   "name": "3Blue1Brown",
+   "url": "https://www.youtube.com/@3blue1brown",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "3Blue1Brown . Really like this YouTube channel in general and have thoroughly enjoyed watching this playlist . He breaks down super complicated mathematical concepts into easy-to-digest, bite-size chunks using examples and excellent visualizations.",
+   "section": "crowdsourced",
+   "recommender": "Abie (reader)"
+  },
+  {
+   "id": "2024-05-05-this-playlist",
+   "name": "this playlist",
+   "url": "https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "3Blue1Brown . Really like this YouTube channel in general and have thoroughly enjoyed watching this playlist . He breaks down super complicated mathematical concepts into easy-to-digest, bite-size chunks using examples and excellent visualizations.",
+   "section": "crowdsourced",
+   "recommender": "Abie (reader)"
+  },
+  {
+   "id": "2024-05-05-new-video-from-david-imel",
+   "name": "new video from David Imel",
+   "url": "https://www.youtube.com/watch?v=g-pG79LOtMw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The new video from David Imel about how the ✨ emoji became the symbol for AI is about 1,000 times more interesting than I thought it would be.",
+   "section": "crowdsourced",
+   "recommender": "Luke (reader)"
+  },
+  {
+   "id": "2024-05-05-bonk-s-gameboy-games",
+   "name": "Bonk ’s GameBoy games",
+   "url": "https://en.wikipedia.org/wiki/Bonk_(series)",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been playing Bonk ’s GameBoy games using Delta and writing about games on Backloggd , which is a fun video game-focused review site built very similarly to Letterboxd .",
+   "section": "crowdsourced",
+   "recommender": "Sawyer (reader)"
+  },
+  {
+   "id": "2024-05-05-backloggd",
+   "name": "Backloggd",
+   "url": "https://www.backloggd.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been playing Bonk ’s GameBoy games using Delta and writing about games on Backloggd , which is a fun video game-focused review site built very similarly to Letterboxd .",
+   "section": "crowdsourced",
+   "recommender": "Sawyer (reader)"
+  },
+  {
+   "id": "2024-05-05-letterboxd",
+   "name": "Letterboxd",
+   "url": "https://letterboxd.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been playing Bonk ’s GameBoy games using Delta and writing about games on Backloggd , which is a fun video game-focused review site built very similarly to Letterboxd .",
+   "section": "crowdsourced",
+   "recommender": "Sawyer (reader)"
+  },
+  {
+   "id": "2024-05-05-calibre",
+   "name": "Calibre",
+   "url": "https://calibre-ebook.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My latest rabbit hole is comics and graphic novels, and as someone who strips his ebooks of DRM, I’m still trying to find the Calibre of comics. I landed on YACReader and YACReader Library. It’s good enough, but I feel there’s still space for a really good app.",
+   "section": "crowdsourced",
+   "recommender": "Kevin (reader)"
+  },
+  {
+   "id": "2024-05-05-yacreader",
+   "name": "YACReader",
+   "url": "https://www.yacreader.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My latest rabbit hole is comics and graphic novels, and as someone who strips his ebooks of DRM, I’m still trying to find the Calibre of comics. I landed on YACReader and YACReader Library. It’s good enough, but I feel there’s still space for a really good app.",
+   "section": "crowdsourced",
+   "recommender": "Kevin (reader)"
+  },
+  {
+   "id": "2024-05-05-cronometer",
+   "name": "Cronometer",
+   "url": "https://cronometer.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Starting to pay more attention to healthy eating, and I remember hating MyFitnessPal. Found the app Cronometer , which is a great freemium alternative. Highly recommended!",
+   "section": "crowdsourced",
+   "recommender": "Jonathan (reader)"
+  },
+  {
+   "id": "2024-05-05-sugar",
+   "name": "Sugar",
+   "url": "https://www.themoviedb.org/tv/203744-sugar?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I just wanted to share how much I’ve been loving the new AppleTV Plus series Sugar starring Colin Farrell as private detective John Sugar, that’s on a case of a missing daughter. It has a great camera, vibe, and overall, the aesthetics are amazing.",
+   "section": "crowdsourced",
+   "recommender": "Vojtěch (reader)"
+  },
+  {
+   "id": "2024-05-05-castro",
+   "name": "Castro",
+   "url": "https://castro.fm/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just got back on the Castro podcast app bandwagon. It’s under new management and they are iterating. The queue system is 🔥.",
+   "section": "crowdsourced",
+   "recommender": "Advay (reader)"
+  },
+  {
+   "id": "2024-05-05-the-boox-palma",
+   "name": "the Boox Palma",
+   "url": "https://shop.boox.com/products/palma",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "For the last few weeks, I’ve been reading and hearing a lot about how much people like the Boox Palma . It’s basically just an Android phone, but it has a Kindle-style E Ink screen, which means it’s awful at a lot of things but can download all your reading apps and news apps.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

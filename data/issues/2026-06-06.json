@@ -1,0 +1,541 @@
+{
+ "schema": 1,
+ "date": "2026-06-06",
+ "post_type": "issue",
+ "title": "The next YouTube phenomenon hitting the big screen",
+ "url": "https://www.theverge.com/tech/944942/amazing-digital-circus-lego-pokemon-installer",
+ "author": "David Pierce",
+ "number": 131,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:40+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-06-06-the-world-cup",
+   "name": "the World Cup",
+   "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/04/world-cup-2026-complete-player-guide",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the World Cup and peptides and parasocial media , catching up on Clarkson’s Farm ahead of the new season, buying literally every single new item in The Verge Shop , watching so so so many BTS concert clips on my social feeds, brainstorming ways to resurrect my old…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-06-peptides",
+   "name": "peptides",
+   "url": "https://nymag.com/intelligencer/article/peptides-from-instagram-china-wellness-cure.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the World Cup and peptides and parasocial media , catching up on Clarkson’s Farm ahead of the new season, buying literally every single new item in The Verge Shop , watching so so so many BTS concert clips on my social feeds, brainstorming ways to resurrect my old…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-06-parasocial-media",
+   "name": "parasocial media",
+   "url": "https://journals.sagepub.com/doi/10.1177/20563051261437487?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the World Cup and peptides and parasocial media , catching up on Clarkson’s Farm ahead of the new season, buying literally every single new item in The Verge Shop , watching so so so many BTS concert clips on my social feeds, brainstorming ways to resurrect my old…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-06-clarksons-farm",
+   "name": "Clarkson’s Farm",
+   "url": "https://www.themoviedb.org/tv/117648-clarkson-s-farm",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about the World Cup and peptides and parasocial media , catching up on Clarkson’s Farm ahead of the new season, buying literally every single new item in The Verge Shop , watching so so so many BTS concert clips on my social feeds, brainstorming ways to resurrect my old…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-06-bts-concert-clips",
+   "name": "BTS concert clips",
+   "url": "https://www.instagram.com/bts.bighitofficial/?hl=en",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the World Cup and peptides and parasocial media , catching up on Clarkson’s Farm ahead of the new season, buying literally every single new item in The Verge Shop , watching so so so many BTS concert clips on my social feeds, brainstorming ways to resurrect my old…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-06-spokenly",
+   "name": "Spokenly",
+   "url": "https://spokenly.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the World Cup and peptides and parasocial media , catching up on Clarkson’s Farm ahead of the new season, buying literally every single new item in The Verge Shop , watching so so so many BTS concert clips on my social feeds, brainstorming ways to resurrect my old…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-06-geforce-now",
+   "name": "GeForce Now",
+   "url": "https://www.nvidia.com/en-us/geforce-now/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the World Cup and peptides and parasocial media , catching up on Clarkson’s Farm ahead of the new season, buying literally every single new item in The Verge Shop , watching so so so many BTS concert clips on my social feeds, brainstorming ways to resurrect my old…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-06-007-first-light",
+   "name": "007 First Light",
+   "url": "https://ioi.dk/007firstlightgame",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about the World Cup and peptides and parasocial media , catching up on Clarkson’s Farm ahead of the new season, buying literally every single new item in The Verge Shop , watching so so so many BTS concert clips on my social feeds, brainstorming ways to resurrect my old…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-06-the-amazing-digital-circus-the-last-act",
+   "name": "The Amazing Digital Circus: The Last Act",
+   "url": "https://www.themoviedb.org/movie/1667198-the-amazing-digital-circus-the-last-act",
+   "alt_urls": [
+    "https://www.youtube.com/playlist?list=PLHovnlOusNLgvAbnxluXCVB3KLj8e4QB-",
+    "https://www.theverge.com/entertainment/938437/backrooms-youtube-kane-parsons-a12"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "TADC is one of the most successful animated series on YouTube , and one of the platform’s most impressive success stories. (It’s also just very good.) This is apparently the show’s series finale, and it’s in theaters for the next couple of weeks before it hits YouTube.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-06-legos-smart-play-pokemon",
+   "name": "Lego’s Smart Play Pokémon",
+   "url": "https://www.lego.com/en-us/themes/pokemon",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m still torn on Lego’s whole Smart Brick concept, which has lots of potential but not much actual cool use right now. But I suspect a lot of us are going to want to preorder the 12 new interactive Pokémon sets before they come out in August. I want that Jigglypuff bad.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-06-final-fantasy-vii-rebirth",
+   "name": "Final Fantasy VII Rebirth",
+   "url": "https://www.square-enix.com/ffvii/en-us/games/rebirth/",
+   "alt_urls": [
+    "https://press.na.square-enix.com/FINAL-FANTASY-VII-REBIRTH-AVAILABLE-NOW-ON-NINTENDO-SWITCH-2-AND-XBOX-"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Yeah, fine, whatever, this is a two-year-old game, but it’s finally on Xbox and Switch! I know how many FF fans there are out there, and by all accounts this is one of the series’ best titles.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-06-the-shokz-opendots-air",
+   "name": "The Shokz OpenDots Air",
+   "url": "https://shokz.com/pages/opendots-air?irclickid=0b8yce3zrxyZU:6yH4yNnW:KUkuWrF0V03VeUM0&sharedid=&irpid=482924&irgwc=1&afsrc=1",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This kind of clip-on, open-ear headphone definitely isn’t for everyone, but I love them for the times when I want to listen to music or a podcast without actually disconnecting from the real world — and I’m psyched to see a cheaper model.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-06-the-microsoft-surface-laptop-ultra",
+   "name": "The Microsoft Surface Laptop Ultra",
+   "url": "https://www.microsoft.com/en-us/surface/devices/surface-laptop-ultra",
+   "alt_urls": [
+    "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I am fascinated by Nvidia’s new RTX Spark chip lineup, and the whole PC industry’s bet that AI will change the way we use our laptops forever.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-06-cape-fear",
+   "name": "Cape Fear",
+   "url": "https://www.themoviedb.org/tv/277439-cape-fear",
+   "alt_urls": [
+    "https://www.themoviedb.org/movie/11349-cape-fear",
+    "https://www.themoviedb.org/movie/1598-cape-fear"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This trailer has been following me around the internet for a couple of weeks, and it sure seems like Javier Bardem pulled off yet another terrifying villain performance. At the very least, let this new Apple TV series be your sign to go watch both the 1962 and 1991 versions of the story.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-06-the-corasir-nightsword-v2-mouse",
+   "name": "The Corasir Nightsword V2 mouse",
+   "url": "https://go.corsair.com/c/482924/490888/8513?u=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fgaming-mouse%2Fch-931e010-ww%2Fnightsword-v2-wireless-stream-deck-gaming-mouse-ch-931e010-ww&partnerpropertyid=7032191",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“Nightsword” is just a hilariously overwrought name for a computer mouse, but I love the idea of a dedicated button for launching Stream Deck controls.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-06-the-wiim-bar",
+   "name": "The WiiM Bar",
+   "url": "https://www.wiimhome.com/products/wiim-bar/?resource=banner",
+   "alt_urls": [
+    "https://forum.wiimhome.com/threads/introducing-wiim-bar-see-the-sound-build-the-theater.9835/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Lotta WiiM fans out here in the Installerverse, so this is exciting news: a soundbar with pretty impressive specs and plenty of connectivity (other than AirPlay, alas), all for $479.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-06-swan-song",
+   "name": "Swan Song",
+   "url": "https://businessgoosestudios.itch.io/swan-song",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "This is the kind of puzzle game I love: It’s not terribly chaotic or complex, but it does give you a million different things to do and think about. This one also makes incredibly clever use of music!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-06-unihertz-titan-2",
+   "name": "Unihertz Titan 2",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: Unihertz Titan 2. Full QWERTY keyboard and a massive screen / battery = I just work from my phone most days, no laptop needed. You didn’t ask but I’m also using Nothing earbuds and headphones.",
+   "section": "screen-share",
+   "recommender": "Justin"
+  },
+  {
+   "id": "2026-06-06-niagara-launcher",
+   "name": "Niagara Launcher",
+   "url": "https://niagaralauncher.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m running the always amazing Niagara Launcher . I have a custom widget of an app I built called In Your Space, which is a shameless rip-off of the iOS app In Your Face .",
+   "section": "screen-share",
+   "recommender": "Justin"
+  },
+  {
+   "id": "2026-06-06-in-your-face",
+   "name": "In Your Face",
+   "url": "https://www.inyourface.app/ios/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m running the always amazing Niagara Launcher . I have a custom widget of an app I built called In Your Space, which is a shameless rip-off of the iOS app In Your Face .",
+   "section": "screen-share",
+   "recommender": "Justin"
+  },
+  {
+   "id": "2026-06-06-audiobookshelf",
+   "name": "Audiobookshelf",
+   "url": "https://www.audiobookshelf.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m running Audiobookshelf for audiobooks, and Vivaldi for my browser. No YouTube, no TikTok, just pure productivity and connectivity. Claude is also pinging me about some code it wrote in my notification banner.",
+   "section": "screen-share",
+   "recommender": "Justin"
+  },
+  {
+   "id": "2026-06-06-vivaldi",
+   "name": "Vivaldi",
+   "url": "https://vivaldi.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m running Audiobookshelf for audiobooks, and Vivaldi for my browser. No YouTube, no TikTok, just pure productivity and connectivity. Claude is also pinging me about some code it wrote in my notification banner.",
+   "section": "screen-share",
+   "recommender": "Justin"
+  },
+  {
+   "id": "2026-06-06-claude",
+   "name": "Claude",
+   "url": "https://claude.ai/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m running Audiobookshelf for audiobooks, and Vivaldi for my browser. No YouTube, no TikTok, just pure productivity and connectivity. Claude is also pinging me about some code it wrote in my notification banner.",
+   "section": "screen-share",
+   "recommender": "Justin"
+  },
+  {
+   "id": "2026-06-06-xteink",
+   "name": "Xteink",
+   "url": "https://www.xteink.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As someone who spends 16-odd hours a day working on a computer, I’m currently enjoying anything that gets me away from a backlight and holding something tactile. My Xteink is always in my pocket, and I blow through chapters of my books instead of doomscrolling on my phone now.",
+   "section": "screen-share",
+   "recommender": "Justin"
+  },
+  {
+   "id": "2026-06-06-the-threshold-series",
+   "name": "the Threshold series",
+   "url": "https://www.peterclines.com/book-category/the-threshold-universe/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been finishing up the rest of the Threshold series of books by Peter Clines and listening to the latest Dungeon Crawler Carl book. Kinfire Delve is a fantastic series of co-op board games my wife and I are quite enjoying right now.",
+   "section": "screen-share",
+   "recommender": "Justin"
+  },
+  {
+   "id": "2026-06-06-the-latest-dungeon-crawler-carl",
+   "name": "the latest Dungeon Crawler Carl",
+   "url": "https://www.penguinrandomhouse.com/series/43C/dungeon-crawler-carl/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been finishing up the rest of the Threshold series of books by Peter Clines and listening to the latest Dungeon Crawler Carl book. Kinfire Delve is a fantastic series of co-op board games my wife and I are quite enjoying right now.",
+   "section": "screen-share",
+   "recommender": "Justin"
+  },
+  {
+   "id": "2026-06-06-kinfire-delve",
+   "name": "Kinfire Delve",
+   "url": "https://kinfirechronicles.com/pages/delve",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been finishing up the rest of the Threshold series of books by Peter Clines and listening to the latest Dungeon Crawler Carl book. Kinfire Delve is a fantastic series of co-op board games my wife and I are quite enjoying right now.",
+   "section": "screen-share",
+   "recommender": "Justin"
+  },
+  {
+   "id": "2026-06-06-zorbles",
+   "name": "Zorbles",
+   "url": "https://zorbles.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been finishing up the rest of the Threshold series of books by Peter Clines and listening to the latest Dungeon Crawler Carl book. Kinfire Delve is a fantastic series of co-op board games my wife and I are quite enjoying right now.",
+   "section": "screen-share",
+   "recommender": "Justin"
+  },
+  {
+   "id": "2026-06-06-roost",
+   "name": "Roost",
+   "url": "https://roostsocial.app/index.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Been having fun with Roost . It’s a messaging app that delivers a message at the speed of whatever bird you are sending.",
+   "section": "crowdsourced",
+   "recommender": "Michiel (reader)"
+  },
+  {
+   "id": "2026-06-06-lazyvim",
+   "name": "LazyVim",
+   "url": "https://www.lazyvim.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just started using LazyVim , and it may actually replace a niche use case for me. I use Jetbrains for most coding, but every once in a while I just need to edit a Python or JS script and not wait for PyCharm or VS Code to launch. LazyVim gives me the IDE experience without the bloat.",
+   "section": "crowdsourced",
+   "recommender": "Kevin (reader)"
+  },
+  {
+   "id": "2026-06-06-jetbrains",
+   "name": "Jetbrains",
+   "url": "https://www.jetbrains.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just started using LazyVim , and it may actually replace a niche use case for me. I use Jetbrains for most coding, but every once in a while I just need to edit a Python or JS script and not wait for PyCharm or VS Code to launch. LazyVim gives me the IDE experience without the bloat.",
+   "section": "crowdsourced",
+   "recommender": "Kevin (reader)"
+  },
+  {
+   "id": "2026-06-06-widows-bay",
+   "name": "Widow’s Bay",
+   "url": "https://www.themoviedb.org/tv/270476-widow-s-bay",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Widow’s Bay continues to be the best thing on right now. Every week is a countdown ‘til the next episode.",
+   "section": "crowdsourced",
+   "recommender": "Pip (reader)"
+  },
+  {
+   "id": "2026-06-06-clicks-power-keyboard",
+   "name": "Clicks Power Keyboard",
+   "url": "https://www.clicks.tech/powerkeyboard",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am constantly watching for updates on my Clicks Power Keyboard , which have now started shipping to folks. Can’t wait to get my clickity clackity typing on without having to use the full (large) case on my Pixel 10 Pro.",
+   "section": "crowdsourced",
+   "recommender": "Josh (reader)"
+  },
+  {
+   "id": "2026-06-06-tuna",
+   "name": "Tuna",
+   "url": "https://tunaformac.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Using Tuna to configure my workflow on my newly acquired IBM M2 keyboard. There’s a ton of Mac launchers out there, but Tuna is quick. It’s also configurable enough to make it powerful, but doesn’t feel like overkill like Raycast.",
+   "section": "crowdsourced",
+   "recommender": "Mike (reader)"
+  },
+  {
+   "id": "2026-06-06-humans",
+   "name": "Humans",
+   "url": "https://www.humanswithhank.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Hank Green has a new podcast, Humans .",
+   "section": "crowdsourced",
+   "recommender": "Stefan (reader)"
+  },
+  {
+   "id": "2026-06-06-marathon",
+   "name": "Marathon",
+   "url": "https://www.marathonthegame.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Marathon season two is spooky now, with a night map that’s actually dark, and gear was wiped, so everyone’s on (near) equal footing. It’s a great game that deserves more praise and attention.",
+   "section": "crowdsourced",
+   "recommender": "Train Man Emeritus (reader)"
+  },
+  {
+   "id": "2026-06-06-sesame",
+   "name": "Sesame",
+   "url": "https://www.sesame.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Sesame . It’s a voice dialog with an AI bot to talk about pretty much anything. They don’t mention friendship or anything like that, although maybe it’s possible. I used it to explain details of a few topics that I needed to learn about. Conversations are extremely realistic.",
+   "section": "crowdsourced",
+   "recommender": "Jay (reader)"
+  },
+  {
+   "id": "2026-06-06-layr",
+   "name": "Layr",
+   "url": "https://layr.mhyks.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Unlike traditional clipboard managers that rely on keyboard shortcuts, Layr is designed from the ground up to be activated via trackpad gestures. The app’s design and gesture-first approach actually convinced me to replace Maccy .",
+   "section": "crowdsourced",
+   "recommender": "Travis (reader)"
+  },
+  {
+   "id": "2026-06-06-maccy",
+   "name": "Maccy",
+   "url": "https://maccy.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Unlike traditional clipboard managers that rely on keyboard shortcuts, Layr is designed from the ground up to be activated via trackpad gestures. The app’s design and gesture-first approach actually convinced me to replace Maccy .",
+   "section": "crowdsourced",
+   "recommender": "Travis (reader)"
+  },
+  {
+   "id": "2026-06-06-swish",
+   "name": "Swish",
+   "url": "https://highlyopinionated.co/swish/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Unlike traditional clipboard managers that rely on keyboard shortcuts, Layr is designed from the ground up to be activated via trackpad gestures. The app’s design and gesture-first approach actually convinced me to replace Maccy .",
+   "section": "crowdsourced",
+   "recommender": "Travis (reader)"
+  },
+  {
+   "id": "2026-06-06-ringconn-gen-2-air",
+   "name": "RingConn Gen 2 Air",
+   "url": "https://ringconn.com/products/ringconn-gen-2-air?variant=48494897791284",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I got the RingConn Gen 2 Air about a year ago for $200. There’s no subscription, it looks like any other smart ring, the battery lasts for a week, and it tracks workouts and sleep. I would think that for the people (like me!)",
+   "section": "crowdsourced",
+   "recommender": "Bruce (reader)"
+  },
+  {
+   "id": "2026-06-06-toy-story-5",
+   "name": "Toy Story 5",
+   "url": "https://www.themoviedb.org/movie/1084244-toy-story-5",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "There are a lot of big movies coming out this summer, but in my house the only one that matters is Toy Story 5 .",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-06-a-terrific-interview-to-polygon",
+   "name": "a terrific interview to Polygon",
+   "url": "https://www.polygon.com/toy-story-5-director-interview/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "There are a lot of big movies coming out this summer, but in my house the only one that matters is Toy Story 5 .",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-06-has-some-thoughts",
+   "name": "has some thoughts",
+   "url": "https://www.bbc.com/news/articles/cy5222wn410o",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "There are a lot of big movies coming out this summer, but in my house the only one that matters is Toy Story 5 .",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-06-06-a-new-taylor-swift-song",
+   "name": "a new Taylor Swift song",
+   "url": "https://www.youtube.com/watch?v=SzJXikN_4wA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Also: We got a new Taylor Swift song to go with the movie. So it’s already a win.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

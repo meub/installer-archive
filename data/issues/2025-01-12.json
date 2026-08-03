@@ -1,0 +1,546 @@
+{
+ "schema": 1,
+ "date": "2025-01-12",
+ "post_type": "issue",
+ "title": "The best actually real stuff at CES 2025",
+ "url": "https://www.theverge.com/2025/1/12/24340864/ces-2025-tvs-nvidia-ai-gaming-installer",
+ "author": "David Pierce",
+ "number": 66,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:37+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-01-12-loneliness",
+   "name": "loneliness",
+   "url": "https://www.theatlantic.com/magazine/archive/2025/02/american-loneliness-personality-politics/681091/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about loneliness and Web3 scams and the future of procedural TV , watching Deadpool & Wolverine on an airplane like the director intended, rewatching Severance and Squid Game to get ready for the second seasons, eagerly awaiting the return of Kids Baking Championship …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-12-web3-scams",
+   "name": "Web3 scams",
+   "url": "https://defector.com/a-comprehensive-and-maddening-history-of-color-star-would-be-titans-of-just-about-anything",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about loneliness and Web3 scams and the future of procedural TV , watching Deadpool & Wolverine on an airplane like the director intended, rewatching Severance and Squid Game to get ready for the second seasons, eagerly awaiting the return of Kids Baking Championship …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-12-the-future-of-procedural-tv",
+   "name": "the future of procedural TV",
+   "url": "https://www.nytimes.com/2025/01/04/business/media/dick-wolf-on-call-amazon-prime.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about loneliness and Web3 scams and the future of procedural TV , watching Deadpool & Wolverine on an airplane like the director intended, rewatching Severance and Squid Game to get ready for the second seasons, eagerly awaiting the return of Kids Baking Championship …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-12-deadpool-wolverine",
+   "name": "Deadpool & Wolverine",
+   "url": "https://www.themoviedb.org/movie/533535-deadpool-wolverine?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about loneliness and Web3 scams and the future of procedural TV , watching Deadpool & Wolverine on an airplane like the director intended, rewatching Severance and Squid Game to get ready for the second seasons, eagerly awaiting the return of Kids Baking Championship …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-12-severance",
+   "name": "Severance",
+   "url": "https://www.themoviedb.org/tv/95396-severance?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about loneliness and Web3 scams and the future of procedural TV , watching Deadpool & Wolverine on an airplane like the director intended, rewatching Severance and Squid Game to get ready for the second seasons, eagerly awaiting the return of Kids Baking Championship …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-12-squid-game",
+   "name": "Squid Game",
+   "url": "https://www.themoviedb.org/tv/93405?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about loneliness and Web3 scams and the future of procedural TV , watching Deadpool & Wolverine on an airplane like the director intended, rewatching Severance and Squid Game to get ready for the second seasons, eagerly awaiting the return of Kids Baking Championship …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-12-kids-baking-championship",
+   "name": "Kids Baking Championship",
+   "url": "https://www.themoviedb.org/tv/61987-kids-baking-championship?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about loneliness and Web3 scams and the future of procedural TV , watching Deadpool & Wolverine on an airplane like the director intended, rewatching Severance and Squid Game to get ready for the second seasons, eagerly awaiting the return of Kids Baking Championship …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-12-real-sara-dietschy-or-ai-sara-dietschy",
+   "name": "real Sara Dietschy or AI Sara Dietschy",
+   "url": "https://www.youtube.com/watch?v=EdQaiDT-Ecg",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about loneliness and Web3 scams and the future of procedural TV , watching Deadpool & Wolverine on an airplane like the director intended, rewatching Severance and Squid Game to get ready for the second seasons, eagerly awaiting the return of Kids Baking Championship …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-12-apple-news-plus",
+   "name": "Apple News Plus",
+   "url": "https://www.apple.com/apple-news/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about loneliness and Web3 scams and the future of procedural TV , watching Deadpool & Wolverine on an airplane like the director intended, rewatching Severance and Squid Game to get ready for the second seasons, eagerly awaiting the return of Kids Baking Championship …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-12-the-lg-stanbyme-2",
+   "name": "The LG StanbyME 2",
+   "url": null,
+   "alt_urls": [
+    "https://www.theverge.com/2025/1/7/24338520/lg-stanbyme-2-portable-tv-carrying-strap-ces-2025"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I cannot explain to you why I am so into this thing. It’s just a big, portable screen (LG calls it a “lifestyle screen,” which is hysterical), with a strap and a stand, so you can hang it up or prop it on a table. Is that anything? I don’t know! But I love this idea.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-12-the-circular-ring-2",
+   "name": "The Circular Ring 2",
+   "url": null,
+   "alt_urls": [
+    "https://www.theverge.com/2025/1/5/24325286/circular-ring-2-wearables-smart-ekg-price-ces-2025",
+    "https://www.theverge.com/2024/10/1/24259284/oura-ring-samsung-galaxy-ring-ultrahuman-ring-air-ringconn-circular-ring-evie-ring-review-wearables"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The first model was kind of a dud , but the Ring 2 appears to get almost everything right: better battery, easier charging, nicer design, more features. My 2025 project is to ditch my smartwatch for a smart ring, and this has some potential.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-12-nvidia-project-digits",
+   "name": "Nvidia Project Digits",
+   "url": "https://www.nvidia.com/en-us/project-digits/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This one kind of violates the spirit of the “things a real person might actually buy” rubric here, but I am increasingly convinced that the only good AI future is one where your AI systems are more local, more personal, and more yours.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-12-the-roam-sodatop",
+   "name": "The Roam SodaTop",
+   "url": "https://www.roamwater.co/",
+   "alt_urls": [
+    "https://www.theverge.com/2025/1/5/24336900/a-sodastream-for-your-hydro-flask"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I had a SodaStream for years and loved everything about it except it was huge and only in my kitchen. The SodaTop screws right onto a water bottle and carbonates water in five seconds. $50! Spectacular, give me 14 of them.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-12-the-lenovo-thinkbook-plus-gen-6",
+   "name": "The Lenovo Thinkbook Plus Gen 6",
+   "url": "https://news.lenovo.com/pressroom/press-releases/lenovo-at-ces-2025-redefining-business-technology-with-bold-innovations-and-ai-powered-solutions/",
+   "alt_urls": [
+    "https://www.theverge.com/2025/1/7/24337633/lenovo-thinkbook-plus-gen-6-rollable-laptop-flexible-oled-price-specs"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I didn’t get to see this one on the CES floor, but Lenovo’s rollable screen concept thing is real now — and apparently works pretty well. $3,500 for a laptop is preposterous, but this is a technology that belongs in a lot of laptops. Soon.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-12-the-samsung-frame-pro",
+   "name": "The Samsung Frame Pro",
+   "url": null,
+   "alt_urls": [
+    "https://www.theverge.com/2025/1/5/24336154/samsung-the-frame-pro-features-specs"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "As far as I can tell, the actual display improvements here are not super impressive. But I like that the Frame setup is simpler and involves fewer wires now — and I’m hoping this’ll make the last-gen Frame cheap enough that I can justify buying one.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-12-the-wonder-petal",
+   "name": "The Wonder Petal",
+   "url": "https://www.experiencewonder.com/",
+   "alt_urls": [
+    "https://www.theverge.com/2025/1/6/24337124/bird-buddy-wonder-petal-camera-track-plants-insects-ces-2025"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "All my gardening- and birding-obsessed friends are super into this thing , a flower-styled and solar-powered camera that uses AI to identify plants and creatures roaming around your yard. I keep hearing great things about the Bird Buddy feeder, too.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-12-the-flic-duo",
+   "name": "The Flic Duo",
+   "url": "https://duo.flic.io/",
+   "alt_urls": [
+    "https://www.theverge.com/2025/1/6/24330536/flic-duo-smart-button-price-release-date-ces-2025"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "A button! For doing button things! You stick this tiny thing on a wall and program what happens when you click, double-click, press and hold, swipe, and lots more. It’s Matter-compatible and $49 and the sort of thing every smart home needs.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-12-the-switchbot-multitasking-household-robot-k20-p",
+   "name": "The SwitchBot Multitasking Household Robot K20 Plus Pro",
+   "url": "https://www.switch-bot.com/pages/events?cjdata=MXxOfDB8WXww&cjevent=afa2b073cf6211ef8333019e0a82b82d",
+   "alt_urls": [
+    "https://www.theverge.com/2025/1/5/24333438/switchbot-multitasking-household-robot-k20-plus-pro-price-specs-release-date"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Yikes, that name. But the product is so smart: a modular robot vacuum that turns into a roving air purifier, pet monitor, and more. I love the trend we’re seeing here, as these turn into the first true home robots.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-12-the-amazfit-active-2",
+   "name": "The Amazfit Active 2",
+   "url": "https://us.amazfit.com/products/active-2-round?cjdata=MXxOfDB8WXww",
+   "alt_urls": [
+    "https://www.theverge.com/2025/1/6/24336409/amazfit-active-2-hands-on-specs-price-ces-2025"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I noticed my colleague Victoria Song wearing this watch and told her how much I liked the red, kind of Tron-y face. She looked at me and goes, “IT’S ONLY A HUNDRED DOLLARS!” That’s basically the deal — a pretty, pretty good, pretty cheap smartwatch and fitness tracker.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-12-the-razer-handheld-dock-chroma",
+   "name": "The Razer Handheld Dock Chroma",
+   "url": "https://razer.a9yw.net/c/482924/642901/10229?u=https%3A%2F%2Fwww.razer.com%2Fgaming-pc-accessories%2Frazer-handheld-dock-chroma%2FRC21-02310100-R3U1",
+   "alt_urls": [
+    "https://www.theverge.com/2025/1/7/24336841/razer-handheld-dock-chroma-pc-remote-play-price-availability"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "One dock for all your handheld game consoles. It has fast power, seems to connect easily, and supports phones, Steam Decks, Switches, and more. I remain totally convinced that these consoles are the future of games, and this is a terrific accessory idea .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-12-iphone-16-pro-max",
+   "name": "iPhone 16 Pro Max",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 16 Pro Max. This is the first time I’ve had the biggest iPhone. I thought it would be good to try as a sort of tiny iPad. It makes reading and writing just a little easier.",
+   "section": "screen-share",
+   "recommender": "Manton"
+  },
+  {
+   "id": "2025-01-12-hey",
+   "name": "Hey",
+   "url": "https://www.hey.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "In the dock, I have Hey email and a few companion apps for my Micro.blog platform: Epilogue for keeping track of books, Strata for notes, and the official Micro.blog app.",
+   "section": "screen-share",
+   "recommender": "Manton"
+  },
+  {
+   "id": "2025-01-12-epilogue",
+   "name": "Epilogue",
+   "url": "https://epilogue.micro.blog/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "In the dock, I have Hey email and a few companion apps for my Micro.blog platform: Epilogue for keeping track of books, Strata for notes, and the official Micro.blog app.",
+   "section": "screen-share",
+   "recommender": "Manton"
+  },
+  {
+   "id": "2025-01-12-strata",
+   "name": "Strata",
+   "url": "https://strata.micro.blog/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "In the dock, I have Hey email and a few companion apps for my Micro.blog platform: Epilogue for keeping track of books, Strata for notes, and the official Micro.blog app.",
+   "section": "screen-share",
+   "recommender": "Manton"
+  },
+  {
+   "id": "2025-01-12-wind-and-truth",
+   "name": "Wind and Truth",
+   "url": "https://us.macmillan.com/books/9781250319180/windandtruth/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Wind and Truth by Brandon Sanderson. I’m currently halfway through this book and love the epic scope of a story that spans multiple standalone book series. I hope to read more this year. I track what books I’m reading, and I post a short microblog post to my own site about each one. ChatGPT .",
+   "section": "screen-share",
+   "recommender": "Manton"
+  },
+  {
+   "id": "2025-01-12-chatgpt",
+   "name": "ChatGPT",
+   "url": "https://chatgpt.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Wind and Truth by Brandon Sanderson. I’m currently halfway through this book and love the epic scope of a story that spans multiple standalone book series. I hope to read more this year. I track what books I’m reading, and I post a short microblog post to my own site about each one. ChatGPT .",
+   "section": "screen-share",
+   "recommender": "Manton"
+  },
+  {
+   "id": "2025-01-12-swarm",
+   "name": "Swarm",
+   "url": "https://www.swarmapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Wind and Truth by Brandon Sanderson. I’m currently halfway through this book and love the epic scope of a story that spans multiple standalone book series. I hope to read more this year. I track what books I’m reading, and I post a short microblog post to my own site about each one. ChatGPT .",
+   "section": "screen-share",
+   "recommender": "Manton"
+  },
+  {
+   "id": "2025-01-12-this-post-on-threads",
+   "name": "this post on Threads",
+   "url": "https://www.threads.net/@imdavidpierce/post/DEnMHHwpUqs?xmt=AQGzd0JTUFDB8HTLxVTIEqDPi2asWNmiz7zyoTGYhaP8Jw",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Here’s what the Installer community is into this week. I want to know what you’re into right now as well! Email installer@theverge.com or message me on Signal — @davidpierce.11 — with your recommendations for anything and everything, and we’ll feature some of our favorites here every week.",
+   "section": "screen-share",
+   "recommender": "Manton"
+  },
+  {
+   "id": "2025-01-12-this-post-on-bluesky",
+   "name": "this post on Bluesky",
+   "url": "https://bsky.app/profile/davidpierce.xyz/post/3lfd5jnlcv22u",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Here’s what the Installer community is into this week. I want to know what you’re into right now as well! Email installer@theverge.com or message me on Signal — @davidpierce.11 — with your recommendations for anything and everything, and we’ll feature some of our favorites here every week.",
+   "section": "screen-share",
+   "recommender": "Manton"
+  },
+  {
+   "id": "2025-01-12-a-four-part-series",
+   "name": "a four-part series",
+   "url": "https://www.youtube.com/watch?v=Ou2dW4qebbw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“I stumbled upon a four-part series on YouTube by Digging The Greats . He does a great deep dive into using an iPod for 30 days and how it changed his life. Really great interviews and insight about algorithms, getting some life back, and using technology without the addiction.",
+   "section": "screen-share",
+   "recommender": "Manton"
+  },
+  {
+   "id": "2025-01-12-digging-the-greats",
+   "name": "Digging The Greats",
+   "url": "https://www.youtube.com/@diggingthegreats",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“I stumbled upon a four-part series on YouTube by Digging The Greats . He does a great deep dive into using an iPod for 30 days and how it changed his life. Really great interviews and insight about algorithms, getting some life back, and using technology without the addiction.",
+   "section": "screen-share",
+   "recommender": "Manton"
+  },
+  {
+   "id": "2025-01-12-laifen-wave",
+   "name": "Laifen Wave",
+   "url": "https://www.laifentech.com/pages/electric-toothbrush-v2",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“Last week, I ordered a Laifen Wave electric toothbrush, and it’s taking way too long in the mail. I want to play with my new gadget now, damn it!” – Ellie",
+   "section": "screen-share",
+   "recommender": "Manton"
+  },
+  {
+   "id": "2025-01-12-essenger",
+   "name": "Essenger",
+   "url": "https://essenger.carrd.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“I’ve been listening to the entire discography of Essenger . I think that having an electronic groove during the busiest time of the year in tech makes the tech world even cooler!” – Eli",
+   "section": "screen-share",
+   "recommender": "Manton"
+  },
+  {
+   "id": "2025-01-12-pre-ai-search",
+   "name": "Pre-AI Search",
+   "url": "https://chromewebstore.google.com/detail/pre-ai-search-filter-goog/claajpcgaehlepegbiibddifpnlokckb?authuser=0&hl=en",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "web"
+   ],
+   "blurb": "“A new extension called Pre-AI Search . All it does is filter to pre-2023 Google results, but it’s been a bit of a lifesaver given how garbage Google image search is now.",
+   "section": "screen-share",
+   "recommender": "Manton"
+  },
+  {
+   "id": "2025-01-12-flyleaf",
+   "name": "Flyleaf",
+   "url": "https://moehrenzahn.de/project/flyleaf/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“ Flyleaf . A beautiful read-it-later app for macOS, iPadOS, and iOS.” – Ryan",
+   "section": "screen-share",
+   "recommender": "Manton"
+  },
+  {
+   "id": "2025-01-12-if-books-could-kill",
+   "name": "If Books Could Kill",
+   "url": "https://www.ifbookspod.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“I just started listening to the wonderful If Books Could Kill podcast. You’re Wrong About alum Michael Hobbes and lawyer Peter Shamshiri tackle the question, ‘What if pop science books would have peer review?’ The answer is pretty damning for the books but great fun for us listeners.” – Laszlo",
+   "section": "screen-share",
+   "recommender": "Manton"
+  },
+  {
+   "id": "2025-01-12-baseus-nomos",
+   "name": "Baseus Nomos",
+   "url": "https://www.baseus.com/pages/nomos",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“Not new, but the Baseus Nomos 5-in-1 charging station changed my whole desk setup. The retractable cable and StandBy mode-friendly phone mount (Qi2!) make it worth it.” – Hawke",
+   "section": "screen-share",
+   "recommender": "Manton"
+  },
+  {
+   "id": "2025-01-12-aew",
+   "name": "AEW",
+   "url": "https://max.prf.hn/click/camref:1101lqHRA/destination:https%3A%2F%2Fwww.max.com%2Fshows%2Faew%2Fbf7f2c0f-74b5-43c5-b1e9-6dd5071410de",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“I’ve been bingeing AEW on Max. I was a childhood wrestling fan who got back into WWE casually at the pandemic Wrestlemania. Now that it’s on Max, I’ve been bingeing the past two months of AEW shows to get acquainted with the product and better compare it to post-McMahon WWE.",
+   "section": "screen-share",
+   "recommender": "Manton"
+  },
+  {
+   "id": "2025-01-12-southern-man",
+   "name": "Southern Man",
+   "url": "https://www.harpercollins.com/products/southern-man-greg-iles",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“Greg Iles’ Southern Man , a massive but riveting novel set in modern Mississippi, has been eating up all my spare time.” – Darragh",
+   "section": "screen-share",
+   "recommender": "Manton"
+  },
+  {
+   "id": "2025-01-12-projectionlab",
+   "name": "ProjectionLab",
+   "url": "https://projectionlab.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“I recommend you check out ProjectionLab . It’s a beautifully designed financial planning tool that I’ve been using for the past few years. This solo dev-built app makes it simple to model finances and plan for the future.” – Jake",
+   "section": "screen-share",
+   "recommender": "Manton"
+  },
+  {
+   "id": "2025-01-12-from",
+   "name": "From",
+   "url": "https://www.themoviedb.org/tv/124364-from",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "“Watching this horror series, From , on Prime Video. Very different than most shows on the internet.” – Daniyal",
+   "section": "screen-share",
+   "recommender": "Manton"
+  },
+  {
+   "id": "2025-01-12-a-really-lovely-set-of-app-icons",
+   "name": "a really lovely set of app icons",
+   "url": "https://lokki.framer.website/l/formless",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Over the holiday break, I came across a really lovely set of app icons from a designer named Lokki, and of course jumped at an excuse to yet again completely overhaul my homescreen. I really like it now!",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-12-widgy",
+   "name": "Widgy",
+   "url": "https://apps.apple.com/us/app/widgy-widgets-home-lock-watch/id1524540481",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Over the holiday break, I came across a really lovely set of app icons from a designer named Lokki, and of course jumped at an excuse to yet again completely overhaul my homescreen. I really like it now!",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-01-12-share-stuff-youve-made",
+   "name": "share stuff you’ve made",
+   "url": "https://www.reddit.com/r/widgy/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Over the holiday break, I came across a really lovely set of app icons from a designer named Lokki, and of course jumped at an excuse to yet again completely overhaul my homescreen. I really like it now!",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

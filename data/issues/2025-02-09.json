@@ -1,0 +1,525 @@
+{
+ "schema": 1,
+ "date": "2025-02-09",
+ "post_type": "issue",
+ "title": "Two new games you can play basically forever",
+ "url": "https://www.theverge.com/installer-newsletter/608335/civilization-vii-tapestry-kingdom-come-deliverance-installer",
+ "author": "David Pierce",
+ "number": 70,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-02-09-kicking-sugar",
+   "name": "kicking sugar",
+   "url": "https://www.nytimes.com/2025/01/25/magazine/quit-sugar.html?unlocked_article_code=1.tk4.taxG.XumK-N2k3IE_&__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about kicking sugar and NBA trades and the rise of Zyn , watching most of Parks and Recreation while I try to fight off a flu, traipsing through the Video Game History Foundation Library , buying a few of these delightful Paper Apps notebooks , rewatching Waiting for…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-09-nba-trades",
+   "name": "NBA trades",
+   "url": "https://www.espn.com/nba/story/_/id/43676830/how-stunning-luka-doncic-anthony-davis-trade-came-together-los-angeles-lakers-dallas-mavericks?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about kicking sugar and NBA trades and the rise of Zyn , watching most of Parks and Recreation while I try to fight off a flu, traipsing through the Video Game History Foundation Library , buying a few of these delightful Paper Apps notebooks , rewatching Waiting for…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-09-the-rise-of-zyn",
+   "name": "the rise of Zyn",
+   "url": "https://www.gq.com/story/how-zyn-conquered-the-american-mouth",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about kicking sugar and NBA trades and the rise of Zyn , watching most of Parks and Recreation while I try to fight off a flu, traipsing through the Video Game History Foundation Library , buying a few of these delightful Paper Apps notebooks , rewatching Waiting for…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-09-parks-and-recreation",
+   "name": "Parks and Recreation",
+   "url": "https://www.themoviedb.org/tv/8592-parks-and-recreation?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about kicking sugar and NBA trades and the rise of Zyn , watching most of Parks and Recreation while I try to fight off a flu, traipsing through the Video Game History Foundation Library , buying a few of these delightful Paper Apps notebooks , rewatching Waiting for…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-09-video-game-history-foundation-library",
+   "name": "Video Game History Foundation Library",
+   "url": "https://library.gamehistory.org/?_gl=1*yrlimm*_ga*NjIxNzc3NjgzLjE3Mzg3MDUwNjg.*_ga_4ZPZBFRVR6*MTczODg5MDAxMS4yLjAuMTczODg5MDAxMS4wLjAuMA..",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about kicking sugar and NBA trades and the rise of Zyn , watching most of Parks and Recreation while I try to fight off a flu, traipsing through the Video Game History Foundation Library , buying a few of these delightful Paper Apps notebooks , rewatching Waiting for…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-09-paper-apps-notebooks",
+   "name": "Paper Apps notebooks",
+   "url": "https://gladdendesign.com/collections/paper-apps",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about kicking sugar and NBA trades and the rise of Zyn , watching most of Parks and Recreation while I try to fight off a flu, traipsing through the Video Game History Foundation Library , buying a few of these delightful Paper Apps notebooks , rewatching Waiting for…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-09-waiting-for-guffman",
+   "name": "Waiting for Guffman",
+   "url": "https://www.youtube.com/watch?v=TE0bQ4Fjbms&list=PL7Eup7JXScZyvRftA2Q5hv69XiegDm6tQ&index=8",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about kicking sugar and NBA trades and the rise of Zyn , watching most of Parks and Recreation while I try to fight off a flu, traipsing through the Video Game History Foundation Library , buying a few of these delightful Paper Apps notebooks , rewatching Waiting for…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-09-stumbling-upon-it-on-youtube",
+   "name": "stumbling upon it on YouTube",
+   "url": "https://www.youtube.com/playlist?list=PL7Eup7JXScZyvRftA2Q5hv69XiegDm6tQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about kicking sugar and NBA trades and the rise of Zyn , watching most of Parks and Recreation while I try to fight off a flu, traipsing through the Video Game History Foundation Library , buying a few of these delightful Paper Apps notebooks , rewatching Waiting for…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-09-bonbon-candy",
+   "name": "BonBon candy",
+   "url": "https://bonbonnyc.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about kicking sugar and NBA trades and the rise of Zyn , watching most of Parks and Recreation while I try to fight off a flu, traipsing through the Video Game History Foundation Library , buying a few of these delightful Paper Apps notebooks , rewatching Waiting for…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-09-civilization-vii",
+   "name": "Civilization VII",
+   "url": "https://civilization.2k.com/civ-vii/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s still technically only in early access, but by most accounts, this game lives up to the series’ truly epic, practically unparalleled depth and history. I’ve always avoided these games for fear they’d take over my life — but maybe it’s time.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-09-kingdom-come-deliverance-ii",
+   "name": "Kingdom Come: Deliverance II",
+   "url": "https://kingdomcomerpg.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Big week for outrageously huge, deliberate, thousands-of-hours games! Warhorse’s new epic seems to be a now-rare, kind of slow, truly open world — which I suspect might be the exact kind of escape people need right now. You know, for Reasons.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-09-avoiding-outrage-fatigue-while-staying-informed",
+   "name": "Avoiding Outrage Fatigue while Staying Informed",
+   "url": "https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“ Avoiding Outrage Fatigue while Staying Informed .” A really good Scientific American podcast about a topic that feels, uh, very relevant right now. It’s important to understand what’s happening! But we all need some help to manage it all.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-09-chatgpt-deep-research",
+   "name": "ChatGPT deep research",
+   "url": "https://openai.com/index/introducing-deep-research/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The new thing in LLMs is models that can take their time, work through a problem, and come to much better and more useful answers. I’ve only played with deep research a little, but it’s impressive — and even experts are saying it gets most things right.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-09-tapestry",
+   "name": "Tapestry",
+   "url": "https://usetapestry.com/",
+   "alt_urls": [
+    "https://reeder.app/",
+    "https://feeeed.nateparrott.com/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m kinda done with algorithms, and I think timeline apps like this one, and Reeder , and Feeeed , are going to be a big deal. Put your favorite blogs, creators, podcasts, Bluesky follows, and everything else in one place — Apple devices only, alas — and consume it all at your speed.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-09-tana",
+   "name": "Tana",
+   "url": "https://tana.inc/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Tana’s been in beta for a while and has developed into one of the most powerful and power user-friendly productivity apps out there. It’s like an even nerdier Notion — and there’s a lot about it I really like.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-09-the-z-suite",
+   "name": "The Z-Suite",
+   "url": "https://tubitv.com/series/300014710/the-z-suite",
+   "alt_urls": [
+    "https://tubitv.com/superbowl"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Tubi Originals! Are apparently a thing! I’m sort of shocked how fun I found the pilot about a bunch of rowdy youths who take charge at an ad agency. Definitely one to watch after the Super Bowl ( also on Tubi! ) ends this weekend.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-09-deep-dive-into-llms-like-chatgpt",
+   "name": "Deep Dive into LLMs like ChatGPT",
+   "url": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Deep Dive into LLMs like ChatGPT .” Maybe the best “how does AI actually work” primer I’ve ever seen. It is long — three and a half hours! — but it is both really understandable and really deep, which is hard to pull off. Watch it, and take notes.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-09-instapaper-9-1",
+   "name": "Instapaper 9.1",
+   "url": "https://www.instapaper.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Instapaper is the OG read-later app and continues to get better. The newest update does a particularly nice job of managing paywalls and logins, which makes the whole process of saving stuff feel much more seamless. (So far, it’s only for iOS, but I assume it’s coming to Android soon.)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-09-bluescreen-for-bluesky",
+   "name": "Bluescreen for Bluesky",
+   "url": "https://apps.apple.com/de/app/bluescreen-for-bluesky/id6741334901?l=en-GB",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "A nifty iOS app that re-skins Bluesky as a TikTok-like video player and actually works really well. The Bluesky videos are not as good as the TikTok videos, but it’s a really cool concept.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-09-cassandra",
+   "name": "Cassandra",
+   "url": "https://www.themoviedb.org/tv/248982-cassandra?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "More high-tech thrillers! This one, on Netflix, is about a smart home assistant gone batty. It’s both extremely creepy and also filled with tech I wish existed in my own house. Just less… murder-y?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-09-an-iphone-i-only-buy-them-used-because-they-are",
+   "name": "An iPhone — I only buy them used because they are so much cheaper that way!",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: An iPhone — I only buy them used because they are so much cheaper that way!",
+   "section": "screen-share",
+   "recommender": "Cooper"
+  },
+  {
+   "id": "2025-02-09-feedly",
+   "name": "Feedly",
+   "url": "https://feedly.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I like to keep my homescreen very clean of notifications and extraneous apps. I only keep my eight most-used apps on there. Of note: I use Feedly for keeping up with RSS feeds and news. RSS feeds are such a nicer way of consuming internet content than anything else!",
+   "section": "screen-share",
+   "recommender": "Cooper"
+  },
+  {
+   "id": "2025-02-09-bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I like to keep my homescreen very clean of notifications and extraneous apps. I only keep my eight most-used apps on there. Of note: I use Feedly for keeping up with RSS feeds and news. RSS feeds are such a nicer way of consuming internet content than anything else!",
+   "section": "screen-share",
+   "recommender": "Cooper"
+  },
+  {
+   "id": "2025-02-09-my-main-social-network",
+   "name": "my main social network",
+   "url": "https://bsky.app/profile/cooperq.com",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I like to keep my homescreen very clean of notifications and extraneous apps. I only keep my eight most-used apps on there. Of note: I use Feedly for keeping up with RSS feeds and news. RSS feeds are such a nicer way of consuming internet content than anything else!",
+   "section": "screen-share",
+   "recommender": "Cooper"
+  },
+  {
+   "id": "2025-02-09-signal",
+   "name": "Signal",
+   "url": "https://signal.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I like to keep my homescreen very clean of notifications and extraneous apps. I only keep my eight most-used apps on there. Of note: I use Feedly for keeping up with RSS feeds and news. RSS feeds are such a nicer way of consuming internet content than anything else!",
+   "section": "screen-share",
+   "recommender": "Cooper"
+  },
+  {
+   "id": "2025-02-09-star-trek-the-next-generation",
+   "name": "Star Trek: The Next Generation",
+   "url": "https://www.themoviedb.org/tv/655-star-trek-the-next-generation?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Star Trek: The Next Generation reruns — this is pure comfort food. I’ve been listening to this hardcore punk band made up of all trans folks called The HIRS Collective . I’m really excited about Meshtastic and LoRa meshes , so that’s been cool. I’ve been replaying Fallout: New Vegas .",
+   "section": "screen-share",
+   "recommender": "Cooper"
+  },
+  {
+   "id": "2025-02-09-the-hirs-collective",
+   "name": "The HIRS Collective",
+   "url": "https://getbetterrecords.com/collections/the-hirs-collective",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Star Trek: The Next Generation reruns — this is pure comfort food. I’ve been listening to this hardcore punk band made up of all trans folks called The HIRS Collective . I’m really excited about Meshtastic and LoRa meshes , so that’s been cool. I’ve been replaying Fallout: New Vegas .",
+   "section": "screen-share",
+   "recommender": "Cooper"
+  },
+  {
+   "id": "2025-02-09-meshtastic",
+   "name": "Meshtastic",
+   "url": "https://meshtastic.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Star Trek: The Next Generation reruns — this is pure comfort food. I’ve been listening to this hardcore punk band made up of all trans folks called The HIRS Collective . I’m really excited about Meshtastic and LoRa meshes , so that’s been cool. I’ve been replaying Fallout: New Vegas .",
+   "section": "screen-share",
+   "recommender": "Cooper"
+  },
+  {
+   "id": "2025-02-09-lora-meshes",
+   "name": "LoRa meshes",
+   "url": "https://meshtastic.org/docs/introduction/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Star Trek: The Next Generation reruns — this is pure comfort food. I’ve been listening to this hardcore punk band made up of all trans folks called The HIRS Collective . I’m really excited about Meshtastic and LoRa meshes , so that’s been cool. I’ve been replaying Fallout: New Vegas .",
+   "section": "screen-share",
+   "recommender": "Cooper"
+  },
+  {
+   "id": "2025-02-09-fallout-new-vegas",
+   "name": "Fallout: New Vegas",
+   "url": "https://fallout.bethesda.net/en/games/fallout-new-vegas",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Star Trek: The Next Generation reruns — this is pure comfort food. I’ve been listening to this hardcore punk band made up of all trans folks called The HIRS Collective . I’m really excited about Meshtastic and LoRa meshes , so that’s been cool. I’ve been replaying Fallout: New Vegas .",
+   "section": "screen-share",
+   "recommender": "Cooper"
+  },
+  {
+   "id": "2025-02-09-bleep",
+   "name": "Bleep",
+   "url": "https://bleep.is/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Using Bleep . It’s like Google Keep got in a fight with MyMind and agreed to be friends.",
+   "section": "crowdsourced",
+   "recommender": "Esteban (reader)"
+  },
+  {
+   "id": "2025-02-09-firewalla",
+   "name": "Firewalla",
+   "url": "https://firewalla.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Firewalla . They are a router / firewall company that truly makes an appliance that can be plug-and-play, with a shell available for power users to do more things. They recently also released access points that are also super simple to set up.",
+   "section": "crowdsourced",
+   "recommender": "Gurupanguji (reader)"
+  },
+  {
+   "id": "2025-02-09-gametrack",
+   "name": "GameTrack",
+   "url": "https://gametrack.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am looking for a good app to track the games I am playing (or plan to) across various platforms. So far, GameTrack is my favorite, but Game Tracker seems like a good and cheaper entry. (Yes, they have basically the same name but are different apps, not confusing at all.)",
+   "section": "crowdsourced",
+   "recommender": "Daniele (reader)"
+  },
+  {
+   "id": "2025-02-09-game-tracker",
+   "name": "Game Tracker",
+   "url": "https://gametracker.cloud/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am looking for a good app to track the games I am playing (or plan to) across various platforms. So far, GameTrack is my favorite, but Game Tracker seems like a good and cheaper entry. (Yes, they have basically the same name but are different apps, not confusing at all.)",
+   "section": "crowdsourced",
+   "recommender": "Daniele (reader)"
+  },
+  {
+   "id": "2025-02-09-t3-chat",
+   "name": "T3 Chat",
+   "url": "https://t3.chat/chat/welcome",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Using the T3 Chat client instead of the ChatGPT website or Anthropic’s crappy desktop app — turns out just making the webpage fast is an insane improvement to the experience.",
+   "section": "crowdsourced",
+   "recommender": "jtromero (reader)"
+  },
+  {
+   "id": "2025-02-09-elevenreader",
+   "name": "ElevenReader",
+   "url": "https://elevenlabs.io/text-reader",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been using the ElevenReader app by ElevenLabs to create podcasts from some of those TL;DR articles. It boils them down into a shorter — obviously cruder — form so I can listen to a few while walking the dog.",
+   "section": "crowdsourced",
+   "recommender": "Alan (reader)"
+  },
+  {
+   "id": "2025-02-09-superlist",
+   "name": "Superlist",
+   "url": "https://www.superlist.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Trying Superlist again, love the thoughtful and beautiful design and the recent updates. Love that I can log on via web and quickly glance on my iPhone. Love the recent update.",
+   "section": "crowdsourced",
+   "recommender": "Samuel (reader)"
+  },
+  {
+   "id": "2025-02-09-moccamaster",
+   "name": "Moccamaster",
+   "url": "https://us.moccamaster.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Moccamaster for coffee brewing. I’ve been switching back and forth from a pour-over to the Moccamaster the last while. I happened to be drinking a fresh pot when I read your post.",
+   "section": "crowdsourced",
+   "recommender": "Cody (reader)"
+  },
+  {
+   "id": "2025-02-09-androids-the-team-that-built-the-android-operati",
+   "name": "Androids: The Team that Built the Android Operating System",
+   "url": "https://www.oreilly.com/library/view/androids/9781098130237/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Finally got around to reading Androids: The Team that Built the Android Operating System . An amazing book to understand how Android came to be, and that made me dig out my old OS college notes. Now I’m reading too much about OSes of the ’90s / 2000s.",
+   "section": "crowdsourced",
+   "recommender": "Kruti (reader)"
+  },
+  {
+   "id": "2025-02-09-letterboxd",
+   "name": "Letterboxd",
+   "url": "https://letterboxd.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "There’s a group on Letterboxd that runs a monthly movie Scavenger Hunt , with a new host each month, that creates prompts for each day. Like: ‘watch a film from a country you want to visit.’ It really helps expand your movie horizon.",
+   "section": "crowdsourced",
+   "recommender": "Allyn (reader)"
+  },
+  {
+   "id": "2025-02-09-a-monthly-movie-scavenger-hunt",
+   "name": "a monthly movie Scavenger Hunt",
+   "url": "https://letterboxd.com/urfactual/list/2025-scavenger-hunt/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "There’s a group on Letterboxd that runs a monthly movie Scavenger Hunt , with a new host each month, that creates prompts for each day. Like: ‘watch a film from a country you want to visit.’ It really helps expand your movie horizon.",
+   "section": "crowdsourced",
+   "recommender": "Allyn (reader)"
+  },
+  {
+   "id": "2025-02-09-sonos-beam-second-gen",
+   "name": "Sonos Beam (second-gen)",
+   "url": "https://www.sonos.com/https://www.dpbolvw.net/click-8836598-11556673?sid=VergeNewsletter020725&url=https://www.sonos.com/en-us/shop/beamen-us/shop/beam",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I bought a Sonos Beam (second-gen) , and it is such a huge upgrade over my TV’s speakers. I am kicking myself for not doing it years ago.",
+   "section": "crowdsourced",
+   "recommender": "Joshua (reader)"
+  },
+  {
+   "id": "2025-02-09-wikitok",
+   "name": "WikiTok",
+   "url": "https://wikitok.vercel.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I probably use TikTok too much, but in addition to all the Office bloopers and stand-up clips it shows me, the thing I like most about it is the interface.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-09-reddtok",
+   "name": "ReddTok",
+   "url": "https://reddtok.vercel.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I probably use TikTok too much, but in addition to all the Office bloopers and stand-up clips it shows me, the thing I like most about it is the interface.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

@@ -1,0 +1,487 @@
+{
+ "schema": 1,
+ "date": "2026-07-25",
+ "post_type": "issue",
+ "title": "Folding and flipping phones are getting seriously good",
+ "url": "https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer",
+ "author": "David Pierce",
+ "number": 137,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:41+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-07-25-google-zero",
+   "name": "Google Zero",
+   "url": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html?unlocked_article_code=1.zVA.A1LZ.AwMkNDLrNcPc",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "free"
+   ],
+   "blurb": "This week, I’ve been reading about Google Zero and armored cars for rich people , watching a lot of That’s a Bad Idea videos now that YouTube knows my love for Curry Barker, testing the new 2Do redesign for my tasks, watching this excellent doc about the legendary designer Susan Kare, obsessing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-25-armored-cars-for-rich-people",
+   "name": "armored cars for rich people",
+   "url": "https://www.nytimes.com/2026/07/20/style/armored-cars-bulletproof-american-drivers.html",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
+   "blurb": "This week, I’ve been reading about Google Zero and armored cars for rich people , watching a lot of That’s a Bad Idea videos now that YouTube knows my love for Curry Barker, testing the new 2Do redesign for my tasks, watching this excellent doc about the legendary designer Susan Kare, obsessing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-25-thats-a-bad-idea",
+   "name": "That’s a Bad Idea",
+   "url": "https://www.youtube.com/@thats_a_bad_idea",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Google Zero and armored cars for rich people , watching a lot of That’s a Bad Idea videos now that YouTube knows my love for Curry Barker, testing the new 2Do redesign for my tasks, watching this excellent doc about the legendary designer Susan Kare, obsessing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-25-new-2do-redesign",
+   "name": "new 2Do redesign",
+   "url": "https://www.2doapp.com/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "ios"
+   ],
+   "blurb": "This week, I’ve been reading about Google Zero and armored cars for rich people , watching a lot of That’s a Bad Idea videos now that YouTube knows my love for Curry Barker, testing the new 2Do redesign for my tasks, watching this excellent doc about the legendary designer Susan Kare, obsessing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-25-this-excellent-doc",
+   "name": "this excellent doc",
+   "url": "https://www.youtube.com/watch?v=JOqjtRPvZuo",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Google Zero and armored cars for rich people , watching a lot of That’s a Bad Idea videos now that YouTube knows my love for Curry Barker, testing the new 2Do redesign for my tasks, watching this excellent doc about the legendary designer Susan Kare, obsessing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-25-the-jauffres-sounds-tiktok",
+   "name": "the Jauffre’s Sounds TikTok",
+   "url": "https://www.tiktok.com/@jauffres_sounds",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "social",
+    "video",
+    "free"
+   ],
+   "blurb": "This week, I’ve been reading about Google Zero and armored cars for rich people , watching a lot of That’s a Bad Idea videos now that YouTube knows my love for Curry Barker, testing the new 2Do redesign for my tasks, watching this excellent doc about the legendary designer Susan Kare, obsessing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-25-mononote",
+   "name": "Mononote",
+   "url": "https://apps.apple.com/us/app/mononote-one-note/id6788222857",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "This week, I’ve been reading about Google Zero and armored cars for rich people , watching a lot of That’s a Bad Idea videos now that YouTube knows my love for Curry Barker, testing the new 2Do redesign for my tasks, watching this excellent doc about the legendary designer Susan Kare, obsessing…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-25-the-samsung-galaxy-z-fold-8",
+   "name": "The Samsung Galaxy Z Fold 8",
+   "url": "https://www.samsung.com/us/smartphones/galaxy-z-fold8/",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
+   "blurb": "I haven’t held this new wide foldable yet, but almost everyone who does seems to immediately think it’s the right shape and size. Yes, it’s still twice the price it needs to be to really be competitive, but I think Samsung is finally starting to make a compelling argument for foldables.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-25-tagline",
+   "name": "Tagline",
+   "url": "https://www.merriam-webster.com/games/tagline",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [
+    "free",
+    "web"
+   ],
+   "blurb": "Fun new game from the folks at Merriam-Webster in which you have to solve three puzzles with words made from the same seven letters. It is tough ! It’s also a perfect middle ground between word games and trivia games, and I’m very much enjoying failing at it every day.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-25-the-xteink-x4-pro",
+   "name": "The Xteink X4 Pro",
+   "url": "https://www.xteink.com/products/xteink-x4pro",
+   "alt_urls": [
+    "https://www.theverge.com/tech/970618/onyx-boox-picco-ereader-xteink",
+    "https://www.theverge.com/tech/966560/xteink-e-ink-e-reader-x4-pro-touchscreen-light-hands-on"
+   ],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "Tiny e-readers are officially a thing. (Even Boox is making one !) I could take or leave the touchscreen on the new $99 model , but the built-in light makes it immediately the best of the bunch. I cannot believe how many people tell me they love these little devices.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-25-technically-competent-installing-linux",
+   "name": "Technically Competent: Installing Linux",
+   "url": "https://www.youtube.com/watch?v=W4V4OJ_NClc",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Technically Competent: Installing Linux .” I love the McElroy family ( MBMBAM forever), but I did not expect to be here appreciating their tech prowess! But this is a fun, funny video that is also a helpful and approachable intro to the Linux world.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-25-the-dink",
+   "name": "The Dink",
+   "url": "https://www.themoviedb.org/movie/1361774-the-dink?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Is this recommendation completely biased by my love for Jake Johnson and New Girl ? Very much so. But I do think pickleball culture is a perfect setting for jokes, and boy are there not enough 100-minute comedy movies out there now. I’m in on this one.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-25-splatoon-raiders",
+   "name": "Splatoon Raiders",
+   "url": "https://www.nintendo.com/us/store/products/splatoon-raiders-switch-2/",
+   "alt_urls": [
+    "https://www.theverge.com/entertainment/968220/splatoon-raiders-review-nintendo-switch-2"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "The Splatoon aesthetic, with paintball fights and hyper-colored everything, is very much my thing. Online team-based shooters… aren’t, really. This one is much more single-player , much lower-stakes, and much more my speed.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-25-its-been-a-wild-year",
+   "name": "It’s been a wild year",
+   "url": "https://www.youtube.com/watch?v=8sM-4ODLS2Q",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ It’s been a wild year .” I’ve really enjoyed C. Scott Brown’s YouTube channel, and really appreciated his raw take on his first year as a YouTuber.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-25-the-peak-design-field-bracket",
+   "name": "The Peak Design Field Bracket",
+   "url": "https://www.kickstarter.com/projects/peak-design/field-bracket-by-peak-design",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [
+    "kickstarter"
+   ],
+   "blurb": "A really clever camera accessory from a company that knows how to make ’em. Between the two models, it supports most cameras, and in addition to more easy vertical shooting it also adds Find My compatibility, new straps, and ways to add even more accessories.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-25-avatar-aang-the-last-airbender",
+   "name": "Avatar Aang: The Last Airbender",
+   "url": "https://www.themoviedb.org/movie/980431-avatar-aang-the-last-airbender?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "The Avatar lore is so deep that this new movie apparently has a whole “Previously On” sequence at the beginning! Love that. The consensus for this one seems to be something along the lines of “looks great, meh story,” which means it’ll probably at least be a good time.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-07-25-a-light-phone-iii",
+   "name": "A Light Phone III",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: A Light Phone III.",
+   "section": "screen-share",
+   "recommender": "Kai"
+  },
+  {
+   "id": "2026-07-25-pglang",
+   "name": "pgLang",
+   "url": "https://pg-lang.com/",
+   "alt_urls": [],
+   "category": "other",
+   "tags": [],
+   "blurb": "Most of the tools on my phones are pretty straightforward: phone for calls and texts, directions / maps, music, etc. The “Language” tool is a customized tool we created for Dave Free and Kendrick Lamar’s pgLang back in 2023.",
+   "section": "screen-share",
+   "recommender": "Kai"
+  },
+  {
+   "id": "2026-07-25-nasas-public-image-and-video-library",
+   "name": "NASA’s public image and video library",
+   "url": "https://images.nasa.gov/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "website",
+    "photography",
+    "video"
+   ],
+   "blurb": "NASA’s public image and video library ! I can spend hours looking at those and pondering how insignificant and at the same time magical we are here on this spinning/flying ball called Earth.",
+   "section": "screen-share",
+   "recommender": "Kai"
+  },
+  {
+   "id": "2026-07-25-rockland-astronomy-club",
+   "name": "Rockland Astronomy Club",
+   "url": "https://www.rocklandastronomy.com/index.html",
+   "alt_urls": [],
+   "category": "other",
+   "tags": [],
+   "blurb": "I also joined a local astronomy club called Rockland Astronomy Club , a non-profit astronomy education organization. I found them while I was trying to find a real dark site near NYC to stargaze, and they are only a few hours’ drive away from the city!",
+   "section": "screen-share",
+   "recommender": "Kai"
+  },
+  {
+   "id": "2026-07-25-hamilton",
+   "name": "Hamilton",
+   "url": "https://hamiltonmusical.com/new-york/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "I also joined a local astronomy club called Rockland Astronomy Club , a non-profit astronomy education organization. I found them while I was trying to find a real dark site near NYC to stargaze, and they are only a few hours’ drive away from the city!",
+   "section": "screen-share",
+   "recommender": "Kai"
+  },
+  {
+   "id": "2026-07-25-summer-for-the-city",
+   "name": "Summer For The City",
+   "url": "https://www.lincolncenter.org/series/summer-for-the-city",
+   "alt_urls": [],
+   "category": "other",
+   "tags": [
+    "music"
+   ],
+   "blurb": "I also joined a local astronomy club called Rockland Astronomy Club , a non-profit astronomy education organization. I found them while I was trying to find a real dark site near NYC to stargaze, and they are only a few hours’ drive away from the city!",
+   "section": "screen-share",
+   "recommender": "Kai"
+  },
+  {
+   "id": "2026-07-25-the-incident-at-galley-house",
+   "name": "The Incident at Galley House",
+   "url": "https://galley.house/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "The Incident at Galley House was released last week and I finished it yesterday. It’s a brilliantly voice-acted, lushly-illustrated remake of last year’s Type Help , one of the best deduction games I’ve ever played.",
+   "section": "crowdsourced",
+   "recommender": "Andy (reader)"
+  },
+  {
+   "id": "2026-07-25-type-help",
+   "name": "Type Help",
+   "url": "https://william-rous.itch.io/type-help",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "The Incident at Galley House was released last week and I finished it yesterday. It’s a brilliantly voice-acted, lushly-illustrated remake of last year’s Type Help , one of the best deduction games I’ve ever played.",
+   "section": "crowdsourced",
+   "recommender": "Andy (reader)"
+  },
+  {
+   "id": "2026-07-25-the-hawk",
+   "name": "The Hawk",
+   "url": "https://www.themoviedb.org/tv/254528-the-hawk",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The Hawk on Netflix. Will Ferrell is like a comfort hug for a millennial 😂",
+   "section": "crowdsourced",
+   "recommender": "Tyler (reader)"
+  },
+  {
+   "id": "2026-07-25-the-new-guys",
+   "name": "The New Guys",
+   "url": "https://www.harpercollins.com/products/the-new-guys-meredith-bagby?variant=41058530328610",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
+   "blurb": "The New Guys audiobook is a delightful author-read book about the Shuttle series of astronauts. I cannot recommend it enough as a sequel to A Man on the Moon .",
+   "section": "crowdsourced",
+   "recommender": "James (reader)"
+  },
+  {
+   "id": "2026-07-25-a-man-on-the-moon",
+   "name": "A Man on the Moon",
+   "url": "https://www.penguinrandomhouse.com/books/773345/a-man-on-the-moon-by-andrew-chaikin/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
+   "blurb": "The New Guys audiobook is a delightful author-read book about the Shuttle series of astronauts. I cannot recommend it enough as a sequel to A Man on the Moon .",
+   "section": "crowdsourced",
+   "recommender": "James (reader)"
+  },
+  {
+   "id": "2026-07-25-unrailed",
+   "name": "Unrailed",
+   "url": "https://www.nintendo.com/us/store/products/unrailed-switch/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "My wife and I have been playing Unrailed on Switch Online with her sister and husband… it’s like Overcooked but more laid back.",
+   "section": "crowdsourced",
+   "recommender": "Dan (reader)"
+  },
+  {
+   "id": "2026-07-25-overcooked",
+   "name": "Overcooked",
+   "url": "https://www.nintendo.com/us/store/products/overcooked-all-you-can-eat-switch/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "My wife and I have been playing Unrailed on Switch Online with her sister and husband… it’s like Overcooked but more laid back.",
+   "section": "crowdsourced",
+   "recommender": "Dan (reader)"
+  },
+  {
+   "id": "2026-07-25-the-boroughs",
+   "name": "The Boroughs",
+   "url": "https://www.themoviedb.org/tv/224941-the-boroughs?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The Boroughs is a really cool show starring an older cast and it’s very cool to see a hip, relevant sci-fi show led by an older cast, touching on really relevant social topics. It’s fantastic so far.",
+   "section": "crowdsourced",
+   "recommender": "Shane (reader)"
+  },
+  {
+   "id": "2026-07-25-candela-camera",
+   "name": "Candela Camera",
+   "url": "https://play.google.com/store/apps/details?id=com.candelacamera&hl=en_US",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "The App Store is full of great film-simulation camera apps, but those kinds of apps on Android are sketchy garbage that take bad photos. Not Candela Camera , though!",
+   "section": "crowdsourced",
+   "recommender": "Evancito (reader)"
+  },
+  {
+   "id": "2026-07-25-dead-hand-rule",
+   "name": "Dead Hand Rule",
+   "url": "https://us.macmillan.com/books/9781250290366/deadhandrule/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
+   "blurb": "Reading Dead Hand Rule by Max Gladstone. Necromantic lawyers, magic capitalism, it’s a real vibe. Not everyone’s cup of tea, but I’ve enjoyed every book he’s written in the setting.",
+   "section": "crowdsourced",
+   "recommender": "Vernacular Ham (reader)"
+  },
+  {
+   "id": "2026-07-25-open-minis",
+   "name": "Open Minis",
+   "url": "https://openminis.app/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "ios"
+   ],
+   "blurb": "Open Minis . After reading Federico Viticci’s article , I immediately installed it and linked it to Claude. Watching it do agentic things ON MY PHONE is mesmerizing.",
+   "section": "crowdsourced",
+   "recommender": "Burns (reader)"
+  },
+  {
+   "id": "2026-07-25-federico-viticcis-article",
+   "name": "Federico Viticci’s article",
+   "url": "https://www.macstories.net/reviews/open-minis-is-the-ios-agent-i-wish-siri-ai-could-be/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
+   "blurb": "Open Minis . After reading Federico Viticci’s article , I immediately installed it and linked it to Claude. Watching it do agentic things ON MY PHONE is mesmerizing.",
+   "section": "crowdsourced",
+   "recommender": "Burns (reader)"
+  },
+  {
+   "id": "2026-07-25-backbone-pro",
+   "name": "Backbone Pro",
+   "url": "https://backbone.com/products/backbone-pro",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "I recently started playing some video games again. I was doing some Game Boy emulation. Touch controls kinda stink, so I grabbed a used Backbone Pro and was instantly a convert. The experience is great and is a great way to turn any phone into a top-tier game console.",
+   "section": "crowdsourced",
+   "recommender": "Tanner (reader)"
+  },
+  {
+   "id": "2026-07-25-kill-the-newsletter",
+   "name": "Kill the Newsletter",
+   "url": "https://kill-the-newsletter.com/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "newsletter",
+    "open-source",
+    "web"
+   ],
+   "blurb": "Last week, when we talked about reading setups, I ended by asking you for tips on dealing with newsletters. I got a bunch, but the vast majority of them amounted to something like: “I just get them in my email and deal with it.” Fair enough! Same, honestly.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

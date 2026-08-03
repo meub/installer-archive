@@ -1,0 +1,508 @@
+{
+ "schema": 1,
+ "date": "2024-10-20",
+ "post_type": "issue",
+ "title": "Time to upgrade your reading gadgets",
+ "url": "https://www.theverge.com/2024/10/20/24273552/kindle-colorsoft-paperwhite-ipad-mini-sonos-arc-installer",
+ "author": "David Pierce",
+ "number": 57,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:35+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-10-20-sports-betting",
+   "name": "sports betting",
+   "url": "https://www.nytimes.com/athletic/5777632/2024/10/14/sports-betting-addiction-problem-fans/?source=user_shared_article",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about sports betting and designer proteins and the Ford Bronco , listening to Bon Iver’s new Sable and Brian Eno’s old Music for Airports on repeat, watching Archer and Unstable , desperately trying to find a better controller for the Nintendo Switch, and finally…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-20-designer-proteins",
+   "name": "designer proteins",
+   "url": "https://www.newyorker.com/tech/annals-of-technology/the-promise-of-designer-protein-in-the-fight-against-covid-19",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about sports betting and designer proteins and the Ford Bronco , listening to Bon Iver’s new Sable and Brian Eno’s old Music for Airports on repeat, watching Archer and Unstable , desperately trying to find a better controller for the Nintendo Switch, and finally…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-20-the-ford-bronco",
+   "name": "the Ford Bronco",
+   "url": "https://www.gq.com/story/your-first-electric-car-could-be-a-vintage-ford-bronco",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about sports betting and designer proteins and the Ford Bronco , listening to Bon Iver’s new Sable and Brian Eno’s old Music for Airports on repeat, watching Archer and Unstable , desperately trying to find a better controller for the Nintendo Switch, and finally…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-20-sable",
+   "name": "Sable",
+   "url": "https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "This week, I’ve been reading about sports betting and designer proteins and the Ford Bronco , listening to Bon Iver’s new Sable and Brian Eno’s old Music for Airports on repeat, watching Archer and Unstable , desperately trying to find a better controller for the Nintendo Switch, and finally…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-20-music-for-airports",
+   "name": "Music for Airports",
+   "url": "https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "This week, I’ve been reading about sports betting and designer proteins and the Ford Bronco , listening to Bon Iver’s new Sable and Brian Eno’s old Music for Airports on repeat, watching Archer and Unstable , desperately trying to find a better controller for the Nintendo Switch, and finally…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-20-archer",
+   "name": "Archer",
+   "url": "https://www.themoviedb.org/tv/10283-archer?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about sports betting and designer proteins and the Ford Bronco , listening to Bon Iver’s new Sable and Brian Eno’s old Music for Airports on repeat, watching Archer and Unstable , desperately trying to find a better controller for the Nintendo Switch, and finally…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-20-unstable",
+   "name": "Unstable",
+   "url": "https://www.themoviedb.org/tv/219788-unstable?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about sports betting and designer proteins and the Ford Bronco , listening to Bon Iver’s new Sable and Brian Eno’s old Music for Airports on repeat, watching Archer and Unstable , desperately trying to find a better controller for the Nintendo Switch, and finally…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-20-senior-tech-editor",
+   "name": "senior tech editor",
+   "url": "https://job-boards.greenhouse.io/voxmedia/jobs/6339581?gh_jid=6339581",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I also have for you an unusually gadget-heavy week: new Kindles, new iPads, new retro game consoles, and much more.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-20-a-deputy-editor",
+   "name": "a deputy editor",
+   "url": "https://job-boards.greenhouse.io/voxmedia/jobs/6312569?gh_jid=6312569",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I also have for you an unusually gadget-heavy week: new Kindles, new iPads, new retro game consoles, and much more.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-20-the-kindle-colorsoft-signature-edition",
+   "name": "The Kindle Colorsoft Signature Edition",
+   "url": "https://www.amazon.com/dp/B0CN3XR57P?tag=theverge02-20",
+   "alt_urls": [
+    "https://www.amazon.com/dp/B0CFPJYX7P?tag=theverge02-20"
+   ],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "I suspect the new Paperwhite will actually be the right new Kindle for most people (and it is really nice), but there’s something about the color model that is just so enticing. Particularly if you’re a comics reader, this thing looks like a winner.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-20-the-new-ipad-mini",
+   "name": "The new iPad Mini",
+   "url": "http://apple.sjv.io/baWDvP",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve always hoped Apple would decide to do something awesome and new with the iPad Mini. And Apple never does. But I love the Mini all the same, and at the very least, this one is a thoroughly modern iPad that can do every iPad thing. I’ll take that.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-20-the-dji-air-3s",
+   "name": "The DJI Air 3S",
+   "url": "https://www.dji.com/air-3s",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The new midrange drone in DJI’s lineup has a bunch of nice upgrades but really only one purpose: to work well in the dark. The 3S is built to fly safer, capture better images, and return home more easily, all without being able to see very well.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-20-the-sonos-arc-ultra",
+   "name": "The Sonos Arc Ultra",
+   "url": "https://www.anrdoezrs.net/click-8836598-11556673?url=https://www.sonos.com/en-us/shop/arc-ultra",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Yeah, the app sucks, but Sonos still makes great-sounding stuff. And I think if you’re going to buy one piece of home stereo gear, a soundbar is the way. If the surround-sound tech works half as well as the company says, this one’s a winner.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-20-the-analogue-3d",
+   "name": "The Analogue 3D",
+   "url": "https://store.analogue.co/products/analogue-3d-black",
+   "alt_urls": [
+    "https://www.theverge.com/2024/10/16/24265587/analogue-3d-nintendo-64-price-preorder-date"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I have been waiting for Analogue’s Nintendo 64 console for what feels like forever, and this 4K upscaling machine is exactly what I hoped it’d be . It doesn’t ship until next year, and you can’t preorder it until Monday, but I’m telling you now because I’d bet good money it’ll sell out in a hurry.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-20-fanatical-the-catfishing-of-tegan-and-sara",
+   "name": "Fanatical: The Catfishing of Tegan and Sara",
+   "url": "https://www.themoviedb.org/movie/1323299-fanatical-the-catfishing-of-tegan-and-sara",
+   "alt_urls": [
+    "https://www.theverge.com/c/24247055/2004-tech-internet-gadgets-phones-pop-culture"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Maybe I’m still in a 2004-y mood , so anything Tegan and Sara catches my eye, but this is a wild story: about a specific identity theft, about what happens when fandom gets weird, and so much more.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-20-eater-for-ios",
+   "name": "Eater for iOS",
+   "url": "https://www.eater.com/24265367/eater-app-where-to-download",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is exactly what I can never get Google Maps to be: just a million maps of cool, good restaurants. Eater ’s taste often skews a little fancy and expensive, but I’ve rarely gone wrong trusting its recommendations.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-20-shrinking-season-2",
+   "name": "Shrinking season 2",
+   "url": "https://www.themoviedb.org/tv/136311-shrinking?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "One of my favorite shows of the last few years is back! If you haven’t watched the first season of this show that is somehow both very bleak and very funny, you should. And then you should watch the second season immediately and tell me all your thoughts. I’ll be ready.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-20-super-mario-party-jamboree",
+   "name": "Super Mario Party Jamboree",
+   "url": "https://www.nintendo.com/us/store/products/super-mario-party-jamboree-switch/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I think Mario Party 64 might be my all-time most-played video game. (It’s either that or GoldenEye.) This new entrant in the series adds lots of new minigames and some really fun-looking new boards — it looks like a perfect group game.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-20-samsung-galaxy-s24",
+   "name": "Samsung Galaxy S24",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: Samsung Galaxy S24.",
+   "section": "screen-share",
+   "recommender": "Adi"
+  },
+  {
+   "id": "2024-10-20-libby",
+   "name": "Libby",
+   "url": "https://libbyapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Libby : While I fully support the idea of library-managed controlled digital lending, I can’t deny the convenient pipeline of borrowing a book from the New York and Brooklyn public libraries through Libby and having it appear instantly on my Kobo reader.",
+   "section": "screen-share",
+   "recommender": "Adi"
+  },
+  {
+   "id": "2024-10-20-paprika",
+   "name": "Paprika",
+   "url": "https://www.paprikaapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Paprika : In an era of link rot and paywalls, this is the best service I’ve found for opening a recipe on the internet, downloading a personal copy, and keeping it permanently on my phone for reference. (There’s also a desktop version.)",
+   "section": "screen-share",
+   "recommender": "Adi"
+  },
+  {
+   "id": "2024-10-20-stash2go",
+   "name": "Stash2Go",
+   "url": "https://stash2go.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Stash2Go : I don’t knit as much as I used to (infants and giant needles present some obvious problems), but I’m an avid Ravelry user, and when I started knitting, this was the best third-party app I found.",
+   "section": "screen-share",
+   "recommender": "Adi"
+  },
+  {
+   "id": "2024-10-20-bluesky",
+   "name": "Bluesky",
+   "url": "https://bsky.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Bluesky : When Twitter’s user base started splintering, I wasn’t sure Bluesky would make it!",
+   "section": "screen-share",
+   "recommender": "Adi"
+  },
+  {
+   "id": "2024-10-20-librarything",
+   "name": "LibraryThing",
+   "url": "https://www.librarything.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "LibraryThing : With absolutely no disrespect to the creator of LibraryThing: I do not like LibraryThing. I do not like the complicated sorting and annotation features I never use. I do not like that, half the time, adding a book to my library requires restarting the app.",
+   "section": "screen-share",
+   "recommender": "Adi"
+  },
+  {
+   "id": "2024-10-20-feedly",
+   "name": "Feedly",
+   "url": "https://feedly.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Feedly : I keep up with news and essays on RSS. I got a Feedly account when Google Reader shut down. It works pretty well, and I’m happy with it. I am a simple woman, set in my ways.",
+   "section": "screen-share",
+   "recommender": "Adi"
+  },
+  {
+   "id": "2024-10-20-wikipedia",
+   "name": "Wikipedia",
+   "url": "https://m.mediawiki.org/wiki/Wikimedia_Apps",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Wikipedia : This is my Instagram. I’ve lost hours scrolling it. My current tabs include Charlotta Bass (the first Black woman to own and operate a US newspaper), Daigo Fukuryū Maru (the Japanese fishing boat, contaminated with radioactive fallout in the 1950s, that partially inspired Godzilla )…",
+   "section": "screen-share",
+   "recommender": "Adi"
+  },
+  {
+   "id": "2024-10-20-the-book-of-elsewhere",
+   "name": "The Book of Elsewhere",
+   "url": "https://thebookofelsewhere.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m currently reading The Book of Elsewhere by Keanu Reeves and China Miéville. I’ve barely started, but I generally like Keanu Reeves’ taste, and China Miéville is one of my favorite authors, so a collaboration between them is too delightful a prospect to miss.",
+   "section": "screen-share",
+   "recommender": "Adi"
+  },
+  {
+   "id": "2024-10-20-uzumaki",
+   "name": "Uzumaki",
+   "url": "https://www.themoviedb.org/tv/93241-uzumaki?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’m currently reading The Book of Elsewhere by Keanu Reeves and China Miéville. I’ve barely started, but I generally like Keanu Reeves’ taste, and China Miéville is one of my favorite authors, so a collaboration between them is too delightful a prospect to miss.",
+   "section": "screen-share",
+   "recommender": "Adi"
+  },
+  {
+   "id": "2024-10-20-dredge",
+   "name": "Dredge",
+   "url": "https://www.dredge.game/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m currently reading The Book of Elsewhere by Keanu Reeves and China Miéville. I’ve barely started, but I generally like Keanu Reeves’ taste, and China Miéville is one of my favorite authors, so a collaboration between them is too delightful a prospect to miss.",
+   "section": "screen-share",
+   "recommender": "Adi"
+  },
+  {
+   "id": "2024-10-20-codenames",
+   "name": "Codenames",
+   "url": "https://codenamesapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve found and been playing a whole lot of Codenames , a new app version of the board game. It is incredibly well-thought-out, with lots of fun variations and cool ideas. It’s also a one-time purchase, which I really appreciate!",
+   "section": "crowdsourced",
+   "recommender": "Joel (reader)"
+  },
+  {
+   "id": "2024-10-20-hearing-things",
+   "name": "Hearing Things",
+   "url": "https://www.hearingthings.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Some former Pitchfork folks started their own thing called Hearing Things and started it off with a killer playlist of the best music of the decade so far. And before anyone asks",
+   "section": "crowdsourced",
+   "recommender": "yes, they do have a ‘blog’ section.” – Christine (reader)"
+  },
+  {
+   "id": "2024-10-20-a-killer-playlist",
+   "name": "a killer playlist",
+   "url": "https://www.hearingthings.co/100-songs-that-define-our-decade-so-far/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Some former Pitchfork folks started their own thing called Hearing Things and started it off with a killer playlist of the best music of the decade so far. And before anyone asks",
+   "section": "crowdsourced",
+   "recommender": "yes, they do have a ‘blog’ section.” – Christine (reader)"
+  },
+  {
+   "id": "2024-10-20-six-four",
+   "name": "Six Four",
+   "url": "https://us.macmillan.com/books/9781250160003/sixfour",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just finished Hideo Yokoyama’s Six Four . It has to be the weirdest, most unique crime fiction I’ve ever read. Highly recommend it.",
+   "section": "crowdsourced",
+   "recommender": "Laszlo (reader)"
+  },
+  {
+   "id": "2024-10-20-duckduckgo-ai-chat",
+   "name": "DuckDuckGo AI Chat",
+   "url": "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I really like DuckDuckGo AI Chat , which includes the ChatGPT, Claude, Llama, and Mixtral models, where chats are private and are never saved or used to train AI models. As a privacy-focused user, I find this really helpful.",
+   "section": "crowdsourced",
+   "recommender": "Shyam (reader)"
+  },
+  {
+   "id": "2024-10-20-brat-remix-album",
+   "name": "Brat remix album",
+   "url": "https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR?si=G0wzQXleShC87f42oZOb1Q",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "Charli XCX’s Brat remix album — the hottest guest lineup since the pandemic.",
+   "section": "crowdsourced",
+   "recommender": "Dariusz (reader)"
+  },
+  {
+   "id": "2024-10-20-simplehuman-trash-cans",
+   "name": "Simplehuman trash cans",
+   "url": "https://www.simplehuman.com/products/small-slim-step-can-5l?variant=42820157636739",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s dumb, overpriced, and over-engineered. I just got three of these Simplehuman trash cans for my bathrooms. It’s built like a tank, and these things will go with me to my grave.",
+   "section": "crowdsourced",
+   "recommender": "Brian (reader)"
+  },
+  {
+   "id": "2024-10-20-rusty-lake",
+   "name": "Rusty Lake",
+   "url": "https://www.rustylake.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Here’s a fun game you should look into: the studio is called Rusty Lake , and they have 15–20 point-and-click games that all are connected to an overall story. It deals with murder, reincarnation, and family, and they’re really good! I would start with Paradox because that’s the one I started with.",
+   "section": "crowdsourced",
+   "recommender": "Levi (reader)"
+  },
+  {
+   "id": "2024-10-20-paradox",
+   "name": "Paradox",
+   "url": "https://www.rustylake.com/room-escape-games/cube-escape-paradox.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Here’s a fun game you should look into: the studio is called Rusty Lake , and they have 15–20 point-and-click games that all are connected to an overall story. It deals with murder, reincarnation, and family, and they’re really good! I would start with Paradox because that’s the one I started with.",
+   "section": "crowdsourced",
+   "recommender": "Levi (reader)"
+  },
+  {
+   "id": "2024-10-20-minesweeper",
+   "name": "Minesweeper",
+   "url": "https://help.netflix.com/en/node/134262",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "Discovered Netflix has a Minesweeper in their games catalog. It’s nothing special, but it’s a solid, polished version of the game, and it’s been my default mobile game for the last week.",
+   "section": "crowdsourced",
+   "recommender": "Justin (reader)"
+  },
+  {
+   "id": "2024-10-20-the-dispossessed",
+   "name": "The Dispossessed",
+   "url": "https://www.ursulakleguin.com/dispossessed",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Been on an Ursula K. Le Guin kick and reading The Dispossessed . It goes deep into thinking what a society based on anarchist principles would be like, plus tons of mid-century sci-fi goodness.",
+   "section": "crowdsourced",
+   "recommender": "Richard (reader)"
+  },
+  {
+   "id": "2024-10-20-cabel-sassers-talk-from-the-xoxo-conference",
+   "name": "Cabel Sasser’s talk from the XOXO conference",
+   "url": "https://www.youtube.com/watch?v=Df_K7pIsfvg",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’m sure (or at least I hope) I’m the 9,000th person to tell you to watch Cabel Sasser’s talk from the XOXO conference this year. Honestly, most of the talks from XOXO are great if you care about the internet and creativity and art and stuff, but Sasser’s was my favorite.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-10-20-the-talks-from-xoxo",
+   "name": "the talks from XOXO",
+   "url": "https://waxy.org/2024/10/the-xoxo-2024-talks/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m sure (or at least I hope) I’m the 9,000th person to tell you to watch Cabel Sasser’s talk from the XOXO conference this year. Honestly, most of the talks from XOXO are great if you care about the internet and creativity and art and stuff, but Sasser’s was my favorite.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

@@ -1,0 +1,454 @@
+{
+ "schema": 1,
+ "date": "2025-05-25",
+ "post_type": "issue",
+ "title": "Summer blockbuster season is here",
+ "url": "https://www.theverge.com/installer-newsletter/673547/mission-impossible-fortnite-stream-deck-installer",
+ "author": "David Pierce",
+ "number": 84,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-05-25-mubi",
+   "name": "Mubi",
+   "url": "https://variety.com/2025/film/features/mubi-worth-billion-streamer-taking-on-a24-1236395959/?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Mubi and Around The Horn and millennial tech , moving all my journals to Diarly , trying out Matt D’Avella’s workout routine , catching up on Clarkson’s Farm , wishing desperately that Philly Justice was a real show, watching a lot of Helper Cars with my toddler…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-25-around-the-horn",
+   "name": "Around The Horn",
+   "url": "https://www.washingtonpost.com/sports/2025/05/20/tony-reali-espn-around-horn-canceled/?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Mubi and Around The Horn and millennial tech , moving all my journals to Diarly , trying out Matt D’Avella’s workout routine , catching up on Clarkson’s Farm , wishing desperately that Philly Justice was a real show, watching a lot of Helper Cars with my toddler…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-25-millennial-tech",
+   "name": "millennial tech",
+   "url": "https://www.theringer.com/2025/05/09/pop-culture/millennial-technology-aol-napster-ipod-blackberry",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Mubi and Around The Horn and millennial tech , moving all my journals to Diarly , trying out Matt D’Avella’s workout routine , catching up on Clarkson’s Farm , wishing desperately that Philly Justice was a real show, watching a lot of Helper Cars with my toddler…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-25-diarly",
+   "name": "Diarly",
+   "url": "https://diarly.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Mubi and Around The Horn and millennial tech , moving all my journals to Diarly , trying out Matt D’Avella’s workout routine , catching up on Clarkson’s Farm , wishing desperately that Philly Justice was a real show, watching a lot of Helper Cars with my toddler…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-25-matt-davellas-workout-routine",
+   "name": "Matt D’Avella’s workout routine",
+   "url": "https://www.youtube.com/watch?v=8o51DYWBj3s",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Mubi and Around The Horn and millennial tech , moving all my journals to Diarly , trying out Matt D’Avella’s workout routine , catching up on Clarkson’s Farm , wishing desperately that Philly Justice was a real show, watching a lot of Helper Cars with my toddler…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-25-clarksons-farm",
+   "name": "Clarkson’s Farm",
+   "url": "https://www.themoviedb.org/tv/117648-clarkson-s-farm",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Mubi and Around The Horn and millennial tech , moving all my journals to Diarly , trying out Matt D’Avella’s workout routine , catching up on Clarkson’s Farm , wishing desperately that Philly Justice was a real show, watching a lot of Helper Cars with my toddler…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-25-philly-justice",
+   "name": "Philly Justice",
+   "url": "https://www.youtube.com/watch?v=g6MbnxhVXSE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Mubi and Around The Horn and millennial tech , moving all my journals to Diarly , trying out Matt D’Avella’s workout routine , catching up on Clarkson’s Farm , wishing desperately that Philly Justice was a real show, watching a lot of Helper Cars with my toddler…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-25-helper-cars",
+   "name": "Helper Cars",
+   "url": "https://www.youtube.com/@HelperCars",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Mubi and Around The Horn and millennial tech , moving all my journals to Diarly , trying out Matt D’Avella’s workout routine , catching up on Clarkson’s Farm , wishing desperately that Philly Justice was a real show, watching a lot of Helper Cars with my toddler…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-25-sony-wh-1000xm6",
+   "name": "Sony WH-1000XM6",
+   "url": "https://www.kqzyfj.com/click-8836598-15268034?sid=VergeNewsletter052325&url=https%3A%2F%2Felectronics.sony.com%2Faudio%2Fheadphones%2Fheadband%2Fp%2Fwh1000xm6-b",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Mubi and Around The Horn and millennial tech , moving all my journals to Diarly , trying out Matt D’Avella’s workout routine , catching up on Clarkson’s Farm , wishing desperately that Philly Justice was a real show, watching a lot of Helper Cars with my toddler…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-25-fortnite",
+   "name": "Fortnite",
+   "url": "https://www.fortnite.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Mubi and Around The Horn and millennial tech , moving all my journals to Diarly , trying out Matt D’Avella’s workout routine , catching up on Clarkson’s Farm , wishing desperately that Philly Justice was a real show, watching a lot of Helper Cars with my toddler…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-25-unbelievably-deep-dive",
+   "name": "unbelievably deep dive",
+   "url": "https://www.theringer.com/podcasts/the-rewatchables/2025/05/05/star-wars-a-new-hope-part-one-with-bill-simmons-chris-ryan-sean-fennessey-and-van-lathan",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Mubi and Around The Horn and millennial tech , moving all my journals to Diarly , trying out Matt D’Avella’s workout routine , catching up on Clarkson’s Farm , wishing desperately that Philly Justice was a real show, watching a lot of Helper Cars with my toddler…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-25-mission-impossible-the-final-reckoning",
+   "name": "Mission: Impossible – The Final Reckoning",
+   "url": "https://www.themoviedb.org/movie/575265-mission-impossible-the-final-reckoning",
+   "alt_urls": [
+    "https://www.theverge.com/movie-reviews/671534/mission-impossible-the-final-reckoning-review"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I am a forever fan of the M:I series, and as silly as I find the whole “AI is the bad guy” bit, I have had a good time watching every single movie in this series. I’ll be in a humungous theater for this one ASAP.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-25-puzzmo-for-ios",
+   "name": "Puzzmo for iOS",
+   "url": "https://apps.apple.com/us/app/puzzmo-solve-smile-share/id6714482734",
+   "alt_urls": [
+    "https://www.puzzmo.com/game/really-bad-chess"
+   ],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Puzzmo’s web app is great, so I haven’t exactly been thirsting for a better mobile experience. And, as far as I can tell, the mobile app is just exactly the same thing as the web app. But, hey, I like the icon, and I like any reason to play more Really Bad Chess .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-25-the-onn-google-tv-4k-plus",
+   "name": "The Onn Google TV 4K Plus",
+   "url": "https://www.walmart.com/ip/ONN-4K-PLUS/15557424949?irgwc=1&veh=aff&wmlspartner_creator=imp_5184608&affiliates_ad_id_creator=1398372&campaign_id_creator=16662&clickid=UwNSppzFOxycU4JTvRz8q3EyUksTiWz503VeX00&sourceid=imp_UwNSppzFOxycU4JTvRz8q3EyUksTiWz503VeX00",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“A weirdly named, super-cheap set-top box from Walmart” is not a great pitch. But for $30, you’re not beating this thing’s combination of Google TV, Dolby Vision, and 4K. Onn stuff has been pretty good in the past, so I suspect this one will be pretty compelling.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-25-notebooklm-for-mobile",
+   "name": "NotebookLM for mobile",
+   "url": "https://blog.google/technology/ai/notebooklm-app/",
+   "alt_urls": [
+    "https://play.google.com/store/apps/details?id=com.google.android.apps.labs.language.tailwind&pli=1",
+    "https://apps.apple.com/us/app/google-notebooklm/id6737527615?pt=9008&ct=googleblog"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The Android and iOS versions are both fine and both useful for the same reason: you can send stuff to your notebooks via the share sheet. If you’re a fan of the podcast-y Audio Overviews, they’re also a great thing to have on the go.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-25-rick-and-morty-season-8",
+   "name": "Rick and Morty season 8",
+   "url": "https://www.themoviedb.org/tv/60625-rick-and-morty",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "We haven’t had a new season of my favorite unhinged animation sci-fi show in a year and a half, and I am so very excited to get back to some intergalactic and cross-universe shenanigans. I’ve been debating doing a full rewatch of the whole show and might just have to do it after this season.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-25-the-virtual-stream-deck",
+   "name": "The Virtual Stream Deck",
+   "url": "https://elgato.sjv.io/xLXZP1",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is so clever: Elgato is turning its collection of smart buttons from a lineup of gadgets to a full-on platform that you can either build into other hardware or just run on a screen.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-25-monster-train-2",
+   "name": "Monster Train 2",
+   "url": "https://www.bigfangames.com/games/monster-train-2",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I love the structure of this game: a deck-building game that is endlessly repeatable but also complex enough that you never quite play the same game twice. I somehow missed the first game in the series entirely, and I’m going to have to give that a whirl, too.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-25-strava-routes",
+   "name": "Strava routes",
+   "url": "https://www.strava.com/",
+   "alt_urls": [
+    "https://press.strava.com/articles/strava-unveils-suite-of-new-subscriber-features"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Strava’s an Installerverse favorite, and it got a bunch of new features this week. But, for my money, the biggest upgrade is the routing system, which generates the best route between two points; I love a good “map me the run to this donut shop” feature.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-25-iphone-xr",
+   "name": "iPhone XR",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone XR.",
+   "section": "screen-share",
+   "recommender": "Karen"
+  },
+  {
+   "id": "2025-05-25-brave",
+   "name": "Brave",
+   "url": "https://brave.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have a very boring homescreen! I try not to use too many apps. When I set up a phone, the first thing I do is delete as many of the default apps as possible.",
+   "section": "screen-share",
+   "recommender": "Karen"
+  },
+  {
+   "id": "2025-05-25-guitartuna",
+   "name": "GuitarTuna",
+   "url": "https://yousician.com/guitar-tuner",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The second: under my Audio folder, I have a guitar-tuning app, GuitarTuna , for the rare moments I fiddle with my guitar at home. Music was a big part of my childhood, but I haven’t made nearly enough time for it as an adult.",
+   "section": "screen-share",
+   "recommender": "Karen"
+  },
+  {
+   "id": "2025-05-25-empire",
+   "name": "Empire",
+   "url": "https://empirepod.supportingcast.fm/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Empire podcast, cohosted by historian William Dalrymple and Anita Anand. Wicked cast tour videos on YouTube (yes, I sing along to every song). Late-night comedy YouTube.",
+   "section": "screen-share",
+   "recommender": "Karen"
+  },
+  {
+   "id": "2025-05-25-wicked-cast-tour-videos",
+   "name": "Wicked cast tour videos",
+   "url": "https://www.youtube.com/@wicked_musical",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The Empire podcast, cohosted by historian William Dalrymple and Anita Anand. Wicked cast tour videos on YouTube (yes, I sing along to every song). Late-night comedy YouTube.",
+   "section": "screen-share",
+   "recommender": "Karen"
+  },
+  {
+   "id": "2025-05-25-elite-obsolete-electronics",
+   "name": "Elite Obsolete Electronics",
+   "url": "https://eoe.works/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "YouTube has recently radicalized me to digital minimalism and decentralized tech. What started as deleting ALL social media from my iPhone and relegating the apps to my iPad is now firmly in the realm of buying old iPods from eBay and repairing them with modern parts.",
+   "section": "crowdsourced",
+   "recommender": "Nicholas (reader)"
+  },
+  {
+   "id": "2025-05-25-rockbox",
+   "name": "RockBox",
+   "url": "https://www.rockbox.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "YouTube has recently radicalized me to digital minimalism and decentralized tech. What started as deleting ALL social media from my iPhone and relegating the apps to my iPad is now firmly in the realm of buying old iPods from eBay and repairing them with modern parts.",
+   "section": "crowdsourced",
+   "recommender": "Nicholas (reader)"
+  },
+  {
+   "id": "2025-05-25-toauto-ds90-soldering-station",
+   "name": "ToAuto DS90 Soldering Station",
+   "url": "https://www.toautotool.com/products/toauto-ds90-soldering-station-110v",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "YouTube has recently radicalized me to digital minimalism and decentralized tech. What started as deleting ALL social media from my iPhone and relegating the apps to my iPad is now firmly in the realm of buying old iPods from eBay and repairing them with modern parts.",
+   "section": "crowdsourced",
+   "recommender": "Nicholas (reader)"
+  },
+  {
+   "id": "2025-05-25-intowallet",
+   "name": "IntoWallet",
+   "url": "https://intowallet.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "What if you could add any plain old QR Code/barcode card to your Apple Wallet? Lucky for you, the greatest minds of our time have come together to solve this inconvenience. Try IntoWallet and get as blown away as I was when it just worked (also the level of customization and the price are great!).",
+   "section": "crowdsourced",
+   "recommender": "Teo (reader)"
+  },
+  {
+   "id": "2025-05-25-revelation-space",
+   "name": "Revelation Space",
+   "url": "https://store.gollancz.co.uk/products/revelation-space",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve REALLY enjoyed the Revelation Space series by Alastair Reynolds. For lovers of hard sci-fi space operas this is for you. Engaging, dark, wild ideas and concepts, plenty of real and imagined science and physics all weaved into interesting stories.",
+   "section": "crowdsourced",
+   "recommender": "Tyler (reader)"
+  },
+  {
+   "id": "2025-05-25-happier",
+   "name": "Happier",
+   "url": "https://thehappierapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve personally managed to seriously build my meditation practice in the last two years using both Happier and Calm . I especially enjoy the meditations by teacher Jeff Warren, who strikes the right balance with his light and playful tone.",
+   "section": "crowdsourced",
+   "recommender": "Jeroen (reader)"
+  },
+  {
+   "id": "2025-05-25-calm",
+   "name": "Calm",
+   "url": "https://www.calm.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve personally managed to seriously build my meditation practice in the last two years using both Happier and Calm . I especially enjoy the meditations by teacher Jeff Warren, who strikes the right balance with his light and playful tone.",
+   "section": "crowdsourced",
+   "recommender": "Jeroen (reader)"
+  },
+  {
+   "id": "2025-05-25-casper-glow",
+   "name": "Casper Glow",
+   "url": "https://casper.prf.hn/click/camref:1100l46JU6/%5Bp_id:1011l394533%5D/destination:https%3A%2F%2Fcasper.com%2Fproducts%2Fglow",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve had the Casper Glow lamp since 2019 and it’s still going strong! Love the interaction, twisting it and flipping it to control the light, and I even helped sell two (unsponsored) to an old roommate when he moved to his own place.",
+   "section": "crowdsourced",
+   "recommender": "SingYu (reader)"
+  },
+  {
+   "id": "2025-05-25-star-wars-the-rise-and-fall-of-the-galactic-empi",
+   "name": "Star Wars: The Rise and Fall of the Galactic Empire",
+   "url": "https://www.dk.com/us/book/9780744098822-star-wars-the-rise-and-fall-of-the-galactic-empire/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Post Andor I’ve been reading through Star Wars: The Rise and Fall of the Galactic Empire .",
+   "section": "crowdsourced",
+   "recommender": "Allen (reader)"
+  },
+  {
+   "id": "2025-05-25-teenage-engineering-case",
+   "name": "Teenage Engineering case",
+   "url": "https://teenage.engineering/products/computer-1",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Setup is (90%) finished! Rocking a Teenage Engineering case , HP G4 Dock , UGREEN USB Switcher , and a $60 standing desk from Facebook Marketplace.",
+   "section": "crowdsourced",
+   "recommender": "Jeremy (reader)"
+  },
+  {
+   "id": "2025-05-25-hp-g4-dock",
+   "name": "HP G4 Dock",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://www.hp.com/us-en/monitors-accessories/computer-accessories/thunderbolt-G4-dock.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Setup is (90%) finished! Rocking a Teenage Engineering case , HP G4 Dock , UGREEN USB Switcher , and a $60 standing desk from Facebook Marketplace.",
+   "section": "crowdsourced",
+   "recommender": "Jeremy (reader)"
+  },
+  {
+   "id": "2025-05-25-ugreen-usb-switcher",
+   "name": "UGREEN USB Switcher",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://www.ugreen.com/collections/hdmi-switch/products/ugreen-usb-3-0-4-port-switch",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Setup is (90%) finished! Rocking a Teenage Engineering case , HP G4 Dock , UGREEN USB Switcher , and a $60 standing desk from Facebook Marketplace.",
+   "section": "crowdsourced",
+   "recommender": "Jeremy (reader)"
+  },
+  {
+   "id": "2025-05-25-wallabag",
+   "name": "Wallabag",
+   "url": "https://wallabag.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I suppose I should give Wallabag an honorable mention, because you can host it yourself, but it’s a much more involved project. If I were just moving over from Pocket and just wanted a nice place to read without a long list of other feature requests, I’d start with Instapaper.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

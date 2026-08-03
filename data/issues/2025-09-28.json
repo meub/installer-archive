@@ -1,0 +1,512 @@
+{
+ "schema": 1,
+ "date": "2025-09-28",
+ "post_type": "issue",
+ "title": "I need a life cool enough for the new GoPro",
+ "url": "https://www.theverge.com/tech/787032/gopro-max-chatgpt-pulse-silent-hill-installer",
+ "author": "David Pierce",
+ "number": 99,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:39+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-09-28-lizzo",
+   "name": "Lizzo",
+   "url": "https://www.vulture.com/article/lizzo-comeback-lawsuit-canceled-zeitgeist-interview.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Lizzo and Uniqlo and book thieves and Max Verstappen , obsessing over both Black Rabbit and The Lowdown , eating aggressively too many Pop’ums pretzels , listening to everything in the AirPods Pro 3s , updating my old Ray-Ban Metas to see if the AI is any good…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-uniqlo",
+   "name": "Uniqlo",
+   "url": "https://www.newyorker.com/magazine/2025/09/22/inside-uniqlos-quest-for-global-dominance",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Lizzo and Uniqlo and book thieves and Max Verstappen , obsessing over both Black Rabbit and The Lowdown , eating aggressively too many Pop’ums pretzels , listening to everything in the AirPods Pro 3s , updating my old Ray-Ban Metas to see if the AI is any good…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-book-thieves",
+   "name": "book thieves",
+   "url": "https://www.economist.com/1843/2025/08/22/the-pushkin-heist-who-is-stealing-rare-editions-of-russian-classics",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Lizzo and Uniqlo and book thieves and Max Verstappen , obsessing over both Black Rabbit and The Lowdown , eating aggressively too many Pop’ums pretzels , listening to everything in the AirPods Pro 3s , updating my old Ray-Ban Metas to see if the AI is any good…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-max-verstappen",
+   "name": "Max Verstappen",
+   "url": "https://www.wsj.com/sports/max-verstappen-f1-red-bull-1908a855?st=JxbLCg",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Lizzo and Uniqlo and book thieves and Max Verstappen , obsessing over both Black Rabbit and The Lowdown , eating aggressively too many Pop’ums pretzels , listening to everything in the AirPods Pro 3s , updating my old Ray-Ban Metas to see if the AI is any good…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-black-rabbit",
+   "name": "Black Rabbit",
+   "url": "https://www.themoviedb.org/tv/249039-black-rabbit",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Lizzo and Uniqlo and book thieves and Max Verstappen , obsessing over both Black Rabbit and The Lowdown , eating aggressively too many Pop’ums pretzels , listening to everything in the AirPods Pro 3s , updating my old Ray-Ban Metas to see if the AI is any good…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-the-lowdown",
+   "name": "The Lowdown",
+   "url": "https://www.themoviedb.org/tv/273247-the-lowdown",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Lizzo and Uniqlo and book thieves and Max Verstappen , obsessing over both Black Rabbit and The Lowdown , eating aggressively too many Pop’ums pretzels , listening to everything in the AirPods Pro 3s , updating my old Ray-Ban Metas to see if the AI is any good…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-popums-pretzels",
+   "name": "Pop’ums pretzels",
+   "url": "https://www.snackfactory.com/product/sea-salt-popums/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Lizzo and Uniqlo and book thieves and Max Verstappen , obsessing over both Black Rabbit and The Lowdown , eating aggressively too many Pop’ums pretzels , listening to everything in the AirPods Pro 3s , updating my old Ray-Ban Metas to see if the AI is any good…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-airpods-pro-3s",
+   "name": "AirPods Pro 3s",
+   "url": "https://www.apple.com/shop/buy-airpods/airpods-pro-3",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Lizzo and Uniqlo and book thieves and Max Verstappen , obsessing over both Black Rabbit and The Lowdown , eating aggressively too many Pop’ums pretzels , listening to everything in the AirPods Pro 3s , updating my old Ray-Ban Metas to see if the AI is any good…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-ray-ban-metas",
+   "name": "Ray-Ban Metas",
+   "url": "https://www.anrdoezrs.net/click-8836602-17053308?sid=installer&url=https://www.meta.com/ai-glasses/ray-ban-meta/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Lizzo and Uniqlo and book thieves and Max Verstappen , obsessing over both Black Rabbit and The Lowdown , eating aggressively too many Pop’ums pretzels , listening to everything in the AirPods Pro 3s , updating my old Ray-Ban Metas to see if the AI is any good…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-crouton",
+   "name": "Crouton",
+   "url": "https://crouton.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Lizzo and Uniqlo and book thieves and Max Verstappen , obsessing over both Black Rabbit and The Lowdown , eating aggressively too many Pop’ums pretzels , listening to everything in the AirPods Pro 3s , updating my old Ray-Ban Metas to see if the AI is any good…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-nextdoor",
+   "name": "Nextdoor",
+   "url": "https://nextdoor.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Lizzo and Uniqlo and book thieves and Max Verstappen , obsessing over both Black Rabbit and The Lowdown , eating aggressively too many Pop’ums pretzels , listening to everything in the AirPods Pro 3s , updating my old Ray-Ban Metas to see if the AI is any good…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-the-gopro-max2",
+   "name": "The GoPro Max2",
+   "url": "https://gopro.com/en/us/shop/cameras/buy/max2/CHDHZ-311-master.html",
+   "alt_urls": [
+    "https://www.theverge.com/news/782619/gopro-fluid-pro-ai-tracking-stabilized-gimbal-action-camera-hero-smartphone"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This is the kind of camera GoPro is great at: impressive specs, super modular, really durable, hard to shoot boring stuff with. And $500 is a lot, but it’s not crazy for what it can do. I like GoPro when it goes hard for its power users, and doesn’t try to be all things to all people.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-chatgpt-pulse",
+   "name": "ChatGPT Pulse",
+   "url": "https://openai.com/index/introducing-chatgpt-pulse/",
+   "alt_urls": [
+    "https://www.theverge.com/news/774274/google-pulls-the-pixel-10s-daily-hub-to-enhance-its-performance"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This is the AI assistant stuff I like: an automatically generated feed of stuff based on what you asked ChatGPT about, what it knows you care about, and more. Frankly, Google is the company that ought to be doing well, but it’s, uh… hard .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-iphone-17-pro-review-apple-listened-but",
+   "name": "iPhone 17 Pro Review: Apple Listened, but…",
+   "url": "https://www.youtube.com/watch?v=zC7IIJCz8Dw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ iPhone 17 Pro Review: Apple Listened, but… ” It’s been a minute since I saw a gadget review on YouTube that really blew my mind. This one from HTX Studio fully did it: the spinning wheel of all the iPhones alone is worth the watch.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-proton-mail",
+   "name": "Proton Mail",
+   "url": "https://proton.me/mail",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "From a product perspective, I think Proton is slowly but surely building the best alternative to Google’s Workspace apps. The updated Mail app for Android and iOS is cleaner and faster, and it finally works offline.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-silent-hill-f",
+   "name": "Silent Hill F.",
+   "url": "https://www.konami.com/games/silenthill/f/gate?p=q9avy6C9QUKFRFGSGPvBvT512y2EhFaZBXo/MRrtQik%3D",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A violent, scary, decidedly adult horror game that seems to be a constant mix of puzzles, fog, and really powerful storytelling. This strikes me as a really hard kind of game to make well, and it was made really well.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-the-bowers-wilkins-px8-s2",
+   "name": "The Bowers & Wilkins Px8 S2",
+   "url": "https://www.bowerswilkins.com/en-us/product/over-ear-headphones/px8/300494.html",
+   "alt_urls": [
+    "https://www.theverge.com/news/784549/bowers-wilkins-px8-s2-wireless-headphones-price-release-date-specs"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "In the endless over-ear headphone wars, I think Bowers & Wilkins probably doesn’t get the credit it deserves next to Sony and Bose and Apple and the rest. Everyone I know who has a pair, raves about them! The $799 new ones have some nice upgrades, and I still really like the way they look.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-all-of-you",
+   "name": "All of You.",
+   "url": "https://www.themoviedb.org/movie/1319965-all-of-you?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "The premise — a rom-com of sorts about a test that can tell you who your soulmate is — sounds kind of like a Black Mirror episode, but by all accounts this Apple TV Plus movie is sweet and funny and well-made. I’m excited to see it this weekend.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-google-mixboard",
+   "name": "Google Mixboard",
+   "url": "https://labs.google.com/mixboard/welcome",
+   "alt_urls": [
+    "https://www.theverge.com/news/783991/google-labs-mixboard-ai-design-canvas"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Fair warning: this is an experimental Google product, so I assume it will be gone in a month or two. But it’s actually pretty impressive! It’s basically a moodboard generator , where you can add stuff or ask Gemini to find it for you.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-hades-ii-1-0",
+   "name": "Hades II 1.0",
+   "url": "https://www.supergiantgames.com/",
+   "alt_urls": [
+    "https://www.theverge.com/games/783718/hades-ii-2-1-0-update-review-pc-nintendo-switch"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "After some time in early access, this dungeon-crawler game is officially out. Our friend Jay Peters is super into it , and I trust Jay more than most when it comes to video games.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-montblanc-digital-paper",
+   "name": "Montblanc Digital Paper",
+   "url": "https://www.montblanc.com/en-us/discover/edit/digital-writing-by-montblanc.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "You probably shouldn’t buy this: it’s $905, and there are lots of other digital writing tablets out there that are probably better products. But I continue to love the push from pen-and-paper companies to figure out a digital equivalent, and I love a fancy pen.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-an-iphone-16-in-blue",
+   "name": "An iPhone 16, in blue",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: An iPhone 16, in blue. I still really love the color. I don’t love how quickly my battery dies, only a year later.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-diarly",
+   "name": "Diarly",
+   "url": "https://diarly.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The first page is the apps I use, and want to use, every single day. The only one that might go away is Diarly – I just can’t decide whether I like it or Day One more.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-day-one",
+   "name": "Day One",
+   "url": "https://dayoneapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The first page is the apps I use, and want to use, every single day. The only one that might go away is Diarly – I just can’t decide whether I like it or Day One more.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-workflowy",
+   "name": "Workflowy",
+   "url": "https://workflowy.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The first page is the apps I use, and want to use, every single day. The only one that might go away is Diarly – I just can’t decide whether I like it or Day One more.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-notion",
+   "name": "Notion",
+   "url": "https://www.notion.so/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The first page is the apps I use, and want to use, every single day. The only one that might go away is Diarly – I just can’t decide whether I like it or Day One more.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-craft",
+   "name": "Craft",
+   "url": "https://www.craft.do/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The first page is the apps I use, and want to use, every single day. The only one that might go away is Diarly – I just can’t decide whether I like it or Day One more.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-joi-planner",
+   "name": "Joi Planner",
+   "url": "https://joi.software/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The second page is all super-fast input. The top row is all Apple Shortcuts stuff for adding links or text to different places — my daily notes, a running list of stuff to include in Installer , that sort of thing.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-remind-me-faster",
+   "name": "Remind Me Faster",
+   "url": "https://apps.apple.com/us/app/remind-me-faster/id985555908",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "The second page is all super-fast input. The top row is all Apple Shortcuts stuff for adding links or text to different places — my daily notes, a running list of stuff to include in Installer , that sort of thing.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-instant-notion",
+   "name": "Instant Notion",
+   "url": "https://instantnotionapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The second page is all super-fast input. The top row is all Apple Shortcuts stuff for adding links or text to different places — my daily notes, a running list of stuff to include in Installer , that sort of thing.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-ramble",
+   "name": "Ramble",
+   "url": "https://www.todoist.com/help/articles/dictate-to-add-tasks-with-ramble-P1Raq7vVF",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The new Ramble feature of Todoist is a game changer — can just brain-dump by talking, and it orders everything into perfect tasks with descriptions and due dates.",
+   "section": "crowdsourced",
+   "recommender": "Jim (reader)"
+  },
+  {
+   "id": "2025-09-28-klack",
+   "name": "Klack",
+   "url": "https://tryklack.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve got my whole team using Klack now. We’re now slacking *with purpose.*",
+   "section": "crowdsourced",
+   "recommender": "Brett (reader)"
+  },
+  {
+   "id": "2025-09-28-slow-horses",
+   "name": "Slow Horses",
+   "url": "https://www.themoviedb.org/tv/95480-slow-horses?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Slow Horses is back, that’s really all I care about this week.",
+   "section": "crowdsourced",
+   "recommender": "Eli (reader)"
+  },
+  {
+   "id": "2025-09-28-dairy-bar",
+   "name": "Dairy Bar,",
+   "url": "https://www.dairybarapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "When my wife heard you got back from paternity leave, she said that i have to recommend this app to you.",
+   "section": "crowdsourced",
+   "recommender": "Pradeep (reader)"
+  },
+  {
+   "id": "2025-09-28-borderlands-4",
+   "name": "Borderlands 4 ,",
+   "url": "https://borderlands.2k.com/borderlands-4/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Borderlands 4 , or as it should be called, Fourderlands . Turns out nailing headshots with a revolver sniper rifle is a timeless formula.",
+   "section": "crowdsourced",
+   "recommender": "Will (reader)"
+  },
+  {
+   "id": "2025-09-28-aoostar-4-bay-nas",
+   "name": "AOOSTAR 4 Bay NAS",
+   "url": "https://aoostar.com/products/aoostar-wtr-pro-4-bay-90t-storage-amd-ryzen-7-5825u-nas-mini-pc-support-2-5-3-5-hdd-%E5%A4%8D%E5%88%B6",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week I bought my first NAS: I got the AOOSTAR 4 Bay NAS with 4x4TB IronWolf drives. I’m a photographer and I’m finally done paying for Google Photos AND OneDrive, I’ll be using Plex to store all my media and continue on my journey to take back control of my data after recently moving from…",
+   "section": "crowdsourced",
+   "recommender": "Craig (reader)"
+  },
+  {
+   "id": "2025-09-28-rogue-words",
+   "name": "Rogue Words",
+   "url": "https://apps.apple.com/be/app/rogue-words/id6670705088",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Rogue Words for iOS is the next Wordle . I’m calling it now. Completely free, made by one dude. It’s Scrabble meets Balatro and it’s addicting as hell.",
+   "section": "crowdsourced",
+   "recommender": "Ryan (reader)"
+  },
+  {
+   "id": "2025-09-28-age-of-empires-2-definitive-edition",
+   "name": "Age of Empires 2: Definitive Edition",
+   "url": "https://www.ageofempires.com/games/aoeiide/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Age of Empires 2: Definitive Edition is weirdly popular 25 years after the original AoE2 came out. Spending a lot of time playing and watching streamer T90 recap low ELO player games (i.e. people who play poorly like me).",
+   "section": "crowdsourced",
+   "recommender": "Ian (reader)"
+  },
+  {
+   "id": "2025-09-28-t90",
+   "name": "T90",
+   "url": "https://www.twitch.tv/t90official",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Age of Empires 2: Definitive Edition is weirdly popular 25 years after the original AoE2 came out. Spending a lot of time playing and watching streamer T90 recap low ELO player games (i.e. people who play poorly like me).",
+   "section": "crowdsourced",
+   "recommender": "Ian (reader)"
+  },
+  {
+   "id": "2025-09-28-a-good-girls-guide-to-murder",
+   "name": "A Good Girl’s Guide to Murder",
+   "url": "https://www.themoviedb.org/tv/218342-a-good-girl-s-guide-to-murder?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Huge fan of Wednesday Season 2, but after watching it, I ended up bingeing A Good Girl’s Guide to Murder and honestly enjoyed it way more. Totally hooked!",
+   "section": "crowdsourced",
+   "recommender": "Srirudran (reader)"
+  },
+  {
+   "id": "2025-09-28-version-history",
+   "name": "Version History",
+   "url": "https://pod.link/1840983742",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I generally try not to do too much self-promotion here in Installer, so apologies while I aggressively do just that: we’re launching a new show, it’s called Version History , and I am VERY EXCITED ABOUT IT.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-09-28-watch-the-trailer-here",
+   "name": "Watch the trailer here",
+   "url": "https://www.youtube.com/watch?v=DOCdcG9rz00",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I generally try not to do too much self-promotion here in Installer, so apologies while I aggressively do just that: we’re launching a new show, it’s called Version History , and I am VERY EXCITED ABOUT IT.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

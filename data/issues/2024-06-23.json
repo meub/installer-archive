@@ -1,0 +1,523 @@
+{
+ "schema": 1,
+ "date": "2024-06-23",
+ "post_type": "issue",
+ "title": "The new and improved Windows PCs are finally here",
+ "url": "https://www.theverge.com/2024/6/23/24183235/copilot-pcs-elden-ring-erdtree-hank-green-installer",
+ "author": "David Pierce",
+ "number": 43,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:36+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-06-23-memexes",
+   "name": "memexes",
+   "url": "https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about memexes and telepathy and John Lennon’s wristwatch , watching Presumed Innocent and Ren Faire , testing Genspark for AI search stuff, redoing my homescreen with Dumbify , and experimenting with overnight oats in an attempt to make mornings less chaotic.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-23-telepathy",
+   "name": "telepathy",
+   "url": "https://aeon.co/essays/for-over-a-century-telepathy-has-been-just-around-the-corner",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about memexes and telepathy and John Lennon’s wristwatch , watching Presumed Innocent and Ren Faire , testing Genspark for AI search stuff, redoing my homescreen with Dumbify , and experimenting with overnight oats in an attempt to make mornings less chaotic.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-23-john-lennons-wristwatch",
+   "name": "John Lennon’s wristwatch",
+   "url": "https://www.newyorker.com/magazine/2024/06/24/the-strange-journey-of-john-lennons-stolen-patek-phillippe-watch",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about memexes and telepathy and John Lennon’s wristwatch , watching Presumed Innocent and Ren Faire , testing Genspark for AI search stuff, redoing my homescreen with Dumbify , and experimenting with overnight oats in an attempt to make mornings less chaotic.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-23-presumed-innocent",
+   "name": "Presumed Innocent",
+   "url": "https://www.themoviedb.org/tv/156933-presumed-innocent",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about memexes and telepathy and John Lennon’s wristwatch , watching Presumed Innocent and Ren Faire , testing Genspark for AI search stuff, redoing my homescreen with Dumbify , and experimenting with overnight oats in an attempt to make mornings less chaotic.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-23-ren-faire",
+   "name": "Ren Faire",
+   "url": "https://www.themoviedb.org/tv/245929-ren-faire",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about memexes and telepathy and John Lennon’s wristwatch , watching Presumed Innocent and Ren Faire , testing Genspark for AI search stuff, redoing my homescreen with Dumbify , and experimenting with overnight oats in an attempt to make mornings less chaotic.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-23-genspark",
+   "name": "Genspark",
+   "url": "https://www.genspark.ai/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about memexes and telepathy and John Lennon’s wristwatch , watching Presumed Innocent and Ren Faire , testing Genspark for AI search stuff, redoing my homescreen with Dumbify , and experimenting with overnight oats in an attempt to make mornings less chaotic.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-23-dumbify",
+   "name": "Dumbify",
+   "url": "https://apps.apple.com/us/app/dumbify/id6480082872",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "This week, I’ve been reading about memexes and telepathy and John Lennon’s wristwatch , watching Presumed Innocent and Ren Faire , testing Genspark for AI search stuff, redoing my homescreen with Dumbify , and experimenting with overnight oats in an attempt to make mornings less chaotic.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-23-the-asus-vivobook-s-15",
+   "name": "The Asus VivoBook S 15",
+   "url": "https://www.asus.com/laptops/for-home/vivobook/asus-vivobook-s-15-s5507/",
+   "alt_urls": [
+    "https://www.theverge.com/2024/6/18/24180912/happy-windows-on-arm-day",
+    "https://www.theverge.com/2024/6/13/24178144/microsoft-windows-ai-recall-feature-delay",
+    "https://www.windowscentral.com/hardware/laptops/asus-vivobook-s-15-copilot-pc-review"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Copilot Plus PCs cometh . It’s been a weird rollout, what with all the Recall complications , but we’re starting to get a sense of just what this new era of Qualcomm-powered Windows devices can do. So far, I’m pretty optimistic , but I’m still waiting to see how the new Surfaces pan out.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-23-elden-ring-shadow-of-the-erdtree",
+   "name": "Elden Ring Shadow of the Erdtree",
+   "url": "https://www.bandainamcoent.com/games/elden-ring/shadow-of-the-erdtree",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The overall vibe of this huge new DLC is basically “it’s Elden Ring, only somehow even more so.” Given how deep and big this game already was, and how many hours we’ve all spent in it already, that’s pretty much all you can ask for.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-23-pissing-out-cancer",
+   "name": "Pissing out Cancer",
+   "url": "https://www.dropout.tv/hank-green-pissing-out-cancer",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If all the Dropout Presents stand-up specials are as much fun as this one from Hank Green, we’re about to have a heck of a run of new comedy. Green here is funny and goofy as ever and extremely Hank Green-y. It’s an hour you won’t regret.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-23-the-xreal-beam-pro",
+   "name": "The Xreal Beam Pro",
+   "url": "https://us.shop.xreal.com/products/xreal-beam-pro",
+   "alt_urls": [
+    "https://www.theverge.com/2024/6/18/24180298/xreal-beam-pro-ar-glasses-usb-c-launch"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Such a fun and different idea about how smart glasses should work: instead of trying to bake everything into the glasses themselves, Xreal is pulling all the smarts and software into a separate fairly cheap smartphone-style device. I’m excited to test this one out.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-23-backfired-the-vaping-wars",
+   "name": "Backfired: The Vaping Wars",
+   "url": "https://www.audible.com/pd/Backfired-The-Vaping-Wars-Audiobook/B0D23Y5KXP",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
+   "blurb": "The Juul story might forever be one of the strangest things to ever happen in Silicon Valley. This podcast goes deep on that story, along with the confusing societal debate about vaping, the government’s scramble to keep up, and where things go from here.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-23-arc-for-ipad",
+   "name": "Arc for iPad",
+   "url": "https://arc.net/download",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Still my favorite browser, finally available on almost all my devices. (Android when, Arc people!?!) The app isn’t exactly iPad-optimized — it’s missing some keyboard shortcuts and is really just a blown-up version of the iPhone app — but it syncs and works well and I will absolutely take it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-23-amie-for-windows",
+   "name": "Amie for Windows",
+   "url": "https://amie.so/download",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Big week for cross-platform apps! Amie is one of my favorite calendar / to-do apps and has gotten a lot more polished over the last few months. If you’re the all-in-one productivity type and appreciate some delightful design, give this one a whirl.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-23-the-logitech-keys-to-go-2",
+   "name": "The Logitech Keys-to-Go 2",
+   "url": "https://logitech.cfzu.net/c/482924/499820/8585?u=https%3A%2F%2Fwww.logitech.com%2Fen-us%2Fproducts%2Ftablet-keyboards%2Fkeys-to-go2-universal.920-012920.html%3Firclickid%3D1J2zcgwnrxyPWvXQA2Sep1v-UkHSJhxx03VeX00%26irgwc%3D1",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve had the original Keys-To-Go in my bag for a few years as a super light and handy way to get some stuff done with my phone or iPad. This looks like a huge upgrade: still light, still small, but with a more proper set of keys. $80 is a lot, but I suspect I’ll end up buying one.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-23-a-sense-of-rebellion",
+   "name": "A Sense of Rebellion",
+   "url": "https://www.sense-of-rebellion.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "An amazingly well-produced and deeply reported podcast on some decades-old ideas about AI and how we might use and live with technology. The story here, about hippies and capitalists and the government and big business, is kind of the story of technology all wrapped up in 10 episodes.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-23-clipbud",
+   "name": "Clipbud",
+   "url": "https://apps.apple.com/ca/app/clipbud-clipboard-manager/id6468892359",
+   "alt_urls": [
+    "https://support.apple.com/guide/iphone/use-text-replacements-iph6d01d862/ios",
+    "https://snippety.app/"
+   ],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Clipboard history is helpful and good, but having a place with all the text you type a lot – your shipping address, stock email responses, important links, all of that — is a life-changer.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-23-recently-upgraded-from-my-trusty-ol-iphone-12-to",
+   "name": "Recently upgraded from my trusty ol’ iPhone 12 to an iPhone 15",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: Recently upgraded from my trusty ol’ iPhone 12 to an iPhone 15. Seems to be doing fine so far; I’m no longer stressed about losing juice on long flights.",
+   "section": "screen-share",
+   "recommender": "Nick"
+  },
+  {
+   "id": "2024-06-23-halt-and-catch-fire",
+   "name": "Halt and Catch Fire",
+   "url": "https://www.themoviedb.org/tv/59659-halt-and-catch-fire",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’m a big rewatcher / replayer of things, and for whatever reason, the summertime is usually when I pick up my annual revisits. Right now, I’m working my way through Halt and Catch Fire for the sixth time. Gosh, that show is so lovely. It’s the 10-year anniversary, you know?",
+   "section": "screen-share",
+   "recommender": "Nick"
+  },
+  {
+   "id": "2024-06-23-red-wine-supernova",
+   "name": "“Red Wine Supernova,”",
+   "url": "https://www.youtube.com/watch?v=VS6ixn2berk",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’m a big rewatcher / replayer of things, and for whatever reason, the summertime is usually when I pick up my annual revisits. Right now, I’m working my way through Halt and Catch Fire for the sixth time. Gosh, that show is so lovely. It’s the 10-year anniversary, you know?",
+   "section": "screen-share",
+   "recommender": "Nick"
+  },
+  {
+   "id": "2024-06-23-season-of-the-witch-enchantment-terror-and-deliv",
+   "name": "Season of the Witch: Enchantment, Terror, and Deliverance in the City of Love",
+   "url": "https://www.simonandschuster.com/books/Season-of-the-Witch/David-Talbot/9781439108246",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a big rewatcher / replayer of things, and for whatever reason, the summertime is usually when I pick up my annual revisits. Right now, I’m working my way through Halt and Catch Fire for the sixth time. Gosh, that show is so lovely. It’s the 10-year anniversary, you know?",
+   "section": "screen-share",
+   "recommender": "Nick"
+  },
+  {
+   "id": "2024-06-23-my-perfect-console",
+   "name": "My Perfect Console",
+   "url": "https://linktr.ee/myperfectconsole",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a big rewatcher / replayer of things, and for whatever reason, the summertime is usually when I pick up my annual revisits. Right now, I’m working my way through Halt and Catch Fire for the sixth time. Gosh, that show is so lovely. It’s the 10-year anniversary, you know?",
+   "section": "screen-share",
+   "recommender": "Nick"
+  },
+  {
+   "id": "2024-06-23-this-little-camera",
+   "name": "This little camera",
+   "url": "https://shop.lomography.com/us/lomomatic-110-glass-lens-camera-flash-color-edition",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This little camera . I’ve been going over ways in my mind to justify it because it’s so cute but also the photos are surprisingly decent.",
+   "section": "crowdsourced",
+   "recommender": "Daulton (reader)"
+  },
+  {
+   "id": "2024-06-23-ditto",
+   "name": "Ditto",
+   "url": "https://soapbox.pub/blog/announcing-ditto/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Check out Ditto . It is a Nostr server that exposes Mastodon API to its clients. So the promise is that you would be able to use your very nice Mastodon app (Ivory, Ice Cubes) and add Nostr connection right into it.",
+   "section": "crowdsourced",
+   "recommender": "Adnan (reader)"
+  },
+  {
+   "id": "2024-06-23-thebulbastore",
+   "name": "TheBulbaStore",
+   "url": "https://www.youtube.com/@thebulbastore",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’ve been slowly getting back into following Pokemón trading cards and have been hooked watching TheBulbaStore on YouTube. It’s super interesting seeing a vendor’s point of view and the prices some cards go for now!",
+   "section": "crowdsourced",
+   "recommender": "Peter (reader)"
+  },
+  {
+   "id": "2024-06-23-the-hawthorne-horowitz-mysteries",
+   "name": "The Hawthorne & Horowitz mysteries",
+   "url": "https://anthonyhorowitz.com/books/list/series/hawthorne-horowitz",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Hawthorne & Horowitz mysteries by Anthony Horowitz. He recently released the fifth in the series, Close to Death . They all have tortured puns as titles (in this case, “close” being a British word for enclosed area).",
+   "section": "crowdsourced",
+   "recommender": "Kendrick (reader)"
+  },
+  {
+   "id": "2024-06-23-close-to-death",
+   "name": "Close to Death",
+   "url": "https://anthonyhorowitz.com/books/title/close-to-death",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Hawthorne & Horowitz mysteries by Anthony Horowitz. He recently released the fifth in the series, Close to Death . They all have tortured puns as titles (in this case, “close” being a British word for enclosed area).",
+   "section": "crowdsourced",
+   "recommender": "Kendrick (reader)"
+  },
+  {
+   "id": "2024-06-23-chess-com",
+   "name": "Chess.com",
+   "url": "http://chess.com",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m playing and watching chess! Chess is cool now! Lots of great ways to play, but Chess.com is probably the best for beginners. And there’s great YouTube content out there on chess from Eric Rosen , Irina Krush , Levy Rozman , and Hikaru Nakamura .",
+   "section": "crowdsourced",
+   "recommender": "Ryan (reader)"
+  },
+  {
+   "id": "2024-06-23-eric-rosen",
+   "name": "Eric Rosen",
+   "url": "https://www.youtube.com/@eric-rosen",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’m playing and watching chess! Chess is cool now! Lots of great ways to play, but Chess.com is probably the best for beginners. And there’s great YouTube content out there on chess from Eric Rosen , Irina Krush , Levy Rozman , and Hikaru Nakamura .",
+   "section": "crowdsourced",
+   "recommender": "Ryan (reader)"
+  },
+  {
+   "id": "2024-06-23-irina-krush",
+   "name": "Irina Krush",
+   "url": "https://www.youtube.com/@irina_krush",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’m playing and watching chess! Chess is cool now! Lots of great ways to play, but Chess.com is probably the best for beginners. And there’s great YouTube content out there on chess from Eric Rosen , Irina Krush , Levy Rozman , and Hikaru Nakamura .",
+   "section": "crowdsourced",
+   "recommender": "Ryan (reader)"
+  },
+  {
+   "id": "2024-06-23-levy-rozman",
+   "name": "Levy Rozman",
+   "url": "https://www.youtube.com/@GothamChess",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’m playing and watching chess! Chess is cool now! Lots of great ways to play, but Chess.com is probably the best for beginners. And there’s great YouTube content out there on chess from Eric Rosen , Irina Krush , Levy Rozman , and Hikaru Nakamura .",
+   "section": "crowdsourced",
+   "recommender": "Ryan (reader)"
+  },
+  {
+   "id": "2024-06-23-hikaru-nakamura",
+   "name": "Hikaru Nakamura",
+   "url": "https://www.youtube.com/@GMHikaru",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’m playing and watching chess! Chess is cool now! Lots of great ways to play, but Chess.com is probably the best for beginners. And there’s great YouTube content out there on chess from Eric Rosen , Irina Krush , Levy Rozman , and Hikaru Nakamura .",
+   "section": "crowdsourced",
+   "recommender": "Ryan (reader)"
+  },
+  {
+   "id": "2024-06-23-jet-lag-the-game",
+   "name": "Jet Lag: The Game",
+   "url": "https://www.youtube.com/@jetlagthegame",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I am really enjoying “ Jet Lag: The Game ” on YouTube. Imagine The Amazing Race, but actually good and not scripted. The hosts are likable and the game has some decent complexity behind it. They are about to wrap up their Australia season, and it has been a nail-biter.",
+   "section": "crowdsourced",
+   "recommender": "Dev (reader)"
+  },
+  {
+   "id": "2024-06-23-hell-divers-ii-ghosts",
+   "name": "Hell Divers II: Ghosts",
+   "url": "https://nicholassansburysmith.com/book/ghosts/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m currently reading Hell Divers II: Ghosts by Nicholas Sansbury Smith. Postapocalyptic sci-fi about halo jumpers who dive into radioactive wastelands to scavenge supplies from mutant monsters, and yes, it is as good as it sounds.",
+   "section": "crowdsourced",
+   "recommender": "Jesse (reader)"
+  },
+  {
+   "id": "2024-06-23-klydoclock",
+   "name": "Klydoclock",
+   "url": "https://www.klydoclock.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been obsessed with my new Klydoclock , a digital take on the classic analog clock. It features changing, artist-curated faces and can even tick and chime on the hour if you want it to. Best of all: it has no other functions and isn’t attached to an app or your phone.",
+   "section": "crowdsourced",
+   "recommender": "Jonathan (reader)"
+  },
+  {
+   "id": "2024-06-23-plex-server",
+   "name": "Plex server",
+   "url": "https://www.plex.tv/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I really believe that a home server or NAS is useful and easily accessible for more people than currently have one. More people should have their own Plex server , Pi-hole , self-hosted cloud storage , Minecraft server , or self-hosted VPN . An old PC is all you need if you want to keep it simple.",
+   "section": "crowdsourced",
+   "recommender": "Voltaire (reader)"
+  },
+  {
+   "id": "2024-06-23-pi-hole",
+   "name": "Pi-hole",
+   "url": "https://pi-hole.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I really believe that a home server or NAS is useful and easily accessible for more people than currently have one. More people should have their own Plex server , Pi-hole , self-hosted cloud storage , Minecraft server , or self-hosted VPN . An old PC is all you need if you want to keep it simple.",
+   "section": "crowdsourced",
+   "recommender": "Voltaire (reader)"
+  },
+  {
+   "id": "2024-06-23-self-hosted-cloud-storage",
+   "name": "self-hosted cloud storage",
+   "url": "https://nextcloud.com/install/#instructions-server",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I really believe that a home server or NAS is useful and easily accessible for more people than currently have one. More people should have their own Plex server , Pi-hole , self-hosted cloud storage , Minecraft server , or self-hosted VPN . An old PC is all you need if you want to keep it simple.",
+   "section": "crowdsourced",
+   "recommender": "Voltaire (reader)"
+  },
+  {
+   "id": "2024-06-23-minecraft-server",
+   "name": "Minecraft server",
+   "url": "https://www.minecraft.net/en-us/download/server",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I really believe that a home server or NAS is useful and easily accessible for more people than currently have one. More people should have their own Plex server , Pi-hole , self-hosted cloud storage , Minecraft server , or self-hosted VPN . An old PC is all you need if you want to keep it simple.",
+   "section": "crowdsourced",
+   "recommender": "Voltaire (reader)"
+  },
+  {
+   "id": "2024-06-23-self-hosted-vpn",
+   "name": "self-hosted VPN",
+   "url": "https://tailscale.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I really believe that a home server or NAS is useful and easily accessible for more people than currently have one. More people should have their own Plex server , Pi-hole , self-hosted cloud storage , Minecraft server , or self-hosted VPN . An old PC is all you need if you want to keep it simple.",
+   "section": "crowdsourced",
+   "recommender": "Voltaire (reader)"
+  },
+  {
+   "id": "2024-06-23-making-of-videos",
+   "name": "making-of videos",
+   "url": "https://www.youtube.com/watch?v=OCe-6UprFGo&t=143s",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I know I’ve mentioned this before, but I absolutely cannot get enough of watching / listening to / reading about how people who are great at their thing do their thing. (The musician Kygo has a series of making-of videos that is always the first example I think of in this genre.)",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-06-23-is-this-video",
+   "name": "is this video",
+   "url": "https://www.youtube.com/watch?v=R-ZIRAmO60c",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I know I’ve mentioned this before, but I absolutely cannot get enough of watching / listening to / reading about how people who are great at their thing do their thing. (The musician Kygo has a series of making-of videos that is always the first example I think of in this genre.)",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

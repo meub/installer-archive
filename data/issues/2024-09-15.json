@@ -1,0 +1,582 @@
+{
+ "schema": 1,
+ "date": "2024-09-15",
+ "post_type": "issue",
+ "title": "The fanciest game console you can buy",
+ "url": "https://www.theverge.com/24243490/ps5-pro-airpods-4-huawei-mate-xt-installer",
+ "author": "David Pierce",
+ "number": 52,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-09-15-chappell-roan",
+   "name": "Chappell Roan",
+   "url": "https://www.rollingstone.com/music/music-features/chappell-roan-good-luck-babe-fame-fans-1235094314/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Chappell Roan and college football and the problem with pennies , watching Fight Night: The Million Dollar Heist and Jennifer Garner’s delightful AD home tour , taking copious notes on Ben Thompson’s newslettering process , making surprisingly great bread with a…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-college-football",
+   "name": "college football",
+   "url": "https://www.espn.com/college-football/story/_/id/41136586/smu-football-acc-death-penalty-return-2024",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Chappell Roan and college football and the problem with pennies , watching Fight Night: The Million Dollar Heist and Jennifer Garner’s delightful AD home tour , taking copious notes on Ben Thompson’s newslettering process , making surprisingly great bread with a…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-the-problem-with-pennies",
+   "name": "the problem with pennies",
+   "url": "https://www.nytimes.com/2024/09/01/magazine/worthless-pennies-united-states-economy.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Chappell Roan and college football and the problem with pennies , watching Fight Night: The Million Dollar Heist and Jennifer Garner’s delightful AD home tour , taking copious notes on Ben Thompson’s newslettering process , making surprisingly great bread with a…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-fight-night-the-million-dollar-heist",
+   "name": "Fight Night: The Million Dollar Heist",
+   "url": "https://www.themoviedb.org/tv/241485-fight-night-the-million-dollar-heist/watch?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Chappell Roan and college football and the problem with pennies , watching Fight Night: The Million Dollar Heist and Jennifer Garner’s delightful AD home tour , taking copious notes on Ben Thompson’s newslettering process , making surprisingly great bread with a…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-jennifer-garners-delightful-ad-home-tour",
+   "name": "Jennifer Garner’s delightful AD home tour",
+   "url": "https://www.youtube.com/watch?v=_AovxHP8vV8",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Chappell Roan and college football and the problem with pennies , watching Fight Night: The Million Dollar Heist and Jennifer Garner’s delightful AD home tour , taking copious notes on Ben Thompson’s newslettering process , making surprisingly great bread with a…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-ben-thompsons-newslettering-process",
+   "name": "Ben Thompson’s newslettering process",
+   "url": "https://www.youtube.com/watch?v=igh0JeaUHzo’",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about Chappell Roan and college football and the problem with pennies , watching Fight Night: The Million Dollar Heist and Jennifer Garner’s delightful AD home tour , taking copious notes on Ben Thompson’s newslettering process , making surprisingly great bread with a…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-a-random-recipe-from-reddit",
+   "name": "a random recipe from Reddit",
+   "url": "https://www.reddit.com/r/food/comments/bfzpb/comment/c0mmdto/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Chappell Roan and college football and the problem with pennies , watching Fight Night: The Million Dollar Heist and Jennifer Garner’s delightful AD home tour , taking copious notes on Ben Thompson’s newslettering process , making surprisingly great bread with a…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-the-ps5-pro",
+   "name": "The PS5 Pro",
+   "url": "https://blog.playstation.com/2024/09/10/welcome-playstation-5-pro-the-most-visually-impressive-way-to-play-games-on-playstation/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I can’t imagine spending $700 on any game console, let alone one with no disc drive. That said, I do love the idea of flying around in Spider-Man 2 — the only game I love to just aimlessly explore for hours at a time – with perfect graphics at blistering frame rates.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-the-airpods-4-with-anc",
+   "name": "The AirPods 4 with ANC",
+   "url": "http://apple.sjv.io/anb2BY",
+   "alt_urls": [
+    "https://www.theverge.com/2024/9/9/24236881/apple-airpods-pro-second-gen-hearing-aid-protection-features-update"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m sure the iPhone 16 is fine, but to my mind, this is the most exciting thing Apple launched this week — a set of open-ear headphones with decent noise cancellation is a rare and exciting thing. (The AirPods Pro hearing aid stuff is also extremely cool.)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-the-huawei-mate-xt",
+   "name": "The Huawei Mate XT",
+   "url": "https://consumer.huawei.com/cn/phones/mate-xt-ultimate-design/",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=jnN9xqUJuTM",
+    "https://www.theverge.com/2018/11/14/18088620/samsung-foldable-phone-science-fiction-movies-television-westworld-star-trek",
+    "https://www.theverge.com/2024/9/10/24240700/huawei-mate-xt-ultimate-design-tri-fold-price-launch"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This is the phone of the week. I can’t stop watching the video of the trifold, which gives intense Westworld tablet vibes , in the best possible way. You probably can’t buy it, and at $2,800 , you probably wouldn’t want to anyway, but I love that this thing exists.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-will-harper",
+   "name": "Will & Harper",
+   "url": "https://www.themoviedb.org/movie/1214506-will-harper",
+   "alt_urls": [
+    "https://www.nytimes.com/2024/09/07/magazine/will-ferrell-harper-steele-interview.html"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I keep hearing great things about this doc, in which Will Ferrell and Harper Steele drive across the country and try to make sense of their relationship after Steele came out as trans. There’s a great New York Times interview with them about the process, too.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-channels-with-peter-kafka",
+   "name": "Channels with Peter Kafka",
+   "url": "https://pod.link/recodemedia",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Nobody does insidery tech media pods like Kafka, so I was psyched to see him back on the digital airwaves once again. (I guess, disclosure, he’s making the show with Vox Media, The Verge ’s parent company.) The first episode, with New Yorker editor David Remnick, was a good one.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-panic-world",
+   "name": "Panic World",
+   "url": "https://pod.link/1740187810",
+   "alt_urls": [
+    "https://www.garbageday.email/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Another great new podcast! Ryan Broderick writes one of my absolute favorite newsletters about the internet, Garbage Day , and the first episode of the podcast has the same “smart but borderline unhinged” vibe to it. It’s delightful.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-warhammer-40-000-space-marine-2",
+   "name": "Warhammer 40,000: Space Marine 2",
+   "url": "https://www.focus-entmt.com/en/games/warhammer-40000-space-marine-2",
+   "alt_urls": [
+    "https://www.polygon.com/gaming/447285/warhammer-40k-space-marine-2-review"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a pretty simple gamer. I like games where I get to battle with and / or against cool robots, and I love when everything is needlessly intense and gory.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-goldeneye-watch-music",
+   "name": "Goldeneye Watch Music",
+   "url": "https://open.spotify.com/album/4Vdqj4v4N32N0TDCArMWJ1?si=sLwW6KJOTh6ErrkNfbueIA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "“ Goldeneye Watch Music .” This song is 100 percent guaranteed to be on my Spotify Wrapped this year, just based on this week alone. The epic pause music from an all-time great game is now six minutes long, super high-def, and constantly on repeat while I work.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-ifixits-fixhub-smart-soldering-iron",
+   "name": "iFixit’s FixHub Smart Soldering Iron",
+   "url": "https://www.ifixit.com/products/fixhub-power-series-smart-soldering-iron",
+   "alt_urls": [
+    "https://www.theverge.com/2024/9/12/24242497/ifixit-fixhub-usb-soldering-iron-station-battery-toolkit-price-release-date"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I trust The Verge ’s Sean Hollister completely when it comes to techie DIY, and he loves iFixit’s super-portable, super-simple tool for all things liquid metal. It’s not cheap, but it sounds like a heck of a lot of fun.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-chrome-tab-groups-on-ios",
+   "name": "Chrome Tab Groups on iOS",
+   "url": "https://apps.apple.com/us/app/google-chrome/id535886823",
+   "alt_urls": [
+    "https://blog.google/products/chrome/google-chrome-update-september-2024/"
+   ],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "A tiny but really welcome browser upgrade : you can now sync tab groups from your computer to your iPhone. (It already worked on Android.) Tab management on mobile is generally trash, and tab groups are a really good, not-quite-bookmarks way to keep things in order.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-i-actually-have-two-phones-an-android-and-an-iph",
+   "name": "I actually have two phones, an Android and an iPhone; my work phone is an Androi",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: I actually have two phones, an Android and an iPhone; my work phone is an Android, and that’s where I have beta versions of our apps to dogfood.",
+   "section": "screen-share",
+   "recommender": "Boz"
+  },
+  {
+   "id": "2024-09-15-huge-photography-buff",
+   "name": "huge photography buff",
+   "url": "https://wardenshortbow.com/photos/orthodox",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a huge photography buff and I’ve really gotten into developing my own film lately using a Lab-Box . I’ve been shooting a lot with film cameras, including a medium format Mamiya C330 Professional and Hasselblad 500C/M — then I scan to digital from there.",
+   "section": "screen-share",
+   "recommender": "Boz"
+  },
+  {
+   "id": "2024-09-15-lab-box",
+   "name": "Lab-Box",
+   "url": "https://www.lab-box.it/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a huge photography buff and I’ve really gotten into developing my own film lately using a Lab-Box . I’ve been shooting a lot with film cameras, including a medium format Mamiya C330 Professional and Hasselblad 500C/M — then I scan to digital from there.",
+   "section": "screen-share",
+   "recommender": "Boz"
+  },
+  {
+   "id": "2024-09-15-mamiya-c330-professional",
+   "name": "Mamiya C330 Professional",
+   "url": "https://en.wikipedia.org/wiki/Mamiya_C330",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a huge photography buff and I’ve really gotten into developing my own film lately using a Lab-Box . I’ve been shooting a lot with film cameras, including a medium format Mamiya C330 Professional and Hasselblad 500C/M — then I scan to digital from there.",
+   "section": "screen-share",
+   "recommender": "Boz"
+  },
+  {
+   "id": "2024-09-15-hasselblad-500c-m",
+   "name": "Hasselblad 500C/M",
+   "url": "https://www.hasselblad.com/about/history/500-series/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a huge photography buff and I’ve really gotten into developing my own film lately using a Lab-Box . I’ve been shooting a lot with film cameras, including a medium format Mamiya C330 Professional and Hasselblad 500C/M — then I scan to digital from there.",
+   "section": "screen-share",
+   "recommender": "Boz"
+  },
+  {
+   "id": "2024-09-15-ray-ban-meta-smart-glasses",
+   "name": "Ray-Ban Meta Smart Glasses",
+   "url": "https://www.ray-ban.com/usa/ray-ban-meta-smart-glasses",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a huge photography buff and I’ve really gotten into developing my own film lately using a Lab-Box . I’ve been shooting a lot with film cameras, including a medium format Mamiya C330 Professional and Hasselblad 500C/M — then I scan to digital from there.",
+   "section": "screen-share",
+   "recommender": "Boz"
+  },
+  {
+   "id": "2024-09-15-in-the-coming-weeks",
+   "name": "in the coming weeks",
+   "url": "https://www.meta.com/connect/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m a huge photography buff and I’ve really gotten into developing my own film lately using a Lab-Box . I’ve been shooting a lot with film cameras, including a medium format Mamiya C330 Professional and Hasselblad 500C/M — then I scan to digital from there.",
+   "section": "screen-share",
+   "recommender": "Boz"
+  },
+  {
+   "id": "2024-09-15-ik-multimedia-mtm-mkii",
+   "name": "IK Multimedia MTM MKII",
+   "url": "https://www.ikmultimedia.com/products/iloudmtm/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve recently picked up a pair of the brand-new IK Multimedia MTM MKII studio monitors, and I am BLOWN AWAY by the quality of the sound. They’ve got to be the best-sounding ‘desk-friendly’ studio audio monitors available. They literally make me giddy by how full and rich and accurate they sound.",
+   "section": "crowdsourced",
+   "recommender": "Brooks (reader)"
+  },
+  {
+   "id": "2024-09-15-mammoth",
+   "name": "Mammoth",
+   "url": "https://getmammoth.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m giving Mammoth a try, and it’s quickly becoming my favorite Mastodon client. It does a good job of combining the firehose with curated and algorithmic feeds. And the UI is nice.",
+   "section": "crowdsourced",
+   "recommender": "Joseph (reader)"
+  },
+  {
+   "id": "2024-09-15-powerphotos",
+   "name": "PowerPhotos",
+   "url": "https://fatcatsoftware.com/powerphotos/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m running out of iCloud space at 200GB. I have 18,500 files in my Photos app, but Apple provides no way to tell which are larger. Turns out, the trial of the PowerPhotos Mac app lets you sort by size while your photos are still in the cloud! In my case, just 500 files take up 100GB.",
+   "section": "crowdsourced",
+   "recommender": "Nikolaj (reader)"
+  },
+  {
+   "id": "2024-09-15-chappell-roans-vma-performance",
+   "name": "Chappell Roan’s VMA performance",
+   "url": "https://www.youtube.com/watch?v=65m4u4IxZLg",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’m basically just watching Chappell Roan’s VMA performance on repeat.",
+   "section": "crowdsourced",
+   "recommender": "Noah (reader)"
+  },
+  {
+   "id": "2024-09-15-reader-come-home",
+   "name": "Reader, Come Home",
+   "url": "https://www.maryannewolf.com/reader-come-home-1",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After the recent ebook versus paper book debate on The Vergecast , I wanted to point to Reader, Come Home by Maryanne Wolf. It’s a really fascinating dive into how digital reading affects the brain — with the latter half focused on childhood exposure. Definitely an important consideration!",
+   "section": "crowdsourced",
+   "recommender": "Brad (reader)"
+  },
+  {
+   "id": "2024-09-15-no-rolls-barred",
+   "name": "No Rolls Barred",
+   "url": "https://www.youtube.com/@NoRollsBarred",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "No Rolls Barred , especially “ Monopoly, but Communist .” The channel is all about playing board games, and they will also do classic games, but they add some rules or use the board game as a base and essentially make a completely new game that you can kind of relate to the original (“Monopoly, but…",
+   "section": "crowdsourced",
+   "recommender": "Anthony (reader)"
+  },
+  {
+   "id": "2024-09-15-monopoly-but-communist",
+   "name": "Monopoly, but Communist",
+   "url": "https://www.youtube.com/watch?v=jkN6xxyEgZc&list=PLQBGXhGots81MO5NLArB4xelKqRhREzoZ&index=9",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "No Rolls Barred , especially “ Monopoly, but Communist .” The channel is all about playing board games, and they will also do classic games, but they add some rules or use the board game as a base and essentially make a completely new game that you can kind of relate to the original (“Monopoly, but…",
+   "section": "crowdsourced",
+   "recommender": "Anthony (reader)"
+  },
+  {
+   "id": "2024-09-15-armitage",
+   "name": "Armitage",
+   "url": "https://www.atlascreedauthor.com/books",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Atlas Creed is a new indie author that I really enjoy. He self-published a crime thriller with some supernatural elements called Armitage , and it’s surprisingly killer. I listened to the audiobook, and the narrators do a great job!",
+   "section": "crowdsourced",
+   "recommender": "Steve (reader)"
+  },
+  {
+   "id": "2024-09-15-how-to-monetize-a-blog",
+   "name": "How to Monetize a Blog",
+   "url": "https://modem.io/blog/blog-monetization/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "‘ How to Monetize a Blog .’ Maybe read this article / commentary / art piece / disaster on desktop instead of mobile? It’s worth it.",
+   "section": "crowdsourced",
+   "recommender": "Hunter (reader)"
+  },
+  {
+   "id": "2024-09-15-summoning-salt",
+   "name": "Summoning Salt",
+   "url": "https://www.youtube.com/c/SummoningSalt",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "While reading the most recent issue, I thought of a video essay YouTube channel that I want to recommend. The channel is called Summoning Salt . It focuses on the history and techniques used to obtain world records in various video games.",
+   "section": "crowdsourced",
+   "recommender": "Grant (reader)"
+  },
+  {
+   "id": "2024-09-15-daggerheart",
+   "name": "Daggerheart",
+   "url": "https://www.daggerheart.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After a successful playtest, friends and I have had our first session of Daggerheart this week. It’s a TTRPG, like D&D , from the folks at Critical Role . The mechanics are simpler, and it focuses on collaborative storytelling and quick decisions.",
+   "section": "crowdsourced",
+   "recommender": "René (reader)"
+  },
+  {
+   "id": "2024-09-15-critical-role",
+   "name": "Critical Role",
+   "url": "https://critrole.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After a successful playtest, friends and I have had our first session of Daggerheart this week. It’s a TTRPG, like D&D , from the folks at Critical Role . The mechanics are simpler, and it focuses on collaborative storytelling and quick decisions.",
+   "section": "crowdsourced",
+   "recommender": "René (reader)"
+  },
+  {
+   "id": "2024-09-15-astro-bot",
+   "name": "Astro Bot",
+   "url": "https://www.amazon.com/Astro-Bot-PS5-PlayStation-5/dp/B0D5SM3K4Q/ref=sr_1_1?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "I don’t usually buy new games at full price, but Astro Bot is awesome!",
+   "section": "crowdsourced",
+   "recommender": "Sam (reader)"
+  },
+  {
+   "id": "2024-09-15-horror-flicks",
+   "name": "horror flicks",
+   "url": "https://www.youtube.com/watch?v=02_6golD_UA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Sometimes I find myself in a brand-new corner of YouTube. Sometimes it’s like, “Oh, of course there are tons of people doing cool gardening tutorials on YouTube!” But sometimes, like what happened to me recently, it’s a total surprise.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-inspirational-shorts",
+   "name": "inspirational shorts",
+   "url": "https://www.youtube.com/watch?v=3iH8l6dN6Ow",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Sometimes I find myself in a brand-new corner of YouTube. Sometimes it’s like, “Oh, of course there are tons of people doing cool gardening tutorials on YouTube!” But sometimes, like what happened to me recently, it’s a total surprise.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-extremely-meta-stories",
+   "name": "extremely meta stories",
+   "url": "https://www.youtube.com/watch?v=CaFxF2uDsw0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Sometimes I find myself in a brand-new corner of YouTube. Sometimes it’s like, “Oh, of course there are tons of people doing cool gardening tutorials on YouTube!” But sometimes, like what happened to me recently, it’s a total surprise.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-action-movies",
+   "name": "action movies",
+   "url": "https://www.youtube.com/watch?v=GDv8Iei3h4Y",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Sometimes I find myself in a brand-new corner of YouTube. Sometimes it’s like, “Oh, of course there are tons of people doing cool gardening tutorials on YouTube!” But sometimes, like what happened to me recently, it’s a total surprise.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-stories-about-coffee-runs-with-big-twist-endings",
+   "name": "stories about coffee runs with big-twist endings",
+   "url": "https://www.youtube.com/watch?v=SR__amDl1c8",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Sometimes I find myself in a brand-new corner of YouTube. Sometimes it’s like, “Oh, of course there are tons of people doing cool gardening tutorials on YouTube!” But sometimes, like what happened to me recently, it’s a total surprise.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-student-films",
+   "name": "student films",
+   "url": "https://www.youtube.com/watch?v=yQbULAAerLQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Sometimes I find myself in a brand-new corner of YouTube. Sometimes it’s like, “Oh, of course there are tons of people doing cool gardening tutorials on YouTube!” But sometimes, like what happened to me recently, it’s a total surprise.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-more-student-films",
+   "name": "more student films",
+   "url": "https://www.youtube.com/watch?v=HAatDMb2hGs",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Sometimes I find myself in a brand-new corner of YouTube. Sometimes it’s like, “Oh, of course there are tons of people doing cool gardening tutorials on YouTube!” But sometimes, like what happened to me recently, it’s a total surprise.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-so-many-student-films",
+   "name": "so many student films",
+   "url": "https://www.youtube.com/watch?v=WBjWAgxgH0A",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Sometimes I find myself in a brand-new corner of YouTube. Sometimes it’s like, “Oh, of course there are tons of people doing cool gardening tutorials on YouTube!” But sometimes, like what happened to me recently, it’s a total surprise.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-15-nothing-except-everything",
+   "name": "Nothing, except everything",
+   "url": "https://www.youtube.com/watch?v=hif5eI5pBxo",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Sometimes I find myself in a brand-new corner of YouTube. Sometimes it’s like, “Oh, of course there are tons of people doing cool gardening tutorials on YouTube!” But sometimes, like what happened to me recently, it’s a total surprise.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

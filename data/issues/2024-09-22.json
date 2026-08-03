@@ -1,0 +1,521 @@
+{
+ "schema": 1,
+ "date": "2024-09-22",
+ "post_type": "issue",
+ "title": "A social network where everyone’s a bot",
+ "url": "https://www.theverge.com/2024/9/22/24249948/socialai-snap-spectacles-snapchat-penguin-installer",
+ "author": "David Pierce",
+ "number": 53,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:36+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2024-09-22-beyonce",
+   "name": "Beyoncé",
+   "url": "https://www.gq.com/story/beyonce-knowles-carter-october-2024-cover-interview",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Beyoncé and Rosanna Pansino and Bowen Yang , pouring my life back into Todoist , watching the end of The Grand Tour , catching up on some My Brother, My Brother and Me episodes, seeing if the Pixel Recorder app can replace my trusty voice recorder, and moving…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-22-rosanna-pansino",
+   "name": "Rosanna Pansino",
+   "url": "https://www.nbcnews.com/tech/internet/baking-mrbeast-meet-youtuber-taking-platforms-biggest-creator-rcna168610",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Beyoncé and Rosanna Pansino and Bowen Yang , pouring my life back into Todoist , watching the end of The Grand Tour , catching up on some My Brother, My Brother and Me episodes, seeing if the Pixel Recorder app can replace my trusty voice recorder, and moving…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-22-bowen-yang",
+   "name": "Bowen Yang",
+   "url": "https://www.newyorker.com/magazine/2024/09/23/bowen-yang-profile-comedy?bxid=5be9d8763f92a40469e762a5&cndid=25744259&hasha=fdbd6b02c04f0b357b324f79e81b179b&hashb=9c40f1798ffee5d2b0ea4fbc40cf8eda67c2b9e8&hashc=dfe25122182d1fcf578f597cef8aca4b7b253f41969e8c585f26b5ff2ad1a7e1&esrc=mergefrom_145169",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Beyoncé and Rosanna Pansino and Bowen Yang , pouring my life back into Todoist , watching the end of The Grand Tour , catching up on some My Brother, My Brother and Me episodes, seeing if the Pixel Recorder app can replace my trusty voice recorder, and moving…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-22-todoist",
+   "name": "Todoist",
+   "url": "https://todoist.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Beyoncé and Rosanna Pansino and Bowen Yang , pouring my life back into Todoist , watching the end of The Grand Tour , catching up on some My Brother, My Brother and Me episodes, seeing if the Pixel Recorder app can replace my trusty voice recorder, and moving…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-22-the-grand-tour",
+   "name": "The Grand Tour",
+   "url": "https://www.themoviedb.org/tv/67557-the-grand-tour",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Beyoncé and Rosanna Pansino and Bowen Yang , pouring my life back into Todoist , watching the end of The Grand Tour , catching up on some My Brother, My Brother and Me episodes, seeing if the Pixel Recorder app can replace my trusty voice recorder, and moving…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-22-my-brother-my-brother-and-me",
+   "name": "My Brother, My Brother and Me",
+   "url": "https://maximumfun.org/podcasts/my-brother-my-brother-and-me/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Beyoncé and Rosanna Pansino and Bowen Yang , pouring my life back into Todoist , watching the end of The Grand Tour , catching up on some My Brother, My Brother and Me episodes, seeing if the Pixel Recorder app can replace my trusty voice recorder, and moving…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-22-pixel-recorder",
+   "name": "Pixel Recorder",
+   "url": "https://recorder.google.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Beyoncé and Rosanna Pansino and Bowen Yang , pouring my life back into Todoist , watching the end of The Grand Tour , catching up on some My Brother, My Brother and Me episodes, seeing if the Pixel Recorder app can replace my trusty voice recorder, and moving…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-22-headspace",
+   "name": "Headspace",
+   "url": "https://www.headspace.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Beyoncé and Rosanna Pansino and Bowen Yang , pouring my life back into Todoist , watching the end of The Grand Tour , catching up on some My Brother, My Brother and Me episodes, seeing if the Pixel Recorder app can replace my trusty voice recorder, and moving…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-22-socialai",
+   "name": "SocialAI",
+   "url": "https://socialai.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The reaction to this “social network” for iOS, where you post and a thousand AI bots immediately reply, was so funny. Some people loved it, some hated it, half seemed to think it was a joke. It’s not a joke, and it’s actually a really thoughtful take on how to interact with LLMs.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-22-character-limit-how-elon-musk-destroyed-twitter",
+   "name": "Character Limit: How Elon Musk Destroyed Twitter",
+   "url": "https://www.penguinrandomhouse.com/books/737290/character-limit-by-kate-conger-and-ryan-mac/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "An excellent addition to the canon of books about Musk’s takeover and overhaul of the social network we once knew. There’s a lot of great new detail in here about the chaos of becoming X, too — a really good read.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-22-simple-snapchat",
+   "name": "Simple Snapchat",
+   "url": "https://newsroom.snap.com/sps-2024-simple-snapchat?lang=en-US",
+   "alt_urls": [
+    "https://www.spectacles.com/?lang=en-US",
+    "https://www.theverge.com/2024/9/17/24246999/snapchat-redesign-three-tabs-stories-spotlight"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I’d love to tell you to buy Snap’s new Spectacles , but they’re ridiculous and also not available for regular people to buy. But you will be able to get Snapchat’s new design , which is so much cleaner and more approachable than the app has been in recent years.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-22-the-bose-quietcomfort-earbuds",
+   "name": "The Bose QuietComfort Earbuds",
+   "url": "https://www.tkqlhce.com/click-8836598-11556694?url=https%3A%2F%2Fwww.bose.com%2Fp%2Fearbuds%2Fbose-quietcomfort-headphones%2FQCEARB24-HEADPHONEIN.html",
+   "alt_urls": [
+    "https://www.theverge.com/2024/9/18/24247961/bose-quietcomfort-earbuds-announced"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The AirPods 4 got all the shine this week, but I’ve been a fan of Bose’s earbuds for a while — they sound great, they have great battery, and I love the new “Hey headphones” wake word on the new model. And at $179, these are a solid Apple alternative.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-22-omni-loop",
+   "name": "Omni Loop",
+   "url": "https://www.themoviedb.org/movie/1143128-omni-loop?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "The read on this time-travel movie starring Ayo Edebiri and Mary-Louise Parker seems to be that sticklers for continuity will be frustrated but there’s some good and thoughtful stuff and a lot of fun to be had. I will be having that fun ASAP.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-22-the-penguin",
+   "name": "The Penguin",
+   "url": "https://www.themoviedb.org/tv/194764-the-penguin?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "“Gritty Batman show on HBO” is all you need to tell me for me to be fully in on The Penguin. The reviews so far are a bit mixed — I’ve seen “best show in forever” and “kinda meh,” and a lot of people are comparing it unfavorably to The Sopranos. Personally, I can’t wait.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-22-tripsy-3-0",
+   "name": "Tripsy 3.0",
+   "url": "https://tripsy.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m traveling a lot this fall, so I’m back on the hunt for a good place to put all my confirmation numbers, flight details, and expenses. Tripit is fine, but Tripsy looks way better. I’m also into the map view, which is a surprisingly helpful way to plot out a day.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-22-agatha-all-along",
+   "name": "Agatha All Along",
+   "url": "https://www.themoviedb.org/tv/138501-agatha-all-along",
+   "alt_urls": [
+    "https://www.theverge.com/2024/9/18/24246402/agatha-all-along-review"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "WandaVision is the only Marvel show I recommend to people who don’t care about Marvel because the whole thing was so unusually structured and smart. This spinoff sounds just as inventive and just as cool . More Kathryn Hahn is always a good thing.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-22-ufo-50",
+   "name": "UFO 50",
+   "url": "https://50games.fun/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A bunch of developers in 2024 decided to make a bunch of games that look like they’re from the 1980s. Taken together, what they made is kind of a historical document about gaming but also just, like, a bunch of really fun retro-style games. Such a cool concept.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-22-the-mark-zuckerberg-interview",
+   "name": "The Mark Zuckerberg Interview",
+   "url": "https://www.youtube.com/watch?v=QciJ9ubeLQk",
+   "alt_urls": [
+    "https://www.acquired.fm/"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ The Mark Zuckerberg Interview .” You probably saw the pictures from last week of the Acquired podcast hosts interviewing Zuck at the Chase Center in San Francisco. The resulting 90-minute episode is… kind of awkward in spots but also really revealing in spots.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-22-iphone-14",
+   "name": "iPhone 14",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 14.",
+   "section": "screen-share",
+   "recommender": "Alex"
+  },
+  {
+   "id": "2024-09-22-threes",
+   "name": "Threes",
+   "url": "http://play.threesgame.com/’",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Everything I need is on the front page: from games to exercise stuff, apps for watching TV and playing music, social media platforms, and so on.",
+   "section": "screen-share",
+   "recommender": "Alex"
+  },
+  {
+   "id": "2024-09-22-pinball-map",
+   "name": "Pinball Map",
+   "url": "https://pinballmap.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Pinball Map . I love pinball. But loving pinball means you’re a pinball snob and you like certain games better than others.",
+   "section": "screen-share",
+   "recommender": "Alex"
+  },
+  {
+   "id": "2024-09-22-koala",
+   "name": "Koala",
+   "url": "https://www.koalasampler.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Pinball Map . I love pinball. But loving pinball means you’re a pinball snob and you like certain games better than others.",
+   "section": "screen-share",
+   "recommender": "Alex"
+  },
+  {
+   "id": "2024-09-22-erica-synths-lxr-02",
+   "name": "Erica Synths’ LXR-02",
+   "url": "https://www.ericasynths.lv/shop/standalone-instruments-1/drum-synthesizer-lxr-02/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Pinball Map . I love pinball. But loving pinball means you’re a pinball snob and you like certain games better than others.",
+   "section": "screen-share",
+   "recommender": "Alex"
+  },
+  {
+   "id": "2024-09-22-wfmus-beware-of-the-blog",
+   "name": "WFMU’s Beware of the Blog",
+   "url": "https://blog.wfmu.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Pinball Map . I love pinball. But loving pinball means you’re a pinball snob and you like certain games better than others.",
+   "section": "screen-share",
+   "recommender": "Alex"
+  },
+  {
+   "id": "2024-09-22-vintage-eight",
+   "name": "Vintage Eight",
+   "url": "https://www.youtube.com/@vintageeight/featured",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Funny timing that you’d mention Short Film YouTube three days after I discovered a channel that’s a horror treasure trove. The channel is called Vintage Eight , which is by a film professor from the University of New Orleans by the name of Paul Catalanotto.",
+   "section": "crowdsourced",
+   "recommender": "Drake (reader)"
+  },
+  {
+   "id": "2024-09-22-the-tangi-virus",
+   "name": "The Tangi Virus",
+   "url": "https://www.youtube.com/watch?v=vDoi9vT5OvM",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Funny timing that you’d mention Short Film YouTube three days after I discovered a channel that’s a horror treasure trove. The channel is called Vintage Eight , which is by a film professor from the University of New Orleans by the name of Paul Catalanotto.",
+   "section": "crowdsourced",
+   "recommender": "Drake (reader)"
+  },
+  {
+   "id": "2024-09-22-the-oracle-project",
+   "name": "The Oracle Project",
+   "url": "https://www.youtube.com/watch?v=gPOuqyDhCQo",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Funny timing that you’d mention Short Film YouTube three days after I discovered a channel that’s a horror treasure trove. The channel is called Vintage Eight , which is by a film professor from the University of New Orleans by the name of Paul Catalanotto.",
+   "section": "crowdsourced",
+   "recommender": "Drake (reader)"
+  },
+  {
+   "id": "2024-09-22-the-human-trial",
+   "name": "The Human Trial",
+   "url": "https://www.youtube.com/watch?v=RGh8FdctSx4",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Funny timing that you’d mention Short Film YouTube three days after I discovered a channel that’s a horror treasure trove. The channel is called Vintage Eight , which is by a film professor from the University of New Orleans by the name of Paul Catalanotto.",
+   "section": "crowdsourced",
+   "recommender": "Drake (reader)"
+  },
+  {
+   "id": "2024-09-22-hild",
+   "name": "Hild",
+   "url": "https://nicolagriffith.com/2014/02/26/hild/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Hild is the best historical fiction I’ve ever read in my whole life. Anyone jonesing for Game of Thrones but IRL (ish) who is also a fan of Tolkien’s references to ancient languages of Britain / Anglos / Saxons / old Norse will love it.",
+   "section": "crowdsourced",
+   "recommender": "Christopher (reader)"
+  },
+  {
+   "id": "2024-09-22-caravan-sandwitch",
+   "name": "Caravan SandWitch",
+   "url": "https://caravansandwitch.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Caravan SandWitch is a wonderful cozy game. It’s on everything and is just lovely.",
+   "section": "crowdsourced",
+   "recommender": "Iain (reader)"
+  },
+  {
+   "id": "2024-09-22-notebooklm",
+   "name": "NotebookLM",
+   "url": "https://notebooklm.google.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Played around with NotebookLM from Google. One fun but helpful use case is to take research papers and generate podcasts. I’ve been reading a bunch of complex ML papers as an engineering student, so I convert them into podcasts and listen on my commute. Certainly interesting TTS application.",
+   "section": "crowdsourced",
+   "recommender": "Kruti (reader)"
+  },
+  {
+   "id": "2024-09-22-no-rolls-barred",
+   "name": "No Rolls Barred",
+   "url": "https://www.youtube.com/@NoRollsBarred",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "In the most recent newsletters, someone recommended the No Rolls Barred YouTube channel but neglected to mention their best content: Blood on the Clocktower . It’s a social deduction game by The Pandemonium Institute for 7–20 (!!) players. Think like Werewolf or Mafia , but more fun.",
+   "section": "crowdsourced",
+   "recommender": "Greg (reader)"
+  },
+  {
+   "id": "2024-09-22-blood-on-the-clocktower",
+   "name": "Blood on the Clocktower",
+   "url": "https://www.youtube.com/playlist?list=PLQBGXhGots83LIf1qY4Zg0Mp9qU1Kr2Hv",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "In the most recent newsletters, someone recommended the No Rolls Barred YouTube channel but neglected to mention their best content: Blood on the Clocktower . It’s a social deduction game by The Pandemonium Institute for 7–20 (!!) players. Think like Werewolf or Mafia , but more fun.",
+   "section": "crowdsourced",
+   "recommender": "Greg (reader)"
+  },
+  {
+   "id": "2024-09-22-links-i-would-gchat-you-if-we-were-friends",
+   "name": "Links I Would Gchat You If We Were Friends",
+   "url": "https://linksiwouldgchatyou.substack.com/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "newsletter"
+   ],
+   "blurb": "With Today in Tabs on hiatus, Caitlin Dewey’s newsletter Links I Would Gchat You If We Were Friends has become the most dependable curated reading list around. (Also don’t miss her excellent 10-year retrospective of G*mergate.)",
+   "section": "crowdsourced",
+   "recommender": "Kevin (reader)"
+  },
+  {
+   "id": "2024-09-22-things-3",
+   "name": "Things 3",
+   "url": "https://culturedcode.com/things/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After years of loyalty to Things 3 , I bit the bullet and moved over to Todoist . Natural language input is a big factor, but also fed up with long lists in Things — kanban in Todoist breaks things up nicely. I do miss the UI of Things though.",
+   "section": "crowdsourced",
+   "recommender": "Scott (reader)"
+  },
+  {
+   "id": "2024-09-22-rocketjump",
+   "name": "RocketJump",
+   "url": "https://rocketjump.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s been great following along with RocketJump on their Patreon as they write, plan, and produce their independent action-comedy film! They go really in-depth on everything from location planning to studio pitch decks.",
+   "section": "crowdsourced",
+   "recommender": "Josh (reader)"
+  },
+  {
+   "id": "2024-09-22-astro-bot",
+   "name": "Astro Bot",
+   "url": "https://www.playstation.com/en-us/games/astro-bot/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I can’t stop playing Astro Bot . It feels like a love letter to 30 years of PlayStation, and having been a PlayStation fan my entire life, every level just puts a smile on my face.",
+   "section": "crowdsourced",
+   "recommender": "Nick (reader)"
+  },
+  {
+   "id": "2024-09-22-d4vd",
+   "name": "D4vd",
+   "url": "https://www.d4vd.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "On Wednesday, I was at the Made on YouTube event in New York City (the crowd was made up of me and like 200 extremely cool and fun creators), where CEO Neal Mohan and a bunch of other executives rolled out some new features.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-22-here-with-me",
+   "name": "Here With Me",
+   "url": "https://www.youtube.com/watch?v=Ip6cw8gfHHI",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "On Wednesday, I was at the Made on YouTube event in New York City (the crowd was made up of me and like 200 extremely cool and fun creators), where CEO Neal Mohan and a bunch of other executives rolled out some new features.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-22-a-great-gq-interview",
+   "name": "a great GQ interview",
+   "url": "https://www.gq.com/story/d4vd-petals-to-thorns-interview",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "On Wednesday, I was at the Made on YouTube event in New York City (the crowd was made up of me and like 200 extremely cool and fun creators), where CEO Neal Mohan and a bunch of other executives rolled out some new features.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-22-heres-his-tiktok",
+   "name": "here’s his TikTok",
+   "url": "https://www.tiktok.com/@d4vdd?lang=en",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "On Wednesday, I was at the Made on YouTube event in New York City (the crowd was made up of me and like 200 extremely cool and fun creators), where CEO Neal Mohan and a bunch of other executives rolled out some new features.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-09-22-heres-his-youtube-channel",
+   "name": "here’s his YouTube channel",
+   "url": "https://www.youtube.com/@d4vd",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "On Wednesday, I was at the Made on YouTube event in New York City (the crowd was made up of me and like 200 extremely cool and fun creators), where CEO Neal Mohan and a bunch of other executives rolled out some new features.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

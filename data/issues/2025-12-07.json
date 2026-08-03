@@ -1,0 +1,514 @@
+{
+ "schema": 1,
+ "date": "2025-12-07",
+ "post_type": "issue",
+ "title": "An all-time great game makes a comeback",
+ "url": "https://www.theverge.com/tech/839273/red-dead-redemption-fizzy-installer",
+ "author": "David Pierce",
+ "number": 108,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:40+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-12-07-ariana-grande",
+   "name": "Ariana Grande",
+   "url": "https://www.nytimes.com/2025/11/05/movies/ariana-grande-wicked-for-good.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Ariana Grande and pelvic floors and Josh Shapiro and Las Vegas , finishing and then immediately rewatching The Chair Company , working by the light of this extremely rad MoMA lamp , installing a bunch of Hue Dimmer Switches around my house, trying desperately to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-07-pelvic-floors",
+   "name": "pelvic floors",
+   "url": "https://www.wired.com/story/the-pelvic-floor-is-a-problem/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Ariana Grande and pelvic floors and Josh Shapiro and Las Vegas , finishing and then immediately rewatching The Chair Company , working by the light of this extremely rad MoMA lamp , installing a bunch of Hue Dimmer Switches around my house, trying desperately to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-07-josh-shapiro",
+   "name": "Josh Shapiro",
+   "url": "https://www.theatlantic.com/politics/2025/12/josh-shapiro-pennsylvania-trump-president-election/684991/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Ariana Grande and pelvic floors and Josh Shapiro and Las Vegas , finishing and then immediately rewatching The Chair Company , working by the light of this extremely rad MoMA lamp , installing a bunch of Hue Dimmer Switches around my house, trying desperately to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-07-las-vegas",
+   "name": "Las Vegas",
+   "url": "https://slate.com/business/2025/11/las-vegas-travel-sphere-hotel-donald-trump.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Ariana Grande and pelvic floors and Josh Shapiro and Las Vegas , finishing and then immediately rewatching The Chair Company , working by the light of this extremely rad MoMA lamp , installing a bunch of Hue Dimmer Switches around my house, trying desperately to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-07-the-chair-company",
+   "name": "The Chair Company",
+   "url": "https://www.themoviedb.org/tv/271267-chair-company?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Ariana Grande and pelvic floors and Josh Shapiro and Las Vegas , finishing and then immediately rewatching The Chair Company , working by the light of this extremely rad MoMA lamp , installing a bunch of Hue Dimmer Switches around my house, trying desperately to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-07-extremely-rad-moma-lamp",
+   "name": "extremely rad MoMA lamp",
+   "url": "https://store.moma.org/products/layers-table-lamp-blue-pink?gad_campaignid=17191350656&gbraid=0AAAAAD9gvK1tndT71e4qDMI1FnMbGJTOX",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Ariana Grande and pelvic floors and Josh Shapiro and Las Vegas , finishing and then immediately rewatching The Chair Company , working by the light of this extremely rad MoMA lamp , installing a bunch of Hue Dimmer Switches around my house, trying desperately to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-07-hue-dimmer-switches",
+   "name": "Hue Dimmer Switches",
+   "url": "https://www.philips-hue.com/en-us/p/hue-dimmer-switch-latest-model/046677562779",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Ariana Grande and pelvic floors and Josh Shapiro and Las Vegas , finishing and then immediately rewatching The Chair Company , working by the light of this extremely rad MoMA lamp , installing a bunch of Hue Dimmer Switches around my house, trying desperately to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-07-frame-tv",
+   "name": "Frame TV",
+   "url": "https://www.samsung.com/us/lifestyle-tvs/the-frame/highlights/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Ariana Grande and pelvic floors and Josh Shapiro and Las Vegas , finishing and then immediately rewatching The Chair Company , working by the light of this extremely rad MoMA lamp , installing a bunch of Hue Dimmer Switches around my house, trying desperately to…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-07-red-dead-redemption",
+   "name": "Red Dead Redemption",
+   "url": "https://www.rockstargames.com/reddeadredemption",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "If you just off-handedly asked me my favorite modern video games, without thinking about it I’d probably say Red Dead and the Arkham Batman series.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-07-fizzy",
+   "name": "Fizzy",
+   "url": "https://www.fizzy.do/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "From the folks behind Hey and Basecamp, a really nifty new kanban tool that reminds me of Trello, only both more chaotic and much cleaner. It’s really fast, and my brain loves a good project-management board… plus, it’s open-source, so it might spawn some other really fun stuff.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-07-metroid-prime-4-beyond",
+   "name": "Metroid Prime 4: Beyond",
+   "url": "https://www.nintendo.com/us/store/products/metroid-prime-4-beyond-nintendo-switch-2-edition-switch-2/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I know at least a few folks who have been waiting for this game to see if it completes the appeal of the Switch 2. By all accounts, it seems to be handily worth the price of admission, even if there’s some “modern games!” cruft in the mix.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-07-its-never-over-jeff-buckley",
+   "name": "It’s Never Over, Jeff Buckley",
+   "url": "https://www.themoviedb.org/movie/1400381-it-s-never-over-jeff-buckley",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I keep hearing things about this doc, about Buckley’s life and the remarkable album he made, Grace . This will not be a joyful watch, I suspect, but for anyone who loves even just his version of “Hallelujah,” it’s worth the watch.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-07-youtube-recap",
+   "name": "YouTube Recap",
+   "url": "https://blog.youtube/news-and-events/youtube-recap-2025/",
+   "alt_urls": [
+    "https://www.spotify.com/fm/wrapped/",
+    "https://blog.google/products/photos/google-photos-2025-recap/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "This is Wrapped Week, so everybody from Spotify to Google Photos is rolling out years in review. I love YouTube’s already, since it just feels the most revealing about my actual personality. It also made it clear that I watch, uh, too much YouTube.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-07-mirumi",
+   "name": "Mirumi",
+   "url": "https://www.kickstarter.com/projects/yukaienginnering/mirumi-a-charm-robot-that-steals-a-glance-and-your-heart",
+   "alt_urls": [
+    "https://www.theverge.com/2025/1/5/24325152/yukai-engineering-mirumi-robot-ces"
+   ],
+   "category": "gadget",
+   "tags": [
+    "kickstarter"
+   ],
+   "blurb": "This furry little robot was one of the delights of last CES , and is now finally becoming real. (Real-ish, anyway — it’s still a Kickstarter project.) It’s pretty expensive, given that it does, you know, nothing! But I mean, look at it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-07-halo",
+   "name": "Halo",
+   "url": "https://apps.apple.com/us/app/halo-self-improvement/id6738296252",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "The team at Matter continues to have the best-looking reading app on the planet, and their new habit tracker for iOS looks just as good. Some potentially interesting, potentially annoying AI stuff in here, but even the basic tracker stuff is just lovely to look at and use.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-07-routine",
+   "name": "Routine",
+   "url": "https://www.routinegame.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After more than a decade of start-and-stop development, this game turned into an unusual, engrossing, deeply fun and deeply stressful sci-fi title for PC and Xbox. One of those games I can tell I’m going to enjoy just from the vibe of the trailer.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-07-notion-calendar",
+   "name": "Notion Calendar",
+   "url": "https://www.notion.com/product/calendar",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This is such a dumb, small thing: Notion finally updated this app so you can hide the right sidebar! Now it’s all calendar and no nonsense. This was already my daily driver calendar app, but for some reason that tiny change makes me like it even more.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-07-i-currently-have-an-iphone-14-pro-max-but-not-fo",
+   "name": "I currently have an iPhone 14 Pro Max, but not for much longer; I’m literally wa",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: I currently have an iPhone 14 Pro Max, but not for much longer; I’m literally waiting on my new iPhone 17 Pro Max to arrive.",
+   "section": "screen-share",
+   "recommender": "Jess"
+  },
+  {
+   "id": "2025-12-07-jennifer-coolidge-will-destroy-you",
+   "name": "Jennifer Coolidge Will Destroy You",
+   "url": "https://www.wmagazine.com/culture/jennifer-coolidge-daniels-directors-issue-cover-photos",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The shots on my main screen were taken from a tokusatsu-inspired photoshoot for W Magazine ’s 2023 feature “ Jennifer Coolidge Will Destroy You .” I absolutely adore Coolidge and kaiju- / mecha-related media, so when I saw the shoot I became kinda obsessed??",
+   "section": "screen-share",
+   "recommender": "Jess"
+  },
+  {
+   "id": "2025-12-07-focus-friend",
+   "name": "Focus Friend",
+   "url": "https://focusfriend.me/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Some of my current favorite apps include Focus Friend , which is a fun gamified focus timer that helps me keep my ADHD in check, and Next Spaceflight , which tells you about upcoming rocket launches and space missions.",
+   "section": "screen-share",
+   "recommender": "Jess"
+  },
+  {
+   "id": "2025-12-07-next-spaceflight",
+   "name": "Next Spaceflight",
+   "url": "https://nextspaceflight.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Some of my current favorite apps include Focus Friend , which is a fun gamified focus timer that helps me keep my ADHD in check, and Next Spaceflight , which tells you about upcoming rocket launches and space missions.",
+   "section": "screen-share",
+   "recommender": "Jess"
+  },
+  {
+   "id": "2025-12-07-merlin-bird-id",
+   "name": "Merlin Bird ID",
+   "url": "https://merlin.allaboutbirds.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Some of my current favorite apps include Focus Friend , which is a fun gamified focus timer that helps me keep my ADHD in check, and Next Spaceflight , which tells you about upcoming rocket launches and space missions.",
+   "section": "screen-share",
+   "recommender": "Jess"
+  },
+  {
+   "id": "2025-12-07-seek-by-inaturalist",
+   "name": "Seek by iNaturalist",
+   "url": "https://www.inaturalist.org/pages/seek_app",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Some of my current favorite apps include Focus Friend , which is a fun gamified focus timer that helps me keep my ADHD in check, and Next Spaceflight , which tells you about upcoming rocket launches and space missions.",
+   "section": "screen-share",
+   "recommender": "Jess"
+  },
+  {
+   "id": "2025-12-07-marinetraffic",
+   "name": "MarineTraffic",
+   "url": "https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Some of my current favorite apps include Focus Friend , which is a fun gamified focus timer that helps me keep my ADHD in check, and Next Spaceflight , which tells you about upcoming rocket launches and space missions.",
+   "section": "screen-share",
+   "recommender": "Jess"
+  },
+  {
+   "id": "2025-12-07-drinksonmemusic",
+   "name": "@drinksonmemusic",
+   "url": "https://www.tiktok.com/@drinksonmemusic?lang=en",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been trying to cut down on my TikTok consumption, but I’ve really been enjoying two accounts lately. The first is @drinksonmemusic , who posts “Beat Battle” challenges with @southbymusic where both lads will make electronic remix tunes based on randomized, often ridiculous prompts.",
+   "section": "screen-share",
+   "recommender": "Jess"
+  },
+  {
+   "id": "2025-12-07-southbymusic",
+   "name": "@southbymusic",
+   "url": "https://www.tiktok.com/@southbymusic",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been trying to cut down on my TikTok consumption, but I’ve really been enjoying two accounts lately. The first is @drinksonmemusic , who posts “Beat Battle” challenges with @southbymusic where both lads will make electronic remix tunes based on randomized, often ridiculous prompts.",
+   "section": "screen-share",
+   "recommender": "Jess"
+  },
+  {
+   "id": "2025-12-07-shef-phoenix",
+   "name": "@shef_phoenix",
+   "url": "https://www.tiktok.com/@shef_phoenix",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been trying to cut down on my TikTok consumption, but I’ve really been enjoying two accounts lately. The first is @drinksonmemusic , who posts “Beat Battle” challenges with @southbymusic where both lads will make electronic remix tunes based on randomized, often ridiculous prompts.",
+   "section": "screen-share",
+   "recommender": "Jess"
+  },
+  {
+   "id": "2025-12-07-dropout",
+   "name": "Dropout",
+   "url": "https://www.dropout.tv/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been trying to cut down on my TikTok consumption, but I’ve really been enjoying two accounts lately. The first is @drinksonmemusic , who posts “Beat Battle” challenges with @southbymusic where both lads will make electronic remix tunes based on randomized, often ridiculous prompts.",
+   "section": "screen-share",
+   "recommender": "Jess"
+  },
+  {
+   "id": "2025-12-07-cerebus-the-aardvark",
+   "name": "Cerebus the Aardvark",
+   "url": "http://www.cerebustheaardvark.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been trying to cut down on my TikTok consumption, but I’ve really been enjoying two accounts lately. The first is @drinksonmemusic , who posts “Beat Battle” challenges with @southbymusic where both lads will make electronic remix tunes based on randomized, often ridiculous prompts.",
+   "section": "screen-share",
+   "recommender": "Jess"
+  },
+  {
+   "id": "2025-12-07-hellboy-omnibus",
+   "name": "Hellboy omnibus",
+   "url": "https://www.darkhorse.com/books/3002-363/hellboy-omnibus-volume-1-seed-of-destruction-tpb/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been trying to cut down on my TikTok consumption, but I’ve really been enjoying two accounts lately. The first is @drinksonmemusic , who posts “Beat Battle” challenges with @southbymusic where both lads will make electronic remix tunes based on randomized, often ridiculous prompts.",
+   "section": "screen-share",
+   "recommender": "Jess"
+  },
+  {
+   "id": "2025-12-07-absolute-batman",
+   "name": "Absolute Batman",
+   "url": "https://www.dc.com/graphic-novels/absolute-batman-2024/absolute-batman-vol-1-the-zoo",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve been trying to cut down on my TikTok consumption, but I’ve really been enjoying two accounts lately. The first is @drinksonmemusic , who posts “Beat Battle” challenges with @southbymusic where both lads will make electronic remix tunes based on randomized, often ridiculous prompts.",
+   "section": "screen-share",
+   "recommender": "Jess"
+  },
+  {
+   "id": "2025-12-07-arc-raiders",
+   "name": "Arc Raiders",
+   "url": "https://arcraiders.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Haven’t played online multiplayer shooters since Halo 3 and COD 4 days, but Arc Raiders has turned that all around. Solo or with some friends, this game has been an obsession. Almost at 40 hours of play time and I only got it a few weeks ago.",
+   "section": "crowdsourced",
+   "recommender": "Mike (reader)"
+  },
+  {
+   "id": "2025-12-07-nomad",
+   "name": "Nomad",
+   "url": "https://upbeatsound.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just got my Nomad ! Super excited for a rugged portable speaker — and the promise of CarPlay in my Tesla.",
+   "section": "crowdsourced",
+   "recommender": "Zebulon (reader)"
+  },
+  {
+   "id": "2025-12-07-tapo-matter-switches",
+   "name": "Tapo Matter switches",
+   "url": "https://www.tapo.com/en/product/smart-switch/tapo-s505/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Switching over more light switches to Tapo Matter switches . Have had some installed for the past six months, and appreciate that they just work when disconnected from Wi-Fi or when we have guests over.",
+   "section": "crowdsourced",
+   "recommender": "Tim (reader)"
+  },
+  {
+   "id": "2025-12-07-little-debbie-christmas-tree-cake-led",
+   "name": "Little Debbie Christmas Tree Cake LED",
+   "url": "https://shop.littledebbie.com/pages/christmas-tree-cake-led",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Little Debbie Christmas Tree Cake LED . Amazing, and hard to get.",
+   "section": "crowdsourced",
+   "recommender": "Chris (reader)"
+  },
+  {
+   "id": "2025-12-07-retroid-pocket-g2",
+   "name": "Retroid Pocket G2",
+   "url": "https://www.goretroid.com/products/retroid-pocket-g2-handheld",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My Retroid Pocket G2 showed up today. Sean already had an article about Valve funding Fex for Android / PC emulation, and with Winlator and Gamehub, there are some amazing options for emulating steam games on handhelds. Some of them get better performance than a Steam Deck!",
+   "section": "crowdsourced",
+   "recommender": "Cameron (reader)"
+  },
+  {
+   "id": "2025-12-07-enterprise",
+   "name": "Enterprise",
+   "url": "https://www.lego.com/en-us/product/star-trek-u-s-s-enterprise-ncc-1701-d-10356",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The new Enterprise model from Lego might take the win for IP blend of the year. My geek gauge broke.",
+   "section": "crowdsourced",
+   "recommender": "David (reader)"
+  },
+  {
+   "id": "2025-12-07-benq-screenbar-pro",
+   "name": "BenQ ScreenBar Pro",
+   "url": "https://www.benq.com/en-us/lighting/monitor-light/screenbar-pro.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Buying a BenQ ScreenBar Pro LED light bar for my monitor was the best home office upgrade I’ve done in a long time. It just mounts on top of your monitor and your webcam mounts on top of the light bar. Very nice light for your workspace and perfect when you’re working late with kids sleeping nearby.",
+   "section": "crowdsourced",
+   "recommender": "Shady (reader)"
+  },
+  {
+   "id": "2025-12-07-vampires-smp",
+   "name": "Vampires SMP",
+   "url": "https://www.youtube.com/playlist?list=PL8a64Cjzx7Dk0aNSZ0dqHCfe1_zEG6M0z",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’ve been obsessed with Vampires SMP as of late, a narrative roleplay series set within Minecraft with an insanely fun and dramatic cast. I can’t stop thinking about this show and its characters to a degree that few TV shows have managed.",
+   "section": "crowdsourced",
+   "recommender": "Eris (reader)"
+  },
+  {
+   "id": "2025-12-07-helldivers-2",
+   "name": "Helldivers 2",
+   "url": "https://sonyps.prf.hn/click/camref:1101l5nbBL/pubref:installer/destination:https%3A%2F%2Fwww.playstation.com%2Fen-us%2Fgames%2Fhelldivers-2%2Fpc%2F",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Spreading managed democracy in Helldivers 2 is awesome.",
+   "section": "crowdsourced",
+   "recommender": "Ani (reader)"
+  },
+  {
+   "id": "2025-12-07-raycast",
+   "name": "Raycast",
+   "url": "https://www.raycast.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve written a bunch here in the last few weeks about Raycast , the launcher / note-taker / AI chat / many other things app that has become a key part of my computing life. (I also had Thomas Paul Mann, the company’s CEO, on The Vergecast last weekend .)",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-07-raycasts-youtube-channel",
+   "name": "Raycast’s YouTube channel",
+   "url": "https://www.youtube.com/@raycastapp",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’ve written a bunch here in the last few weeks about Raycast , the launcher / note-taker / AI chat / many other things app that has become a key part of my computing life. (I also had Thomas Paul Mann, the company’s CEO, on The Vergecast last weekend .)",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-07-101-things-you-can-do-with-raycast",
+   "name": "101 Things You Can Do With Raycast",
+   "url": "https://www.youtube.com/watch?v=NuIpZoQwuVY",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’ve written a bunch here in the last few weeks about Raycast , the launcher / note-taker / AI chat / many other things app that has become a key part of my computing life. (I also had Thomas Paul Mann, the company’s CEO, on The Vergecast last weekend .)",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

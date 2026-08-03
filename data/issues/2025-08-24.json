@@ -1,0 +1,405 @@
+{
+ "schema": 1,
+ "date": "2025-08-24",
+ "post_type": "issue",
+ "title": "The most fun way to look through old photos",
+ "url": "https://www.theverge.com/installer-newsletter/764641/shutter-declutter-pixel-10-pro-fold-samsung-galaxy-buds-3-fe-herdling-installer",
+ "author": "Jay Peters",
+ "number": 95,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:39+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-08-24-listening-to-independent-radio",
+   "name": "listening to independent radio",
+   "url": "https://www.ldial.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I am listening to independent radio (shoutout to Seattle’s KEXP ), reading about the life of children’s author Richard Scarry , learning about the long development of Hollow Knight: Silksong and “silkposting,” watching the trailer for the next season of The Great British Baking Show …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-24-kexp",
+   "name": "KEXP",
+   "url": "https://www.kexp.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I am listening to independent radio (shoutout to Seattle’s KEXP ), reading about the life of children’s author Richard Scarry , learning about the long development of Hollow Knight: Silksong and “silkposting,” watching the trailer for the next season of The Great British Baking Show …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-24-the-life-of-childrens-author-richard-scarry",
+   "name": "the life of children’s author Richard Scarry",
+   "url": "https://yalereview.org/article/chris-ware-richard-scarry",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I am listening to independent radio (shoutout to Seattle’s KEXP ), reading about the life of children’s author Richard Scarry , learning about the long development of Hollow Knight: Silksong and “silkposting,” watching the trailer for the next season of The Great British Baking Show …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-24-the-long-development-of-hollow-knight-silksong",
+   "name": "the long development of Hollow Knight: Silksong",
+   "url": "https://www.bloomberg.com/news/newsletters/2025-08-21/why-silksong-team-cherry-s-sequel-to-hollow-knight-took-so-long-to-make",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I am listening to independent radio (shoutout to Seattle’s KEXP ), reading about the life of children’s author Richard Scarry , learning about the long development of Hollow Knight: Silksong and “silkposting,” watching the trailer for the next season of The Great British Baking Show …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-24-silkposting",
+   "name": "“silkposting,”",
+   "url": "https://www.youtube.com/watch?v=WSkbylysplI",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I am listening to independent radio (shoutout to Seattle’s KEXP ), reading about the life of children’s author Richard Scarry , learning about the long development of Hollow Knight: Silksong and “silkposting,” watching the trailer for the next season of The Great British Baking Show …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-24-the-trailer-for-the-next-season-of-the-great-bri",
+   "name": "the trailer for the next season of The Great British Baking Show",
+   "url": "https://www.youtube.com/watch?v=BnOZ9BNUTtk",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I am listening to independent radio (shoutout to Seattle’s KEXP ), reading about the life of children’s author Richard Scarry , learning about the long development of Hollow Knight: Silksong and “silkposting,” watching the trailer for the next season of The Great British Baking Show …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-24-perusing-the-kottke-org-rolodex",
+   "name": "perusing the Kottke.org Rolodex",
+   "url": "https://kottke.org/25/07/the-kottkeorg-rolodex",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I am listening to independent radio (shoutout to Seattle’s KEXP ), reading about the life of children’s author Richard Scarry , learning about the long development of Hollow Knight: Silksong and “silkposting,” watching the trailer for the next season of The Great British Baking Show …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-24-learning-about-summer-sunset-times",
+   "name": "learning about summer sunset times",
+   "url": "https://www.accuweather.com/en/space-news/goodbye-long-days-cities-that-have-already-had-last-8-pm-sunset-of-2025/1803384",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I am listening to independent radio (shoutout to Seattle’s KEXP ), reading about the life of children’s author Richard Scarry , learning about the long development of Hollow Knight: Silksong and “silkposting,” watching the trailer for the next season of The Great British Baking Show …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-24-enjoying-seeing-masahiro-sakurai-again",
+   "name": "enjoying seeing Masahiro Sakurai again",
+   "url": "https://www.youtube.com/watch?v=QtkHiB7WKf4",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I am listening to independent radio (shoutout to Seattle’s KEXP ), reading about the life of children’s author Richard Scarry , learning about the long development of Hollow Knight: Silksong and “silkposting,” watching the trailer for the next season of The Great British Baking Show …",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-24-pixel-10-pro-fold",
+   "name": "Pixel 10 Pro Fold",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/sid/__vg0822awD__762080__________________theverge.com/https://store.google.com/product/pixel_10_pro_fold?hl=en-US",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Google’s newest foldable has an IP68 ingress rating, meaning that it should be significantly more resistant to dust than other foldables. The company made it happen with a new gearless hinge design.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-24-pixel-watch-4",
+   "name": "Pixel Watch 4",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/sid/__vg0822awD__761918__________________theverge.com/https://store.google.com/product/pixel_watch_4?hl=en-US",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The newest Pixel Watch has screws on its chassis that you can remove to more easily repair and replace the screen and the battery. Previous Pixel Watches haven’t been repairable, so this is a major step up for Google.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-24-shutter-declutter",
+   "name": "Shutter Declutter",
+   "url": "https://shutterdeclutter.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Every day, this excellent new iOS app nudges you to look through all of the photos you’ve taken on that date — across all years where you’ve snapped a photo on that date — and swipe left or right to delete or keep them.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-24-galaxy-buds-3-fe",
+   "name": "Galaxy Buds 3 FE",
+   "url": "https://howl.link/d9gnzmgxdhigz",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Samsung’s newest earbuds adopt an AirPods-like stemmed design and have 6 hours of battery life with ANC on and 8.5 with ANC off. And at $149.99, their starting price is $100 cheaper than the Galaxy Buds 3 Pro.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-24-nanoleaf-4d-v2",
+   "name": "Nanoleaf 4D V2",
+   "url": "https://nanoleaf.me/en-US/products/nanoleaf-4d/?im_ref=z8C062z0JxyKUY609wVHRQhpUkp2df0RyXfazY0&sharedid=theverge.com&irpid=10078&irgwc=1&category=4D&version=v2&size=65",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Nanoleaf has a new version of its immersive TV lighting kit that adds a color-matched glow behind your screen. I’ve always wanted to try one of these — they seem like a fun way to add a little more pop to what you’re watching.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-24-insta360s-go-ultra",
+   "name": "Insta360’s Go Ultra",
+   "url": "https://store.insta360.com/product/go-ultra",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Insta360’s new compact action camera has a bigger sensor than the Go 3S and can capture footage at 4K / 60fps. It comes in a square shape instead of a pill, but that change means it can include a larger 500mAh battery.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-24-sony-inzone-mouse-a",
+   "name": "Sony InZone Mouse-A",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://electronics.sony.com/audio/gaming-audio/inzone-peripherals/p/mseg500b?srsltid=AfmBOoqaowQhu15Dx4LBX7fOmtGYSTvYvr-sv4WOxhRyV_QlPPHzrgFE",
+   "alt_urls": [
+    "https://www.theverge.com/hands-on/757680/sony-inzone-pc-gaming-headset-keyboard-mouse-hands-on"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "As part of a suite of new InZone gaming peripherals , Sony launched a wireless mouse that weighs just 48 grams. At $149.99, it’s a bit of an investment, but it seems like a decent option if you’re looking for a superlight gaming mouse.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-24-herdling",
+   "name": "Herdling",
+   "url": "https://herdling.game/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "In Herdling , you guide a flock of adorable sheep / woolly mammoth-like creatures through scenic landscapes backed by beautiful music. It’s kind of like Journey , if you played as a shepherd.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-08-24-iphone-16-pro-its-a-perfect-size-for-me-i-used-t",
+   "name": "iPhone 16 Pro! It’s a perfect size for me! I used to have the iPhone 15 Pro Max",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 16 Pro! It’s a perfect size for me! I used to have the iPhone 15 Pro Max for the 5x optical zoom, but it got clumsy to operate with one hand. Now that the iPhone 16 Pro has the 5x optical zoom, too, I went back to the regular size right away.",
+   "section": "screen-share",
+   "recommender": "Jane"
+  },
+  {
+   "id": "2025-08-24-amazing-marvin",
+   "name": "Amazing Marvin",
+   "url": "https://amazingmarvin.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve moved my task management process from Amazing Marvin (which, don’t get me wrong, is a great product) to TickTick . I’ve been writing Apple Shortcuts to try and automate archiving over to Obsidian because I have the data hoarding illness.",
+   "section": "crowdsourced",
+   "recommender": "@feather.town‬ (reader)"
+  },
+  {
+   "id": "2025-08-24-ticktick",
+   "name": "TickTick",
+   "url": "https://ticktick.com/?language=en_us",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve moved my task management process from Amazing Marvin (which, don’t get me wrong, is a great product) to TickTick . I’ve been writing Apple Shortcuts to try and automate archiving over to Obsidian because I have the data hoarding illness.",
+   "section": "crowdsourced",
+   "recommender": "@feather.town‬ (reader)"
+  },
+  {
+   "id": "2025-08-24-apple-shortcuts",
+   "name": "Apple Shortcuts",
+   "url": "https://apps.apple.com/us/app/shortcuts/id1462947752",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "I’ve moved my task management process from Amazing Marvin (which, don’t get me wrong, is a great product) to TickTick . I’ve been writing Apple Shortcuts to try and automate archiving over to Obsidian because I have the data hoarding illness.",
+   "section": "crowdsourced",
+   "recommender": "@feather.town‬ (reader)"
+  },
+  {
+   "id": "2025-08-24-obsidian",
+   "name": "Obsidian",
+   "url": "https://obsidian.md/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve moved my task management process from Amazing Marvin (which, don’t get me wrong, is a great product) to TickTick . I’ve been writing Apple Shortcuts to try and automate archiving over to Obsidian because I have the data hoarding illness.",
+   "section": "crowdsourced",
+   "recommender": "@feather.town‬ (reader)"
+  },
+  {
+   "id": "2025-08-24-digg",
+   "name": "Digg",
+   "url": "https://www.digg.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "New Digg , baby!",
+   "section": "crowdsourced",
+   "recommender": "dome_node (reader)"
+  },
+  {
+   "id": "2025-08-24-retro-catalog",
+   "name": "Retro Catalog",
+   "url": "http://retrocatalog.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have been newly-enjoying two website resources: Retro Catalog and Retro Handhelds . I am also quite a huge fan of Russ from Retro Game Corps on YouTube , who does some very lovely discussions about this wonderful world of retro handhelds.",
+   "section": "crowdsourced",
+   "recommender": "verge_user_m498isna (reader)"
+  },
+  {
+   "id": "2025-08-24-retro-handhelds",
+   "name": "Retro Handhelds",
+   "url": "http://retrohandhelds.gg/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have been newly-enjoying two website resources: Retro Catalog and Retro Handhelds . I am also quite a huge fan of Russ from Retro Game Corps on YouTube , who does some very lovely discussions about this wonderful world of retro handhelds.",
+   "section": "crowdsourced",
+   "recommender": "verge_user_m498isna (reader)"
+  },
+  {
+   "id": "2025-08-24-retro-game-corps-on-youtube",
+   "name": "Retro Game Corps on YouTube",
+   "url": "https://www.youtube.com/c/RetroGameCorps",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I have been newly-enjoying two website resources: Retro Catalog and Retro Handhelds . I am also quite a huge fan of Russ from Retro Game Corps on YouTube , who does some very lovely discussions about this wonderful world of retro handhelds.",
+   "section": "crowdsourced",
+   "recommender": "verge_user_m498isna (reader)"
+  },
+  {
+   "id": "2025-08-24-boys-go-to-jupiter",
+   "name": "Boys Go to Jupiter",
+   "url": "https://www.themoviedb.org/movie/1235137-boys-go-to-jupiter",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Boys Go to Jupiter is a brilliantly weird animated film about a teen trying to raise $5,000 as a delivery driver in surreal Florida.",
+   "section": "crowdsourced",
+   "recommender": "Daniel (reader)"
+  },
+  {
+   "id": "2025-08-24-beeper",
+   "name": "Beeper",
+   "url": "https://www.beeper.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I suspect most Verge readers know about Beeper , but it has a hidden use case that they probably haven’t thought about: accessing DMs without risking getting sucked into an app.",
+   "section": "crowdsourced",
+   "recommender": "boblin (reader)"
+  },
+  {
+   "id": "2025-08-24-the-compound",
+   "name": "The Compound",
+   "url": "https://www.penguinrandomhouse.com/books/773489/the-compound-a-gma-book-club-pick-by-aisling-rawle/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just finished Aisling Rawle’s The Compound . If you’re a fan of Love Island but wished there was more dystopia and violence, boy do I have the book for you. On the comics front, Absolute Martian Manhunter is the best showcase for the medium we’ve had in a minute.",
+   "section": "crowdsourced",
+   "recommender": "SocialJerm (reader)"
+  },
+  {
+   "id": "2025-08-24-love-island",
+   "name": "Love Island",
+   "url": "https://www.themoviedb.org/tv/90521-love-island?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I just finished Aisling Rawle’s The Compound . If you’re a fan of Love Island but wished there was more dystopia and violence, boy do I have the book for you. On the comics front, Absolute Martian Manhunter is the best showcase for the medium we’ve had in a minute.",
+   "section": "crowdsourced",
+   "recommender": "SocialJerm (reader)"
+  },
+  {
+   "id": "2025-08-24-absolute-martian-manhunter",
+   "name": "Absolute Martian Manhunter",
+   "url": "https://www.dc.com/comics/absolute-martian-manhunter-2025/absolute-martian-manhunter-1",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just finished Aisling Rawle’s The Compound . If you’re a fan of Love Island but wished there was more dystopia and violence, boy do I have the book for you. On the comics front, Absolute Martian Manhunter is the best showcase for the medium we’ve had in a minute.",
+   "section": "crowdsourced",
+   "recommender": "SocialJerm (reader)"
+  },
+  {
+   "id": "2025-08-24-mr-robot",
+   "name": "Mr. Robot",
+   "url": "https://www.themoviedb.org/tv/62560-mr-robot?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I just finished Aisling Rawle’s The Compound . If you’re a fan of Love Island but wished there was more dystopia and violence, boy do I have the book for you. On the comics front, Absolute Martian Manhunter is the best showcase for the medium we’ve had in a minute.",
+   "section": "crowdsourced",
+   "recommender": "SocialJerm (reader)"
+  },
+  {
+   "id": "2025-08-24-made-by-google-event",
+   "name": "Made by Google event",
+   "url": "https://www.youtube.com/watch?v=JXCXTQIIvM0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "For those of you who watched the Made by Google event this week, how did you feel about the live, Jimmy Fallon-hosted format? It was certainly a big departure from the usual Big Tech keynote vibe.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

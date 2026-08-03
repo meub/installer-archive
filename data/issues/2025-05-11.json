@@ -1,0 +1,496 @@
+{
+ "schema": 1,
+ "date": "2025-05-11",
+ "post_type": "issue",
+ "title": "The one controller to (almost) rule them all",
+ "url": "https://www.theverge.com/installer-newsletter/664397/backbone-pro-controller-surface-pro-poker-face-installer",
+ "author": "David Pierce",
+ "number": 82,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-05-11-ai-prophets",
+   "name": "AI prophets",
+   "url": "https://www.rollingstone.com/culture/culture-features/ai-spiritual-delusions-destroying-human-relationships-1235330175/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about AI prophets and ChatGPT cheaters and the lives of NFL prospects , watching the new season of Taskmaster and a whole bunch of Mulan , playing PGA Tour Pro Golf on my iPhone and the original Mario Golf on my Switch, finally getting into Barbarians at the Gate , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-11-chatgpt-cheaters",
+   "name": "ChatGPT cheaters",
+   "url": "https://nymag.com/intelligencer/article/openai-chatgpt-ai-cheating-education-college-students-school.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about AI prophets and ChatGPT cheaters and the lives of NFL prospects , watching the new season of Taskmaster and a whole bunch of Mulan , playing PGA Tour Pro Golf on my iPhone and the original Mario Golf on my Switch, finally getting into Barbarians at the Gate , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-11-the-lives-of-nfl-prospects",
+   "name": "the lives of NFL prospects",
+   "url": "https://www.espn.com/nfl/story/_/id/44902288/nfl-draft-quinn-ewers-miami-dolphins-texas-longhorns?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about AI prophets and ChatGPT cheaters and the lives of NFL prospects , watching the new season of Taskmaster and a whole bunch of Mulan , playing PGA Tour Pro Golf on my iPhone and the original Mario Golf on my Switch, finally getting into Barbarians at the Gate , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-11-the-new-season-of-taskmaster",
+   "name": "the new season of Taskmaster",
+   "url": "https://www.youtube.com/watch?v=NE3uOVVjB98",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about AI prophets and ChatGPT cheaters and the lives of NFL prospects , watching the new season of Taskmaster and a whole bunch of Mulan , playing PGA Tour Pro Golf on my iPhone and the original Mario Golf on my Switch, finally getting into Barbarians at the Gate , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-11-mulan",
+   "name": "Mulan",
+   "url": "https://www.themoviedb.org/movie/10674-mulan?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about AI prophets and ChatGPT cheaters and the lives of NFL prospects , watching the new season of Taskmaster and a whole bunch of Mulan , playing PGA Tour Pro Golf on my iPhone and the original Mario Golf on my Switch, finally getting into Barbarians at the Gate , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-11-pga-tour-pro-golf",
+   "name": "PGA Tour Pro Golf",
+   "url": "https://apps.apple.com/us/app/pga-tour-pro-golf/id6545262709",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "This week, I’ve been reading about AI prophets and ChatGPT cheaters and the lives of NFL prospects , watching the new season of Taskmaster and a whole bunch of Mulan , playing PGA Tour Pro Golf on my iPhone and the original Mario Golf on my Switch, finally getting into Barbarians at the Gate , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-11-mario-golf",
+   "name": "Mario Golf",
+   "url": "https://www.nintendo.com/us/whatsnew/nintendo-switch-online-expansion-pack-mario-golf-is-now-available/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "This week, I’ve been reading about AI prophets and ChatGPT cheaters and the lives of NFL prospects , watching the new season of Taskmaster and a whole bunch of Mulan , playing PGA Tour Pro Golf on my iPhone and the original Mario Golf on my Switch, finally getting into Barbarians at the Gate , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-11-barbarians-at-the-gate",
+   "name": "Barbarians at the Gate",
+   "url": "https://www.harpercollins.com/products/barbarians-at-the-gate-bryan-burroughjohn-helyar",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about AI prophets and ChatGPT cheaters and the lives of NFL prospects , watching the new season of Taskmaster and a whole bunch of Mulan , playing PGA Tour Pro Golf on my iPhone and the original Mario Golf on my Switch, finally getting into Barbarians at the Gate , and…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-11-the-backbone-pro",
+   "name": "The Backbone Pro",
+   "url": "https://backbone.com/pages/pro",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve had and loved a Backbone controller for a while — it’s a terrific gaming accessory for your phone. The new model is even more ambitious; in addition to your phone, it can also connect wirelessly to iPads, Steam Decks, smart TVs, and more.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-11-emoji-law",
+   "name": "Emoji Law",
+   "url": "https://99percentinvisible.org/episode/626-emoji-law/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“ Emoji Law .” An instant classic of a 99 Percent Invisible episode, about how a thumbs-up emoji in response to a contract proposal turned into a huge lawsuit over what a thumbs-up emoji actually means. A wonky story in the absolute best way, and a great listen.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-11-the-microsoft-surface-pro-12",
+   "name": "The Microsoft Surface Pro 12",
+   "url": "https://www.microsoft.com/en-us/store/configure/surface-pro-12-inch/8mzbmmcjzqv2",
+   "alt_urls": [
+    "https://www.theverge.com/news/658523/microsoft-surface-pro-12-inch-smaller-specs-release-date"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I remain slightly skeptical that any Windows on ARM device can be truly great, but it looks like Microsoft got the spec sheet right with this one. The Pro is thin and light, powerful enough, with good battery life, and starts at $800… I have high hopes for this one.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-11-poker-face-season-two",
+   "name": "Poker Face season two",
+   "url": "https://www.themoviedb.org/tv/120998-poker-face?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This show never quite got its due, I assume mostly because it’s on Peacock and nobody really cares about Peacock. (Disclosure: Comcast, which owns Peacock, is a minority investor in Vox Media.) But it’s a terrific mystery show, and the second season is just as surprising and bizarre as the first.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-11-amazon-kindle-for-ios",
+   "name": "Amazon Kindle for iOS",
+   "url": "https://www.amazon.com/b?node=16571048011&linkCode=ll2&tag=vergenewsletter-20&linkId=4a8f5fe984857314c734e838482d323b&language=en_US&tag=theverge02-20",
+   "alt_urls": [
+    "https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books",
+    "https://www.theverge.com/news/663307/delta-emulator-ios-apple-app-store-patreon-signup",
+    "https://www.theverge.com/news/660084/spotify-app-iphone-apple-update-external-payment-links"
+   ],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "This is mostly a PSA: thanks to the recent ruling against Apple, developers like Amazon can now include links to buy stuff on the web. Amazon’s one of the first I’ve seen to take advantage — you can just click to buy a book! What a world!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-11-handhelds-and-games-im-playing-right-now",
+   "name": "Handhelds (and Games) I’m Playing Right Now",
+   "url": "https://www.youtube.com/watch?v=w6l-Zq9kv1A",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Handhelds (and Games) I’m Playing Right Now .” A fun Retro Games Corp tour of a bunch of interesting and fun handheld consoles — including a couple I didn’t know about before — and some fun games to play on them.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-11-whoop-5-0",
+   "name": "Whoop 5.0",
+   "url": "https://www.whoop.com/eu/en/thelocker/introducing-whoop-5-0-and-whoop-mg/",
+   "alt_urls": [
+    "https://www.theverge.com/news/661773/whoop-5-news-price-specs-battery’"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Whoop has always been a little too much for me. It’s a great fitness tracker for, like, pro athletes, but it’s more than most people need. The new one , though, is smaller and longer-lasting and more focused on overall health tracking.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-11-gta-6-trailer-2-reaction-breakdown",
+   "name": "GTA 6 TRAILER 2 REACTION & BREAKDOWN",
+   "url": "https://www.youtube.com/watch?v=99SxSSkBcvw",
+   "alt_urls": [
+    "https://www.theverge.com/news/660057/grand-theft-auto-6-release-date-delay-may-2026"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ GTA 6 TRAILER 2 REACTION & BREAKDOWN .” Two full hours of frame-by-frame review of a two-minute trailer for a game that’s not coming out for a year , from a big name in GTA streaming, who spends half the stream just being blown away by the graphics? Yes, please.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-11-iphone-16-pro-in-desert-titanium",
+   "name": "iPhone 16 Pro in Desert Titanium",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 16 Pro in Desert Titanium. I am in the No Case Club with my iPhone (although I love my MagSafe Popsocket to help with grip), so I like to have a phone with as much color as Apple will give me.",
+   "section": "screen-share",
+   "recommender": "Myke"
+  },
+  {
+   "id": "2025-05-11-chatgpt",
+   "name": "ChatGPT",
+   "url": "https://chatgpt.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I find myself using ChatGPT more and more to replace Google Search. Being able to ask follow-up questions about what I’m searching for is very powerful, and often helps me find what I want.",
+   "section": "screen-share",
+   "recommender": "Myke"
+  },
+  {
+   "id": "2025-05-11-mango-baby",
+   "name": "Mango Baby",
+   "url": "https://mangobaby.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "My wife and I recently had our first child, and we have been using Mango Baby to track all the important things you need to track for baby health. It’s made by a single developer, it looks great, and it supports all the new Apple technologies like interactive widgets and live activities.",
+   "section": "screen-share",
+   "recommender": "Myke"
+  },
+  {
+   "id": "2025-05-11-readwise-reader",
+   "name": "Readwise Reader",
+   "url": "https://readwise.io/reader",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have recently taken all text-based social media off my phone, and am trying to do these things on work devices only, in an effort to be less distracted. So I have started saving articles to Readwise Reader .",
+   "section": "screen-share",
+   "recommender": "Myke"
+  },
+  {
+   "id": "2025-05-11-widgetsmiths",
+   "name": "Widgetsmith’s",
+   "url": "https://widgetsmith.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I really love Widgetsmith’s photo widgets. The built-in widget from Apple is good, but you never know what it’s going to show you.",
+   "section": "screen-share",
+   "recommender": "Myke"
+  },
+  {
+   "id": "2025-05-11-the-studio",
+   "name": "The Studio",
+   "url": "https://www.themoviedb.org/tv/247767-the-studio",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The Studio on Apple TV Plus is my absolute favorite show right now. It’s an incredibly fun and entertaining show that’s also a technical masterpiece. Everything I see about how this show is made just makes me love and respect it more.",
+   "section": "screen-share",
+   "recommender": "Myke"
+  },
+  {
+   "id": "2025-05-11-kinda-funny-games",
+   "name": "Kinda Funny Games",
+   "url": "https://www.youtube.com/kindafunnygames",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The Studio on Apple TV Plus is my absolute favorite show right now. It’s an incredibly fun and entertaining show that’s also a technical masterpiece. Everything I see about how this show is made just makes me love and respect it more.",
+   "section": "screen-share",
+   "recommender": "Myke"
+  },
+  {
+   "id": "2025-05-11-the-rest-is-history",
+   "name": "The Rest is History",
+   "url": "https://therestishistory.supportingcast.fm/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Studio on Apple TV Plus is my absolute favorite show right now. It’s an incredibly fun and entertaining show that’s also a technical masterpiece. Everything I see about how this show is made just makes me love and respect it more.",
+   "section": "screen-share",
+   "recommender": "Myke"
+  },
+  {
+   "id": "2025-05-11-the-episodes-on-the-assassination-of-jfk",
+   "name": "the episodes on the Assassination of JFK",
+   "url": "https://therestishistory.com/392-jfk-the-road-to-the-white-house-part-1-2/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Studio on Apple TV Plus is my absolute favorite show right now. It’s an incredibly fun and entertaining show that’s also a technical masterpiece. Everything I see about how this show is made just makes me love and respect it more.",
+   "section": "screen-share",
+   "recommender": "Myke"
+  },
+  {
+   "id": "2025-05-11-raddle",
+   "name": "Raddle",
+   "url": "https://raddle.quest/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve started playing another daily word game called Raddle . It’s a word ladder where you have to get from one word (or phrase) to another, but instead of just changing one letter like in a traditional word ladder there are a series of clues like ‘replace the middle letter with a double letter to…",
+   "section": "crowdsourced",
+   "recommender": "Kyle (reader)"
+  },
+  {
+   "id": "2025-05-11-the-seat",
+   "name": "The Seat",
+   "url": "https://www.themoviedb.org/movie/1475666-the-seat",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "The Seat on Netflix, despite the very cringe WhatsApp sponsoring, is a fascinating watch of a prodigy kid still living with his parents who’s about to join one of the top F1 teams. What Drive to Survive could have been.",
+   "section": "crowdsourced",
+   "recommender": "Greg (reader)"
+  },
+  {
+   "id": "2025-05-11-nexus-a-brief-history-of-information-networks-fr",
+   "name": "Nexus: A Brief History of Information Networks from the Stone Age to AI",
+   "url": "https://www.ynharari.com/book/nexus/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just got done with Nexus: A Brief History of Information Networks from the Stone Age to AI , and enjoyed it.",
+   "section": "crowdsourced",
+   "recommender": "Hobie (reader)"
+  },
+  {
+   "id": "2025-05-11-pocket-casts",
+   "name": "Pocket Casts",
+   "url": "https://pocketcasts.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Pocket Casts launched transcripts finally ! Only for Plus and Patron members, it looks like, but if I wasn’t already a Plus member, this would’ve instantly made me one. This will help my constant struggle of wanting to switch to Apple Podcasts significantly.",
+   "section": "crowdsourced",
+   "recommender": "Omesh (reader)"
+  },
+  {
+   "id": "2025-05-11-finally",
+   "name": "finally",
+   "url": "https://blog.pocketcasts.com/2025/04/29/generated-transcripts-are-here/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Pocket Casts launched transcripts finally ! Only for Plus and Patron members, it looks like, but if I wasn’t already a Plus member, this would’ve instantly made me one. This will help my constant struggle of wanting to switch to Apple Podcasts significantly.",
+   "section": "crowdsourced",
+   "recommender": "Omesh (reader)"
+  },
+  {
+   "id": "2025-05-11-yunohost",
+   "name": "YunoHost",
+   "url": "https://yunohost.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After Omnivore shut down, I got stressed and started looking into self hosting. Struggled until I set up YunoHost to self host Wallabag and Miniflux on a Raspberry Pi.",
+   "section": "crowdsourced",
+   "recommender": "Ronin (reader)"
+  },
+  {
+   "id": "2025-05-11-wallabag",
+   "name": "Wallabag",
+   "url": "https://wallabag.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After Omnivore shut down, I got stressed and started looking into self hosting. Struggled until I set up YunoHost to self host Wallabag and Miniflux on a Raspberry Pi.",
+   "section": "crowdsourced",
+   "recommender": "Ronin (reader)"
+  },
+  {
+   "id": "2025-05-11-miniflux",
+   "name": "Miniflux",
+   "url": "https://miniflux.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After Omnivore shut down, I got stressed and started looking into self hosting. Struggled until I set up YunoHost to self host Wallabag and Miniflux on a Raspberry Pi.",
+   "section": "crowdsourced",
+   "recommender": "Ronin (reader)"
+  },
+  {
+   "id": "2025-05-11-kero-kero-cowboy",
+   "name": "Kero Kero Cowboy",
+   "url": "https://metagamemike.itch.io/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I’ve been playing Kero Kero Cowboy for Game Boy, which just got released after a successful Kickstarter. It has strong Kirby vibes and has been a blast so far.",
+   "section": "crowdsourced",
+   "recommender": "Justin (reader)"
+  },
+  {
+   "id": "2025-05-11-alfred-field-guide",
+   "name": "Alfred Field Guide",
+   "url": "https://learn.macsparky.com/p/alfred-5",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m looking at the Alfred Field Guide from MacSparky, and trying to see if I can fit it into my budget this month. Been a Powerpack user for years, but I’ve never learned the ins and outs.",
+   "section": "crowdsourced",
+   "recommender": "Ben (reader)"
+  },
+  {
+   "id": "2025-05-11-the-pitt",
+   "name": "The Pitt",
+   "url": "https://www.themoviedb.org/tv/250307-the-pitt?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The Pitt on Max is the best new show I’ve seen this year.",
+   "section": "crowdsourced",
+   "recommender": "Yury (reader)"
+  },
+  {
+   "id": "2025-05-11-clair-obscur-expedition-33",
+   "name": "Clair Obscur: Expedition 33",
+   "url": "https://www.expedition33.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve basically sunk my week into Clair Obscur: Expedition 33 . I don’t want to sound overly dramatic, but I think it’s the biggest jump in mature video game storytelling since The Witcher 3 . Cyberpunk 2077 and Baldur’s Gate 3 improved on The Witcher, but CO feels like something entirely new.",
+   "section": "crowdsourced",
+   "recommender": "Laszlo (reader)"
+  },
+  {
+   "id": "2025-05-11-dammit-jeff",
+   "name": "Dammit Jeff",
+   "url": "https://www.youtube.com/watch?v=Qtk7ERwlIAk",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’ve spent some time this week on YouTube watching people jailbreak their e-readers — Dammit Jeff has a great explainer, as does Simon Feilder — and they all show that the Kindle can be a much more interesting and versatile device. Also, people really like KOReader .",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-11-simon-feilder",
+   "name": "Simon Feilder",
+   "url": "https://www.youtube.com/watch?v=clbsWYr99ns",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I’ve spent some time this week on YouTube watching people jailbreak their e-readers — Dammit Jeff has a great explainer, as does Simon Feilder — and they all show that the Kindle can be a much more interesting and versatile device. Also, people really like KOReader .",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2025-05-11-koreader",
+   "name": "KOReader",
+   "url": "https://koreader.rocks/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’ve spent some time this week on YouTube watching people jailbreak their e-readers — Dammit Jeff has a great explainer, as does Simon Feilder — and they all show that the Kindle can be a much more interesting and versatile device. Also, people really like KOReader .",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

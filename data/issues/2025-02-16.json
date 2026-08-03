@@ -1,0 +1,581 @@
+{
+ "schema": 1,
+ "date": "2025-02-16",
+ "post_type": "issue",
+ "title": "A treasure trove of comedy history",
+ "url": "https://www.theverge.com/installer-newsletter/613174/snl-50-peacock-apple-tv-plus-powerbeats-pro-2-installer",
+ "author": "David Pierce",
+ "number": 71,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:38+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-02-16-alan-turing",
+   "name": "Alan Turing",
+   "url": "https://spectrum.ieee.org/alan-turings-delilah?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Alan Turing and OnlyFans and street booze and convenience stores , dusting off my Fortnite skills for the first time in a while, reading The Ministry of Time , working up the courage to make air fryer donuts , trying out a Sony ZV-1 M2 as my webcam, catching up on…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-16-onlyfans",
+   "name": "OnlyFans",
+   "url": "https://www.gq.com/story/the-rich-lonely-life-of-a-top-tier-male-onlyfans-creator",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Alan Turing and OnlyFans and street booze and convenience stores , dusting off my Fortnite skills for the first time in a while, reading The Ministry of Time , working up the courage to make air fryer donuts , trying out a Sony ZV-1 M2 as my webcam, catching up on…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-16-street-booze",
+   "name": "street booze",
+   "url": "https://www.grubstreet.com/2019/06/on-the-trail-of-nyc-nutcracker-kings.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Alan Turing and OnlyFans and street booze and convenience stores , dusting off my Fortnite skills for the first time in a while, reading The Ministry of Time , working up the courage to make air fryer donuts , trying out a Sony ZV-1 M2 as my webcam, catching up on…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-16-convenience-stores",
+   "name": "convenience stores",
+   "url": "https://www.grubstreet.com/2019/06/on-the-trail-of-nyc-nutcracker-kings.html?__readwiseLocation=",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Alan Turing and OnlyFans and street booze and convenience stores , dusting off my Fortnite skills for the first time in a while, reading The Ministry of Time , working up the courage to make air fryer donuts , trying out a Sony ZV-1 M2 as my webcam, catching up on…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-16-fortnite",
+   "name": "Fortnite",
+   "url": "https://www.fortnite.com/?lang=en-US",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Alan Turing and OnlyFans and street booze and convenience stores , dusting off my Fortnite skills for the first time in a while, reading The Ministry of Time , working up the courage to make air fryer donuts , trying out a Sony ZV-1 M2 as my webcam, catching up on…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-16-the-ministry-of-time",
+   "name": "The Ministry of Time",
+   "url": "https://www.simonandschuster.com/books/The-Ministry-of-Time/Kaliane-Bradley/9781668045145",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Alan Turing and OnlyFans and street booze and convenience stores , dusting off my Fortnite skills for the first time in a while, reading The Ministry of Time , working up the courage to make air fryer donuts , trying out a Sony ZV-1 M2 as my webcam, catching up on…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-16-air-fryer-donuts",
+   "name": "air fryer donuts",
+   "url": "https://www.thepioneerwoman.com/food-cooking/recipes/a61769941/air-fryer-doughnuts-recipe/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Alan Turing and OnlyFans and street booze and convenience stores , dusting off my Fortnite skills for the first time in a while, reading The Ministry of Time , working up the courage to make air fryer donuts , trying out a Sony ZV-1 M2 as my webcam, catching up on…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-16-sony-zv-1-m2",
+   "name": "Sony ZV-1 M2",
+   "url": "https://www.kqzyfj.com/click-8836598-15268034?url=https%3A%2F%2Felectronics.sony.com%2Fimaging%2Fcompact-cameras%2Fall-vlog-compact-cameras%2Fp%2Fzv1m2-b",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Alan Turing and OnlyFans and street booze and convenience stores , dusting off my Fortnite skills for the first time in a while, reading The Ministry of Time , working up the courage to make air fryer donuts , trying out a Sony ZV-1 M2 as my webcam, catching up on…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-16-the-white-lotus",
+   "name": "The White Lotus",
+   "url": "https://www.themoviedb.org/tv/111803-the-white-lotus",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Alan Turing and OnlyFans and street booze and convenience stores , dusting off my Fortnite skills for the first time in a while, reading The Ministry of Time , working up the courage to make air fryer donuts , trying out a Sony ZV-1 M2 as my webcam, catching up on…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-16-anybox",
+   "name": "Anybox",
+   "url": "https://anybox.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Alan Turing and OnlyFans and street booze and convenience stores , dusting off my Fortnite skills for the first time in a while, reading The Ministry of Time , working up the courage to make air fryer donuts , trying out a Sony ZV-1 M2 as my webcam, catching up on…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-16-simplify",
+   "name": "Simplify",
+   "url": "https://simpl.fyi/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Alan Turing and OnlyFans and street booze and convenience stores , dusting off my Fortnite skills for the first time in a while, reading The Ministry of Time , working up the courage to make air fryer donuts , trying out a Sony ZV-1 M2 as my webcam, catching up on…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-16-snl50",
+   "name": "SNL50",
+   "url": "https://imp.i305175.net/c/482924/846890/11640?cid=2201affiliateevgnpkpdaff4393&u=https%3A%2F%2Fwww.peacocktv.com%2Fwatch%2Fasset%2Ftv%2Fsnl50-the-anniversary-show%2F4369ff11-91c5-3bd5-819f-ecd89e8ed1d4",
+   "alt_urls": [
+    "https://imp.i305175.net/c/482924/846890/11640?cid=2201affiliateevgnpkpdaff4393&u=https%3A%2F%2Fwww.peacocktv.com%2Fwatch%2Fasset%2Ftv%2Fsnl50-the-anniversary-show%2F4369ff11-91c5-3bd5-819f-ecd89e8ed1d4",
+    "https://imp.i305175.net/c/482924/846890/11640?cid=2201affiliateevgnpkpdaff4393&u=https%3A%2F%2Fwww.peacocktv.com%2Fwatch%2Fsaturday-night-hub"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I am very excited for the three-hour SNL anniversary show on Sunday, and even the concert on Saturday night , but I might be even more excited about this Peacock landing page.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-16-beats-powerbeats-pro-2",
+   "name": "Beats Powerbeats Pro 2",
+   "url": "https://www.apple.com/shop/product/MX733LL/A/powerbeats-pro-2-high-performance-earbuds-quick-sand",
+   "alt_urls": [
+    "https://www.theverge.com/headphone-review/609473/powerbeats-pro-2-review-headphones-heart-rate-monitoring-wearables"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "All the useful Apple-y features of AirPods Pros, but in cooler colors and with earhooks that actually keep the buds in my ears. I bought a pair in the (slightly boring but that’s the point) “quick sand” color, and I’m very happy with my purchase. I do wish the mic was a little better, though.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-16-the-witcher-sirens-of-the-deep",
+   "name": "The Witcher: Sirens of The Deep",
+   "url": "https://www.themoviedb.org/movie/1203329-the-witcher-sirens-of-the-deep?language=en-US",
+   "alt_urls": [
+    "https://www.theverge.com/tv-reviews/609957/the-witcher-sirens-of-the-deep-review-netflix"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I haven’t really dug into the whole Witcher Netflix-verse, after hearing so many mixed things about the show. But this, an animated movie with none of the baggage but all of the cool monster-hunting , sounds like my kind of thing.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-16-the-wacom-intuos-pro",
+   "name": "The Wacom Intuos Pro",
+   "url": "https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos-pro",
+   "alt_urls": [
+    "https://www.theverge.com/news/610826/wacom-intuos-pro-drawing-tablet-launch-price"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Easily the biggest thing to happen to drawing tablets in, I don’t know, a decade? I like the idea of putting the controls at the top and making them more tactile, and I like that they’re a little smaller and slimmer, but I do wonder how many yearslong workflows are going to need some time to adjust.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-16-the-gorge",
+   "name": "The Gorge",
+   "url": "https://www.themoviedb.org/movie/950396-the-gorge",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I like the premise of this movie so much — two people on either side of a huge, deep, fog-filled gorge, tasked with protecting the world from whatever is down there, and also something something love story — that I don’t really care that the reviews aren’t great.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-16-apple-tv-plus-for-android",
+   "name": "Apple TV Plus for Android",
+   "url": "https://play.google.com/store/apps/details?id=com.apple.atve.androidtv.appletv&hl=en_US",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "And oh, look, a new way to watch The Gorge ! Apple obviously timed this launch for Severance ’s comeback and the upcoming MLS season, but it’s a big win for subscribers and a long overdue move from Apple.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-16-apple-cider-vinegar",
+   "name": "Apple Cider Vinegar",
+   "url": "https://www.themoviedb.org/tv/241501-apple-cider-vinegar",
+   "alt_urls": [
+    "https://www.themoviedb.org/tv/252174-an-update-on-our-family?language=en-US"
+   ],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "On Netflix, this is the rare show my wife and I are equally into — about influencer culture and the lengths people will go to get likes. Along with An Update on Our Family and a few others, we’re building a deeply bleak genre here.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-16-is-this-seat-taken",
+   "name": "Is This Seat Taken?",
+   "url": "https://store.steampowered.com/app/3035120/Is_This_Seat_Taken/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "All you can play right now is a Steam demo, but this puzzler game — which is like Guess Who meets RollerCoaster Tycoon — is fun and funny and extremely easy to get lost in. It’s sucking me in the way Balatro did, which is terrifying and great.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-16-routine-for-android",
+   "name": "Routine for Android",
+   "url": "https://play.google.com/store/apps/details?id=co.routine.android",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "I’ve been watching Routine for a while, and it’s shaping into a really powerful (if slightly convoluted) app for notes, tasks, calendars, and more. The Android app isn’t quite fully featured yet, but it’ll get there, and it’s one to try out.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-02-16-galaxy-z-flip-5",
+   "name": "Galaxy Z Flip 5",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: Galaxy Z Flip 5.",
+   "section": "screen-share",
+   "recommender": "Sean"
+  },
+  {
+   "id": "2025-02-16-signal",
+   "name": "Signal",
+   "url": "https://signal.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Third, the reason Signal and Messenger are in an ugly drawer together and Facebook has 54 unreads is because I’m trying to reduce my support for Meta after certain, ahem, societal shifts, but haven’t fully managed it yet.",
+   "section": "screen-share",
+   "recommender": "Sean"
+  },
+  {
+   "id": "2025-02-16-messenger",
+   "name": "Messenger",
+   "url": "https://www.messenger.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Third, the reason Signal and Messenger are in an ugly drawer together and Facebook has 54 unreads is because I’m trying to reduce my support for Meta after certain, ahem, societal shifts, but haven’t fully managed it yet.",
+   "section": "screen-share",
+   "recommender": "Sean"
+  },
+  {
+   "id": "2025-02-16-facebook",
+   "name": "Facebook",
+   "url": "https://www.facebook.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Third, the reason Signal and Messenger are in an ugly drawer together and Facebook has 54 unreads is because I’m trying to reduce my support for Meta after certain, ahem, societal shifts, but haven’t fully managed it yet.",
+   "section": "screen-share",
+   "recommender": "Sean"
+  },
+  {
+   "id": "2025-02-16-myfitnesspal",
+   "name": "MyFitnessPal",
+   "url": "https://www.myfitnesspal.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The key apps on this homescreen are actually MyFitnessPal , which I’m using almost every day just as a calorie counter to actually lose weight; Evernote , where far too much of my memory lives; and Home Assistant for controlling things around my house.",
+   "section": "screen-share",
+   "recommender": "Sean"
+  },
+  {
+   "id": "2025-02-16-evernote",
+   "name": "Evernote",
+   "url": "https://evernote.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The key apps on this homescreen are actually MyFitnessPal , which I’m using almost every day just as a calorie counter to actually lose weight; Evernote , where far too much of my memory lives; and Home Assistant for controlling things around my house.",
+   "section": "screen-share",
+   "recommender": "Sean"
+  },
+  {
+   "id": "2025-02-16-home-assistant",
+   "name": "Home Assistant",
+   "url": "https://www.home-assistant.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The key apps on this homescreen are actually MyFitnessPal , which I’m using almost every day just as a calorie counter to actually lose weight; Evernote , where far too much of my memory lives; and Home Assistant for controlling things around my house.",
+   "section": "screen-share",
+   "recommender": "Sean"
+  },
+  {
+   "id": "2025-02-16-pokemon-tcg-pocket",
+   "name": "Pokémon TCG Pocket",
+   "url": "https://tcgpocket.pokemon.com/en-us/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The key apps on this homescreen are actually MyFitnessPal , which I’m using almost every day just as a calorie counter to actually lose weight; Evernote , where far too much of my memory lives; and Home Assistant for controlling things around my house.",
+   "section": "screen-share",
+   "recommender": "Sean"
+  },
+  {
+   "id": "2025-02-16-1000xresist",
+   "name": "1000xResist",
+   "url": "https://www.craftcavesound.com/1000xResist/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Oh, it’s catch-up season for me! I’m playing 1000xResist , which made Polygon ’s best of 2024 , and watching The OA , which I missed the first time around. I guess they’re similar in a way: they’re both bizarre works of science fiction with intriguing, nuanced, relatable villains.",
+   "section": "screen-share",
+   "recommender": "Sean"
+  },
+  {
+   "id": "2025-02-16-made-polygon-s-best-of-2024",
+   "name": "made Polygon ’s best of 2024",
+   "url": "https://www.polygon.com/what-to-play/24078256/best-video-games-2024",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Oh, it’s catch-up season for me! I’m playing 1000xResist , which made Polygon ’s best of 2024 , and watching The OA , which I missed the first time around. I guess they’re similar in a way: they’re both bizarre works of science fiction with intriguing, nuanced, relatable villains.",
+   "section": "screen-share",
+   "recommender": "Sean"
+  },
+  {
+   "id": "2025-02-16-the-oa",
+   "name": "The OA",
+   "url": "https://www.themoviedb.org/tv/69061-the-oa?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Oh, it’s catch-up season for me! I’m playing 1000xResist , which made Polygon ’s best of 2024 , and watching The OA , which I missed the first time around. I guess they’re similar in a way: they’re both bizarre works of science fiction with intriguing, nuanced, relatable villains.",
+   "section": "screen-share",
+   "recommender": "Sean"
+  },
+  {
+   "id": "2025-02-16-when-the-phone-rings",
+   "name": "When The Phone Rings",
+   "url": "https://www.themoviedb.org/tv/253905?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Oh, it’s catch-up season for me! I’m playing 1000xResist , which made Polygon ’s best of 2024 , and watching The OA , which I missed the first time around. I guess they’re similar in a way: they’re both bizarre works of science fiction with intriguing, nuanced, relatable villains.",
+   "section": "screen-share",
+   "recommender": "Sean"
+  },
+  {
+   "id": "2025-02-16-haihaisb",
+   "name": "haihaisb",
+   "url": "https://www.instagram.com/haihaisb/?hl=en",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Oh, it’s catch-up season for me! I’m playing 1000xResist , which made Polygon ’s best of 2024 , and watching The OA , which I missed the first time around. I guess they’re similar in a way: they’re both bizarre works of science fiction with intriguing, nuanced, relatable villains.",
+   "section": "screen-share",
+   "recommender": "Sean"
+  },
+  {
+   "id": "2025-02-16-the-wager",
+   "name": "The Wager",
+   "url": "https://www.davidgrann.com/books/#the-wager",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Trying to stay sane by limiting my consumption of news and screen time amidst the chaos going around. Reading The Wager from David Grann, the author of Killers of the Flower Moon . Essentially about conflicting reports of a real-life Lord of the Flies that transpires in the 1700s. Very interesting!",
+   "section": "crowdsourced",
+   "recommender": "Colin (reader)"
+  },
+  {
+   "id": "2025-02-16-killers-of-the-flower-moon",
+   "name": "Killers of the Flower Moon",
+   "url": "https://www.davidgrann.com/book/killers-of-the-flower-moon/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Trying to stay sane by limiting my consumption of news and screen time amidst the chaos going around. Reading The Wager from David Grann, the author of Killers of the Flower Moon . Essentially about conflicting reports of a real-life Lord of the Flies that transpires in the 1700s. Very interesting!",
+   "section": "crowdsourced",
+   "recommender": "Colin (reader)"
+  },
+  {
+   "id": "2025-02-16-paradise",
+   "name": "Paradise",
+   "url": "https://www.themoviedb.org/tv/245927-paradise",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "We just started watching Paradise over here and it’s fantastic.",
+   "section": "crowdsourced",
+   "recommender": "Jules (reader)"
+  },
+  {
+   "id": "2025-02-16-e-os",
+   "name": "/e/OS",
+   "url": "https://e.foundation/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As the topic of digital self-determination is more and more a topic (yes, here in Germany too), I was looking into different OSes for my mobile phone. I found a rather good working alternative to Google’s Android and iOS which is called /e/OS . It works really well, and I can still use all my apps.",
+   "section": "crowdsourced",
+   "recommender": "Christian (reader)"
+  },
+  {
+   "id": "2025-02-16-sell-phones",
+   "name": "sell phones",
+   "url": "https://e.foundation/e-os",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "As the topic of digital self-determination is more and more a topic (yes, here in Germany too), I was looking into different OSes for my mobile phone. I found a rather good working alternative to Google’s Android and iOS which is called /e/OS . It works really well, and I can still use all my apps.",
+   "section": "crowdsourced",
+   "recommender": "Christian (reader)"
+  },
+  {
+   "id": "2025-02-16-hole",
+   "name": "Hole",
+   "url": "https://store.steampowered.com/app/2971610/HOLE/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Played a lot of this game called Hole . The name is unfortunate, but it’s cheap and a very good time.",
+   "section": "crowdsourced",
+   "recommender": "Sophie (reader)"
+  },
+  {
+   "id": "2025-02-16-notion",
+   "name": "Notion",
+   "url": "https://www.notion.so/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I don’t know if a lot of people care about this but Notion and TickTick have a two-way integration and it’s great!! I still feel it’s limited in functionality because I can only send one list at a time, which doesn’t make sense, and it’s limited to three lists.",
+   "section": "crowdsourced",
+   "recommender": "Barry (reader)"
+  },
+  {
+   "id": "2025-02-16-ticktick",
+   "name": "TickTick",
+   "url": "https://ticktick.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I don’t know if a lot of people care about this but Notion and TickTick have a two-way integration and it’s great!! I still feel it’s limited in functionality because I can only send one list at a time, which doesn’t make sense, and it’s limited to three lists.",
+   "section": "crowdsourced",
+   "recommender": "Barry (reader)"
+  },
+  {
+   "id": "2025-02-16-a-two-way-integration",
+   "name": "a two-way integration",
+   "url": "https://help.ticktick.com/articles/7263009660070789120",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I don’t know if a lot of people care about this but Notion and TickTick have a two-way integration and it’s great!! I still feel it’s limited in functionality because I can only send one list at a time, which doesn’t make sense, and it’s limited to three lists.",
+   "section": "crowdsourced",
+   "recommender": "Barry (reader)"
+  },
+  {
+   "id": "2025-02-16-this-video",
+   "name": "this video",
+   "url": "https://www.youtube.com/watch?v=dSlGxtOTbbI&t=1s",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Found some joy on the Internet this week with this video . It’s playing the Star Trek TNG theme song as if it was blaring from the Enterprise itself!",
+   "section": "crowdsourced",
+   "recommender": "Mike (reader)"
+  },
+  {
+   "id": "2025-02-16-national-film-board",
+   "name": "National Film Board",
+   "url": "https://www.nfb.ca/apps/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Recently downloaded the National Film Board app and it’s a delight. ‘Get free access to the largest collection of Canadian films online. No subscription or ads.’",
+   "section": "crowdsourced",
+   "recommender": "Christine (reader)"
+  },
+  {
+   "id": "2025-02-16-im-sorry-i-havent-a-clue",
+   "name": "I’m Sorry I Haven’t a Clue",
+   "url": "https://www.bbc.co.uk/programmes/m001zv3t",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "After Instagram showed me video recordings from BBC’s I’m Sorry I Haven’t a Clue I delved into old episodes. If you appreciate British humo(u)r and can stand some musical parts, it’s gloriously fun. I am back to being the crazy person laughing out loud on public transport.",
+   "section": "crowdsourced",
+   "recommender": "Sinan (reader)"
+  },
+  {
+   "id": "2025-02-16-bear-blog",
+   "name": "Bear Blog",
+   "url": "https://bearblog.dev/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently discovered Bear Blog , it’s a cool minimalistic blogging platform with a lot of customization and a Discovery page that feels a little like Hacker News .",
+   "section": "crowdsourced",
+   "recommender": "Sammie (reader)"
+  },
+  {
+   "id": "2025-02-16-discovery",
+   "name": "Discovery",
+   "url": "https://bearblog.dev/discover/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I recently discovered Bear Blog , it’s a cool minimalistic blogging platform with a lot of customization and a Discovery page that feels a little like Hacker News .",
+   "section": "crowdsourced",
+   "recommender": "Sammie (reader)"
+  },
+  {
+   "id": "2025-02-16-reddit-answers",
+   "name": "Reddit Answers",
+   "url": "https://www.reddit.com/answers/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "You know what might be my favorite new-ish thing on the internet? Reddit Answers . I’ve been using it a lot recently, and I’ve found it to be a basically unparalleled system for getting lots of recommendations.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

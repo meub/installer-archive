@@ -1,0 +1,55 @@
+/* Clean theme — all colors live here as custom properties.
+   Theme seam (SPEC §7.2): a future theme (e.g. Win98) overrides these under
+   :root[data-theme="…"] without touching markup or base.css. */
+
+:root {
+  --bg: #faf9f7;
+  --bg-elev: #ffffff;
+  --bg-topbar: rgba(250, 249, 247, 0.88);
+  --text: #1c1917;
+  --text-muted: #57534e;
+  --text-faint: #a29d97;
+  --border: #e7e4e0;
+  --border-strong: #d6d2cc;
+  --accent: #6d28d9;
+  --accent-soft: #f1eafd;
+  --focus: #6d28d9;
+  --chip-bg: #f1efec;
+  --chip-bg-active: #1c1917;
+  --chip-fg-active: #faf9f7;
+  --kbd-bg: #edeae6;
+
+  --badge-app-bg: #ede9fe;    --badge-app-fg: #5b21b6;
+  --badge-game-bg: #dcfce7;   --badge-game-fg: #166534;
+  --badge-media-bg: #dbeafe;  --badge-media-fg: #1e40af;
+  --badge-gadget-bg: #ffedd5; --badge-gadget-fg: #9a3412;
+  --badge-feature-bg: #ccfbf1;--badge-feature-fg: #115e59;
+  --badge-other-bg: #f1efec;  --badge-other-fg: #57534e;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #131110;
+    --bg-elev: #1c1917;
+    --bg-topbar: rgba(19, 17, 16, 0.88);
+    --text: #e9e6e2;
+    --text-muted: #a8a29c;
+    --text-faint: #6b6560;
+    --border: #2b2724;
+    --border-strong: #3d3833;
+    --accent: #a78bfa;
+    --accent-soft: #2b2440;
+    --focus: #a78bfa;
+    --chip-bg: #26221f;
+    --chip-bg-active: #e9e6e2;
+    --chip-fg-active: #131110;
+    --kbd-bg: #26221f;
+
+    --badge-app-bg: #2e2545;    --badge-app-fg: #c4b5fd;
+    --badge-game-bg: #16301f;   --badge-game-fg: #86efac;
+    --badge-media-bg: #1a2942;  --badge-media-fg: #93c5fd;
+    --badge-gadget-bg: #3a2416; --badge-gadget-fg: #fdba74;
+    --badge-feature-bg: #123230;--badge-feature-fg: #5eead4;
+    --badge-other-bg: #26221f;  --badge-other-fg: #a8a29c;
+  }
+}

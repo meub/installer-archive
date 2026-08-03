@@ -1,0 +1,567 @@
+{
+ "schema": 1,
+ "date": "2023-11-12",
+ "post_type": "issue",
+ "title": "The best apps and tools for managing your money online",
+ "url": "https://www.theverge.com/2023/11/12/23955681/best-apps-online-budget-money-mint-ynab-copilot-steam-deck-humane-ai",
+ "author": "David Pierce",
+ "number": 14,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "group-project",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:35+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2023-11-12-mission-impossible-fallout",
+   "name": "Mission: Impossible - Fallout",
+   "url": "https://www.themoviedb.org/movie/353081-mission-impossible-fallout?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been traveling a bunch, so I’ve watched Mission: Impossible - Fallout , Dungeons & Dragons: Honor Among Thieves , and most of Rick and Morty .",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-dungeons-dragons-honor-among-thieves",
+   "name": "Dungeons & Dragons: Honor Among Thieves",
+   "url": "https://www.themoviedb.org/movie/493529-dungeons-dragons-honor-among-thieves?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been traveling a bunch, so I’ve watched Mission: Impossible - Fallout , Dungeons & Dragons: Honor Among Thieves , and most of Rick and Morty .",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-rick-and-morty",
+   "name": "Rick and Morty",
+   "url": "https://www.themoviedb.org/tv/60625-rick-and-morty?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been traveling a bunch, so I’ve watched Mission: Impossible - Fallout , Dungeons & Dragons: Honor Among Thieves , and most of Rick and Morty .",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-life-as-an-onlyfans-star",
+   "name": "life as an OnlyFans star",
+   "url": "https://www.washingtonpost.com/technology/interactive/2023/onlyfans-bryce-adams-top-earners-creator-economy/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been traveling a bunch, so I’ve watched Mission: Impossible - Fallout , Dungeons & Dragons: Honor Among Thieves , and most of Rick and Morty .",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-the-insane-growth-of-whatsapp",
+   "name": "the insane growth of WhatsApp",
+   "url": "https://www.nytimes.com/2023/11/08/technology/mark-zuckerberg-whatsapp.html",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been traveling a bunch, so I’ve watched Mission: Impossible - Fallout , Dungeons & Dragons: Honor Among Thieves , and most of Rick and Morty .",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-mela",
+   "name": "Mela",
+   "url": "https://mela.recipes/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been traveling a bunch, so I’ve watched Mission: Impossible - Fallout , Dungeons & Dragons: Honor Among Thieves , and most of Rick and Morty .",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-how-bonkers-tipping-culture-has-become",
+   "name": "how bonkers tipping culture has become",
+   "url": "https://www.washingtonpost.com/food/2023/11/09/american-tipping-confusion-culture-study/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been traveling a bunch, so I’ve watched Mission: Impossible - Fallout , Dungeons & Dragons: Honor Among Thieves , and most of Rick and Morty .",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-barack-obamas-very-good-ai-reading-list",
+   "name": "Barack Obama’s very good AI reading list",
+   "url": "https://barackobama.medium.com/what-im-reading-on-the-rise-of-artificial-intelligence-72e088918de2",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been traveling a bunch, so I’ve watched Mission: Impossible - Fallout , Dungeons & Dragons: Honor Among Thieves , and most of Rick and Morty .",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-the-steam-deck-oled",
+   "name": "The Steam Deck OLED",
+   "url": "https://store.steampowered.com/steamdeck/",
+   "alt_urls": [
+    "https://www.theverge.com/23951655/steam-deck-oled-review"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "Valve did a Nintendo! Which is to say, it took its already very good console and made a bunch of things about it — the screen, the fan, the battery life, the processor — a little better . I’m definitely going to end up buying this thing.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-the-humane-ai-pin",
+   "name": "The Humane AI Pin",
+   "url": "https://hu.ma.ne/",
+   "alt_urls": [
+    "https://www.theverge.com/2023/11/9/23953901/humane-ai-pin-launch-date-price-openai"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Every gadget company has been asking the same question for the last few years: “what comes after smartphones?” So far, it’s… smartphones.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-gpts",
+   "name": "GPTs",
+   "url": "https://openai.com/blog/introducing-gpts",
+   "alt_urls": [
+    "https://www.theverge.com/2023/11/6/23948957/openai-chatgpt-gpt-custom-developer-platform"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "You can now create your own ChatGPT with whatever knowledge, character, and style you want, and it only takes like five minutes . I’m much more bullish on these smaller, more specific AI tools than I am the One True AI Machine idea, and I think these are going to be huge.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-planet-earth-iii",
+   "name": "Planet Earth III",
+   "url": "https://www.bbcamerica.com/shows/planet-earth-iii--1064619",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The first episode of the third entry in the world’s most epic documentary series is out now in the US, and there are a bunch more episodes to come. The drone footage, the natural sound, the things the producers are able to do underwater and in the sky, it’s all just awesome to watch.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-aftermath",
+   "name": "Aftermath",
+   "url": "https://aftermath.site/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A new publication from some great video game reporters who are already off to a strong start covering Zelda , the Steam Deck, Overwatch , and much more. I love a good website, and so far, this is a very good website.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-final-cut-pro",
+   "name": "Final Cut Pro",
+   "url": "https://www.apple.com/final-cut-pro/",
+   "alt_urls": [
+    "https://www.apple.com/newsroom/2023/11/final-cut-pro-for-mac-and-ipad-get-powerful-updates/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Every once in a while, Apple likes to remind Final Cut users that it remembers they exist and does in fact care about them . The big winner this time (and this year in general) is the iPad app, which got a bunch of handy keyboard shortcuts, workflow tricks, and a useful voiceover tool.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-the-marvels",
+   "name": "The Marvels",
+   "url": "https://www.themoviedb.org/movie/609681-the-marvels?language=en-US",
+   "alt_urls": [
+    "https://www.theverge.com/23952096/the-marvels-review"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "A Marvel movie that both rewards superfans and manages not to confuse everyone else! What a concept! This movie has been somewhat divisive, but The Verge ’s Charles Pulliam-Moore dug it , and I’m excited to see this one.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-documents-by-readdle",
+   "name": "Documents by Readdle",
+   "url": "https://readdle.com/documents",
+   "alt_urls": [
+    "https://readdle.com/blog/meet-new-inbox-documents"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The Files app on iOS devices is so bad. Its organization makes no sense and moving stuff around is too hard. It’s just bad times all around. Readdle’s app has long been a better option, and it got a big update this week — which includes an inbox that just dumps all your files into one place.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-elon-inc",
+   "name": "Elon, Inc",
+   "url": "https://www.bloomberg.com/elon-inc-podcast",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m not at all sure that a weekly podcast about the many chaotic goings-on of the world’s richest person is something I even want in my life, but Bloomberg is doing it really well. It’s chatty but thoughtful, and even the first episode covers a lot of ground.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-ynab",
+   "name": "YNAB",
+   "url": "https://www.ynab.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "is the big winner. YNAB, which stands for You Need A Budget, was the overwhelming most popular recommendation I got this week.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-copilot",
+   "name": "Copilot",
+   "url": "https://copilot.money/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "is the other go-to. Copilot is much more polished than YNAB, and people love the app’s design, its dataviz tools, and just how easy it is to interact with. It’s only for iOS and Mac, which is unfortunate, but as finance apps go, it seems to be unbeatably fun to use.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-qapital",
+   "name": "Qapital",
+   "url": "https://www.qapital.com/",
+   "alt_urls": [
+    "https://buddy.download/",
+    "https://www.empower.com/",
+    "http://homebank.free.fr/en/",
+    "https://getexpenses.app/",
+    "https://www.quicken.com/",
+    "https://www.ramseysolutions.com/ramseyplus/everydollar",
+    "https://nudgetapp.com/",
+    "https://ledger-cli.org/",
+    "https://howl.me/ckYyeAB7rDm"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "There are a lot of apps worth a look. Other apps you recommended, in rough order of popularity: Qapital , Buddy , Empower , HomeBank , Expenses , Quicken , EveryDollar , Nudget , Ledger , and Dime .",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-dont-sleep-on-spreadsheets",
+   "name": "Don’t sleep on spreadsheets",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I heard from a number of people who said they’d tried the apps and built the systems but ultimately landed on a good ol’ spreadsheet in Excel or Google Sheets for tracking their spending.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-tiller",
+   "name": "Tiller",
+   "url": "https://www.tillerhq.com/",
+   "alt_urls": [
+    "https://www.notion.so/templates/expense-tracker"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Templates are your friend! A few people recommended Tiller as a way to make the Excel and Google Sheets setup a little cleaner and more automatic. This Notion template got some love, too.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-the-manual-way-can-be-the-way-but-its-more-work",
+   "name": "The manual way can be the way… but it’s more work",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Some of you love having custom-built systems that you can tend to for a few minutes a week, and there’s certainly no beating “it’s just a file on your computer that you own.” But almost everyone who recommended this strategy also said it’s a lot of work and can be too easy to give up on.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-or-maybe-just-use-your-bank",
+   "name": "Or maybe just use your bank",
+   "url": null,
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A lot of banks now offer budget tools from right within your banking app, so you can manage your money right next to where it lives. (I hear good things about SoFi’s features on this front.) If you do most or all of your banking in one place, a few folks said this is the way.",
+   "section": "group-project",
+   "recommender": null
+  },
+  {
+   "id": "2023-11-12-iphone-15-pro-already-lightly-scratched-my-scree",
+   "name": "iPhone 15 Pro (already lightly scratched my screen)",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 15 Pro (already lightly scratched my screen).",
+   "section": "screen-share",
+   "recommender": "Kevin"
+  },
+  {
+   "id": "2023-11-12-ia-writer",
+   "name": "iA Writer",
+   "url": "https://ia.net/writer",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I don’t know if I was channeling Tartt when I decided to regularly use a rotation of five different writing apps. They are iA Writer , Google Docs , Bear , Apple Notes , and Scrivener , and they all have more weaknesses than strengths.",
+   "section": "screen-share",
+   "recommender": "Kevin"
+  },
+  {
+   "id": "2023-11-12-google-docs",
+   "name": "Google Docs",
+   "url": "https://docs.google.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I don’t know if I was channeling Tartt when I decided to regularly use a rotation of five different writing apps. They are iA Writer , Google Docs , Bear , Apple Notes , and Scrivener , and they all have more weaknesses than strengths.",
+   "section": "screen-share",
+   "recommender": "Kevin"
+  },
+  {
+   "id": "2023-11-12-bear",
+   "name": "Bear",
+   "url": "https://bear.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I don’t know if I was channeling Tartt when I decided to regularly use a rotation of five different writing apps. They are iA Writer , Google Docs , Bear , Apple Notes , and Scrivener , and they all have more weaknesses than strengths.",
+   "section": "screen-share",
+   "recommender": "Kevin"
+  },
+  {
+   "id": "2023-11-12-apple-notes",
+   "name": "Apple Notes",
+   "url": "https://howl.me/ckYyfNZMAmV",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I don’t know if I was channeling Tartt when I decided to regularly use a rotation of five different writing apps. They are iA Writer , Google Docs , Bear , Apple Notes , and Scrivener , and they all have more weaknesses than strengths.",
+   "section": "screen-share",
+   "recommender": "Kevin"
+  },
+  {
+   "id": "2023-11-12-scrivener",
+   "name": "Scrivener",
+   "url": "https://www.literatureandlatte.com/scrivener/overview",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I don’t know if I was channeling Tartt when I decided to regularly use a rotation of five different writing apps. They are iA Writer , Google Docs , Bear , Apple Notes , and Scrivener , and they all have more weaknesses than strengths.",
+   "section": "screen-share",
+   "recommender": "Kevin"
+  },
+  {
+   "id": "2023-11-12-surround-by-hiroshi-yoshimura",
+   "name": "Surround by Hiroshi Yoshimura",
+   "url": "https://lightintheattic.net/products/surround",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Surround by Hiroshi Yoshimura . This recently released ambient record was originally made to be the music of… prefab homes? But it reveals so much on closer listen: shimmering drone, swirls of pleasing synths, a touch of humor.",
+   "section": "screen-share",
+   "recommender": "Kevin"
+  },
+  {
+   "id": "2023-11-12-same-bed-different-dreams-by-ed-park",
+   "name": "Same Bed Different Dreams by Ed Park",
+   "url": "https://www.penguinrandomhouse.com/books/254786/same-bed-different-dreams-by-ed-park/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Surround by Hiroshi Yoshimura . This recently released ambient record was originally made to be the music of… prefab homes? But it reveals so much on closer listen: shimmering drone, swirls of pleasing synths, a touch of humor.",
+   "section": "screen-share",
+   "recommender": "Kevin"
+  },
+  {
+   "id": "2023-11-12-anatomy-of-a-fall",
+   "name": "Anatomy of a Fall",
+   "url": "https://www.themoviedb.org/movie/915935-anatomie-d-une-chute?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Surround by Hiroshi Yoshimura . This recently released ambient record was originally made to be the music of… prefab homes? But it reveals so much on closer listen: shimmering drone, swirls of pleasing synths, a touch of humor.",
+   "section": "screen-share",
+   "recommender": "Kevin"
+  },
+  {
+   "id": "2023-11-12-retroachievements",
+   "name": "RetroAchievements",
+   "url": "https://retroachievements.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "There’s a website called RetroAchievements that adds trophies to old-school games. It’s a great excuse to go back and play games from your childhood or games you never got around to playing.",
+   "section": "crowdsourced",
+   "recommender": "Nick (reader)"
+  },
+  {
+   "id": "2023-11-12-moonring",
+   "name": "Moonring",
+   "url": "https://dene.itch.io/moonring",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Fluttermind, the Moonring dev, hasn’t ported the game to Mac yet, but I did discover some of their other games, and I’ve started to play Spellrazor . It’s a very interesting haunted arcade game.",
+   "section": "crowdsourced",
+   "recommender": "Drake (reader)"
+  },
+  {
+   "id": "2023-11-12-spellrazor",
+   "name": "Spellrazor",
+   "url": "https://dene.itch.io/spellrazor",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Fluttermind, the Moonring dev, hasn’t ported the game to Mac yet, but I did discover some of their other games, and I’ve started to play Spellrazor . It’s a very interesting haunted arcade game.",
+   "section": "crowdsourced",
+   "recommender": "Drake (reader)"
+  },
+  {
+   "id": "2023-11-12-the-kids-of-rutherford-county",
+   "name": "The Kids of Rutherford County",
+   "url": "https://www.nytimes.com/column/the-kids-of-rutherford-county",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just finished The Kids of Rutherford County , the new podcast from the Serial folks, and it was great. Reading Adam Grant’s new book, Hidden Potential . Not done yet, but it’s excellent so far, especially for someone like me who struggles with imposter syndrome.",
+   "section": "crowdsourced",
+   "recommender": "Nick (reader)"
+  },
+  {
+   "id": "2023-11-12-hidden-potential",
+   "name": "Hidden Potential",
+   "url": "https://adamgrant.net/book/hidden-potential/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Just finished The Kids of Rutherford County , the new podcast from the Serial folks, and it was great. Reading Adam Grant’s new book, Hidden Potential . Not done yet, but it’s excellent so far, especially for someone like me who struggles with imposter syndrome.",
+   "section": "crowdsourced",
+   "recommender": "Nick (reader)"
+  },
+  {
+   "id": "2023-11-12-castro",
+   "name": "Castro",
+   "url": "https://castro.fm/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Castro , my favorite podcast app. I appreciate the way that it treats episodes more like emails so I can queue, save for later, or delete them individually. After using it, I can’t move to any other podcast app.",
+   "section": "crowdsourced",
+   "recommender": "Mike (reader)"
+  },
+  {
+   "id": "2023-11-12-detroiters",
+   "name": "Detroiters",
+   "url": "https://www.themoviedb.org/tv/69866-detroiters?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Found the show Detroiters . Really fun 30-minute comedy starring Tim Robinson and Sam Richardson, with their sensibilities.",
+   "section": "crowdsourced",
+   "recommender": "Travi (reader)"
+  },
+  {
+   "id": "2023-11-12-chants-of-sennaar",
+   "name": "Chants of Sennaar",
+   "url": "https://www.focus-entmt.com/en/games/chants-of-sennaar",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m playing a game called Chants of Sennaar right now, and it is unlike any other puzzle / logic game I have played. You wake up in a tower with different classes of people on each level, and they all speak different languages (and obviously, you don’t know any of them).",
+   "section": "crowdsourced",
+   "recommender": "Bahadir (reader)"
+  },
+  {
+   "id": "2023-11-12-beli",
+   "name": "Beli",
+   "url": "https://beliapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I stumbled upon the Beli app for tracking and discovering restaurants, and it is by far the best option for that sort of thing, far better than a crowded Google Maps or noisy FourSquare.",
+   "section": "crowdsourced",
+   "recommender": "Rich (reader)"
+  },
+  {
+   "id": "2023-11-12-60-songs-that-explain-the-90s",
+   "name": "60 Songs That Explain the ‘90s",
+   "url": "https://www.theringer.com/60-songs-that-explain-the-90s",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have recently gotten into the 60 Songs That Explain the ‘90s podcast. I am definitely not an early adopter here but am loving the deep dives on the songs paired with just the right amount of sarcasm and history.",
+   "section": "crowdsourced",
+   "recommender": "Antek (reader)"
+  },
+  {
+   "id": "2023-11-12-scavengers-reign",
+   "name": "Scavengers Reign",
+   "url": "https://www.themoviedb.org/tv/204154-scavengers-reign",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I’m pumped for the finale of Scavengers Reign ! Really enjoyed the season with fantastic planet symbiotic flora, Aeon Flux adult animation / themes, and not everyone is making it out alive.",
+   "section": "crowdsourced",
+   "recommender": "BG (reader)"
+  },
+  {
+   "id": "2023-11-12-kriegs-net",
+   "name": "Kriegs.net",
+   "url": "https://www.kriegs.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "For over 15 years I have made a regular pilgrimage to Kriegs.net to check out the wallpaper that he puts out consistently by the start of the month. The design is usually themed to the season and comes with the option of a calendar in the image.",
+   "section": "crowdsourced",
+   "recommender": "Jonathan (reader)"
+  },
+  {
+   "id": "2023-11-12-answering-peoples-questions",
+   "name": "answering people’s questions",
+   "url": "https://www.tumblr.com/photomatt",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This weekend, pour one out for Tumblr, one of the most interesting social networks on the internet, which appears to be in trouble . It’s not dying, but it’s not… not dying, you know?",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

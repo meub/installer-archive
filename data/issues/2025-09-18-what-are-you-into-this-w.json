@@ -1,0 +1,17 @@
+{
+ "schema": 1,
+ "date": "2025-09-18",
+ "post_type": "callout",
+ "title": "What are you into this week? Tell me for Installer!",
+ "url": "https://www.theverge.com/tech/781044/what-are-you-into-this-week-tell-me-for-installer",
+ "author": "David Pierce",
+ "number": null,
+ "sections_found": [
+  "intro"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:39+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": []
+}

@@ -1,0 +1,534 @@
+{
+ "schema": 1,
+ "date": "2025-12-14",
+ "post_type": "issue",
+ "title": "A new old idea about video stores",
+ "url": "https://www.theverge.com/tech/844117/letterboxd-store-skate-story-ifixit-installer",
+ "author": "David Pierce",
+ "number": 109,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:40+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2025-12-14-google-maps",
+   "name": "Google Maps",
+   "url": "https://laurenleek.substack.com/p/how-google-maps-quietly-allocates",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "newsletter"
+   ],
+   "blurb": "This week, I’ve been reading about Google Maps and shopaganda and life as a pop star , finally getting to watch F1 now that it’s streaming, rewatching the first two Avatars ahead of the next one’s release, pretending the new Taylor Swift tour doc is a reasonable replacement for actually seeing the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-14-life-as-a-pop-star",
+   "name": "life as a pop star",
+   "url": "https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star?__readwiseLocation=",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "newsletter"
+   ],
+   "blurb": "This week, I’ve been reading about Google Maps and shopaganda and life as a pop star , finally getting to watch F1 now that it’s streaming, rewatching the first two Avatars ahead of the next one’s release, pretending the new Taylor Swift tour doc is a reasonable replacement for actually seeing the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-14-life-as-a-pop-star-2",
+   "name": "life as a pop star",
+   "url": "https://www.themoviedb.org/movie/911430-f1?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about Google Maps and shopaganda and life as a pop star , finally getting to watch F1 now that it’s streaming, rewatching the first two Avatars ahead of the next one’s release, pretending the new Taylor Swift tour doc is a reasonable replacement for actually seeing the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-14-first",
+   "name": "first",
+   "url": "https://www.themoviedb.org/movie/19995-avatar?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about Google Maps and shopaganda and life as a pop star , finally getting to watch F1 now that it’s streaming, rewatching the first two Avatars ahead of the next one’s release, pretending the new Taylor Swift tour doc is a reasonable replacement for actually seeing the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-14-two",
+   "name": "two",
+   "url": "https://www.themoviedb.org/movie/76600-avatar-the-way-of-water?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about Google Maps and shopaganda and life as a pop star , finally getting to watch F1 now that it’s streaming, rewatching the first two Avatars ahead of the next one’s release, pretending the new Taylor Swift tour doc is a reasonable replacement for actually seeing the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-14-next-ones",
+   "name": "next one’s",
+   "url": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This week, I’ve been reading about Google Maps and shopaganda and life as a pop star , finally getting to watch F1 now that it’s streaming, rewatching the first two Avatars ahead of the next one’s release, pretending the new Taylor Swift tour doc is a reasonable replacement for actually seeing the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-14-the-new-taylor-swift-tour-doc",
+   "name": "the new Taylor Swift tour doc",
+   "url": "https://disneyplus.bn5x.net/c/482924/564546/9358?u=https%3A%2F%2Fwww.disneyplus.com%2Fbrowse%2Fentity-a948a435-fdcc-4cbe-b699-85dd62fec60b&partnerpropertyid=7032191",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Google Maps and shopaganda and life as a pop star , finally getting to watch F1 now that it’s streaming, rewatching the first two Avatars ahead of the next one’s release, pretending the new Taylor Swift tour doc is a reasonable replacement for actually seeing the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-14-ikea-smart-buttons",
+   "name": "Ikea smart buttons",
+   "url": "https://www.ikea.com/us/en/p/bilresa-remote-control-kit-dual-button-multicolor-70617891/?ranMID=53901",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Google Maps and shopaganda and life as a pop star , finally getting to watch F1 now that it’s streaming, rewatching the first two Avatars ahead of the next one’s release, pretending the new Taylor Swift tour doc is a reasonable replacement for actually seeing the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-14-obsidian",
+   "name": "Obsidian",
+   "url": "https://obsidian.md/changelog/2025-12-10-mobile-v1.11.0/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Google Maps and shopaganda and life as a pop star , finally getting to watch F1 now that it’s streaming, rewatching the first two Avatars ahead of the next one’s release, pretending the new Taylor Swift tour doc is a reasonable replacement for actually seeing the…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-14-imdavidpierce",
+   "name": "@imdavidpierce",
+   "url": "https://www.threads.com/@imdavidpierce",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "And I have a question, looking ahead to the last Installer of the year: What’s your favorite new thing from this year? It doesn’t have to be new this year, just new to you. (And you don’t have to pick your one favorite forever, just hit me with something new you loved this year.)",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-14-the-letterboxd-video-store",
+   "name": "The Letterboxd Video Store",
+   "url": "https://letterboxd.com/video-store/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A tightly curated set of movies to rent, filled with stuff Letterboxd knows people want to see but that you almost certainly won’t find anywhere else. Like all things Letterboxd, it’s all a bit high-minded, but I love this idea and suspect I will check it often.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-14-skate-story",
+   "name": "Skate Story",
+   "url": "https://skatestory.com/",
+   "alt_urls": [
+    "https://www.theverge.com/games/840004/skate-story-review-switch-steam-ps5"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "A late-breaking contender for the best game of 2025! You’re a demon, you skate. And skate. And skate. A lot of reviews say the controls take a little getting used to, but that they give way to something that feels great and looks spectacular.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-14-the-ifixit-app",
+   "name": "The iFixit app",
+   "url": "https://www.ifixit.com/News/114706/the-ifixit-app-is-here",
+   "alt_urls": [
+    "https://www.theverge.com/ai-artificial-intelligence/841252/ifixit-fixbot-hands-on-ai-chatbot"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I can’t say I’m shocked that iFixit’s AI bot, FixBot, isn’t quite up to the task of automatically sussing out how to fix all your gadgets. But that’s fine; I’ll just be using this new iOS and Android app as a library of manuals and repair guides.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-14-darkroom-7-0",
+   "name": "Darkroom 7.0",
+   "url": "https://darkroom.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I totally forgot about Darkroom! It has long been one of the best photo editors for Apple devices, and the new version cleans up the user experience a bunch while also adding some retro-film effects and some high-end video features.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-14-google-photos",
+   "name": "Google Photos",
+   "url": "https://blog.google/products/photos/new-video-editor-templates-custom-text/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "On the other end of the professional spectrum, the Google Photos app just got a bunch of CapCut-style video editing features along with some better tools for making highlight reels and slideshows. I’m suddenly tempted to make a lot of stupid year-in-review stuff to send to my friends.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-14-kill-bill-the-whole-bloody-affair",
+   "name": "Kill Bill: The Whole Bloody Affair .",
+   "url": "https://www.themoviedb.org/movie/414419-kill-bill-the-whole-bloody-affair?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "I’m a sucker for a weird re-edit of a movie, so this is extremely my jam: two Kill Bill movies turned into the single, 4.5-hour bloodfest they were apparently always supposed to be. Apparently it’s a totally different story now!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-14-the-wiim-sound-lite",
+   "name": "The Wiim Sound Lite",
+   "url": "https://www.wiimhome.com/products/wiim-sound-lite",
+   "alt_urls": [
+    "https://www.theverge.com/installer-newsletter/621782/best-speakers-headphones-music-gear-installer"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "From one of the Installerverse’s favorite audio brands comes a new $229 portable speaker that looks like a strong competitor to Sonos’ new gear. (Or a HomePod, I guess.) If I were starting a home audio system right now, I’d probably start with Wiim.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-14-google-disco",
+   "name": "Google Disco",
+   "url": "https://labs.google/disco",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "An experimental new browser based on a weird and novel idea: turning collections of tabs into AI-generated, one-off web apps. I don’t expect Disco itself to ever leave Google Labs, but there’s something awfully futuristic in here.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-14-iphone-15-pro",
+   "name": "iPhone 15 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 15 Pro.",
+   "section": "screen-share",
+   "recommender": "Raffi"
+  },
+  {
+   "id": "2025-12-14-arena",
+   "name": "Arena",
+   "url": "https://www.are.na/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "TestFlights you should keep an eye on: Arena is a community of curious internet folks that I’ve long wanted to immerse myself into but only once the iOS build got to its current level did I find that easy to do.",
+   "section": "screen-share",
+   "recommender": "Raffi"
+  },
+  {
+   "id": "2025-12-14-net",
+   "name": "Net",
+   "url": "https://net.inc/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "TestFlights you should keep an eye on: Arena is a community of curious internet folks that I’ve long wanted to immerse myself into but only once the iOS build got to its current level did I find that easy to do.",
+   "section": "screen-share",
+   "recommender": "Raffi"
+  },
+  {
+   "id": "2025-12-14-retro",
+   "name": "Retro",
+   "url": "https://retro.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "TestFlights you should keep an eye on: Arena is a community of curious internet folks that I’ve long wanted to immerse myself into but only once the iOS build got to its current level did I find that easy to do.",
+   "section": "screen-share",
+   "recommender": "Raffi"
+  },
+  {
+   "id": "2025-12-14-not-boring-camera",
+   "name": "(Not Boring) Camera",
+   "url": "https://notbor.ing/product/camera",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "TestFlights you should keep an eye on: Arena is a community of curious internet folks that I’ve long wanted to immerse myself into but only once the iOS build got to its current level did I find that easy to do.",
+   "section": "screen-share",
+   "recommender": "Raffi"
+  },
+  {
+   "id": "2025-12-14-bump",
+   "name": "Bump",
+   "url": "https://get.amo.co/bump",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "TestFlights you should keep an eye on: Arena is a community of curious internet folks that I’ve long wanted to immerse myself into but only once the iOS build got to its current level did I find that easy to do.",
+   "section": "screen-share",
+   "recommender": "Raffi"
+  },
+  {
+   "id": "2025-12-14-radio-garden",
+   "name": "Radio Garden",
+   "url": "https://radio.garden/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "TestFlights you should keep an eye on: Arena is a community of curious internet folks that I’ve long wanted to immerse myself into but only once the iOS build got to its current level did I find that easy to do.",
+   "section": "screen-share",
+   "recommender": "Raffi"
+  },
+  {
+   "id": "2025-12-14-particle",
+   "name": "Particle",
+   "url": "https://particle.news/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "TestFlights you should keep an eye on: Arena is a community of curious internet folks that I’ve long wanted to immerse myself into but only once the iOS build got to its current level did I find that easy to do.",
+   "section": "screen-share",
+   "recommender": "Raffi"
+  },
+  {
+   "id": "2025-12-14-mercury",
+   "name": "Mercury",
+   "url": "https://mercury.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "TestFlights you should keep an eye on: Arena is a community of curious internet folks that I’ve long wanted to immerse myself into but only once the iOS build got to its current level did I find that easy to do.",
+   "section": "screen-share",
+   "recommender": "Raffi"
+  },
+  {
+   "id": "2025-12-14-tbpn",
+   "name": "TBPN",
+   "url": "https://www.tbpn.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "TBPN & Stratechery podcasts. Discovering creative developers and design engineers who showcase their work on tech Twitter. Using Claude Code to ship iOS apps as someone without a formal background in software engineering. The resurgence of Pokémon and the Trading Card Game app.",
+   "section": "screen-share",
+   "recommender": "Raffi"
+  },
+  {
+   "id": "2025-12-14-stratechery",
+   "name": "Stratechery",
+   "url": "https://stratechery.com/category/podcasts/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "TBPN & Stratechery podcasts. Discovering creative developers and design engineers who showcase their work on tech Twitter. Using Claude Code to ship iOS apps as someone without a formal background in software engineering. The resurgence of Pokémon and the Trading Card Game app.",
+   "section": "screen-share",
+   "recommender": "Raffi"
+  },
+  {
+   "id": "2025-12-14-claude-code",
+   "name": "Claude Code",
+   "url": "https://claude.com/product/claude-code",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "TBPN & Stratechery podcasts. Discovering creative developers and design engineers who showcase their work on tech Twitter. Using Claude Code to ship iOS apps as someone without a formal background in software engineering. The resurgence of Pokémon and the Trading Card Game app.",
+   "section": "screen-share",
+   "recommender": "Raffi"
+  },
+  {
+   "id": "2025-12-14-trading-card-game",
+   "name": "Trading Card Game",
+   "url": "https://www.pokemon.com/us/pokemon-tcg",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "TBPN & Stratechery podcasts. Discovering creative developers and design engineers who showcase their work on tech Twitter. Using Claude Code to ship iOS apps as someone without a formal background in software engineering. The resurgence of Pokémon and the Trading Card Game app.",
+   "section": "screen-share",
+   "recommender": "Raffi"
+  },
+  {
+   "id": "2025-12-14-ghost-of-yotei",
+   "name": "Ghost of Yotei",
+   "url": "https://www.playstation.com/en-us/games/ghost-of-yotei/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Now that finals are over I have been diving into Ghost of Yotei . Crazy beautiful game.",
+   "section": "crowdsourced",
+   "recommender": "Jeremy (reader)"
+  },
+  {
+   "id": "2025-12-14-the-anthropocene-reviewed",
+   "name": "The Anthropocene Reviewed",
+   "url": "https://anthropocenereviewedbook.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Finally reading “ The Anthropocene Reviewed by John Green. Despite John living an entirely different life than me, his experiences and understanding of the world possess so many similarities to mine. I give it five stars.",
+   "section": "crowdsourced",
+   "recommender": "Christopher (reader)"
+  },
+  {
+   "id": "2025-12-14-amazon-luna",
+   "name": "Amazon Luna",
+   "url": "https://www.amazon.com/luna?&linkCode=ll2&tag=vergenewsletter-20&linkId=9fd647be121f784d65a85b35476c401d&language=en_US&tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "I feel like everyone is sleeping on Amazon Luna , the cloud stream gaming platform that Amazon includes with its yearly subscription. It consistently has A+ games on it.",
+   "section": "crowdsourced",
+   "recommender": "Alex (reader)"
+  },
+  {
+   "id": "2025-12-14-bethesda-indiana-jones-game",
+   "name": "Bethesda Indiana Jones game",
+   "url": "https://www.amazon.com/luna/game/indiana-jones-and-the-great-circle/B0CZK9YXW6?&linkCode=ll2&tag=vergenewsletter-20&linkId=f1ea9941df2586ab23c60787939b2c89&language=en_US&tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "I feel like everyone is sleeping on Amazon Luna , the cloud stream gaming platform that Amazon includes with its yearly subscription. It consistently has A+ games on it.",
+   "section": "crowdsourced",
+   "recommender": "Alex (reader)"
+  },
+  {
+   "id": "2025-12-14-audible",
+   "name": "Audible",
+   "url": "https://www.audible.com/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
+   "blurb": "Audible had an insane three months for $1 deal, so I’ve been getting back into audiobooks while I do chores and commute. Currently listening to / reading Alchemised by SenLinYu and it’s fantastic.",
+   "section": "crowdsourced",
+   "recommender": "Colin (reader)"
+  },
+  {
+   "id": "2025-12-14-alchemised",
+   "name": "Alchemised",
+   "url": "https://alchemisedbook.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Audible had an insane three months for $1 deal, so I’ve been getting back into audiobooks while I do chores and commute. Currently listening to / reading Alchemised by SenLinYu and it’s fantastic.",
+   "section": "crowdsourced",
+   "recommender": "Colin (reader)"
+  },
+  {
+   "id": "2025-12-14-teenage-engineering-po-12",
+   "name": "Teenage Engineering PO-12",
+   "url": "https://teenage.engineering/store/po-12",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Got myself a Teenage Engineering PO-12 drum machine on a rare sale. What a glorious little device. Lovely design, and hours of music fun, even for a complete amateur like myself. Plus - it even has a headphone jack! That said - I kind of wish that I’d gotten the PO-20 instead.” —",
+   "section": "crowdsourced",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-14-po-20",
+   "name": "PO-20",
+   "url": "https://teenage.engineering/store/po-20",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Got myself a Teenage Engineering PO-12 drum machine on a rare sale. What a glorious little device. Lovely design, and hours of music fun, even for a complete amateur like myself. Plus - it even has a headphone jack! That said - I kind of wish that I’d gotten the PO-20 instead.” —",
+   "section": "crowdsourced",
+   "recommender": null
+  },
+  {
+   "id": "2025-12-14-stoneblock-4",
+   "name": "StoneBlock 4",
+   "url": "https://feed-the-beast.com/modpacks/130-ftb-stoneblock-4",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "StoneBlock 4 , an amazing Minecraft modpack, is ruining all my productivity this week.",
+   "section": "crowdsourced",
+   "recommender": "Anne (reader)"
+  },
+  {
+   "id": "2025-12-14-ski-down-mt-everest-without-oxygen",
+   "name": "ski down Mt. Everest without oxygen",
+   "url": "https://www.youtube.com/watch?v=cjZvFY6__qw",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Yesterday I watched a badass Polish dude ski down Mt. Everest without oxygen . The feat is unbelievable, but I still think about the incredible footage.",
+   "section": "crowdsourced",
+   "recommender": "Denim (reader)"
+  },
+  {
+   "id": "2025-12-14-xbloom",
+   "name": "Xbloom",
+   "url": "https://xbloom.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m OBSESSED with the Xbloom robotic barista machine I’ve owned for a few weeks now. It’s basically like having a barista on demand 24/7 – if you love drip coffee this is an endgame coffee machine.",
+   "section": "crowdsourced",
+   "recommender": "Andrew (reader)"
+  },
+  {
+   "id": "2025-12-14-the-ost",
+   "name": "the OST",
+   "url": "https://open.spotify.com/album/3T3hC14iSrsNd3fd5UD3wH?nd=1&dlsi=b8b03c70183c47ab",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "+1 for Skate Story . Also, the OST … 👌",
+   "section": "crowdsourced",
+   "recommender": "Andy (reader)"
+  },
+  {
+   "id": "2025-12-14-watch-this-20-minute-video",
+   "name": "watch this 20-minute video",
+   "url": "https://www.youtube.com/watch?v=7j_NE6Pjv-E",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I spent a bunch of time this week learning about Model Context Protocol, which is one of those things that most people will never think about but might be crucial to how technology works going forward.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

@@ -1,0 +1,435 @@
+{
+ "schema": 1,
+ "date": "2023-10-29",
+ "post_type": "issue",
+ "title": "Your guide to the internet’s most (and least) important moments",
+ "url": "https://www.theverge.com/2023/10/29/23935354/apple-journal-leica-m11p-hugo-awards-alan-wake-installer-newsletter",
+ "author": "David Pierce",
+ "number": 12,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "pro-tips",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:35+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2023-10-29-superlist",
+   "name": "Superlist",
+   "url": "https://www.superlist.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been testing the Superlist tasks app, reading about the high-stakes race to crack crypto wallets , rehearsing my case for buying an e-bike , taking voice notes like a boss with Whisper Memos , and avoiding all my problems by watching Between Two Ferns bloopers on YouTube.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-29-high-stakes-race-to-crack-crypto-wallets",
+   "name": "high-stakes race to crack crypto wallets",
+   "url": "https://www.wired.com/story/unciphered-ironkey-password-cracking-bitcoin/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been testing the Superlist tasks app, reading about the high-stakes race to crack crypto wallets , rehearsing my case for buying an e-bike , taking voice notes like a boss with Whisper Memos , and avoiding all my problems by watching Between Two Ferns bloopers on YouTube.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-29-my-case-for-buying-an-e-bike",
+   "name": "my case for buying an e-bike",
+   "url": "https://www.theatlantic.com/health/archive/2023/10/reasons-to-get-e-bike-emissions-climate-change-benefits/675716/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been testing the Superlist tasks app, reading about the high-stakes race to crack crypto wallets , rehearsing my case for buying an e-bike , taking voice notes like a boss with Whisper Memos , and avoiding all my problems by watching Between Two Ferns bloopers on YouTube.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-29-whisper-memos",
+   "name": "Whisper Memos",
+   "url": "https://whispermemos.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been testing the Superlist tasks app, reading about the high-stakes race to crack crypto wallets , rehearsing my case for buying an e-bike , taking voice notes like a boss with Whisper Memos , and avoiding all my problems by watching Between Two Ferns bloopers on YouTube.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-29-between-two-ferns-bloopers",
+   "name": "Between Two Ferns bloopers",
+   "url": "https://www.youtube.com/watch?v=aWK4HmAnCdA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been testing the Superlist tasks app, reading about the high-stakes race to crack crypto wallets , rehearsing my case for buying an e-bike , taking voice notes like a boss with Whisper Memos , and avoiding all my problems by watching Between Two Ferns bloopers on YouTube.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-29-internet-artifacts",
+   "name": "Internet Artifacts",
+   "url": "https://neal.fun/internet-artifacts/",
+   "alt_urls": [
+    "https://neal.fun/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Neal Agarwal’s whole website is an endless string of delightful games and other silly things, and this museum of important internet things — the first MP3, the first-ever “LOL,” footage from the web’s first webcam, Pizzanet, and much more — is some of his best work yet.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-29-the-2023-hugo-awards",
+   "name": "The 2023 Hugo Awards",
+   "url": "https://www.thehugoawards.org/hugo-history/2023-hugo-awards/",
+   "alt_urls": [
+    "https://us.macmillan.com/books/9781250244031/nettlebone",
+    "https://www.uncannymagazine.com/article/rabbit-test/"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "If you’re a science fiction fan, here’s your reading / viewing list for the next year or so. Nettle & Bone by T.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-29-apples-journal-app",
+   "name": "Apple’s Journal app",
+   "url": "https://apps.apple.com/us/app/journal/id6447391597",
+   "alt_urls": [
+    "https://dayoneapp.com/"
+   ],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "iOS 17.2 is starting to roll out now, bringing with it the private-diary app Apple announced at WWDC this year. I’ve been playing with the app for a bit, and it’s… fine? Like, it is, in fact, a journal app. But I’m not quitting Day One yet.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-29-the-killer",
+   "name": "The Killer",
+   "url": "https://www.netflix.com/title/80234448/",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=QPAloq5MCUA"
+   ],
+   "category": "media",
+   "tags": [],
+   "blurb": "You already know this about me, but I’m here for anything about spies and assassins and, in general, people who are both good and bad and don’t know where the lines are. I am also an unabashed David Fincher fan .",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-29-google-maps",
+   "name": "Google Maps",
+   "url": "https://www.google.com/maps",
+   "alt_urls": [
+    "https://www.theverge.com/2023/10/26/23932315/google-maps-ai-immersive-view-ev-charging-search"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I know, new app, super exciting, right? But Maps actually got a really useful update this week.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-29-the-leica-m11-p",
+   "name": "The Leica M11-P",
+   "url": "https://leica-camera.com/en-int/photography/cameras/m/m11-p-black",
+   "alt_urls": [
+    "https://www.theverge.com/2023/10/26/23932288/leica-m11p-camera-rangefinder-adobe-content-authenticity-cai-ai-verification-price-specs"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "It’s $9,195, and I’m sure it’s fantastic because it’s a Leica. But I’m more interested in the built-in support for Adobe’s Content Authenticity tools, which sign and verify each image. In this increasingly messy AI-filled world, I love this idea.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-29-alan-wake-2",
+   "name": "Alan Wake 2",
+   "url": "https://www.alanwake.com/",
+   "alt_urls": [
+    "https://www.theverge.com/23934662/alan-wake-2-review-ps5-xbox-pc"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "A horror-story action game that’s also a detective thriller with a lot of super-weird storytelling that seems to add up to a coherent, fun, intense package ? Sign me up. (Also, I officially have too many great games to play and not enough time. Please consider this my vacation request.)",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-29-the-fight-over-ai-music",
+   "name": "The Fight Over AI Music",
+   "url": "https://www.youtube.com/watch?v=Ey75Xw_ikqs",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The music industry is having to figure out its rules and norms about AI faster than just about anybody. Cleo Abram does a good job digging into how it all works and why it’s so complicated.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-29-xreal-air-2",
+   "name": "Xreal Air 2",
+   "url": "https://us.shop.xreal.com/products/xreal-air-2",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "There are basically two kinds of AR glasses right now. One type is the Ray-Ban Meta smart glasses, which look cool but are all audio. These are the other kind: they’re a screen that goes on your face. That’s it. That’s the whole $400 idea. But… I kinda get it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-29-how-does-ai-actually-work",
+   "name": "How Does AI Actually Work?",
+   "url": "https://www.youtube.com/watch?v=3ihjz7g1OQM",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ How Does AI Actually Work? ” From our friends over at the Waveform podcast, this is a super accessible, thoughtful dive into what we mean when we talk about AI — and intelligence in general. It gets kinda deep!",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-29-sequel",
+   "name": "Sequel",
+   "url": "https://www.getsequel.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A couple of weeks ago, a lot of you told me you like the app Sequel for tracking all the movies, books, TV shows, and everything else you want to get to.",
+   "section": "pro-tips",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-29-trakt",
+   "name": "Trakt",
+   "url": "https://trakt.tv/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A couple of weeks ago, a lot of you told me you like the app Sequel for tracking all the movies, books, TV shows, and everything else you want to get to.",
+   "section": "pro-tips",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-29-iphone-14-pro",
+   "name": "iPhone 14 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 14 Pro",
+   "section": "screen-share",
+   "recommender": "Alex"
+  },
+  {
+   "id": "2023-10-29-went-viral",
+   "name": "went viral",
+   "url": "https://www.theatlantic.com/technology/archive/2015/09/internet-mystery-of-the-week-who-is-the-woman-in-these-vintage-photos/404881/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The wallpaper: Remember those photos that went viral after a woman found them on an old roll of film? I thought they looked neat, so I made them my wallpaper. Turns out they were rejected images for an advertisement shoot.",
+   "section": "screen-share",
+   "recommender": "Alex"
+  },
+  {
+   "id": "2023-10-29-ugly-betty-on-netflix",
+   "name": "Ugly Betty on Netflix",
+   "url": "https://www.netflix.com/title/70157131",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "Ugly Betty on Netflix . I’ve been rewatching it, because America Ferrera, and really enjoying how it accidentally explores two enormous transitions that happened in the late 2000s: the decline of print media and the rise of the phone as a do-everything device.",
+   "section": "screen-share",
+   "recommender": "Alex"
+  },
+  {
+   "id": "2023-10-29-he-who-drowned-the-world-by-shelley-parker-chan",
+   "name": "He Who Drowned the World by Shelley Parker-Chan",
+   "url": "https://us.macmillan.com/books/9781250621832/hewhodrownedtheworld",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Ugly Betty on Netflix . I’ve been rewatching it, because America Ferrera, and really enjoying how it accidentally explores two enormous transitions that happened in the late 2000s: the decline of print media and the rise of the phone as a do-everything device.",
+   "section": "screen-share",
+   "recommender": "Alex"
+  },
+  {
+   "id": "2023-10-29-for-all-mankind",
+   "name": "For All Mankind",
+   "url": "https://tv.apple.com/us/show/for-all-mankind/umc.cmc.6wsi780sz5tdbqcf11k76mkp7",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "Ugly Betty on Netflix . I’ve been rewatching it, because America Ferrera, and really enjoying how it accidentally explores two enormous transitions that happened in the late 2000s: the decline of print media and the rise of the phone as a do-everything device.",
+   "section": "screen-share",
+   "recommender": "Alex"
+  },
+  {
+   "id": "2023-10-29-quiche-browser",
+   "name": "Quiche Browser",
+   "url": "https://quiche.works/browser/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Quiche Browser is really great! You can rearrange the whole search bar area to your liking and also add / remove buttons to / from the search bar area in the settings and change the layout of all the buttons, too.",
+   "section": "crowdsourced",
+   "recommender": "Harun (reader)"
+  },
+  {
+   "id": "2023-10-29-background-sounds",
+   "name": "Background Sounds",
+   "url": "https://support.apple.com/guide/iphone/play-background-sounds-iphb2cfa052c/ios",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Not a new feature but one I just remembered and utilized: sometimes I use the iPad as a white noise machine for the kids when we’re traveling, but I was using a free app that would cut off after eight hours and wake them up early.",
+   "section": "crowdsourced",
+   "recommender": "Thaddaeus (reader)"
+  },
+  {
+   "id": "2023-10-29-bodies",
+   "name": "Bodies",
+   "url": "https://www.netflix.com/title/81252916",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "Bodies on Netflix so far has been rather interesting.",
+   "section": "crowdsourced",
+   "recommender": "James (reader)"
+  },
+  {
+   "id": "2023-10-29-swiftkey",
+   "name": "SwiftKey",
+   "url": "https://www.microsoft.com/en-us/swiftkey",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I decided to move away from the native Google keyboard (GBoard), seeking something new and refreshing. I remembered SwiftKey , the pioneer in gesture / flow input before Microsoft acquired it. Recently, Microsoft added Bing Chat to it, which was a pleasant surprise!",
+   "section": "crowdsourced",
+   "recommender": "Andriy (reader)"
+  },
+  {
+   "id": "2023-10-29-tp-link-av-2000-powerline-adapter",
+   "name": "TP-Link AV-2000 Powerline Adapter",
+   "url": "https://www.tp-link.com/us/home-networking/powerline/tl-pa9020p-kit/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I just recently learned about the TP-Link AV-2000 Powerline Adapter , and I think it’s exactly what I need to get a wired internet connection from my horribly placed router to my home entertainment center!",
+   "section": "crowdsourced",
+   "recommender": "Charles (reader)"
+  },
+  {
+   "id": "2023-10-29-the-mind-behind-windows",
+   "name": "The Mind Behind Windows",
+   "url": "https://www.youtube.com/watch?v=xi1Lq79mLeE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Worth a watch: a three-hour interview with Dave Cutler, ‘ The Mind Behind Windows .’",
+   "section": "crowdsourced",
+   "recommender": "Michael (reader)"
+  },
+  {
+   "id": "2023-10-29-nara-baby",
+   "name": "Nara Baby",
+   "url": "https://naraorganics.com/nara-baby-tracker",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The app that helped us through those first few months of parenthood was Nara Baby . Great design, highly customizable to choose what you want to track, and you can use it like a power user or more casual one.",
+   "section": "crowdsourced",
+   "recommender": "Jasper (reader)"
+  },
+  {
+   "id": "2023-10-29-apples-reminders-app",
+   "name": "Apple’s Reminders app",
+   "url": "https://apps.apple.com/us/app/reminders/id1108187841",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Apple’s Reminders app : now with columns! I just switched from paper to-do lists to this, and it’s kind of blowing my mind. I can add things from any device! I can mark them off anywhere. This is not an absurdly techie thing, but it’s made things easier for me.",
+   "section": "crowdsourced",
+   "recommender": "Will (reader)"
+  },
+  {
+   "id": "2023-10-29-pikmin-4",
+   "name": "Pikmin 4",
+   "url": "https://www.nintendo.com/us/store/products/pikmin-4-switch/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I’m absolutely loving Pikmin 4 . During a crowded time for games, I keep going back to it over others. It’s great for newcomers and series fans alike. It’s gorgeous and has very chill vibes.",
+   "section": "crowdsourced",
+   "recommender": "Bobby (reader)"
+  },
+  {
+   "id": "2023-10-29-new-taylor-swift-album",
+   "name": "new Taylor Swift album",
+   "url": "https://taylor.lnk.to/1989taylorsversion",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Y’all. A new Taylor Swift album came out this week. CAN YOU EVEN BELIEVE IT? I’ve spent the last 24-ish hours mostly streaming “Say Don’t Go” on repeat while also continuing to read and watch everything I can about what a phenomenon Swift has become.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-29-a-great-data-visual-thing",
+   "name": "a great data visual thing",
+   "url": "https://www.bloomberg.com/graphics/2023-taylor-swift-net-worth-billionaire/?srnd=premium",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Y’all. A new Taylor Swift album came out this week. CAN YOU EVEN BELIEVE IT? I’ve spent the last 24-ish hours mostly streaming “Say Don’t Go” on repeat while also continuing to read and watch everything I can about what a phenomenon Swift has become.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-29-the-taylor-swift-industrial-complex",
+   "name": "the Taylor Swift Industrial Complex",
+   "url": "https://www.wsj.com/arts-culture/taylor-swift-taylornomics-concert-eras-tour-local-economy-9fa1d492",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Y’all. A new Taylor Swift album came out this week. CAN YOU EVEN BELIEVE IT? I’ve spent the last 24-ish hours mostly streaming “Say Don’t Go” on repeat while also continuing to read and watch everything I can about what a phenomenon Swift has become.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-10-29-melting-down",
+   "name": "melting down",
+   "url": "https://www.tiktok.com/@bethany_pendleton13/video/7294493539323465003?q=taylor%20swift%201989&t=1698420694465",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Y’all. A new Taylor Swift album came out this week. CAN YOU EVEN BELIEVE IT? I’ve spent the last 24-ish hours mostly streaming “Say Don’t Go” on repeat while also continuing to read and watch everything I can about what a phenomenon Swift has become.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

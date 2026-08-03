@@ -1,0 +1,500 @@
+{
+ "schema": 1,
+ "date": "2026-03-14",
+ "post_type": "issue",
+ "title": "Wordle’s creator made a fun new puzzle game",
+ "url": "https://www.theverge.com/tech/894586/wordle-parseword-sonos-play-installer",
+ "author": "David Pierce",
+ "number": 119,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:40+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-03-14-pixars-future",
+   "name": "Pixar’s future",
+   "url": "https://www.wsj.com/business/media/pixar-disney-franchises-pete-docter-80c57f9d",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Pixar’s future and flight MH370 and sports gambling and YouTube Face , finally digging into Dungeon Crawler Carl after you recommended it so many times, hoping Rooster keeps being as good as its premiere, buying a MacBook Neo I definitely didn’t need, redesigning…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-flight-mh370",
+   "name": "flight MH370",
+   "url": "https://www.theatlantic.com/magazine/archive/2019/07/mh370-malaysia-airlines/590653/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Pixar’s future and flight MH370 and sports gambling and YouTube Face , finally digging into Dungeon Crawler Carl after you recommended it so many times, hoping Rooster keeps being as good as its premiere, buying a MacBook Neo I definitely didn’t need, redesigning…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-sports-gambling",
+   "name": "sports gambling",
+   "url": "https://www.theatlantic.com/magazine/2026/04/online-sports-betting-app-addiction/686061/?gift=66OeTwjwIWd7-zlTK2lFDi3Q8DuxbBUQfdARMQEcv-Y",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Pixar’s future and flight MH370 and sports gambling and YouTube Face , finally digging into Dungeon Crawler Carl after you recommended it so many times, hoping Rooster keeps being as good as its premiere, buying a MacBook Neo I definitely didn’t need, redesigning…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-youtube-face",
+   "name": "YouTube Face",
+   "url": "https://www.theringer.com/2026/03/09/pop-culture/youtube-face-thumbnails-history-explained",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Pixar’s future and flight MH370 and sports gambling and YouTube Face , finally digging into Dungeon Crawler Carl after you recommended it so many times, hoping Rooster keeps being as good as its premiere, buying a MacBook Neo I definitely didn’t need, redesigning…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-dungeon-crawler-carl",
+   "name": "Dungeon Crawler Carl",
+   "url": "https://www.penguinrandomhouse.com/series/43C/dungeon-crawler-carl/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Pixar’s future and flight MH370 and sports gambling and YouTube Face , finally digging into Dungeon Crawler Carl after you recommended it so many times, hoping Rooster keeps being as good as its premiere, buying a MacBook Neo I definitely didn’t need, redesigning…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-rooster",
+   "name": "Rooster",
+   "url": "https://www.themoviedb.org/tv/254953-rooster",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about Pixar’s future and flight MH370 and sports gambling and YouTube Face , finally digging into Dungeon Crawler Carl after you recommended it so many times, hoping Rooster keeps being as good as its premiere, buying a MacBook Neo I definitely didn’t need, redesigning…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-macbook-neo",
+   "name": "MacBook Neo",
+   "url": "https://www.apple.com/macbook-neo/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Pixar’s future and flight MH370 and sports gambling and YouTube Face , finally digging into Dungeon Crawler Carl after you recommended it so many times, hoping Rooster keeps being as good as its premiere, buying a MacBook Neo I definitely didn’t need, redesigning…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-obsidian",
+   "name": "Obsidian",
+   "url": "https://obsidian.md/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Pixar’s future and flight MH370 and sports gambling and YouTube Face , finally digging into Dungeon Crawler Carl after you recommended it so many times, hoping Rooster keeps being as good as its premiere, buying a MacBook Neo I definitely didn’t need, redesigning…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-james-bedfords-specifications",
+   "name": "James Bedford’s specifications",
+   "url": "https://www.thethinkers.club/p/how-to-make-obsidian-beautiful",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Pixar’s future and flight MH370 and sports gambling and YouTube Face , finally digging into Dungeon Crawler Carl after you recommended it so many times, hoping Rooster keeps being as good as its premiere, buying a MacBook Neo I definitely didn’t need, redesigning…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-fairbuds-xl",
+   "name": "Fairbuds XL",
+   "url": "https://shop.fairphone.com/fairbuds-xl",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This week, I’ve been reading about Pixar’s future and flight MH370 and sports gambling and YouTube Face , finally digging into Dungeon Crawler Carl after you recommended it so many times, hoping Rooster keeps being as good as its premiere, buying a MacBook Neo I definitely didn’t need, redesigning…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-parseword",
+   "name": "Parseword",
+   "url": "https://www.parseword.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "A new game from Josh Wardle, the creator of Wordle , this one is based on the concept of cryptic crosswords. The concept is substantially harder to explain than Wordle , but tickles my word game-loving brain in a similarly delightful way.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-the-sonos-play",
+   "name": "The Sonos Play",
+   "url": "https://www.sonos.com/en-us/shop/sonos-play",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Sonos’ first new speaker in more than a year is too expensive — $299 is just a lot for a wireless speaker — but otherwise sounds kind of ideal? Big and powerful enough to be a good living room speaker, portable enough to actually throw in a bag or carry to the backyard.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-apple-the-first-50-years",
+   "name": "Apple: The First 50 Years",
+   "url": "https://www.amazon.com/Apple-First-Years-David-Pogue/dp/1982134593/?tag=theverge02-20",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "David Pogue’s latest book is 600 pages of deep Apple lore, lovely photos, and a lot of new information about how the company evolved over the decades. I’ve been paying attention to Apple for a long time, and I learned a ton from this book.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-perplexity-personal-computer",
+   "name": "Perplexity Personal Computer",
+   "url": "https://www.perplexity.ai/hub/blog/everything-is-computer",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "There are a bunch of apps coming out now that I would classify as “OpenClaw, but simpler and less risky.” People seem to like this one from Perplexity — it still requires a dedicated device and comes with some risks, but it’s a lot easier to get up and running.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-is-the-brand-new-city-in-california-for-real",
+   "name": "Is the brand new city in California for real?",
+   "url": "https://www.volts.wtf/p/is-the-brand-new-city-in-california",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "“ Is the brand new city in California for real? ” I had kind of forgotten about California Forever, the tech-led proposal to build an entirely new city outside of San Francisco! This is a great episode of the Volts podcast digging into how the city would work. I’m looking forward to part two.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-the-bigfoot-emoji",
+   "name": "The Bigfoot emoji",
+   "url": "https://emojipedia.org/hairy-creature",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The Unicode 17.0 standard is starting to roll out to devices — it’s currently in a bunch of Apple betas — and it includes a bunch of good new emoji! But I feel like we need to, right now, decide on a culturally useful reason to use the Bigfoot emoji all the time. Like, does it mean “badass”?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-channel-surfer",
+   "name": "Channel Surfer",
+   "url": "https://channelsurfer.tv/?ch=25",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This web app puts YouTube into an old-school grid of TV channels, so you can flip between videos like you’d scroll your hotel room TV. But you can also import your own subscriptions, which actually makes this one of the best lean-back YouTube experiences I’ve ever encountered.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-my-wordpress",
+   "name": "My WordPress",
+   "url": "https://my.wordpress.net/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I almost don’t know what to make of this: You can now install a local version of WordPress that is confined to your browser, requires zero setup, and kind of just works. It’s WordPress as local operating system, I think? I’m a little confused by it, but fascinated by the rise in local-browser apps.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-brian-lovin",
+   "name": "Brian Lovin",
+   "url": "https://brianlovin.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "First up: Brian Lovin , who works as a designer at Notion and is also a prolific developer and designer on the side. (If you checked out Shiori , the bookmarking app I mentioned here a couple of weeks ago, you’re already familiar with his work.)",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-shiori",
+   "name": "Shiori",
+   "url": "https://www.shiori.sh/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "First up: Brian Lovin , who works as a designer at Notion and is also a prolific developer and designer on the side. (If you checked out Shiori , the bookmarking app I mentioned here a couple of weeks ago, you’re already familiar with his work.)",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-claude",
+   "name": "Claude",
+   "url": "https://claude.ai/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Claude . He uses the Claude Code app for a lot of things, but also interacts with Claude in the Mac’s Terminal, in Cursor , in Zed , and elsewhere. Claude Skills .",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-cursor",
+   "name": "Cursor",
+   "url": "https://cursor.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Claude . He uses the Claude Code app for a lot of things, but also interacts with Claude in the Mac’s Terminal, in Cursor , in Zed , and elsewhere. Claude Skills .",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-zed",
+   "name": "Zed",
+   "url": "https://zed.dev/ai",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Claude . He uses the Claude Code app for a lot of things, but also interacts with Claude in the Mac’s Terminal, in Cursor , in Zed , and elsewhere. Claude Skills .",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-claude-skills",
+   "name": "Claude Skills",
+   "url": "https://code.claude.com/docs/en/skills",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Claude . He uses the Claude Code app for a lot of things, but also interacts with Claude in the Mac’s Terminal, in Cursor , in Zed , and elsewhere. Claude Skills .",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-other-peoples-skills",
+   "name": "other people’s skills",
+   "url": "https://github.com/anthropics/skills",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "open-source"
+   ],
+   "blurb": "Claude . He uses the Claude Code app for a lot of things, but also interacts with Claude in the Mac’s Terminal, in Cursor , in Zed , and elsewhere. Claude Skills .",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-monologue",
+   "name": "Monologue",
+   "url": "https://www.monologue.to/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Claude . He uses the Claude Code app for a lot of things, but also interacts with Claude in the Mac’s Terminal, in Cursor , in Zed , and elsewhere. Claude Skills .",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-conductor",
+   "name": "Conductor",
+   "url": "https://www.conductor.build/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Claude . He uses the Claude Code app for a lot of things, but also interacts with Claude in the Mac’s Terminal, in Cursor , in Zed , and elsewhere. Claude Skills .",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-android-studio",
+   "name": "Android Studio",
+   "url": "https://developer.android.com/studio",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m finally starting to understand Android Studio . Maybe I have too many options and tools (Claude, Gemini, Manus, Firebase Studio, Android Studio, Replit, whatever else is in my inbox). But I’m getting there.",
+   "section": "crowdsourced",
+   "recommender": "Omar (reader)"
+  },
+  {
+   "id": "2026-03-14-cosmic-princess-kaguya",
+   "name": "Cosmic Princess Kaguya",
+   "url": "https://www.themoviedb.org/movie/1575337",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "My current obsession is Cosmic Princess Kaguya , which is playing in theaters all over Japan even though it’s been on Netflix for a month. Nothing beats sitting in a crowded room full of fans and watching a great film.",
+   "section": "crowdsourced",
+   "recommender": "Bea (reader)"
+  },
+  {
+   "id": "2026-03-14-home-cooked-software-and-barefoot-developers",
+   "name": "Home-Cooked Software and Barefoot Developers",
+   "url": "https://maggieappleton.com/home-cooked-software",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Been thinking about this Maggie Appleton essay, ‘ Home-Cooked Software and Barefoot Developers ,’ a lot recently!",
+   "section": "crowdsourced",
+   "recommender": "Jacob (reader)"
+  },
+  {
+   "id": "2026-03-14-the-prize",
+   "name": "The Prize",
+   "url": "https://www.danielyergin.com/books/theprize",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I have a book rec I think you’re gonna love: The Prize . This book does a fantastic job of covering oil from start to now, and with it, lays out the economic background of oil then and now, the history of Western companies vs.",
+   "section": "crowdsourced",
+   "recommender": "Christopher (reader)"
+  },
+  {
+   "id": "2026-03-14-the-power-broker",
+   "name": "The Power Broker",
+   "url": "https://www.robertcaro.org/the-power-broker",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m reading The Power Broker and listening to the 99% Invisible companion podcast with Roman Mars and Elliott Kalan.",
+   "section": "crowdsourced",
+   "recommender": "craigkocur (reader)"
+  },
+  {
+   "id": "2026-03-14-99-invisible-companion-podcast",
+   "name": "99% Invisible companion podcast",
+   "url": "https://99percentinvisible.org/power-broker/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m reading The Power Broker and listening to the 99% Invisible companion podcast with Roman Mars and Elliott Kalan.",
+   "section": "crowdsourced",
+   "recommender": "craigkocur (reader)"
+  },
+  {
+   "id": "2026-03-14-rematch",
+   "name": "Rematch",
+   "url": "https://www.playrematch.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Have you tried Rematch ? It was released almost a year ago now, and it’s still my favourite football-related game.",
+   "section": "crowdsourced",
+   "recommender": "Eldar (reader)"
+  },
+  {
+   "id": "2026-03-14-musicbrainz-picard",
+   "name": "MusicBrainz Picard",
+   "url": "https://picard.musicbrainz.org/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "For the person looking for MP3 taggers for all the music they’re ripping off CDs, I would suggest: MusicBrainz Picard or (if you enjoy the command line) Beets .",
+   "section": "crowdsourced",
+   "recommender": "Daryl (reader)"
+  },
+  {
+   "id": "2026-03-14-beets",
+   "name": "Beets",
+   "url": "https://beets.io/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "For the person looking for MP3 taggers for all the music they’re ripping off CDs, I would suggest: MusicBrainz Picard or (if you enjoy the command line) Beets .",
+   "section": "crowdsourced",
+   "recommender": "Daryl (reader)"
+  },
+  {
+   "id": "2026-03-14-mist",
+   "name": "Mist",
+   "url": "https://www.getmistapp.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I can’t say enough good things about Mist as an AI health and fitness companion. It’s an AI chatbot but it’s ONLY focused on health. It’s super minimalist and clean. It has its own stats built in but it also syncs with Apple Health and other health services.",
+   "section": "crowdsourced",
+   "recommender": "Justin (reader)"
+  },
+  {
+   "id": "2026-03-14-suddenly-recommending",
+   "name": "suddenly recommending",
+   "url": "https://www.youtube.com/watch?v=pI5rICybppE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I don’t know if it’s just my particular YouTube algorithm, but it really seems like paper notebooks are having a moment.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-favorite-analog-systems",
+   "name": "favorite analog systems",
+   "url": "https://www.youtube.com/watch?v=D_KSR3S6W8I",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I don’t know if it’s just my particular YouTube algorithm, but it really seems like paper notebooks are having a moment.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-sharing-the-ways",
+   "name": "sharing the ways",
+   "url": "https://www.youtube.com/watch?v=mq0XvGPSm9w&t=600s",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I don’t know if it’s just my particular YouTube algorithm, but it really seems like paper notebooks are having a moment.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-writing-longhand",
+   "name": "writing longhand",
+   "url": "https://www.youtube.com/watch?v=7iQMuCGLZX0",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I don’t know if it’s just my particular YouTube algorithm, but it really seems like paper notebooks are having a moment.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-03-14-feel-saner",
+   "name": "feel saner",
+   "url": "https://www.youtube.com/watch?v=4lv_MjHCtGA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I don’t know if it’s just my particular YouTube algorithm, but it really seems like paper notebooks are having a moment.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

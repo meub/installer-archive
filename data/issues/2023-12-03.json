@@ -1,0 +1,594 @@
+{
+ "schema": 1,
+ "date": "2023-12-03",
+ "post_type": "issue",
+ "title": "A better way to YouTube",
+ "url": "https://www.theverge.com/23984296/youtube-tweaks-apps-extensions-cybertruck-spotify-wrapped-obliterated-netflix",
+ "author": "David Pierce",
+ "number": 16,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "deep-dive",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:37+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2023-12-03-supernotes",
+   "name": "Supernotes",
+   "url": "https://supernotes.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Hope you all had a great holiday, or at least a great week with one fewer email in your inbox.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-what-it-takes-to-make-an-iphone-in-india",
+   "name": "what it takes to make an iPhone in India",
+   "url": "https://restofworld.org/2023/foxconn-india-iphone-factory/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Hope you all had a great holiday, or at least a great week with one fewer email in your inbox.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-whatever-gamified-theater-is",
+   "name": "whatever “gamified theater” is",
+   "url": "https://www.polygon.com/23939497/niantic-punchdrunk-canceled-game-hamlet",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Hope you all had a great holiday, or at least a great week with one fewer email in your inbox.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-backbone-controller",
+   "name": "Backbone controller",
+   "url": "https://playbackbone.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Hope you all had a great holiday, or at least a great week with one fewer email in your inbox.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-the-old-man-and-the-pool",
+   "name": "The Old Man and the Pool",
+   "url": "https://www.netflix.com/title/81665900",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "Hope you all had a great holiday, or at least a great week with one fewer email in your inbox.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-working-it-out",
+   "name": "Working It Out",
+   "url": "https://www.birbigs.com/working-it-out-pod",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Hope you all had a great holiday, or at least a great week with one fewer email in your inbox.",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-the-tesla-cybertruck",
+   "name": "The Tesla Cybertruck",
+   "url": "https://www.tesla.com/cybertruck",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=XxOh12Uhg08"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "It finally launched! Ish! I have spent so many hours staring at and talking about this thing for the last four years, and I still can’t decide if I love or hate the design.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-ia-writer-7",
+   "name": "iA Writer 7",
+   "url": "https://ia.net/writer",
+   "alt_urls": [
+    "https://www.theverge.com/2023/12/1/23983835/ia-writer-generative-ai-authorship"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I love the way this writing app integrates ChatGPT : it detects when you’re pasting in generated content and prompts you to note what’s human and what’s AI, and it treats AI more as a “help me brainstorm and think” tool than a “just write this for me” one.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-godzilla-minus-one",
+   "name": "Godzilla Minus One",
+   "url": "https://www.themoviedb.org/movie/940721-1-0",
+   "alt_urls": [
+    "https://www.theverge.com/23981319/godzilla-minus-one-review"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This sounds like a more complex movie than your average monster flick, but in a really good way. And just from the trailers and pictures I’ve seen, this one’s going to be worth viewing on a big screen just to see the way director Takashi Yamazaki depicts the beast itself.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-spotify-wrapped",
+   "name": "Spotify Wrapped",
+   "url": "https://open.spotify.com/wrapped",
+   "alt_urls": [
+    "https://www.theverge.com/23982575/spotify-wrapped-2023-apple-music-replay-youtube-music-recap"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "All the year-in-review stuff seems to have kicked off this week — YouTube, Apple Music, Pocket Casts, and more — but Spotify’s just better at this than everybody else.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-apples",
+   "name": "Apple’s",
+   "url": "https://www.apple.com/newsroom/2023/11/apple-unveils-app-store-award-winners-the-best-apps-and-games-of-2023/",
+   "alt_urls": [
+    "https://blog.google/products/google-play/google-play-best-apps-games-2023/",
+    "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies&hl=EN",
+    "https://mubi.com/en/devices"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "and Google’s apps of the year. This is the other year-end source of good stuff: the app store lists are always a mix of very popular apps you definitely already know and a smattering of really cool, unknown stuff. I’m loving Stumble Guys so far, and how did I not know about Mubi before?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-teenage-engineerings-ep-133-ko-ii",
+   "name": "Teenage Engineering’s EP-133 KO II",
+   "url": "https://teenage.engineering/products/ep-133",
+   "alt_urls": [
+    "https://www.theverge.com/2023/11/22/23965528/teenage-engineering-ep133-ko-2-synthesizer"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "I’m not really a musician, but I find myself desperately wanting the new $299 KO II, which is both a cool music-making machine and just a gorgeous set of buttons and knobs. (I got a bunch of crap in our comments for calling it a synthesizer and not a sampler, which, fair! Sampler is more accurate.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-dot-social",
+   "name": "Dot Social",
+   "url": "https://dot-social.simplecast.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This might be the first “brand” podcast I’ve ever recommended here. But it’s a good one! Flipboard is all in on the fediverse and the open web, and CEO Mike McCue’s plan is to talk to smart people about it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-obliterated",
+   "name": "Obliterated",
+   "url": "https://www.netflix.com/title/81413928",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "Apparently, this new Netflix show, which sounds like The Hangover meets Zero Dark Thirty , is bad. I don’t care. I’m absolutely confident I’m going to love it and watch every single episode — I’m a sucker for a spy flick, and a silly comedy, and especially the intersection of those two things.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-slow-horses-season-3",
+   "name": "Slow Horses season 3",
+   "url": "https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o",
+   "alt_urls": [
+    "https://www.mickherronbooks.com/slough-house-series"
+   ],
+   "category": "media",
+   "tags": [],
+   "blurb": "This show, on the other hand, undeniably rules. (As does the book series it’s based on, by Mick Herron.) It’s a story about washed-up MI5 agents roped back in for one more job… and then a bunch more jobs. From what I hear, season 3 is the best yet — add it to your holiday watching list for sure.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-proton-mail",
+   "name": "Proton Mail",
+   "url": "https://proton.me/mail",
+   "alt_urls": [
+    "https://proton.me/blog/mail-calendar-improvements-2023"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "The latest release notes on Proton’s mail and calendar apps are super funny. There’s nothing huge and new here, it’s just like, “We fixed all the stuff you wanted us to fix, here you go!” And it’s great.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-the-play-app",
+   "name": "The Play app",
+   "url": "https://apps.apple.com/us/app/play-save-videos-watch-later/id1596506190?platform=iphone",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "I now open this instead of the YouTube app. It’s an app for storing and organizing video from all over the web, but I pretty much only use it for YouTube. After this week’s update, it can automatically bring in videos from channels you subscribe to, which makes it even more useful.",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-piped",
+   "name": "Piped",
+   "url": "https://piped.video/trending",
+   "alt_urls": [
+    "http://piped.mha.fi"
+   ],
+   "category": null,
+   "tags": [],
+   "blurb": "Piped is a clever workaround: it uses the YouTube API to let you search for and watch anything on the platform but doesn’t send any data back to Google about you or what you watch.",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-unhook",
+   "name": "Unhook",
+   "url": "https://unhook.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "There are a bunch of browser extensions out there that let you remove stuff from the YouTube interface to get a quieter viewing experience. Unhook’s my favorite because it’s so customizable — I turned off all the recommendations and sidebars but left chapters and comments.",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-enhancer-for-youtube",
+   "name": "Enhancer for YouTube",
+   "url": "https://www.mrfdev.com/enhancer-for-youtube",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Another browser extension, and kind of the spiritual opposite of Unhook. This one can hide things like comments and recommendations, but it can also add so much more stuff to YouTube. A lot of it is really useful!",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-bookmark-it",
+   "name": "Bookmark It",
+   "url": "https://bookmark-it.happydevelopers.co/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "One last browser extension, which lets you take time-stamped notes on a YouTube video and return to them later. I use this when I know I’m going to want to come back to a specific moment later, which happens more often than I expected.",
+   "section": "deep-dive",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-iphone-15-pro",
+   "name": "iPhone 15 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 15 Pro.",
+   "section": "screen-share",
+   "recommender": "Amir"
+  },
+  {
+   "id": "2023-12-03-todoist",
+   "name": "Todoist",
+   "url": "https://todoist.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Todoist is a to-do app (surprise! ) Twist as a team communication app (another surprise! ) Overcast as a podcast player Halist as a ChatGPT alternative. I created my own ChatGPT alternative as I don’t fully trust the privacy policy of ChatGPT (because they can train on the data).",
+   "section": "screen-share",
+   "recommender": "Amir"
+  },
+  {
+   "id": "2023-12-03-twist",
+   "name": "Twist",
+   "url": "https://twist.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Todoist is a to-do app (surprise! ) Twist as a team communication app (another surprise! ) Overcast as a podcast player Halist as a ChatGPT alternative. I created my own ChatGPT alternative as I don’t fully trust the privacy policy of ChatGPT (because they can train on the data).",
+   "section": "screen-share",
+   "recommender": "Amir"
+  },
+  {
+   "id": "2023-12-03-overcast",
+   "name": "Overcast",
+   "url": "https://overcast.fm/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Todoist is a to-do app (surprise! ) Twist as a team communication app (another surprise! ) Overcast as a podcast player Halist as a ChatGPT alternative. I created my own ChatGPT alternative as I don’t fully trust the privacy policy of ChatGPT (because they can train on the data).",
+   "section": "screen-share",
+   "recommender": "Amir"
+  },
+  {
+   "id": "2023-12-03-halist",
+   "name": "Halist",
+   "url": "https://halist.ai/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Todoist is a to-do app (surprise! ) Twist as a team communication app (another surprise! ) Overcast as a podcast player Halist as a ChatGPT alternative. I created my own ChatGPT alternative as I don’t fully trust the privacy policy of ChatGPT (because they can train on the data).",
+   "section": "screen-share",
+   "recommender": "Amir"
+  },
+  {
+   "id": "2023-12-03-succession",
+   "name": "Succession",
+   "url": "https://max.prf.hn/click/camref:1101lqHRA/%5Bp_id:1011l394533%5D/destination:https%3A%2F%2Fwww.max.com%2Fshows%2Fsuccession%2Fa8484031-f244-4661-9fb7-0932bd1ba872",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The OpenAI drama . It’s like the real-life version of HBO’s Succession show (which is fantastic). We could say it’s the nerd version of Succession . I’ve started watching Blue Eye Samurai , and it’s incredible. Age of Empires II: Definitive Edition . This is one of the best games ever!",
+   "section": "screen-share",
+   "recommender": "Amir"
+  },
+  {
+   "id": "2023-12-03-blue-eye-samurai",
+   "name": "Blue Eye Samurai",
+   "url": "https://www.themoviedb.org/tv/225180-blue-eye-samurai",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "The OpenAI drama . It’s like the real-life version of HBO’s Succession show (which is fantastic). We could say it’s the nerd version of Succession . I’ve started watching Blue Eye Samurai , and it’s incredible. Age of Empires II: Definitive Edition . This is one of the best games ever!",
+   "section": "screen-share",
+   "recommender": "Amir"
+  },
+  {
+   "id": "2023-12-03-age-of-empires-ii-definitive-edition",
+   "name": "Age of Empires II: Definitive Edition",
+   "url": "https://www.ageofempires.com/games/aoeiide/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The OpenAI drama . It’s like the real-life version of HBO’s Succession show (which is fantastic). We could say it’s the nerd version of Succession . I’ve started watching Blue Eye Samurai , and it’s incredible. Age of Empires II: Definitive Edition . This is one of the best games ever!",
+   "section": "screen-share",
+   "recommender": "Amir"
+  },
+  {
+   "id": "2023-12-03-walter-isaacsons-biography-of-elon-musk",
+   "name": "Walter Isaacson’s biography of Elon Musk",
+   "url": "https://www.simonandschuster.com/books/Elon-Musk/Walter-Isaacson/9781982181284",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "The OpenAI drama . It’s like the real-life version of HBO’s Succession show (which is fantastic). We could say it’s the nerd version of Succession . I’ve started watching Blue Eye Samurai , and it’s incredible. Age of Empires II: Definitive Edition . This is one of the best games ever!",
+   "section": "screen-share",
+   "recommender": "Amir"
+  },
+  {
+   "id": "2023-12-03-llamafile",
+   "name": "Llamafile",
+   "url": "https://hacks.mozilla.org/2023/11/introducing-llamafile/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "This awesome project out of Mozilla, Llamafile . You can get a pretty fully featured version of ChatGPT running locally on your own computer (with image analysis and everything), super easily.",
+   "section": "crowdsourced",
+   "recommender": "Matthew (reader)"
+  },
+  {
+   "id": "2023-12-03-modern-family",
+   "name": "Modern Family",
+   "url": "https://www.themoviedb.org/tv/1421-modern-family",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Me and my wife are recovering from watching the finale of Modern Family and found Fresh Off the Boat to be a great watch. Absolutely hilarious!",
+   "section": "crowdsourced",
+   "recommender": "Adam (reader)"
+  },
+  {
+   "id": "2023-12-03-fresh-off-the-boat",
+   "name": "Fresh Off the Boat",
+   "url": "https://www.themoviedb.org/tv/61692-fresh-off-the-boat",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Me and my wife are recovering from watching the finale of Modern Family and found Fresh Off the Boat to be a great watch. Absolutely hilarious!",
+   "section": "crowdsourced",
+   "recommender": "Adam (reader)"
+  },
+  {
+   "id": "2023-12-03-trash-baby",
+   "name": "Trash Baby",
+   "url": "https://trash.baby/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Trash Baby . Chaotic and creative and wacky AI-based photo remixing app. Combine two photos to create some really out-there outputs. It’s a really creative and collaborative play on generative AI. Every “baby” is an unexpected excitement.",
+   "section": "crowdsourced",
+   "recommender": "Kyle (reader)"
+  },
+  {
+   "id": "2023-12-03-loddlenaut",
+   "name": "Loddlenaut",
+   "url": "https://store.steampowered.com/app/1644940/Loddlenaut/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "It’s called Loddlenaut , and it recently came out on Steam! Your job is to basically clean up a polluted ocean planet and to become friends with the Loddle creatures living there. P.S. You can pet the Loddles.",
+   "section": "crowdsourced",
+   "recommender": "Andrew (reader)"
+  },
+  {
+   "id": "2023-12-03-last-stop-larrimah",
+   "name": "Last Stop Larrimah",
+   "url": "https://max.prf.hn/click/camref:1101lqHRA/%5Bp_id:1011l394533%5D/destination:https%3A%2F%2Fwww.max.com%2Fmovies%2Flast-stop-larrimah%2F1bd2c9d9-b0f8-4054-9a23-df04878038cc",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Last Stop Larrimah . Being a town of only 11 people, Larrimah is kind of like Cheers. A place where everybody knows your name (and also spends most of their time in a bar). But they’re not all glad you came. When one of the residents goes missing, two others become prime suspects.",
+   "section": "crowdsourced",
+   "recommender": "Carl (reader)"
+  },
+  {
+   "id": "2023-12-03-frinkiac",
+   "name": "Frinkiac",
+   "url": "https://frinkiac.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "In response to the recommendation for Frinkiac , the Simpsons meme generator, I thought I’d recommend the equivalent Futurama meme generator, Morbotron , which is made by the same people. Now you can create all the ‘Shut up and take my money’ memes you desire!",
+   "section": "crowdsourced",
+   "recommender": "Jonathan (reader)"
+  },
+  {
+   "id": "2023-12-03-morbotron",
+   "name": "Morbotron",
+   "url": "https://morbotron.com/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "In response to the recommendation for Frinkiac , the Simpsons meme generator, I thought I’d recommend the equivalent Futurama meme generator, Morbotron , which is made by the same people. Now you can create all the ‘Shut up and take my money’ memes you desire!",
+   "section": "crowdsourced",
+   "recommender": "Jonathan (reader)"
+  },
+  {
+   "id": "2023-12-03-fleeting-notes",
+   "name": "Fleeting Notes",
+   "url": "https://www.fleetingnotes.app/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Fleeting Notes . In my quest to de-Google my life, I have found a really great replacement for Google Keep. It’s cross-platform, available offline, and syncs with Obsidian. Plus it’s end-to-end encrypted, open source, and free.",
+   "section": "crowdsourced",
+   "recommender": "Braedon (reader)"
+  },
+  {
+   "id": "2023-12-03-travle",
+   "name": "Travle",
+   "url": "https://imois.in/games/travle/",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "Travle . Wordle -style, you play once a day, it counts your streaks, etc. The premise is super simple: they give you two countries and a number of attempts you have to name the countries that connect them. Sometimes they spice it up and tell you a country you need to avoid going through.",
+   "section": "crowdsourced",
+   "recommender": "Sam (reader)"
+  },
+  {
+   "id": "2023-12-03-remind-me-faster",
+   "name": "Remind Me Faster",
+   "url": "https://apps.apple.com/us/app/remind-me-faster/id985555908",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Here are my two fastest ways to add to Apple Reminders. 1: On my iPhone, I use this app called Remind Me Faster . 2: On Mac, I use Type to Siri. E.g., Remind me to call home at 4PM.",
+   "section": "crowdsourced",
+   "recommender": "Krishna (reader)"
+  },
+  {
+   "id": "2023-12-03-garages",
+   "name": "garages",
+   "url": "https://www.tiktok.com/@johnnnyhuynh/video/7306157151439867178",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am deep in lip-syncing TikTok, y’all. I don’t know how I got here, but I’m here: there are countless people on TikTok who, like, sing beautiful harmonies in garages and kitchens while making very intense faces and body motions, and it turns out, a lot of those people are prerecording their audio…",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-kitchens",
+   "name": "kitchens",
+   "url": "https://www.tiktok.com/@nataliejanesings/video/7241599530838396202?q=natalie%20jane&t=1701396794699",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am deep in lip-syncing TikTok, y’all. I don’t know how I got here, but I’m here: there are countless people on TikTok who, like, sing beautiful harmonies in garages and kitchens while making very intense faces and body motions, and it turns out, a lot of those people are prerecording their audio…",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-bunch",
+   "name": "bunch",
+   "url": "https://www.tiktok.com/@demijunie/video/7304375873686261034?q=singing%20garage%20autotune&t=1701396905912",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am deep in lip-syncing TikTok, y’all. I don’t know how I got here, but I’m here: there are countless people on TikTok who, like, sing beautiful harmonies in garages and kitchens while making very intense faces and body motions, and it turns out, a lot of those people are prerecording their audio…",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-creators",
+   "name": "creators",
+   "url": "https://www.tiktok.com/@beckycjmusic/video/7305560286843374881",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am deep in lip-syncing TikTok, y’all. I don’t know how I got here, but I’m here: there are countless people on TikTok who, like, sing beautiful harmonies in garages and kitchens while making very intense faces and body motions, and it turns out, a lot of those people are prerecording their audio…",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-shtick",
+   "name": "shtick",
+   "url": "https://www.tiktok.com/@cowboy.like.alli/video/7304041209247419678?q=singing%20garage%20autotune&t=1701396905912",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am deep in lip-syncing TikTok, y’all. I don’t know how I got here, but I’m here: there are countless people on TikTok who, like, sing beautiful harmonies in garages and kitchens while making very intense faces and body motions, and it turns out, a lot of those people are prerecording their audio…",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-call",
+   "name": "call",
+   "url": "https://www.tiktok.com/@jettblyton/video/7303495112842120450?q=singing%20garage%20autotune&t=1701396905912",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am deep in lip-syncing TikTok, y’all. I don’t know how I got here, but I’m here: there are countless people on TikTok who, like, sing beautiful harmonies in garages and kitchens while making very intense faces and body motions, and it turns out, a lot of those people are prerecording their audio…",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-out",
+   "name": "out",
+   "url": "https://www.tiktok.com/@petertiktok.1/video/7305602618989006122?q=singing%20garage%20autotune&t=1701396905912",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am deep in lip-syncing TikTok, y’all. I don’t know how I got here, but I’m here: there are countless people on TikTok who, like, sing beautiful harmonies in garages and kitchens while making very intense faces and body motions, and it turns out, a lot of those people are prerecording their audio…",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2023-12-03-shirtless-charlie-puth-did-a-video",
+   "name": "shirtless Charlie Puth did a video",
+   "url": "https://www.tiktok.com/@charlieputh/video/7306927814224268587",
+   "alt_urls": [],
+   "category": null,
+   "tags": [],
+   "blurb": "I am deep in lip-syncing TikTok, y’all. I don’t know how I got here, but I’m here: there are countless people on TikTok who, like, sing beautiful harmonies in garages and kitchens while making very intense faces and body motions, and it turns out, a lot of those people are prerecording their audio…",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

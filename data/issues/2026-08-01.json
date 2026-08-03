@@ -1,0 +1,644 @@
+{
+ "schema": 1,
+ "date": "2026-08-01",
+ "post_type": "issue",
+ "title": "The OG reading app just got a big update",
+ "url": "https://www.theverge.com/tech/973929/instapaper-app-pastebot-spiderman-movie-installer",
+ "author": "David Pierce",
+ "number": 138,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-03T17:54:41+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-08-01-microwave-sounds",
+   "name": "microwave sounds",
+   "url": "https://www.wired.com/story/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-life/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
+   "blurb": "This week, I’ve been reading about microwave sounds and Meta glasses and Alex vs. Alix , testing the Logitech Alto Keys K98M to see if I’m ready for the mechanical keyboard life, digging into the history of the first chatbot , clearing space on my desk for a Bob Ross deskmat , doing a full Ted…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-01-meta-glasses",
+   "name": "Meta glasses",
+   "url": "https://www.thecut.com/article/the-cursed-quest-to-make-meta-glasses-cool.html",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
+   "blurb": "This week, I’ve been reading about microwave sounds and Meta glasses and Alex vs. Alix , testing the Logitech Alto Keys K98M to see if I’m ready for the mechanical keyboard life, digging into the history of the first chatbot , clearing space on my desk for a Bob Ross deskmat , doing a full Ted…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-01-alex-vs-alix",
+   "name": "Alex vs. Alix",
+   "url": "https://www.theatlantic.com/ideas/2026/07/female-ambition-alex-cooper-alix-earle/688080/?taid=6a68d20e71891d0001141a7f&__readwiseLocation=",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
+   "blurb": "This week, I’ve been reading about microwave sounds and Meta glasses and Alex vs. Alix , testing the Logitech Alto Keys K98M to see if I’m ready for the mechanical keyboard life, digging into the history of the first chatbot , clearing space on my desk for a Bob Ross deskmat , doing a full Ted…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-01-logitech-alto-keys-k98m",
+   "name": "Logitech Alto Keys K98M",
+   "url": "https://logitech.cfzu.net/c/482924/499820/8585?u=https%3A%2F%2Fwww.logitech.com%2Fen-us%2Fshop%2Fp%2Falto-keys-k98m",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "This week, I’ve been reading about microwave sounds and Meta glasses and Alex vs. Alix , testing the Logitech Alto Keys K98M to see if I’m ready for the mechanical keyboard life, digging into the history of the first chatbot , clearing space on my desk for a Bob Ross deskmat , doing a full Ted…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-01-the-first-chatbot",
+   "name": "the first chatbot",
+   "url": "https://findingeliza.org/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "ai"
+   ],
+   "blurb": "This week, I’ve been reading about microwave sounds and Meta glasses and Alex vs. Alix , testing the Logitech Alto Keys K98M to see if I’m ready for the mechanical keyboard life, digging into the history of the first chatbot , clearing space on my desk for a Bob Ross deskmat , doing a full Ted…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-01-bob-ross-deskmat",
+   "name": "Bob Ross deskmat",
+   "url": "https://apos.audio/products/bob-ross-deskmat?variant=43862309896428",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "This week, I’ve been reading about microwave sounds and Meta glasses and Alex vs. Alix , testing the Logitech Alto Keys K98M to see if I’m ready for the mechanical keyboard life, digging into the history of the first chatbot , clearing space on my desk for a Bob Ross deskmat , doing a full Ted…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-01-ted-lasso",
+   "name": "Ted Lasso",
+   "url": "https://www.themoviedb.org/tv/97546-ted-lasso?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "This week, I’ve been reading about microwave sounds and Meta glasses and Alex vs. Alix , testing the Logitech Alto Keys K98M to see if I’m ready for the mechanical keyboard life, digging into the history of the first chatbot , clearing space on my desk for a Bob Ross deskmat , doing a full Ted…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-01-cyberpunk-2077",
+   "name": "Cyberpunk 2077",
+   "url": "https://www.cyberpunk.net/us/en/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "This week, I’ve been reading about microwave sounds and Meta glasses and Alex vs. Alix , testing the Logitech Alto Keys K98M to see if I’m ready for the mechanical keyboard life, digging into the history of the first chatbot , clearing space on my desk for a Bob Ross deskmat , doing a full Ted…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-01-adobe-hate-post",
+   "name": "Adobe hate post",
+   "url": "https://aftermath.site/i-hate-adobe/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
+   "blurb": "This week, I’ve been reading about microwave sounds and Meta glasses and Alex vs. Alix , testing the Logitech Alto Keys K98M to see if I’m ready for the mechanical keyboard life, digging into the history of the first chatbot , clearing space on my desk for a Bob Ross deskmat , doing a full Ted…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-01-elgato-prompter-xl",
+   "name": "Elgato Prompter XL",
+   "url": "https://www.elgato.com/us/en/p/prompter-xl",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [
+    "video"
+   ],
+   "blurb": "This week, I’ve been reading about microwave sounds and Meta glasses and Alex vs. Alix , testing the Logitech Alto Keys K98M to see if I’m ready for the mechanical keyboard life, digging into the history of the first chatbot , clearing space on my desk for a Bob Ross deskmat , doing a full Ted…",
+   "section": "intro",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-01-spider-man-brand-new-day",
+   "name": "Spider-Man: Brand New Day",
+   "url": "https://www.themoviedb.org/movie/969681-spider-man-brand-new-day?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "The Tom Holland Spidey era just never seems to miss. It’s pretty impressive to pull off a more or less full story reboot while keeping all the same actors and characters, but by all accounts this one pulls it off.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-01-pastebot-3",
+   "name": "Pastebot 3",
+   "url": "https://tapbots.com/pastebot/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "utilities",
+    "productivity",
+    "paid"
+   ],
+   "blurb": "Missed this one last week! Great clipboard managers are right up there with launchers and text expanders in the “how did I ever use a computer without this” category, and Pastebot is one of the Mac’s best.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-01-president-curtis",
+   "name": "President Curtis",
+   "url": "https://www.themoviedb.org/tv/296756-president-curtis",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "I was going to describe this as “basically a Rick and Morty spinoff” before I realized it’s actually a Rick and Morty spinoff. Perhaps unsurprisingly, people seem to either love it or hate it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-01-why-is-so-much-ai-tech-useless",
+   "name": "Why Is So Much AI Tech Useless?",
+   "url": "https://www.youtube.com/watch?v=hzp-5JeqNkE",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Why Is So Much AI Tech Useless? ” Two of my favorite people on the internet — Joanna Stern and Hasan Minhaj — go deep on where AI is, and isn’t, actually good and useful in our lives. Minhaj’s complete disbelief at all these overhyped products just gives me life.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-01-halo-campaign-evolved",
+   "name": "Halo: Campaign Evolved",
+   "url": "https://www.xbox.com/en-US/games/halo-campaign-evolved",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Confession: I was always terrible at Halo , and I’ve always been unfairly mad at the series because of it. The new remake appears to be a mediocre game (with terrible dialogue) but great nostalgia bait, and that might be enough for a lot of people looking to get Master Chief back into their lives.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-01-leafy-corner",
+   "name": "Leafy Corner",
+   "url": "https://leafycorner.carrd.co/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "This game exists somewhere on the spectrum between Animal Crossing and RollerCoaster Tycoon, and I mean both as a compliment. It’s a quiet, cozy game, but also something of a management sim, all in the confines of a plant shop. Adorable.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-01-spotify-running-mode",
+   "name": "Spotify Running Mode",
+   "url": "https://newsroom.spotify.com/2026-07-30/running-mode-playlist/",
+   "alt_urls": [
+    "https://www.theverge.com/2015/5/20/8630213/spotify-unveils-new-design-for-runners"
+   ],
+   "category": "feature",
+   "tags": [
+    "music",
+    "fitness",
+    "ai"
+   ],
+   "blurb": "I actually think Spotify’s last take on running, with adaptive tempos and generative beats, was both cooler and a more interesting take on AI.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-01-elons-epic-ego-explained",
+   "name": "Elon’s Epic Ego Explained",
+   "url": "https://www.youtube.com/watch?v=3RF2lkn-lwA",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ Elon’s Epic Ego Explained . ” Nobody does topical comedy like Josh Johnson, and this is my favorite of his recent sets. It’s not just 45 minutes of making fun of Musk — it’s also about The Odyssey and a bunch of other things — but it’s both ruthless and right about the world’s richest man.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-01-the-switchbot-battery-circulator-fan-2-pro",
+   "name": "The SwitchBot Battery Circulator Fan 2 Pro",
+   "url": "https://us.switch-bot.com/products/switchbot-battery-circulator-fan-2-pro?cjdata=MXxOfDB8WXww",
+   "alt_urls": [
+    "https://www.theverge.com/tech/952855/switchbot-standing-circulator-fan-review"
+   ],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
+   "blurb": "My colleague Thomas Ricker has successfully convinced me that SwitchBot’s fans are worth a look over the “whatever’s on the shelf at Target” models I’ve been buying for years. This new $120 model is quiet and powerful, charges over USB-C, and is going to live on my patio the rest of the summer.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-01-iphone-16-pro",
+   "name": "iPhone 16 Pro",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 16 Pro. I almost always purchase iPhones every other generation. Maybe a foldable this year ?",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2026-08-01-emerald",
+   "name": "Emerald",
+   "url": "https://emerald.md/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "productivity"
+   ],
+   "blurb": "Emerald is a Markdown editor I’m working on that solves two personal pain points: native iOS / macOS client, and collaboration on markdown files. I have been a big Obsidian user the past two years, but it’s been failing me in those areas.",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2026-08-01-obsidian",
+   "name": "Obsidian",
+   "url": "https://obsidian.md/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "free",
+    "cross-platform"
+   ],
+   "blurb": "Emerald is a Markdown editor I’m working on that solves two personal pain points: native iOS / macOS client, and collaboration on markdown files. I have been a big Obsidian user the past two years, but it’s been failing me in those areas.",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2026-08-01-sunflower",
+   "name": "Sunflower",
+   "url": "https://sunflower.me/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
+   "blurb": "Sunflower is a new email client from Bobby Goodlatte and friends. It’s beautifully designed and has some tasteful AI features, like summarizing your inbox, chatting with your email, and an Autopilot feature which seems to be perpetually “Coming Soon.”",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2026-08-01-bobby-goodlatte",
+   "name": "Bobby Goodlatte",
+   "url": "https://x.com/rsg",
+   "alt_urls": [],
+   "category": "other",
+   "tags": [],
+   "blurb": "Sunflower is a new email client from Bobby Goodlatte and friends. It’s beautifully designed and has some tasteful AI features, like summarizing your inbox, chatting with your email, and an Autopilot feature which seems to be perpetually “Coming Soon.”",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2026-08-01-extra",
+   "name": "Extra",
+   "url": "https://extra.email/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [],
+   "blurb": "Sunflower is a new email client from Bobby Goodlatte and friends. It’s beautifully designed and has some tasteful AI features, like summarizing your inbox, chatting with your email, and an Autopilot feature which seems to be perpetually “Coming Soon.”",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2026-08-01-cora",
+   "name": "Cora",
+   "url": "https://cora.computer/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
+   "blurb": "Sunflower is a new email client from Bobby Goodlatte and friends. It’s beautifully designed and has some tasteful AI features, like summarizing your inbox, chatting with your email, and an Autopilot feature which seems to be perpetually “Coming Soon.”",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2026-08-01-didnt-stick",
+   "name": "didn’t stick",
+   "url": "https://bthdonohue.com/2025/04/02/cora-time-shifted-email.html",
+   "alt_urls": [],
+   "category": "other",
+   "tags": [],
+   "blurb": "Sunflower is a new email client from Bobby Goodlatte and friends. It’s beautifully designed and has some tasteful AI features, like summarizing your inbox, chatting with your email, and an Autopilot feature which seems to be perpetually “Coming Soon.”",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2026-08-01-claude",
+   "name": "Claude",
+   "url": "https://claude.ai/new",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "cross-platform",
+    "productivity"
+   ],
+   "blurb": "Additionally, you have many of the usual suspects. I am doing a huge amount of my work with Claude and Linear these days, both of which have fantastic iOS apps.",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2026-08-01-linear",
+   "name": "Linear",
+   "url": "https://linear.app/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "ios"
+   ],
+   "blurb": "Additionally, you have many of the usual suspects. I am doing a huge amount of my work with Claude and Linear these days, both of which have fantastic iOS apps.",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2026-08-01-andrew-jones",
+   "name": "Andrew Jones",
+   "url": "https://x.com/dremnik",
+   "alt_urls": [],
+   "category": "other",
+   "tags": [],
+   "blurb": "I’ve always been inspired by creative builders, and two come to mind right now. The first is Andrew Jones , who has been building free & open-source alternatives to paid software (e.g. Granola , Wispr Flow ) — fingers crossed Instapaper is not next.",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2026-08-01-granola",
+   "name": "Granola",
+   "url": "https://x.com/dremnik/status/2081879207509217473",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
+   "blurb": "I’ve always been inspired by creative builders, and two come to mind right now. The first is Andrew Jones , who has been building free & open-source alternatives to paid software (e.g. Granola , Wispr Flow ) — fingers crossed Instapaper is not next.",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2026-08-01-wispr-flow",
+   "name": "Wispr Flow",
+   "url": "https://x.com/dremnik/status/2082142748187267532",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
+   "blurb": "I’ve always been inspired by creative builders, and two come to mind right now. The first is Andrew Jones , who has been building free & open-source alternatives to paid software (e.g. Granola , Wispr Flow ) — fingers crossed Instapaper is not next.",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2026-08-01-andrew-jones-2",
+   "name": "Andrew Jones",
+   "url": "https://x.com/vpinyokool",
+   "alt_urls": [],
+   "category": "other",
+   "tags": [],
+   "blurb": "I’ve always been inspired by creative builders, and two come to mind right now. The first is Andrew Jones , who has been building free & open-source alternatives to paid software (e.g. Granola , Wispr Flow ) — fingers crossed Instapaper is not next.",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2026-08-01-hyper-mesh",
+   "name": "Hyper Mesh",
+   "url": "https://idyllic-rugelach-fd8fb9.netlify.app/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "open-source"
+   ],
+   "blurb": "I’ve always been inspired by creative builders, and two come to mind right now. The first is Andrew Jones , who has been building free & open-source alternatives to paid software (e.g. Granola , Wispr Flow ) — fingers crossed Instapaper is not next.",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2026-08-01-svg-star-editor",
+   "name": "SVG Star Editor",
+   "url": "https://svgstar.netlify.app/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "open-source",
+    "web",
+    "utilities"
+   ],
+   "blurb": "I’ve always been inspired by creative builders, and two come to mind right now. The first is Andrew Jones , who has been building free & open-source alternatives to paid software (e.g. Granola , Wispr Flow ) — fingers crossed Instapaper is not next.",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2026-08-01-chess-moves",
+   "name": "Chess Moves",
+   "url": "https://stalwart-piroshki-28eed1.netlify.app/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "open-source"
+   ],
+   "blurb": "I’ve always been inspired by creative builders, and two come to mind right now. The first is Andrew Jones , who has been building free & open-source alternatives to paid software (e.g. Granola , Wispr Flow ) — fingers crossed Instapaper is not next.",
+   "section": "screen-share",
+   "recommender": "Brian"
+  },
+  {
+   "id": "2026-08-01-murdoku",
+   "name": "Murdoku",
+   "url": "https://murdoku.com/?lang=en",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [
+    "free",
+    "web"
+   ],
+   "blurb": "I am hopelessly hooked on the game Murdoku . It’s free online, or you can play old school through books . It’s a logic game where you solve crimes by process of elimination.",
+   "section": "crowdsourced",
+   "recommender": "Kurt (reader)"
+  },
+  {
+   "id": "2026-08-01-through-books",
+   "name": "through books",
+   "url": "https://murdoku.com/print?lang=en",
+   "alt_urls": [],
+   "category": "other",
+   "tags": [
+    "book"
+   ],
+   "blurb": "I am hopelessly hooked on the game Murdoku . It’s free online, or you can play old school through books . It’s a logic game where you solve crimes by process of elimination.",
+   "section": "crowdsourced",
+   "recommender": "Kurt (reader)"
+  },
+  {
+   "id": "2026-08-01-paradiso",
+   "name": "Paradiso",
+   "url": "https://www.paradiso-film.app/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "movie",
+    "ios"
+   ],
+   "blurb": "I’ve been loving Paradiso for finding movie showtimes. Not only does it alert you when something on your Letterboxd watchlist is playing near you, it also beats Fandango or other apps for simply browsing first run showtimes.",
+   "section": "crowdsourced",
+   "recommender": "Mike (reader)"
+  },
+  {
+   "id": "2026-08-01-good-lock",
+   "name": "Good Lock",
+   "url": "https://play.google.com/store/apps/details?id=com.samsung.android.goodlock&hl=en_US",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "My friend recently ordered a Galaxy Z Fold 8 and I had to introduce them to Good Lock .",
+   "section": "crowdsourced",
+   "recommender": "B (reader)"
+  },
+  {
+   "id": "2026-08-01-this-esr-one",
+   "name": "this ESR one",
+   "url": "https://www.esrtech.com/products/white-cryoboost-foldable-3-in-1-wireless-charging-station-qi2-25w-jp-plug",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [
+    "travel"
+   ],
+   "blurb": "I love Anker stuff and tend to choose it over everything else. But I have the Anker 3-in-1 travel charger and… this ESR one (a brand I hadn’t really heard of) is the better product in every way. The Apple Watch charger is in a better place, it’s thinner, and the cooling fan works better.",
+   "section": "crowdsourced",
+   "recommender": "Peter (reader)"
+  },
+  {
+   "id": "2026-08-01-claude-2",
+   "name": "Claude",
+   "url": "https://claude.ai/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
+   "blurb": "Finally switched from a mess of read-it-later apps to a second brain with Obsidian + Claude , inspired by Karpathy’s LLM Wiki concept. Hoping this setup is the one that actually sticks…",
+   "section": "crowdsourced",
+   "recommender": "Kartik (reader)"
+  },
+  {
+   "id": "2026-08-01-karpathys-llm-wiki",
+   "name": "Karpathy’s LLM Wiki",
+   "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "open-source"
+   ],
+   "blurb": "Finally switched from a mess of read-it-later apps to a second brain with Obsidian + Claude , inspired by Karpathy’s LLM Wiki concept. Hoping this setup is the one that actually sticks…",
+   "section": "crowdsourced",
+   "recommender": "Kartik (reader)"
+  },
+  {
+   "id": "2026-08-01-readwise-reader",
+   "name": "Readwise Reader",
+   "url": "https://readwise.io/read",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "newsletter",
+    "productivity",
+    "subscription"
+   ],
+   "blurb": "I use Readwise Reader for all my newsletters. It has unique email addresses to either add newsletters to your library or RSS feed. I love keeping all my things to read all in the same app, read later, newsletters, pdfs…",
+   "section": "crowdsourced",
+   "recommender": "Rich (reader)"
+  },
+  {
+   "id": "2026-08-01-avatar-aang-the-last-airbender",
+   "name": "Avatar Aang: The Last Airbender",
+   "url": "https://www.themoviedb.org/movie/980431-avatar-aang-the-last-airbender",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "HIGHLY recommend the movie Avatar Aang: The Last Airbender . It’s a crime and shame that Paramount isn’t putting this into more theaters, AND that the movie was leaked on X earlier this year. Amazing film with all-time stunning visuals that honestly left me angry I was watching it on TV at home.",
+   "section": "crowdsourced",
+   "recommender": "Nolan (reader)"
+  },
+  {
+   "id": "2026-08-01-lawrence-of-arabia",
+   "name": "Lawrence of Arabia",
+   "url": "https://www.themoviedb.org/movie/947-lawrence-of-arabia?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "Watching the restored version of Lawrence of Arabia . Peter O’Toole’s blue eyes are dreamy.",
+   "section": "crowdsourced",
+   "recommender": "SaltedPork (reader)"
+  },
+  {
+   "id": "2026-08-01-the-everything-machine",
+   "name": "the Everything Machine",
+   "url": "https://everythingmachine.io/phone/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "website",
+    "free"
+   ],
+   "blurb": "The coolest internet experience I had this week was scrolling through the Everything Machine , a deep and detailed breakdown of how your phone works.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}
