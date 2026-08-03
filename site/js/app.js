@@ -23,8 +23,6 @@ try {
 const recs = data.recommendations;
 const issuesByDate = new Map(data.issues.map((i) => [i.date, i]));
 
-$("stat-recs").textContent = fmtNum(data.rec_count);
-$("stat-issues").textContent = fmtNum(data.issue_count);
 if (data.issues.length) $("updated").textContent = `Updated ${fmtDate(data.issues[0].date)}`;
 
 // -------------------------------------------------------------- search index
@@ -92,6 +90,39 @@ function buildChips() {
     tagRow.append(makeChip(t, () => state.tags.includes(t), () => toggleTag(t, false)));
   }
   chips.push(...cat.children, ...sec.children, ...yearRow.children, ...tagRow.children);
+}
+
+function buildStatBadges() {
+  const wrap = $("stat-badges");
+  const statOf = (num, label) => {
+    const s = document.createElement("span");
+    s.className = "stat-badge";
+    const b = document.createElement("b");
+    b.textContent = fmtNum(num);
+    s.append(b, document.createTextNode(label));
+    return s;
+  };
+  wrap.append(statOf(data.rec_count, "recommendations"), statOf(data.issue_count, "issues"));
+
+  const catCounts = new Map();
+  for (const r of recs) if (r.category) catCounts.set(r.category, (catCounts.get(r.category) || 0) + 1);
+  for (const key of Object.keys(CATEGORY_LABELS)) {
+    const n = catCounts.get(key);
+    if (!n) continue;
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = `stat-badge stat-badge-cat badge-${key}`;
+    const b = document.createElement("b");
+    b.textContent = fmtNum(n);
+    btn.append(b, document.createTextNode(CATEGORY_LABELS[key].toLowerCase()));
+    btn.addEventListener("click", () => {
+      state.cat = state.cat === key ? null : key;
+      apply();
+    });
+    btn.refresh = () => btn.setAttribute("aria-pressed", String(state.cat === key));
+    chips.push(btn);
+    wrap.append(btn);
+  }
 }
 
 function toggleTag(tag, doApply = true) {
@@ -235,6 +266,7 @@ if (hiddenFilterCount()) moreWrap.hidden = false; // don't hide active filters
 // -------------------------------------------------------------------- wiring
 
 buildChips();
+buildStatBadges();
 syncAdminUI();
 syncMoreFilters();
 
