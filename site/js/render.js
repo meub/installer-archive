@@ -27,10 +27,17 @@ function el(tag, className, text) {
 
 function sep() { return el("span", "sep", "·"); }
 
-function rowFor(rec, issue, onTag) {
+function rowFor(rec, issue, onTag, onDelete) {
   const li = el("li", "rec");
 
   const head = el("div", "rec-head");
+  if (onDelete) {
+    const del = el("button", "del-btn", "✕");
+    del.type = "button";
+    del.title = `Mark ${rec.name} for deletion`;
+    del.addEventListener("click", () => onDelete(rec));
+    head.append(del);
+  }
   let name;
   if (rec.url) {
     name = el("a", "rec-name", rec.name);
@@ -76,14 +83,15 @@ function rowFor(rec, issue, onTag) {
   return li;
 }
 
-export function createRenderer(listEl, sentinelEl, issuesByDate, onTag) {
+export function createRenderer(listEl, sentinelEl, issuesByDate, onTag, admin, onDelete) {
   let list = [];
   let shown = 0;
 
   function more() {
     const frag = document.createDocumentFragment();
     for (const rec of list.slice(shown, shown + CHUNK)) {
-      frag.append(rowFor(rec, issuesByDate.get(rec.date), onTag));
+      frag.append(rowFor(rec, issuesByDate.get(rec.date), onTag,
+        admin?.enabled ? onDelete : null));
     }
     shown = Math.min(shown + CHUNK, list.length);
     listEl.append(frag);

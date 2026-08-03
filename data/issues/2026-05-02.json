@@ -55,7 +55,7 @@
    "tags": [
     "tv"
    ],
-   "blurb": "All my TV-nerd friends have been waiting with bated breath for this new Apple TV show, and apparently it delivers . Funny and scary in equal measure is very hard to pull off, and I’m thrilled Matthew Rhys and co. are going straight on my watchlist.",
+   "blurb": "All my TV-nerd friends have been waiting with bated breath for this new Apple TV show, and apparently it delivers. Funny and scary in equal measure is very hard to pull off, and I’m thrilled Matthew Rhys and co. are going straight on my watchlist.",
    "section": "the-drop",
    "recommender": null
   },
@@ -72,7 +72,7 @@
     "free",
     "ai"
    ],
-   "blurb": "I’ve been hearing good things about this super-fast code editor for a while, and it finally officially launched . Some interesting AI integrations in here, but really its job is to work everywhere and never ever slow down. On that front, it seems to be a hit.",
+   "blurb": "I’ve been hearing good things about this super-fast code editor for a while, and it finally officially launched. Some interesting AI integrations in here, but really its job is to work everywhere and never ever slow down. On that front, it seems to be a hit.",
    "section": "the-drop",
    "recommender": null
   },
@@ -98,7 +98,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "“ I’m done renting my digital life .” Really great video in which Iskren gets fed up with all the subscriptions in his life, and tries to go hard into physical media, self-hosting, and more. It’s fascinating! And hard! And expensive!",
+   "blurb": "“ I’m done renting my digital life.” Really great video in which Iskren gets fed up with all the subscriptions in his life, and tries to go hard into physical media, self-hosting, and more. It’s fascinating! And hard! And expensive!",
    "section": "the-drop",
    "recommender": null
   },
@@ -154,7 +154,7 @@
     "ios",
     "android"
    ],
-   "blurb": "A lot of y’all out in the Installerverse have told me you’re using Lovable for vibe-coding projects. Now there’s an app for Android and iOS , so you can make mobile apps with your mobile apps.",
+   "blurb": "A lot of y’all out in the Installerverse have told me you’re using Lovable for vibe-coding projects. Now there’s an app for Android and iOS, so you can make mobile apps with your mobile apps.",
    "section": "the-drop",
    "recommender": null
   },
@@ -168,7 +168,7 @@
     "productivity",
     "cross-platform"
    ],
-   "blurb": "I use it on the web on my computer, and through an iOS app I just managed to get functional the other day. Basically the way it works is this: I connect the app to Google Calendar and Todoist , and it shows me everything I have to do today.",
+   "blurb": "Basically the way it works is this: I connect the app to Google Calendar and Todoist, and it shows me everything I have to do today.",
    "section": "screen-share",
    "recommender": null
   },
@@ -182,7 +182,7 @@
     "productivity",
     "cross-platform"
    ],
-   "blurb": "I use it on the web on my computer, and through an iOS app I just managed to get functional the other day. Basically the way it works is this: I connect the app to Google Calendar and Todoist , and it shows me everything I have to do today.",
+   "blurb": "Basically the way it works is this: I connect the app to Google Calendar and Todoist, and it shows me everything I have to do today.",
    "section": "screen-share",
    "recommender": null
   },
@@ -196,7 +196,7 @@
     "productivity",
     "web"
    ],
-   "blurb": "I use it on the web on my computer, and through an iOS app I just managed to get functional the other day. Basically the way it works is this: I connect the app to Google Calendar and Todoist , and it shows me everything I have to do today.",
+   "blurb": "Another tab is synced to Raindrop, which shows a simple list of everything I’ve bookmarked in reverse chronological order, plus buttons to quickly delete a link or move it to a specific folder.",
    "section": "screen-share",
    "recommender": null
   },
@@ -224,7 +224,7 @@
     "ios",
     "productivity"
    ],
-   "blurb": "The other thing it does is input: This app has a single window through which I can create a task (which syncs to Todoist), an event (to Google Calendar), or a note (which creates a text file that immediately gets picked up in Obsidian ).",
+   "blurb": "After years of fiddling with apps like Drafts and Raycast to build this kind of universal capture system, I finally have one that works exactly the way I wanted it to.",
    "section": "screen-share",
    "recommender": null
   },
@@ -239,7 +239,7 @@
     "productivity",
     "utilities"
    ],
-   "blurb": "The other thing it does is input: This app has a single window through which I can create a task (which syncs to Todoist), an event (to Google Calendar), or a note (which creates a text file that immediately gets picked up in Obsidian ).",
+   "blurb": "After years of fiddling with apps like Drafts and Raycast to build this kind of universal capture system, I finally have one that works exactly the way I wanted it to.",
    "section": "screen-share",
    "recommender": null
   },
@@ -267,7 +267,7 @@
    "tags": [
     "podcast"
    ],
-   "blurb": "I host Business of Tech , a daily podcast covering the business side of the technology industry — not the consumer stuff, but the companies and people who actually run the tech that keeps businesses alive. Think managed service providers, IT service companies, the vendors who build for them.",
+   "blurb": "I host Business of Tech, a daily podcast covering the business side of the technology industry — not the consumer stuff, but the companies and people who actually run the tech that keeps businesses alive. Think managed service providers, IT service companies, the vendors who build for them.",
    "section": "crowdsourced",
    "recommender": "Dave (reader)"
   },
@@ -280,7 +280,7 @@
    "tags": [
     "ios"
    ],
-   "blurb": "Just a few months ago I launched my app Cross . Cross is a to-do app that syncs to Notion. And makes it so much easier and faster to create a task in Notion.",
+   "blurb": "Just a few months ago I launched my app Cross. Cross is a to-do app that syncs to Notion. And makes it so much easier and faster to create a task in Notion.",
    "section": "crowdsourced",
    "recommender": "Luis (reader)"
   },
@@ -305,7 +305,7 @@
     "fitness",
     "ios"
    ],
-   "blurb": "I made Buena Vida Run Club . It’s Strava + MyFitnessPal + Runna + more in one app. This is no weekend vibe code... I’ve spent the past 16 months researching, designing & building. No AI hallucinations, just lots of detailed math & science.",
+   "blurb": "I made Buena Vida Run Club. It’s Strava + MyFitnessPal + Runna + more in one app. This is no weekend vibe code... I’ve spent the past 16 months researching, designing & building. No AI hallucinations, just lots of detailed math & science.",
    "section": "crowdsourced",
    "recommender": "Cole (reader)"
   },
@@ -318,7 +318,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "I made a short film in 2023 about our current ever creeping descent into AI madness called Eating 38 Cheeseburgers . In a time when so many of us already feel isolated from one another, I saw this technology as something that could super charge that disconnection.",
+   "blurb": "I made a short film in 2023 about our current ever creeping descent into AI madness called Eating 38 Cheeseburgers. In a time when so many of us already feel isolated from one another, I saw this technology as something that could super charge that disconnection.",
    "section": "crowdsourced",
    "recommender": "Andrew (reader)"
   },
@@ -333,7 +333,7 @@
     "utilities",
     "productivity"
    ],
-   "blurb": "I built a macOS app to automatically organize your files: Rulebook . You can set up rules, and it quietly sorts, renames, converts, beeps, moves, copies, archives, and tags your files in the background — like a personal assistant for your folders.",
+   "blurb": "I built a macOS app to automatically organize your files: Rulebook. You can set up rules, and it quietly sorts, renames, converts, beeps, moves, copies, archives, and tags your files in the background — like a personal assistant for your folders.",
    "section": "crowdsourced",
    "recommender": "Lucas (reader)"
   },
@@ -361,7 +361,7 @@
     "newsletter",
     "productivity"
    ],
-   "blurb": "I built Newslog . It bundles your newsletters, RSS feeds, and articles into a single daily digest with an index and summaries. It’s designed specifically for calm, distraction-free reading on Kindle and deep-work archiving in Obsidian.",
+   "blurb": "I built Newslog. It bundles your newsletters, RSS feeds, and articles into a single daily digest with an index and summaries. It’s designed specifically for calm, distraction-free reading on Kindle and deep-work archiving in Obsidian.",
    "section": "crowdsourced",
    "recommender": "Lucas (reader)"
   },
@@ -484,7 +484,7 @@
     "ios",
     "video"
    ],
-   "blurb": "Two years ago, you featured my app Play for saving and organizing videos. Since then, it’s grown a lot : better video player, support for transcripts and new AI features like summaries and Q&A. You can also filter subscription videos to hide YouTube shorts, and much more.",
+   "blurb": "Two years ago, you featured my app Play for saving and organizing videos. Since then, it’s grown a lot: better video player, support for transcripts and new AI features like summaries and Q&A. You can also filter subscription videos to hide YouTube shorts, and much more.",
    "section": "crowdsourced",
    "recommender": "Marcos (reader)"
   },
@@ -499,7 +499,7 @@
     "ios",
     "ai"
    ],
-   "blurb": "Two years ago, you featured my app Play for saving and organizing videos. Since then, it’s grown a lot : better video player, support for transcripts and new AI features like summaries and Q&A. You can also filter subscription videos to hide YouTube shorts, and much more.",
+   "blurb": "Two years ago, you featured my app Play for saving and organizing videos. Since then, it’s grown a lot: better video player, support for transcripts and new AI features like summaries and Q&A. You can also filter subscription videos to hide YouTube shorts, and much more.",
    "section": "crowdsourced",
    "recommender": "Marcos (reader)"
   },
@@ -513,7 +513,7 @@
     "ios",
     "productivity"
    ],
-   "blurb": "Did It , a daily wins journal I built, works on the opposite principle to a todo list. It only lets you record what you already did. No tasks waiting for tomorrow, just a quiet record of your day, however small or ordinary. Some days the win is shipping something. Some days it’s getting out of bed.",
+   "blurb": "Did It, a daily wins journal I built, works on the opposite principle to a todo list. It only lets you record what you already did. No tasks waiting for tomorrow, just a quiet record of your day, however small or ordinary. Some days the win is shipping something. Some days it’s getting out of bed.",
    "section": "crowdsourced",
    "recommender": "Pascal (reader)"
   },
@@ -526,7 +526,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "I built a working Cyberpunk 2077 Radio . Hugely ambitious project (the FFT code to make the real-time spectrum display was a challenge, but authentic to how the radio works in the game).",
+   "blurb": "I built a working Cyberpunk 2077 Radio. Hugely ambitious project (the FFT code to make the real-time spectrum display was a challenge, but authentic to how the radio works in the game).",
    "section": "crowdsourced",
    "recommender": "David (reader)"
   },
@@ -551,7 +551,7 @@
     "ios",
     "beta"
    ],
-   "blurb": "I got into home espresso two years ago and despite watching hundreds of YouTube videos, I felt like I was missing the right advice to pull better shots. I tried a few tracking apps and they all looked rough, so I built my own, called Dial .",
+   "blurb": "I got into home espresso two years ago and despite watching hundreds of YouTube videos, I felt like I was missing the right advice to pull better shots. I tried a few tracking apps and they all looked rough, so I built my own, called Dial.",
    "section": "crowdsourced",
    "recommender": "Christophe (reader)"
   },
@@ -577,7 +577,7 @@
    "tags": [
     "music"
    ],
-   "blurb": "I finally saw Project Hail Mary the other day, and knew halfway through the movie that its score was going to go in my rotation. It’s a little pluckier than some of the others I like, but it’s a perfect mood-setter.",
+   "blurb": "I finally saw Project Hail Mary the other day, and knew halfway through the movie that its score was going to go in my rotation.",
    "section": "signing-off",
    "recommender": null
   },
@@ -590,7 +590,7 @@
    "tags": [
     "music"
    ],
-   "blurb": "I finally saw Project Hail Mary the other day, and knew halfway through the movie that its score was going to go in my rotation. It’s a little pluckier than some of the others I like, but it’s a perfect mood-setter.",
+   "blurb": "It also got me listening to Daniel Pemberton’s other scores, including Steve Jobs and Spider-Man: Across the Spider-Verse, both of which are also fabulous.",
    "section": "signing-off",
    "recommender": null
   },
@@ -603,7 +603,7 @@
    "tags": [
     "music"
    ],
-   "blurb": "I finally saw Project Hail Mary the other day, and knew halfway through the movie that its score was going to go in my rotation. It’s a little pluckier than some of the others I like, but it’s a perfect mood-setter.",
+   "blurb": "It also got me listening to Daniel Pemberton’s other scores, including Steve Jobs and Spider-Man: Across the Spider-Verse, both of which are also fabulous.",
    "section": "signing-off",
    "recommender": null
   }

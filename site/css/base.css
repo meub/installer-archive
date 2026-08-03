@@ -159,6 +159,24 @@ dialog p { color: var(--text-muted); font-size: 14px; }
 
 :focus-visible { outline: 2px solid var(--focus); outline-offset: 1px; }
 
+/* ---------- admin mode (data cleanup, SPEC §7.2) ---------- */
+.admin-bar {
+  position: fixed; bottom: 0; left: 0; right: 0; z-index: 20;
+  display: flex; align-items: center; gap: 16px;
+  padding: 9px 20px;
+  background: #7f1d1d; color: #fecaca;
+  font-size: 13px;
+}
+.admin-bar .link-btn { color: #fff; }
+.admin-bar strong { letter-spacing: 0.08em; }
+.del-btn {
+  border: 1px solid #dc2626; background: none; color: #dc2626;
+  border-radius: 5px; width: 22px; height: 22px; line-height: 1;
+  font-size: 12px; cursor: pointer; flex-shrink: 0;
+}
+.del-btn:hover { background: #dc2626; color: #fff; }
+body.admin-on { padding-bottom: 48px; }
+
 @media (max-width: 560px) {
   .wrap { padding: 0 14px; }
   .site-head { padding-top: 22px; }

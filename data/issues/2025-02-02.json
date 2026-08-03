@@ -122,7 +122,7 @@
    "tags": [
     "windows"
    ],
-   "blurb": "And speaking of GPUs! (I’m honestly not doing this on purpose.) The $999 5080 is out now, and my colleague Tom Warren found it to be… fine . It’s fine! But the good news is you can safely bargain hunt for a 4080 or 4090 instead.",
+   "blurb": "And speaking of GPUs! (I’m honestly not doing this on purpose.) The $999 5080 is out now, and my colleague Tom Warren found it to be… fine. It’s fine! But the good news is you can safely bargain hunt for a 4080 or 4090 instead.",
    "section": "the-drop",
    "recommender": null
   },
@@ -137,7 +137,7 @@
    "tags": [
     "free"
    ],
-   "blurb": "A gorgeous, impossibly huge, endlessly explorable game just got impossibly huge-er . Billions (billions!) of new solar systems, trillions (trillions!) of planets, I think you could play this game for the rest of your life and never see the end of it. Challenge accepted.",
+   "blurb": "A gorgeous, impossibly huge, endlessly explorable game just got impossibly huge-er. Billions (billions!) of new solar systems, trillions (trillions!) of planets, I think you could play this game for the rest of your life and never see the end of it. Challenge accepted.",
    "section": "the-drop",
    "recommender": null
   },
@@ -161,7 +161,7 @@
    "tags": [
     "book"
    ],
-   "blurb": "Google Translate is there because I’m trying to learn Italian and make myself read a couple pages of an Italian novel every day. I’m about to finish Italo Calvino’s If on a Winter’s Night a Traveler , and Translate is my backup for the many times I hit a word I don’t know.",
+   "blurb": "I’m about to finish Italo Calvino’s If on a Winter’s Night a Traveler, and Translate is my backup for the many times I hit a word I don’t know.",
    "section": "screen-share",
    "recommender": "Dom"
   },
@@ -172,7 +172,7 @@
    "alt_urls": [],
    "category": "media",
    "tags": [],
-   "blurb": "Severance . I know, me and everyone else. But season 2 has been great so far. I’m supremely into the entire aesthetic, and it feels like a treat just to get a TV show that’s appointment viewing again. New Philosopher . Before I was ever a journalist, I thought I was going to do a PhD in philosophy.",
+   "blurb": "Severance.",
    "section": "screen-share",
    "recommender": "Dom"
   },
@@ -183,7 +183,7 @@
    "alt_urls": [],
    "category": "media",
    "tags": [],
-   "blurb": "Severance . I know, me and everyone else. But season 2 has been great so far. I’m supremely into the entire aesthetic, and it feels like a treat just to get a TV show that’s appointment viewing again. New Philosopher . Before I was ever a journalist, I thought I was going to do a PhD in philosophy.",
+   "blurb": "New Philosopher.",
    "section": "screen-share",
    "recommender": "Dom"
   },
@@ -196,7 +196,7 @@
    "tags": [
     "newsletter"
    ],
-   "blurb": "Severance . I know, me and everyone else. But season 2 has been great so far. I’m supremely into the entire aesthetic, and it feels like a treat just to get a TV show that’s appointment viewing again. New Philosopher . Before I was ever a journalist, I thought I was going to do a PhD in philosophy.",
+   "blurb": "Vittles.",
    "section": "screen-share",
    "recommender": "Dom"
   },
@@ -207,7 +207,7 @@
    "alt_urls": [],
    "category": "other",
    "tags": [],
-   "blurb": "Severance . I know, me and everyone else. But season 2 has been great so far. I’m supremely into the entire aesthetic, and it feels like a treat just to get a TV show that’s appointment viewing again. New Philosopher . Before I was ever a journalist, I thought I was going to do a PhD in philosophy.",
+   "blurb": "Arcs.",
    "section": "screen-share",
    "recommender": "Dom"
   },
@@ -218,7 +218,7 @@
    "alt_urls": [],
    "category": "other",
    "tags": [],
-   "blurb": "Severance . I know, me and everyone else. But season 2 has been great so far. I’m supremely into the entire aesthetic, and it feels like a treat just to get a TV show that’s appointment viewing again. New Philosopher . Before I was ever a journalist, I thought I was going to do a PhD in philosophy.",
+   "blurb": "Root is one of my favorite board games, and until a few weeks ago I’d totally missed that its designer Cole Wehrle released Arcs last year.",
    "section": "screen-share",
    "recommender": "Dom"
   },
@@ -299,7 +299,7 @@
     "ai",
     "productivity"
    ],
-   "blurb": "I am using ChatGPT Tasks . I’ve since revised my first attempt to include three distinct gratitude writing prompts and three distinct AI news items. I’m also a Dallas Cowboys fan (don’t judge) and have ChatGPT monitoring their hunt for a new head coach.",
+   "blurb": "I am using ChatGPT Tasks. I’ve since revised my first attempt to include three distinct gratitude writing prompts and three distinct AI news items. I’m also a Dallas Cowboys fan (don’t judge) and have ChatGPT monitoring their hunt for a new head coach.",
    "section": "crowdsourced",
    "recommender": "Tony (reader)"
   },
@@ -327,7 +327,7 @@
     "newsletter",
     "web"
    ],
-   "blurb": "KTool . It lets me get my RSS feeds and my newsletters to my Kindle so I can read them like a magazine and limit my scroll time. It’s amazing.",
+   "blurb": "KTool. It lets me get my RSS feeds and my newsletters to my Kindle so I can read them like a magazine and limit my scroll time. It’s amazing.",
    "section": "crowdsourced",
    "recommender": "Murphy (reader)"
   },
@@ -356,7 +356,7 @@
     "cross-platform",
     "web"
    ],
-   "blurb": "Switched over to Zen Browser . Basically Arc, but open-source and built on Firefox. Hoping for folders to be implemented soon.",
+   "blurb": "Switched over to Zen Browser. Basically Arc, but open-source and built on Firefox. Hoping for folders to be implemented soon.",
    "section": "crowdsourced",
    "recommender": "Phase (reader)"
   },
@@ -371,7 +371,7 @@
     "web",
     "free"
    ],
-   "blurb": "Have made reading a big goal for this year. To that end, my partner and I started some goal tracking through an app called The StoryGraph , where you enter what you’re reading each day and it provides a nice summary, which you can share with others.",
+   "blurb": "Have made reading a big goal for this year. To that end, my partner and I started some goal tracking through an app called The StoryGraph, where you enter what you’re reading each day and it provides a nice summary, which you can share with others.",
    "section": "crowdsourced",
    "recommender": "Colin (reader)"
   },
@@ -384,7 +384,7 @@
    "tags": [
     "tv"
    ],
-   "blurb": "On Monday this week, I hopped on a flight to West Palm Beach, FL, to go to a golf match. But not a normal golf match: I went to see TGL , a new indoor and simulator-based golf league that has a genuinely astonishing amount of new technology baked in.",
+   "blurb": "But not a normal golf match: I went to see TGL, a new indoor and simulator-based golf league that has a genuinely astonishing amount of new technology baked in. ( ESPN has a good story about how TGL works and where it came from.)",
    "section": "signing-off",
    "recommender": null
   },
@@ -397,7 +397,7 @@
    "tags": [
     "article"
    ],
-   "blurb": "On Monday this week, I hopped on a flight to West Palm Beach, FL, to go to a golf match. But not a normal golf match: I went to see TGL , a new indoor and simulator-based golf league that has a genuinely astonishing amount of new technology baked in.",
+   "blurb": "But not a normal golf match: I went to see TGL, a new indoor and simulator-based golf league that has a genuinely astonishing amount of new technology baked in. ( ESPN has a good story about how TGL works and where it came from.)",
    "section": "signing-off",
    "recommender": null
   },
@@ -410,7 +410,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "I’m going to have a bunch of stuff on The Verge about that trip in the next couple of weeks. But in the meantime, if you care at all about golf, you should check it out.",
+   "blurb": "Honestly, even if you don’t, the tech itself is worth checking out all on its own — here’s a great YouTube tour of the whole setup.",
    "section": "signing-off",
    "recommender": null
   }

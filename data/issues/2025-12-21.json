@@ -168,7 +168,7 @@
     "android",
     "social"
    ],
-   "blurb": "Welcome to my normcore homescreen. I don’t really spend a lot of time evaluating new apps or whatever.",
+   "blurb": "The odd app out is probably Swarm; I’ve been using Foursquare / Swarm to check in to places since they launched.",
    "section": "screen-share",
    "recommender": "Jason"
   },
@@ -181,7 +181,7 @@
    "tags": [
     "tv"
    ],
-   "blurb": "You know who’s really great at their jobs? Ken Burns and his collaborators. I’ve been watching The American Revolution on PBS, and it’s just so interesting. It’s the kind of show I put on and 10 minutes in, I’m like, oh no, I actually wanted to go to sleep before 1AM tonight...",
+   "blurb": "I’ve been watching The American Revolution on PBS, and it’s just so interesting.",
    "section": "screen-share",
    "recommender": "Jason"
   },
@@ -194,7 +194,7 @@
    "tags": [
     "ai"
    ],
-   "blurb": "You know who’s really great at their jobs? Ken Burns and his collaborators. I’ve been watching The American Revolution on PBS, and it’s just so interesting. It’s the kind of show I put on and 10 minutes in, I’m like, oh no, I actually wanted to go to sleep before 1AM tonight...",
+   "blurb": "Opus 4.5 and Claude Code are sort of magical.",
    "section": "screen-share",
    "recommender": "Jason"
   },
@@ -209,7 +209,7 @@
     "cross-platform",
     "web"
    ],
-   "blurb": "You know who’s really great at their jobs? Ken Burns and his collaborators. I’ve been watching The American Revolution on PBS, and it’s just so interesting. It’s the kind of show I put on and 10 minutes in, I’m like, oh no, I actually wanted to go to sleep before 1AM tonight...",
+   "blurb": "I’m trying to get serious about saving links and notes, so I’ve been experimenting with throwing everything I might want to see again into Raindrop.",
    "section": "screen-share",
    "recommender": "Jason"
   },
@@ -245,7 +245,7 @@
     "smart-home",
     "open-source"
    ],
-   "blurb": "Home Assistant Green . I was hesitant to go for it and I don’t regret it. It’s an amazing thing. I have several sensors connected via Zigbee and I love automation. I only buy new things that can be integrated into Home Assistant. I highly recommend it.",
+   "blurb": "Home Assistant Green. I was hesitant to go for it and I don’t regret it. It’s an amazing thing. I have several sensors connected via Zigbee and I love automation. I only buy new things that can be integrated into Home Assistant. I highly recommend it.",
    "section": "crowdsourced",
    "recommender": "Andris (reader)"
   },
@@ -311,7 +311,7 @@
    "alt_urls": [],
    "category": "gadget",
    "tags": [],
-   "blurb": "Loving the new-to-me Apple Vision Pro . Work, entertainment etc are awesome in it. Couldn’t convince myself at MSRP, but at under $2,000 in the used market it’s awesome. Wish I had gotten one last year!",
+   "blurb": "Loving the new-to-me Apple Vision Pro. Work, entertainment etc are awesome in it. Couldn’t convince myself at MSRP, but at under $2,000 in the used market it’s awesome. Wish I had gotten one last year!",
    "section": "crowdsourced",
    "recommender": "Tony (reader)"
   },
@@ -325,7 +325,7 @@
     "smart-home",
     "open-source"
    ],
-   "blurb": "For me it’s TRMNL . It’s such a nice and well thought out device supported by a great software platform. It allows me to tinker, but also to just use the ready made plugins without hassle.",
+   "blurb": "For me it’s TRMNL. It’s such a nice and well thought out device supported by a great software platform. It allows me to tinker, but also to just use the ready made plugins without hassle.",
    "section": "crowdsourced",
    "recommender": "Estof (reader)"
   },
@@ -360,7 +360,7 @@
    "tags": [
     "android"
    ],
-   "blurb": "Mine would have to be Android handhelds like the AYN Odin 2 Portal . Think of an ARM-based Steam Deck. It can run Android, emulation, and Steam games. The latter using Gamehub. Also has WiFi 7 and an OLED screen. Because it’s ARM, the battery life is much better than x86 handhelds.",
+   "blurb": "Mine would have to be Android handhelds like the AYN Odin 2 Portal. Think of an ARM-based Steam Deck. It can run Android, emulation, and Steam games. The latter using Gamehub. Also has WiFi 7 and an OLED screen. Because it’s ARM, the battery life is much better than x86 handhelds.",
    "section": "crowdsourced",
    "recommender": "Alric (reader)"
   },
@@ -406,7 +406,7 @@
    "alt_urls": [],
    "category": "gadget",
    "tags": [],
-   "blurb": "My favourite new-to-me thing of this year was discovering the wonders of the HP-1xC calculators . Launched in 1981/82, this series of calculators covered three very different domains of calculation: financial (HP-12C), scientific (HP-11C and HP-15C) and programming (HP-16C).",
+   "blurb": "My favourite new-to-me thing of this year was discovering the wonders of the HP-1xC calculators. Launched in 1981/82, this series of calculators covered three very different domains of calculation: financial (HP-12C), scientific (HP-11C and HP-15C) and programming (HP-16C).",
    "section": "crowdsourced",
    "recommender": "William (reader)"
   },
@@ -421,7 +421,7 @@
     "web",
     "subscription"
    ],
-   "blurb": "Mymind . Simply brilliant, fast, intuitive, elegant and useful.",
+   "blurb": "Mymind. Simply brilliant, fast, intuitive, elegant and useful.",
    "section": "crowdsourced",
    "recommender": "Nicos (reader)"
   },

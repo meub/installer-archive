@@ -120,6 +120,14 @@ def test_old_era_generic_link_names_recovered(old_era):
     assert "link" not in names(items)
 
 
+def test_link_markers_stripped_from_blurbs(old_era):
+    """2023-era '( link )' anchor markers must not survive into blurbs."""
+    _, _, _, items, _ = old_era
+    for item in items:
+        assert "( link" not in item["blurb"].lower()
+        assert "(link" not in item["blurb"].lower()
+
+
 def test_old_era_protips_skip_unlinked_tips(old_era):
     _, _, _, items, _ = old_era
     pro = by_section(items, "pro-tips")

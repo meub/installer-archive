@@ -16,7 +16,8 @@ from bs4 import BeautifulSoup, Tag
 
 from scraper.config import (BLURB_LIMIT, BODIES, ISSUES, PARSER_VERSION,
                             SCHEMA_VERSION)
-from scraper.util import clean_url, is_verge, norm_ws, sentence_trim, slugify
+from scraper.util import (clean_url, is_verge, norm_ws, sentence_containing,
+                          sentence_trim, slugify, strip_link_markers)
 
 CMS = "duet--article--dangerously-set-cms-markup"
 
@@ -237,7 +238,7 @@ def _item(name, url, blurb, section, *, alt_urls=None, category=None, recommende
         "alt_urls": alt_urls or [],
         "category": category,
         "tags": [],
-        "blurb": sentence_trim(blurb, BLURB_LIMIT),
+        "blurb": sentence_trim(strip_link_markers(blurb), BLURB_LIMIT),
         "section": section,
         "recommender": recommender,
     }
@@ -284,18 +285,22 @@ def extract_items(sections: list[tuple[str, list[Tag]]]) -> tuple[list[dict], di
                      skip: set | None = None) -> int:
         n = 0
         local_seen: set = set()
+        el_text = norm_ws(el.get_text(" "))
         for a, a_text, url in _anchors(el):
             if is_verge(url) or url in local_seen or (skip and url in skip):
                 continue
             local_seen.add(url)
-            name, generic = _fix_name(a, a_text, norm_ws(el.get_text(" ")))
+            name, generic = _fix_name(a, a_text, el_text)
             if generic:
                 stats["generic_names"] += 1
             if len(name) < 2:
                 continue
             if skip is not None:
                 skip.add(url)
-            items.append(_item(name, url, blurb or el.get_text(" "), section,
+            # prose links get just the sentence around them, not the whole
+            # paragraph — paragraphs here usually describe several things
+            item_blurb = blurb if blurb is not None else sentence_containing(el_text, a_text or name)
+            items.append(_item(name, url, item_blurb, section,
                                recommender=recommender, category=category))
             n += 1
         return n
@@ -512,7 +517,7 @@ def parse_email(html: str, date: str, title: str | None = None,
         if section == "intro":
             continue  # same policy as the web parser
         for name, url, blurb in found:
-            items.append(_item(name, url, blurb, section))
+            items.append(_item(name, url, sentence_containing(blurb, name), section))
     items = _dedupe_and_id(items, date)
 
     final_title = norm_ws(title or (soup.title.string if soup.title else "") or f"Installer {date}")

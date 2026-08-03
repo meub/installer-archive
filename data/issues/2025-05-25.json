@@ -44,7 +44,7 @@
    "tags": [
     "ios"
    ],
-   "blurb": "Puzzmo’s web app is great, so I haven’t exactly been thirsting for a better mobile experience. And, as far as I can tell, the mobile app is just exactly the same thing as the web app. But, hey, I like the icon, and I like any reason to play more Really Bad Chess .",
+   "blurb": "Puzzmo’s web app is great, so I haven’t exactly been thirsting for a better mobile experience. And, as far as I can tell, the mobile app is just exactly the same thing as the web app. But, hey, I like the icon, and I like any reason to play more Really Bad Chess.",
    "section": "the-drop",
    "recommender": null
   },
@@ -157,7 +157,7 @@
     "free",
     "cross-platform"
    ],
-   "blurb": "I have a very boring homescreen! I try not to use too many apps. When I set up a phone, the first thing I do is delete as many of the default apps as possible.",
+   "blurb": "But probably the two notable apps to call out: a couple years ago, I switched completely to the Brave browser, which is the lion icon at the bottom right of the screen.",
    "section": "screen-share",
    "recommender": "Karen"
   },
@@ -172,7 +172,7 @@
     "ios",
     "android"
    ],
-   "blurb": "The second: under my Audio folder, I have a guitar-tuning app, GuitarTuna , for the rare moments I fiddle with my guitar at home. Music was a big part of my childhood, but I haven’t made nearly enough time for it as an adult.",
+   "blurb": "The second: under my Audio folder, I have a guitar-tuning app, GuitarTuna, for the rare moments I fiddle with my guitar at home.",
    "section": "screen-share",
    "recommender": "Karen"
   },
@@ -186,7 +186,7 @@
     "podcast",
     "free"
    ],
-   "blurb": "The Empire podcast, cohosted by historian William Dalrymple and Anita Anand. Wicked cast tour videos on YouTube (yes, I sing along to every song). Late-night comedy YouTube.",
+   "blurb": "The Empire podcast, cohosted by historian William Dalrymple and Anita Anand.",
    "section": "screen-share",
    "recommender": "Karen"
   },
@@ -199,7 +199,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "The Empire podcast, cohosted by historian William Dalrymple and Anita Anand. Wicked cast tour videos on YouTube (yes, I sing along to every song). Late-night comedy YouTube.",
+   "blurb": "Wicked cast tour videos on YouTube (yes, I sing along to every song).",
    "section": "screen-share",
    "recommender": "Karen"
   },
@@ -280,7 +280,7 @@
     "subscription",
     "ios"
    ],
-   "blurb": "I’ve personally managed to seriously build my meditation practice in the last two years using both Happier and Calm . I especially enjoy the meditations by teacher Jeff Warren, who strikes the right balance with his light and playful tone.",
+   "blurb": "I’ve personally managed to seriously build my meditation practice in the last two years using both Happier and Calm. I especially enjoy the meditations by teacher Jeff Warren, who strikes the right balance with his light and playful tone.",
    "section": "crowdsourced",
    "recommender": "Jeroen (reader)"
   },
@@ -295,7 +295,7 @@
     "subscription",
     "cross-platform"
    ],
-   "blurb": "I’ve personally managed to seriously build my meditation practice in the last two years using both Happier and Calm . I especially enjoy the meditations by teacher Jeff Warren, who strikes the right balance with his light and playful tone.",
+   "blurb": "I’ve personally managed to seriously build my meditation practice in the last two years using both Happier and Calm. I especially enjoy the meditations by teacher Jeff Warren, who strikes the right balance with his light and playful tone.",
    "section": "crowdsourced",
    "recommender": "Jeroen (reader)"
   },
@@ -321,7 +321,7 @@
    "tags": [
     "book"
    ],
-   "blurb": "Post Andor I’ve been reading through Star Wars: The Rise and Fall of the Galactic Empire .",
+   "blurb": "Post Andor I’ve been reading through Star Wars: The Rise and Fall of the Galactic Empire.",
    "section": "crowdsourced",
    "recommender": "Allen (reader)"
   },
@@ -332,7 +332,7 @@
    "alt_urls": [],
    "category": "gadget",
    "tags": [],
-   "blurb": "Setup is (90%) finished! Rocking a Teenage Engineering case , HP G4 Dock , UGREEN USB Switcher , and a $60 standing desk from Facebook Marketplace.",
+   "blurb": "Setup is (90%) finished! Rocking a Teenage Engineering case, HP G4 Dock, UGREEN USB Switcher, and a $60 standing desk from Facebook Marketplace.",
    "section": "crowdsourced",
    "recommender": "Jeremy (reader)"
   },
@@ -343,7 +343,7 @@
    "alt_urls": [],
    "category": "gadget",
    "tags": [],
-   "blurb": "Setup is (90%) finished! Rocking a Teenage Engineering case , HP G4 Dock , UGREEN USB Switcher , and a $60 standing desk from Facebook Marketplace.",
+   "blurb": "Setup is (90%) finished! Rocking a Teenage Engineering case, HP G4 Dock, UGREEN USB Switcher, and a $60 standing desk from Facebook Marketplace.",
    "section": "crowdsourced",
    "recommender": "Jeremy (reader)"
   },
@@ -354,7 +354,7 @@
    "alt_urls": [],
    "category": "gadget",
    "tags": [],
-   "blurb": "Setup is (90%) finished! Rocking a Teenage Engineering case , HP G4 Dock , UGREEN USB Switcher , and a $60 standing desk from Facebook Marketplace.",
+   "blurb": "Setup is (90%) finished! Rocking a Teenage Engineering case, HP G4 Dock, UGREEN USB Switcher, and a $60 standing desk from Facebook Marketplace.",
    "section": "crowdsourced",
    "recommender": "Jeremy (reader)"
   },
@@ -369,7 +369,7 @@
     "free",
     "web"
    ],
-   "blurb": "I suppose I should give Wallabag an honorable mention, because you can host it yourself, but it’s a much more involved project. If I were just moving over from Pocket and just wanted a nice place to read without a long list of other feature requests, I’d start with Instapaper.",
+   "blurb": "I suppose I should give Wallabag an honorable mention, because you can host it yourself, but it’s a much more involved project.",
    "section": "signing-off",
    "recommender": null
   }

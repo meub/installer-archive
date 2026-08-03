@@ -122,7 +122,7 @@
     "video",
     "photography"
    ],
-   "blurb": "I’m convinced that if Insta360 had a better company name, it would be as recognizable as GoPro. Its products are great! This one’s expensive — $550 — but it’s every bit a flagship action camera , and the replaceable lenses are really clever.",
+   "blurb": "I’m convinced that if Insta360 had a better company name, it would be as recognizable as GoPro. Its products are great! This one’s expensive — $550 — but it’s every bit a flagship action camera, and the replaceable lenses are really clever.",
    "section": "the-drop",
    "recommender": null
   },
@@ -162,7 +162,7 @@
     "productivity",
     "ios"
    ],
-   "blurb": "I use the Due app widget to capture to-do’s when I’m on the go and then I transfer these onto an Analog Card once I’m at my desk so they actually get done. Fantastical ’s natural language input is so much nicer than iCal’s. “Call with David Pierce tomorrow 10AM.”",
+   "blurb": "I use the Due app widget to capture to-do’s when I’m on the go and then I transfer these onto an Analog Card once I’m at my desk so they actually get done.",
    "section": "screen-share",
    "recommender": "Jeff"
   },
@@ -175,7 +175,7 @@
    "tags": [
     "productivity"
    ],
-   "blurb": "I use the Due app widget to capture to-do’s when I’m on the go and then I transfer these onto an Analog Card once I’m at my desk so they actually get done. Fantastical ’s natural language input is so much nicer than iCal’s. “Call with David Pierce tomorrow 10AM.”",
+   "blurb": "I use the Due app widget to capture to-do’s when I’m on the go and then I transfer these onto an Analog Card once I’m at my desk so they actually get done.",
    "section": "screen-share",
    "recommender": "Jeff"
   },
@@ -190,7 +190,7 @@
     "ios",
     "mac"
    ],
-   "blurb": "I use the Due app widget to capture to-do’s when I’m on the go and then I transfer these onto an Analog Card once I’m at my desk so they actually get done. Fantastical ’s natural language input is so much nicer than iCal’s. “Call with David Pierce tomorrow 10AM.”",
+   "blurb": "Fantastical ’s natural language input is so much nicer than iCal’s.",
    "section": "screen-share",
    "recommender": "Jeff"
   },
@@ -205,7 +205,7 @@
     "subscription",
     "web"
    ],
-   "blurb": "I save everything to MyMind . It’s like a private Pinterest board that’s way easier to search and doesn’t have ads. I‘ve been using Dropbox Paper for many years, and use it for everything. It’s basically a much cleaner version of Google Docs with built-in markdown and smart links.",
+   "blurb": "I save everything to MyMind.",
    "section": "screen-share",
    "recommender": "Jeff"
   },
@@ -220,7 +220,7 @@
     "web",
     "free"
    ],
-   "blurb": "I save everything to MyMind . It’s like a private Pinterest board that’s way easier to search and doesn’t have ads. I‘ve been using Dropbox Paper for many years, and use it for everything. It’s basically a much cleaner version of Google Docs with built-in markdown and smart links.",
+   "blurb": "I‘ve been using Dropbox Paper for many years, and use it for everything.",
    "section": "screen-share",
    "recommender": "Jeff"
   },
@@ -233,7 +233,7 @@
    "tags": [
     "music"
    ],
-   "blurb": "The Orchid from Telepathic Instruments. I don’t even play music, but I want this thing. The video is so good. This case study of the Herman Miller rebrand . So much design gold in here. SABLE, fABLE , Bon Iver’s newest album. I’ve had this on repeat for days. One of my favorite artists.",
+   "blurb": "The Orchid from Telepathic Instruments.",
    "section": "screen-share",
    "recommender": "Jeff"
   },
@@ -246,7 +246,7 @@
    "tags": [
     "article"
    ],
-   "blurb": "The Orchid from Telepathic Instruments. I don’t even play music, but I want this thing. The video is so good. This case study of the Herman Miller rebrand . So much design gold in here. SABLE, fABLE , Bon Iver’s newest album. I’ve had this on repeat for days. One of my favorite artists.",
+   "blurb": "This case study of the Herman Miller rebrand.",
    "section": "screen-share",
    "recommender": "Jeff"
   },
@@ -259,7 +259,7 @@
    "tags": [
     "music"
    ],
-   "blurb": "The Orchid from Telepathic Instruments. I don’t even play music, but I want this thing. The video is so good. This case study of the Herman Miller rebrand . So much design gold in here. SABLE, fABLE , Bon Iver’s newest album. I’ve had this on repeat for days. One of my favorite artists.",
+   "blurb": "SABLE, fABLE, Bon Iver’s newest album.",
    "section": "screen-share",
    "recommender": "Jeff"
   },
@@ -272,7 +272,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "The Orchid from Telepathic Instruments. I don’t even play music, but I want this thing. The video is so good. This case study of the Herman Miller rebrand . So much design gold in here. SABLE, fABLE , Bon Iver’s newest album. I’ve had this on repeat for days. One of my favorite artists.",
+   "blurb": "Also, here’s a great interview with Justin Vernon.",
    "section": "screen-share",
    "recommender": "Jeff"
   },
@@ -285,7 +285,7 @@
    "tags": [
     "music"
    ],
-   "blurb": "The Orchid from Telepathic Instruments. I don’t even play music, but I want this thing. The video is so good. This case study of the Herman Miller rebrand . So much design gold in here. SABLE, fABLE , Bon Iver’s newest album. I’ve had this on repeat for days. One of my favorite artists.",
+   "blurb": "Limba Trip.",
    "section": "screen-share",
    "recommender": "Jeff"
   },
@@ -311,7 +311,7 @@
    "tags": [
     "paid"
    ],
-   "blurb": "Found an awesome game off of a Hacker News comment: A Short Hike . Beautiful little short experience.",
+   "blurb": "Found an awesome game off of a Hacker News comment: A Short Hike. Beautiful little short experience.",
    "section": "crowdsourced",
    "recommender": "Fil (reader)"
   },
@@ -325,7 +325,7 @@
     "movie",
     "newsletter"
    ],
-   "blurb": "In keeping with my desire to ‘buck the algorithms’ in a day and age where there are too many simultaneous algorithms telling you what to do, I’ve been referred to a free newsletter that just recommends one movie, every Tuesday. It’s called Tuesday Night Movie Night .",
+   "blurb": "In keeping with my desire to ‘buck the algorithms’ in a day and age where there are too many simultaneous algorithms telling you what to do, I’ve been referred to a free newsletter that just recommends one movie, every Tuesday. It’s called Tuesday Night Movie Night.",
    "section": "crowdsourced",
    "recommender": "Phillip (reader)"
   },
@@ -353,7 +353,7 @@
     "web",
     "free"
    ],
-   "blurb": "A fun driving game: It’s called Slow Roads , and it’s a zen driving experience. It’s relaxing and you can change the environment, it has no traffic. I would definitely recommend it to anyone who likes driving.",
+   "blurb": "A fun driving game: It’s called Slow Roads, and it’s a zen driving experience. It’s relaxing and you can change the environment, it has no traffic. I would definitely recommend it to anyone who likes driving.",
    "section": "crowdsourced",
    "recommender": "Srirudran (reader)"
   },
@@ -393,7 +393,7 @@
     "article",
     "music"
    ],
-   "blurb": "I just got around to reading this essay in Hearing Things . Made me think about so many things, but especially how music has shaped so much of my worldview, and the strong memories I have of listening to and playing music with friends and family. Nothing better.",
+   "blurb": "I just got around to reading this essay in Hearing Things. Made me think about so many things, but especially how music has shaped so much of my worldview, and the strong memories I have of listening to and playing music with friends and family. Nothing better.",
    "section": "crowdsourced",
    "recommender": "Rhoades (reader)"
   },
@@ -433,7 +433,7 @@
     "website",
     "article"
    ],
-   "blurb": "Anyway, I spent a lot of time this week reading about Korea81998 , a project that managed to solve the traveling salesman problem for all 81,998 bars in South Korea.",
+   "blurb": "Anyway, I spent a lot of time this week reading about Korea81998, a project that managed to solve the traveling salesman problem for all 81,998 bars in South Korea.",
    "section": "signing-off",
    "recommender": null
   },
@@ -446,7 +446,7 @@
    "tags": [
     "article"
    ],
-   "blurb": "Anyway, I spent a lot of time this week reading about Korea81998 , a project that managed to solve the traveling salesman problem for all 81,998 bars in South Korea.",
+   "blurb": "The project’s website starts with a simple explanation of the problem and then goes deep into the math and computation required to make it work.",
    "section": "signing-off",
    "recommender": null
   },
@@ -459,7 +459,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "Oh, and if you want to go even deeper on this, someone on Hacker News linked to this great hourlong talk from one of the researchers all about solving TSPs. It’s not light weekend viewing, but it’s awesome.",
+   "blurb": "Oh, and if you want to go even deeper on this, someone on Hacker News linked to this great hourlong talk from one of the researchers all about solving TSPs.",
    "section": "signing-off",
    "recommender": null
   }

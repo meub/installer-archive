@@ -106,6 +106,35 @@ def is_verge(url: str | None) -> bool:
     return host == "theverge.com" or host.endswith(".theverge.com")
 
 
+LINK_MARKER = re.compile(r"\(\s*links?\s*\)", re.I)
+
+
+def strip_link_markers(text: str) -> str:
+    """Remove old-era '( link )' anchor markers left in prose."""
+    text = LINK_MARKER.sub("", text or "")
+    text = re.sub(r"\s+([,.;:!?])", r"\1", text)
+    return norm_ws(text)
+
+
+SENTENCE_SPLIT = re.compile(r"(?<=[.!?…])\s+(?=[A-Z“\"'0-9])")
+
+
+def sentence_containing(text: str, needle: str) -> str:
+    """The first sentence of `text` containing `needle`; whole text if not found.
+
+    Used to scope blurbs for links that appear mid-prose (SPEC §5.3) — the
+    paragraph as a whole usually describes several different things.
+    """
+    text = norm_ws(text)
+    if not needle:
+        return text
+    low = needle.lower()
+    for sentence in SENTENCE_SPLIT.split(text):
+        if low in sentence.lower():
+            return sentence.strip()
+    return text
+
+
 def sentence_trim(text: str, limit: int = BLURB_LIMIT) -> str:
     """Trim to <= limit chars, preferring a sentence boundary, appending ellipsis."""
     text = norm_ws(text)

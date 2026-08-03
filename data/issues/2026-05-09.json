@@ -155,7 +155,7 @@
    "tags": [
     "android"
    ],
-   "blurb": "My phone philosophy is that everything should be at most one swipe and one tap away. The first page is all about quick access to my most-used apps, and the second is all about quick information.",
+   "blurb": "Then I use an app called Button Mapper that turns all of my phone’s physical buttons into action buttons so I can access even more with a hold or a double-tap.",
    "section": "screen-share",
    "recommender": "Adam"
   },
@@ -169,7 +169,7 @@
     "productivity",
     "cross-platform"
    ],
-   "blurb": "My phone philosophy is that everything should be at most one swipe and one tap away. The first page is all about quick access to my most-used apps, and the second is all about quick information.",
+   "blurb": "For example, long-pressing volume up launches my home note in Obsidian.",
    "section": "screen-share",
    "recommender": "Adam"
   },
@@ -182,7 +182,7 @@
    "tags": [
     "android"
    ],
-   "blurb": "The first page is just for my most-used apps. I have the usual suspects here like YouTube, Spotify, and Pocket Casts. I’ve also been really liking the new Gradient Weather app that was featured in Installer a few weeks ago.",
+   "blurb": "I’ve also been really liking the new Gradient Weather app that was featured in Installer a few weeks ago.",
    "section": "screen-share",
    "recommender": "Adam"
   },
@@ -195,7 +195,7 @@
    "tags": [
     "tv"
    ],
-   "blurb": "I used to be super into anime in high school, so I’ve been trying to get back into it lately, and the one I’m currently obsessed with is Frieren: Beyond Journey’s End . I just finished it last week and am already halfway through a rewatch. Highly recommend it if you’re into fantasy / anime.",
+   "blurb": "I used to be super into anime in high school, so I’ve been trying to get back into it lately, and the one I’m currently obsessed with is Frieren: Beyond Journey’s End.",
    "section": "screen-share",
    "recommender": "Adam"
   },
@@ -209,7 +209,7 @@
     "music",
     "tv"
    ],
-   "blurb": "I used to be super into anime in high school, so I’ve been trying to get back into it lately, and the one I’m currently obsessed with is Frieren: Beyond Journey’s End . I just finished it last week and am already halfway through a rewatch. Highly recommend it if you’re into fantasy / anime.",
+   "blurb": "I recently discovered a new podcast called Simple and Clean, which dives deep into the Kingdom Hearts games.",
    "section": "screen-share",
    "recommender": "Adam"
   },
@@ -222,7 +222,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "I used to be super into anime in high school, so I’ve been trying to get back into it lately, and the one I’m currently obsessed with is Frieren: Beyond Journey’s End . I just finished it last week and am already halfway through a rewatch. Highly recommend it if you’re into fantasy / anime.",
+   "blurb": "A YouTuber I’m obsessed with right now is @halfof8.",
    "section": "screen-share",
    "recommender": "Adam"
   },
@@ -236,7 +236,7 @@
     "mac",
     "utilities"
    ],
-   "blurb": "I recently picked up an M5 MacBook Air — my first Mac laptop! One transition hurdle from Windows was the lack of a native ‘Always on Top’ feature, which I relied on heavily via Microsoft PowerToys. After searching for a macOS alternative, I found Floaty .",
+   "blurb": "I recently picked up an M5 MacBook Air — my first Mac laptop! One transition hurdle from Windows was the lack of a native ‘Always on Top’ feature, which I relied on heavily via Microsoft PowerToys. After searching for a macOS alternative, I found Floaty.",
    "section": "crowdsourced",
    "recommender": "Travis (reader)"
   },
@@ -249,7 +249,7 @@
    "tags": [
     "tv"
    ],
-   "blurb": "I don’t know how I missed Halt and Catch Fire , but we just finished the last last episode and wow. I wish there was more like this: the character development, not to mention the various awesome camera angles and shots. Amazing all around.",
+   "blurb": "I don’t know how I missed Halt and Catch Fire, but we just finished the last last episode and wow. I wish there was more like this: the character development, not to mention the various awesome camera angles and shots. Amazing all around.",
    "section": "crowdsourced",
    "recommender": "Mark (reader)"
   },
@@ -275,7 +275,7 @@
    "tags": [
     "tv"
    ],
-   "blurb": "Been really enjoying the new season of Hacks , and the weird combination of cozy / secondhand embarrassment that is Rooster , both on HBO Max.",
+   "blurb": "Been really enjoying the new season of Hacks, and the weird combination of cozy / secondhand embarrassment that is Rooster, both on HBO Max.",
    "section": "crowdsourced",
    "recommender": "Pegasusisme (reader)"
   },
@@ -288,7 +288,7 @@
    "tags": [
     "tv"
    ],
-   "blurb": "Been really enjoying the new season of Hacks , and the weird combination of cozy / secondhand embarrassment that is Rooster , both on HBO Max.",
+   "blurb": "Been really enjoying the new season of Hacks, and the weird combination of cozy / secondhand embarrassment that is Rooster, both on HBO Max.",
    "section": "crowdsourced",
    "recommender": "Pegasusisme (reader)"
   },
@@ -299,7 +299,7 @@
    "alt_urls": [],
    "category": "game",
    "tags": [],
-   "blurb": "I’ve placed several campaigns’ worth of D&D characters into Tomadachi Life: Living the Dream , and now I’m obligated to let the players know about all of the drama that has since unfolded.",
+   "blurb": "I’ve placed several campaigns’ worth of D&D characters into Tomadachi Life: Living the Dream, and now I’m obligated to let the players know about all of the drama that has since unfolded.",
    "section": "crowdsourced",
    "recommender": "Nicholas (reader)"
   },
@@ -310,7 +310,7 @@
    "alt_urls": [],
    "category": "game",
    "tags": [],
-   "blurb": "Playing the hell out of MapTap .",
+   "blurb": "Playing the hell out of MapTap.",
    "section": "crowdsourced",
    "recommender": "JD (reader)"
   },
@@ -321,7 +321,7 @@
    "alt_urls": [],
    "category": "game",
    "tags": [],
-   "blurb": "I have unfortunately stumbled back into playing Timberborn , an adorable beaver-themed survival city builder (which had its 1.0 release recently!), that runs the gamut from cute little farms to massive infrastructure projects with water physics.",
+   "blurb": "I have unfortunately stumbled back into playing Timberborn, an adorable beaver-themed survival city builder (which had its 1.0 release recently!), that runs the gamut from cute little farms to massive infrastructure projects with water physics.",
    "section": "crowdsourced",
    "recommender": "Olof (reader)"
   },
@@ -332,7 +332,7 @@
    "alt_urls": [],
    "category": "gadget",
    "tags": [],
-   "blurb": "Just got the GameSir Pocket Taco and have been rediscovering a ton of amazing GBA games. Right now I’m really into Metroid Fusion !",
+   "blurb": "Just got the GameSir Pocket Taco and have been rediscovering a ton of amazing GBA games. Right now I’m really into Metroid Fusion!",
    "section": "crowdsourced",
    "recommender": "Sajishnu (reader)"
   },
@@ -345,7 +345,7 @@
    "tags": [
     "open-source"
    ],
-   "blurb": "I’m messing with Wirken , a project by Davi Ottenheimer (formerly of Inrupt). Kind of private by design OpenClaw-style LLM portal. Cool project!",
+   "blurb": "I’m messing with Wirken, a project by Davi Ottenheimer (formerly of Inrupt). Kind of private by design OpenClaw-style LLM portal. Cool project!",
    "section": "crowdsourced",
    "recommender": "Rich (reader)"
   },
@@ -360,7 +360,7 @@
     "free",
     "cross-platform"
    ],
-   "blurb": "I hacked my Nintendo Switch (you’ll definitely need some comfort with tearing it apart to do so) a couple months ago and I’ve been catching up on some old 3DS games thanks to RetroArch , perfect for the Switch format.",
+   "blurb": "I hacked my Nintendo Switch (you’ll definitely need some comfort with tearing it apart to do so) a couple months ago and I’ve been catching up on some old 3DS games thanks to RetroArch, perfect for the Switch format.",
    "section": "crowdsourced",
    "recommender": "Gabriel (reader)"
   },
@@ -373,7 +373,7 @@
    "tags": [
     "tv"
    ],
-   "blurb": "I know I’ve mentioned this before here, but I’ve been having trouble falling asleep recently and have turned to a bunch of different things to help me slumber.",
+   "blurb": "An episode of The Office in the background is often just what my brain needs to quiet down; podcasts like Sleeping With Celebrities do it too.",
    "section": "signing-off",
    "recommender": null
   },
@@ -386,7 +386,7 @@
    "tags": [
     "podcast"
    ],
-   "blurb": "I know I’ve mentioned this before here, but I’ve been having trouble falling asleep recently and have turned to a bunch of different things to help me slumber.",
+   "blurb": "An episode of The Office in the background is often just what my brain needs to quiet down; podcasts like Sleeping With Celebrities do it too.",
    "section": "signing-off",
    "recommender": null
   },
@@ -399,7 +399,7 @@
    "tags": [
     "music"
    ],
-   "blurb": "I know I’ve mentioned this before here, but I’ve been having trouble falling asleep recently and have turned to a bunch of different things to help me slumber.",
+   "blurb": "Do I buy dedicated sleep headphones?",
    "section": "signing-off",
    "recommender": null
   },
@@ -410,7 +410,7 @@
    "alt_urls": [],
    "category": "gadget",
    "tags": [],
-   "blurb": "I know I’ve mentioned this before here, but I’ve been having trouble falling asleep recently and have turned to a bunch of different things to help me slumber.",
+   "blurb": "One of those weird speaker-pillow things?",
    "section": "signing-off",
    "recommender": null
   }

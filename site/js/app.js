@@ -104,13 +104,68 @@ function toggleTag(tag, doApply = true) {
   if (doApply) apply();
 }
 
+// ---------------------------------------------------------------- admin mode
+// ?admin=1 reveals per-row delete buttons for data cleanup. Marks live in
+// localStorage; "Download deletions.json" feeds `python -m scraper delete`.
+
+const adminParam = new URLSearchParams(location.search).get("admin");
+if (adminParam === "1") localStorage.setItem("installer-admin", "1");
+if (adminParam === "0") localStorage.removeItem("installer-admin");
+const admin = {
+  enabled: localStorage.getItem("installer-admin") === "1",
+  deleted: new Set(JSON.parse(localStorage.getItem("installer-deletions") || "[]")),
+};
+
+function saveDeletions() {
+  localStorage.setItem("installer-deletions", JSON.stringify([...admin.deleted]));
+  $("admin-count").textContent = `${admin.deleted.size} marked`;
+}
+
+function markDeleted(rec) {
+  admin.deleted.add(rec.id);
+  saveDeletions();
+  apply();
+}
+
+function syncAdminUI() {
+  $("admin-bar").hidden = !admin.enabled;
+  document.body.classList.toggle("admin-on", admin.enabled);
+  if (admin.enabled) saveDeletions();
+}
+
+$("admin-download").addEventListener("click", () => {
+  const blob = new Blob([JSON.stringify({ ids: [...admin.deleted] }, null, 1)],
+    { type: "application/json" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = "deletions.json";
+  a.click();
+  URL.revokeObjectURL(a.href);
+});
+$("admin-copy").addEventListener("click", () => {
+  navigator.clipboard.writeText([...admin.deleted].join("\n"));
+});
+$("admin-undo").addEventListener("click", () => {
+  admin.deleted.clear();
+  saveDeletions();
+  apply();
+});
+$("admin-exit").addEventListener("click", () => {
+  localStorage.removeItem("installer-admin");
+  admin.enabled = false;
+  syncAdminUI();
+  apply();
+});
+
 // --------------------------------------------------------------------- apply
 
-const renderer = createRenderer($("results"), $("sentinel"), issuesByDate, (t) => toggleTag(t));
+const renderer = createRenderer($("results"), $("sentinel"), issuesByDate,
+  (t) => toggleTag(t), admin, markDeleted);
 let randOrder = null;
 
 function currentList() {
   let list = recs;
+  if (admin.deleted.size) list = list.filter((r) => !admin.deleted.has(r.id));
   if (state.cat) list = list.filter((r) => r.category === state.cat);
   if (state.section) list = list.filter((r) => r.section === state.section);
   if (state.year) list = list.filter((r) => r.date.startsWith(state.year));
@@ -159,6 +214,7 @@ function apply() {
 // -------------------------------------------------------------------- wiring
 
 buildChips();
+syncAdminUI();
 
 const qInput = $("q");
 qInput.value = state.q;

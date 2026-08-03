@@ -81,7 +81,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "“ Apple USB-C Earpods Review: Better Than You Think .” I have been shouting for years, to anyone who will listen, that everyone should have a pair or six of Apple’s $20 wired earbuds . They sound good, the mic is great — they’re just a fabulous pair of backup headphones. But don’t just believe me!",
+   "blurb": "“ Apple USB-C Earpods Review: Better Than You Think.” I have been shouting for years, to anyone who will listen, that everyone should have a pair or six of Apple’s $20 wired earbuds. They sound good, the mic is great — they’re just a fabulous pair of backup headphones. But don’t just believe me!",
    "section": "the-drop",
    "recommender": null
   },
@@ -107,7 +107,7 @@
    "tags": [
     "ai"
    ],
-   "blurb": "My colleague Hayden Field called it “ Claude Wrapped ,” and that’s about right. This is probably mostly a business-analytics tool ( where did all those tokens go??",
+   "blurb": "My colleague Hayden Field called it “ Claude Wrapped,” and that’s about right. This is probably mostly a business-analytics tool ( where did all those tokens go??",
    "section": "the-drop",
    "recommender": null
   },
@@ -148,7 +148,7 @@
    "tags": [
     "article"
    ],
-   "blurb": "Ian Bogost is one of my favorite writers on tech, because he always seems to be asking the right question: Is any of this new technology good for us as people? I’ve come back many times to his love letter to landlines , his explanation for why email sucks , and many others.",
+   "blurb": "Ian Bogost is one of my favorite writers on tech, because he always seems to be asking the right question: Is any of this new technology good for us as people?",
    "section": "screen-share",
    "recommender": "Ian"
   },
@@ -161,7 +161,7 @@
    "tags": [
     "article"
    ],
-   "blurb": "Ian Bogost is one of my favorite writers on tech, because he always seems to be asking the right question: Is any of this new technology good for us as people? I’ve come back many times to his love letter to landlines , his explanation for why email sucks , and many others.",
+   "blurb": "I’ve come back many times to his love letter to landlines, his explanation for why email sucks, and many others.",
    "section": "screen-share",
    "recommender": "Ian"
   },
@@ -174,7 +174,7 @@
    "tags": [
     "article"
    ],
-   "blurb": "Ian Bogost is one of my favorite writers on tech, because he always seems to be asking the right question: Is any of this new technology good for us as people? I’ve come back many times to his love letter to landlines , his explanation for why email sucks , and many others.",
+   "blurb": "I’ve come back many times to his love letter to landlines, his explanation for why email sucks, and many others.",
    "section": "screen-share",
    "recommender": "Ian"
   },
@@ -187,7 +187,7 @@
    "tags": [
     "book"
    ],
-   "blurb": "Ian has a book out this week called The Small Stuff: How to Lead a More Gratifying Life , which answers the same question in a much broader and frankly much more bizarre way.",
+   "blurb": "Ian has a book out this week called The Small Stuff: How to Lead a More Gratifying Life, which answers the same question in a much broader and frankly much more bizarre way.",
    "section": "screen-share",
    "recommender": "Ian"
   },
@@ -202,7 +202,7 @@
     "open-source",
     "free"
    ],
-   "blurb": "The device: This is the plugin page — sort of like the apps page — for my home’s Homebridge installation. Homebridge is server software that makes smart-home devices that don’t work natively with Apple’s home-automation app appear and operate in the Apple Home app.",
+   "blurb": "The device: This is the plugin page — sort of like the apps page — for my home’s Homebridge installation.",
    "section": "screen-share",
    "recommender": "Ian"
   },
@@ -215,7 +215,7 @@
    "tags": [
     "smart-home"
    ],
-   "blurb": "The apps: So much going on here. Bond allows me to control ceiling fans from Apple Home. Pico allows me to reprogram Lutron Pico wall switch remotes to do anything I want — such as controlling ceiling fans or opening garage doors and gates.",
+   "blurb": "Bond allows me to control ceiling fans from Apple Home.",
    "section": "screen-share",
    "recommender": "Ian"
   },
@@ -228,7 +228,7 @@
    "tags": [
     "smart-home"
    ],
-   "blurb": "The apps: So much going on here. Bond allows me to control ceiling fans from Apple Home. Pico allows me to reprogram Lutron Pico wall switch remotes to do anything I want — such as controlling ceiling fans or opening garage doors and gates.",
+   "blurb": "Pico allows me to reprogram Lutron Pico wall switch remotes to do anything I want — such as controlling ceiling fans or opening garage doors and gates.",
    "section": "screen-share",
    "recommender": "Ian"
   },
@@ -255,7 +255,7 @@
     "smart-home",
     "video"
    ],
-   "blurb": "Speaking of which, Garage Door Shelly1 connects a Shelly relay that I soldered to a non-code-cycling, oldschool gate remote, which opens the gate at the end of the alley behind my house, which means I can press a button in Carplay and open it, my garage door, and unlock my house.",
+   "blurb": "UniFi Protect makes my Ubiquiti security cameras appear in Home — and also helps my doorbell work (long story).",
    "section": "screen-share",
    "recommender": "Ian"
   },
@@ -268,7 +268,7 @@
    "tags": [
     "article"
    ],
-   "blurb": "Speaking of which, Garage Door Shelly1 connects a Shelly relay that I soldered to a non-code-cycling, oldschool gate remote, which opens the gate at the end of the alley behind my house, which means I can press a button in Carplay and open it, my garage door, and unlock my house.",
+   "blurb": "Having all that supposed surveillance actually makes my house seem more boring and less interesting — a topic I wrote about for The Atlantic a few years ago.",
    "section": "screen-share",
    "recommender": "Ian"
   },
@@ -283,7 +283,7 @@
     "web",
     "free"
    ],
-   "blurb": "The r/oddlysatisfying subreddit. Asking ChatGPT for help with home repairs. Backgammon (just a tabletop set, with a hard enameled surface that makes the dice dance and spin in a gratifying way). Power over Ethernet (POE) splitters.",
+   "blurb": "The r/oddlysatisfying subreddit.",
    "section": "screen-share",
    "recommender": "Ian"
   },
@@ -297,7 +297,7 @@
     "ai",
     "cross-platform"
    ],
-   "blurb": "The r/oddlysatisfying subreddit. Asking ChatGPT for help with home repairs. Backgammon (just a tabletop set, with a hard enameled surface that makes the dice dance and spin in a gratifying way). Power over Ethernet (POE) splitters.",
+   "blurb": "Asking ChatGPT for help with home repairs.",
    "section": "screen-share",
    "recommender": "Ian"
   },
@@ -308,7 +308,7 @@
    "alt_urls": [],
    "category": "other",
    "tags": [],
-   "blurb": "The r/oddlysatisfying subreddit. Asking ChatGPT for help with home repairs. Backgammon (just a tabletop set, with a hard enameled surface that makes the dice dance and spin in a gratifying way). Power over Ethernet (POE) splitters.",
+   "blurb": "Backgammon (just a tabletop set, with a hard enameled surface that makes the dice dance and spin in a gratifying way).",
    "section": "screen-share",
    "recommender": "Ian"
   },
@@ -321,7 +321,7 @@
    "tags": [
     "smart-home"
    ],
-   "blurb": "The r/oddlysatisfying subreddit. Asking ChatGPT for help with home repairs. Backgammon (just a tabletop set, with a hard enameled surface that makes the dice dance and spin in a gratifying way). Power over Ethernet (POE) splitters.",
+   "blurb": "Power over Ethernet (POE) splitters.",
    "section": "screen-share",
    "recommender": "Ian"
   },
@@ -334,7 +334,7 @@
    "tags": [
     "tv"
    ],
-   "blurb": "The r/oddlysatisfying subreddit. Asking ChatGPT for help with home repairs. Backgammon (just a tabletop set, with a hard enameled surface that makes the dice dance and spin in a gratifying way). Power over Ethernet (POE) splitters.",
+   "blurb": "Mad Men, the best narrative television show ever made, which I rewatched for the second time this summer.",
    "section": "screen-share",
    "recommender": "Ian"
   },
@@ -347,7 +347,7 @@
    "tags": [
     "book"
    ],
-   "blurb": "Re-reading Neuromancer following Apple TV’s latest teaser . The Verge is totally right on Apple TV crushing sci-fi shows .",
+   "blurb": "Re-reading Neuromancer following Apple TV’s latest teaser. The Verge is totally right on Apple TV crushing sci-fi shows.",
    "section": "crowdsourced",
    "recommender": "Austin (reader)"
   },
@@ -360,7 +360,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "Re-reading Neuromancer following Apple TV’s latest teaser . The Verge is totally right on Apple TV crushing sci-fi shows .",
+   "blurb": "Re-reading Neuromancer following Apple TV’s latest teaser. The Verge is totally right on Apple TV crushing sci-fi shows.",
    "section": "crowdsourced",
    "recommender": "Austin (reader)"
   },
@@ -374,7 +374,7 @@
     "web",
     "free"
    ],
-   "blurb": "Playing the new puzzle game 4 x 3 .",
+   "blurb": "Playing the new puzzle game 4 x 3.",
    "section": "crowdsourced",
    "recommender": "Rohit (reader)"
   },
@@ -461,7 +461,7 @@
    "tags": [
     "movie"
    ],
-   "blurb": "The new The Ghost in the Shell anime on Amazon Prime is fantastic, true to the manga and done by the same studio that did Dan Da Dan ! Only one episode out so far but I’m already psyched.",
+   "blurb": "The new The Ghost in the Shell anime on Amazon Prime is fantastic, true to the manga and done by the same studio that did Dan Da Dan! Only one episode out so far but I’m already psyched.",
    "section": "crowdsourced",
    "recommender": "Ryan (reader)"
   },
@@ -474,7 +474,7 @@
    "tags": [
     "tv"
    ],
-   "blurb": "The new The Ghost in the Shell anime on Amazon Prime is fantastic, true to the manga and done by the same studio that did Dan Da Dan ! Only one episode out so far but I’m already psyched.",
+   "blurb": "The new The Ghost in the Shell anime on Amazon Prime is fantastic, true to the manga and done by the same studio that did Dan Da Dan! Only one episode out so far but I’m already psyched.",
    "section": "crowdsourced",
    "recommender": "Ryan (reader)"
   },
@@ -487,7 +487,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "‘ The Story Behind Star Wars Galaxies’ Notorious Jedi Problem .’ Best interview / video I’ve watched on YouTube in a while. It’s a fascinating story of developing software for millions of users.",
+   "blurb": "‘ The Story Behind Star Wars Galaxies’ Notorious Jedi Problem.’ Best interview / video I’ve watched on YouTube in a while. It’s a fascinating story of developing software for millions of users.",
    "section": "crowdsourced",
    "recommender": "JStaal (reader)"
   },
@@ -502,7 +502,7 @@
     "cross-platform",
     "subscription"
    ],
-   "blurb": "The sad product news of the week is that TV Time, which a lot of people use to find and track their favorite shows, is shutting down . And you only have until July 15th (next Wednesday) to get your data out.",
+   "blurb": "You can import your data into a service like JustWatch, or use an Installerverse favorite media tracker like Trakt, Sofa, or Sequel, all of which have importers.",
    "section": "signing-off",
    "recommender": null
   },
@@ -516,7 +516,7 @@
     "ios",
     "tv"
    ],
-   "blurb": "The sad product news of the week is that TV Time, which a lot of people use to find and track their favorite shows, is shutting down . And you only have until July 15th (next Wednesday) to get your data out.",
+   "blurb": "You can import your data into a service like JustWatch, or use an Installerverse favorite media tracker like Trakt, Sofa, or Sequel, all of which have importers.",
    "section": "signing-off",
    "recommender": null
   },
@@ -530,7 +530,7 @@
     "ios",
     "tv"
    ],
-   "blurb": "The sad product news of the week is that TV Time, which a lot of people use to find and track their favorite shows, is shutting down . And you only have until July 15th (next Wednesday) to get your data out.",
+   "blurb": "You can import your data into a service like JustWatch, or use an Installerverse favorite media tracker like Trakt, Sofa, or Sequel, all of which have importers.",
    "section": "signing-off",
    "recommender": null
   }

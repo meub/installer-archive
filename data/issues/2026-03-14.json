@@ -28,7 +28,7 @@
     "web",
     "free"
    ],
-   "blurb": "A new game from Josh Wardle, the creator of Wordle , this one is based on the concept of cryptic crosswords. The concept is substantially harder to explain than Wordle , but tickles my word game-loving brain in a similarly delightful way.",
+   "blurb": "A new game from Josh Wardle, the creator of Wordle, this one is based on the concept of cryptic crosswords. The concept is substantially harder to explain than Wordle, but tickles my word game-loving brain in a similarly delightful way.",
    "section": "the-drop",
    "recommender": null
   },
@@ -135,7 +135,7 @@
    "tags": [
     "website"
    ],
-   "blurb": "First up: Brian Lovin , who works as a designer at Notion and is also a prolific developer and designer on the side. (If you checked out Shiori , the bookmarking app I mentioned here a couple of weeks ago, you’re already familiar with his work.)",
+   "blurb": "First up: Brian Lovin, who works as a designer at Notion and is also a prolific developer and designer on the side. (If you checked out Shiori, the bookmarking app I mentioned here a couple of weeks ago, you’re already familiar with his work.)",
    "section": "screen-share",
    "recommender": null
   },
@@ -149,7 +149,7 @@
     "ios",
     "productivity"
    ],
-   "blurb": "First up: Brian Lovin , who works as a designer at Notion and is also a prolific developer and designer on the side. (If you checked out Shiori , the bookmarking app I mentioned here a couple of weeks ago, you’re already familiar with his work.)",
+   "blurb": "First up: Brian Lovin, who works as a designer at Notion and is also a prolific developer and designer on the side. (If you checked out Shiori, the bookmarking app I mentioned here a couple of weeks ago, you’re already familiar with his work.)",
    "section": "screen-share",
    "recommender": null
   },
@@ -164,7 +164,7 @@
     "productivity",
     "subscription"
    ],
-   "blurb": "Claude . He uses the Claude Code app for a lot of things, but also interacts with Claude in the Mac’s Terminal, in Cursor , in Zed , and elsewhere. Claude Skills .",
+   "blurb": "Claude.",
    "section": "screen-share",
    "recommender": null
   },
@@ -179,7 +179,7 @@
     "productivity",
     "subscription"
    ],
-   "blurb": "Claude . He uses the Claude Code app for a lot of things, but also interacts with Claude in the Mac’s Terminal, in Cursor , in Zed , and elsewhere. Claude Skills .",
+   "blurb": "He uses the Claude Code app for a lot of things, but also interacts with Claude in the Mac’s Terminal, in Cursor, in Zed, and elsewhere.",
    "section": "screen-share",
    "recommender": null
   },
@@ -194,7 +194,7 @@
     "open-source",
     "free"
    ],
-   "blurb": "Claude . He uses the Claude Code app for a lot of things, but also interacts with Claude in the Mac’s Terminal, in Cursor , in Zed , and elsewhere. Claude Skills .",
+   "blurb": "He uses the Claude Code app for a lot of things, but also interacts with Claude in the Mac’s Terminal, in Cursor, in Zed, and elsewhere.",
    "section": "screen-share",
    "recommender": null
   },
@@ -208,7 +208,7 @@
     "ai",
     "productivity"
    ],
-   "blurb": "Claude . He uses the Claude Code app for a lot of things, but also interacts with Claude in the Mac’s Terminal, in Cursor , in Zed , and elsewhere. Claude Skills .",
+   "blurb": "Claude Skills.",
    "section": "screen-share",
    "recommender": null
   },
@@ -221,7 +221,7 @@
    "tags": [
     "open-source"
    ],
-   "blurb": "Claude . He uses the Claude Code app for a lot of things, but also interacts with Claude in the Mac’s Terminal, in Cursor , in Zed , and elsewhere. Claude Skills .",
+   "blurb": "GitHub is also chockful of other people’s skills, if you want to start there.",
    "section": "screen-share",
    "recommender": null
   },
@@ -236,7 +236,7 @@
     "mac",
     "productivity"
    ],
-   "blurb": "Claude . He uses the Claude Code app for a lot of things, but also interacts with Claude in the Mac’s Terminal, in Cursor , in Zed , and elsewhere. Claude Skills .",
+   "blurb": "Monologue. (That’s the keyboard you see in the screenshot.) A voice-dictation app with a clever iOS keyboard for cross-app use, Brian says he uses Monologue a lot to just brain-dump tasks and projects and see what the system creates.",
    "section": "screen-share",
    "recommender": null
   },
@@ -251,7 +251,7 @@
     "mac",
     "productivity"
    ],
-   "blurb": "Claude . He uses the Claude Code app for a lot of things, but also interacts with Claude in the Mac’s Terminal, in Cursor , in Zed , and elsewhere. Claude Skills .",
+   "blurb": "“My first instinct is to add things to my to-do list,” he says, “and I’m rewiring my brain to just do the exploration first.” Conductor.",
    "section": "screen-share",
    "recommender": null
   },
@@ -266,7 +266,7 @@
     "free",
     "cross-platform"
    ],
-   "blurb": "I’m finally starting to understand Android Studio . Maybe I have too many options and tools (Claude, Gemini, Manus, Firebase Studio, Android Studio, Replit, whatever else is in my inbox). But I’m getting there.",
+   "blurb": "I’m finally starting to understand Android Studio. Maybe I have too many options and tools (Claude, Gemini, Manus, Firebase Studio, Android Studio, Replit, whatever else is in my inbox). But I’m getting there.",
    "section": "crowdsourced",
    "recommender": "Omar (reader)"
   },
@@ -279,7 +279,7 @@
    "tags": [
     "movie"
    ],
-   "blurb": "My current obsession is Cosmic Princess Kaguya , which is playing in theaters all over Japan even though it’s been on Netflix for a month. Nothing beats sitting in a crowded room full of fans and watching a great film.",
+   "blurb": "My current obsession is Cosmic Princess Kaguya, which is playing in theaters all over Japan even though it’s been on Netflix for a month. Nothing beats sitting in a crowded room full of fans and watching a great film.",
    "section": "crowdsourced",
    "recommender": "Bea (reader)"
   },
@@ -294,7 +294,7 @@
     "free",
     "web"
    ],
-   "blurb": "Been thinking about this Maggie Appleton essay, ‘ Home-Cooked Software and Barefoot Developers ,’ a lot recently!",
+   "blurb": "Been thinking about this Maggie Appleton essay, ‘ Home-Cooked Software and Barefoot Developers,’ a lot recently!",
    "section": "crowdsourced",
    "recommender": "Jacob (reader)"
   },
@@ -307,7 +307,7 @@
    "tags": [
     "book"
    ],
-   "blurb": "I have a book rec I think you’re gonna love: The Prize . This book does a fantastic job of covering oil from start to now, and with it, lays out the economic background of oil then and now, the history of Western companies vs.",
+   "blurb": "I have a book rec I think you’re gonna love: The Prize. This book does a fantastic job of covering oil from start to now, and with it, lays out the economic background of oil then and now, the history of Western companies vs.",
    "section": "crowdsourced",
    "recommender": "Christopher (reader)"
   },
@@ -347,7 +347,7 @@
    "tags": [
     "paid"
    ],
-   "blurb": "Have you tried Rematch ? It was released almost a year ago now, and it’s still my favourite football-related game.",
+   "blurb": "Have you tried Rematch? It was released almost a year ago now, and it’s still my favourite football-related game.",
    "section": "crowdsourced",
    "recommender": "Eldar (reader)"
   },
@@ -363,7 +363,7 @@
     "open-source",
     "cross-platform"
    ],
-   "blurb": "For the person looking for MP3 taggers for all the music they’re ripping off CDs, I would suggest: MusicBrainz Picard or (if you enjoy the command line) Beets .",
+   "blurb": "For the person looking for MP3 taggers for all the music they’re ripping off CDs, I would suggest: MusicBrainz Picard or (if you enjoy the command line) Beets.",
    "section": "crowdsourced",
    "recommender": "Daryl (reader)"
   },
@@ -379,7 +379,7 @@
     "free",
     "utilities"
    ],
-   "blurb": "For the person looking for MP3 taggers for all the music they’re ripping off CDs, I would suggest: MusicBrainz Picard or (if you enjoy the command line) Beets .",
+   "blurb": "For the person looking for MP3 taggers for all the music they’re ripping off CDs, I would suggest: MusicBrainz Picard or (if you enjoy the command line) Beets.",
    "section": "crowdsourced",
    "recommender": "Daryl (reader)"
   },
@@ -406,7 +406,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "I don’t know if it’s just my particular YouTube algorithm, but it really seems like paper notebooks are having a moment.",
+   "blurb": "All the productivity nerds I follow are suddenly recommending their favorite analog systems, and sharing the ways in which writing longhand has made them feel saner and also get more done.",
    "section": "signing-off",
    "recommender": null
   },
@@ -419,7 +419,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "I don’t know if it’s just my particular YouTube algorithm, but it really seems like paper notebooks are having a moment.",
+   "blurb": "All the productivity nerds I follow are suddenly recommending their favorite analog systems, and sharing the ways in which writing longhand has made them feel saner and also get more done.",
    "section": "signing-off",
    "recommender": null
   },
@@ -432,7 +432,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "I don’t know if it’s just my particular YouTube algorithm, but it really seems like paper notebooks are having a moment.",
+   "blurb": "All the productivity nerds I follow are suddenly recommending their favorite analog systems, and sharing the ways in which writing longhand has made them feel saner and also get more done.",
    "section": "signing-off",
    "recommender": null
   },
@@ -445,7 +445,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "I don’t know if it’s just my particular YouTube algorithm, but it really seems like paper notebooks are having a moment.",
+   "blurb": "All the productivity nerds I follow are suddenly recommending their favorite analog systems, and sharing the ways in which writing longhand has made them feel saner and also get more done.",
    "section": "signing-off",
    "recommender": null
   },
@@ -458,7 +458,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "I don’t know if it’s just my particular YouTube algorithm, but it really seems like paper notebooks are having a moment.",
+   "blurb": "All the productivity nerds I follow are suddenly recommending their favorite analog systems, and sharing the ways in which writing longhand has made them feel saner and also get more done.",
    "section": "signing-off",
    "recommender": null
   }

@@ -159,7 +159,7 @@
    "tags": [
     "ios"
    ],
-   "blurb": "By far the most-used non-social media app on my phone is Notes. I rely on it in a very unhealthy way that makes it an extremely entertaining scroll… for me at least. My short-term memory isn’t what it used to be, so everything ends up in there.",
+   "blurb": "There is also a secret project on here that I could have removed but instead we’re doing a soft-launch… you can probably spot it if you look hard enough.",
    "section": "screen-share",
    "recommender": "Hank"
   },
@@ -172,7 +172,7 @@
    "tags": [
     "book"
    ],
-   "blurb": "Adrian Tchaikovsky . If you haven’t read any, read Children of Time , but if you’ve only read the Children of Time series you’re missing out on so many very interesting ideas about what minds are and the bizarre and exciting future we are headed into. Bluesky .",
+   "blurb": "Adrian Tchaikovsky.",
    "section": "screen-share",
    "recommender": "Hank"
   },
@@ -185,7 +185,7 @@
    "tags": [
     "book"
    ],
-   "blurb": "Adrian Tchaikovsky . If you haven’t read any, read Children of Time , but if you’ve only read the Children of Time series you’re missing out on so many very interesting ideas about what minds are and the bizarre and exciting future we are headed into. Bluesky .",
+   "blurb": "If you haven’t read any, read Children of Time, but if you’ve only read the Children of Time series you’re missing out on so many very interesting ideas about what minds are and the bizarre and exciting future we are headed into.",
    "section": "screen-share",
    "recommender": "Hank"
   },
@@ -200,7 +200,7 @@
     "free",
     "cross-platform"
    ],
-   "blurb": "Adrian Tchaikovsky . If you haven’t read any, read Children of Time , but if you’ve only read the Children of Time series you’re missing out on so many very interesting ideas about what minds are and the bizarre and exciting future we are headed into. Bluesky .",
+   "blurb": "Bluesky.",
    "section": "screen-share",
    "recommender": "Hank"
   },
@@ -215,7 +215,7 @@
     "web",
     "free"
    ],
-   "blurb": "Adrian Tchaikovsky . If you haven’t read any, read Children of Time , but if you’ve only read the Children of Time series you’re missing out on so many very interesting ideas about what minds are and the bizarre and exciting future we are headed into. Bluesky .",
+   "blurb": "The Narwhal Wikipedia Page was robustly and entertainingly analyzed by this YouTube channel HG Modernism, and I loved it so much and you’re silly if you don’t watch it.",
    "section": "screen-share",
    "recommender": "Hank"
   },
@@ -228,7 +228,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "Adrian Tchaikovsky . If you haven’t read any, read Children of Time , but if you’ve only read the Children of Time series you’re missing out on so many very interesting ideas about what minds are and the bizarre and exciting future we are headed into. Bluesky .",
+   "blurb": "The Narwhal Wikipedia Page was robustly and entertainingly analyzed by this YouTube channel HG Modernism, and I loved it so much and you’re silly if you don’t watch it.",
    "section": "screen-share",
    "recommender": "Hank"
   },
@@ -241,7 +241,7 @@
    "tags": [
     "podcast"
    ],
-   "blurb": "Adrian Tchaikovsky . If you haven’t read any, read Children of Time , but if you’ve only read the Children of Time series you’re missing out on so many very interesting ideas about what minds are and the bizarre and exciting future we are headed into. Bluesky .",
+   "blurb": "Sean Carrol’s Mindscape: If sometimes you think, “I like that Hank Green but he isn’t technical enough and doesn’t take on deep enough topics like the origin of life or consciousness,” BOY DO I HAVE A PODCAST FOR YOU!!",
    "section": "screen-share",
    "recommender": "Hank"
   },
@@ -254,7 +254,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "Adrian Tchaikovsky . If you haven’t read any, read Children of Time , but if you’ve only read the Children of Time series you’re missing out on so many very interesting ideas about what minds are and the bizarre and exciting future we are headed into. Bluesky .",
+   "blurb": "Frontline: The PBS investigative documentary show.",
    "section": "screen-share",
    "recommender": "Hank"
   },
@@ -282,7 +282,7 @@
    "tags": [
     "tv"
    ],
-   "blurb": "Probably a show that’s a little under the radar right now is the show The Agency . Star-studded cast such as Michael Fassbender, Jeffrey Wright, and Richard Gere. This is a show that asks a lot from the viewer but is handsomely rewarded.",
+   "blurb": "Probably a show that’s a little under the radar right now is the show The Agency. Star-studded cast such as Michael Fassbender, Jeffrey Wright, and Richard Gere. This is a show that asks a lot from the viewer but is handsomely rewarded.",
    "section": "crowdsourced",
    "recommender": "John (reader)"
   },
@@ -321,7 +321,7 @@
     "ios",
     "android"
    ],
-   "blurb": "I’ve been trying all these Bluesky/fediverse clients. I like: OpenVibe , Graysky and Skeets .",
+   "blurb": "I’ve been trying all these Bluesky/fediverse clients. I like: OpenVibe, Graysky and Skeets.",
    "section": "crowdsourced",
    "recommender": "Jordan (reader)"
   },
@@ -336,7 +336,7 @@
     "ios",
     "android"
    ],
-   "blurb": "I’ve been trying all these Bluesky/fediverse clients. I like: OpenVibe , Graysky and Skeets .",
+   "blurb": "I’ve been trying all these Bluesky/fediverse clients. I like: OpenVibe, Graysky and Skeets.",
    "section": "crowdsourced",
    "recommender": "Jordan (reader)"
   },
@@ -350,7 +350,7 @@
     "social",
     "ios"
    ],
-   "blurb": "I’ve been trying all these Bluesky/fediverse clients. I like: OpenVibe , Graysky and Skeets .",
+   "blurb": "I’ve been trying all these Bluesky/fediverse clients. I like: OpenVibe, Graysky and Skeets.",
    "section": "crowdsourced",
    "recommender": "Jordan (reader)"
   },
@@ -363,7 +363,7 @@
    "tags": [
     "tv"
    ],
-   "blurb": "One of the best shows about AI I watched in the past year, Pantheon , is on Netflix instead of AMC Plus jail. Highly recommend!",
+   "blurb": "One of the best shows about AI I watched in the past year, Pantheon, is on Netflix instead of AMC Plus jail. Highly recommend!",
    "section": "crowdsourced",
    "recommender": "Saad (reader)"
   },
@@ -376,7 +376,7 @@
    "tags": [
     "movie"
    ],
-   "blurb": "It’s not going to spread Christmas cheer, but last night I went to a theatre near me to see The Order . It’s a pretty limited theatrical release (and on Prime Video in the rest of the world) but the movie is fantastic.",
+   "blurb": "It’s not going to spread Christmas cheer, but last night I went to a theatre near me to see The Order. It’s a pretty limited theatrical release (and on Prime Video in the rest of the world) but the movie is fantastic.",
    "section": "crowdsourced",
    "recommender": "John (reader)"
   },
@@ -440,7 +440,7 @@
     "article",
     "web"
    ],
-   "blurb": "One of my very favorite kinds of stories is how things beget other things in ways nobody could have seen coming. Someone invented the elevator , and so skyscrapers happened, and cities changed forever. Some lobbyist comes up with the term “ jaywalking ,” and suddenly cars rule the road.",
+   "blurb": "Someone invented the elevator, and so skyscrapers happened, and cities changed forever.",
    "section": "signing-off",
    "recommender": null
   },
@@ -454,7 +454,7 @@
     "article",
     "web"
    ],
-   "blurb": "One of my very favorite kinds of stories is how things beget other things in ways nobody could have seen coming. Someone invented the elevator , and so skyscrapers happened, and cities changed forever. Some lobbyist comes up with the term “ jaywalking ,” and suddenly cars rule the road.",
+   "blurb": "Some lobbyist comes up with the term “ jaywalking,” and suddenly cars rule the road.",
    "section": "signing-off",
    "recommender": null
   },
@@ -467,7 +467,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "One of my very favorite kinds of stories is how things beget other things in ways nobody could have seen coming. Someone invented the elevator , and so skyscrapers happened, and cities changed forever. Some lobbyist comes up with the term “ jaywalking ,” and suddenly cars rule the road.",
+   "blurb": "Or the one I discovered this week: how the invention of the gang-nail plate somewhat unintentionally forever changed the houses people live in.",
    "section": "signing-off",
    "recommender": null
   }

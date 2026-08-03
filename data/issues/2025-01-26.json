@@ -42,7 +42,7 @@
    "tags": [
     "movie"
    ],
-   "blurb": "The reviews for this new Paramount Plus movie are, uh, all over the place. People still have strong feelings about Star Trek , who knew?! But I love Michelle Yeoh, and I am frankly excited to have an excuse to dive back into that universe for the first time in a while.",
+   "blurb": "The reviews for this new Paramount Plus movie are, uh, all over the place. People still have strong feelings about Star Trek, who knew?! But I love Michelle Yeoh, and I am frankly excited to have an excuse to dive back into that universe for the first time in a while.",
    "section": "the-drop",
    "recommender": null
   },
@@ -90,7 +90,7 @@
     "beta",
     "free"
    ],
-   "blurb": "Not much in the way of ground-breaking new stuff this year , but the Live Activities-style lockscreen notifications are cool. And if you have a foldable phone, you’ll like the forced app resizing. Curious about the night mode camera upgrades, too.",
+   "blurb": "Not much in the way of ground-breaking new stuff this year, but the Live Activities-style lockscreen notifications are cool. And if you have a foldable phone, you’ll like the forced app resizing. Curious about the night mode camera upgrades, too.",
    "section": "the-drop",
    "recommender": null
   },
@@ -118,7 +118,7 @@
    "tags": [
     "windows"
    ],
-   "blurb": "$2,000 is a steep price for a GPU, but Nvidia’s latest beast seems to be clearly the best thing in 4K gaming . (It’s not technically shipping until next week, but if you want one of these I have a feeling you’ll need to get in early.)",
+   "blurb": "$2,000 is a steep price for a GPU, but Nvidia’s latest beast seems to be clearly the best thing in 4K gaming. (It’s not technically shipping until next week, but if you want one of these I have a feeling you’ll need to get in early.)",
    "section": "the-drop",
    "recommender": null
   },
@@ -131,7 +131,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "“ Why streaming will destroy the typical sports fan .” This is both an economic study of sports rights and a cultural history of how sports came to matter so much on television in the first place. The Jenga tower cable bundle metaphor is so good I’m furious I never thought of it.",
+   "blurb": "“ Why streaming will destroy the typical sports fan.” This is both an economic study of sports rights and a cultural history of how sports came to matter so much on television in the first place. The Jenga tower cable bundle metaphor is so good I’m furious I never thought of it.",
    "section": "the-drop",
    "recommender": null
   },
@@ -172,7 +172,7 @@
     "android",
     "subscription"
    ],
-   "blurb": "My saving grace is that I do manage to get outside a fair bit. I recently switched to Apple Maps (I love the presentation when driving), and I use Gaia for trails when I’m hiking or mountain biking. Windy is the best weather app out there (I bought a premium subscription for sailing).",
+   "blurb": "I recently switched to Apple Maps (I love the presentation when driving), and I use Gaia for trails when I’m hiking or mountain biking.",
    "section": "screen-share",
    "recommender": "Mike"
   },
@@ -187,7 +187,7 @@
     "android",
     "web"
    ],
-   "blurb": "My saving grace is that I do manage to get outside a fair bit. I recently switched to Apple Maps (I love the presentation when driving), and I use Gaia for trails when I’m hiking or mountain biking. Windy is the best weather app out there (I bought a premium subscription for sailing).",
+   "blurb": "Windy is the best weather app out there (I bought a premium subscription for sailing).",
    "section": "screen-share",
    "recommender": "Mike"
   },
@@ -202,7 +202,7 @@
     "android",
     "free"
    ],
-   "blurb": "My saving grace is that I do manage to get outside a fair bit. I recently switched to Apple Maps (I love the presentation when driving), and I use Gaia for trails when I’m hiking or mountain biking. Windy is the best weather app out there (I bought a premium subscription for sailing).",
+   "blurb": "That said, I think MyRadar is best at answering the question, “Is it about to rain?",
    "section": "screen-share",
    "recommender": "Mike"
   },
@@ -216,7 +216,7 @@
     "ios",
     "paid"
    ],
-   "blurb": "My saving grace is that I do manage to get outside a fair bit. I recently switched to Apple Maps (I love the presentation when driving), and I use Gaia for trails when I’m hiking or mountain biking. Windy is the best weather app out there (I bought a premium subscription for sailing).",
+   "blurb": "And for how long?” I use Sky Guide a surprising amount.",
    "section": "screen-share",
    "recommender": "Mike"
   },
@@ -232,7 +232,7 @@
     "social",
     "subscription"
    ],
-   "blurb": "For social media, I use a mix of Mastodon (via Ivory ), Bluesky, and Threads, three of the main apps on the social web. I also love the new Pixelfed app. Not only is it built on ActivityPub, it’s like what Instagram used to be. I stopped posting on Instagram years ago because it got so noisy.",
+   "blurb": "For social media, I use a mix of Mastodon (via Ivory ), Bluesky, and Threads, three of the main apps on the social web.",
    "section": "screen-share",
    "recommender": "Mike"
   },
@@ -248,7 +248,7 @@
     "open-source",
     "free"
    ],
-   "blurb": "For social media, I use a mix of Mastodon (via Ivory ), Bluesky, and Threads, three of the main apps on the social web. I also love the new Pixelfed app. Not only is it built on ActivityPub, it’s like what Instagram used to be. I stopped posting on Instagram years ago because it got so noisy.",
+   "blurb": "I also love the new Pixelfed app.",
    "section": "screen-share",
    "recommender": "Mike"
   },
@@ -262,7 +262,7 @@
     "social",
     "web"
    ],
-   "blurb": "NBAThreads by David Rushing: Real-time commentary from fans on Threads and Bluesky during games. Lots of great videos and podcasts between games. FilmFeed by David Imel: Beautiful photos from a curated list of film photographers. Like Instagram for film fans.",
+   "blurb": "NBAThreads by David Rushing: Real-time commentary from fans on Threads and Bluesky during games.",
    "section": "screen-share",
    "recommender": "Mike"
   },
@@ -277,7 +277,7 @@
     "web",
     "movie"
    ],
-   "blurb": "NBAThreads by David Rushing: Real-time commentary from fans on Threads and Bluesky during games. Lots of great videos and podcasts between games. FilmFeed by David Imel: Beautiful photos from a curated list of film photographers. Like Instagram for film fans.",
+   "blurb": "FilmFeed by David Imel: Beautiful photos from a curated list of film photographers.",
    "section": "screen-share",
    "recommender": "Mike"
   },
@@ -291,7 +291,7 @@
     "social",
     "web"
    ],
-   "blurb": "NBAThreads by David Rushing: Real-time commentary from fans on Threads and Bluesky during games. Lots of great videos and podcasts between games. FilmFeed by David Imel: Beautiful photos from a curated list of film photographers. Like Instagram for film fans.",
+   "blurb": "Guardians of the Fediverse by Tim Chambers: My go-to feed for connecting with people who are building on the social web.",
    "section": "screen-share",
    "recommender": "Mike"
   },
@@ -306,7 +306,7 @@
     "web",
     "video"
    ],
-   "blurb": "NBAThreads by David Rushing: Real-time commentary from fans on Threads and Bluesky during games. Lots of great videos and podcasts between games. FilmFeed by David Imel: Beautiful photos from a curated list of film photographers. Like Instagram for film fans.",
+   "blurb": "SkyTok: Trending videos on Bluesky and videos tagged with #SkyTok.",
    "section": "screen-share",
    "recommender": "Mike"
   },
@@ -320,7 +320,7 @@
     "social",
     "web"
    ],
-   "blurb": "NBAThreads by David Rushing: Real-time commentary from fans on Threads and Bluesky during games. Lots of great videos and podcasts between games. FilmFeed by David Imel: Beautiful photos from a curated list of film photographers. Like Instagram for film fans.",
+   "blurb": "Also available directly on Bluesky as a custom feed.",
    "section": "screen-share",
    "recommender": "Mike"
   },
@@ -334,7 +334,7 @@
     "social",
     "web"
    ],
-   "blurb": "Here’s what the Installer community is into this week. I want to know what you’re into right now as well! Email installer@theverge.com or message me on Signal — @davidpierce.11 — with your recommendations for anything and everything, and we’ll feature some of our favorites here every week.",
+   "blurb": "For even more great recommendations, check out the replies to this post on Threads and this post on Bluesky.",
    "section": "screen-share",
    "recommender": "Mike"
   },
@@ -348,7 +348,7 @@
     "social",
     "web"
    ],
-   "blurb": "Here’s what the Installer community is into this week. I want to know what you’re into right now as well! Email installer@theverge.com or message me on Signal — @davidpierce.11 — with your recommendations for anything and everything, and we’ll feature some of our favorites here every week.",
+   "blurb": "For even more great recommendations, check out the replies to this post on Threads and this post on Bluesky.",
    "section": "screen-share",
    "recommender": "Mike"
   },
@@ -361,7 +361,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "“Nothing published a very interesting video about how the design of iOS & Android can have a different impact on your mental state and how different cultures approach design in general. Super interesting stuff.” — Teo",
+   "blurb": "“Nothing published a very interesting video about how the design of iOS & Android can have a different impact on your mental state and how different cultures approach design in general.",
    "section": "screen-share",
    "recommender": "Mike"
   },
@@ -372,7 +372,7 @@
    "alt_urls": [],
    "category": "game",
    "tags": [],
-   "blurb": "“ UFO 50 ! Truly incredible compilation of 50 new retro-style indie games, built around a fictional game company in the 80s. It’s all I’ve been playing and I’ve only played about 15 games so far.” — Jelly",
+   "blurb": "“ UFO 50!",
    "section": "screen-share",
    "recommender": "Mike"
   },
@@ -385,7 +385,7 @@
    "tags": [
     "tv"
    ],
-   "blurb": "“Watching Unrivaled , the new 3 on 3 women’s basketball league, on TNT / TruTV / Max! So much fun to watch the best basketball players play with more space and a different format from traditional basketball.” — Renata",
+   "blurb": "“Watching Unrivaled, the new 3 on 3 women’s basketball league, on TNT / TruTV / Max!",
    "section": "screen-share",
    "recommender": "Mike"
   },
@@ -422,7 +422,7 @@
    "tags": [
     "tv"
    ],
-   "blurb": "“Just finished up Kevin Can F**k Himself on Netflix. I think it’s a few years old, but man it was so good. I love the storytelling device they employ where any time Kevin is around, it’s filmed as an All In the Family -style sitcom, and the rest of the time it’s filmed like a dark comedy.” — JK",
+   "blurb": "“Just finished up Kevin Can F**k Himself on Netflix.",
    "section": "screen-share",
    "recommender": "Mike"
   },
@@ -436,7 +436,7 @@
     "social",
     "web"
    ],
-   "blurb": "“Been spending a bunch of time on Graze building feeds for BlueSky! They’re really doing some great work for the community, and have made setting up custom feeds super quick, fun and available to pretty much anyone, techie or not.” — Kerha",
+   "blurb": "“Been spending a bunch of time on Graze building feeds for BlueSky!",
    "section": "screen-share",
    "recommender": "Mike"
   },
@@ -450,7 +450,7 @@
     "ios",
     "android"
    ],
-   "blurb": "“ I Love Hue Too . It’s been out a while, but it’s beautiful, addictive and a wonderful way to distract from the crumbling world around me.” — Brad",
+   "blurb": "“ I Love Hue Too.",
    "section": "screen-share",
    "recommender": "Mike"
   },
@@ -463,7 +463,7 @@
    "tags": [
     "tv"
    ],
-   "blurb": "“Last week’s Silo season finale was incredible and I’ve also started Wool (the first in the book series) and it is a really fun read. Crazy how much faster the book is paced – it’s only like 40 percent through the story that [REDACTED] happens!!” — Andy",
+   "blurb": "“Last week’s Silo season finale was incredible and I’ve also started Wool (the first in the book series) and it is a really fun read.",
    "section": "screen-share",
    "recommender": "Mike"
   },
@@ -476,7 +476,7 @@
    "tags": [
     "book"
    ],
-   "blurb": "“Last week’s Silo season finale was incredible and I’ve also started Wool (the first in the book series) and it is a really fun read. Crazy how much faster the book is paced – it’s only like 40 percent through the story that [REDACTED] happens!!” — Andy",
+   "blurb": "“Last week’s Silo season finale was incredible and I’ve also started Wool (the first in the book series) and it is a really fun read.",
    "section": "screen-share",
    "recommender": "Mike"
   },
@@ -487,7 +487,7 @@
    "alt_urls": [],
    "category": "game",
    "tags": [],
-   "blurb": "“I’ve been playing a whole lot of Dragonsweeper , which is like Minesweeper crossed with a dungeon crawler. It’s tricky at first, but it’s sick.” — Sophie",
+   "blurb": "“I’ve been playing a whole lot of Dragonsweeper, which is like Minesweeper crossed with a dungeon crawler.",
    "section": "screen-share",
    "recommender": "Mike"
   },
@@ -500,7 +500,7 @@
    "tags": [
     "music"
    ],
-   "blurb": "“This playlist of old school Weather Channel songs my brother sent me has been my soundtrack for the last few days. Just sit back and let the nostalgia of trying to get a forecast over basic cable wash over you.” — Mike",
+   "blurb": "“This playlist of old school Weather Channel songs my brother sent me has been my soundtrack for the last few days.",
    "section": "screen-share",
    "recommender": "Mike"
   },
@@ -513,7 +513,7 @@
    "tags": [
     "article"
    ],
-   "blurb": "Turns out, in 1999, Adams wrote an essay titled “How to Stop Worrying and Learn to Love the Internet,” and wow does it hold up 26 years later as a way to think about the world we live in now. Here’s just one quote:",
+   "blurb": "Turns out, in 1999, Adams wrote an essay titled “How to Stop Worrying and Learn to Love the Internet,” and wow does it hold up 26 years later as a way to think about the world we live in now.",
    "section": "signing-off",
    "recommender": null
   }

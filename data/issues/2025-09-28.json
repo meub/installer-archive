@@ -46,7 +46,7 @@
     "ai",
     "subscription"
    ],
-   "blurb": "This is the AI assistant stuff I like: an automatically generated feed of stuff based on what you asked ChatGPT about, what it knows you care about, and more. Frankly, Google is the company that ought to be doing well, but it’s, uh… hard .",
+   "blurb": "This is the AI assistant stuff I like: an automatically generated feed of stuff based on what you asked ChatGPT about, what it knows you care about, and more. Frankly, Google is the company that ought to be doing well, but it’s, uh… hard.",
    "section": "the-drop",
    "recommender": null
   },
@@ -132,7 +132,7 @@
     "web",
     "free"
    ],
-   "blurb": "Fair warning: this is an experimental Google product, so I assume it will be gone in a month or two. But it’s actually pretty impressive! It’s basically a moodboard generator , where you can add stuff or ask Gemini to find it for you.",
+   "blurb": "Fair warning: this is an experimental Google product, so I assume it will be gone in a month or two. But it’s actually pretty impressive! It’s basically a moodboard generator, where you can add stuff or ask Gemini to find it for you.",
    "section": "the-drop",
    "recommender": null
   },
@@ -147,7 +147,7 @@
    "tags": [
     "paid"
    ],
-   "blurb": "After some time in early access, this dungeon-crawler game is officially out. Our friend Jay Peters is super into it , and I trust Jay more than most when it comes to video games.",
+   "blurb": "After some time in early access, this dungeon-crawler game is officially out. Our friend Jay Peters is super into it, and I trust Jay more than most when it comes to video games.",
    "section": "the-drop",
    "recommender": null
   },
@@ -186,7 +186,7 @@
     "ios",
     "mac"
    ],
-   "blurb": "The first page is the apps I use, and want to use, every single day. The only one that might go away is Diarly – I just can’t decide whether I like it or Day One more.",
+   "blurb": "The only one that might go away is Diarly – I just can’t decide whether I like it or Day One more.",
    "section": "screen-share",
    "recommender": null
   },
@@ -201,7 +201,7 @@
     "ios",
     "subscription"
    ],
-   "blurb": "The first page is the apps I use, and want to use, every single day. The only one that might go away is Diarly – I just can’t decide whether I like it or Day One more.",
+   "blurb": "The only one that might go away is Diarly – I just can’t decide whether I like it or Day One more.",
    "section": "screen-share",
    "recommender": null
   },
@@ -215,7 +215,7 @@
     "productivity",
     "cross-platform"
    ],
-   "blurb": "The first page is the apps I use, and want to use, every single day. The only one that might go away is Diarly – I just can’t decide whether I like it or Day One more.",
+   "blurb": "Everything else is probably unsurprising, except maybe Workflowy, an infinite outliner of a notes app that just works the way my brain does.",
    "section": "screen-share",
    "recommender": null
   },
@@ -229,7 +229,7 @@
     "productivity",
     "cross-platform"
    ],
-   "blurb": "The first page is the apps I use, and want to use, every single day. The only one that might go away is Diarly – I just can’t decide whether I like it or Day One more.",
+   "blurb": "It’s now where I manage everything… until I end up going back to Notion or Craft again.",
    "section": "screen-share",
    "recommender": null
   },
@@ -244,7 +244,7 @@
     "ios",
     "mac"
    ],
-   "blurb": "The first page is the apps I use, and want to use, every single day. The only one that might go away is Diarly – I just can’t decide whether I like it or Day One more.",
+   "blurb": "It’s now where I manage everything… until I end up going back to Notion or Craft again.",
    "section": "screen-share",
    "recommender": null
   },
@@ -258,7 +258,7 @@
     "productivity",
     "ios"
    ],
-   "blurb": "The second page is all super-fast input. The top row is all Apple Shortcuts stuff for adding links or text to different places — my daily notes, a running list of stuff to include in Installer , that sort of thing.",
+   "blurb": "Joi Planner is the best-looking app I’ve found for just seeing Apple Reminders and calendar events in one place; I look at it every morning planning my day.",
    "section": "screen-share",
    "recommender": null
   },
@@ -271,7 +271,7 @@
    "tags": [
     "ios"
    ],
-   "blurb": "The second page is all super-fast input. The top row is all Apple Shortcuts stuff for adding links or text to different places — my daily notes, a running list of stuff to include in Installer , that sort of thing.",
+   "blurb": "Remind Me Faster is for super-fast Reminders input, and Instant Notion adds stuff to Notion way faster than opening the app itself.",
    "section": "screen-share",
    "recommender": null
   },
@@ -286,7 +286,7 @@
     "ios",
     "utilities"
    ],
-   "blurb": "The second page is all super-fast input. The top row is all Apple Shortcuts stuff for adding links or text to different places — my daily notes, a running list of stuff to include in Installer , that sort of thing.",
+   "blurb": "Remind Me Faster is for super-fast Reminders input, and Instant Notion adds stuff to Notion way faster than opening the app itself.",
    "section": "screen-share",
    "recommender": null
   },
@@ -353,7 +353,7 @@
    "tags": [
     "paid"
    ],
-   "blurb": "Borderlands 4 , or as it should be called, Fourderlands . Turns out nailing headshots with a revolver sniper rifle is a timeless formula.",
+   "blurb": "Borderlands 4, or as it should be called, Fourderlands. Turns out nailing headshots with a revolver sniper rifle is a timeless formula.",
    "section": "crowdsourced",
    "recommender": "Will (reader)"
   },
@@ -380,7 +380,7 @@
    "tags": [
     "ios"
    ],
-   "blurb": "Rogue Words for iOS is the next Wordle . I’m calling it now. Completely free, made by one dude. It’s Scrabble meets Balatro and it’s addicting as hell.",
+   "blurb": "Rogue Words for iOS is the next Wordle. I’m calling it now. Completely free, made by one dude. It’s Scrabble meets Balatro and it’s addicting as hell.",
    "section": "crowdsourced",
    "recommender": "Ryan (reader)"
   },
@@ -434,7 +434,7 @@
     "video",
     "podcast"
    ],
-   "blurb": "I generally try not to do too much self-promotion here in Installer, so apologies while I aggressively do just that: we’re launching a new show, it’s called Version History , and I am VERY EXCITED ABOUT IT.",
+   "blurb": "I generally try not to do too much self-promotion here in Installer, so apologies while I aggressively do just that: we’re launching a new show, it’s called Version History, and I am VERY EXCITED ABOUT IT.",
    "section": "signing-off",
    "recommender": null
   },
@@ -447,7 +447,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "I generally try not to do too much self-promotion here in Installer, so apologies while I aggressively do just that: we’re launching a new show, it’s called Version History , and I am VERY EXCITED ABOUT IT.",
+   "blurb": "I’ve been noodling on this idea for a long time, and the pitch is basically “let’s do a rewatch show about technology.” ( Watch the trailer here!)",
    "section": "signing-off",
    "recommender": null
   }

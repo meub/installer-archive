@@ -56,7 +56,7 @@
     "ai",
     "web"
    ],
-   "blurb": "“ A cartoonist’s review of AI art .” A really lovely, and poignant, take from The Oatmeal on the current state of generative AI. (Now that is a sentence I never thought I’d write.) It’s about what art feels, both to make and to consume, and whether AI stuff will ever feel the same.",
+   "blurb": "“ A cartoonist’s review of AI art.” A really lovely, and poignant, take from The Oatmeal on the current state of generative AI. (Now that is a sentence I never thought I’d write.) It’s about what art feels, both to make and to consume, and whether AI stuff will ever feel the same.",
    "section": "the-drop",
    "recommender": null
   },
@@ -82,7 +82,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "“ Clean your TV Screen The Right Way .” In five minutes, (friend of Installer) Caleb Denison convinced me to stop using Windex on my TV, got me to buy some huge microfiber towels, and has my TV the cleanest it has ever been. Even the toddler fingerprints are finally gone!",
+   "blurb": "“ Clean your TV Screen The Right Way.” In five minutes, (friend of Installer) Caleb Denison convinced me to stop using Windex on my TV, got me to buy some huge microfiber towels, and has my TV the cleanest it has ever been. Even the toddler fingerprints are finally gone!",
    "section": "the-drop",
    "recommender": null
   },
@@ -96,7 +96,7 @@
    ],
    "category": "game",
    "tags": [],
-   "blurb": "If you’re ever played a game like Mini Metro or Train Valley , this game is going to rock your world. It’s a super realistic, outrageously detailed game with real-world data and simulations that puts you entirely in charge of building and maintaining the subway system.",
+   "blurb": "If you’re ever played a game like Mini Metro or Train Valley, this game is going to rock your world. It’s a super realistic, outrageously detailed game with real-world data and simulations that puts you entirely in charge of building and maintaining the subway system.",
    "section": "the-drop",
    "recommender": null
   },
@@ -146,7 +146,7 @@
     "free",
     "ios"
    ],
-   "blurb": "The wallpaper: My homescreen changes by Focus mode on the weekends / evenings. My main wallpaper is from Basic Apple Guy, September Gradients . My weekend lockscreen is the NASA image of the Pillars of Creation, ’cause it’s awesome. (Yes, I have a reminder to do Wordle every day.)",
+   "blurb": "My main wallpaper is from Basic Apple Guy, September Gradients.",
    "section": "screen-share",
    "recommender": "Stephen"
   },
@@ -161,7 +161,7 @@
     "cross-platform",
     "web"
    ],
-   "blurb": "I’ve moved a large percentage of my web searching to Perplexity , so it earned a spot on the homescreen. Bear is the best notes app. I use the kanban view in Reminders for YouTube planning, but Things for project / task management, so yes I have dual task apps.",
+   "blurb": "I’ve moved a large percentage of my web searching to Perplexity, so it earned a spot on the homescreen.",
    "section": "screen-share",
    "recommender": "Stephen"
   },
@@ -176,7 +176,7 @@
     "mac",
     "productivity"
    ],
-   "blurb": "I’ve moved a large percentage of my web searching to Perplexity , so it earned a spot on the homescreen. Bear is the best notes app. I use the kanban view in Reminders for YouTube planning, but Things for project / task management, so yes I have dual task apps.",
+   "blurb": "Bear is the best notes app.",
    "section": "screen-share",
    "recommender": "Stephen"
   },
@@ -189,7 +189,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "I’ve moved a large percentage of my web searching to Perplexity , so it earned a spot on the homescreen. Bear is the best notes app. I use the kanban view in Reminders for YouTube planning, but Things for project / task management, so yes I have dual task apps.",
+   "blurb": "I use the kanban view in Reminders for YouTube planning, but Things for project / task management, so yes I have dual task apps.",
    "section": "screen-share",
    "recommender": "Stephen"
   },
@@ -205,7 +205,7 @@
     "productivity",
     "paid"
    ],
-   "blurb": "I’ve moved a large percentage of my web searching to Perplexity , so it earned a spot on the homescreen. Bear is the best notes app. I use the kanban view in Reminders for YouTube planning, but Things for project / task management, so yes I have dual task apps.",
+   "blurb": "I use the kanban view in Reminders for YouTube planning, but Things for project / task management, so yes I have dual task apps.",
    "section": "screen-share",
    "recommender": "Stephen"
   },
@@ -219,7 +219,7 @@
     "ios",
     "fitness"
    ],
-   "blurb": "Most recently I started tracking calories and macros with Foodnoms , which had a great update for iOS 26. It’s made the process so much easier than other apps I’ve tried and have lost 30 lbs in the last few months because of it!",
+   "blurb": "Most recently I started tracking calories and macros with Foodnoms, which had a great update for iOS 26.",
    "section": "screen-share",
    "recommender": "Stephen"
   },
@@ -232,7 +232,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "Having only recently discovered them, Hank and John Green have started to consume much of my podcast and YouTube time. Hank’s takes on Sora and the internet as a whole are worth hearing. Introduced my kids to Happy Gilmore and the sequel , they’re both great.",
+   "blurb": "Having only recently discovered them, Hank and John Green have started to consume much of my podcast and YouTube time.",
    "section": "screen-share",
    "recommender": "Stephen"
   },
@@ -245,7 +245,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "Having only recently discovered them, Hank and John Green have started to consume much of my podcast and YouTube time. Hank’s takes on Sora and the internet as a whole are worth hearing. Introduced my kids to Happy Gilmore and the sequel , they’re both great.",
+   "blurb": "Hank’s takes on Sora and the internet as a whole are worth hearing.",
    "section": "screen-share",
    "recommender": "Stephen"
   },
@@ -258,7 +258,7 @@
    "tags": [
     "movie"
    ],
-   "blurb": "Having only recently discovered them, Hank and John Green have started to consume much of my podcast and YouTube time. Hank’s takes on Sora and the internet as a whole are worth hearing. Introduced my kids to Happy Gilmore and the sequel , they’re both great.",
+   "blurb": "Introduced my kids to Happy Gilmore and the sequel, they’re both great.",
    "section": "screen-share",
    "recommender": "Stephen"
   },
@@ -271,7 +271,7 @@
    "tags": [
     "movie"
    ],
-   "blurb": "Having only recently discovered them, Hank and John Green have started to consume much of my podcast and YouTube time. Hank’s takes on Sora and the internet as a whole are worth hearing. Introduced my kids to Happy Gilmore and the sequel , they’re both great.",
+   "blurb": "Introduced my kids to Happy Gilmore and the sequel, they’re both great.",
    "section": "screen-share",
    "recommender": "Stephen"
   },
@@ -285,7 +285,7 @@
     "book",
     "productivity"
    ],
-   "blurb": "Having only recently discovered them, Hank and John Green have started to consume much of my podcast and YouTube time. Hank’s takes on Sora and the internet as a whole are worth hearing. Introduced my kids to Happy Gilmore and the sequel , they’re both great.",
+   "blurb": "I read Four Thousand Weeks earlier this year and it’s still messing with me.",
    "section": "screen-share",
    "recommender": "Stephen"
   },
@@ -298,7 +298,7 @@
    "tags": [
     "free"
    ],
-   "blurb": "Having only recently discovered them, Hank and John Green have started to consume much of my podcast and YouTube time. Hank’s takes on Sora and the internet as a whole are worth hearing. Introduced my kids to Happy Gilmore and the sequel , they’re both great.",
+   "blurb": "My kids are playing the new Skate game, so I save TikToks of hilarious tricks and we all watch them as a family.",
    "section": "screen-share",
    "recommender": "Stephen"
   },
@@ -311,7 +311,7 @@
    "tags": [
     "music"
    ],
-   "blurb": "A couple years ago I joined Instagram in order to follow a band, The Beths . Very quickly I started seeing posts from a strange but compelling account, The Dream Eaters , that was doing short music videos mixing goth, ‘80’s electronic, metal, and dream pop on hilarious off-the-wall topics.",
+   "blurb": "A couple years ago I joined Instagram in order to follow a band, The Beths. Very quickly I started seeing posts from a strange but compelling account, The Dream Eaters, that was doing short music videos mixing goth, ‘80’s electronic, metal, and dream pop on hilarious off-the-wall topics.",
    "section": "crowdsourced",
    "recommender": "Jon (reader)"
   },
@@ -324,7 +324,7 @@
    "tags": [
     "social"
    ],
-   "blurb": "A couple years ago I joined Instagram in order to follow a band, The Beths . Very quickly I started seeing posts from a strange but compelling account, The Dream Eaters , that was doing short music videos mixing goth, ‘80’s electronic, metal, and dream pop on hilarious off-the-wall topics.",
+   "blurb": "A couple years ago I joined Instagram in order to follow a band, The Beths. Very quickly I started seeing posts from a strange but compelling account, The Dream Eaters, that was doing short music videos mixing goth, ‘80’s electronic, metal, and dream pop on hilarious off-the-wall topics.",
    "section": "crowdsourced",
    "recommender": "Jon (reader)"
   },
@@ -337,7 +337,7 @@
    "tags": [
     "podcast"
    ],
-   "blurb": "I’ve been catching up on First, Last, Everything . It’s a great interview podcast so far with fascinating guests (and a tech angle of course).",
+   "blurb": "I’ve been catching up on First, Last, Everything. It’s a great interview podcast so far with fascinating guests (and a tech angle of course).",
    "section": "crowdsourced",
    "recommender": "Roman (reader)"
   },
@@ -350,7 +350,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "This week I have fallen headfirst into what I might describe as Nouveau Retro gaming by modding a PS Vita . Incredible stuff. Loads of hacks, tweaks, plugins, homebrew. A real nerdy treasure trove.",
+   "blurb": "This week I have fallen headfirst into what I might describe as Nouveau Retro gaming by modding a PS Vita. Incredible stuff. Loads of hacks, tweaks, plugins, homebrew. A real nerdy treasure trove.",
    "section": "crowdsourced",
    "recommender": "Simon (reader)"
   },
@@ -363,7 +363,7 @@
    "tags": [
     "mac"
    ],
-   "blurb": "Just bought a 2010 5,1 Mac Pro . Upgrading / fixing it will be a good weekend project.",
+   "blurb": "Just bought a 2010 5,1 Mac Pro. Upgrading / fixing it will be a good weekend project.",
    "section": "crowdsourced",
    "recommender": "SaltedPork (reader)"
   },
@@ -377,7 +377,7 @@
     "android",
     "subscription"
    ],
-   "blurb": "I recently upgraded my Murena account for more storage and better support. Eventually I’ll probably upgrade to a phone purchased directly from Murena. In the meantime I switched providers to Proton , yet I still feel drawn to an ecosystem I prefer: Nextcloud .",
+   "blurb": "I recently upgraded my Murena account for more storage and better support. Eventually I’ll probably upgrade to a phone purchased directly from Murena. In the meantime I switched providers to Proton, yet I still feel drawn to an ecosystem I prefer: Nextcloud.",
    "section": "crowdsourced",
    "recommender": "Stephen (reader)"
   },
@@ -391,7 +391,7 @@
     "cross-platform",
     "subscription"
    ],
-   "blurb": "I recently upgraded my Murena account for more storage and better support. Eventually I’ll probably upgrade to a phone purchased directly from Murena. In the meantime I switched providers to Proton , yet I still feel drawn to an ecosystem I prefer: Nextcloud .",
+   "blurb": "I recently upgraded my Murena account for more storage and better support. Eventually I’ll probably upgrade to a phone purchased directly from Murena. In the meantime I switched providers to Proton, yet I still feel drawn to an ecosystem I prefer: Nextcloud.",
    "section": "crowdsourced",
    "recommender": "Stephen (reader)"
   },
@@ -405,7 +405,7 @@
     "open-source",
     "cross-platform"
    ],
-   "blurb": "I recently upgraded my Murena account for more storage and better support. Eventually I’ll probably upgrade to a phone purchased directly from Murena. In the meantime I switched providers to Proton , yet I still feel drawn to an ecosystem I prefer: Nextcloud .",
+   "blurb": "I recently upgraded my Murena account for more storage and better support. Eventually I’ll probably upgrade to a phone purchased directly from Murena. In the meantime I switched providers to Proton, yet I still feel drawn to an ecosystem I prefer: Nextcloud.",
    "section": "crowdsourced",
    "recommender": "Stephen (reader)"
   },
@@ -431,7 +431,7 @@
     "web",
     "free"
    ],
-   "blurb": "I keep a list of saved product manuals and documents. I also uploaded them all into a notebook in NotebookLM , so now I just need to ask ‘How do I de-scale the Sage coffee machine’ to get the info I need!",
+   "blurb": "I keep a list of saved product manuals and documents. I also uploaded them all into a notebook in NotebookLM, so now I just need to ask ‘How do I de-scale the Sage coffee machine’ to get the info I need!",
    "section": "crowdsourced",
    "recommender": "Sara (reader)"
   },
@@ -455,7 +455,7 @@
    "alt_urls": [],
    "category": "game",
    "tags": [],
-   "blurb": "Demo for Skate Story , possibly the sickest-looking game of the year, just dropped.",
+   "blurb": "Demo for Skate Story, possibly the sickest-looking game of the year, just dropped.",
    "section": "crowdsourced",
    "recommender": "Sophie (reader)"
   },
@@ -469,7 +469,7 @@
     "fitness",
     "music"
    ],
-   "blurb": "I just got a jump rope, trying to re-build a fitness habit. And I immediately noticed that this is a reason to buy new workout headphones, as my AirPods Pro 2 do not stay in my ears while rope skipping. I ended up getting the Powerbeats Pro 2 . Really love them so far!",
+   "blurb": "I just got a jump rope, trying to re-build a fitness habit. And I immediately noticed that this is a reason to buy new workout headphones, as my AirPods Pro 2 do not stay in my ears while rope skipping. I ended up getting the Powerbeats Pro 2. Really love them so far!",
    "section": "crowdsourced",
    "recommender": "Matthias (reader)"
   },
@@ -482,7 +482,7 @@
    "tags": [
     "movie"
    ],
-   "blurb": "For years, anytime someone would ask me what movie they should watch, I would always say Somm . It’s a documentary following four people training to become Master Sommeliers — which requires passing one of the world’s most-failed tests — but it’s also a story about passion and hard work. And wine.",
+   "blurb": "For years, anytime someone would ask me what movie they should watch, I would always say Somm.",
    "section": "signing-off",
    "recommender": null
   },
@@ -495,7 +495,7 @@
    "tags": [
     "tv"
    ],
-   "blurb": "Nothing I’ve seen since has quite scratched the same itch, but a new show this week might come close. It’s called Knife Edge , it’s on Apple TV Plus, and it’s all about chefs trying to get, or maintain, their Michelin star.",
+   "blurb": "It’s called Knife Edge, it’s on Apple TV Plus, and it’s all about chefs trying to get, or maintain, their Michelin star.",
    "section": "signing-off",
    "recommender": null
   }

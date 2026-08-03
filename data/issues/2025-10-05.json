@@ -117,7 +117,7 @@
    "tags": [
     "paid"
    ],
-   "blurb": "I know almost nothing about Final Fantasy , and frankly I’m terrified to learn because all my FF -fan friends and colleagues are super into the new title and it seems like the exact right amount of complexity to hook me forever. Please, nobody else tell me how fun this game is.",
+   "blurb": "I know almost nothing about Final Fantasy, and frankly I’m terrified to learn because all my FF -fan friends and colleagues are super into the new title and it seems like the exact right amount of complexity to hook me forever. Please, nobody else tell me how fun this game is.",
    "section": "the-drop",
    "recommender": null
   },
@@ -173,7 +173,7 @@
    "tags": [
     "podcast"
    ],
-   "blurb": "“ The birth of the Excel spreadsheet .” Microsoft’s ubiquitous spreadsheet app turned 40 this week, and the BBC has a really fun nine-minute podcast history lesson about why rows and columns took over the world.",
+   "blurb": "“ The birth of the Excel spreadsheet.” Microsoft’s ubiquitous spreadsheet app turned 40 this week, and the BBC has a really fun nine-minute podcast history lesson about why rows and columns took over the world.",
    "section": "the-drop",
    "recommender": null
   },
@@ -316,7 +316,7 @@
     "web",
     "free"
    ],
-   "blurb": "Spreadsheets . I heard about Google Sheets , and Excel , and Smartsheet . Turns out a lot of you are big fans of spreadsheeting just about anything. To which I say: I love it, but the mobile apps are all so terrible!",
+   "blurb": "Spreadsheets. I heard about Google Sheets, and Excel, and Smartsheet. Turns out a lot of you are big fans of spreadsheeting just about anything. To which I say: I love it, but the mobile apps are all so terrible!",
    "section": "group-project",
    "recommender": null
   },
@@ -375,7 +375,7 @@
     "ios",
     "utilities"
    ],
-   "blurb": "They’re kinda similar starting points on each phone, despite how differently I use them. The iPhone uses the Not Boring Weather app widget, but I use Carrot Weather to actually dig into details. Safari is my default, but Arc is my go-to for launching a quick search.",
+   "blurb": "The iPhone uses the Not Boring Weather app widget, but I use Carrot Weather to actually dig into details.",
    "section": "screen-share",
    "recommender": "Marques"
   },
@@ -390,7 +390,7 @@
     "ios",
     "utilities"
    ],
-   "blurb": "They’re kinda similar starting points on each phone, despite how differently I use them. The iPhone uses the Not Boring Weather app widget, but I use Carrot Weather to actually dig into details. Safari is my default, but Arc is my go-to for launching a quick search.",
+   "blurb": "The iPhone uses the Not Boring Weather app widget, but I use Carrot Weather to actually dig into details.",
    "section": "screen-share",
    "recommender": "Marques"
   },
@@ -404,7 +404,7 @@
     "free",
     "web"
    ],
-   "blurb": "I’m really into the Sports-themed Connections game by The New York Times right now. Partially because my brain can’t always handle the regular Connections.",
+   "blurb": "I’m really into the Sports-themed Connections game by The New York Times right now.",
    "section": "screen-share",
    "recommender": "Marques"
   },
@@ -418,7 +418,7 @@
     "fitness",
     "ios"
    ],
-   "blurb": "I’m really into the Sports-themed Connections game by The New York Times right now. Partially because my brain can’t always handle the regular Connections.",
+   "blurb": "Also very much into this app called Athlytic that takes all my Apple Watch / health data and displays it in a very Whoop-like way, without me needing to also wear a Whoop.",
    "section": "screen-share",
    "recommender": "Marques"
   },
@@ -432,7 +432,7 @@
     "free",
     "mac"
    ],
-   "blurb": "I’m really into the Sports-themed Connections game by The New York Times right now. Partially because my brain can’t always handle the regular Connections.",
+   "blurb": "Also very unfortunately still loving using Arc on desktop and mobile, and am in desperate need of a new browser since Arc is betraying us all.",
    "section": "screen-share",
    "recommender": "Marques"
   },
@@ -443,7 +443,7 @@
    "alt_urls": [],
    "category": "gadget",
    "tags": [],
-   "blurb": "My partner and I got really into the drive-in movie scene in the Hudson Valley, but sitting in our pickup bed instead of the front seats. The problem became how to get great audio over a portable radio.",
+   "blurb": "My partner and I got really into the drive-in movie scene in the Hudson Valley, but sitting in our pickup bed instead of the front seats. The problem became how to get great audio over a portable radio. Currently testing: FIIO RR11 portable radio for FM signal, then aux into a Soundcore Motion x600.",
    "section": "crowdsourced",
    "recommender": "Spencer (reader)"
   },
@@ -456,7 +456,7 @@
    "tags": [
     "music"
    ],
-   "blurb": "My partner and I got really into the drive-in movie scene in the Hudson Valley, but sitting in our pickup bed instead of the front seats. The problem became how to get great audio over a portable radio.",
+   "blurb": "My partner and I got really into the drive-in movie scene in the Hudson Valley, but sitting in our pickup bed instead of the front seats. The problem became how to get great audio over a portable radio. Currently testing: FIIO RR11 portable radio for FM signal, then aux into a Soundcore Motion x600.",
    "section": "crowdsourced",
    "recommender": "Spencer (reader)"
   },
@@ -493,7 +493,7 @@
    "alt_urls": [],
    "category": "game",
    "tags": [],
-   "blurb": "Getting ready for Digimon Story: Time Stranger . Gonna play on the PS5. Demo was fun, and it’s turning out to be the best Digimon game ever reviewed. With the new anime also starting next week, us Digimon fans are eating well.",
+   "blurb": "Getting ready for Digimon Story: Time Stranger. Gonna play on the PS5. Demo was fun, and it’s turning out to be the best Digimon game ever reviewed. With the new anime also starting next week, us Digimon fans are eating well.",
    "section": "crowdsourced",
    "recommender": "Bob (reader)"
   },
@@ -521,7 +521,7 @@
     "web",
     "free"
    ],
-   "blurb": "Brave Search now has Ask Brave , like AI mode in Google but without the creepy tracking.",
+   "blurb": "Brave Search now has Ask Brave, like AI mode in Google but without the creepy tracking.",
    "section": "crowdsourced",
    "recommender": "Bryan (reader)"
   },
@@ -547,7 +547,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "I just got a Rode Wireless Go Gen 3 , and it’s... magical? Local recordings, solid wireless sync, great battery life. But it comes with the goofiest USB-C charger that is sort of adorable.",
+   "blurb": "I just got a Rode Wireless Go Gen 3, and it’s... magical? Local recordings, solid wireless sync, great battery life. But it comes with the goofiest USB-C charger that is sort of adorable.",
    "section": "crowdsourced",
    "recommender": "Rich (reader)"
   },
@@ -584,7 +584,7 @@
    "tags": [
     "music"
    ],
-   "blurb": "There was a lot of news this week, but at least in my life there was nothing more exciting than one tiny new Spotify feature: you can now exclude a single song from your “taste profile,” which means Spotify won’t use it to program recommendations or playlists. This rules.",
+   "blurb": "There was a lot of news this week, but at least in my life there was nothing more exciting than one tiny new Spotify feature: you can now exclude a single song from your “taste profile,” which means Spotify won’t use it to program recommendations or playlists.",
    "section": "signing-off",
    "recommender": null
   }

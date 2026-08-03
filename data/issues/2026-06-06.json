@@ -30,7 +30,7 @@
    "tags": [
     "movie"
    ],
-   "blurb": "TADC is one of the most successful animated series on YouTube , and one of the platform’s most impressive success stories. (It’s also just very good.) This is apparently the show’s series finale, and it’s in theaters for the next couple of weeks before it hits YouTube.",
+   "blurb": "TADC is one of the most successful animated series on YouTube, and one of the platform’s most impressive success stories. (It’s also just very good.) This is apparently the show’s series finale, and it’s in theaters for the next couple of weeks before it hits YouTube. The YouTube takeover continues!",
    "section": "the-drop",
    "recommender": null
   },
@@ -162,7 +162,7 @@
     "android",
     "utilities"
    ],
-   "blurb": "I’m running the always amazing Niagara Launcher . I have a custom widget of an app I built called In Your Space, which is a shameless rip-off of the iOS app In Your Face .",
+   "blurb": "I’m running the always amazing Niagara Launcher.",
    "section": "screen-share",
    "recommender": "Justin"
   },
@@ -176,7 +176,7 @@
     "ios",
     "productivity"
    ],
-   "blurb": "I’m running the always amazing Niagara Launcher . I have a custom widget of an app I built called In Your Space, which is a shameless rip-off of the iOS app In Your Face .",
+   "blurb": "I have a custom widget of an app I built called In Your Space, which is a shameless rip-off of the iOS app In Your Face.",
    "section": "screen-share",
    "recommender": "Justin"
   },
@@ -190,7 +190,7 @@
     "open-source",
     "book"
    ],
-   "blurb": "I’m running Audiobookshelf for audiobooks, and Vivaldi for my browser. No YouTube, no TikTok, just pure productivity and connectivity. Claude is also pinging me about some code it wrote in my notification banner.",
+   "blurb": "I’m running Audiobookshelf for audiobooks, and Vivaldi for my browser.",
    "section": "screen-share",
    "recommender": "Justin"
   },
@@ -204,7 +204,7 @@
     "cross-platform",
     "web"
    ],
-   "blurb": "I’m running Audiobookshelf for audiobooks, and Vivaldi for my browser. No YouTube, no TikTok, just pure productivity and connectivity. Claude is also pinging me about some code it wrote in my notification banner.",
+   "blurb": "I’m running Audiobookshelf for audiobooks, and Vivaldi for my browser.",
    "section": "screen-share",
    "recommender": "Justin"
   },
@@ -219,7 +219,7 @@
     "cross-platform",
     "productivity"
    ],
-   "blurb": "I’m running Audiobookshelf for audiobooks, and Vivaldi for my browser. No YouTube, no TikTok, just pure productivity and connectivity. Claude is also pinging me about some code it wrote in my notification banner.",
+   "blurb": "Claude is also pinging me about some code it wrote in my notification banner.",
    "section": "screen-share",
    "recommender": "Justin"
   },
@@ -232,7 +232,7 @@
    "tags": [
     "book"
    ],
-   "blurb": "As someone who spends 16-odd hours a day working on a computer, I’m currently enjoying anything that gets me away from a backlight and holding something tactile. My Xteink is always in my pocket, and I blow through chapters of my books instead of doomscrolling on my phone now.",
+   "blurb": "My Xteink is always in my pocket, and I blow through chapters of my books instead of doomscrolling on my phone now.",
    "section": "screen-share",
    "recommender": "Justin"
   },
@@ -245,7 +245,7 @@
    "tags": [
     "book"
    ],
-   "blurb": "I’ve been finishing up the rest of the Threshold series of books by Peter Clines and listening to the latest Dungeon Crawler Carl book. Kinfire Delve is a fantastic series of co-op board games my wife and I are quite enjoying right now.",
+   "blurb": "I’ve been finishing up the rest of the Threshold series of books by Peter Clines and listening to the latest Dungeon Crawler Carl book.",
    "section": "screen-share",
    "recommender": "Justin"
   },
@@ -258,7 +258,7 @@
    "tags": [
     "book"
    ],
-   "blurb": "I’ve been finishing up the rest of the Threshold series of books by Peter Clines and listening to the latest Dungeon Crawler Carl book. Kinfire Delve is a fantastic series of co-op board games my wife and I are quite enjoying right now.",
+   "blurb": "I’ve been finishing up the rest of the Threshold series of books by Peter Clines and listening to the latest Dungeon Crawler Carl book.",
    "section": "screen-share",
    "recommender": "Justin"
   },
@@ -269,7 +269,7 @@
    "alt_urls": [],
    "category": "other",
    "tags": [],
-   "blurb": "I’ve been finishing up the rest of the Threshold series of books by Peter Clines and listening to the latest Dungeon Crawler Carl book. Kinfire Delve is a fantastic series of co-op board games my wife and I are quite enjoying right now.",
+   "blurb": "Kinfire Delve is a fantastic series of co-op board games my wife and I are quite enjoying right now.",
    "section": "screen-share",
    "recommender": "Justin"
   },
@@ -280,7 +280,7 @@
    "alt_urls": [],
    "category": "other",
    "tags": [],
-   "blurb": "I’ve been finishing up the rest of the Threshold series of books by Peter Clines and listening to the latest Dungeon Crawler Carl book. Kinfire Delve is a fantastic series of co-op board games my wife and I are quite enjoying right now.",
+   "blurb": "I’ve been 3D printing any and all fidget toys I can get my hands on, such as the very cool Zorbles from Blob Lab.",
    "section": "screen-share",
    "recommender": "Justin"
   },
@@ -293,7 +293,7 @@
    "tags": [
     "social"
    ],
-   "blurb": "Been having fun with Roost . It’s a messaging app that delivers a message at the speed of whatever bird you are sending.",
+   "blurb": "Been having fun with Roost. It’s a messaging app that delivers a message at the speed of whatever bird you are sending.",
    "section": "crowdsourced",
    "recommender": "Michiel (reader)"
   },
@@ -308,7 +308,7 @@
     "free",
     "utilities"
    ],
-   "blurb": "I just started using LazyVim , and it may actually replace a niche use case for me. I use Jetbrains for most coding, but every once in a while I just need to edit a Python or JS script and not wait for PyCharm or VS Code to launch. LazyVim gives me the IDE experience without the bloat.",
+   "blurb": "I just started using LazyVim, and it may actually replace a niche use case for me. I use Jetbrains for most coding, but every once in a while I just need to edit a Python or JS script and not wait for PyCharm or VS Code to launch. LazyVim gives me the IDE experience without the bloat.",
    "section": "crowdsourced",
    "recommender": "Kevin (reader)"
   },
@@ -323,7 +323,7 @@
     "paid",
     "productivity"
    ],
-   "blurb": "I just started using LazyVim , and it may actually replace a niche use case for me. I use Jetbrains for most coding, but every once in a while I just need to edit a Python or JS script and not wait for PyCharm or VS Code to launch. LazyVim gives me the IDE experience without the bloat.",
+   "blurb": "I just started using LazyVim, and it may actually replace a niche use case for me. I use Jetbrains for most coding, but every once in a while I just need to edit a Python or JS script and not wait for PyCharm or VS Code to launch. LazyVim gives me the IDE experience without the bloat.",
    "section": "crowdsourced",
    "recommender": "Kevin (reader)"
   },
@@ -347,7 +347,7 @@
    "alt_urls": [],
    "category": "gadget",
    "tags": [],
-   "blurb": "I am constantly watching for updates on my Clicks Power Keyboard , which have now started shipping to folks. Can’t wait to get my clickity clackity typing on without having to use the full (large) case on my Pixel 10 Pro.",
+   "blurb": "I am constantly watching for updates on my Clicks Power Keyboard, which have now started shipping to folks. Can’t wait to get my clickity clackity typing on without having to use the full (large) case on my Pixel 10 Pro.",
    "section": "crowdsourced",
    "recommender": "Josh (reader)"
   },
@@ -375,7 +375,7 @@
    "tags": [
     "podcast"
    ],
-   "blurb": "Hank Green has a new podcast, Humans .",
+   "blurb": "Hank Green has a new podcast, Humans.",
    "section": "crowdsourced",
    "recommender": "Stefan (reader)"
   },
@@ -399,7 +399,7 @@
    "tags": [
     "ai"
    ],
-   "blurb": "Sesame . It’s a voice dialog with an AI bot to talk about pretty much anything. They don’t mention friendship or anything like that, although maybe it’s possible. I used it to explain details of a few topics that I needed to learn about. Conversations are extremely realistic.",
+   "blurb": "Sesame. It’s a voice dialog with an AI bot to talk about pretty much anything. They don’t mention friendship or anything like that, although maybe it’s possible. I used it to explain details of a few topics that I needed to learn about. Conversations are extremely realistic.",
    "section": "crowdsourced",
    "recommender": "Jay (reader)"
   },
@@ -414,7 +414,7 @@
     "productivity",
     "utilities"
    ],
-   "blurb": "Unlike traditional clipboard managers that rely on keyboard shortcuts, Layr is designed from the ground up to be activated via trackpad gestures. The app’s design and gesture-first approach actually convinced me to replace Maccy .",
+   "blurb": "Unlike traditional clipboard managers that rely on keyboard shortcuts, Layr is designed from the ground up to be activated via trackpad gestures. The app’s design and gesture-first approach actually convinced me to replace Maccy.",
    "section": "crowdsourced",
    "recommender": "Travis (reader)"
   },
@@ -430,7 +430,7 @@
     "utilities",
     "free"
    ],
-   "blurb": "Unlike traditional clipboard managers that rely on keyboard shortcuts, Layr is designed from the ground up to be activated via trackpad gestures. The app’s design and gesture-first approach actually convinced me to replace Maccy .",
+   "blurb": "Unlike traditional clipboard managers that rely on keyboard shortcuts, Layr is designed from the ground up to be activated via trackpad gestures. The app’s design and gesture-first approach actually convinced me to replace Maccy.",
    "section": "crowdsourced",
    "recommender": "Travis (reader)"
   },
@@ -445,7 +445,7 @@
     "productivity",
     "utilities"
    ],
-   "blurb": "Unlike traditional clipboard managers that rely on keyboard shortcuts, Layr is designed from the ground up to be activated via trackpad gestures. The app’s design and gesture-first approach actually convinced me to replace Maccy .",
+   "blurb": "Unlike traditional clipboard managers that rely on keyboard shortcuts, Layr is designed from the ground up to be activated via trackpad gestures. The app’s design and gesture-first approach actually convinced me to replace Maccy.",
    "section": "crowdsourced",
    "recommender": "Travis (reader)"
   },
@@ -471,7 +471,7 @@
    "tags": [
     "movie"
    ],
-   "blurb": "There are a lot of big movies coming out this summer, but in my house the only one that matters is Toy Story 5 .",
+   "blurb": "There are a lot of big movies coming out this summer, but in my house the only one that matters is Toy Story 5.",
    "section": "signing-off",
    "recommender": null
   },
@@ -485,7 +485,7 @@
     "article",
     "movie"
    ],
-   "blurb": "There are a lot of big movies coming out this summer, but in my house the only one that matters is Toy Story 5 .",
+   "blurb": "Andrew Stanton, the movie’s director, gave a terrific interview to Polygon with some great perspective on all this, and why screens actually aren’t just a villain.",
    "section": "signing-off",
    "recommender": null
   },
@@ -499,7 +499,7 @@
     "article",
     "movie"
    ],
-   "blurb": "There are a lot of big movies coming out this summer, but in my house the only one that matters is Toy Story 5 .",
+   "blurb": "Tom Hanks has some thoughts, too.",
    "section": "signing-off",
    "recommender": null
   },
@@ -512,7 +512,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "Also: We got a new Taylor Swift song to go with the movie. So it’s already a win.",
+   "blurb": "Also: We got a new Taylor Swift song to go with the movie.",
    "section": "signing-off",
    "recommender": null
   }

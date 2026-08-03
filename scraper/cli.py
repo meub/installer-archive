@@ -112,6 +112,34 @@ def cmd_parse(args) -> int:
     return 0
 
 
+def cmd_delete(args) -> int:
+    import json
+
+    ids = set(args.ids)
+    if args.file:
+        data = json.loads(Path(args.file).read_text())
+        ids.update(data["ids"] if isinstance(data, dict) else data)
+    if not ids:
+        print("delete: no ids given (pass ids or --file deletions.json)")
+        return 2
+    removed = 0
+    for path in sorted(parse.ISSUES.glob("*.json")):
+        issue = json.loads(path.read_text())
+        before = len(issue["recommendations"])
+        issue["recommendations"] = [r for r in issue["recommendations"] if r["id"] not in ids]
+        gone = before - len(issue["recommendations"])
+        if gone:
+            removed += gone
+            path.write_text(json.dumps(issue, indent=1, ensure_ascii=False) + "\n",
+                            encoding="utf-8")
+            print(f"  {path.name}: removed {gone}")
+    missing = len(ids) - removed
+    print(f"delete: removed {removed} of {len(ids)} ids"
+          + (f" ({missing} not found)" if missing else ""))
+    print("delete: run `make build` (with --allow-shrink via: .venv/bin/python -m scraper build --allow-shrink)")
+    return 0
+
+
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(prog="scraper", description="Installer Archive pipeline")
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -135,6 +163,10 @@ def main(argv=None) -> int:
     b = sub.add_parser("build", help="validate + compile site/data/archive.json")
     b.add_argument("--allow-shrink", action="store_true")
 
+    d = sub.add_parser("delete", help="remove recommendations by id (admin cleanup)")
+    d.add_argument("ids", nargs="*", help="recommendation ids")
+    d.add_argument("--file", help="deletions.json downloaded from the site's admin mode")
+
     sub.add_parser("validate", help="checks only, write nothing")
     sub.add_parser("update", help="discover + fetch + parse + enrich + build")
 
@@ -150,6 +182,8 @@ def main(argv=None) -> int:
     if args.cmd == "enrich":
         enrich.run(dates=args.date, llm=args.llm, model=args.model)
         return 0
+    if args.cmd == "delete":
+        return cmd_delete(args)
     if args.cmd == "build":
         return build.run(allow_shrink=args.allow_shrink)
     if args.cmd == "validate":

@@ -32,7 +32,7 @@
     "windows",
     "ai"
    ],
-   "blurb": "Copilot Plus PCs cometh . It’s been a weird rollout, what with all the Recall complications , but we’re starting to get a sense of just what this new era of Qualcomm-powered Windows devices can do. So far, I’m pretty optimistic , but I’m still waiting to see how the new Surfaces pan out.",
+   "blurb": "Copilot Plus PCs cometh. It’s been a weird rollout, what with all the Recall complications, but we’re starting to get a sense of just what this new era of Qualcomm-powered Windows devices can do. So far, I’m pretty optimistic, but I’m still waiting to see how the new Surfaces pan out.",
    "section": "the-drop",
    "recommender": null
   },
@@ -183,7 +183,7 @@
    "tags": [
     "tv"
    ],
-   "blurb": "I’m a big rewatcher / replayer of things, and for whatever reason, the summertime is usually when I pick up my annual revisits. Right now, I’m working my way through Halt and Catch Fire for the sixth time. Gosh, that show is so lovely. It’s the 10-year anniversary, you know?",
+   "blurb": "Right now, I’m working my way through Halt and Catch Fire for the sixth time.",
    "section": "screen-share",
    "recommender": "Nick"
   },
@@ -196,7 +196,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "I’m a big rewatcher / replayer of things, and for whatever reason, the summertime is usually when I pick up my annual revisits. Right now, I’m working my way through Halt and Catch Fire for the sixth time. Gosh, that show is so lovely. It’s the 10-year anniversary, you know?",
+   "blurb": "“Red Wine Supernova,” very good.",
    "section": "screen-share",
    "recommender": "Nick"
   },
@@ -210,7 +210,7 @@
     "book",
     "music"
    ],
-   "blurb": "I’m a big rewatcher / replayer of things, and for whatever reason, the summertime is usually when I pick up my annual revisits. Right now, I’m working my way through Halt and Catch Fire for the sixth time. Gosh, that show is so lovely. It’s the 10-year anniversary, you know?",
+   "blurb": "Slowly making my way through Season of the Witch: Enchantment, Terror, and Deliverance in the City of Love, David Talbot’s 2013 history of San Francisco.",
    "section": "screen-share",
    "recommender": "Nick"
   },
@@ -223,7 +223,7 @@
    "tags": [
     "podcast"
    ],
-   "blurb": "I’m a big rewatcher / replayer of things, and for whatever reason, the summertime is usually when I pick up my annual revisits. Right now, I’m working my way through Halt and Catch Fire for the sixth time. Gosh, that show is so lovely. It’s the 10-year anniversary, you know?",
+   "blurb": "Catching up on episodes of My Perfect Console, Simon Parkin’s great “Desert Island Discs, but for Video Games” interview show that’s really doubling as a fun historical record for the medium.",
    "section": "screen-share",
    "recommender": "Nick"
   },
@@ -236,7 +236,7 @@
    "tags": [
     "photography"
    ],
-   "blurb": "This little camera . I’ve been going over ways in my mind to justify it because it’s so cute but also the photos are surprisingly decent.",
+   "blurb": "This little camera. I’ve been going over ways in my mind to justify it because it’s so cute but also the photos are surprisingly decent.",
    "section": "crowdsourced",
    "recommender": "Daulton (reader)"
   },
@@ -250,7 +250,7 @@
     "open-source",
     "social"
    ],
-   "blurb": "Check out Ditto . It is a Nostr server that exposes Mastodon API to its clients. So the promise is that you would be able to use your very nice Mastodon app (Ivory, Ice Cubes) and add Nostr connection right into it.",
+   "blurb": "Check out Ditto. It is a Nostr server that exposes Mastodon API to its clients. So the promise is that you would be able to use your very nice Mastodon app (Ivory, Ice Cubes) and add Nostr connection right into it.",
    "section": "crowdsourced",
    "recommender": "Adnan (reader)"
   },
@@ -276,7 +276,7 @@
    "tags": [
     "book"
    ],
-   "blurb": "The Hawthorne & Horowitz mysteries by Anthony Horowitz. He recently released the fifth in the series, Close to Death . They all have tortured puns as titles (in this case, “close” being a British word for enclosed area).",
+   "blurb": "The Hawthorne & Horowitz mysteries by Anthony Horowitz. He recently released the fifth in the series, Close to Death. They all have tortured puns as titles (in this case, “close” being a British word for enclosed area).",
    "section": "crowdsourced",
    "recommender": "Kendrick (reader)"
   },
@@ -289,7 +289,7 @@
    "tags": [
     "book"
    ],
-   "blurb": "The Hawthorne & Horowitz mysteries by Anthony Horowitz. He recently released the fifth in the series, Close to Death . They all have tortured puns as titles (in this case, “close” being a British word for enclosed area).",
+   "blurb": "The Hawthorne & Horowitz mysteries by Anthony Horowitz. He recently released the fifth in the series, Close to Death. They all have tortured puns as titles (in this case, “close” being a British word for enclosed area).",
    "section": "crowdsourced",
    "recommender": "Kendrick (reader)"
   },
@@ -304,7 +304,7 @@
     "free",
     "cross-platform"
    ],
-   "blurb": "I’m playing and watching chess! Chess is cool now! Lots of great ways to play, but Chess.com is probably the best for beginners. And there’s great YouTube content out there on chess from Eric Rosen , Irina Krush , Levy Rozman , and Hikaru Nakamura .",
+   "blurb": "I’m playing and watching chess! Chess is cool now! Lots of great ways to play, but Chess.com is probably the best for beginners. And there’s great YouTube content out there on chess from Eric Rosen, Irina Krush, Levy Rozman, and Hikaru Nakamura.",
    "section": "crowdsourced",
    "recommender": "Ryan (reader)"
   },
@@ -317,7 +317,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "I’m playing and watching chess! Chess is cool now! Lots of great ways to play, but Chess.com is probably the best for beginners. And there’s great YouTube content out there on chess from Eric Rosen , Irina Krush , Levy Rozman , and Hikaru Nakamura .",
+   "blurb": "I’m playing and watching chess! Chess is cool now! Lots of great ways to play, but Chess.com is probably the best for beginners. And there’s great YouTube content out there on chess from Eric Rosen, Irina Krush, Levy Rozman, and Hikaru Nakamura.",
    "section": "crowdsourced",
    "recommender": "Ryan (reader)"
   },
@@ -330,7 +330,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "I’m playing and watching chess! Chess is cool now! Lots of great ways to play, but Chess.com is probably the best for beginners. And there’s great YouTube content out there on chess from Eric Rosen , Irina Krush , Levy Rozman , and Hikaru Nakamura .",
+   "blurb": "I’m playing and watching chess! Chess is cool now! Lots of great ways to play, but Chess.com is probably the best for beginners. And there’s great YouTube content out there on chess from Eric Rosen, Irina Krush, Levy Rozman, and Hikaru Nakamura.",
    "section": "crowdsourced",
    "recommender": "Ryan (reader)"
   },
@@ -343,7 +343,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "I’m playing and watching chess! Chess is cool now! Lots of great ways to play, but Chess.com is probably the best for beginners. And there’s great YouTube content out there on chess from Eric Rosen , Irina Krush , Levy Rozman , and Hikaru Nakamura .",
+   "blurb": "I’m playing and watching chess! Chess is cool now! Lots of great ways to play, but Chess.com is probably the best for beginners. And there’s great YouTube content out there on chess from Eric Rosen, Irina Krush, Levy Rozman, and Hikaru Nakamura.",
    "section": "crowdsourced",
    "recommender": "Ryan (reader)"
   },
@@ -356,7 +356,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "I’m playing and watching chess! Chess is cool now! Lots of great ways to play, but Chess.com is probably the best for beginners. And there’s great YouTube content out there on chess from Eric Rosen , Irina Krush , Levy Rozman , and Hikaru Nakamura .",
+   "blurb": "I’m playing and watching chess! Chess is cool now! Lots of great ways to play, but Chess.com is probably the best for beginners. And there’s great YouTube content out there on chess from Eric Rosen, Irina Krush, Levy Rozman, and Hikaru Nakamura.",
    "section": "crowdsourced",
    "recommender": "Ryan (reader)"
   },
@@ -395,7 +395,7 @@
    "tags": [
     "smart-home"
    ],
-   "blurb": "I’ve been obsessed with my new Klydoclock , a digital take on the classic analog clock. It features changing, artist-curated faces and can even tick and chime on the hour if you want it to. Best of all: it has no other functions and isn’t attached to an app or your phone.",
+   "blurb": "I’ve been obsessed with my new Klydoclock, a digital take on the classic analog clock. It features changing, artist-curated faces and can even tick and chime on the hour if you want it to. Best of all: it has no other functions and isn’t attached to an app or your phone.",
    "section": "crowdsourced",
    "recommender": "Jonathan (reader)"
   },
@@ -409,7 +409,7 @@
     "cross-platform",
     "video"
    ],
-   "blurb": "I really believe that a home server or NAS is useful and easily accessible for more people than currently have one. More people should have their own Plex server , Pi-hole , self-hosted cloud storage , Minecraft server , or self-hosted VPN . An old PC is all you need if you want to keep it simple.",
+   "blurb": "I really believe that a home server or NAS is useful and easily accessible for more people than currently have one. More people should have their own Plex server, Pi-hole, self-hosted cloud storage, Minecraft server, or self-hosted VPN. An old PC is all you need if you want to keep it simple.",
    "section": "crowdsourced",
    "recommender": "Voltaire (reader)"
   },
@@ -424,7 +424,7 @@
     "free",
     "utilities"
    ],
-   "blurb": "I really believe that a home server or NAS is useful and easily accessible for more people than currently have one. More people should have their own Plex server , Pi-hole , self-hosted cloud storage , Minecraft server , or self-hosted VPN . An old PC is all you need if you want to keep it simple.",
+   "blurb": "I really believe that a home server or NAS is useful and easily accessible for more people than currently have one. More people should have their own Plex server, Pi-hole, self-hosted cloud storage, Minecraft server, or self-hosted VPN. An old PC is all you need if you want to keep it simple.",
    "section": "crowdsourced",
    "recommender": "Voltaire (reader)"
   },
@@ -437,7 +437,7 @@
    "tags": [
     "utilities"
    ],
-   "blurb": "I really believe that a home server or NAS is useful and easily accessible for more people than currently have one. More people should have their own Plex server , Pi-hole , self-hosted cloud storage , Minecraft server , or self-hosted VPN . An old PC is all you need if you want to keep it simple.",
+   "blurb": "I really believe that a home server or NAS is useful and easily accessible for more people than currently have one. More people should have their own Plex server, Pi-hole, self-hosted cloud storage, Minecraft server, or self-hosted VPN. An old PC is all you need if you want to keep it simple.",
    "section": "crowdsourced",
    "recommender": "Voltaire (reader)"
   },
@@ -448,7 +448,7 @@
    "alt_urls": [],
    "category": "other",
    "tags": [],
-   "blurb": "I really believe that a home server or NAS is useful and easily accessible for more people than currently have one. More people should have their own Plex server , Pi-hole , self-hosted cloud storage , Minecraft server , or self-hosted VPN . An old PC is all you need if you want to keep it simple.",
+   "blurb": "I really believe that a home server or NAS is useful and easily accessible for more people than currently have one. More people should have their own Plex server, Pi-hole, self-hosted cloud storage, Minecraft server, or self-hosted VPN. An old PC is all you need if you want to keep it simple.",
    "section": "crowdsourced",
    "recommender": "Voltaire (reader)"
   },
@@ -461,7 +461,7 @@
    "tags": [
     "utilities"
    ],
-   "blurb": "I really believe that a home server or NAS is useful and easily accessible for more people than currently have one. More people should have their own Plex server , Pi-hole , self-hosted cloud storage , Minecraft server , or self-hosted VPN . An old PC is all you need if you want to keep it simple.",
+   "blurb": "I really believe that a home server or NAS is useful and easily accessible for more people than currently have one. More people should have their own Plex server, Pi-hole, self-hosted cloud storage, Minecraft server, or self-hosted VPN. An old PC is all you need if you want to keep it simple.",
    "section": "crowdsourced",
    "recommender": "Voltaire (reader)"
   },

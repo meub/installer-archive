@@ -29,7 +29,7 @@
    "tags": [
     "ios"
    ],
-   "blurb": "The Air looks great, the Pro has lots of impressive features, but for my money, the base iPhone 17 is the one to get this year . Screen upgrade, more durable, camera improvements, more storage, nice price. Other than the zoom camera, there’s not really much of a reason for people to go Pro.",
+   "blurb": "The Air looks great, the Pro has lots of impressive features, but for my money, the base iPhone 17 is the one to get this year. Screen upgrade, more durable, camera improvements, more storage, nice price. Other than the zoom camera, there’s not really much of a reason for people to go Pro.",
    "section": "the-drop",
    "recommender": null
   },
@@ -73,7 +73,7 @@
    "tags": [
     "tv"
    ],
-   "blurb": "Two things I’ve recently learned about Jeopardy : it is streaming new episodes as of this week, on both Peacock and Hulu , and it is absolutely A+ background television. The always-on channel is now a staple in my house.",
+   "blurb": "Two things I’ve recently learned about Jeopardy: it is streaming new episodes as of this week, on both Peacock and Hulu, and it is absolutely A+ background television. The always-on channel is now a staple in my house.",
    "section": "the-drop",
    "recommender": null
   },
@@ -120,7 +120,7 @@
     "music",
     "subscription"
    ],
-   "blurb": "Only took most of a decade ! And at no extra cost. I think it’s great that there’s a higher-end streaming option, even though it’s not as hi-fi as some other streaming services, and I don’t think my laptop speakers are going to project much difference anyway.",
+   "blurb": "Only took most of a decade! And at no extra cost. I think it’s great that there’s a higher-end streaming option, even though it’s not as hi-fi as some other streaming services, and I don’t think my laptop speakers are going to project much difference anyway.",
    "section": "the-drop",
    "recommender": null
   },
@@ -174,7 +174,7 @@
     "cross-platform",
     "ios"
    ],
-   "blurb": "I’m a big note-taker, and I use Obsidian , so I have an iOS shortcut called “Note.” It’s a direct link to an Obsidian note called “Inbox,” where I capture stuff to process later.",
+   "blurb": "I’m a big note-taker, and I use Obsidian, so I have an iOS shortcut called “Note.” It’s a direct link to an Obsidian note called “Inbox,” where I capture stuff to process later.",
    "section": "screen-share",
    "recommender": "Gina"
   },
@@ -188,7 +188,7 @@
     "ai",
     "web"
    ],
-   "blurb": "In Health & Fitness, I’ve got a triathlon training app I vibe-coded on Lovable , driven by a personal Google Sheet. All it does is tell me one thing: whether I’m supposed to run, bike, or swim at the gym that day.",
+   "blurb": "In Health & Fitness, I’ve got a triathlon training app I vibe-coded on Lovable, driven by a personal Google Sheet.",
    "section": "screen-share",
    "recommender": "Gina"
   },
@@ -201,7 +201,7 @@
    "tags": [
     "fitness"
    ],
-   "blurb": "As it turns out, I’m nearly five decades old and need a teeth-brushing coach. The Oral-B app paired with my electric toothbrush gamifies things, which works for me. It helps me get pressure and coverage right, and my full two minutes of brushing in because I won’t otherwise.",
+   "blurb": "The Oral-B app paired with my electric toothbrush gamifies things, which works for me.",
    "section": "screen-share",
    "recommender": "Gina"
   },
@@ -216,7 +216,7 @@
     "paid",
     "subscription"
    ],
-   "blurb": "Superhuman is better than Gmail. Todoist is for deadlines. Citymapper is my favorite way to navigate New York City. Monarch is my where-does-the-money-go app. Checking ebooks out of the library with Libby brings me much joy.",
+   "blurb": "Superhuman is better than Gmail.",
    "section": "screen-share",
    "recommender": "Gina"
   },
@@ -230,7 +230,7 @@
     "productivity",
     "cross-platform"
    ],
-   "blurb": "Superhuman is better than Gmail. Todoist is for deadlines. Citymapper is my favorite way to navigate New York City. Monarch is my where-does-the-money-go app. Checking ebooks out of the library with Libby brings me much joy.",
+   "blurb": "Todoist is for deadlines.",
    "section": "screen-share",
    "recommender": "Gina"
   },
@@ -245,7 +245,7 @@
     "ios",
     "android"
    ],
-   "blurb": "Superhuman is better than Gmail. Todoist is for deadlines. Citymapper is my favorite way to navigate New York City. Monarch is my where-does-the-money-go app. Checking ebooks out of the library with Libby brings me much joy.",
+   "blurb": "Citymapper is my favorite way to navigate New York City.",
    "section": "screen-share",
    "recommender": "Gina"
   },
@@ -259,7 +259,7 @@
     "subscription",
     "productivity"
    ],
-   "blurb": "Superhuman is better than Gmail. Todoist is for deadlines. Citymapper is my favorite way to navigate New York City. Monarch is my where-does-the-money-go app. Checking ebooks out of the library with Libby brings me much joy.",
+   "blurb": "Monarch is my where-does-the-money-go app.",
    "section": "screen-share",
    "recommender": "Gina"
   },
@@ -274,7 +274,7 @@
     "free",
     "cross-platform"
    ],
-   "blurb": "Superhuman is better than Gmail. Todoist is for deadlines. Citymapper is my favorite way to navigate New York City. Monarch is my where-does-the-money-go app. Checking ebooks out of the library with Libby brings me much joy.",
+   "blurb": "Checking ebooks out of the library with Libby brings me much joy.",
    "section": "screen-share",
    "recommender": "Gina"
   },
@@ -287,7 +287,7 @@
    "tags": [
     "movie"
    ],
-   "blurb": "KPop Demon Hunters ! My preteen has our whole family deep in it, and I am not mad about it.",
+   "blurb": "KPop Demon Hunters!",
    "section": "screen-share",
    "recommender": "Gina"
   },
@@ -300,7 +300,7 @@
    "tags": [
     "book"
    ],
-   "blurb": "KPop Demon Hunters ! My preteen has our whole family deep in it, and I am not mad about it.",
+   "blurb": "I’ve been reading actual books this year, and I highly recommend: All Systems Red: The Murderbot Diaries by Martha Wells (the Apple TV Plus adaptation is on my watchlist, though I hear it’s not as good as the book), The Ministry of Time by Kaliane Bradley, and Intermezzo by Sally Rooney.",
    "section": "screen-share",
    "recommender": "Gina"
   },
@@ -313,7 +313,7 @@
    "tags": [
     "book"
    ],
-   "blurb": "KPop Demon Hunters ! My preteen has our whole family deep in it, and I am not mad about it.",
+   "blurb": "I’ve been reading actual books this year, and I highly recommend: All Systems Red: The Murderbot Diaries by Martha Wells (the Apple TV Plus adaptation is on my watchlist, though I hear it’s not as good as the book), The Ministry of Time by Kaliane Bradley, and Intermezzo by Sally Rooney.",
    "section": "screen-share",
    "recommender": "Gina"
   },
@@ -326,7 +326,7 @@
    "tags": [
     "book"
    ],
-   "blurb": "KPop Demon Hunters ! My preteen has our whole family deep in it, and I am not mad about it.",
+   "blurb": "I’ve been reading actual books this year, and I highly recommend: All Systems Red: The Murderbot Diaries by Martha Wells (the Apple TV Plus adaptation is on my watchlist, though I hear it’s not as good as the book), The Ministry of Time by Kaliane Bradley, and Intermezzo by Sally Rooney.",
    "section": "screen-share",
    "recommender": "Gina"
   },
@@ -340,7 +340,7 @@
     "social",
     "web"
    ],
-   "blurb": "KPop Demon Hunters ! My preteen has our whole family deep in it, and I am not mad about it.",
+   "blurb": "My online guilty pleasure is r/LinkedInLunatics.",
    "section": "screen-share",
    "recommender": "Gina"
   },
@@ -405,7 +405,7 @@
    "tags": [
     "book"
    ],
-   "blurb": "I have been thoroughly enjoying Bill McKibben’s Here Comes the Sun: A Last Chance for Climate and a Fresh Chance for Civilization .",
+   "blurb": "I have been thoroughly enjoying Bill McKibben’s Here Comes the Sun: A Last Chance for Climate and a Fresh Chance for Civilization.",
    "section": "crowdsourced",
    "recommender": "Hoto (reader)"
   },
@@ -419,7 +419,7 @@
     "free",
     "beta"
    ],
-   "blurb": "Currently checking out the beta of 2XKO , a free 2v2 tag-team fighting game set in the League of Legends universe. Appears to be great for newcomers.",
+   "blurb": "Currently checking out the beta of 2XKO, a free 2v2 tag-team fighting game set in the League of Legends universe. Appears to be great for newcomers.",
    "section": "crowdsourced",
    "recommender": "Daniel (reader)"
   },
@@ -433,7 +433,7 @@
     "fitness",
     "travel"
    ],
-   "blurb": "I’m cautiously enjoying a new feature on the Garmin Forerunner 955 . A recent software update ties in my travel plans to the watch, and I get recommendations for time zone adjustments. It gave decent suggestions when I went from the US to Italy, back to the US, then to France all within a week.",
+   "blurb": "I’m cautiously enjoying a new feature on the Garmin Forerunner 955. A recent software update ties in my travel plans to the watch, and I get recommendations for time zone adjustments. It gave decent suggestions when I went from the US to Italy, back to the US, then to France all within a week.",
    "section": "crowdsourced",
    "recommender": "Sean (reader)"
   },
@@ -446,7 +446,7 @@
    "tags": [
     "tv"
    ],
-   "blurb": "I binged and loved Long Story Short by the creator(s) of BoJack Horseman .",
+   "blurb": "I binged and loved Long Story Short by the creator(s) of BoJack Horseman.",
    "section": "crowdsourced",
    "recommender": "Tal (reader)"
   },
@@ -459,7 +459,7 @@
    "tags": [
     "tv"
    ],
-   "blurb": "I binged and loved Long Story Short by the creator(s) of BoJack Horseman .",
+   "blurb": "I binged and loved Long Story Short by the creator(s) of BoJack Horseman.",
    "section": "crowdsourced",
    "recommender": "Tal (reader)"
   },
@@ -474,7 +474,7 @@
     "web",
     "free"
    ],
-   "blurb": "1001 Albums Generator recommends a new album every day (including weekends if you like) from the book 1001 Albums You Must Hear Before You Die . It’s a great way to listen to some of the best-regarded music and expand your listening habits beyond your music recommendation algorithm.”",
+   "blurb": "1001 Albums Generator recommends a new album every day (including weekends if you like) from the book 1001 Albums You Must Hear Before You Die. It’s a great way to listen to some of the best-regarded music and expand your listening habits beyond your music recommendation algorithm.”",
    "section": "crowdsourced",
    "recommender": "Sheila (reader)"
   },
@@ -488,7 +488,7 @@
     "book",
     "music"
    ],
-   "blurb": "1001 Albums Generator recommends a new album every day (including weekends if you like) from the book 1001 Albums You Must Hear Before You Die . It’s a great way to listen to some of the best-regarded music and expand your listening habits beyond your music recommendation algorithm.”",
+   "blurb": "1001 Albums Generator recommends a new album every day (including weekends if you like) from the book 1001 Albums You Must Hear Before You Die. It’s a great way to listen to some of the best-regarded music and expand your listening habits beyond your music recommendation algorithm.”",
    "section": "crowdsourced",
    "recommender": "Sheila (reader)"
   },
@@ -501,7 +501,7 @@
    "tags": [
     "tv"
    ],
-   "blurb": "1001 Albums Generator recommends a new album every day (including weekends if you like) from the book 1001 Albums You Must Hear Before You Die . It’s a great way to listen to some of the best-regarded music and expand your listening habits beyond your music recommendation algorithm.”",
+   "blurb": "1001 Albums Generator recommends a new album every day (including weekends if you like) from the book 1001 Albums You Must Hear Before You Die. It’s a great way to listen to some of the best-regarded music and expand your listening habits beyond your music recommendation algorithm.”",
    "section": "crowdsourced",
    "recommender": "Sheila (reader)"
   },
@@ -514,7 +514,7 @@
    "tags": [
     "tv"
    ],
-   "blurb": "Okay, so there is one show I watched this summer that I want to talk about, just for a second. It’s a Netflix show called Building the Band , and it is essentially American Idol meets Love is Blind meets The Circle. The premise makes no sense! It also totally works.",
+   "blurb": "It’s a Netflix show called Building the Band, and it is essentially American Idol meets Love is Blind meets The Circle.",
    "section": "signing-off",
    "recommender": null
   }

@@ -33,6 +33,20 @@ def test_sentence_trim():
     assert len(sentence_trim("x" * 500, 300)) <= 301  # ellipsis allowed
 
 
+def test_strip_link_markers():
+    from scraper.util import strip_link_markers
+    assert strip_link_markers("Feedbin ( link ) is my pick") == "Feedbin is my pick"
+    assert strip_link_markers("Arc (link), plus more (links) here.") == "Arc, plus more here."
+
+
+def test_sentence_containing():
+    from scraper.util import sentence_containing
+    text = "I love My80sTV for nostalgia. Someone found it on Reddit. Also watch this video."
+    assert sentence_containing(text, "My80sTV") == "I love My80sTV for nostalgia."
+    assert sentence_containing(text, "Reddit") == "Someone found it on Reddit."
+    assert sentence_containing(text, "not present") == text
+
+
 def test_slugify():
     assert slugify("Halide Mark III") == "halide-mark-iii"
     assert slugify("Spider-Noir!") == "spider-noir"

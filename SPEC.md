@@ -197,7 +197,7 @@ Wrapped by a `Makefile`: `make setup update build serve deploy validate test` (`
 
 1. Locate the article body container; extract elements with the exact cms-markup class → save minimal body HTML to `data/bodies/` (committed — enables re-parsing forever without re-fetching; ~130 × 30KB ≈ 4MB).
 2. Split into sections on `<h2>` text (case-insensitive, known-name map; unknown headings → warn + `needs_review`).
-3. Per-section item extraction (§2.2 table). For each item: name = first anchor text (fallback: leading `<strong>` text), url = first href (unwrap Skimlinks, resolve relative → absolute, strip UTM params), blurb = remaining text trimmed to sentence boundary ≤300 chars, extra hrefs → `alt_urls`. Anchors pointing at theverge.com are never promoted to items of their own (§4.4); if an item's *only* link is a Verge article, url = the Verge link's ultimate subject if obvious, else `null` + `needs_review`.
+3. Per-section item extraction (§2.2 table). For each item: name = first anchor text (fallback: leading `<strong>` text), url = first href (unwrap Skimlinks, resolve relative → absolute, strip UTM params), blurb = remaining text trimmed to sentence boundary ≤300 chars, extra hrefs → `alt_urls`. For links found in *prose* (non-bulleted paragraphs), the blurb is scoped to **the sentence containing the link**, not the whole paragraph; old-era "( link )" markers are stripped everywhere. Anchors pointing at theverge.com are never promoted to items of their own (§4.4); if an item's *only* link is a Verge article, url = the Verge link's ultimate subject if obvious, else `null` + `needs_review`.
 4. Emit issue JSON with `needs_review: true` whenever: unknown section, zero recs in The Drop, an item with no anchors, or an unrecoverable generic name.
 
 Fixtures-first development: commit three real bodies (one per era) with hand-verified golden JSON; `pytest` locks parser behavior. When The Verge changes markup, add a fixture, bump `parser_version`.
@@ -283,6 +283,7 @@ Behavior:
 - **Rendering:** render first ~150 rows, extend on scroll (IntersectionObserver sentinel) — no virtual-scroll library.
 - **A11y:** semantic `<ul>`, real `<a>`s, `aria-live="polite"` result count, visible focus, contrast ≥4.5:1, `prefers-reduced-motion` respected.
 - **States:** loading skeleton while JSON fetches; friendly empty state with "clear filters".
+- **Admin mode (curator-only):** `?admin=1` reveals a per-row ✕ that marks entries for deletion (localStorage; rows hide immediately). An admin bar offers Download deletions.json / Copy IDs / Un-mark all / Exit; `python -m scraper delete --file deletions.json` applies the marks to `data/issues/` permanently. On the public site the param only ever hides rows in the visitor's own browser.
 
 Design (clean theme): typography-first, system font stack, generous line-height, subtle borders over boxes, automatic light/dark via `prefers-color-scheme`. All colors/spacing as CSS custom properties on `:root[data-theme]` — this is the seam the Win98 theme swaps.
 
