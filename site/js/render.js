@@ -6,7 +6,12 @@ export const SECTION_LABELS = {
   "the-drop": "The Drop", intro: "Intro", "pro-tips": "Pro Tips",
   "screen-share": "Screen Share", crowdsourced: "Crowdsourced",
   "group-project": "Group Project", "signing-off": "Signing Off",
+  "davids-favorite-things": "David’s Favorite Things",
 };
+
+// Any section slug renders — one-off segments ("deep-dive") get auto-labels.
+export const sectionLabel = (s) =>
+  SECTION_LABELS[s] || (s ? s.replace(/-/g, " ").replace(/\b\w/g, (c) => c.toUpperCase()) : null);
 
 const CHUNK = 150;
 const dateFmt = new Intl.DateTimeFormat("en-US", { month: "short", day: "numeric", year: "numeric" });
@@ -61,8 +66,8 @@ function rowFor(rec, issue, onTag) {
     meta.append(a, sep());
   }
   meta.append(el("span", null, fmtDate(rec.date)));
-  if (rec.section && SECTION_LABELS[rec.section]) {
-    meta.append(sep(), el("span", null, SECTION_LABELS[rec.section]));
+  if (rec.section) {
+    meta.append(sep(), el("span", null, sectionLabel(rec.section)));
   }
   if (rec.recommender) {
     meta.append(sep(), el("span", null, `via ${rec.recommender}`));

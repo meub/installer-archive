@@ -19,65 +19,6 @@
  "needs_review": true,
  "recommendations": [
   {
-   "id": "2024-01-14-how-cyberpunk-2077-turned-into-a-hit",
-   "name": "how Cyberpunk 2077 turned into a hit",
-   "url": "https://www.wsj.com/tech/cyberpunk-2077-videogame-flop-to-hit-58ed2741?st=7o1j7n8n4gc5a2h",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "I’ve been in Vegas all week for CES, the annual extravaganza of gadgets and gizmos aplenty, whozits and whatsits galore.",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2024-01-14-tech-minimalism-ideas",
-   "name": "tech minimalism ideas",
-   "url": "https://www.wsj.com/tech/personal-tech/tech-addiction-smartphone-dumbphone-light-phone-1be0652e",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "I’ve been in Vegas all week for CES, the annual extravaganza of gadgets and gizmos aplenty, whozits and whatsits galore.",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2024-01-14-patriot",
-   "name": "Patriot",
-   "url": "https://www.themoviedb.org/tv/64396-patriot",
-   "alt_urls": [],
-   "category": "media",
-   "tags": [
-    "tv"
-   ],
-   "blurb": "I’ve been in Vegas all week for CES, the annual extravaganza of gadgets and gizmos aplenty, whozits and whatsits galore.",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2024-01-14-archer",
-   "name": "Archer",
-   "url": "https://www.themoviedb.org/tv/10283-archer",
-   "alt_urls": [],
-   "category": "media",
-   "tags": [
-    "tv"
-   ],
-   "blurb": "I’ve been in Vegas all week for CES, the annual extravaganza of gadgets and gizmos aplenty, whozits and whatsits galore.",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2024-01-14-blank-spaces",
-   "name": "Blank Spaces",
-   "url": "https://www.blankspaces.app/",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "I’ve been in Vegas all week for CES, the annual extravaganza of gadgets and gizmos aplenty, whozits and whatsits galore.",
-   "section": "intro",
-   "recommender": null
-  },
-  {
    "id": "2024-01-14-the-gpt-store",
    "name": "The GPT Store",
    "url": "https://chat.openai.com/gpts",

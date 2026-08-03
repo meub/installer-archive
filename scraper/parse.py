@@ -277,7 +277,7 @@ def _split_attribution(text: str) -> tuple[str, str | None]:
 
 def extract_items(sections: list[tuple[str, list[Tag]]]) -> tuple[list[dict], dict]:
     items: list[dict] = []
-    stats = {"intro_links": 0, "drop_items": 0, "unlinked": 0, "generic_names": 0}
+    stats = {"drop_items": 0, "unlinked": 0, "generic_names": 0}
 
     def linked_items(el: Tag, section: str, blurb: str | None = None,
                      recommender: str | None = None, category: str | None = None,
@@ -302,9 +302,10 @@ def extract_items(sections: list[tuple[str, list[Tag]]]) -> tuple[list[dict], di
 
     for section, els in sections:
         if section == "intro":
-            for el in els:
-                if el.name == "p":
-                    stats["intro_links"] += linked_items(el, "intro")
+            # Prose, not a list — auto-extracting the intro's link-dumps produced
+            # fragment names and repeated blurbs (SPEC §4.4). Notable intro finds
+            # are hand-added to the issue file with section: "intro".
+            continue
 
         elif section in ("crowdsourced", "pro-tips"):
             for el in els:
@@ -416,14 +417,13 @@ def build_issue(page: dict, source: str = "web") -> dict:
         post_type = "special"
 
     if post_type == "callout":
-        items, stats = [], {"intro_links": 0, "drop_items": 0, "unlinked": 0, "generic_names": 0}
+        items, stats = [], {"drop_items": 0, "unlinked": 0, "generic_names": 0}
     else:
         items, stats = extract_items(sections)
     items = _dedupe_and_id(items, date)
 
     needs_review = bool(
         unknown
-        or stats["intro_links"]
         or stats["unlinked"]
         or stats["generic_names"]
         or number is None
@@ -509,6 +509,8 @@ def parse_email(html: str, date: str, title: str | None = None,
 
     items = []
     for section, found in buckets.items():
+        if section == "intro":
+            continue  # same policy as the web parser
         for name, url, blurb in found:
             items.append(_item(name, url, blurb, section))
     items = _dedupe_and_id(items, date)

@@ -45,7 +45,7 @@ The Verge migrated to WordPress + a Next.js frontend in early 2025 and **re-rend
 - Section names have been stable for 3 years (⚠ case varies: "Screen share" vs "Screen Share"):
   | Section | Content | Parse strategy |
   |---|---|---|
-  | *(intro, untitled)* | Opening essay (the preamble); often contains recs ("main story") | Extract links + flag `needs_review` |
+  | *(intro, untitled)* | Opening essay (the preamble) | **Not auto-extracted** — prose link-dumps made fragment-named items with repeated blurbs; notable finds are hand-added (§4.4) |
   | **The Drop** | The link list — the core recs | `<ul>` after the h2; each `<li>` = one rec |
   | **Pro Tips** (occasional) | Reader tips | Like Crowdsourced |
   | **Screen share** | Guest homescreen interview | Paragraphs `The phone:`, `The apps:`… — capture the guest's gear + apps (see §4.4) |
@@ -153,7 +153,7 @@ Rules: tags must exist in the vocabulary (validator-enforced); adding a tag = ed
 ### 4.4 Curation guidelines (consistency across 3+ years of data)
 
 - A "recommendation" = something the author/guest/reader affirmatively suggests. Sponsor links: **exclude**. **Links to The Verge's own articles: never captured** — the archive indexes what the newsletter recommends, not the Verge's self-coverage. (Verge anchors inside an item may land in `alt_urls` as context, but never become items themselves.)
-- **Every section is captured** — preamble/intro, The Drop, Pro Tips, Screen share, Crowdsourced, Signing off — and every item records its `section`, which is a first-class filter in the UI ("just show me Crowdsourced finds").
+- **Every list section is captured** — The Drop, Pro Tips, Screen share, Crowdsourced, Group Project, Signing off — and every item records its `section`, which is a first-class filter in the UI ("just show me Crowdsourced finds"). The **intro/preamble is the exception** (decided 2026-08-03): it's prose, and auto-extracting its link-dumps produced fragment names and one blurb repeated across 8 rows, degrading search. The parser skips it; a genuinely notable intro find gets hand-added to the issue file with `section: "intro"`, which the UI renders fine.
 - **Screen share:** capture the guest's setup — hardware lines (phone, watch, e-reader…) as `gadget` items, listed apps as `app` items, all with `recommender` = the guest. Prune only bare OS defaults with zero commentary (Phone, Settings, Messages) during review.
 - Unlinked-but-named items (common in Crowdsourced): parser extracts linked items automatically; add notable unlinked ones by hand with `url: null`.
 - Blurbs: verbatim quote, ≤300 chars, trimmed at a sentence boundary, `…` for elisions.
@@ -198,7 +198,7 @@ Wrapped by a `Makefile`: `make setup update build serve deploy validate test` (`
 1. Locate the article body container; extract elements with the exact cms-markup class → save minimal body HTML to `data/bodies/` (committed — enables re-parsing forever without re-fetching; ~130 × 30KB ≈ 4MB).
 2. Split into sections on `<h2>` text (case-insensitive, known-name map; unknown headings → warn + `needs_review`).
 3. Per-section item extraction (§2.2 table). For each item: name = first anchor text (fallback: leading `<strong>` text), url = first href (unwrap Skimlinks, resolve relative → absolute, strip UTM params), blurb = remaining text trimmed to sentence boundary ≤300 chars, extra hrefs → `alt_urls`. Anchors pointing at theverge.com are never promoted to items of their own (§4.4); if an item's *only* link is a Verge article, url = the Verge link's ultimate subject if obvious, else `null` + `needs_review`.
-4. Emit issue JSON with `needs_review: true` whenever: unknown section, zero recs in The Drop, an item with no anchors, or intro links found.
+4. Emit issue JSON with `needs_review: true` whenever: unknown section, zero recs in The Drop, an item with no anchors, or an unrecoverable generic name.
 
 Fixtures-first development: commit three real bodies (one per era) with hand-verified golden JSON; `pytest` locks parser behavior. When The Verge changes markup, add a fixture, bump `parser_version`.
 

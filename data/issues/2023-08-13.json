@@ -20,61 +20,6 @@
  "needs_review": true,
  "recommendations": [
   {
-   "id": "2023-08-13-kagi-search-engine",
-   "name": "Kagi search engine",
-   "url": "https://kagi.com/",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "Alright, enough of that. Let’s get to the good stuff. This week, I’ve been testing the Kagi search engine ( link ) , reading about how to hack a card shuffler ( link ) , getting back into Supernatural boxing ( link ) on the Meta Quest, watching and trying to figure out Full Circle ( link ) , and…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2023-08-13-how-to-hack-a-card-shuffler",
-   "name": "how to hack a card shuffler",
-   "url": "https://www.wired.com/story/card-shuffler-hack/",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "Alright, enough of that. Let’s get to the good stuff. This week, I’ve been testing the Kagi search engine ( link ) , reading about how to hack a card shuffler ( link ) , getting back into Supernatural boxing ( link ) on the Meta Quest, watching and trying to figure out Full Circle ( link ) , and…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2023-08-13-supernatural-boxing",
-   "name": "Supernatural boxing",
-   "url": "https://www.getsupernatural.com/",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "Alright, enough of that. Let’s get to the good stuff. This week, I’ve been testing the Kagi search engine ( link ) , reading about how to hack a card shuffler ( link ) , getting back into Supernatural boxing ( link ) on the Meta Quest, watching and trying to figure out Full Circle ( link ) , and…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2023-08-13-full-circle",
-   "name": "Full Circle",
-   "url": "https://www.imdb.com/title/tt15303234/",
-   "alt_urls": [],
-   "category": "media",
-   "tags": [],
-   "blurb": "Alright, enough of that. Let’s get to the good stuff. This week, I’ve been testing the Kagi search engine ( link ) , reading about how to hack a card shuffler ( link ) , getting back into Supernatural boxing ( link ) on the Meta Quest, watching and trying to figure out Full Circle ( link ) , and…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2023-08-13-spy-valley-podcast",
-   "name": "Spy Valley podcast",
-   "url": "https://link.chtbl.com/spyvalley?at=1010l39W4&sid=fm.website",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "Alright, enough of that. Let’s get to the good stuff. This week, I’ve been testing the Kagi search engine ( link ) , reading about how to hack a card shuffler ( link ) , getting back into Supernatural boxing ( link ) on the Meta Quest, watching and trying to figure out Full Circle ( link ) , and…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
    "id": "2023-08-13-callsheet",
    "name": "Callsheet",
    "url": "https://apps.apple.com/us/app/callsheet-find-cast-crew/id1672356376",

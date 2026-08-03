@@ -126,6 +126,12 @@ def test_old_era_protips_skip_unlinked_tips(old_era):
     assert names(pro) == {"Arc"}  # the five usage-tip bullets are not items
 
 
+def test_intro_not_extracted(new_era, old_era):
+    """Intro is prose, not a list — no auto-extraction (SPEC §4.4)."""
+    for era in (new_era, old_era):
+        assert by_section(era[3], "intro") == []
+
+
 def test_blurb_limit(new_era, old_era):
     for era in (new_era, old_era):
         for item in era[3]:

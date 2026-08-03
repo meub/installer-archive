@@ -20,54 +20,6 @@
  "needs_review": true,
  "recommendations": [
   {
-   "id": "2024-05-26-the-fall-of-red-lobster",
-   "name": "the fall of Red Lobster",
-   "url": "https://open.spotify.com/episode/5iJaCVG4iEYsFQS43gt9mo?si=1bHoeX23Q5-eSgD0zCx8cQ",
-   "alt_urls": [],
-   "category": "media",
-   "tags": [
-    "podcast"
-   ],
-   "blurb": "This week, I’ve been writing about Surfaces and other tablets , chatting with some internet friends about the fall of Red Lobster , reading about Magic: The Gathering and the history of emoji , watching MoviePass, MovieCrash , weeding my patio with a literal flamethrower, and for some reason…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2024-05-26-magic-the-gathering",
-   "name": "Magic: The Gathering",
-   "url": "https://defector.com/the-creator-of-magic-the-gathering-knows-exactly-where-it-all-went-wrong",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been writing about Surfaces and other tablets , chatting with some internet friends about the fall of Red Lobster , reading about Magic: The Gathering and the history of emoji , watching MoviePass, MovieCrash , weeding my patio with a literal flamethrower, and for some reason…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2024-05-26-the-history-of-emoji",
-   "name": "the history of emoji",
-   "url": "https://blog.gingerbeardman.com/2024/05/10/emoji-history-the-missing-years/",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been writing about Surfaces and other tablets , chatting with some internet friends about the fall of Red Lobster , reading about Magic: The Gathering and the history of emoji , watching MoviePass, MovieCrash , weeding my patio with a literal flamethrower, and for some reason…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2024-05-26-moviepass-moviecrash",
-   "name": "MoviePass, MovieCrash",
-   "url": "https://www.themoviedb.org/movie/1229898-moviepass-moviecrash",
-   "alt_urls": [],
-   "category": "media",
-   "tags": [
-    "movie"
-   ],
-   "blurb": "This week, I’ve been writing about Surfaces and other tablets , chatting with some internet friends about the fall of Red Lobster , reading about Magic: The Gathering and the history of emoji , watching MoviePass, MovieCrash , weeding my patio with a literal flamethrower, and for some reason…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
    "id": "2024-05-26-the-sonos-ace-headphones",
    "name": "The Sonos Ace headphones",
    "url": "https://www.anrdoezrs.net/click-8836598-11556673?url=https://www.sonos.com/en-us/shop/sonos-ace",

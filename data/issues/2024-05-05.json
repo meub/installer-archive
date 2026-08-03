@@ -19,54 +19,6 @@
  "needs_review": true,
  "recommendations": [
   {
-   "id": "2024-05-05-baby-reindeer",
-   "name": "Baby Reindeer",
-   "url": "https://www.themoviedb.org/tv/241259-baby-reindeer?language=en-US",
-   "alt_urls": [],
-   "category": "media",
-   "tags": [
-    "tv"
-   ],
-   "blurb": "I missed you all last week! I was at a friend’s bachelor party in South Carolina, playing golf and eating burgers and mostly staying offline. Thanks to everyone who reached out to say you missed the newsletter! But I’m back now, and so is Installer . We are so back.",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2024-05-05-the-fall-guy",
-   "name": "The Fall Guy",
-   "url": "https://www.themoviedb.org/movie/746036-the-fall-guy?language=en-US",
-   "alt_urls": [],
-   "category": "media",
-   "tags": [
-    "movie"
-   ],
-   "blurb": "I missed you all last week! I was at a friend’s bachelor party in South Carolina, playing golf and eating burgers and mostly staying offline. Thanks to everyone who reached out to say you missed the newsletter! But I’m back now, and so is Installer . We are so back.",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2024-05-05-a-drink-before-the-war",
-   "name": "A Drink Before the War",
-   "url": "https://dennislehane.com/books/a-drink/",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "I missed you all last week! I was at a friend’s bachelor party in South Carolina, playing golf and eating burgers and mostly staying offline. Thanks to everyone who reached out to say you missed the newsletter! But I’m back now, and so is Installer . We are so back.",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2024-05-05-challengers-score",
-   "name": "Challengers score",
-   "url": "https://challengers.lnk.to/scoreAY",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "I missed you all last week! I was at a friend’s bachelor party in South Carolina, playing golf and eating burgers and mostly staying offline. Thanks to everyone who reached out to say you missed the newsletter! But I’m back now, and so is Installer . We are so back.",
-   "section": "intro",
-   "recommender": null
-  },
-  {
    "id": "2024-05-05-arc-for-windows",
    "name": "Arc for Windows",
    "url": "https://arc.net/",

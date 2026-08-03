@@ -20,63 +20,6 @@
  "needs_review": true,
  "recommendations": [
   {
-   "id": "2023-10-29-superlist",
-   "name": "Superlist",
-   "url": "https://www.superlist.com/",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been testing the Superlist tasks app, reading about the high-stakes race to crack crypto wallets , rehearsing my case for buying an e-bike , taking voice notes like a boss with Whisper Memos , and avoiding all my problems by watching Between Two Ferns bloopers on YouTube.",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2023-10-29-high-stakes-race-to-crack-crypto-wallets",
-   "name": "high-stakes race to crack crypto wallets",
-   "url": "https://www.wired.com/story/unciphered-ironkey-password-cracking-bitcoin/",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been testing the Superlist tasks app, reading about the high-stakes race to crack crypto wallets , rehearsing my case for buying an e-bike , taking voice notes like a boss with Whisper Memos , and avoiding all my problems by watching Between Two Ferns bloopers on YouTube.",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2023-10-29-my-case-for-buying-an-e-bike",
-   "name": "my case for buying an e-bike",
-   "url": "https://www.theatlantic.com/health/archive/2023/10/reasons-to-get-e-bike-emissions-climate-change-benefits/675716/",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been testing the Superlist tasks app, reading about the high-stakes race to crack crypto wallets , rehearsing my case for buying an e-bike , taking voice notes like a boss with Whisper Memos , and avoiding all my problems by watching Between Two Ferns bloopers on YouTube.",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2023-10-29-whisper-memos",
-   "name": "Whisper Memos",
-   "url": "https://whispermemos.com/",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been testing the Superlist tasks app, reading about the high-stakes race to crack crypto wallets , rehearsing my case for buying an e-bike , taking voice notes like a boss with Whisper Memos , and avoiding all my problems by watching Between Two Ferns bloopers on YouTube.",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2023-10-29-between-two-ferns-bloopers",
-   "name": "Between Two Ferns bloopers",
-   "url": "https://www.youtube.com/watch?v=aWK4HmAnCdA",
-   "alt_urls": [],
-   "category": "media",
-   "tags": [
-    "video"
-   ],
-   "blurb": "This week, I’ve been testing the Superlist tasks app, reading about the high-stakes race to crack crypto wallets , rehearsing my case for buying an e-bike , taking voice notes like a boss with Whisper Memos , and avoiding all my problems by watching Between Two Ferns bloopers on YouTube.",
-   "section": "intro",
-   "recommender": null
-  },
-  {
    "id": "2023-10-29-internet-artifacts",
    "name": "Internet Artifacts",
    "url": "https://neal.fun/internet-artifacts/",

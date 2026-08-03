@@ -20,61 +20,6 @@
  "needs_review": true,
  "recommendations": [
   {
-   "id": "2024-02-18-redesigned-you-com",
-   "name": "redesigned You.com",
-   "url": "https://you.com/",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been playing with the redesigned You.com for AI research, trying out the Phanpy Mastodon client, getting back into Zombies, Run after reading Vee Song’s great story about Fantasy Hike , and reading the new “lost chapter” of The Martian before probably just rereading The Martian…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2024-02-18-phanpy",
-   "name": "Phanpy",
-   "url": "https://phanpy.social/",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been playing with the redesigned You.com for AI research, trying out the Phanpy Mastodon client, getting back into Zombies, Run after reading Vee Song’s great story about Fantasy Hike , and reading the new “lost chapter” of The Martian before probably just rereading The Martian…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2024-02-18-zombies-run",
-   "name": "Zombies, Run",
-   "url": "https://zrx.app/",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been playing with the redesigned You.com for AI research, trying out the Phanpy Mastodon client, getting back into Zombies, Run after reading Vee Song’s great story about Fantasy Hike , and reading the new “lost chapter” of The Martian before probably just rereading The Martian…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2024-02-18-lost-chapter-of-the-martian",
-   "name": "“lost chapter” of The Martian",
-   "url": "https://galactanet.com/lostsols.pdf",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been playing with the redesigned You.com for AI research, trying out the Phanpy Mastodon client, getting back into Zombies, Run after reading Vee Song’s great story about Fantasy Hike , and reading the new “lost chapter” of The Martian before probably just rereading The Martian…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2024-02-18-the-martian",
-   "name": "The Martian",
-   "url": "https://andyweirauthor.com/#the-martian",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been playing with the redesigned You.com for AI research, trying out the Phanpy Mastodon client, getting back into Zombies, Run after reading Vee Song’s great story about Fantasy Hike , and reading the new “lost chapter” of The Martian before probably just rereading The Martian…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
    "id": "2024-02-18-boses-ultra-open-earbuds",
    "name": "Bose’s Ultra Open Earbuds",
    "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://www.bose.com/p/earbuds/bose-ultra-open-earbuds/ULT-HEADPHONEOPN.html?cjdata=MXxOfDB8WXww&affiliateid=CJ8836598&Publisher=Vox+Media&cjevent=7e5a70cecc6111ee83834adc0a82b838",

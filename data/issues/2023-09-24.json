@@ -20,61 +20,6 @@
  "needs_review": true,
  "recommendations": [
   {
-   "id": "2023-09-24-the-ai-writing-lives-of-real-writers",
-   "name": "the AI writing lives of real writers",
-   "url": "https://www.wired.com/story/confessions-viral-ai-writer-chatgpt/?src=longreads",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been reading about the AI writing lives of real writers , rewatching the John Wick movies to prepare for The Continental , shopping for StandBy-capable iPhone docks , getting back into VR exercise with Supernatural boxing , and really, really, really hoping Microsoft’s…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2023-09-24-the-continental",
-   "name": "The Continental",
-   "url": "https://imp.i305175.net/c/482924/828265/11640",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been reading about the AI writing lives of real writers , rewatching the John Wick movies to prepare for The Continental , shopping for StandBy-capable iPhone docks , getting back into VR exercise with Supernatural boxing , and really, really, really hoping Microsoft’s…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2023-09-24-standby-capable-iphone-docks",
-   "name": "StandBy-capable iPhone docks",
-   "url": "https://9to5toys.com/2023/09/15/best-standby-magsafe-chargers-iphone-15/",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been reading about the AI writing lives of real writers , rewatching the John Wick movies to prepare for The Continental , shopping for StandBy-capable iPhone docks , getting back into VR exercise with Supernatural boxing , and really, really, really hoping Microsoft’s…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2023-09-24-supernatural-boxing",
-   "name": "Supernatural boxing",
-   "url": "https://www.getsupernatural.com/",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been reading about the AI writing lives of real writers , rewatching the John Wick movies to prepare for The Continental , shopping for StandBy-capable iPhone docks , getting back into VR exercise with Supernatural boxing , and really, really, really hoping Microsoft’s…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2023-09-24-new-apple-software-upgrade-week",
-   "name": "New Apple Software Upgrade Week",
-   "url": "https://www.macstories.net/stories/ios-and-ipados-17-the-macstories-review/",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "Oh, and fair warning: this week’s pretty Apple-heavy. But it’s New Apple Software Upgrade Week , so there’s just a lot to go through. We’ll do the same for Android 14 in a couple of weeks, too, I suspect, so send me all your favorite Android stuff!",
-   "section": "intro",
-   "recommender": null
-  },
-  {
    "id": "2023-09-24-orion",
    "name": "Orion",
    "url": "https://www.lux.camera/meet-orion/",

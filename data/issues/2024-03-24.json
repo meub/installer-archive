@@ -20,65 +20,6 @@
  "needs_review": true,
  "recommendations": [
   {
-   "id": "2024-03-24-la-crime-rings",
-   "name": "LA crime rings",
-   "url": "https://www.newyorker.com/magazine/2024/03/25/the-crime-rings-stealing-everything-from-purses-to-power-tools",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been reading about LA crime rings and AI music tools , watching March Madness even though all my brackets are already busted, watching the story of Mickey Mouse and pretending I don’t care about Love Is Blind while my wife watches even though I’m now kind of obsessed with Love Is…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2024-03-24-ai-music-tools",
-   "name": "AI music tools",
-   "url": "https://www.rollingstone.com/music/music-features/suno-ai-chatgpt-for-music-1234982307/",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been reading about LA crime rings and AI music tools , watching March Madness even though all my brackets are already busted, watching the story of Mickey Mouse and pretending I don’t care about Love Is Blind while my wife watches even though I’m now kind of obsessed with Love Is…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2024-03-24-the-story-of-mickey-mouse",
-   "name": "the story of Mickey Mouse",
-   "url": "https://www.youtube.com/watch?v=i_tT3R-Qrgw",
-   "alt_urls": [],
-   "category": "media",
-   "tags": [
-    "video"
-   ],
-   "blurb": "This week, I’ve been reading about LA crime rings and AI music tools , watching March Madness even though all my brackets are already busted, watching the story of Mickey Mouse and pretending I don’t care about Love Is Blind while my wife watches even though I’m now kind of obsessed with Love Is…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2024-03-24-love-is-blind",
-   "name": "Love Is Blind",
-   "url": "https://www.themoviedb.org/tv/99353-love-is-blind?language=en-US",
-   "alt_urls": [],
-   "category": "media",
-   "tags": [
-    "tv"
-   ],
-   "blurb": "This week, I’ve been reading about LA crime rings and AI music tools , watching March Madness even though all my brackets are already busted, watching the story of Mickey Mouse and pretending I don’t care about Love Is Blind while my wife watches even though I’m now kind of obsessed with Love Is…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2024-03-24-his-new-podcast",
-   "name": "his new podcast",
-   "url": "https://linktr.ee/mindthegame",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been reading about LA crime rings and AI music tools , watching March Madness even though all my brackets are already busted, watching the story of Mickey Mouse and pretending I don’t care about Love Is Blind while my wife watches even though I’m now kind of obsessed with Love Is…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
    "id": "2024-03-24-3-body-problem",
    "name": "3 Body Problem",
    "url": "https://www.themoviedb.org/tv/108545-3-body-problem?language=en-US",

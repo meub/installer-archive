@@ -19,67 +19,6 @@
  "needs_review": true,
  "recommendations": [
   {
-   "id": "2025-07-13-summer-games-done-quick-speedrunning-marathon",
-   "name": "Summer Games Done Quick speedrunning marathon",
-   "url": "https://gamesdonequick.com/schedule/",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, as I am at around this time every year, I’ve been obsessed with the annual Summer Games Done Quick speedrunning marathon . If you’ve never watched, the event is an annual, weeklong, always-on livestream of people playing video games at an extremely high level to raise money for charity.",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2025-07-13-on-twitch",
-   "name": "on Twitch",
-   "url": "https://www.twitch.tv/gamesdonequick",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "The show, which you can watch for free on Twitch , typically ends very early in the morning on Sunday, and you can watch replays on the Games Done Quick YouTube channel . My two favorite runs so far have been a Beat Saber showcase and a nail-biter Cuphead race .",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2025-07-13-the-games-done-quick-youtube-channel",
-   "name": "the Games Done Quick YouTube channel",
-   "url": "https://www.youtube.com/playlist?list=PLz8YL4HVC87UOYTcO8Bo_6YlBwLXOJ7Zc",
-   "alt_urls": [],
-   "category": "media",
-   "tags": [
-    "video"
-   ],
-   "blurb": "The show, which you can watch for free on Twitch , typically ends very early in the morning on Sunday, and you can watch replays on the Games Done Quick YouTube channel . My two favorite runs so far have been a Beat Saber showcase and a nail-biter Cuphead race .",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2025-07-13-beat-saber-showcase",
-   "name": "Beat Saber showcase",
-   "url": "https://youtu.be/OCyhfNfZmjU?feature=shared",
-   "alt_urls": [],
-   "category": "media",
-   "tags": [
-    "video"
-   ],
-   "blurb": "The show, which you can watch for free on Twitch , typically ends very early in the morning on Sunday, and you can watch replays on the Games Done Quick YouTube channel . My two favorite runs so far have been a Beat Saber showcase and a nail-biter Cuphead race .",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2025-07-13-nail-biter-cuphead-race",
-   "name": "nail-biter Cuphead race",
-   "url": "https://www.youtube.com/watch?v=fhgWhRRbRZ4",
-   "alt_urls": [],
-   "category": "media",
-   "tags": [
-    "video"
-   ],
-   "blurb": "The show, which you can watch for free on Twitch , typically ends very early in the morning on Sunday, and you can watch replays on the Games Done Quick YouTube channel . My two favorite runs so far have been a Beat Saber showcase and a nail-biter Cuphead race .",
-   "section": "intro",
-   "recommender": null
-  },
-  {
    "id": "2025-07-13-samsung-galaxy-z-fold-7",
    "name": "Samsung Galaxy Z Fold 7",
    "url": "https://howl.link/sovqu7j7kl3dp",

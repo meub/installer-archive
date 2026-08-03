@@ -20,63 +20,6 @@
  "needs_review": true,
  "recommendations": [
   {
-   "id": "2023-10-15-marvels-plan-to-fix-its-tv-shows",
-   "name": "Marvel’s plan to fix its TV shows",
-   "url": "https://www.hollywoodreporter.com/tv/tv-news/daredevil-marvel-disney-1235614518/",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been reading about Marvel’s plan to fix its TV shows and all the wild testimony from the Sam Bankman-Fried trial , making lots of deranged art in the improved Bing Chat , watching the David Beckham documentary and debating many new hairstyles, asking all the teens if they actually…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2023-10-15-the-improved-bing-chat",
-   "name": "the improved Bing Chat",
-   "url": "https://www.bing.com/search?q=Bing+AI&showconv=1",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been reading about Marvel’s plan to fix its TV shows and all the wild testimony from the Sam Bankman-Fried trial , making lots of deranged art in the improved Bing Chat , watching the David Beckham documentary and debating many new hairstyles, asking all the teens if they actually…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2023-10-15-the-david-beckham-documentary",
-   "name": "the David Beckham documentary",
-   "url": "https://www.netflix.com/browse?jbv=81223488",
-   "alt_urls": [],
-   "category": "media",
-   "tags": [],
-   "blurb": "This week, I’ve been reading about Marvel’s plan to fix its TV shows and all the wild testimony from the Sam Bankman-Fried trial , making lots of deranged art in the improved Bing Chat , watching the David Beckham documentary and debating many new hairstyles, asking all the teens if they actually…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2023-10-15-actually-love-linkedin",
-   "name": "actually love LinkedIn",
-   "url": "https://www.thecut.com/article/why-teenagers-love-linkedin.html",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been reading about Marvel’s plan to fix its TV shows and all the wild testimony from the Sam Bankman-Fried trial , making lots of deranged art in the improved Bing Chat , watching the David Beckham documentary and debating many new hairstyles, asking all the teens if they actually…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2023-10-15-the-eras-tour-movie",
-   "name": "the Eras Tour movie",
-   "url": "https://www.themoviedb.org/movie/1160164-taylor-swift-the-eras-tour",
-   "alt_urls": [],
-   "category": "media",
-   "tags": [
-    "movie"
-   ],
-   "blurb": "This week, I’ve been reading about Marvel’s plan to fix its TV shows and all the wild testimony from the Sam Bankman-Fried trial , making lots of deranged art in the improved Bing Chat , watching the David Beckham documentary and debating many new hairstyles, asking all the teens if they actually…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
    "id": "2023-10-15-omnivore",
    "name": "Omnivore",
    "url": "https://omnivore.app/",

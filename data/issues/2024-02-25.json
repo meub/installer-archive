@@ -19,65 +19,6 @@
  "needs_review": true,
  "recommendations": [
   {
-   "id": "2024-02-25-assassins-creed-nexus",
-   "name": "Assassin’s Creed Nexus",
-   "url": "https://www.ubisoft.com/en-us/game/assassins-creed/nexus-vr",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been playing Assassin’s Creed Nexus on the Quest 3, reading about obsessive ramen makers and Noah Kahan’s journey to TikTok superstardom , finally watching Dune so I can be ready to see the sequel, also finally watching Patriot , and trying desperately to learn to make crispy…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2024-02-25-obsessive-ramen-makers",
-   "name": "obsessive ramen makers",
-   "url": "https://www.chicagomag.com/chicago-magazine/march-2024/the-ramen-lord/",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been playing Assassin’s Creed Nexus on the Quest 3, reading about obsessive ramen makers and Noah Kahan’s journey to TikTok superstardom , finally watching Dune so I can be ready to see the sequel, also finally watching Patriot , and trying desperately to learn to make crispy…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2024-02-25-noah-kahans-journey-to-tiktok-superstardom",
-   "name": "Noah Kahan’s journey to TikTok superstardom",
-   "url": "https://www.newyorker.com/magazine/2024/02/26/stick-season-forever-noah-kahan-music-review",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been playing Assassin’s Creed Nexus on the Quest 3, reading about obsessive ramen makers and Noah Kahan’s journey to TikTok superstardom , finally watching Dune so I can be ready to see the sequel, also finally watching Patriot , and trying desperately to learn to make crispy…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2024-02-25-dune",
-   "name": "Dune",
-   "url": "https://www.themoviedb.org/movie/693134-dune-part-two?language=en-US",
-   "alt_urls": [],
-   "category": "media",
-   "tags": [
-    "movie"
-   ],
-   "blurb": "This week, I’ve been playing Assassin’s Creed Nexus on the Quest 3, reading about obsessive ramen makers and Noah Kahan’s journey to TikTok superstardom , finally watching Dune so I can be ready to see the sequel, also finally watching Patriot , and trying desperately to learn to make crispy…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2024-02-25-patriot",
-   "name": "Patriot",
-   "url": "https://www.themoviedb.org/tv/64396-patriot?language=en-US",
-   "alt_urls": [],
-   "category": "media",
-   "tags": [
-    "tv"
-   ],
-   "blurb": "This week, I’ve been playing Assassin’s Creed Nexus on the Quest 3, reading about obsessive ramen makers and Noah Kahan’s journey to TikTok superstardom , finally watching Dune so I can be ready to see the sequel, also finally watching Patriot , and trying desperately to learn to make crispy…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
    "id": "2024-02-25-balatro",
    "name": "Balatro",
    "url": "https://www.playbalatro.com/",

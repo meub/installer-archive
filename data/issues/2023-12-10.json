@@ -19,65 +19,6 @@
  "needs_review": true,
  "recommendations": [
   {
-   "id": "2023-12-10-a-murder-at-the-end-of-the-world",
-   "name": "A Murder at the End of the World",
-   "url": "https://www.themoviedb.org/tv/134095-a-murder-at-the-end-of-the-world",
-   "alt_urls": [],
-   "category": "media",
-   "tags": [
-    "tv"
-   ],
-   "blurb": "This week, I’ve been watching A Murder at the End of the World and (finally!) Barbie , reading about Gary Gensler’s war on crypto , robot trucks , and Taylor Swift’s world takeover , playing Puzzmo’s Really Bad Chess , and catching up on all the super-popular TikToks I missed this year.",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2023-12-10-barbie",
-   "name": "Barbie",
-   "url": "https://www.themoviedb.org/movie/346698-barbie",
-   "alt_urls": [],
-   "category": "media",
-   "tags": [
-    "movie"
-   ],
-   "blurb": "This week, I’ve been watching A Murder at the End of the World and (finally!) Barbie , reading about Gary Gensler’s war on crypto , robot trucks , and Taylor Swift’s world takeover , playing Puzzmo’s Really Bad Chess , and catching up on all the super-popular TikToks I missed this year.",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2023-12-10-gary-genslers-war-on-crypto",
-   "name": "Gary Gensler’s war on crypto",
-   "url": "https://fortune.com/longform/gary-gensler-sec-chair-interview-cryptocurrency-climate-change/",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been watching A Murder at the End of the World and (finally!) Barbie , reading about Gary Gensler’s war on crypto , robot trucks , and Taylor Swift’s world takeover , playing Puzzmo’s Really Bad Chess , and catching up on all the super-popular TikToks I missed this year.",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2023-12-10-taylor-swifts-world-takeover",
-   "name": "Taylor Swift’s world takeover",
-   "url": "https://time.com/6342806/person-of-the-year-2023-taylor-swift/",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been watching A Murder at the End of the World and (finally!) Barbie , reading about Gary Gensler’s war on crypto , robot trucks , and Taylor Swift’s world takeover , playing Puzzmo’s Really Bad Chess , and catching up on all the super-popular TikToks I missed this year.",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2023-12-10-puzzmos-really-bad-chess",
-   "name": "Puzzmo’s Really Bad Chess",
-   "url": "https://www.puzzmo.com/play/really-bad-chess",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’ve been watching A Murder at the End of the World and (finally!) Barbie , reading about Gary Gensler’s war on crypto , robot trucks , and Taylor Swift’s world takeover , playing Puzzmo’s Really Bad Chess , and catching up on all the super-popular TikToks I missed this year.",
-   "section": "intro",
-   "recommender": null
-  },
-  {
    "id": "2023-12-10-google-gemini",
    "name": "Google Gemini",
    "url": "https://deepmind.google/technologies/gemini/#introduction",

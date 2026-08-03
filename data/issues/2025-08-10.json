@@ -19,65 +19,6 @@
  "needs_review": true,
  "recommendations": [
   {
-   "id": "2025-08-10-the-rise-of-geo",
-   "name": "the rise of GEO",
-   "url": "https://nymag.com/intelligencer/article/seo-is-dead-say-hello-to-geo.html",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’m reading about the rise of GEO , laughing at Kirby’s new shapes , acknowledging Google’s good dunk on Apple , thinking of the best Wordle puzzle I can make, wondering if I’ll ever see Microsoft’s Windows XP-themed Crocs out in the wild, following the progress of The Bluesky Dictionary…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2025-08-10-kirbys-new-shapes",
-   "name": "Kirby’s new shapes",
-   "url": "https://www.youtube.com/watch?v=2h3bJ8tGrj4",
-   "alt_urls": [],
-   "category": "media",
-   "tags": [
-    "video"
-   ],
-   "blurb": "This week, I’m reading about the rise of GEO , laughing at Kirby’s new shapes , acknowledging Google’s good dunk on Apple , thinking of the best Wordle puzzle I can make, wondering if I’ll ever see Microsoft’s Windows XP-themed Crocs out in the wild, following the progress of The Bluesky Dictionary…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2025-08-10-wordle-puzzle",
-   "name": "Wordle puzzle",
-   "url": "https://www.nytimes.com/games/create/wordle",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’m reading about the rise of GEO , laughing at Kirby’s new shapes , acknowledging Google’s good dunk on Apple , thinking of the best Wordle puzzle I can make, wondering if I’ll ever see Microsoft’s Windows XP-themed Crocs out in the wild, following the progress of The Bluesky Dictionary…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2025-08-10-the-bluesky-dictionary",
-   "name": "The Bluesky Dictionary",
-   "url": "https://www.avibagla.com/blueskydictionary/",
-   "alt_urls": [],
-   "category": null,
-   "tags": [],
-   "blurb": "This week, I’m reading about the rise of GEO , laughing at Kirby’s new shapes , acknowledging Google’s good dunk on Apple , thinking of the best Wordle puzzle I can make, wondering if I’ll ever see Microsoft’s Windows XP-themed Crocs out in the wild, following the progress of The Bluesky Dictionary…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
-   "id": "2025-08-10-architectural-digest-open-door-episode",
-   "name": "Architectural Digest Open Door episode",
-   "url": "https://youtu.be/VK8sSvBAP1w?feature=shared",
-   "alt_urls": [],
-   "category": "media",
-   "tags": [
-    "video"
-   ],
-   "blurb": "This week, I’m reading about the rise of GEO , laughing at Kirby’s new shapes , acknowledging Google’s good dunk on Apple , thinking of the best Wordle puzzle I can make, wondering if I’ll ever see Microsoft’s Windows XP-themed Crocs out in the wild, following the progress of The Bluesky Dictionary…",
-   "section": "intro",
-   "recommender": null
-  },
-  {
    "id": "2025-08-10-openais-gpt-5",
    "name": "OpenAI’s GPT-5",
    "url": "https://openai.com/gpt-5/",

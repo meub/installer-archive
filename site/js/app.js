@@ -1,6 +1,6 @@
 import MiniSearch from "../vendor/minisearch.js";
 import { readState, writeState, resetState } from "./urlstate.js";
-import { CATEGORY_LABELS, SECTION_LABELS, createRenderer, fmtNum } from "./render.js";
+import { CATEGORY_LABELS, SECTION_LABELS, sectionLabel, createRenderer, fmtNum } from "./render.js";
 
 const $ = (id) => document.getElementById(id);
 const state = readState();
@@ -68,8 +68,17 @@ function buildChips() {
   secLabel.className = "chip-label";
   secLabel.textContent = "Section";
   sec.append(secLabel);
-  for (const [key, label] of Object.entries(SECTION_LABELS)) {
-    sec.append(makeChip(label, () => state.section === key,
+  // chips come from the data: canonical order first, then any recurring
+  // one-off segments (>= 20 recs); rare ones stay reachable via URL
+  const secCounts = new Map();
+  for (const r of recs) secCounts.set(r.section, (secCounts.get(r.section) || 0) + 1);
+  const shown = [
+    ...Object.keys(SECTION_LABELS).filter((k) => secCounts.has(k)),
+    ...[...secCounts.keys()].filter((k) => !SECTION_LABELS[k] && secCounts.get(k) >= 20).sort(),
+  ];
+  if (state.section && !shown.includes(state.section)) shown.push(state.section);
+  for (const key of shown) {
+    sec.append(makeChip(sectionLabel(key), () => state.section === key,
       () => { state.section = state.section === key ? null : key; }));
   }
   for (const y of years) {
