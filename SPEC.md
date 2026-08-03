@@ -285,7 +285,7 @@ Behavior:
 - **States:** loading skeleton while JSON fetches; friendly empty state with "clear filters".
 - **Admin mode (curator-only):** `?admin=1` reveals a per-row ✕ that marks entries for deletion (localStorage; rows hide immediately). An admin bar offers Download deletions.json / Copy IDs / Un-mark all / Exit; `python -m scraper delete --file deletions.json` applies the marks to `data/issues/` permanently. On the public site the param only ever hides rows in the visitor's own browser.
 
-Design (clean theme): typography-first, system font stack, generous line-height, subtle borders over boxes, automatic light/dark via `prefers-color-scheme`. All colors/spacing as CSS custom properties on `:root[data-theme]` — this is the seam the Win98 theme swaps.
+Design (revised 2026-08-03): a **committed dark theme** (`css/theme.css`, no light variant) — deep neutral surfaces, violet accent, entries as bordered horizontal cards with hover lift. Full-bleed site bar (title + About), subtitle + stat figures, then a sticky toolbar carrying the search field *and* the category chips (horizontally scrollable on small screens); Section/Year/Tags collapse behind "More filters". Category badges carry inlined Lucide icons. All colors as custom properties on `:root`.
 
 **Performance budget:** shell (HTML+CSS+JS) <50KB gzipped; interactive <1s on cable, <2.5s on 3G; search keystroke→paint <16ms; Lighthouse ≥95 across the board.
 

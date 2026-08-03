@@ -48,18 +48,27 @@ button { font: inherit; color: inherit; }
   -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--border);
 }
-.topbar-inner { display: flex; gap: 10px; padding-top: 10px; padding-bottom: 10px; }
+.topbar-inner { padding-top: 12px; padding-bottom: 11px; }
+.search-row { display: flex; gap: 10px; margin-bottom: 10px; }
+.topbar .chip-row {
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  margin-bottom: 0;
+  scrollbar-width: none;
+}
+.topbar .chip-row::-webkit-scrollbar { display: none; }
 .searchbox { position: relative; flex: 1; display: flex; align-items: center; }
 .search-icon {
   position: absolute; left: 12px; width: 16px; height: 16px;
   fill: var(--text-faint); pointer-events: none;
 }
 #q {
-  width: 100%; padding: 9px 40px 9px 36px;
+  width: 100%; padding: 10px 40px 10px 36px;
   font: inherit; color: var(--text);
   background: var(--bg-elev);
-  border: 1px solid var(--border-strong); border-radius: 9px;
+  border: 1px solid var(--border-strong); border-radius: 10px;
 }
+#q::placeholder { color: var(--text-faint); }
 #q:focus { outline: 2px solid var(--focus); outline-offset: -1px; }
 .slash-hint {
   position: absolute; right: 10px;
@@ -72,7 +81,7 @@ button { font: inherit; color: inherit; }
 #sort, select {
   font: inherit; color: var(--text);
   background: var(--bg-elev);
-  border: 1px solid var(--border-strong); border-radius: 9px;
+  border: 1px solid var(--border-strong); border-radius: 10px;
   padding: 8px 10px;
 }
 
@@ -80,13 +89,15 @@ button { font: inherit; color: inherit; }
 .filters { padding-top: 12px; }
 .chip-row { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
 .chip {
-  border: 1px solid var(--border);
+  border: 1px solid var(--chip-border, var(--border));
   background: var(--chip-bg);
   color: var(--text-muted);
   border-radius: 999px;
   padding: 4px 12px;
   font-size: 13px;
   cursor: pointer;
+  white-space: nowrap;
+  transition: border-color 0.1s ease, color 0.1s ease;
 }
 .chip:hover { border-color: var(--border-strong); color: var(--text); }
 .chip[aria-pressed="true"] {
@@ -117,7 +128,16 @@ button { font: inherit; color: inherit; }
 .link-btn:hover { text-decoration: underline; }
 
 .rec-list { list-style: none; margin: 0; padding: 0; }
-.rec { display: flex; gap: 12px; padding: 15px 2px 14px; border-bottom: 1px solid var(--border); }
+.rec {
+  display: flex; gap: 12px;
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  padding: 15px 18px 14px;
+  margin-bottom: 10px;
+  transition: border-color 0.12s ease, background 0.12s ease;
+}
+.rec:hover { border-color: var(--card-hover-border); background: var(--card-hover); }
 .rec-body { flex: 1; min-width: 0; }
 .rec-head { display: flex; align-items: baseline; gap: 10px; }
 .rec-name {
@@ -156,9 +176,9 @@ button { font: inherit; color: inherit; }
 .tag:hover { background: var(--accent-soft); color: var(--accent); }
 
 /* ---------- states ---------- */
-.skeleton { height: 74px; position: relative; overflow: hidden; }
+.skeleton { height: 92px; position: relative; overflow: hidden; }
 .skeleton::after {
-  content: ""; position: absolute; inset: 15px 40% 15px 2px;
+  content: ""; position: absolute; inset: 16px 40% 16px 18px;
   background: var(--chip-bg); border-radius: 6px;
   animation: pulse 1.2s ease-in-out infinite;
 }

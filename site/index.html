@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
   <title>Installer Archive</title>
   <meta name="description" content="A searchable index of every app, game, show, gadget, and reader find ever recommended in The Verge's Installer newsletter.">
   <link rel="canonical" href="https://installerarchive.alexmeub.com/">
@@ -10,8 +11,8 @@
   <meta property="og:description" content="Everything The Verge's Installer newsletter has ever recommended — searchable.">
   <meta property="og:url" content="https://installerarchive.alexmeub.com/">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💾</text></svg>">
-  <link rel="stylesheet" href="css/base.css">
-  <link rel="stylesheet" href="css/theme-clean.css">
+  <link rel="stylesheet" href="css/base.css?v=7">
+  <link rel="stylesheet" href="css/theme.css?v=7">
   <!-- Analytics (planned, see SPEC §10): enable once the GoatCounter account exists.
   <script data-goatcounter="https://installerarchive.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
   -->
@@ -27,7 +28,7 @@
 
 <header class="site-head wrap">
   <p class="tagline">An unofficial archive of stuff recommended in The Verge’s
-  <a href="https://www.theverge.com/installer-newsletter" rel="noopener">Installer</a> newsletter, updated weekly.</p>
+  <a href="https://www.theverge.com/installer-newsletter" rel="noopener">Installer</a> newsletter.</p>
   <div class="stats">
     <div class="stat">
       <span class="stat-num" id="stat-recs">—</span>
@@ -42,22 +43,24 @@
 
 <div class="topbar">
   <div class="wrap topbar-inner">
-    <div class="searchbox">
-      <svg class="search-icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M8.5 3a5.5 5.5 0 0 1 4.23 9.02l4.12 4.13-1.06 1.06-4.13-4.12A5.5 5.5 0 1 1 8.5 3zm0 1.5a4 4 0 1 0 0 8 4 4 0 0 0 0-8z"/></svg>
-      <input id="q" type="search" placeholder="Search apps, games, shows, gadgets…" autocomplete="off" spellcheck="false" aria-label="Search recommendations">
-      <kbd class="slash-hint" aria-hidden="true">/</kbd>
+    <div class="search-row">
+      <div class="searchbox">
+        <svg class="search-icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M8.5 3a5.5 5.5 0 0 1 4.23 9.02l4.12 4.13-1.06 1.06-4.13-4.12A5.5 5.5 0 1 1 8.5 3zm0 1.5a4 4 0 1 0 0 8 4 4 0 0 0 0-8z"/></svg>
+        <input id="q" type="search" placeholder="Search apps, games, shows, gadgets…" autocomplete="off" spellcheck="false" aria-label="Search recommendations">
+        <kbd class="slash-hint" aria-hidden="true">/</kbd>
+      </div>
+      <select id="sort" aria-label="Sort order">
+        <option value="newest">Newest</option>
+        <option value="oldest">Oldest</option>
+        <option value="az">A–Z</option>
+        <option value="random">Random</option>
+      </select>
     </div>
-    <select id="sort" aria-label="Sort order">
-      <option value="newest">Newest</option>
-      <option value="oldest">Oldest</option>
-      <option value="az">A–Z</option>
-      <option value="random">Random</option>
-    </select>
+    <div class="chip-row" id="cat-chips" role="group" aria-label="Category"></div>
   </div>
 </div>
 
 <div class="filters wrap">
-  <div class="chip-row" id="cat-chips" role="group" aria-label="Category"></div>
   <button class="more-filters-btn" id="more-filters-btn" type="button"
           aria-expanded="false" aria-controls="more-filters">More filters ▾</button>
   <div id="more-filters" hidden>
@@ -112,6 +115,6 @@
   <form method="dialog"><button class="btn">Close</button></form>
 </dialog>
 
-<script type="module" src="js/app.js?v=6"></script>
+<script type="module" src="js/app.js?v=7"></script>
 </body>
 </html>

@@ -1,0 +1,38 @@
+/* Installer Archive — the theme. A committed dark palette (no light variant);
+   all colors live here as custom properties, base.css consumes them. */
+
+:root {
+  color-scheme: dark;
+
+  --bg: #0e0f12;
+  --bg-elev: #15171b;
+  --bg-topbar: rgba(14, 15, 18, 0.88);
+  --card: #14161a;
+  --card-border: #24272d;
+  --card-hover: #171a1f;
+  --card-hover-border: #3a3f49;
+
+  --text: #e9ebee;
+  --text-muted: #a2a8b1;
+  --text-faint: #6c727c;
+  --border: #22252b;
+  --border-strong: #343943;
+
+  --accent: #a78bfa;
+  --accent-strong: #8b5cf6;
+  --accent-soft: #241f38;
+  --focus: #a78bfa;
+
+  --chip-bg: #1a1d22;
+  --chip-border: #2a2e36;
+  --chip-bg-active: #e9ebee;
+  --chip-fg-active: #0e0f12;
+  --kbd-bg: #1a1d22;
+
+  --badge-app-bg: #2b2444;     --badge-app-fg: #c4b5fd;
+  --badge-game-bg: #14301f;    --badge-game-fg: #6ee7a0;
+  --badge-media-bg: #182a45;   --badge-media-fg: #8ec2fd;
+  --badge-gadget-bg: #38220f;  --badge-gadget-fg: #fdba74;
+  --badge-feature-bg: #0f322f; --badge-feature-fg: #5eead4;
+  --badge-other-bg: #22252b;   --badge-other-fg: #a2a8b1;
+}
