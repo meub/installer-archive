@@ -36,9 +36,9 @@
 </div>
 
 <header class="site-head wrap">
-  <div class="stat-badges" id="stat-badges"></div>
   <p class="tagline">An unofficial archive of stuff recommended in The Verge’s
   <a href="https://www.theverge.com/installer-newsletter" rel="noopener">Installer</a> newsletter.</p>
+  <div class="stat-badges" id="stat-badges"></div>
 </header>
 
 <div class="topbar">
@@ -56,13 +56,15 @@
         <option value="random">Random</option>
       </select>
     </div>
-    <div class="chip-row" id="cat-chips" role="group" aria-label="Category"></div>
+    <div class="chip-row-wrap">
+      <div class="chip-row" id="cat-chips" role="group" aria-label="Category"></div>
+      <button class="more-filters-btn" id="more-filters-btn" type="button"
+              aria-expanded="false" aria-controls="more-filters">More filters ▾</button>
+    </div>
   </div>
 </div>
 
 <div class="filters wrap">
-  <button class="more-filters-btn" id="more-filters-btn" type="button"
-          aria-expanded="false" aria-controls="more-filters">More filters ▾</button>
   <div id="more-filters" hidden>
     <div class="filter-group">
       <h3 class="filter-label">Section</h3>
@@ -125,6 +127,6 @@
   <form method="dialog"><button class="btn">Close</button></form>
 </dialog>
 
-<script type="module" src="js/app.js?v=10"></script>
+<script type="module" src="js/app.js?v=12"></script>
 </body>
 </html>

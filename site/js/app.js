@@ -102,7 +102,7 @@ function buildStatBadges() {
     s.append(b, document.createTextNode(label));
     return s;
   };
-  wrap.append(statOf(data.rec_count, "recs"), statOf(data.issue_count, "issues"));
+  wrap.append(statOf(data.rec_count, "recs"));
 
   const catCounts = new Map();
   for (const r of recs) if (r.category) catCounts.set(r.category, (catCounts.get(r.category) || 0) + 1);
