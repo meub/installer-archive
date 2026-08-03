@@ -75,6 +75,13 @@ button { font: inherit; color: inherit; }
 .chip-label { color: var(--text-faint); font-size: 13px; align-self: center; margin-right: 2px; }
 .chip-row-tags .chip { font-size: 12.5px; padding: 3px 10px; }
 
+.more-filters-btn {
+  background: none; border: none; padding: 2px 0;
+  color: var(--text-faint); font-size: 13px; cursor: pointer;
+}
+.more-filters-btn:hover { color: var(--accent); }
+#more-filters { margin-top: 10px; }
+
 /* ---------- results ---------- */
 .status-row {
   display: flex; align-items: baseline; gap: 14px;
@@ -90,9 +97,6 @@ button { font: inherit; color: inherit; }
 .rec-list { list-style: none; margin: 0; padding: 0; }
 .rec { display: flex; gap: 12px; padding: 15px 2px 14px; border-bottom: 1px solid var(--border); }
 .rec-body { flex: 1; min-width: 0; }
-.cat-icon { display: none; image-rendering: pixelated; flex-shrink: 0; }
-.win98-only { display: none; }
-.head-btns { display: flex; gap: 14px; }
 .rec-head { display: flex; align-items: baseline; gap: 10px; }
 .rec-name {
   font-weight: 600; font-size: 15.5px;

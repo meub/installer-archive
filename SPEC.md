@@ -289,14 +289,11 @@ Design (clean theme): typography-first, system font stack, generous line-height,
 
 **Performance budget:** shell (HTML+CSS+JS) <50KB gzipped; interactive <1s on cable, <2.5s on 3G; search keystroke→paint <16ms; Lighthouse ≥95 across the board.
 
-### 7.3 Windows 98 theme (shipped 2026-08-03)
+### 7.3 Windows 98 theme (built 2026-08-03, dropped same day)
 
-Built on **[98.css](https://jdan.github.io/98.css/)** (MIT, jdan) — self-hosted at `vendor/98/` with its "Pixelated MS Sans Serif" webfont. Same DOM, different skin; 98.css styles native elements globally, so it ships as a **disabled `<link>`** that JS enables only in 98 mode (the clean theme never sees it). All other styling lives in `css/theme-98.css`, scoped under `:root[data-theme="win98"]`.
+A full 98.css-based skin was shipped and then removed: fun, but not readable enough for the site's actual purpose. The implementation lives in git history (`ebf59c3`, removed the following commit) if nostalgia ever wins — it was a viewport-height window on the teal desktop with an Explorer-style listview and per-row icons from win98icons.alexmeub.com. Effort now goes into refining the single modern theme.
 
-- The app becomes a viewport-height window on the teal desktop: real title bar with min/max/close (the ✕ exits back to modern mode), silver toolbar, filter chips as raised 98 buttons.
-- Results render as an Explorer-style listview: white sunken panel with its own scrollbar (`main` is the scroll container so the infinite-scroll sentinel stays inside it), navy row-selection highlight on hover, and a **status bar**: "4,779 object(s)".
-- Every row shows its category icon (from [win98icons.alexmeub.com](https://win98icons.alexmeub.com), self-hosted in `site/icons/`): app→computer, media→multimedia, game→joystick, gadget→camera, feature→wizard, other→MS Agent. Icons are in the DOM in both themes; the clean theme hides them via CSS.
-- Toggle: "💾 98 mode" button in the header; persisted in `localStorage`; `?theme=98` / `?theme=modern` params for sharing. Clean theme stays the default.
+**Filter disclosure (added with the removal):** category chips sit directly under the search bar as the primary filter; Section, Year, and Tag rows collapse behind a "More filters ▾" toggle. Deep links carrying hidden filters auto-expand the panel, and the collapsed button shows an active-filter count ("More filters (2) ▾").
 
 ## 8. Hosting & deploy
 
