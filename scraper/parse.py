@@ -23,6 +23,7 @@ CMS = "duet--article--dangerously-set-cms-markup"
 KNOWN_SECTIONS = {
     "the drop": "the-drop",
     "pro tips": "pro-tips",
+    "pro tip": "pro-tips",
     "screen share": "screen-share",
     "crowdsourced": "crowdsourced",
     "group project": "group-project",  # recurring reader-collab segment
