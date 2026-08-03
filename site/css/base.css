@@ -23,7 +23,10 @@ button { font: inherit; color: inherit; }
 .site-name { font-size: 17px; letter-spacing: -0.01em; margin: 0; }
 .bar-links { display: flex; align-items: center; gap: 16px; }
 .bar-updated { color: var(--text-faint); font-size: 12.5px; }
-.bar-icon { color: var(--text-muted); display: inline-flex; }
+.bar-icon {
+  color: var(--text-muted); display: inline-flex;
+  background: none; border: none; padding: 0; cursor: pointer;
+}
 .bar-icon:hover { color: var(--accent); }
 .bar-icon svg { width: 18px; height: 18px; }
 @media (max-width: 560px) { .bar-updated { display: none; } }

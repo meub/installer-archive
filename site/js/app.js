@@ -102,13 +102,13 @@ function buildStatBadges() {
     s.append(b, document.createTextNode(label));
     return s;
   };
-  wrap.append(statOf(data.rec_count, "recommendations"), statOf(data.issue_count, "issues"));
+  wrap.append(statOf(data.rec_count, "recs"), statOf(data.issue_count, "issues"));
 
   const catCounts = new Map();
   for (const r of recs) if (r.category) catCounts.set(r.category, (catCounts.get(r.category) || 0) + 1);
   for (const key of Object.keys(CATEGORY_LABELS)) {
     const n = catCounts.get(key);
-    if (!n) continue;
+    if (!n || key === "other") continue;
     const btn = document.createElement("button");
     btn.type = "button";
     btn.className = `stat-badge stat-badge-cat badge-${key}`;
