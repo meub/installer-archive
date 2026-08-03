@@ -18,12 +18,26 @@
 </head>
 <body>
 
-<header class="site-head wrap">
-  <div class="site-title-row">
-    <h1>💾 Installer Archive</h1>
+<div class="site-bar">
+  <div class="wrap site-bar-inner">
+    <h1 class="site-name">💾 Installer Archive</h1>
     <button class="link-btn" id="about-btn" type="button">About</button>
   </div>
-  <p class="tagline" id="tagline">Everything The Verge’s <a href="https://www.theverge.com/installer-newsletter" rel="noopener">Installer</a> newsletter has ever recommended.</p>
+</div>
+
+<header class="site-head wrap">
+  <p class="tagline">An unofficial archive of stuff recommended in The Verge’s
+  <a href="https://www.theverge.com/installer-newsletter" rel="noopener">Installer</a> newsletter, updated weekly.</p>
+  <div class="stats">
+    <div class="stat">
+      <span class="stat-num" id="stat-recs">—</span>
+      <span class="stat-label">recommendations</span>
+    </div>
+    <div class="stat">
+      <span class="stat-num" id="stat-issues">—</span>
+      <span class="stat-label">issues</span>
+    </div>
+  </div>
 </header>
 
 <div class="topbar">
@@ -98,6 +112,6 @@
   <form method="dialog"><button class="btn">Close</button></form>
 </dialog>
 
-<script type="module" src="js/app.js?v=5"></script>
+<script type="module" src="js/app.js?v=6"></script>
 </body>
 </html>

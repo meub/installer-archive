@@ -1,6 +1,6 @@
 import MiniSearch from "../vendor/minisearch.js";
-import { readState, writeState, resetState } from "./urlstate.js?v=5";
-import { CATEGORY_LABELS, SECTION_LABELS, sectionLabel, createRenderer, fmtNum } from "./render.js?v=5";
+import { readState, writeState, resetState } from "./urlstate.js?v=6";
+import { CATEGORY_LABELS, SECTION_LABELS, sectionLabel, createRenderer, fmtNum } from "./render.js?v=6";
 
 const $ = (id) => document.getElementById(id);
 const state = readState();
@@ -23,7 +23,8 @@ try {
 const recs = data.recommendations;
 const issuesByDate = new Map(data.issues.map((i) => [i.date, i]));
 
-$("tagline").append(` ${fmtNum(data.rec_count)} recommendations from ${fmtNum(data.issue_count)} issues, updated weekly.`);
+$("stat-recs").textContent = fmtNum(data.rec_count);
+$("stat-issues").textContent = fmtNum(data.issue_count);
 
 // -------------------------------------------------------------- search index
 

@@ -12,12 +12,34 @@ button { font: inherit; color: inherit; }
 .wrap { max-width: 780px; margin: 0 auto; padding: 0 20px; }
 
 /* ---------- header ---------- */
-.site-head { padding-top: 34px; padding-bottom: 6px; }
-.site-title-row { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
-.site-head h1 { font-size: 24px; letter-spacing: -0.02em; margin: 0; }
-.tagline { color: var(--text-muted); margin: 6px 0 14px; }
+.site-bar {
+  background: var(--bg-elev);
+  border-bottom: 1px solid var(--border);
+}
+.site-bar-inner {
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
+  padding-top: 14px; padding-bottom: 14px;
+}
+.site-name { font-size: 17px; letter-spacing: -0.01em; margin: 0; }
+
+.site-head { padding-top: 30px; padding-bottom: 6px; }
+.tagline {
+  color: var(--text-muted); font-size: 15.5px; line-height: 1.5;
+  margin: 0 0 22px; max-width: 560px;
+}
 .tagline a { color: var(--accent); text-decoration: none; }
 .tagline a:hover { text-decoration: underline; }
+
+.stats { display: flex; gap: 48px; margin-bottom: 22px; }
+.stat-num {
+  display: block;
+  font-size: 32px; font-weight: 700; letter-spacing: -0.02em; line-height: 1.1;
+  font-variant-numeric: tabular-nums;
+}
+.stat-label {
+  font-size: 12px; color: var(--text-faint);
+  text-transform: uppercase; letter-spacing: 0.07em;
+}
 
 /* ---------- sticky search bar ---------- */
 .topbar {
@@ -105,9 +127,12 @@ button { font: inherit; color: inherit; }
 .rec-name:hover { color: var(--accent); text-decoration: underline; }
 .rec-name.no-link { font-weight: 600; }
 .badge {
+  display: inline-flex; align-items: center; gap: 4px;
   font-size: 10.5px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase;
   border-radius: 5px; padding: 2px 7px; white-space: nowrap;
 }
+.cat-ico { display: inline-flex; }
+.cat-ico svg { width: 12px; height: 12px; }
 .badge-app     { background: var(--badge-app-bg);     color: var(--badge-app-fg); }
 .badge-game    { background: var(--badge-game-bg);    color: var(--badge-game-fg); }
 .badge-media   { background: var(--badge-media-bg);   color: var(--badge-media-fg); }
@@ -187,7 +212,9 @@ body.admin-on { padding-bottom: 48px; }
 
 @media (max-width: 560px) {
   .wrap { padding: 0 14px; }
-  .site-head { padding-top: 22px; }
+  .site-head { padding-top: 20px; }
+  .stats { gap: 32px; margin-bottom: 16px; }
+  .stat-num { font-size: 26px; }
   .slash-hint { display: none; }
   .rec-head { flex-wrap: wrap; gap: 6px; }
 }
