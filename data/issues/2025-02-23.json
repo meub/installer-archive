@@ -26,8 +26,10 @@
    "alt_urls": [
     "https://www.theverge.com/news/609204/apple-iphone-16e-price-release-date-specs-a18-notch-face-id"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ios"
+   ],
    "blurb": "I’m torn on this one. I like that it’s $599, I like that it has good battery life, I like that it has Face ID and USB-C . But only one camera? And an Action Button but no MagSafe?",
    "section": "the-drop",
    "recommender": null
@@ -78,8 +80,10 @@
    "alt_urls": [
     "https://www.theverge.com/reviews/615107/oppo-find-n5-review-screen-thickness-crease-battery-camera"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "A foldable phone I’ll likely never be able to buy but will lust after nonetheless. It’s impossibly thin, outrageously expensive, and a genuinely exciting sign that foldable design can continue to go cool places.",
    "section": "the-drop",
    "recommender": null
@@ -91,8 +95,10 @@
    "alt_urls": [
     "https://www.theverge.com/news/615854/king-jim-pomera-d250us-distraction-free-writing-tool"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "I have long had romantic ideas about buying a digital typewriter and just buggering off to some Airbnb in the woods to write. This one , from Japanese stationary brand King Jim, is pretty expensive but has a good track record in Japan and looks alarmingly close to the device I’d want it to be.",
    "section": "the-drop",
    "recommender": null
@@ -115,8 +121,12 @@
    "name": "Sober Ringtones",
    "url": "https://sober-ringtones.wize.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "music",
+    "utilities"
+   ],
    "blurb": "This one is specifically for my mother-in-law (hi, Diane!) who has the most ear-splitting ringtone of all time. In her defense, all built-in ringtone options suck. I think you’re a monster if your phone is on anything but vibrate, but I like the sound of these chiller, more melodic options.",
    "section": "the-drop",
    "recommender": null
@@ -129,8 +139,12 @@
     "https://www.theverge.com/entertainment/615584/bbc-radiophonic-workshop-archive",
     "https://www.youtube.com/watch?v=yMvP-cxjPpo"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music",
+    "free",
+    "website"
+   ],
    "blurb": "I confess I knew nothing about the Radiophonic Workshop until I saw this new library of their work appear online, but wow is there a cool (and decades-long) history to this pioneering group of electronic musicians. I’d bet you start to hear some of these old-school sounds show up all over, and soon.",
    "section": "the-drop",
    "recommender": null
@@ -144,8 +158,12 @@
     "https://music.youtube.com/",
     "https://www.qobuz.com/us-en/discover"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "subscription",
+    "cross-platform"
+   ],
    "blurb": "is the clear leader here. Apple Music was a pretty close second though, and the Apple Music users seem a lot happier than the Spotify users… The funniest thing I heard over and over was “I tried YouTube Music because I get it for free, but it’s not very good.” Which, same. I feel you.",
    "section": "group-project",
    "recommender": null
@@ -157,8 +175,12 @@
    "alt_urls": [
     "https://pocketcasts.com/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "subscription",
+    "cross-platform"
+   ],
    "blurb": "You know what got the most effusive love? Tidal ! Tidal’s audio quality was a differentiator for a lot of folks, as was the fact that it’s an app for music and music only. I’m good on podcasts with Pocket Casts , personally, and have been convinced to give Tidal a real try.",
    "section": "group-project",
    "recommender": null
@@ -186,8 +208,12 @@
     "https://roon.app/en/",
     "https://github.com/dweymouth/supersonic"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "cross-platform",
+    "subscription"
+   ],
    "blurb": "and Roon both came up a lot as a way to manage and access your music collection from anywhere. ( Supersonic also has some fans.) Plexamp in particular was probably the most-recommended piece of software in my inbox this week.",
    "section": "group-project",
    "recommender": null
@@ -197,8 +223,12 @@
    "name": "Astiga",
    "url": "https://asti.ga/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "web",
+    "subscription"
+   ],
    "blurb": "There’s also Astiga , which I heard from a few folks is a useful single-player streaming service. Just dump some files somewhere, and stream them on your phone.",
    "section": "group-project",
    "recommender": null
@@ -227,8 +257,13 @@
     "https://www.exactaudiocopy.de/",
     "https://www.mp3tag.de/en/download.html"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "free",
+    "music",
+    "utilities"
+   ],
    "blurb": "and Exact Audio Copy got a lot of love as a way to rip CDs, and Mp3tag seems to be a great way to manage all kinds of tags and metadata.",
    "section": "group-project",
    "recommender": null
@@ -249,8 +284,12 @@
    "name": "Descript",
    "url": "https://www.descript.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "podcast",
+    "video",
+    "subscription"
+   ],
    "blurb": "Descript : The only way we manage to make a podcast. Descript transcribes our audio and makes it super fast to edit, like a combination of Google Docs + ProTools (where we always do our final mix).",
    "section": "screen-share",
    "recommender": "Charlie"
@@ -260,8 +299,12 @@
    "name": "Ableton Live",
    "url": "https://www.ableton.com/en/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "paid",
+    "cross-platform"
+   ],
    "blurb": "Ableton Live : My main Digital Audio Workstation for scoring and sound design. While I also use ProTools and Logic Pro, Live is like an instrument itself and makes creating music so enjoyable.",
    "section": "screen-share",
    "recommender": "Charlie"
@@ -271,8 +314,13 @@
    "name": "Audio Hijack",
    "url": "https://rogueamoeba.com/audiohijack/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "podcast",
+    "paid",
+    "utilities"
+   ],
    "blurb": "Audio Hijack : This lets me capture audio from any source and record it. We’ve recorded the podcast for almost a decade using Hijack, and it has never crashed.",
    "section": "screen-share",
    "recommender": "Charlie"
@@ -282,8 +330,13 @@
    "name": "Loopback",
    "url": "https://rogueamoeba.com/loopback/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "paid",
+    "utilities",
+    "music"
+   ],
    "blurb": "Loopback : This is like a digital mixer that lets me send audio from anywhere to anywhere so I can play music over Zoom, etc.",
    "section": "screen-share",
    "recommender": "Charlie"
@@ -293,8 +346,13 @@
    "name": "Fission",
    "url": "https://rogueamoeba.com/fission/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "paid",
+    "music",
+    "utilities"
+   ],
    "blurb": "Fission : The lightest-weight, easiest-to-use audio editor. It is my default app for whenever I open a piece of audio because I couldn’t stand how long it takes for Apple Music to open and play an MP3 or WAV.",
    "section": "screen-share",
    "recommender": "Charlie"
@@ -304,8 +362,11 @@
    "name": "TickTick",
    "url": "https://ticktick.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "TickTick : My to-do list for everything. I have it connected to Apple Reminders so I can tell my phone things I need to do. My life falls apart without TickTick.",
    "section": "screen-share",
    "recommender": "Charlie"
@@ -328,8 +389,11 @@
    "name": "Major Labels: A History of Popular Music in Seven Genres",
    "url": "https://www.penguinrandomhouse.com/books/576360/major-labels-by-kelefa-sanneh/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "music"
+   ],
    "blurb": "I am on my third read through Major Labels: A History of Popular Music in Seven Genres by Kelefa Sanneh. This is the ultimate text if you want to know the lineage of today’s music.",
    "section": "screen-share",
    "recommender": "Charlie"
@@ -339,8 +403,10 @@
    "name": "Taper’s Choice",
    "url": "https://taperschoice.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "I am on my third read through Major Labels: A History of Popular Music in Seven Genres by Kelefa Sanneh. This is the ultimate text if you want to know the lineage of today’s music.",
    "section": "screen-share",
    "recommender": "Charlie"
@@ -363,8 +429,10 @@
    "name": "Elektron Rytm MKII",
    "url": "https://elektron.se/explore/analog-rytm-mkii",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "I am on my third read through Major Labels: A History of Popular Music in Seven Genres by Kelefa Sanneh. This is the ultimate text if you want to know the lineage of today’s music.",
    "section": "screen-share",
    "recommender": "Charlie"
@@ -374,8 +442,10 @@
    "name": "UDO Super 6",
    "url": "https://www.udo-audio.com/super-6",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "I am on my third read through Major Labels: A History of Popular Music in Seven Genres by Kelefa Sanneh. This is the ultimate text if you want to know the lineage of today’s music.",
    "section": "screen-share",
    "recommender": "Charlie"
@@ -385,8 +455,10 @@
    "name": "the Framework event",
    "url": "https://frame.work/framework-event",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "video"
+   ],
    "blurb": "I’m super excited for the Framework event on the 25th. I picked up a 13-inch Intel Core Ultra laptop when it launched last year and have been loving it. Big fan of Framework’s mission, and I hope this event brings even more people to their products.",
    "section": "crowdsourced",
    "recommender": "Ben (reader)"
@@ -396,7 +468,7 @@
    "name": "13-inch Intel Core Ultra laptop",
    "url": "https://frame.work/laptop13",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I’m super excited for the Framework event on the 25th. I picked up a 13-inch Intel Core Ultra laptop when it launched last year and have been loving it. Big fan of Framework’s mission, and I hope this event brings even more people to their products.",
    "section": "crowdsourced",
@@ -420,8 +492,10 @@
    "name": "The comic",
    "url": "https://imagecomics.com/comics/series/invincible",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’m a big fan of the animated series Invincible on Amazon Prime, which just kicked off its third season.",
    "section": "crowdsourced",
    "recommender": "Jon (reader)"
@@ -431,8 +505,10 @@
    "name": "start of the semiconductor industry",
    "url": "https://www.computerhistory.org/siliconengine/silicon-comes-to-silicon-valley/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "These days I’m reading about the history of Silicon Valley, especially about the start of the semiconductor industry .",
    "section": "crowdsourced",
    "recommender": "Filip (reader)"
@@ -442,8 +518,12 @@
    "name": "Obsidian",
    "url": "https://obsidian.md/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform",
+    "free"
+   ],
    "blurb": "I did a deep dive into Obsidian this week and ended up moving all my Apple Notes over to it. I’m particularly excited about the Graph and Canvas features. It’s like having a second brain. I don’t want to be dramatic, but this might have changed my life.",
    "section": "crowdsourced",
    "recommender": "Nick (reader)"
@@ -453,8 +533,10 @@
    "name": "Eusexua",
    "url": "https://eusexua.fkatwi.gs/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "After the ridiculous enjoyable new album of FKA Twigs — ‘ Eusexua ’ — I discovered two additional Eusexua World Apple Music mixes curated by Koreless and FKA Twigs. Worth a listen. More to come apparently.",
    "section": "crowdsourced",
    "recommender": "Rob (reader)"
@@ -488,8 +570,12 @@
    "name": "Tldraw",
    "url": "https://www.tldraw.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "free",
+    "open-source"
+   ],
    "blurb": "I’m using Tldraw a lot lately — been loving it. It’s basically an infinite canvas but cooler. I really recommend it.",
    "section": "crowdsourced",
    "recommender": "Elouan (reader)"
@@ -499,8 +585,11 @@
    "name": "KDE Neon",
    "url": "https://neon.kde.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free"
+   ],
    "blurb": "Right now, I’m trying out Linux ( KDE Neon for its looks and customization). It definitely takes more time to make it work, but not as much as I feared. I’m positively surprised with its snappiness and better battery life (primarily in sleep mode) compared to Windows.",
    "section": "crowdsourced",
    "recommender": "Jakub (reader)"

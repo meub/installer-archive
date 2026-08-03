@@ -23,7 +23,7 @@
    "name": "Red Dead Redemption",
    "url": "https://www.rockstargames.com/reddeadredemption",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "If you just off-handedly asked me my favorite modern video games, without thinking about it I’d probably say Red Dead and the Arkham Batman series.",
    "section": "the-drop",
@@ -34,8 +34,12 @@
    "name": "Fizzy",
    "url": "https://www.fizzy.do/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "web",
+    "subscription"
+   ],
    "blurb": "From the folks behind Hey and Basecamp, a really nifty new kanban tool that reminds me of Trello, only both more chaotic and much cleaner. It’s really fast, and my brain loves a good project-management board… plus, it’s open-source, so it might spawn some other really fun stuff.",
    "section": "the-drop",
    "recommender": null
@@ -72,8 +76,11 @@
     "https://www.spotify.com/fm/wrapped/",
     "https://blog.google/products/photos/google-photos-2025-recap/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "video",
+    "free"
+   ],
    "blurb": "This is Wrapped Week, so everybody from Spotify to Google Photos is rolling out years in review. I love YouTube’s already, since it just feels the most revealing about my actual personality. It also made it clear that I watch, uh, too much YouTube.",
    "section": "the-drop",
    "recommender": null
@@ -111,8 +118,10 @@
    "name": "Routine",
    "url": "https://www.routinegame.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "windows"
+   ],
    "blurb": "After more than a decade of start-and-stop development, this game turned into an unusual, engrossing, deeply fun and deeply stressful sci-fi title for PC and Xbox. One of those games I can tell I’m going to enjoy just from the vibe of the trailer.",
    "section": "the-drop",
    "recommender": null
@@ -122,8 +131,12 @@
    "name": "Notion Calendar",
    "url": "https://www.notion.com/product/calendar",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform",
+    "free"
+   ],
    "blurb": "This is such a dumb, small thing: Notion finally updated this app so you can hide the right sidebar! Now it’s all calendar and no nonsense. This was already my daily driver calendar app, but for some reason that tiny change makes me like it even more.",
    "section": "the-drop",
    "recommender": null
@@ -144,8 +157,11 @@
    "name": "Jennifer Coolidge Will Destroy You",
    "url": "https://www.wmagazine.com/culture/jennifer-coolidge-daniels-directors-issue-cover-photos",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "photography"
+   ],
    "blurb": "The shots on my main screen were taken from a tokusatsu-inspired photoshoot for W Magazine ’s 2023 feature “ Jennifer Coolidge Will Destroy You .” I absolutely adore Coolidge and kaiju- / mecha-related media, so when I saw the shoot I became kinda obsessed??",
    "section": "screen-share",
    "recommender": "Jess"
@@ -155,8 +171,11 @@
    "name": "Focus Friend",
    "url": "https://focusfriend.me/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "ios"
+   ],
    "blurb": "Some of my current favorite apps include Focus Friend , which is a fun gamified focus timer that helps me keep my ADHD in check, and Next Spaceflight , which tells you about upcoming rocket launches and space missions.",
    "section": "screen-share",
    "recommender": "Jess"
@@ -166,8 +185,12 @@
    "name": "Next Spaceflight",
    "url": "https://nextspaceflight.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "Some of my current favorite apps include Focus Friend , which is a fun gamified focus timer that helps me keep my ADHD in check, and Next Spaceflight , which tells you about upcoming rocket launches and space missions.",
    "section": "screen-share",
    "recommender": "Jess"
@@ -177,8 +200,12 @@
    "name": "Merlin Bird ID",
    "url": "https://merlin.allaboutbirds.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "Some of my current favorite apps include Focus Friend , which is a fun gamified focus timer that helps me keep my ADHD in check, and Next Spaceflight , which tells you about upcoming rocket launches and space missions.",
    "section": "screen-share",
    "recommender": "Jess"
@@ -188,8 +215,12 @@
    "name": "Seek by iNaturalist",
    "url": "https://www.inaturalist.org/pages/seek_app",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "Some of my current favorite apps include Focus Friend , which is a fun gamified focus timer that helps me keep my ADHD in check, and Next Spaceflight , which tells you about upcoming rocket launches and space missions.",
    "section": "screen-share",
    "recommender": "Jess"
@@ -199,8 +230,12 @@
    "name": "MarineTraffic",
    "url": "https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "web"
+   ],
    "blurb": "Some of my current favorite apps include Focus Friend , which is a fun gamified focus timer that helps me keep my ADHD in check, and Next Spaceflight , which tells you about upcoming rocket launches and space missions.",
    "section": "screen-share",
    "recommender": "Jess"
@@ -210,8 +245,12 @@
    "name": "@drinksonmemusic",
    "url": "https://www.tiktok.com/@drinksonmemusic?lang=en",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "social",
+    "music",
+    "video"
+   ],
    "blurb": "I’ve been trying to cut down on my TikTok consumption, but I’ve really been enjoying two accounts lately. The first is @drinksonmemusic , who posts “Beat Battle” challenges with @southbymusic where both lads will make electronic remix tunes based on randomized, often ridiculous prompts.",
    "section": "screen-share",
    "recommender": "Jess"
@@ -221,8 +260,12 @@
    "name": "@southbymusic",
    "url": "https://www.tiktok.com/@southbymusic",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "social",
+    "music",
+    "video"
+   ],
    "blurb": "I’ve been trying to cut down on my TikTok consumption, but I’ve really been enjoying two accounts lately. The first is @drinksonmemusic , who posts “Beat Battle” challenges with @southbymusic where both lads will make electronic remix tunes based on randomized, often ridiculous prompts.",
    "section": "screen-share",
    "recommender": "Jess"
@@ -232,8 +275,11 @@
    "name": "@shef_phoenix",
    "url": "https://www.tiktok.com/@shef_phoenix",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "social",
+    "video"
+   ],
    "blurb": "I’ve been trying to cut down on my TikTok consumption, but I’ve really been enjoying two accounts lately. The first is @drinksonmemusic , who posts “Beat Battle” challenges with @southbymusic where both lads will make electronic remix tunes based on randomized, often ridiculous prompts.",
    "section": "screen-share",
    "recommender": "Jess"
@@ -243,8 +289,12 @@
    "name": "Dropout",
    "url": "https://www.dropout.tv/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv",
+    "subscription",
+    "video"
+   ],
    "blurb": "I’ve been trying to cut down on my TikTok consumption, but I’ve really been enjoying two accounts lately. The first is @drinksonmemusic , who posts “Beat Battle” challenges with @southbymusic where both lads will make electronic remix tunes based on randomized, often ridiculous prompts.",
    "section": "screen-share",
    "recommender": "Jess"
@@ -254,8 +304,10 @@
    "name": "Cerebus the Aardvark",
    "url": "http://www.cerebustheaardvark.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’ve been trying to cut down on my TikTok consumption, but I’ve really been enjoying two accounts lately. The first is @drinksonmemusic , who posts “Beat Battle” challenges with @southbymusic where both lads will make electronic remix tunes based on randomized, often ridiculous prompts.",
    "section": "screen-share",
    "recommender": "Jess"
@@ -265,8 +317,10 @@
    "name": "Hellboy omnibus",
    "url": "https://www.darkhorse.com/books/3002-363/hellboy-omnibus-volume-1-seed-of-destruction-tpb/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’ve been trying to cut down on my TikTok consumption, but I’ve really been enjoying two accounts lately. The first is @drinksonmemusic , who posts “Beat Battle” challenges with @southbymusic where both lads will make electronic remix tunes based on randomized, often ridiculous prompts.",
    "section": "screen-share",
    "recommender": "Jess"
@@ -276,8 +330,10 @@
    "name": "Absolute Batman",
    "url": "https://www.dc.com/graphic-novels/absolute-batman-2024/absolute-batman-vol-1-the-zoo",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’ve been trying to cut down on my TikTok consumption, but I’ve really been enjoying two accounts lately. The first is @drinksonmemusic , who posts “Beat Battle” challenges with @southbymusic where both lads will make electronic remix tunes based on randomized, often ridiculous prompts.",
    "section": "screen-share",
    "recommender": "Jess"
@@ -287,7 +343,7 @@
    "name": "Arc Raiders",
    "url": "https://arcraiders.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Haven’t played online multiplayer shooters since Halo 3 and COD 4 days, but Arc Raiders has turned that all around. Solo or with some friends, this game has been an obsession. Almost at 40 hours of play time and I only got it a few weeks ago.",
    "section": "crowdsourced",
@@ -298,8 +354,11 @@
    "name": "Nomad",
    "url": "https://upbeatsound.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music",
+    "travel"
+   ],
    "blurb": "I just got my Nomad ! Super excited for a rugged portable speaker — and the promise of CarPlay in my Tesla.",
    "section": "crowdsourced",
    "recommender": "Zebulon (reader)"
@@ -309,8 +368,10 @@
    "name": "Tapo Matter switches",
    "url": "https://www.tapo.com/en/product/smart-switch/tapo-s505/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "Switching over more light switches to Tapo Matter switches . Have had some installed for the past six months, and appreciate that they just work when disconnected from Wi-Fi or when we have guests over.",
    "section": "crowdsourced",
    "recommender": "Tim (reader)"
@@ -320,7 +381,7 @@
    "name": "Little Debbie Christmas Tree Cake LED",
    "url": "https://shop.littledebbie.com/pages/christmas-tree-cake-led",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "The Little Debbie Christmas Tree Cake LED . Amazing, and hard to get.",
    "section": "crowdsourced",
@@ -331,8 +392,10 @@
    "name": "Retroid Pocket G2",
    "url": "https://www.goretroid.com/products/retroid-pocket-g2-handheld",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "My Retroid Pocket G2 showed up today. Sean already had an article about Valve funding Fex for Android / PC emulation, and with Winlator and Gamehub, there are some amazing options for emulating steam games on handhelds. Some of them get better performance than a Steam Deck!",
    "section": "crowdsourced",
    "recommender": "Cameron (reader)"
@@ -342,7 +405,7 @@
    "name": "Enterprise",
    "url": "https://www.lego.com/en-us/product/star-trek-u-s-s-enterprise-ncc-1701-d-10356",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "The new Enterprise model from Lego might take the win for IP blend of the year. My geek gauge broke.",
    "section": "crowdsourced",
@@ -353,8 +416,10 @@
    "name": "BenQ ScreenBar Pro",
    "url": "https://www.benq.com/en-us/lighting/monitor-light/screenbar-pro.html",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "Buying a BenQ ScreenBar Pro LED light bar for my monitor was the best home office upgrade I’ve done in a long time. It just mounts on top of your monitor and your webcam mounts on top of the light bar. Very nice light for your workspace and perfect when you’re working late with kids sleeping nearby.",
    "section": "crowdsourced",
    "recommender": "Shady (reader)"
@@ -377,7 +442,7 @@
    "name": "Helldivers 2",
    "url": "https://sonyps.prf.hn/click/camref:1101l5nbBL/pubref:installer/destination:https%3A%2F%2Fwww.playstation.com%2Fen-us%2Fgames%2Fhelldivers-2%2Fpc%2F",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Spreading managed democracy in Helldivers 2 is awesome.",
    "section": "crowdsourced",
@@ -388,8 +453,12 @@
    "name": "Raycast",
    "url": "https://www.raycast.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "mac",
+    "ai"
+   ],
    "blurb": "I’ve written a bunch here in the last few weeks about Raycast , the launcher / note-taker / AI chat / many other things app that has become a key part of my computing life. (I also had Thomas Paul Mann, the company’s CEO, on The Vergecast last weekend .)",
    "section": "signing-off",
    "recommender": null

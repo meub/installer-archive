@@ -27,8 +27,10 @@
     "https://bard.google.com/chat",
     "https://www.theverge.com/2023/12/6/23989591/google-gemini-ai-model-pixel-8-pro-recorder-smart-reply"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai"
+   ],
    "blurb": "Talking to Google CEO Sundar Pichai this week, I got the distinct sense that he sees the new Gemini model as the moment Google starts to win the AI war. Is he right? Who knows! Gemini certainly has its issues.",
    "section": "the-drop",
    "recommender": null
@@ -41,8 +43,10 @@
     "https://www.theverge.com/2023/12/5/23987817/beeper-mini-imessage-android-reverse-engineer",
     "https://www.theverge.com/2023/12/8/23994089/apple-beeper-mini-android-blocked-imessage-app"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
    "blurb": "What a saga this was! The universal messaging app released a new app for Android that did one thing — let you send blue-bubble iMessages — and did it well. So well, it seems, that Apple quickly figured out a way to shut it down . I don’t think we’ve seen the last of this back-and-forth.",
    "section": "the-drop",
    "recommender": null
@@ -52,8 +56,11 @@
    "name": "The Artificial podcast series",
    "url": "https://www.wsj.com/podcasts/the-journal/artificial-episode-1-the-dream/494574b2-9a1d-44d5-a908-adbc5abd97f8",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "ai"
+   ],
    "blurb": "I think every reporter I know is currently digging into the history of OpenAI, trying to figure out how this weirdly structured organization came to be the biggest thing in artificial intelligence.",
    "section": "the-drop",
    "recommender": null
@@ -63,8 +70,11 @@
    "name": "Mammoth 2",
    "url": "https://getmammoth.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "ios"
+   ],
    "blurb": "I’ve used a lot of Mastodon apps, and this is my new favorite. Mammoth is nice-looking and fast but also really devoted to helping you find good people and posts on the platform. It’s only for Apple devices, which is a bummer, but it’s a really nice app.",
    "section": "the-drop",
    "recommender": null
@@ -89,8 +99,10 @@
    "alt_urls": [
     "https://www.theverge.com/2023/12/7/23990660/lego-fortnite-release-epic"
    ],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "free"
+   ],
    "blurb": "I played a lot of OG Fortnite recently and actually loved the game minus all the tie-ins and branded stuff. But this is something else : a massive new island and almost an entirely new game within Fortnite . I’ve only played it a bit, but it’s very cool.",
    "section": "the-drop",
    "recommender": null
@@ -117,8 +129,12 @@
    "alt_urls": [
     "https://www.fastcompany.com/90993539/disney-plus-hulu-integration-beta"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "tv",
+    "beta",
+    "subscription"
+   ],
    "blurb": "Disney’s combined streaming service is now in beta testing, which means you might start to see a Hulu tab inside of your Disney app. Fast Company has a fun story on all the unexpected challenges of shoving two services together like this, but ultimately, it looks pretty simple.",
    "section": "the-drop",
    "recommender": null
@@ -128,8 +144,11 @@
    "name": "Visual Electric",
    "url": "https://visualelectric.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web"
+   ],
    "blurb": "A new and clever riff on AI image generation — this one gives you all kinds of dynamic control, so instead of prompting and re-prompting, you can tweak your images almost as if you’re in Photoshop.",
    "section": "the-drop",
    "recommender": null
@@ -174,8 +193,10 @@
    "name": "the Silo trilogy of books",
    "url": "https://www.harpercollins.com/products/wool-hugh-howey?variant=39935376982050",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’ve been reading the Silo trilogy of books about a decade late, and I’m about a third of the way through the last one, Dust . I loved the show on Apple TV Plus earlier this year, and I’ve been really enjoying the books, which have similar vibes, even if the story doesn’t line up 1:1 with the show.",
    "section": "screen-share",
    "recommender": "Dan"
@@ -185,8 +206,10 @@
    "name": "Dust",
    "url": "https://www.harpercollins.com/products/dust-hugh-howey?variant=39936037191714",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’ve been reading the Silo trilogy of books about a decade late, and I’m about a third of the way through the last one, Dust . I loved the show on Apple TV Plus earlier this year, and I’ve been really enjoying the books, which have similar vibes, even if the story doesn’t line up 1:1 with the show.",
    "section": "screen-share",
    "recommender": "Dan"
@@ -220,7 +243,7 @@
    "name": "a MagSafe ring sticker",
    "url": "https://www.spigen.com/products/magsafe-metal-plate",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I’ve been reading the Silo trilogy of books about a decade late, and I’m about a third of the way through the last one, Dust . I loved the show on Apple TV Plus earlier this year, and I’ve been really enjoying the books, which have similar vibes, even if the story doesn’t line up 1:1 with the show.",
    "section": "screen-share",
@@ -231,7 +254,7 @@
    "name": "a second MagSafe ring",
    "url": "https://www.threads.net/@danseifert/post/C0CIfm1LUsu",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I’ve been reading the Silo trilogy of books about a decade late, and I’m about a third of the way through the last one, Dust . I loved the show on Apple TV Plus earlier this year, and I’ve been really enjoying the books, which have similar vibes, even if the story doesn’t line up 1:1 with the show.",
    "section": "screen-share",
@@ -242,7 +265,7 @@
    "name": "Crokinole",
    "url": "https://crokinole.ca/collections/crokinole-boards",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "I was just introduced to the Canadian ‘board game’ Crokinole , and it’s pretty rad. The boards are the size of a small table.",
    "section": "crowdsourced",
@@ -253,8 +276,12 @@
    "name": "Omnivore",
    "url": "https://omnivore.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "free",
+    "newsletter"
+   ],
    "blurb": "Throwback to an earlier Installer that brought up Omnivore as a read-it-later service. I have since moved all of my newsletters (including Installer ) over to Omnivore and out of my standard email inbox.",
    "section": "crowdsourced",
    "recommender": "Nicholas (reader)"
@@ -288,8 +315,10 @@
    "name": "this little device",
    "url": "https://www.starlinghome.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "The Vergecast reminded me that this little device has connected my Nest devices to Apple HomeKit for over three years without breaking once. I forgot I even used it in my setup.",
    "section": "crowdsourced",
    "recommender": "Chris (reader)"
@@ -299,8 +328,11 @@
    "name": "Informed",
    "url": "https://www.informed.so/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "article"
+   ],
    "blurb": "Informed . It’s a kinda new news app. Looks super clean. Articles don’t refresh as often as I’d like. Still rocking with it though.",
    "section": "crowdsourced",
    "recommender": "Omar (reader)"
@@ -310,8 +342,12 @@
    "name": "DuckDuckGo",
    "url": "https://duckduckgo.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "web",
+    "cross-platform"
+   ],
    "blurb": "Using DuckDuckGo / Firefox Relay to remove trackers from emails and clean up links. Useful for newsletters or shopping websites.",
    "section": "crowdsourced",
    "recommender": "Lucens (reader)"
@@ -321,8 +357,12 @@
    "name": "Firefox Relay",
    "url": "https://relay.firefox.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "web",
+    "utilities"
+   ],
    "blurb": "Using DuckDuckGo / Firefox Relay to remove trackers from emails and clean up links. Useful for newsletters or shopping websites.",
    "section": "crowdsourced",
    "recommender": "Lucens (reader)"
@@ -332,7 +372,7 @@
    "name": "Wacaco Picopresso",
    "url": "https://www.wacaco.com/products/picopresso",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Been loving the espresso I’ve been making this week with my new Wacaco Picopresso .",
    "section": "crowdsourced",
@@ -343,8 +383,11 @@
    "name": "NowPlaying",
    "url": "https://nowplaying.page/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "ios"
+   ],
    "blurb": "I’d like to recommend NowPlaying . This app is the most beautiful way to detect fun details about any song, album, or artist.",
    "section": "crowdsourced",
    "recommender": "Hidde (reader)"
@@ -354,8 +397,10 @@
    "name": "the Excel World Championships",
    "url": "https://fmworldcup.com/the-active-cell/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
    "blurb": "I’m writing to you this week from Las Vegas, where one of the year’s great sporting events is taking place. No, not that one. Not that one, either. Yes! It’s the Excel World Championships !",
    "section": "signing-off",
    "recommender": null

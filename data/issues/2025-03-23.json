@@ -23,8 +23,10 @@
    "name": "The Core 2 Duo",
    "url": "https://store.repebble.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "kickstarter"
+   ],
    "blurb": "I have so many fond memories of Pebble smartwatches, which combined features, battery life, and simplicity better than basically anything I’ve used since. And now they’re back! They’re not called Pebbles, but they’re Pebbles.",
    "section": "the-drop",
    "recommender": null
@@ -34,7 +36,7 @@
    "name": "Assassin’s Creed Shadows",
    "url": "https://www.ubisoft.com/en-us/game/assassins-creed/shadows",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "There are three game franchises I will always try any new version of, no matter what, and Assassin’s Creed is one of them. There have been some disappointments, but this isn’t one of them — there’s no wheel-reinvention happening here, but the game is huge, gorgeous, and exactly what I want it to be.",
    "section": "the-drop",
@@ -60,8 +62,10 @@
    "alt_urls": [
     "https://www.theverge.com/news/632509/google-pixel-9a-quality-issue-delay"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "I almost didn’t include this one, because you can’t actually buy it yet thanks to some ongoing hardware weirdness that Google ought to be a lot more forthcoming about.",
    "section": "the-drop",
    "recommender": null
@@ -71,8 +75,11 @@
    "name": "Tweek",
    "url": "https://tweek.so/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "Tweek is one of my favorite super-simple planner apps, except I’ve always hated it on mobile. Now it has some new views and design tweaks that make it really nice on mobile! I hate how much I want to go back and throw my life into this app.",
    "section": "the-drop",
    "recommender": null
@@ -100,8 +107,10 @@
     "https://www.theverge.com/news/633093/fujifilm-gfx100rf-camera-features-price",
     "https://www.youtube.com/watch?v=Nmdqa82SVPY"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography"
+   ],
    "blurb": "Love seeing Fujifilm take its gorgeous X100 fixed-lens vibe and start adding it to its other camera lines. In this case, a medium format GFX camera with both looks and specs to spare. Yeah, yeah, yeah, it’s $4,900. I can still hope someone steals me one.",
    "section": "the-drop",
    "recommender": null
@@ -111,8 +120,10 @@
    "name": "Gemini Canvas",
    "url": "https://gemini.google.com/canvas",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai"
+   ],
    "blurb": "I hear all the time that these live-updating canvas views are a great way to interact with AI bots — and Google’s version of the feature is instantly one of the most accessible and straightforward canvas tools I’ve seen. Gemini is… kind of good?",
    "section": "the-drop",
    "recommender": null
@@ -159,8 +170,10 @@
    "name": "Formula 1",
    "url": "https://prf.hn/click/camref:1100l3D7Gy/%5Bp_id:1011l394533%5D/destination:https%3A%2F%2Fwww.formula1.com%2F",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "Severance . Fun fact: because season 1 had nine episodes, and last week’s episode was the ninth and ended on the exact same line, I was dead sure I’d just watched the season 2 finale… and spent an entire day feeling utterly frustrated. Drive to Survive and Formula 1 .",
    "section": "screen-share",
    "recommender": "Greg"
@@ -183,7 +196,7 @@
    "name": "Targz’s",
    "url": "https://shop.targz.fr/blogs/pen-plotter-updates",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Severance . Fun fact: because season 1 had nine episodes, and last week’s episode was the ninth and ended on the exact same line, I was dead sure I’d just watched the season 2 finale… and spent an entire day feeling utterly frustrated. Drive to Survive and Formula 1 .",
    "section": "screen-share",
@@ -194,7 +207,7 @@
    "name": "exhibition",
    "url": "https://shop.targz.fr/blogs/pen-plotter-updates/plotting-my-way-into-the-grand-palais",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Severance . Fun fact: because season 1 had nine episodes, and last week’s episode was the ninth and ended on the exact same line, I was dead sure I’d just watched the season 2 finale… and spent an entire day feeling utterly frustrated. Drive to Survive and Formula 1 .",
    "section": "screen-share",
@@ -205,8 +218,10 @@
    "name": "timelapse",
    "url": "https://www.instagram.com/p/DDIYGfCNqwu/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
    "blurb": "Severance . Fun fact: because season 1 had nine episodes, and last week’s episode was the ninth and ended on the exact same line, I was dead sure I’d just watched the season 2 finale… and spent an entire day feeling utterly frustrated. Drive to Survive and Formula 1 .",
    "section": "screen-share",
    "recommender": "Greg"
@@ -216,8 +231,10 @@
    "name": "videos",
    "url": "https://www.instagram.com/p/DEvMx6dNvdQ/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
    "blurb": "Severance . Fun fact: because season 1 had nine episodes, and last week’s episode was the ninth and ended on the exact same line, I was dead sure I’d just watched the season 2 finale… and spent an entire day feeling utterly frustrated. Drive to Survive and Formula 1 .",
    "section": "screen-share",
    "recommender": "Greg"
@@ -227,8 +244,10 @@
    "name": "Imagining Arc",
    "url": "https://pod.link/1758984150",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "Severance . Fun fact: because season 1 had nine episodes, and last week’s episode was the ninth and ended on the exact same line, I was dead sure I’d just watched the season 2 finale… and spent an entire day feeling utterly frustrated. Drive to Survive and Formula 1 .",
    "section": "screen-share",
    "recommender": "Greg"
@@ -251,8 +270,10 @@
    "name": "Supernote Nomad",
    "url": "https://supernote.com/pages/supernote-nomad",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "book"
+   ],
    "blurb": "I just picked up a Supernote Nomad , which is hitting the sweet spot for an e-ink reader and notetaker for me. Being able to read EPUBs and PDFs while drawing on them like a physical book is exactly what I want out of an e-reader.",
    "section": "crowdsourced",
    "recommender": "Sage (reader)"
@@ -262,8 +283,13 @@
    "name": "Calibre",
    "url": "https://calibre-ebook.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "book",
+    "cross-platform"
+   ],
    "blurb": "I just picked up a Supernote Nomad , which is hitting the sweet spot for an e-ink reader and notetaker for me. Being able to read EPUBs and PDFs while drawing on them like a physical book is exactly what I want out of an e-reader.",
    "section": "crowdsourced",
    "recommender": "Sage (reader)"
@@ -273,8 +299,10 @@
    "name": "customizing the epub formatting",
    "url": "https://www.reddit.com/r/Supernote/comments/1990lg3/after_some_trial_and_error_ive_landed_on_my_ideal/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "book"
+   ],
    "blurb": "I just picked up a Supernote Nomad , which is hitting the sweet spot for an e-ink reader and notetaker for me. Being able to read EPUBs and PDFs while drawing on them like a physical book is exactly what I want out of an e-reader.",
    "section": "crowdsourced",
    "recommender": "Sage (reader)"
@@ -284,8 +312,10 @@
    "name": "custom font",
    "url": "https://djr.com/fern",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "book"
+   ],
    "blurb": "I just picked up a Supernote Nomad , which is hitting the sweet spot for an e-ink reader and notetaker for me. Being able to read EPUBs and PDFs while drawing on them like a physical book is exactly what I want out of an e-reader.",
    "section": "crowdsourced",
    "recommender": "Sage (reader)"
@@ -295,8 +325,11 @@
    "name": "Derrick Gee",
    "url": "https://www.patreon.com/gee_derrick",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music",
+    "subscription"
+   ],
    "blurb": "I recently stopped relying on algorithms for music discovery and instead I subscribed to a Patreon for a (don’t like this term but) tastemaker named Derrick Gee .",
    "section": "crowdsourced",
    "recommender": "Mike (reader)"
@@ -319,8 +352,12 @@
    "name": "Ladder",
    "url": "https://www.joinladder.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness",
+    "ios",
+    "subscription"
+   ],
    "blurb": "I’ve been using Ladder , and I’ve found it generally perfect. My coach drops six workouts each week and prioritizes three. On top of this, the iOS app is such a great experience.",
    "section": "crowdsourced",
    "recommender": "Kevin (reader)"
@@ -330,8 +367,11 @@
    "name": "URList",
    "url": "https://urlist.xyz/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "productivity"
+   ],
    "blurb": "URList , a little tool for making lists.",
    "section": "crowdsourced",
    "recommender": "Itay (reader)"
@@ -354,8 +394,10 @@
    "name": "this 1970’s BBC documentary",
    "url": "https://www.bbc.co.uk/programmes/p01z4rrj",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
    "blurb": "I was absolutely fascinated by this 1970’s BBC documentary about how the coming age of the microchip would lead to ‘our children growing up without jobs to go to.’ Interesting echoes of the AI debate.",
    "section": "crowdsourced",
    "recommender": "Mike (reader)"
@@ -365,8 +407,10 @@
    "name": "Into the Aether",
    "url": "https://intothecast.online/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "This week I am happily listening to Into the Aether , a low-key video game podcast. They are known for marathon GOTY-casts and console retrospectives. This week they announced they’re joining a podcast network, so I’m just really happy for them.",
    "section": "crowdsourced",
    "recommender": "Dan (reader)"
@@ -376,7 +420,7 @@
    "name": "Shashingo",
    "url": "https://shashingo.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I’m going to Japan next week for my honeymoon, and have been using a couple tools to pick up basic Japanese. One of them is a game, Shashingo , which helps you learn through photography.",
    "section": "crowdsourced",
@@ -439,8 +483,11 @@
    "name": "The Imagineering Story",
    "url": "https://ondisneyplus.disney.com/show/the-imagineering-story",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv",
+    "video"
+   ],
    "blurb": "One of my favorite niche genres of YouTube is “I got a tour of a Disney lab.” There are tons of these videos out there — Cleo Abram and CrunchLabs both published some in the last two weeks, The Wall Street Journal and MKBHD did them last year, and there are so many more a quick search away — and I…",
    "section": "signing-off",
    "recommender": null

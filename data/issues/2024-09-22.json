@@ -23,8 +23,12 @@
    "name": "SocialAI",
    "url": "https://socialai.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "ios",
+    "social"
+   ],
    "blurb": "The reaction to this “social network” for iOS, where you post and a thousand AI bots immediately reply, was so funny. Some people loved it, some hated it, half seemed to think it was a joke. It’s not a joke, and it’s actually a really thoughtful take on how to interact with LLMs.",
    "section": "the-drop",
    "recommender": null
@@ -34,8 +38,11 @@
    "name": "Character Limit: How Elon Musk Destroyed Twitter",
    "url": "https://www.penguinrandomhouse.com/books/737290/character-limit-by-kate-conger-and-ryan-mac/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "social"
+   ],
    "blurb": "An excellent addition to the canon of books about Musk’s takeover and overhaul of the social network we once knew. There’s a lot of great new detail in here about the chaos of becoming X, too — a really good read.",
    "section": "the-drop",
    "recommender": null
@@ -48,8 +55,12 @@
     "https://www.spectacles.com/?lang=en-US",
     "https://www.theverge.com/2024/9/17/24246999/snapchat-redesign-three-tabs-stories-spotlight"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "social",
+    "ios",
+    "android"
+   ],
    "blurb": "I’d love to tell you to buy Snap’s new Spectacles , but they’re ridiculous and also not available for regular people to buy. But you will be able to get Snapchat’s new design , which is so much cleaner and more approachable than the app has been in recent years.",
    "section": "the-drop",
    "recommender": null
@@ -61,8 +72,10 @@
    "alt_urls": [
     "https://www.theverge.com/2024/9/18/24247961/bose-quietcomfort-earbuds-announced"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "The AirPods 4 got all the shine this week, but I’ve been a fan of Bose’s earbuds for a while — they sound great, they have great battery, and I love the new “Hey headphones” wake word on the new model. And at $179, these are a solid Apple alternative.",
    "section": "the-drop",
    "recommender": null
@@ -98,8 +111,12 @@
    "name": "Tripsy 3.0",
    "url": "https://tripsy.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "travel",
+    "ios",
+    "productivity"
+   ],
    "blurb": "I’m traveling a lot this fall, so I’m back on the hunt for a good place to put all my confirmation numbers, flight details, and expenses. Tripit is fine, but Tripsy looks way better. I’m also into the map view, which is a surprisingly helpful way to plot out a day.",
    "section": "the-drop",
    "recommender": null
@@ -124,7 +141,7 @@
    "name": "UFO 50",
    "url": "https://50games.fun/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "A bunch of developers in 2024 decided to make a bunch of games that look like they’re from the 1980s. Taken together, what they made is kind of a historical document about gaming but also just, like, a bunch of really fun retro-style games. Such a cool concept.",
    "section": "the-drop",
@@ -161,8 +178,11 @@
    "name": "Threes",
    "url": "http://play.threesgame.com/’",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "Everything I need is on the front page: from games to exercise stuff, apps for watching TV and playing music, social media platforms, and so on.",
    "section": "screen-share",
    "recommender": "Alex"
@@ -172,8 +192,12 @@
    "name": "Pinball Map",
    "url": "https://pinballmap.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "Pinball Map . I love pinball. But loving pinball means you’re a pinball snob and you like certain games better than others.",
    "section": "screen-share",
    "recommender": "Alex"
@@ -183,7 +207,7 @@
    "name": "Koala",
    "url": "https://www.koalasampler.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "app",
    "tags": [],
    "blurb": "Pinball Map . I love pinball. But loving pinball means you’re a pinball snob and you like certain games better than others.",
    "section": "screen-share",
@@ -194,8 +218,10 @@
    "name": "Erica Synths’ LXR-02",
    "url": "https://www.ericasynths.lv/shop/standalone-instruments-1/drum-synthesizer-lxr-02/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "Pinball Map . I love pinball. But loving pinball means you’re a pinball snob and you like certain games better than others.",
    "section": "screen-share",
    "recommender": "Alex"
@@ -205,8 +231,11 @@
    "name": "WFMU’s Beware of the Blog",
    "url": "https://blog.wfmu.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music",
+    "website"
+   ],
    "blurb": "Pinball Map . I love pinball. But loving pinball means you’re a pinball snob and you like certain games better than others.",
    "section": "screen-share",
    "recommender": "Alex"
@@ -268,8 +297,10 @@
    "name": "Hild",
    "url": "https://nicolagriffith.com/2014/02/26/hild/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Hild is the best historical fiction I’ve ever read in my whole life. Anyone jonesing for Game of Thrones but IRL (ish) who is also a fan of Tolkien’s references to ancient languages of Britain / Anglos / Saxons / old Norse will love it.",
    "section": "crowdsourced",
    "recommender": "Christopher (reader)"
@@ -279,8 +310,10 @@
    "name": "Caravan SandWitch",
    "url": "https://caravansandwitch.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "cross-platform"
+   ],
    "blurb": "Caravan SandWitch is a wonderful cozy game. It’s on everything and is just lovely.",
    "section": "crowdsourced",
    "recommender": "Iain (reader)"
@@ -290,8 +323,12 @@
    "name": "NotebookLM",
    "url": "https://notebooklm.google.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web",
+    "productivity"
+   ],
    "blurb": "Played around with NotebookLM from Google. One fun but helpful use case is to take research papers and generate podcasts. I’ve been reading a bunch of complex ML papers as an engineering student, so I convert them into podcasts and listen on my commute. Certainly interesting TTS application.",
    "section": "crowdsourced",
    "recommender": "Kruti (reader)"
@@ -340,8 +377,13 @@
    "name": "Things 3",
    "url": "https://culturedcode.com/things/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "productivity",
+    "paid"
+   ],
    "blurb": "After years of loyalty to Things 3 , I bit the bullet and moved over to Todoist . Natural language input is a big factor, but also fed up with long lists in Things — kanban in Todoist breaks things up nicely. I do miss the UI of Things though.",
    "section": "crowdsourced",
    "recommender": "Scott (reader)"
@@ -351,8 +393,11 @@
    "name": "RocketJump",
    "url": "https://rocketjump.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "movie"
+   ],
    "blurb": "It’s been great following along with RocketJump on their Patreon as they write, plan, and produce their independent action-comedy film! They go really in-depth on everything from location planning to studio pitch decks.",
    "section": "crowdsourced",
    "recommender": "Josh (reader)"
@@ -373,8 +418,10 @@
    "name": "D4vd",
    "url": "https://www.d4vd.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "On Wednesday, I was at the Made on YouTube event in New York City (the crowd was made up of me and like 200 extremely cool and fun creators), where CEO Neal Mohan and a bunch of other executives rolled out some new features.",
    "section": "signing-off",
    "recommender": null
@@ -397,8 +444,10 @@
    "name": "a great GQ interview",
    "url": "https://www.gq.com/story/d4vd-petals-to-thorns-interview",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "On Wednesday, I was at the Made on YouTube event in New York City (the crowd was made up of me and like 200 extremely cool and fun creators), where CEO Neal Mohan and a bunch of other executives rolled out some new features.",
    "section": "signing-off",
    "recommender": null
@@ -408,8 +457,11 @@
    "name": "here’s his TikTok",
    "url": "https://www.tiktok.com/@d4vdd?lang=en",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "social",
+    "video"
+   ],
    "blurb": "On Wednesday, I was at the Made on YouTube event in New York City (the crowd was made up of me and like 200 extremely cool and fun creators), where CEO Neal Mohan and a bunch of other executives rolled out some new features.",
    "section": "signing-off",
    "recommender": null

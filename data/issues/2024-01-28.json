@@ -35,8 +35,11 @@
    "name": "Lumiere",
    "url": "https://lumiere-video.github.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "video"
+   ],
    "blurb": "Google Research just kind of quietly dropped a new image-to-video AI model, which it calls “a space-time diffusion model for video generation,” which is an extremely cool thing to call it. As far as I can tell, you can’t actually use it yet, but its results look pretty impressive.",
    "section": "the-drop",
    "recommender": null
@@ -48,8 +51,10 @@
    "alt_urls": [
     "https://www.youtube.com/watch?v=vRbODU9Tz_g&t=18s"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography"
+   ],
    "blurb": "Quite the name, and quite the price — $8,200! — but also quite the camera. As smartphone cameras continue to eat everything, I love watching high-end cameras get even more beautiful, even more impressive, and even more… real? Non-AI-y?",
    "section": "the-drop",
    "recommender": null
@@ -62,8 +67,10 @@
     "https://www.theverge.com/2024/1/24/24049317/google-pixel-8-pro-mint-color-announced-hands-on",
     "https://www.theverge.com/2024/1/23/24048246/pixel-9-pro-leak-specs-google"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "I own a black iPhone, and it’s boring and lame and I wish it looked a lot more like this . Bring back phones with cool, vibrant, unusual colors! I don’t know that I’d buy this one — I mean, Pixel 9 leaks are already happening — but I dig the look.",
    "section": "the-drop",
    "recommender": null
@@ -88,8 +95,11 @@
     "https://www.20k.org/episodes/autotone",
     "https://www.20k.org/episodes/tiktalk"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "free"
+   ],
    "blurb": "This podcast has done a bunch of really great deep dives on tech sounds over the years, like the Netflix sound and the noises electric cars make and the omnipresent TikTok narrator . This one, on the sound you hear every time you open Hulu, is another great entrant in the series.",
    "section": "the-drop",
    "recommender": null
@@ -112,8 +122,11 @@
    "name": "Transcripts for Apple Podcasts",
    "url": "https://podcasters.apple.com/support/5316-transcripts-on-apple-podcasts",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "podcast",
+    "ios"
+   ],
    "blurb": "I’ve been a very happy Pocket Casts user for a long time, and this feature — which generates transcripts for every episode you listen to and scrolls them live like they’re song lyrics — is the first thing I’ve ever been jealous of. Every podcast app should do this.",
    "section": "the-drop",
    "recommender": null
@@ -123,8 +136,10 @@
    "name": "An Away suitcase",
    "url": "https://www.pntra.com/t/8-11514-88849-155614?sid=verge012624&url=https%3A%2F%2Fwww.awaytravel.com%2Fsuitcases%2Fmedium%3Fcolor%3Dnavy",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "travel"
+   ],
    "blurb": ", medium sized.",
    "section": "setups",
    "recommender": null
@@ -136,8 +151,11 @@
    "alt_urls": [
     "https://www.peakdesign.com/products/camera-cube"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "travel",
+    "photography"
+   ],
    "blurb": ", with two camera cubes inside.",
    "section": "setups",
    "recommender": null
@@ -147,8 +165,11 @@
    "name": "Sony A7S III",
    "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce7sm3-b",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "video",
+    "photography"
+   ],
    "blurb": "In one cube: a Sony A7S III camera. “My main filming angle.”",
    "section": "setups",
    "recommender": null
@@ -158,8 +179,11 @@
    "name": "Sony A7C",
    "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce7c-b",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography",
+    "video"
+   ],
    "blurb": "In the other cube: a Sony A7C . “With a 50mm lens, with an extra lens. That’s my photo camera, and it means if I want to do a podcast, I have double cameras, double angles.”",
    "section": "setups",
    "recommender": null
@@ -171,8 +195,11 @@
    "alt_urls": [
     "https://www.shure.com/en-US/products/microphones/mv7?variant=MV7-K"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "video",
+    "podcast"
+   ],
    "blurb": "Two mics: a Sennheiser MKH 416 shotgun mic and a Shure MV7 podcast mic.",
    "section": "setups",
    "recommender": null
@@ -182,8 +209,11 @@
    "name": "Falcon Eyes Rollflex",
    "url": "https://www.falconeyeshk.com/post/rollflex-iii-3rd-gen-led-flex-light",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "video",
+    "photography"
+   ],
    "blurb": "A Falcon Eyes Rollflex light. “It’s a rollable LED panel with a softbox that folds down into like a third of a half of a suitcase. People are always like, ‘Whoa, how does your camera look so good?’ And it’s because of the light. That light is incredible.”",
    "section": "setups",
    "recommender": null
@@ -193,8 +223,11 @@
    "name": "Manfrotto Nano",
    "url": "https://www.manfrotto.com/global/nano-lighting-stand-black-5001b-1/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "video",
+    "photography"
+   ],
    "blurb": "A Manfrotto Nano light stand. “Which weighs almost nothing.”",
    "section": "setups",
    "recommender": null
@@ -228,8 +261,11 @@
    "name": "Noto",
    "url": "https://www.noteapps.ca/noto/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "Noto is a lovely indie note-taking app built by a Pinterest engineer. Very interesting scroll interactions and overall interesting information hierarchy. Haptic is a small app designed by my friend Alexey Sekachov . He is one of the best designers I know. Ice Rage is a random old game I love.",
    "section": "screen-share",
    "recommender": "Dennis"
@@ -252,8 +288,10 @@
    "name": "Alexey Sekachov",
    "url": "https://twitter.com/sekachov",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "website"
+   ],
    "blurb": "Noto is a lovely indie note-taking app built by a Pinterest engineer. Very interesting scroll interactions and overall interesting information hierarchy. Haptic is a small app designed by my friend Alexey Sekachov . He is one of the best designers I know. Ice Rage is a random old game I love.",
    "section": "screen-share",
    "recommender": "Dennis"
@@ -276,8 +314,11 @@
    "name": "Zenly",
    "url": "https://zenly.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "ios"
+   ],
    "blurb": "Noto is a lovely indie note-taking app built by a Pinterest engineer. Very interesting scroll interactions and overall interesting information hierarchy. Haptic is a small app designed by my friend Alexey Sekachov . He is one of the best designers I know. Ice Rage is a random old game I love.",
    "section": "screen-share",
    "recommender": "Dennis"
@@ -287,8 +328,11 @@
    "name": "Honk",
    "url": "https://honk.me/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "ios"
+   ],
    "blurb": "Noto is a lovely indie note-taking app built by a Pinterest engineer. Very interesting scroll interactions and overall interesting information hierarchy. Haptic is a small app designed by my friend Alexey Sekachov . He is one of the best designers I know. Ice Rage is a random old game I love.",
    "section": "screen-share",
    "recommender": "Dennis"
@@ -298,8 +342,11 @@
    "name": "Family",
    "url": "https://family.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "social"
+   ],
    "blurb": "Noto is a lovely indie note-taking app built by a Pinterest engineer. Very interesting scroll interactions and overall interesting information hierarchy. Haptic is a small app designed by my friend Alexey Sekachov . He is one of the best designers I know. Ice Rage is a random old game I love.",
    "section": "screen-share",
    "recommender": "Dennis"
@@ -309,8 +356,10 @@
    "name": "Amie",
    "url": "https://amie.so/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "Dennis , an app I built for myself. I believe modern artists use software, not paint. It’s an app with the simplest interface ever. It uses your camera, and there are no buttons. You can press anywhere on the screen, and that will record a 0.2-second clip.",
    "section": "screen-share",
    "recommender": "Dennis"
@@ -320,8 +369,11 @@
    "name": "Stardew Valley",
    "url": "https://www.gq.com/story/stardew-valley-eric-barone-profile",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "web"
+   ],
    "blurb": "My favorite article on the internet is on Stardew Valley by GQ . I wish everyone used the Hemingway app to improve their writing. Mainly to shorten sentences. I’m obsessed with @nikolaisavic on TikTok. His video transitions are crazyyy. This Are.na board was a huge inspo for us.",
    "section": "screen-share",
    "recommender": "Dennis"
@@ -331,8 +383,11 @@
    "name": "Hemingway app",
    "url": "https://beta.hemingwayapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "web"
+   ],
    "blurb": "My favorite article on the internet is on Stardew Valley by GQ . I wish everyone used the Hemingway app to improve their writing. Mainly to shorten sentences. I’m obsessed with @nikolaisavic on TikTok. His video transitions are crazyyy. This Are.na board was a huge inspo for us.",
    "section": "screen-share",
    "recommender": "Dennis"
@@ -342,8 +397,10 @@
    "name": "@nikolaisavic",
    "url": "https://www.tiktok.com/@nikolaisavic",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "social"
+   ],
    "blurb": "My favorite article on the internet is on Stardew Valley by GQ . I wish everyone used the Hemingway app to improve their writing. Mainly to shorten sentences. I’m obsessed with @nikolaisavic on TikTok. His video transitions are crazyyy. This Are.na board was a huge inspo for us.",
    "section": "screen-share",
    "recommender": "Dennis"
@@ -353,8 +410,10 @@
    "name": "This Are.na board",
    "url": "https://www.are.na/a-sta/we-drink-light",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "website"
+   ],
    "blurb": "My favorite article on the internet is on Stardew Valley by GQ . I wish everyone used the Hemingway app to improve their writing. Mainly to shorten sentences. I’m obsessed with @nikolaisavic on TikTok. His video transitions are crazyyy. This Are.na board was a huge inspo for us.",
    "section": "screen-share",
    "recommender": "Dennis"
@@ -375,8 +434,11 @@
    "name": "Reminders Smart List",
    "url": "https://support.apple.com/guide/iphone/use-smart-lists-iphe882772ed/ios",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "Something dead simple but so helpful — a shared Reminders Smart List on iOS. My gf and I moved in last fall and wanted an easy way to keep track of groceries as we alternate who goes. Nice use of AI without trying to be more than a shopping list.",
    "section": "crowdsourced",
    "recommender": "Connor (reader)"
@@ -423,8 +485,10 @@
    "name": "Small Fry",
    "url": "https://lisabrennanjobs.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’m really enjoying the memoir Small Fry by Lisa Brennan-Jobs! Steve Jobs’ daughter shares a personal, more down-to-earth experience with the person the world idolizes. I think it humanizes him, which doesn’t necessarily detract from his impact on the world but makes it more well-rounded.",
    "section": "crowdsourced",
    "recommender": "Ben (reader)"
@@ -460,8 +524,10 @@
    "name": "SuperBetter",
    "url": "https://superbetter.com/our-story/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I am currently reading SuperBetter , which is a book about the power of games and how a gameful approach to life would do us good. Also, I have been watching Citizen Khan , a British comedy show about a British Pakistani named Mr. Khan.",
    "section": "crowdsourced",
    "recommender": "Clive (reader)"
@@ -484,7 +550,7 @@
    "name": "Neo70s",
    "url": "https://www.qwertykeys.com/products/neo70",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Really been enjoying building and rebuilding my Neo70s , in-stock FRL TKL keyboards.",
    "section": "crowdsourced",
@@ -560,8 +626,10 @@
    "name": "a Power Mac G4 Cube",
    "url": "https://en.wikipedia.org/wiki/Power_Mac_G4_Cube",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "mac"
+   ],
    "blurb": "Also, everyone’s been sharing stories about their first Macs, so here’s mine. I grew up on Windows, and when I decided I wanted a Mac, I didn’t have two nickels to rub together, so I went on Craigslist and bought a Power Mac G4 Cube . I think I paid like $150 for it.",
    "section": "signing-off",
    "recommender": null

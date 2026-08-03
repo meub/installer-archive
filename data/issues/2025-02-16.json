@@ -26,8 +26,10 @@
     "https://imp.i305175.net/c/482924/846890/11640?cid=2201affiliateevgnpkpdaff4393&u=https%3A%2F%2Fwww.peacocktv.com%2Fwatch%2Fasset%2Ftv%2Fsnl50-the-anniversary-show%2F4369ff11-91c5-3bd5-819f-ecd89e8ed1d4",
     "https://imp.i305175.net/c/482924/846890/11640?cid=2201affiliateevgnpkpdaff4393&u=https%3A%2F%2Fwww.peacocktv.com%2Fwatch%2Fsaturday-night-hub"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "I am very excited for the three-hour SNL anniversary show on Sunday, and even the concert on Saturday night , but I might be even more excited about this Peacock landing page.",
    "section": "the-drop",
    "recommender": null
@@ -39,8 +41,11 @@
    "alt_urls": [
     "https://www.theverge.com/headphone-review/609473/powerbeats-pro-2-review-headphones-heart-rate-monitoring-wearables"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "fitness",
+    "music"
+   ],
    "blurb": "All the useful Apple-y features of AirPods Pros, but in cooler colors and with earhooks that actually keep the buds in my ears. I bought a pair in the (slightly boring but that’s the point) “quick sand” color, and I’m very happy with my purchase. I do wish the mic was a little better, though.",
    "section": "the-drop",
    "recommender": null
@@ -67,7 +72,7 @@
    "alt_urls": [
     "https://www.theverge.com/news/610826/wacom-intuos-pro-drawing-tablet-launch-price"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Easily the biggest thing to happen to drawing tablets in, I don’t know, a decade? I like the idea of putting the controls at the top and making them more tactile, and I like that they’re a little smaller and slimmer, but I do wonder how many yearslong workflows are going to need some time to adjust.",
    "section": "the-drop",
@@ -154,8 +159,13 @@
    "name": "Signal",
    "url": "https://signal.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "open-source",
+    "cross-platform",
+    "social"
+   ],
    "blurb": "Third, the reason Signal and Messenger are in an ugly drawer together and Facebook has 54 unreads is because I’m trying to reduce my support for Meta after certain, ahem, societal shifts, but haven’t fully managed it yet.",
    "section": "screen-share",
    "recommender": "Sean"
@@ -165,8 +175,12 @@
    "name": "Messenger",
    "url": "https://www.messenger.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "free",
+    "cross-platform"
+   ],
    "blurb": "Third, the reason Signal and Messenger are in an ugly drawer together and Facebook has 54 unreads is because I’m trying to reduce my support for Meta after certain, ahem, societal shifts, but haven’t fully managed it yet.",
    "section": "screen-share",
    "recommender": "Sean"
@@ -176,8 +190,12 @@
    "name": "Facebook",
    "url": "https://www.facebook.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "free",
+    "cross-platform"
+   ],
    "blurb": "Third, the reason Signal and Messenger are in an ugly drawer together and Facebook has 54 unreads is because I’m trying to reduce my support for Meta after certain, ahem, societal shifts, but haven’t fully managed it yet.",
    "section": "screen-share",
    "recommender": "Sean"
@@ -187,8 +205,12 @@
    "name": "MyFitnessPal",
    "url": "https://www.myfitnesspal.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness",
+    "ios",
+    "android"
+   ],
    "blurb": "The key apps on this homescreen are actually MyFitnessPal , which I’m using almost every day just as a calorie counter to actually lose weight; Evernote , where far too much of my memory lives; and Home Assistant for controlling things around my house.",
    "section": "screen-share",
    "recommender": "Sean"
@@ -198,8 +220,11 @@
    "name": "Evernote",
    "url": "https://evernote.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "The key apps on this homescreen are actually MyFitnessPal , which I’m using almost every day just as a calorie counter to actually lose weight; Evernote , where far too much of my memory lives; and Home Assistant for controlling things around my house.",
    "section": "screen-share",
    "recommender": "Sean"
@@ -209,8 +234,12 @@
    "name": "Home Assistant",
    "url": "https://www.home-assistant.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "smart-home",
+    "open-source",
+    "free"
+   ],
    "blurb": "The key apps on this homescreen are actually MyFitnessPal , which I’m using almost every day just as a calorie counter to actually lose weight; Evernote , where far too much of my memory lives; and Home Assistant for controlling things around my house.",
    "section": "screen-share",
    "recommender": "Sean"
@@ -220,8 +249,12 @@
    "name": "Pokémon TCG Pocket",
    "url": "https://tcgpocket.pokemon.com/en-us/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "The key apps on this homescreen are actually MyFitnessPal , which I’m using almost every day just as a calorie counter to actually lose weight; Evernote , where far too much of my memory lives; and Home Assistant for controlling things around my house.",
    "section": "screen-share",
    "recommender": "Sean"
@@ -231,7 +264,7 @@
    "name": "1000xResist",
    "url": "https://www.craftcavesound.com/1000xResist/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Oh, it’s catch-up season for me! I’m playing 1000xResist , which made Polygon ’s best of 2024 , and watching The OA , which I missed the first time around. I guess they’re similar in a way: they’re both bizarre works of science fiction with intriguing, nuanced, relatable villains.",
    "section": "screen-share",
@@ -242,8 +275,10 @@
    "name": "made Polygon ’s best of 2024",
    "url": "https://www.polygon.com/what-to-play/24078256/best-video-games-2024",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "Oh, it’s catch-up season for me! I’m playing 1000xResist , which made Polygon ’s best of 2024 , and watching The OA , which I missed the first time around. I guess they’re similar in a way: they’re both bizarre works of science fiction with intriguing, nuanced, relatable villains.",
    "section": "screen-share",
    "recommender": "Sean"
@@ -279,7 +314,7 @@
    "name": "haihaisb",
    "url": "https://www.instagram.com/haihaisb/?hl=en",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Oh, it’s catch-up season for me! I’m playing 1000xResist , which made Polygon ’s best of 2024 , and watching The OA , which I missed the first time around. I guess they’re similar in a way: they’re both bizarre works of science fiction with intriguing, nuanced, relatable villains.",
    "section": "screen-share",
@@ -290,8 +325,10 @@
    "name": "The Wager",
    "url": "https://www.davidgrann.com/books/#the-wager",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Trying to stay sane by limiting my consumption of news and screen time amidst the chaos going around. Reading The Wager from David Grann, the author of Killers of the Flower Moon . Essentially about conflicting reports of a real-life Lord of the Flies that transpires in the 1700s. Very interesting!",
    "section": "crowdsourced",
    "recommender": "Colin (reader)"
@@ -301,8 +338,10 @@
    "name": "Killers of the Flower Moon",
    "url": "https://www.davidgrann.com/book/killers-of-the-flower-moon/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Trying to stay sane by limiting my consumption of news and screen time amidst the chaos going around. Reading The Wager from David Grann, the author of Killers of the Flower Moon . Essentially about conflicting reports of a real-life Lord of the Flies that transpires in the 1700s. Very interesting!",
    "section": "crowdsourced",
    "recommender": "Colin (reader)"
@@ -325,8 +364,12 @@
    "name": "/e/OS",
    "url": "https://e.foundation/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android",
+    "open-source",
+    "free"
+   ],
    "blurb": "As the topic of digital self-determination is more and more a topic (yes, here in Germany too), I was looking into different OSes for my mobile phone. I found a rather good working alternative to Google’s Android and iOS which is called /e/OS . It works really well, and I can still use all my apps.",
    "section": "crowdsourced",
    "recommender": "Christian (reader)"
@@ -336,8 +379,10 @@
    "name": "sell phones",
    "url": "https://e.foundation/e-os",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "android"
+   ],
    "blurb": "As the topic of digital self-determination is more and more a topic (yes, here in Germany too), I was looking into different OSes for my mobile phone. I found a rather good working alternative to Google’s Android and iOS which is called /e/OS . It works really well, and I can still use all my apps.",
    "section": "crowdsourced",
    "recommender": "Christian (reader)"
@@ -358,8 +403,11 @@
    "name": "Notion",
    "url": "https://www.notion.so/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "I don’t know if a lot of people care about this but Notion and TickTick have a two-way integration and it’s great!! I still feel it’s limited in functionality because I can only send one list at a time, which doesn’t make sense, and it’s limited to three lists.",
    "section": "crowdsourced",
    "recommender": "Barry (reader)"
@@ -369,8 +417,11 @@
    "name": "TickTick",
    "url": "https://ticktick.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "I don’t know if a lot of people care about this but Notion and TickTick have a two-way integration and it’s great!! I still feel it’s limited in functionality because I can only send one list at a time, which doesn’t make sense, and it’s limited to three lists.",
    "section": "crowdsourced",
    "recommender": "Barry (reader)"
@@ -380,8 +431,10 @@
    "name": "a two-way integration",
    "url": "https://help.ticktick.com/articles/7263009660070789120",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "I don’t know if a lot of people care about this but Notion and TickTick have a two-way integration and it’s great!! I still feel it’s limited in functionality because I can only send one list at a time, which doesn’t make sense, and it’s limited to three lists.",
    "section": "crowdsourced",
    "recommender": "Barry (reader)"
@@ -404,8 +457,12 @@
    "name": "National Film Board",
    "url": "https://www.nfb.ca/apps/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "movie",
+    "video"
+   ],
    "blurb": "Recently downloaded the National Film Board app and it’s a delight. ‘Get free access to the largest collection of Canadian films online. No subscription or ads.’",
    "section": "crowdsourced",
    "recommender": "Christine (reader)"
@@ -415,8 +472,10 @@
    "name": "I’m Sorry I Haven’t a Clue",
    "url": "https://www.bbc.co.uk/programmes/m001zv3t",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "After Instagram showed me video recordings from BBC’s I’m Sorry I Haven’t a Clue I delved into old episodes. If you appreciate British humo(u)r and can stand some musical parts, it’s gloriously fun. I am back to being the crazy person laughing out loud on public transport.",
    "section": "crowdsourced",
    "recommender": "Sinan (reader)"
@@ -426,8 +485,12 @@
    "name": "Bear Blog",
    "url": "https://bearblog.dev/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "website",
+    "free"
+   ],
    "blurb": "I recently discovered Bear Blog , it’s a cool minimalistic blogging platform with a lot of customization and a Discovery page that feels a little like Hacker News .",
    "section": "crowdsourced",
    "recommender": "Sammie (reader)"
@@ -437,8 +500,11 @@
    "name": "Discovery",
    "url": "https://bearblog.dev/discover/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "web",
+    "website"
+   ],
    "blurb": "I recently discovered Bear Blog , it’s a cool minimalistic blogging platform with a lot of customization and a Discovery page that feels a little like Hacker News .",
    "section": "crowdsourced",
    "recommender": "Sammie (reader)"
@@ -448,8 +514,12 @@
    "name": "Reddit Answers",
    "url": "https://www.reddit.com/answers/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "web",
+    "free"
+   ],
    "blurb": "You know what might be my favorite new-ish thing on the internet? Reddit Answers . I’ve been using it a lot recently, and I’ve found it to be a basically unparalleled system for getting lots of recommendations.",
    "section": "signing-off",
    "recommender": null

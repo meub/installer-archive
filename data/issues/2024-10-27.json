@@ -23,7 +23,7 @@
    "name": "Batman: Arkham Shadow",
    "url": "https://www.meta.com/experiences/batman-arkham-shadow/3551691271620960/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I am hopelessly biased in favor of this game, the latest in my all-time favorite series of video games. But a surprising amount of what worked for the old Arkham games works in VR, too — the story, as always, is kind of whatever, but the action is fun and intense and everything I wanted it to be.",
    "section": "the-drop",
@@ -36,8 +36,11 @@
    "alt_urls": [
     "https://www.theverge.com/24184777/boox-palma-e-ink-smartphone-reader"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android",
+    "book"
+   ],
    "blurb": "Another week, another reading gadget I’m going to feel ridiculous buying but definitely buy anyway. One of my favorite devices of the year got a faster processor, new Android… and not much else. But I still love this tiny Android e-reader.",
    "section": "the-drop",
    "recommender": null
@@ -62,8 +65,12 @@
    "name": "Inoreader",
    "url": "https://www.inoreader.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "productivity",
+    "web"
+   ],
    "blurb": "Inoreader is a really good RSS reader, but I always thought it was… ugly. The new redesign is really nice! It’s still very dense and text-heavy, but in a news reader, I actually like that. I’m also enjoying all the new filters, which are helping me find to-do list app news easier than ever.",
    "section": "the-drop",
    "recommender": null
@@ -88,8 +95,12 @@
    "name": "Vivaldi",
    "url": "https://vivaldi.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "cross-platform",
+    "web"
+   ],
    "blurb": "I’m still slightly torn on the new tab design, which is lovely but kind of busy. But I love the new Dashboard feature, which just lets you embed a bunch of apps and websites and see them all at once. It’s like what iGoogle used to be, only much better.",
    "section": "the-drop",
    "recommender": null
@@ -99,7 +110,7 @@
    "name": "Sonic x Shadow Generations",
    "url": "https://sonicxshadowgenerations.com/?lang=en",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Sonic. And Evil Sonic. What else do you need to know? All the reviews I’ve read say this game is an excellent remaster of a classic, plus lots of new stuff including a huge new Shadow-focused campaign. I immediately cleared space on my Switch for this one.",
    "section": "the-drop",
@@ -112,8 +123,11 @@
    "alt_urls": [
     "https://t.co/NOKjyCwsXX"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "productivity",
+    "web"
+   ],
    "blurb": "Notion’s quest to be all things to all people continues! The new Notion Mail app looks pretty great, but day to day, I think Forms is a bigger deal.",
    "section": "the-drop",
    "recommender": null
@@ -125,8 +139,13 @@
    "alt_urls": [
     "https://mimestream.com/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "windows",
+    "paid",
+    "productivity"
+   ],
    "blurb": "One of the best — maybe the best — Windows email apps is now available on the Mac. The free tier is pretty limited, but at least it’ll give you a sense if the app is right for you. I’m still a Mimestream devotee, but especially if you’re balancing Outlook and Gmail, this is worth a look.",
    "section": "the-drop",
    "recommender": null
@@ -138,8 +157,10 @@
    "alt_urls": [
     "https://www.youtube.com/watch?v=ODaHJzOyVCQ"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai"
+   ],
    "blurb": "Anthropic’s AI bot got an upgrade this week, including a new feature that can just use your computer on your behalf. The video explaining how it works is great and a useful explainer of how simple some of this complex stuff really can be. Eventually. Someday.",
    "section": "the-drop",
    "recommender": null
@@ -160,8 +181,12 @@
    "name": "Mela",
    "url": "https://mela.recipes/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "paid"
+   ],
    "blurb": "I like and use all these apps, but there are a few to call out specifically: I’ve tried a lot of recipe apps, and Mela is still the simplest and the best at pulling recipes out of websites; Balatro is the most addicting game I’ve downloaded in years; I finally became an Apple News Plus subscriber…",
    "section": "screen-share",
    "recommender": null
@@ -171,7 +196,7 @@
    "name": "Balatro",
    "url": "https://www.playbalatro.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I like and use all these apps, but there are a few to call out specifically: I’ve tried a lot of recipe apps, and Mela is still the simplest and the best at pulling recipes out of websites; Balatro is the most addicting game I’ve downloaded in years; I finally became an Apple News Plus subscriber…",
    "section": "screen-share",
@@ -182,8 +207,12 @@
    "name": "Apple News Plus",
    "url": "https://www.apple.com/apple-news/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "subscription",
+    "ios",
+    "article"
+   ],
    "blurb": "I like and use all these apps, but there are a few to call out specifically: I’ve tried a lot of recipe apps, and Mela is still the simplest and the best at pulling recipes out of websites; Balatro is the most addicting game I’ve downloaded in years; I finally became an Apple News Plus subscriber…",
    "section": "screen-share",
    "recommender": null
@@ -193,8 +222,11 @@
    "name": "Real Racing 3",
    "url": "https://www.ea.com/games/real-racing/real-racing-3",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "free"
+   ],
    "blurb": "I like and use all these apps, but there are a few to call out specifically: I’ve tried a lot of recipe apps, and Mela is still the simplest and the best at pulling recipes out of websites; Balatro is the most addicting game I’ve downloaded in years; I finally became an Apple News Plus subscriber…",
    "section": "screen-share",
    "recommender": null
@@ -204,8 +236,11 @@
    "name": "Workflowy",
    "url": "https://workflowy.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "My dock is reserved for the apps I use at least close to every day, which means it’s reading, notes, recipes, podcasts, and music. (I just realized I should move Workflowy , so it’s not between the reading apps — I’ll get to that.)",
    "section": "screen-share",
    "recommender": null
@@ -215,8 +250,12 @@
    "name": "Peacock",
    "url": "https://imp.i305175.net/c/482924/896948/11640?u=https%3A%2F%2Fwww.peacocktv.com%2F",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "subscription",
+    "tv",
+    "video"
+   ],
    "blurb": "My dock is reserved for the apps I use at least close to every day, which means it’s reading, notes, recipes, podcasts, and music. (I just realized I should move Workflowy , so it’s not between the reading apps — I’ll get to that.)",
    "section": "screen-share",
    "recommender": null
@@ -226,8 +265,12 @@
    "name": "The StoryGraph",
    "url": "https://www.thestorygraph.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "book",
+    "web",
+    "free"
+   ],
    "blurb": "I saw Adi ask for a Goodreads alternative and wanted to suggest The StoryGraph ! It’s really great at showcasing stats about what you read, rather than the updates-sharing focus of GR, and it has really nice monthly summaries!",
    "section": "crowdsourced",
    "recommender": "Aurora (reader)"
@@ -237,8 +280,11 @@
    "name": "Hardcover",
    "url": "https://hardcover.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "book",
+    "web"
+   ],
    "blurb": "Reading about Adi’s suffering with LibraryThing, I remembered that just a few days ago, I started using Hardcover , and so far, I’m finding it really cool.",
    "section": "crowdsourced",
    "recommender": "AH (reader)"
@@ -274,8 +320,11 @@
    "name": "Wagotabi",
    "url": "https://www.wagotabi.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "I just put about six hours into Wagotabi , and I’m wildly impressed. It is one of the most clever and effective Japanese learning games I’ve ever played. It’s structured like Pokémon , but instead of catching monsters, you’re learning Japanese words and grammar.",
    "section": "crowdsourced",
    "recommender": "Tom (reader)"
@@ -285,7 +334,7 @@
    "name": "Steam Deck OLED",
    "url": "https://www.steamdeck.com/en/oled",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I grabbed a Steam Deck OLED a few weeks back and have been diving into games I just kind of missed. Uncharted 4 and Uncharted: The Lost Legacy were great. Now digging into the modern Tomb Raider trilogy. I guess I like adventure games when FIFA isn’t available.",
    "section": "crowdsourced",
@@ -296,7 +345,7 @@
    "name": "Keyway Designs",
    "url": "https://www.keywaydesigns.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I upgrade phones every two to three years, and one way I keep it fresh is to get a new case every year. This year’s case upgrade was from Keyway Designs . They make gorgeous wood and metal phone cases (and other goodies). Check them out!",
    "section": "crowdsourced",
@@ -307,8 +356,11 @@
    "name": "Sublime",
    "url": "https://sublime.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "web"
+   ],
    "blurb": "Trying a new second brain app, Sublime , that adds a few interesting features. Will try for a few weeks and see how it grows on me.",
    "section": "crowdsourced",
    "recommender": "Miguel (reader)"
@@ -318,7 +370,7 @@
    "name": "GuliKit Zen Pro",
    "url": "https://www.gulikit.com/productinfo/925509.html",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I have a seriously good Switch controller for you: the GuliKit Zen Pro is awesome, supports everything the Pro Controller does, and has Hall effect sticks to boot. It’s also a lot cheaper than the Pro Controller, so I’d recommend it for anyone buying a new Switch, too!",
    "section": "crowdsourced",
@@ -329,7 +381,7 @@
    "name": "Hall effect",
    "url": "https://www.windowscentral.com/gaming/what-is-a-hall-effect-controller-anyway-and-do-i-really-need-one",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "I have a seriously good Switch controller for you: the GuliKit Zen Pro is awesome, supports everything the Pro Controller does, and has Hall effect sticks to boot. It’s also a lot cheaper than the Pro Controller, so I’d recommend it for anyone buying a new Switch, too!",
    "section": "crowdsourced",
@@ -340,8 +392,11 @@
    "name": "Capture",
    "url": "https://www.sir.studio/capture",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "I’ve been using Capture for iOS, and it’s low-key amazing. Like should be a built-in feature-level amazing. Anything I come across online, I can set aside, hold it off to the side, and then send it where it needs to go later.",
    "section": "crowdsourced",
    "recommender": "Max (reader)"
@@ -351,8 +406,10 @@
    "name": "MovieCart",
    "url": "https://www.tindie.com/products/lodefmode/moviecart-atari-2600/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "movie"
+   ],
    "blurb": "The premise of MovieCart is simple: it’s for watching full-length movies on an actual Atari 2600. The reality is quite complex. It’s the work of a mad genius, and you may feel like one, too, once you actually get a film running!",
    "section": "crowdsourced",
    "recommender": "Tom (reader)"

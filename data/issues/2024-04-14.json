@@ -38,8 +38,11 @@
    "alt_urls": [
     "https://www.theverge.com/2024/4/11/24126785/dji-avata-2-price-release-date"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "video",
+    "photography"
+   ],
    "blurb": "There are two kinds of drones: camera drones and flying drones. This one’s a flyer : a first-person experience through goggles that lasts longer and moves better than its predecessor. I need to take one of these for a spin.",
    "section": "the-drop",
    "recommender": null
@@ -51,8 +54,12 @@
    "alt_urls": [
     "https://www.theverge.com/2024/4/8/24124174/android-find-my-device-network-offline-tracker-tag-chipolo-pebblebee"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "android",
+    "utilities",
+    "free"
+   ],
    "blurb": "It took Google a while to get this right, but device tracking is a great feature — and it appears Google will be much more open with the network than Apple is with Find My. Clever to use Nest devices to tell you where you left your keys in the house, too.",
    "section": "the-drop",
    "recommender": null
@@ -75,8 +82,12 @@
    "name": "Frame.io Version 4",
    "url": "http://frame.io",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "video",
+    "productivity",
+    "subscription"
+   ],
    "blurb": "If you do anything with video, especially with other people, this is a big upgrade: Frame.io this week got much better search, more organization tools, and custom metadata for better keeping track of things. And it’s all much better on mobile now.",
    "section": "the-drop",
    "recommender": null
@@ -86,8 +97,10 @@
    "name": "Kobo’s Clara Colour",
    "url": "https://us.kobobooks.com/collections/ereaders/products/kobo-clara-colour?ranMID=37217",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "book"
+   ],
    "blurb": "Color ebook readers! I love that Kobo exists as a check on and competitor to the Kindle, even though I’m stuck in Amazon’s ecosystem at this point. This is the latest and greatest in E Ink, and for $150, the faster and better Clara seems like a good deal.",
    "section": "the-drop",
    "recommender": null
@@ -110,8 +123,10 @@
    "name": "Fairphone’s Fairbuds",
    "url": "https://shop.fairphone.com/fairbuds",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "Repairable earbuds are a huge win. Because, you know, environment and waste and stuff, but also because you can replace the battery when the battery dies! As someone who keeps replacing AirPods because they only last an hour after a while, this is a big win. They look pretty nice, too.",
    "section": "the-drop",
    "recommender": null
@@ -121,8 +136,12 @@
    "name": "Strut",
    "url": "https://strut.so/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity",
+    "paid"
+   ],
    "blurb": "This is a really nice-looking app for anyone who writes a lot. It’s part blank page, part organizer, plus a bunch of AI writing tools built in. You’ll pay if you want the AI, but lucky for me, I don’t. Free writing apps for the win!",
    "section": "the-drop",
    "recommender": null
@@ -184,8 +203,10 @@
    "name": "Kitchen Confidential",
    "url": "https://www.penguinrandomhouse.com/books/16503/kitchen-confidential-by-anthony-bourdain/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I have two kids under four so I don’t get a ton of free time, but we’ve enjoyed 3 Body Problem on Netflix and Mr. & Mrs. Smith ! I’m listening to Kitchen Confidential by Anthony Bourdain and just finished reading There Is No Antimemetics Division by qntm — my new favorite author!",
    "section": "screen-share",
    "recommender": "Eric"
@@ -195,8 +216,10 @@
    "name": "There Is No Antimemetics Division",
    "url": "https://qntm.org/scp",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I have two kids under four so I don’t get a ton of free time, but we’ve enjoyed 3 Body Problem on Netflix and Mr. & Mrs. Smith ! I’m listening to Kitchen Confidential by Anthony Bourdain and just finished reading There Is No Antimemetics Division by qntm — my new favorite author!",
    "section": "screen-share",
    "recommender": "Eric"
@@ -206,8 +229,11 @@
    "name": "Lena",
    "url": "https://qntm.org/mmacevedo",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "free"
+   ],
    "blurb": "I have two kids under four so I don’t get a ton of free time, but we’ve enjoyed 3 Body Problem on Netflix and Mr. & Mrs. Smith ! I’m listening to Kitchen Confidential by Anthony Bourdain and just finished reading There Is No Antimemetics Division by qntm — my new favorite author!",
    "section": "screen-share",
    "recommender": "Eric"
@@ -217,8 +243,12 @@
    "name": "ChatGPT",
    "url": "https://chatgpt.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "cross-platform",
+    "free"
+   ],
    "blurb": "I have two kids under four so I don’t get a ton of free time, but we’ve enjoyed 3 Body Problem on Netflix and Mr. & Mrs. Smith ! I’m listening to Kitchen Confidential by Anthony Bourdain and just finished reading There Is No Antimemetics Division by qntm — my new favorite author!",
    "section": "screen-share",
    "recommender": "Eric"
@@ -228,8 +258,11 @@
    "name": "Tom Scott’s Weekly Newsletter",
    "url": "https://www.tomscott.com/newsletter/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "newsletter",
+    "free"
+   ],
    "blurb": "Tom Scott’s Weekly Newsletter . I’ve gotten some of my favorite stuff on the internet from that newsletter, like Kern Type , this post on anagrams , and so much more.",
    "section": "crowdsourced",
    "recommender": "Nachiketa (reader)"
@@ -239,8 +272,12 @@
    "name": "Kern Type",
    "url": "https://type.method.ac/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "free",
+    "website"
+   ],
    "blurb": "Tom Scott’s Weekly Newsletter . I’ve gotten some of my favorite stuff on the internet from that newsletter, like Kern Type , this post on anagrams , and so much more.",
    "section": "crowdsourced",
    "recommender": "Nachiketa (reader)"
@@ -250,8 +287,11 @@
    "name": "this post on anagrams",
    "url": "https://blog.plover.com/lang/anagram-scoring.html",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "free"
+   ],
    "blurb": "Tom Scott’s Weekly Newsletter . I’ve gotten some of my favorite stuff on the internet from that newsletter, like Kern Type , this post on anagrams , and so much more.",
    "section": "crowdsourced",
    "recommender": "Nachiketa (reader)"
@@ -261,7 +301,7 @@
    "name": "Grindstone",
    "url": "https://www.capybaragames.com/games/grindstone/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I picked up Grindstone after a while away from it and have managed to 100 percent complete the main levels, the bonus levels and the “cosmic darkside,” and collect all the achievements. It has been worth the price of Apple Arcade on its own!",
    "section": "crowdsourced",
@@ -272,8 +312,12 @@
    "name": "Revolut",
    "url": "https://www.revolut.com/en-US/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "I’ve recently moved to the UK and I needed to get a bank. I chose Revolut . The app is feature-packed, reminding me a little of Simple (RIP). It’s a little loaded, and I really had to get used to it, but it works, and it’s pretty incredible. The multi-national, multi-currency use is impressive.",
    "section": "crowdsourced",
    "recommender": "Greg (reader)"
@@ -283,8 +327,13 @@
    "name": "AntennaPod",
    "url": "https://antennapod.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "podcast",
+    "android",
+    "open-source",
+    "free"
+   ],
    "blurb": "I’ve been using AntennaPod for over a year, and it’s a perfect app to replace Google Podcasts. It’s open source, no ads, no analytics, and the people who work on it are amazing: they regularly conduct community calls to discuss the project and take feedback very seriously. Android only!",
    "section": "crowdsourced",
    "recommender": "Chethan (reader)"
@@ -294,8 +343,10 @@
    "name": "Dune: Imperium",
    "url": "https://direwolfdigital.com/dune-imperium-digital/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "android"
+   ],
    "blurb": "Playing Dune: Imperium (on Android). Such a great way to experience this incredible board game! The AIs are tough!",
    "section": "crowdsourced",
    "recommender": "Gary (reader)"
@@ -344,8 +395,12 @@
    "name": "Lyrak",
    "url": "https://www.lyrak.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "beta",
+    "ios"
+   ],
    "blurb": "I’m giving Lyrak a shot this week. Yes, ANOTHER social media app. They claim it’s built to be more real time than Threads, so better for news, which is good, and built on ActivityPub, which is great. Federation for the win! Still giving it a shot, but it’s interesting.",
    "section": "crowdsourced",
    "recommender": "Sighjinks (reader)"
@@ -355,8 +410,11 @@
    "name": "Rytmos",
    "url": "https://rytmos.club/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "music"
+   ],
    "blurb": "So I was playing Rytmos , an iOS puzzle game with a really great visual design themed around world music. They’ve got a bunch of Spotify playlists with examples of the music that inspired the game, but I’m an Apple Music user.",
    "section": "crowdsourced",
    "recommender": "Daniel (reader)"
@@ -366,8 +424,11 @@
    "name": "SongShift",
    "url": "https://www.songshift.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "ios"
+   ],
    "blurb": "So I was playing Rytmos , an iOS puzzle game with a really great visual design themed around world music. They’ve got a bunch of Spotify playlists with examples of the music that inspired the game, but I’m an Apple Music user.",
    "section": "crowdsourced",
    "recommender": "Daniel (reader)"
@@ -377,7 +438,7 @@
    "name": "Logitech MX Keys",
    "url": "https://logitech.cfzu.net/c/482924/499820/8585?u=https%3A%2F%2Fwww.logitech.com%2Fen-us%2Fproducts%2Fkeyboards%2Fmx-keys-s-wireless-keyboard.html",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "A couple of weeks ago, I complained here about my busted keyboard and my complicated relationships with clicky mechanical keyboard. Thanks to everyone who reached out with ideas!",
    "section": "signing-off",

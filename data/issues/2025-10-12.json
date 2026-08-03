@@ -23,8 +23,10 @@
    "name": "Apps in ChatGPT",
    "url": "https://openai.com/index/introducing-apps-in-chatgpt/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai"
+   ],
    "blurb": "OpenAI is starting to talk about ChatGPT as an operating system, which is both an obviously smart and ruthless tactic — it’s good business owning the OS! — and a way to make the product itself make more sense.",
    "section": "the-drop",
    "recommender": null
@@ -34,8 +36,11 @@
    "name": "Hidden Levels",
    "url": "https://www.wbur.org/podcasts/endlessthread/hiddenlevels",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "free"
+   ],
    "blurb": "Two of my favorite podcasts — 99 Percent Invisible and Endless Thread — are teaming up to make a six-part podcast about the fascinating real-world effects of video game mechanics and gadgets. This is all of my interests colliding, I will take a thousand more episodes please and thank you.",
    "section": "the-drop",
    "recommender": null
@@ -45,8 +50,12 @@
    "name": "A cartoonist’s review of AI art",
    "url": "https://theoatmeal.com/comics/ai_art",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "ai",
+    "web"
+   ],
    "blurb": "“ A cartoonist’s review of AI art .” A really lovely, and poignant, take from The Oatmeal on the current state of generative AI. (Now that is a sentence I never thought I’d write.) It’s about what art feels, both to make and to consume, and whether AI stuff will ever feel the same.",
    "section": "the-drop",
    "recommender": null
@@ -85,7 +94,7 @@
     "https://dinopoloclub.com/",
     "http://train-valley.com/tv2.html"
    ],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "If you’re ever played a game like Mini Metro or Train Valley , this game is going to rock your world. It’s a super realistic, outrageously detailed game with real-world data and simulations that puts you entirely in charge of building and maintaining the subway system.",
    "section": "the-drop",
@@ -96,7 +105,7 @@
    "name": "Battlefield 6",
    "url": "https://www.ea.com/en/games/battlefield/battlefield-6",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I haven’t played much Battlefield the last few years — I like a super tight shooter game, not giant sprawling open multiplayer online worlds. But the reviews of this one all seem to say it found a good middle ground between those things, and that the game is finally more fun than slog again.",
    "section": "the-drop",
@@ -107,8 +116,11 @@
    "name": "The Belkin Stage PowerGrip",
    "url": "https://www.belkin.com/p/powergrip/CTA006ttGY.html",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ios",
+    "photography"
+   ],
    "blurb": "Is this $80 external battery / camera grip for the iPhone a good idea? I don’t know. Here’s what I do know: I hate using Camera Control, one-handed landscape iPhone pictures are awkward, okay fine I’ll buy one this is a good idea.",
    "section": "the-drop",
    "recommender": null
@@ -129,8 +141,11 @@
    "name": "September Gradients",
    "url": "https://basicappleguy.com/basicappleblog/gradients-of-september-2025-edition",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "free",
+    "ios"
+   ],
    "blurb": "The wallpaper: My homescreen changes by Focus mode on the weekends / evenings. My main wallpaper is from Basic Apple Guy, September Gradients . My weekend lockscreen is the NASA image of the Pillars of Creation, ’cause it’s awesome. (Yes, I have a reminder to do Wordle every day.)",
    "section": "screen-share",
    "recommender": "Stephen"
@@ -140,8 +155,12 @@
    "name": "Perplexity",
    "url": "https://www.perplexity.ai/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "cross-platform",
+    "web"
+   ],
    "blurb": "I’ve moved a large percentage of my web searching to Perplexity , so it earned a spot on the homescreen. Bear is the best notes app. I use the kanban view in Reminders for YouTube planning, but Things for project / task management, so yes I have dual task apps.",
    "section": "screen-share",
    "recommender": "Stephen"
@@ -151,8 +170,12 @@
    "name": "Bear",
    "url": "https://bear.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "productivity"
+   ],
    "blurb": "I’ve moved a large percentage of my web searching to Perplexity , so it earned a spot on the homescreen. Bear is the best notes app. I use the kanban view in Reminders for YouTube planning, but Things for project / task management, so yes I have dual task apps.",
    "section": "screen-share",
    "recommender": "Stephen"
@@ -175,8 +198,13 @@
    "name": "Things",
    "url": "https://culturedcode.com/things/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "productivity",
+    "paid"
+   ],
    "blurb": "I’ve moved a large percentage of my web searching to Perplexity , so it earned a spot on the homescreen. Bear is the best notes app. I use the kanban view in Reminders for YouTube planning, but Things for project / task management, so yes I have dual task apps.",
    "section": "screen-share",
    "recommender": "Stephen"
@@ -186,8 +214,11 @@
    "name": "Foodnoms",
    "url": "https://foodnoms.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "fitness"
+   ],
    "blurb": "Most recently I started tracking calories and macros with Foodnoms , which had a great update for iOS 26. It’s made the process so much easier than other apps I’ve tried and have lost 30 lbs in the last few months because of it!",
    "section": "screen-share",
    "recommender": "Stephen"
@@ -249,8 +280,11 @@
    "name": "Four Thousand Weeks",
    "url": "https://www.oliverburkeman.com/fourthousandweeks",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "productivity"
+   ],
    "blurb": "Having only recently discovered them, Hank and John Green have started to consume much of my podcast and YouTube time. Hank’s takes on Sora and the internet as a whole are worth hearing. Introduced my kids to Happy Gilmore and the sequel , they’re both great.",
    "section": "screen-share",
    "recommender": "Stephen"
@@ -260,8 +294,10 @@
    "name": "Skate",
    "url": "https://www.ea.com/games/skate",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "free"
+   ],
    "blurb": "Having only recently discovered them, Hank and John Green have started to consume much of my podcast and YouTube time. Hank’s takes on Sora and the internet as a whole are worth hearing. Introduced my kids to Happy Gilmore and the sequel , they’re both great.",
    "section": "screen-share",
    "recommender": "Stephen"
@@ -271,8 +307,10 @@
    "name": "The Beths",
    "url": "https://www.thebeths.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "A couple years ago I joined Instagram in order to follow a band, The Beths . Very quickly I started seeing posts from a strange but compelling account, The Dream Eaters , that was doing short music videos mixing goth, ‘80’s electronic, metal, and dream pop on hilarious off-the-wall topics.",
    "section": "crowdsourced",
    "recommender": "Jon (reader)"
@@ -282,8 +320,10 @@
    "name": "The Dream Eaters",
    "url": "https://www.instagram.com/wearethedreameaters/?hl=en",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "social"
+   ],
    "blurb": "A couple years ago I joined Instagram in order to follow a band, The Beths . Very quickly I started seeing posts from a strange but compelling account, The Dream Eaters , that was doing short music videos mixing goth, ‘80’s electronic, metal, and dream pop on hilarious off-the-wall topics.",
    "section": "crowdsourced",
    "recommender": "Jon (reader)"
@@ -293,8 +333,10 @@
    "name": "First, Last, Everything",
    "url": "https://www.macstories.net/first-last-everything/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "I’ve been catching up on First, Last, Everything . It’s a great interview podcast so far with fascinating guests (and a tech angle of course).",
    "section": "crowdsourced",
    "recommender": "Roman (reader)"
@@ -317,8 +359,10 @@
    "name": "2010 5,1 Mac Pro",
    "url": "https://support.apple.com/en-us/112578",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "mac"
+   ],
    "blurb": "Just bought a 2010 5,1 Mac Pro . Upgrading / fixing it will be a good weekend project.",
    "section": "crowdsourced",
    "recommender": "SaltedPork (reader)"
@@ -328,8 +372,11 @@
    "name": "Murena",
    "url": "https://murena.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android",
+    "subscription"
+   ],
    "blurb": "I recently upgraded my Murena account for more storage and better support. Eventually I’ll probably upgrade to a phone purchased directly from Murena. In the meantime I switched providers to Proton , yet I still feel drawn to an ecosystem I prefer: Nextcloud .",
    "section": "crowdsourced",
    "recommender": "Stephen (reader)"
@@ -339,8 +386,11 @@
    "name": "Proton",
    "url": "https://proton.me/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "subscription"
+   ],
    "blurb": "I recently upgraded my Murena account for more storage and better support. Eventually I’ll probably upgrade to a phone purchased directly from Murena. In the meantime I switched providers to Proton , yet I still feel drawn to an ecosystem I prefer: Nextcloud .",
    "section": "crowdsourced",
    "recommender": "Stephen (reader)"
@@ -350,8 +400,11 @@
    "name": "Nextcloud",
    "url": "https://nextcloud.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "cross-platform"
+   ],
    "blurb": "I recently upgraded my Murena account for more storage and better support. Eventually I’ll probably upgrade to a phone purchased directly from Murena. In the meantime I switched providers to Proton , yet I still feel drawn to an ecosystem I prefer: Nextcloud .",
    "section": "crowdsourced",
    "recommender": "Stephen (reader)"
@@ -361,7 +414,7 @@
    "name": "ExtremeRate kit!",
    "url": "https://www.extremerate.com/products/extremerate-diy-replacement-full-set-shells-with-buttons-for-nintendo-switch-2-essence-version-clear-atomic-purple",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I made my Switch 2 translucent with the new ExtremeRate kit!",
    "section": "crowdsourced",
@@ -372,8 +425,12 @@
    "name": "NotebookLM",
    "url": "https://notebooklm.google/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web",
+    "free"
+   ],
    "blurb": "I keep a list of saved product manuals and documents. I also uploaded them all into a notebook in NotebookLM , so now I just need to ask ‘How do I de-scale the Sage coffee machine’ to get the info I need!",
    "section": "crowdsourced",
    "recommender": "Sara (reader)"
@@ -396,7 +453,7 @@
    "name": "Skate Story",
    "url": "https://skatestory.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Demo for Skate Story , possibly the sickest-looking game of the year, just dropped.",
    "section": "crowdsourced",
@@ -407,8 +464,11 @@
    "name": "Powerbeats Pro 2",
    "url": "https://www.beatsbydre.com/earbuds/powerbeats-pro-2",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "fitness",
+    "music"
+   ],
    "blurb": "I just got a jump rope, trying to re-build a fitness habit. And I immediately noticed that this is a reason to buy new workout headphones, as my AirPods Pro 2 do not stay in my ears while rope skipping. I ended up getting the Powerbeats Pro 2 . Really love them so far!",
    "section": "crowdsourced",
    "recommender": "Matthias (reader)"

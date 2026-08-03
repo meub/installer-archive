@@ -23,8 +23,11 @@
    "name": "Plex",
    "url": "https://www.plex.tv/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "video",
+    "cross-platform"
+   ],
    "blurb": "Plex has spent a lot of time and energy trying to become a proper, legit streaming platform, and the new mobile app is by far the most mainstream-useful thing it has ever made. Mixing streaming media with my library, and lots of discovery tools, feels really nice.",
    "section": "the-drop",
    "recommender": null
@@ -34,8 +37,11 @@
    "name": "Delta 1.7",
    "url": "https://faq.deltaemulator.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "free"
+   ],
    "blurb": "The iPhone’s best game emulator, now with online multiplayer! (At least for DS games.) It also has nice screenshot support and some new N64-specific updates, which gives me great hope for the Mario Golf ROM I’ve already put too many hours into.",
    "section": "the-drop",
    "recommender": null
@@ -45,8 +51,11 @@
    "name": "Skylight",
    "url": "https://skylight.social/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "video"
+   ],
    "blurb": "It looks exactly like TikTok, but it runs on the same AT Protocol that powers Bluesky. That is a very enticing combination — and it’s a really nice app for something so brand new. Bluesky is really starting to look like the fediverse.",
    "section": "the-drop",
    "recommender": null
@@ -56,8 +65,11 @@
    "name": "Celebrate 50 years of Microsoft with the company’s original source code",
    "url": "https://www.gatesnotes.com/home/home-page-topic/reader/microsoft-original-source-code",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "open-source",
+    "windows"
+   ],
    "blurb": "This week was the 50th anniversary of Microsoft, and Bill Gates marked the occasion by releasing all its original Altair BASIC source code — via one of the cooler retro-style websites you’ll ever use.",
    "section": "the-drop",
    "recommender": null
@@ -106,8 +118,13 @@
    "name": "DEVONthink 4.0",
    "url": "https://www.devontechnologies.com/apps/devonthink",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "productivity",
+    "beta",
+    "paid"
+   ],
    "blurb": "DEVONthink is, like, the ultimate Mac app for just storing all your junk. The design’s a little ’90s for my taste, but the new beta has some nice updates and a huge set of AI tools for finding, summarizing, and organizing content. I’m tempted to throw my whole life back in the app.",
    "section": "the-drop",
    "recommender": null
@@ -117,7 +134,7 @@
    "name": "Koira",
    "url": "https://dont-nod.com/en/games/koira/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Another delightful entrant (for Steam and PS5) in one of my favorite game genres — the quiet, simple puzzler that never tries to do too much but somehow seems to keep your attention forever. Plus, you get a puppy friend!",
    "section": "the-drop",
@@ -139,8 +156,13 @@
    "name": "Things",
    "url": "https://culturedcode.com/things/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "ios",
+    "mac",
+    "paid"
+   ],
    "blurb": "Things , Bear , and Reeder are a few of my favorite apps of all time. I’ve used Reeder (now Reeder Classic) for a long time and have always been impressed with the app’s craftsmanship. The new Reeder is even better.",
    "section": "screen-share",
    "recommender": "Shawn"
@@ -150,8 +172,12 @@
    "name": "Bear",
    "url": "https://bear.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "ios",
+    "mac"
+   ],
    "blurb": "Things , Bear , and Reeder are a few of my favorite apps of all time. I’ve used Reeder (now Reeder Classic) for a long time and have always been impressed with the app’s craftsmanship. The new Reeder is even better.",
    "section": "screen-share",
    "recommender": "Shawn"
@@ -187,8 +213,12 @@
    "name": "Blackmagic Camera",
    "url": "https://www.blackmagicdesign.com/products/blackmagiccamera",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "video",
+    "free"
+   ],
    "blurb": "I have a YouTube channel . I’ve been experimenting with shooting Apple Log, and the Blackmagic Camera app is by far the most flexible. You need to do a bit of learning, but it’s pretty sweet once you’ve gotten a handle on it.",
    "section": "screen-share",
    "recommender": "Shawn"
@@ -198,8 +228,12 @@
    "name": "Lightroom",
    "url": "https://adobe.prf.hn/click/camref:1011l3IdQV/destination:https%3A%2F%2Flightroom.adobe.com%2F",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "photography",
+    "subscription",
+    "cross-platform"
+   ],
    "blurb": "I have a YouTube channel . I’ve been experimenting with shooting Apple Log, and the Blackmagic Camera app is by far the most flexible. You need to do a bit of learning, but it’s pretty sweet once you’ve gotten a handle on it.",
    "section": "screen-share",
    "recommender": "Shawn"
@@ -209,8 +243,11 @@
    "name": "RevenueCat",
    "url": "https://www.revenuecat.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "subscription",
+    "web"
+   ],
    "blurb": "RevenueCat is a great service that makes implementing and managing Sofa’s app subscriptions much easier.",
    "section": "screen-share",
    "recommender": "Shawn"
@@ -233,7 +270,7 @@
    "name": "one of the keyboards",
    "url": "https://bsky.app/profile/basicappleguy.com/post/3llclmgvakc2q",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Severance . It’s probably my favorite TV show since the first season of Stranger Things … and I really want to buy one of the keyboards the MDR team uses! Now we must all endure the long wait for season 3.",
    "section": "screen-share",
@@ -296,7 +333,7 @@
    "name": "and now magazines",
    "url": "https://frame-lines.com/en-us",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Severance . It’s probably my favorite TV show since the first season of Stranger Things … and I really want to buy one of the keyboards the MDR team uses! Now we must all endure the long wait for season 3.",
    "section": "screen-share",
@@ -307,8 +344,10 @@
    "name": "Dungeon Pages",
    "url": "https://www.pnparcade.com/products/dungeon-pages-core-set",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios"
+   ],
    "blurb": "I played Dungeon Pages for the first time on my iPad last night and REALLY enjoyed it! Would be even more enjoyable on paper to get away from doomscrolling for a while.",
    "section": "crowdsourced",
    "recommender": "Dylan (reader)"
@@ -318,8 +357,10 @@
    "name": "the X-T50",
    "url": "https://www.fujifilm-x.com/en-us/products/cameras/x-t50/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography"
+   ],
    "blurb": "I initially had my heart set on the Fujifilm X100VI, but a friend suggested the X-T50 . It’s been a great learning experience, and I’m pleased with the photos I’ve taken. I’m still discovering all the nuances of the Fujifilm ecosystem.",
    "section": "crowdsourced",
    "recommender": "Paul (reader)"
@@ -329,7 +370,7 @@
    "name": "Simpli Soda",
    "url": "https://simplisoda.com/product/quick-connect-cylinders/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "If you’re liking your SodaStream, you should check out Simpli Soda — they’re a family business out of SE Wisconsin that does mail-in cylinder swaps for all brands (including quick-connects like your SodaStream Art uses) for less $$.",
    "section": "crowdsourced",
@@ -340,8 +381,10 @@
    "name": "Baldur’s Gate 3",
    "url": "https://baldursgate3.game/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "mac"
+   ],
    "blurb": "Late to the party, but Baldur’s Gate 3 . I was blown away by how quickly I got immersed, and I’m only on my first playthrough. I didn’t realize that it ran natively on macOS until last month.",
    "section": "crowdsourced",
    "recommender": "Drake (reader)"
@@ -351,8 +394,12 @@
    "name": "Mealime",
    "url": "https://www.mealime.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "paid"
+   ],
    "blurb": "Wanted to recommend a great app I have been happily using (+ paying for) for five years that no one else seems to talk about: Mealime . It’s the perfect app if, like me, you struggle not only at planning recipes for the week but also the act of shopping itself.",
    "section": "crowdsourced",
    "recommender": "Drew (reader)"
@@ -362,7 +409,7 @@
    "name": "Li Hing pineapple rings",
    "url": "https://wholesaleunlimitedhi.com/products/li-hing-gummy-pineapple-rings?_psq=li+hing+pine&_v=1.0",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "I absolutely love Li Hing pineapple rings . I’m told they’re common in Hawaii, but on the East Coast, they’re new to me. Sour and delicious. I order mine from Wholesale Unlimited Hawaii , and they’re fun and delicious and unique.",
    "section": "crowdsourced",
@@ -373,8 +420,10 @@
    "name": "Wholesale Unlimited Hawaii",
    "url": "https://wholesaleunlimitedhi.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "website"
+   ],
    "blurb": "I absolutely love Li Hing pineapple rings . I’m told they’re common in Hawaii, but on the East Coast, they’re new to me. Sour and delicious. I order mine from Wholesale Unlimited Hawaii , and they’re fun and delicious and unique.",
    "section": "crowdsourced",
    "recommender": "Steve (reader)"
@@ -397,8 +446,11 @@
    "name": "Johnny.Decimal",
    "url": "https://johnnydecimal.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "productivity",
+    "website"
+   ],
    "blurb": "I just found out about the Johnny.Decimal system last night. Diving in to reorganizing my work files as I descend further down the PKM rabbit hole.",
    "section": "crowdsourced",
    "recommender": "Dirk (reader)"
@@ -408,8 +460,10 @@
    "name": "Otherwise Objectionable",
    "url": "https://pod.link/1798723661",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Otherwise Objectionable is an excellent history of Section 230. Hosted by Mike Masnick and featuring recollections from the folks who were there at the inception of the ‘26 words that created the Internet.’ Section 230 is under threat (yet again), so it’s a good time to learn why it’s so important…",
    "section": "crowdsourced",
    "recommender": "Zip (reader)"
@@ -419,8 +473,10 @@
    "name": "Jake Hurwitz and Amir Blumenfeld",
    "url": "https://en.wikipedia.org/wiki/Jake_and_Amir",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
    "blurb": "If you were extremely online during a very specific time period, the names Jake Hurwitz and Amir Blumenfeld might mean a lot to you. They were two of my first favorite online comedians, part of a brilliant CollegeHumor gang that was way ahead of its time making funny stuff on the internet.",
    "section": "signing-off",
    "recommender": null
@@ -469,8 +525,11 @@
    "name": "their Patreon",
    "url": "https://www.patreon.com/ja",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "subscription"
+   ],
    "blurb": "If you’ve never watched a Jake and Amir, head to their YouTube channel , sort by oldest, and give it a whirl .",
    "section": "signing-off",
    "recommender": null

@@ -25,8 +25,12 @@
    "alt_urls": [
     "https://www.theverge.com/report/923408/zombies-run-fitness-app-games"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness",
+    "ios",
+    "android"
+   ],
    "blurb": "! One of my all-time favorite fitness apps slash adventure games is back with new stories for the first time in forever. The story of the game’s rebirth is pretty awesome, and I cannot wait to start running to the game again. (I actually mean that! Wild!)",
    "section": "the-drop",
    "recommender": null
@@ -36,7 +40,7 @@
    "name": "Boox Tappy",
    "url": "https://shop.boox.com/products/boox-tappy-wireless-pageturner?variant=47631436873958",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Nifty little accessory for tapping and scrolling on your e-reader, a lot like the Kobo Remote but actually significantly more capable (and probably hackable, in a good way).",
    "section": "the-drop",
@@ -60,7 +64,7 @@
    "name": "The Remarkable Paper Pure",
    "url": "https://remarkable.com/products/remarkable-paper/pure",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Maybe the most exciting E Ink notepad on the market. $399 is a pretty good price for this category, and Remarkable made all the right decisions – more memory, more storage, no expensive and / or crummy color screen. I’m going to end up buying one of these, I can tell.",
    "section": "the-drop",
@@ -71,8 +75,10 @@
    "name": "The Bose Lifestyle Ultra",
    "url": "https://www.jdoqocy.com/click-8836598-11556694?sid=VergeInstaller050826&url=https%3A%2F%2Fwww.bose.com%2Fp%2Fspeakers%2Fbose-lifestyle-ultra-speaker%2FLSULT-SPEAKERWIRELESS.html%3Fcjdata%3DMXxOfDB8WXww%26Publisher%3DVox%2BMedia%26cjevent%3D213529394ae811f1800b02da0a82b832",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "Is it weird that I kind of forgot about Bose? It makes good headphones, certainly, but the brand seems to have lost a bit of its shine.",
    "section": "the-drop",
    "recommender": null
@@ -95,7 +101,7 @@
    "name": "Mixtape",
    "url": "https://mixtape.game/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "This genre of game — sort of a video game, sort of a movie, mostly a hang — is really hard to do right. I often get bored very quickly. But in the bits I’ve played so far, Mixtape has such great music and such good writing that I’m not a bit tired of it.",
    "section": "the-drop",
@@ -121,8 +127,10 @@
    "alt_urls": [
     "https://www.wired.com/story/book-excerpt-david-epstein-inside-the-box-general-magic/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "All of David Epstein’s books are excellent, but this set of stories about the importance of limits (and the peril of having none) is full of stuff I suspect you’ll find fascinating.",
    "section": "the-drop",
    "recommender": null
@@ -156,8 +164,11 @@
    "name": "Obsidian",
    "url": "https://obsidian.md/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "My phone philosophy is that everything should be at most one swipe and one tap away. The first page is all about quick access to my most-used apps, and the second is all about quick information.",
    "section": "screen-share",
    "recommender": "Adam"
@@ -193,8 +204,11 @@
    "name": "Simple and Clean",
    "url": "https://art19.com/shows/simple-and-clean-a-kingdom-hearts",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music",
+    "tv"
+   ],
    "blurb": "I used to be super into anime in high school, so I’ve been trying to get back into it lately, and the one I’m currently obsessed with is Frieren: Beyond Journey’s End . I just finished it last week and am already halfway through a rewatch. Highly recommend it if you’re into fantasy / anime.",
    "section": "screen-share",
    "recommender": "Adam"
@@ -217,8 +231,11 @@
    "name": "Floaty",
    "url": "https://www.floatytool.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "utilities"
+   ],
    "blurb": "I recently picked up an M5 MacBook Air — my first Mac laptop! One transition hurdle from Windows was the lack of a native ‘Always on Top’ feature, which I relied on heavily via Microsoft PowerToys. After searching for a macOS alternative, I found Floaty .",
    "section": "crowdsourced",
    "recommender": "Travis (reader)"
@@ -280,7 +297,7 @@
    "name": "Tomadachi Life: Living the Dream",
    "url": "https://www.google.com/search?q=tomadachi+life&sourceid=chrome&ie=UTF-8",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I’ve placed several campaigns’ worth of D&D characters into Tomadachi Life: Living the Dream , and now I’m obligated to let the players know about all of the drama that has since unfolded.",
    "section": "crowdsourced",
@@ -291,7 +308,7 @@
    "name": "MapTap",
    "url": "http://maptap.gg",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Playing the hell out of MapTap .",
    "section": "crowdsourced",
@@ -302,7 +319,7 @@
    "name": "Timberborn",
    "url": "https://mechanistry.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I have unfortunately stumbled back into playing Timberborn , an adorable beaver-themed survival city builder (which had its 1.0 release recently!), that runs the gamut from cute little farms to massive infrastructure projects with water physics.",
    "section": "crowdsourced",
@@ -313,7 +330,7 @@
    "name": "GameSir Pocket Taco",
    "url": "https://gamesir.com/products/gamesir-pocket-taco",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Just got the GameSir Pocket Taco and have been rediscovering a ton of amazing GBA games. Right now I’m really into Metroid Fusion !",
    "section": "crowdsourced",
@@ -337,8 +354,12 @@
    "name": "RetroArch",
    "url": "https://www.retroarch.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "cross-platform"
+   ],
    "blurb": "I hacked my Nintendo Switch (you’ll definitely need some comfort with tearing it apart to do so) a couple months ago and I’ve been catching up on some old 3DS games thanks to RetroArch , perfect for the Switch format.",
    "section": "crowdsourced",
    "recommender": "Gabriel (reader)"
@@ -361,8 +382,10 @@
    "name": "Sleeping With Celebrities",
    "url": "https://maximumfun.org/podcasts/sleeping-with-celebrities/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "I know I’ve mentioned this before here, but I’ve been having trouble falling asleep recently and have turned to a bunch of different things to help me slumber.",
    "section": "signing-off",
    "recommender": null
@@ -372,8 +395,10 @@
    "name": "sleep headphones",
    "url": "https://www.nytimes.com/wirecutter/reviews/best-sleep-headphones/?ds_c=23289288899&&gad_campaignid=23289288899&gbraid=0AAAAADwd30j6F0GVz6-Xj_2t_fwe9lGfm",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "I know I’ve mentioned this before here, but I’ve been having trouble falling asleep recently and have turned to a bunch of different things to help me slumber.",
    "section": "signing-off",
    "recommender": null
@@ -383,7 +408,7 @@
    "name": "weird speaker-pillow things",
    "url": "https://www.nosleeplessnights.com/best-pillow-speaker/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I know I’ve mentioned this before here, but I’ve been having trouble falling asleep recently and have turned to a bunch of different things to help me slumber.",
    "section": "signing-off",

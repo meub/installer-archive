@@ -36,8 +36,12 @@
    "name": "Bear 2.9",
    "url": "https://blog.bear.app/2026/07/bear-2-9-use-tag-as-workspace/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "productivity"
+   ],
    "blurb": "Bear’s tag-based system has always felt a little too limiting to me, but expanding the idea into Workspaces makes it way more powerful without being any more complex. So clever, so useful, still one of the best apps to write in across Apple devices.",
    "section": "the-drop",
    "recommender": null
@@ -47,8 +51,10 @@
    "name": "The World Cup final",
    "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/final",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "By just about any measure, Sunday’s game will be the biggest thing on TV… until we do this again in four years. This year’s tournament has been spectacular, and whether you like soccer or not, the final tends to be good TV. Treat it like the Super Bowl! Have a party!",
    "section": "the-drop",
    "recommender": null
@@ -71,8 +77,12 @@
    "name": "Aphera",
    "url": "https://aphera.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "photography",
+    "paid"
+   ],
    "blurb": "I’ve been hearing good things about this new Mac-based photo editor, which is fast and powerful and aimed directly at replacing the ever-rising price of Adobe’s tools. Ditching Lightroom is a lot to ask, but I’m excited to give this a real shot.",
    "section": "the-drop",
    "recommender": null
@@ -95,8 +105,12 @@
    "name": "The Loading Museum",
    "url": "https://sheets.works/data-viz/the-loading-museum",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "web",
+    "free"
+   ],
    "blurb": "What a fun idea: a repository of all the things that have made us wait on our computers. Watch a photo load like it’s 1997, remember what it felt like to wait for the internet to connect, and learn what designers have always known about how to make slow things feel faster.",
    "section": "the-drop",
    "recommender": null
@@ -106,8 +120,10 @@
    "name": "The Codex Micro",
    "url": "https://openai.com/supply/co-lab/work-louder/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "I love a shortcut button, and while I think $230 is an absurd price to pay for a bunch of buttons you could re-create with a Stream Deck or any number of other things, I do think these agent-controlling keys are pretty delightful. Work Louder stuff just tends to feel good.",
    "section": "the-drop",
    "recommender": null
@@ -148,8 +164,11 @@
    "alt_urls": [
     "https://www.goldenhillsoftware.com/unread/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "subscription"
+   ],
    "blurb": "I use Feedbin for RSS reading. On my computer, I use Feedbin’s website; on mobile I mostly use Unread .",
    "section": "group-project",
    "recommender": null
@@ -176,8 +195,12 @@
     "https://www.mylibro.com/",
     "https://www.discoversora.com/families"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "book",
+    "free",
+    "cross-platform"
+   ],
    "blurb": "The library! Yay libraries! So many of us are using Libby and Hoopla and MyLibro and Sora and so many other tools to make the most of our library cards. Absolutely love to see it.",
    "section": "group-project",
    "recommender": null
@@ -221,8 +244,12 @@
    "alt_urls": [
     "https://booktrack.app/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "book",
+    "web",
+    "free"
+   ],
    "blurb": "We love a way to track our collection, and our progress. Both The StoryGraph and Book Tracker have a lot of fans, and practically everyone either quit or is looking to quit Goodreads.",
    "section": "group-project",
    "recommender": null
@@ -234,8 +261,12 @@
    "alt_urls": [
     "https://www.spotify.com/us/audiobooks/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "book",
+    "subscription",
+    "cross-platform"
+   ],
    "blurb": "Lots of us like to listen to books, which of course means Audible came up a few times. But a lot of us are also making good use of the 15 hours of audio that come with Spotify Premium .",
    "section": "group-project",
    "recommender": null
@@ -247,8 +278,12 @@
    "alt_urls": [
     "https://www.chirpbooks.com/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "book",
+    "website",
+    "free"
+   ],
    "blurb": ", a great site for finding ebook sales, came up a bunch. So did Chirp , its sister site for audiobooks.",
    "section": "group-project",
    "recommender": null
@@ -262,8 +297,12 @@
     "https://www.craft.do/",
     "https://obsidian.md/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "subscription",
+    "cross-platform"
+   ],
    "blurb": "Saving and syncing highlights is an ongoing project for a lot of us. Lots of Readwise users out there, syncing stuff to Notion and Craft and Obsidian , but also a lot of folks building their own apps to make this easier.",
    "section": "group-project",
    "recommender": null
@@ -278,8 +317,11 @@
     "https://read.readwise.io/",
     "https://wallabag.org/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "I heard about, conservatively, 50 different RSS readers. Unread and Reeder were the RSS favorites, and Instapaper , Readwise Reader , and Wallabag are the go-tos for saving stuff for later.",
    "section": "group-project",
    "recommender": null
@@ -289,8 +331,11 @@
    "name": "Cirrux",
    "url": "https://cirrux.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "subscription"
+   ],
    "blurb": "I’m moving from Google (Gmail) to a fantastic European alternative: Cirrux . With a sync service you can untie yourself from Big Tech, without losing your emails.",
    "section": "crowdsourced",
    "recommender": "Olaf (reader)"
@@ -313,8 +358,10 @@
    "name": "Gravity",
    "url": "https://www.gravitynotes.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "Gravity is the best / simplest note-taking app. Most note apps, as you take notes, they get lost as you add more, losing their relevance; with Gravity you can snap any note to the top of the page. The simplicity is brilliant.",
    "section": "crowdsourced",
    "recommender": "Andrew (reader)"
@@ -324,8 +371,11 @@
    "name": "4x3",
    "url": "https://www.hankgreen.com/fourbythree/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "Thanks to Rohit for the 4x3 suggestion in last week’s Installer . The other game on the site, Smush , is also fantastic. Both are wonderful fresh takes on games from the New York Times.",
    "section": "crowdsourced",
    "recommender": "Kurt (reader)"
@@ -335,8 +385,11 @@
    "name": "Smush",
    "url": "https://www.hankgreen.com/smush/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "Thanks to Rohit for the 4x3 suggestion in last week’s Installer . The other game on the site, Smush , is also fantastic. Both are wonderful fresh takes on games from the New York Times.",
    "section": "crowdsourced",
    "recommender": "Kurt (reader)"
@@ -346,8 +399,10 @@
    "name": "Pebble Index 01",
    "url": "https://repebble.com/index",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "I ordered the Pebble Index 01 ring. I desperately want to dictate little notes to myself and opening an app on my phone is a lot of friction.",
    "section": "crowdsourced",
    "recommender": "Anna (reader)"
@@ -357,8 +412,10 @@
    "name": "Seek Immediate Shelter",
    "url": "https://us.macmillan.com/books/9781250410122/seekimmediateshelter/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I just finished the book Seek Immediate Shelter by Vincent Yu. It follows a bunch of people in a small town as they get an emergency ‘incoming missile’ text, then the ‘false alert’ message about 20 minutes later, and how each person reacts during and after the alert. It was fantastic.",
    "section": "crowdsourced",
    "recommender": "Matt (reader)"
@@ -381,8 +438,12 @@
    "name": "Hypertexting",
    "url": "https://hypertexting.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "web",
+    "beta"
+   ],
    "blurb": "I’ve been playing around with Hypertexting , a new app that treats RSS (and your personal blog) like an open social network. It’s really interesting and has a lot of potential.",
    "section": "crowdsourced",
    "recommender": "Chris (reader)"
@@ -392,8 +453,12 @@
    "name": "/r/9M9H9E9",
    "url": "https://www.reddit.com/r/9M9H9E9/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "web",
+    "free",
+    "social"
+   ],
    "blurb": "This week I’ve been reading The Interface Series, which was a sci-fi/horror web serial from about 10 years ago. Each chapter is posted as a comment in a random, unrelated Reddit thread, but it’s all been collated at /r/9M9H9E9 . Fascinating speculative fiction that makes the most of its medium.",
    "section": "crowdsourced",
    "recommender": "Andie (reader)"

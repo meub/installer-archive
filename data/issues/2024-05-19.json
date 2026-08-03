@@ -25,8 +25,11 @@
    "alt_urls": [
     "https://www.youtube.com/watch?v=DQacCB9tDaw"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "cross-platform"
+   ],
    "blurb": "I haven’t been able to stop thinking about OpenAI’s event this week , with the Her- like demo of the new voice assistant. It’s really impressive, kind of weird, and both delightful and creepy? I’m so torn. But the tech is impressive, and every AI app I’ve seen is already rushing to support GPT-4o.",
    "section": "the-drop",
    "recommender": null
@@ -36,8 +39,11 @@
    "name": "ChatGPT for Mac",
    "url": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "mac"
+   ],
    "blurb": "Desktop AI chat apps are a dime a dozen and mostly all just wrappers on a webpage. But the new ChatGPT app is a bit more: it lets you share your screen and ask questions about it, which strikes me as a very handy way to get AI help with something. “How do I fix this?”",
    "section": "the-drop",
    "recommender": null
@@ -63,7 +69,7 @@
     "https://www.lego.com/en-us/product/the-lord-of-the-rings-rivendell-10316?CMP=AFC-AffiliateUS-nOD/rLJHOac-3430747-1182053-10",
     "https://www.theverge.com/23588895/lego-rivendell-lord-of-the-rings-lotr-pictures-price-release-date"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Five thousand, four hundred and seventy-one pieces. Pair this with the Rivendell set Lego released last year , and you’ll spend about $1,000 and one very happy lifetime putting together a truly epic Lord of the Rings setup.",
    "section": "the-drop",
@@ -76,8 +82,11 @@
    "alt_urls": [
     "https://www.theverge.com/2024/5/14/24074314/google-now-offers-web-search"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "I have a lot of big-picture thoughts about what AI is doing to web search and what that means for the internet, but I also just miss when Google was a bunch of links and not a thousand videos, X posts, and shopping links.",
    "section": "the-drop",
    "recommender": null
@@ -103,8 +112,13 @@
     "https://setapp.com/",
     "https://www.theverge.com/24155259/setapp-mobile-eu-subscription-app-store-preview"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "subscription",
+    "ios",
+    "android",
+    "beta"
+   ],
    "blurb": "If you don’t already know about Setapp , a subscription service that gets you access to hundreds of Mac and iOS apps, you should check it out. Setapp Mobile, its new alternative app store, is EU-only for now, but it’s still a fascinating look at what’s possible when you open up the smartphone.",
    "section": "the-drop",
    "recommender": null
@@ -116,7 +130,7 @@
    "alt_urls": [
     "https://www.theverge.com/2024/5/13/24155775/dyson-washg1-mop-price-specs-release-date"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Explaining Dyson stuff always sounds so silly — “yeah, it’s like 4x the price of all its competitors, and yeah, it’s just a cleaning thing, but dude, it’s SICK.” But… this $700 ultra-fancy mop sounds sick . I can’t help myself.",
    "section": "the-drop",
@@ -127,7 +141,7 @@
    "name": "Hello, Dot",
    "url": "https://playperidot.com/hello-dot",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "A new game from the Pokémon Go and Peridot folks, designed just for the Meta Quest. There’s not actually a ton to the game itself, but it’s a pretty great mixed reality tech demo, and these things are just fun to play around with.",
    "section": "the-drop",
@@ -162,8 +176,10 @@
    "name": "Detroit Institute of Arts",
    "url": "https://dia.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "photography"
+   ],
    "blurb": "The wallpaper: My partner, Julia, taken at one of my favorite places: Kresge Court inside the Detroit Institute of Arts .",
    "section": "screen-share",
    "recommender": "Jack"
@@ -173,8 +189,13 @@
    "name": "Fantastical",
    "url": "https://flexibits.com/fantastical",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "productivity",
+    "subscription"
+   ],
    "blurb": "Lock screen widgets: Fantastical , Weather, and Lightroom ’s camera widget. I usually include a photo when I send out my Sunday newsletter , and I loathe the way newer-generation iPhones over-process everything.",
    "section": "screen-share",
    "recommender": "Jack"
@@ -197,8 +218,12 @@
    "name": "Sunday newsletter",
    "url": "https://www.jackcheng.com/sunday",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "newsletter",
+    "photography",
+    "free"
+   ],
    "blurb": "Lock screen widgets: Fantastical , Weather, and Lightroom ’s camera widget. I usually include a photo when I send out my Sunday newsletter , and I loathe the way newer-generation iPhones over-process everything.",
    "section": "screen-share",
    "recommender": "Jack"
@@ -208,8 +233,10 @@
    "name": "Ricoh GR III",
    "url": "https://www.ricoh-imaging.co.jp/english/products/gr-3/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography"
+   ],
    "blurb": "Lock screen widgets: Fantastical , Weather, and Lightroom ’s camera widget. I usually include a photo when I send out my Sunday newsletter , and I loathe the way newer-generation iPhones over-process everything.",
    "section": "screen-share",
    "recommender": "Jack"
@@ -256,8 +283,11 @@
    "name": "Bebop",
    "url": "https://www.jackcheng.com/bebop/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "mac"
+   ],
    "blurb": "Dock: Third from the left is my own file-based notes app, Bebop ! I built it after frustrations with over-bloated notes apps that deprioritized capture . Bebop’s my first iOS app, and it felt so good to be able to give it that prime dock spot.",
    "section": "screen-share",
    "recommender": "Jack"
@@ -267,8 +297,12 @@
    "name": "after frustrations with over-bloated notes apps that deprioritized capture",
    "url": "https://www.jackcheng.com/bebop-design-dev-process/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "productivity",
+    "web"
+   ],
    "blurb": "Dock: Third from the left is my own file-based notes app, Bebop ! I built it after frustrations with over-bloated notes apps that deprioritized capture . Bebop’s my first iOS app, and it felt so good to be able to give it that prime dock spot.",
    "section": "screen-share",
    "recommender": "Jack"
@@ -278,8 +312,12 @@
    "name": "Blackmagic Camera",
    "url": "https://www.blackmagicdesign.com/products/blackmagiccamera",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "video",
+    "free"
+   ],
    "blurb": "When Apple announced Final Cut Camera, I wondered if there was something similar for DaVinci Resolve, and it turned out there was: Blackmagic Camera .",
    "section": "screen-share",
    "recommender": "Jack"
@@ -302,8 +340,11 @@
    "name": "The Conversations: Walter Murch and the Art of Editing Film",
    "url": "https://www.penguinrandomhouse.ca/books/124596/the-conversations-by-michael-ondaatje/9780676976823",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "movie"
+   ],
    "blurb": "The Conversations: Walter Murch and the Art of Editing Film is the best book I’ve read so far this year.",
    "section": "screen-share",
    "recommender": "Jack"
@@ -313,8 +354,10 @@
    "name": "Completely Arbortrary",
    "url": "https://arbortrarypod.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "The Conversations: Walter Murch and the Art of Editing Film is the best book I’ve read so far this year.",
    "section": "screen-share",
    "recommender": "Jack"
@@ -324,8 +367,10 @@
    "name": "Moonbound",
    "url": "https://www.robinsloan.com/moonbound/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "The Conversations: Walter Murch and the Art of Editing Film is the best book I’ve read so far this year.",
    "section": "screen-share",
    "recommender": "Jack"
@@ -348,8 +393,10 @@
    "name": "Amy Williams’ gorgeous production design",
    "url": "https://www.awardsdaily.com/2021/06/26/amy-williams/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "The Conversations: Walter Murch and the Art of Editing Film is the best book I’ve read so far this year.",
    "section": "screen-share",
    "recommender": "Jack"
@@ -359,8 +406,12 @@
    "name": "SequoiaView",
    "url": "https://www.win.tue.nl/sequoiaview/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "windows",
+    "utilities",
+    "free"
+   ],
    "blurb": "So every once in a while, I manage to get a hard drive full to the rim and need to clean up. That’s when I fall back on a really old piece of software from the Dutch University of Eindhoven called SequoiaView .",
    "section": "crowdsourced",
    "recommender": "Jasper (reader)"
@@ -370,8 +421,10 @@
    "name": "Balatro",
    "url": "https://www.playbalatro.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "cross-platform"
+   ],
    "blurb": "I’m very late to Balatro and been playing that (and failing — how are people already completing the game and I can’t even get past the basic stakes for some of these decks lol) and trying to finish the new Vampire Survivors DLC .",
    "section": "crowdsourced",
    "recommender": "Melody (reader)"
@@ -392,8 +445,11 @@
    "name": "StarCraft",
    "url": "https://starcraft.blizzard.com/en-us/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "windows",
+    "free"
+   ],
    "blurb": "I just re-downloaded the original StarCraft and can’t stop watching TikTok live videos of people playing some weird Russian Roulette PC game.",
    "section": "crowdsourced",
    "recommender": null
@@ -403,8 +459,12 @@
    "name": "Delta",
    "url": "https://faq.deltaemulator.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "free",
+    "open-source"
+   ],
    "blurb": "Downloaded Delta when it officially launched and realized how much I missed playing ‘simpler’ games. Amongst a few others, I was really enjoying Pokémon Fire Red . Fast forward a few days… and the Analogue Pocket had a very timely restock.",
    "section": "crowdsourced",
    "recommender": "Omesh (reader)"
@@ -414,7 +474,7 @@
    "name": "Analogue Pocket",
    "url": "https://www.analogue.co/pocket",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Downloaded Delta when it officially launched and realized how much I missed playing ‘simpler’ games. Amongst a few others, I was really enjoying Pokémon Fire Red . Fast forward a few days… and the Analogue Pocket had a very timely restock.",
    "section": "crowdsourced",
@@ -425,7 +485,7 @@
    "name": "Walkabout Mini Golf",
    "url": "https://www.mightycoconut.com/minigolf",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Walkabout Mini Golf on the Meta Quest 3 is pretty awesome.",
    "section": "crowdsourced",
@@ -449,8 +509,11 @@
    "name": "Critical Role",
    "url": "https://critrole.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "tv"
+   ],
    "blurb": "One of Twitch’s / YT’s biggest creators Critical Role just launched their own direct support / streaming service, Beacon , but in contrast to the huge miss that was Watcher doing something similar last month, they aren’t paywalling any existing content.",
    "section": "crowdsourced",
    "recommender": "Zach (reader)"
@@ -460,8 +523,12 @@
    "name": "Beacon",
    "url": "https://beacon.tv/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "video",
+    "subscription",
+    "web"
+   ],
    "blurb": "One of Twitch’s / YT’s biggest creators Critical Role just launched their own direct support / streaming service, Beacon , but in contrast to the huge miss that was Watcher doing something similar last month, they aren’t paywalling any existing content.",
    "section": "crowdsourced",
    "recommender": "Zach (reader)"
@@ -471,8 +538,10 @@
    "name": "Fur and Loathing",
    "url": "https://brazen.fm/fur-and-loathing/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Fur and Loathing . I just started listening to this podcast about the gas attack in the 2014 furry convention, and it’s really good!",
    "section": "crowdsourced",
    "recommender": "Katie (reader)"

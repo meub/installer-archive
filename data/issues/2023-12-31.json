@@ -21,8 +21,10 @@
    "name": "Number Go Up",
    "url": "https://www.penguinrandomhouse.com/books/711959/number-go-up-by-zeke-faux/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "The best tech book I read this year, and one of my favorite “the future is weird” books ever. It’s an adventure story and a financial investigation, and I absolutely devoured it. Crypto is even more bizarre than you think.",
    "section": "davids-favorite-things",
    "recommender": null
@@ -32,8 +34,10 @@
    "name": "Ray-Ban Meta Smart Glasses",
    "url": "https://www.meta.com/us/smart-glasses/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ai"
+   ],
    "blurb": "Two days with these things, and I was convinced that smart glasses are going to be a thing. They’re already my go-to gadget for phone calls on the go and are replacing my headphones more and more.",
    "section": "davids-favorite-things",
    "recommender": null
@@ -43,8 +47,12 @@
    "name": "Kagi",
    "url": "https://kagi.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "subscription",
+    "paid"
+   ],
    "blurb": "I’ve tried all the search engines, and I always ended up back at Google — until Kagi. It’s private, it’s fast, it’s super customizable, it’s a little ugly but I’m getting over that, and it’s the first search engine I’ve tried that feels just as good as Google.",
    "section": "davids-favorite-things",
    "recommender": null
@@ -65,8 +73,12 @@
    "name": "Anytype",
    "url": "https://anytype.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "beta",
+    "cross-platform"
+   ],
    "blurb": "It’s like Notion, only offline-first and super fast. Which turns out to be exactly what I was looking for. It’s also in beta, and has a steep learning curve, but now it’s set up to help me run basically my entire life. For now, anyway.",
    "section": "davids-favorite-things",
    "recommender": null
@@ -91,8 +103,10 @@
    "alt_urls": [
     "https://www.nytimes.com/2023/04/04/opinion/ezra-klein-podcast-chris-miller.html"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "A history of the chip industry, which is also a story about startups and geopolitics and all the things in the world you don’t think of as “technology” but very much are. Miller’s appearance on The Ezra Klein Show was also one of my favorite podcast interviews of the year.",
    "section": "davids-favorite-things",
    "recommender": null
@@ -113,7 +127,7 @@
    "name": "A hybrid charger.",
    "url": "https://www.anker.com/products/a1626?variant=42089536290966&collections_power-banks=undefined&Sort_by=Recommended",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "The single best quality-of-life tech upgrade I made this year was to buy an Anker gizmo that is both a wall charger and an external battery. It charges my devices, and then itself, so next time I don’t have an outlet it still charges my phone. Game changer.",
    "section": "davids-favorite-things",
@@ -137,8 +151,12 @@
    "alt_urls": [
     "https://www.theverge.com/23728602/mimestream-gmail-app-mac-review"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "productivity",
+    "paid"
+   ],
    "blurb": "I haven’t opened Gmail’s ugly and cluttered web app in months, and I don’t miss it a bit . I’m terrible at email, and this Mac app has made me much better at it — here’s hoping an iOS version shows up in 2024.",
    "section": "davids-favorite-things",
    "recommender": null
@@ -148,8 +166,10 @@
    "name": "Twos",
    "url": "https://www.twosapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "My never-ending quest for the perfect to-do list app led me to this app, which is both super simple — just a list of stuff you write down — and incredibly clever. Cross-platform, free to use, and improving really fast. I’ve been using it all year.",
    "section": "davids-favorite-things",
    "recommender": null
@@ -159,8 +179,10 @@
    "name": "BlackBerry",
    "url": "https://www.blackberrymovie.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
    "blurb": "Nobody believes me when I tell them to see this movie! But it’s excellent, regardless of whether you care a lick about the BlackBerry story.",
    "section": "davids-favorite-things",
    "recommender": null
@@ -170,8 +192,12 @@
    "name": "Google Bard",
    "url": "https://bard.google.com/chat",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web",
+    "free"
+   ],
    "blurb": "Definitely not the AI tool I would have guessed would end up here. But the thing I use chatbots for most is finding stuff — in my email, my documents, YouTube, the web — and Google is just better at that. Bard’s bad at a lot of stuff, but it’s a solid search engine.",
    "section": "davids-favorite-things",
    "recommender": null
@@ -181,8 +207,12 @@
    "name": "1Password",
    "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://1password.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "subscription",
+    "utilities"
+   ],
    "blurb": "I’ve been using this app for years, but I really went all-in in 2023. Now all my two-factor codes, all my passkeys, all my important documents live here — and centralizing all that stuff in one place I trust has made my online life a lot easier.",
    "section": "davids-favorite-things",
    "recommender": null
@@ -194,8 +224,10 @@
    "alt_urls": [
     "https://pjvogt.substack.com/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "This and Search Engine are the two podcasts that entered my “listen to every episode no matter what” list this year. Listening to comedians tell jokes, talk about jokes, and think about life and process, is just perpetually fun.",
    "section": "davids-favorite-things",
    "recommender": null
@@ -205,8 +237,12 @@
    "name": "Tubi",
    "url": "https://tubi.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "tv",
+    "video"
+   ],
    "blurb": "A surprising amount of my TV watching time is now happening on Tubi, because it’s just easy: I don’t have to log in or search for anything. I just open the app and stuff starts playing. (The BBC Earth channel gets a lot of airtime in my house.)",
    "section": "davids-favorite-things",
    "recommender": null
@@ -216,8 +252,10 @@
    "name": "Backbone",
    "url": "https://playbackbone.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ios"
+   ],
    "blurb": "Most of my phone-gaming time is either remote playing my PlayStation or playing silly driving games. The Backbone controller makes both better and is super easy to connect and carry around. Now I just have to find some new games to play.",
    "section": "davids-favorite-things",
    "recommender": null
@@ -227,8 +265,10 @@
    "name": "The Roku Voice Remote Pro",
    "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://www.roku.com/products/accessories/roku-voice-remote-pro",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "tv"
+   ],
    "blurb": "I’m on record about how bad I think all set-top boxes are, but this remote? This remote rules. A headphone jack for private listening, a useful voice assistant, a bunch of lovely buttons — it almost makes my stupidly slow smart TV bearable.",
    "section": "davids-favorite-things",
    "recommender": null
@@ -255,8 +295,12 @@
    "name": "Arc",
    "url": "https://arc.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "mac",
+    "free"
+   ],
    "blurb": "My favorite browser, no question, and clearly I’m not alone.",
    "section": "your-favorite-things",
    "recommender": null
@@ -292,8 +336,12 @@
    "name": "Artifact",
    "url": "https://artifact.news/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "free",
+    "article"
+   ],
    "blurb": "The hot new thing in news apps! I’ve been getting a little annoyed with all the clutter and AI stuff recently, but it’s still a great way to find new stuff.",
    "section": "your-favorite-things",
    "recommender": null
@@ -303,8 +351,13 @@
    "name": "Omnivore",
    "url": "https://omnivore.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "article",
+    "newsletter",
+    "free",
+    "open-source"
+   ],
    "blurb": "An app for reading articles, newsletters, PDFs, and basically everything else. It’s a bit of a power-user tool, but it’s a really good one.",
    "section": "your-favorite-things",
    "recommender": null
@@ -316,7 +369,7 @@
    "alt_urls": [
     "https://www.theverge.com/authors/david-pierce"
    ],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "dded to your daily email digest and your homepage feed. Follow Follow See All by David Pierce",
    "section": "your-favorite-things",
@@ -329,7 +382,7 @@
    "alt_urls": [
     "https://www.theverge.com/android"
    ],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "gest and your homepage feed. Follow Follow See All Android",
    "section": "your-favorite-things",
@@ -342,7 +395,7 @@
    "alt_urls": [
     "https://www.theverge.com/apple"
    ],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "and your homepage feed. Follow Follow See All Apple",
    "section": "your-favorite-things",
@@ -355,7 +408,7 @@
    "alt_urls": [
     "https://www.theverge.com/apps"
    ],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "nd your homepage feed. Follow Follow See All Apps",
    "section": "your-favorite-things",
@@ -368,7 +421,7 @@
    "alt_urls": [
     "https://www.theverge.com/gadgets"
    ],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "gest and your homepage feed. Follow Follow See All Gadgets",
    "section": "your-favorite-things",
@@ -381,7 +434,7 @@
    "alt_urls": [
     "https://www.theverge.com/google"
    ],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "st and your homepage feed. Follow Follow See All Google",
    "section": "your-favorite-things",
@@ -394,7 +447,7 @@
    "alt_urls": [
     "https://www.theverge.com/installer-newsletter"
    ],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "l digest and your homepage feed. Follow Follow See All Installer",
    "section": "your-favorite-things",
@@ -407,7 +460,7 @@
    "alt_urls": [
     "https://www.theverge.com/tech"
    ],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "nd your homepage feed. Follow Follow See All Tech",
    "section": "your-favorite-things",
@@ -420,8 +473,11 @@
    "alt_urls": [
     "https://www.theverge.com/tech/973055/how-to-take-better-smartphone-photos"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "photography"
+   ],
    "blurb": "You could be taking way better photos on your phone",
    "section": "your-favorite-things",
    "recommender": null
@@ -433,8 +489,10 @@
    "alt_urls": [
     "https://www.theverge.com/column/972937/foldable-phones-boring-apple"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "Foldables are sort of boring now — and that’s great news for Apple",
    "section": "your-favorite-things",
    "recommender": null
@@ -446,8 +504,12 @@
    "alt_urls": [
     "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "ai",
+    "music"
+   ],
    "blurb": "Fender’s CEO seems to think your bandmates are just analog AI",
    "section": "your-favorite-things",
    "recommender": null
@@ -459,8 +521,11 @@
    "alt_urls": [
     "https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "windows"
+   ],
    "blurb": "Microsoft is bringing Xbox 360 games to PC",
    "section": "your-favorite-things",
    "recommender": null
@@ -472,8 +537,10 @@
    "alt_urls": [
     "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "Xbox prices are increasing by up to €200 or £170",
    "section": "your-favorite-things",
    "recommender": null

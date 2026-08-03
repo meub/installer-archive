@@ -26,8 +26,12 @@
     "https://halide.cam/",
     "https://www.lux.camera/meet-orion/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "video",
+    "paid"
+   ],
    "blurb": "The team at Lux doesn’t really miss. They made Halide for photos, the nifty Orion iPad monitor tool, and now Kino, a video app that is somehow both really simple and absurdly powerful. I love a good noir filter.",
    "section": "the-drop",
    "recommender": null
@@ -39,8 +43,10 @@
    "alt_urls": [
     "https://www.theverge.com/2024/5/29/24166168/fitbit-ace-lte-kids-smartwatch-wearables"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "fitness"
+   ],
    "blurb": "This smartwatch is for kids, but… I want one. It has some fun games designed to get you moving, a really charming bunch of colors and accessories, and a surprising amount of power inside . Don’t love the $230 price, but love just about everything else.",
    "section": "the-drop",
    "recommender": null
@@ -52,8 +58,11 @@
    "alt_urls": [
     "https://www.youtube.com/watch?v=iyGFV6VIxkI"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "movie",
+    "subscription"
+   ],
    "blurb": "I don’t know if it’s just that I have a toddler who’s obsessed with Sesame Street and the Muppets, but even the trailer for this Disney Plus doc made me cry. It’s a story about creativity and wonder and is full of fun behind-the-scenes Muppets stuff.",
    "section": "the-drop",
    "recommender": null
@@ -63,8 +72,11 @@
    "name": "Carrot 6.0",
    "url": "https://www.meetcarrot.com/weather/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "utilities"
+   ],
    "blurb": "Some really fun updates to the most fun weather app! I like the new layouts and data viz stuff in particular, and the game-mechanic robot gardener feature is charming but not really my thing. Still: more silliness in weather apps, you love to see it.",
    "section": "the-drop",
    "recommender": null
@@ -76,8 +88,12 @@
    "alt_urls": [
     "https://www.tiktok.com/@thegeorgejankoshow/video/7372328683383655722?_r=1&_t=8mcTp8rKHSY"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "music",
+    "video"
+   ],
    "blurb": "This episode has been all over my For You page on TikTok, with Bellion explaining how the Ticketmaster / Live Nation monopoly works and the overall business of being an artist in 2024. Really interesting listen.",
    "section": "the-drop",
    "recommender": null
@@ -87,8 +103,11 @@
    "name": "Chrome’s Minimized Custom Tabs",
    "url": "https://blog.chromium.org/2024/05/multi-tasking-with-minimized-custom-tabs.html",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "android",
+    "web"
+   ],
    "blurb": "A terrible name for a really clever product: basically, picture-in-picture for a browser tab that makes the whole in-app browser idea much more seamless. It’s only Chrome for Android for now, but Google says it’s hoping every browser supports the feature, and I hope so, too.",
    "section": "the-drop",
    "recommender": null
@@ -98,8 +117,12 @@
    "name": "Trip Tunes",
    "url": "https://impresskit.net/945e5a42-7ea5-41fe-ab09-56eacfb1ba96",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "music",
+    "ai"
+   ],
    "blurb": "Large language models turn out to be really, really good at making playlists. This app is only for iOS and only for Apple Music, boo, but I love the whole mixtape-y aesthetic and that you just tell it where you’re going and the mood you’re in, and it fills the ride with music.",
    "section": "the-drop",
    "recommender": null
@@ -109,8 +132,10 @@
    "name": "The Nomad Tracking Card",
    "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://nomadgoods.com/products/tracking-card",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "travel"
+   ],
    "blurb": "I had an AirTag in my wallet for a while, but it was just a little too big. I’d much rather just slide this into the card slot since Nomad says it’s only as thick as two credit cards. The battery apparently lasts five months and charges via any MagSafe charger.",
    "section": "the-drop",
    "recommender": null
@@ -146,8 +171,12 @@
    "name": "Radio Garden",
    "url": "https://radio.garden/visit/arlington-va/4Ogyv8K6",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "free",
+    "cross-platform"
+   ],
    "blurb": "I promise I don’t organize my books by color, but I couldn’t help it with my apps. In the four corners, we’ve got my main squeeze: audio (née radio). Radio Garden is the most unbelievable (and admittedly underused) on the page.",
    "section": "screen-share",
    "recommender": "Sean"
@@ -170,8 +199,12 @@
    "name": "Seek",
    "url": "https://www.inaturalist.org/pages/seek_app",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "cross-platform",
+    "photography"
+   ],
    "blurb": "The rest of this screen is pretty stock and self-explanatory, but I want to single out Seek and all apps like it for helping us identify bugs, birds, plants, and trees. This is the future we were promised.",
    "section": "screen-share",
    "recommender": "Sean"
@@ -181,8 +214,12 @@
    "name": "Eater ’s “38 Essential Restaurants”",
    "url": "https://sf.eater.com/maps/best-restaurants-san-francisco-38",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "travel",
+    "website"
+   ],
    "blurb": "I was lucky to do a decent amount of traveling this past year, and I was constantly looking for restaurant recommendations online. Eater ’s “38 Essential Restaurants” was consistently the best curator.",
    "section": "screen-share",
    "recommender": "Sean"
@@ -192,8 +229,12 @@
    "name": "Cinematrix",
    "url": "https://www.vulture.com/article/daily-movie-grid-trivia-game-cinematrix.html",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "movie",
+    "free"
+   ],
    "blurb": "I was lucky to do a decent amount of traveling this past year, and I was constantly looking for restaurant recommendations online. Eater ’s “38 Essential Restaurants” was consistently the best curator.",
    "section": "screen-share",
    "recommender": "Sean"
@@ -203,8 +244,11 @@
    "name": "Vulture",
    "url": "https://www.vulture.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "website",
+    "article"
+   ],
    "blurb": "I was lucky to do a decent amount of traveling this past year, and I was constantly looking for restaurant recommendations online. Eater ’s “38 Essential Restaurants” was consistently the best curator.",
    "section": "screen-share",
    "recommender": "Sean"
@@ -214,7 +258,7 @@
    "name": "Magic Mike Live",
    "url": "https://magicmikelivelasvegas.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "media",
    "tags": [],
    "blurb": "I was lucky to do a decent amount of traveling this past year, and I was constantly looking for restaurant recommendations online. Eater ’s “38 Essential Restaurants” was consistently the best curator.",
    "section": "screen-share",
@@ -225,8 +269,11 @@
    "name": "Flipflop Solitaire",
    "url": "http://www.flipflopsolitaire.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "subscription"
+   ],
    "blurb": "My go-to phone games are Flipflop Solitaire and Retro Bowl (both of which are available through Apple Arcade). Retro Bowl is a fun riff on Tecmo Bowl , and Flipflop Solitaire is a fun twist on solitaire, which I play a lot when I’m killing time and don’t want to get sucked into social media.",
    "section": "crowdsourced",
    "recommender": "Jared (reader)"
@@ -236,8 +283,11 @@
    "name": "Retro Bowl",
    "url": "https://www.newstargames.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "subscription"
+   ],
    "blurb": "My go-to phone games are Flipflop Solitaire and Retro Bowl (both of which are available through Apple Arcade). Retro Bowl is a fun riff on Tecmo Bowl , and Flipflop Solitaire is a fun twist on solitaire, which I play a lot when I’m killing time and don’t want to get sucked into social media.",
    "section": "crowdsourced",
    "recommender": "Jared (reader)"
@@ -247,8 +297,12 @@
    "name": "TV Launcher",
    "url": "https://adamfoot.dev/apps/tvlauncher/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android",
+    "tv",
+    "utilities"
+   ],
    "blurb": "​​ TV Launcher is an awesome utility that gives a full TV guide, which can deep link into most streaming apps and open the exact channel automatically. It basically turns my Apple TV into a full-blown replacement for a cable box.",
    "section": "crowdsourced",
    "recommender": "Bilaal (reader)"
@@ -258,8 +312,11 @@
    "name": "Yann LeCun & Musk trash talking on Twitter",
    "url": "https://x.com/ylecun/status/1795034443809165464",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "social",
+    "ai"
+   ],
    "blurb": "Kinda controversial but Yann LeCun & Musk trash talking on Twitter . Also, I ended up re-reading a bunch of Yann’s old papers because why not.",
    "section": "crowdsourced",
    "recommender": "Kruti (reader)"
@@ -269,8 +326,11 @@
    "name": "discover that they exist",
    "url": "https://us.soundcore.com/products/v30i-a3873-open-ear-earbuds",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "fitness",
+    "music"
+   ],
    "blurb": "After searching for years for the best open-ear earbuds that allow me to roam about outside without endangering myself by blocking out traffic or other noise or blocking out the voices of my family when I’m at home, I was pleased to discover that they exist and are sometimes on sale for even less…",
    "section": "crowdsourced",
    "recommender": "Christopher (reader)"
@@ -317,8 +377,11 @@
    "name": "Threes",
    "url": "http://play.threesgame.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "paid"
+   ],
    "blurb": "I am addicted to Threes . I don’t know if anyone plays it anymore, but I love it so much. I played those ‘free versions’ for so many years I can’t even remember now.",
    "section": "crowdsourced",
    "recommender": "Kruti (reader)"
@@ -328,8 +391,12 @@
    "name": "DaisyDisk",
    "url": "https://daisydiskapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "utilities",
+    "paid"
+   ],
    "blurb": "DaisyDisk . Like WizTree and SequoiaView but for Mac and a really nice-looking UI.",
    "section": "crowdsourced",
    "recommender": "Sinan (reader)"
@@ -339,8 +406,10 @@
    "name": "Destiny 2",
    "url": "https://www.bungie.net/7/en/Destiny",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "free"
+   ],
    "blurb": "Been playing three years’ worth of Destiny 2 campaigns after they were included in PS Plus. The game is hilariously lacking in onboarding for return players, but even just sticking to solo story missions, there’s a staggering amount of content from the (IMO) best FPS studio to ever do it.",
    "section": "crowdsourced",
    "recommender": "Jonathan (reader)"

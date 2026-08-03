@@ -38,8 +38,10 @@
    "alt_urls": [
     "https://www.theverge.com/23923599/oneplus-open-review-foldable-battery-screen-camera-price"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "Yay, foldable phones! I really love the design of the Open , and OnePlus has some really cool feature ideas — but the whole thing is definitely let down by the price and durability issues.",
    "section": "the-drop",
    "recommender": null
@@ -49,8 +51,10 @@
    "name": "Search Engine ’s “Is there a sane way to use the internet?",
    "url": "https://pod.link/1614253637/episode/73c7c31d231e13771a7f5b1243999df7",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "” I’ve probably recommended Search Engine before, but it’s the first podcast in a while to make it into my “listen to every episode no matter what it’s about” rotation. This episode, with Ezra Klein, is a particularly thoughtful and helpful way of thinking about the internet now.",
    "section": "the-drop",
    "recommender": null
@@ -60,8 +64,10 @@
    "name": "Meta in Myanmar",
    "url": "https://erinkissane.com/meta-in-myanmar-full-series",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "This is a terrific four-part series about the rise of Facebook, WhatsApp, and the internet in general in Myanmar and the genocide that occurred in the country.",
    "section": "the-drop",
    "recommender": null
@@ -73,8 +79,11 @@
    "alt_urls": [
     "https://moderatormayhem.engine.is/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "Ever wondered what it’s like to try and make moderation, policy, and business decisions on the fly? Wonder no longer! This game from Techdirt is like a corporate training manual… but a good and useful one. (Techdirt’s other game, Moderator Mayhem , is similarly useful and fun.)",
    "section": "the-drop",
    "recommender": null
@@ -84,8 +93,10 @@
    "name": "The Wedding Scammer",
    "url": "https://pod.link/1711485987",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "A true-crime podcast about a guy who joined a media startup that turned out to be a scam — and not even a particularly clever one. But the scammer behind it all had lots of other moves, and they all kept working!",
    "section": "the-drop",
    "recommender": null
@@ -99,8 +110,11 @@
     "https://play.google.com/store/apps/details?id=franz.mystery.horror.interactive.story",
     "https://apps.apple.com/kz/app/franz-interactive-story/id6468365936"
    ],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "android",
+    "ios"
+   ],
    "blurb": "Imagine a Tamagotchi or a Neopet, but, like, super-duper cursed . That’s essentially the premise of this Android and iOS app in which you interact with and try to help a little AI companion that is pretty much always trying to take advantage of you in some way.",
    "section": "the-drop",
    "recommender": null
@@ -110,8 +124,11 @@
    "name": "Whole Earth Index",
    "url": "https://wholeearth.info/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "free"
+   ],
    "blurb": "The rabbit hole to end all rabbit holes for any tech-history buff: the entire archive of Whole Earth Catalog, the counterculture journal that was at the beginning of so much of Silicon Valley and tech and blogging and the internet and everything, is now online.",
    "section": "the-drop",
    "recommender": null
@@ -134,8 +151,10 @@
    "name": "The secret life of Jimmy Zhong",
    "url": "https://www.cnbc.com/2023/10/17/crypto911.html",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "Meet the man who stole 50,000 Bitcoin from the Silk Road, became a billionaire, stored a ton of money in a Cheetos popcorn tin (who knew that was even a thing!), and spent it all so lavishly he got caught. This is about the crypto-iest crypto story you’ll ever watch.",
    "section": "the-drop",
    "recommender": null
@@ -169,7 +188,7 @@
    "name": "my phone case",
    "url": "https://www.ringkestore.com/products/google-pixel-7-case-onyx",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "The wallpaper: “Mountastic” by Kxnt from the Backdrops app. I picked this particular image because it strikes a great balance between being inspirational, matches the Cascade and Olympic mountains where I live, and has areas allowing for icons and widgets. Additionally, it matches my phone case .",
    "section": "screen-share",
@@ -219,8 +238,10 @@
    "name": "the eBay app",
    "url": "https://pages.ebay.com/mobile-app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free"
+   ],
    "blurb": "TryCamel , which doesn’t do much besides offering a sharing target allowing me to track the price history of products by sharing Amazon links to it.",
    "section": "screen-share",
    "recommender": "Bart"
@@ -230,7 +251,7 @@
    "name": "Coohom",
    "url": "https://www.coohom.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "app",
    "tags": [],
    "blurb": "TryCamel , which doesn’t do much besides offering a sharing target allowing me to track the price history of products by sharing Amazon links to it.",
    "section": "screen-share",
@@ -241,7 +262,7 @@
    "name": "Lego wildflower bouquet",
    "url": "https://www.lego.com/en-us/themes/adults-welcome/botanical-collection/wildflower-bouquet",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "TryCamel , which doesn’t do much besides offering a sharing target allowing me to track the price history of products by sharing Amazon links to it.",
    "section": "screen-share",
@@ -252,7 +273,7 @@
    "name": "Halloween Horror Nights",
    "url": "https://www.universalorlando.com/hhn/en/us",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Checking out Halloween Horror Nights tomorrow! And you can bet I’ll be streaming The Exorcist tonight, then browsing the horror catalog of Peacock afterward.",
    "section": "crowdsourced",
@@ -276,8 +297,12 @@
    "name": "the horror catalog of Peacock",
    "url": "https://imp.i305175.net/c/482924/828265/11640",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "movie",
+    "tv",
+    "subscription"
+   ],
    "blurb": "Checking out Halloween Horror Nights tomorrow! And you can bet I’ll be streaming The Exorcist tonight, then browsing the horror catalog of Peacock afterward.",
    "section": "crowdsourced",
    "recommender": "Christian (reader)"
@@ -300,8 +325,12 @@
    "name": "Remix",
    "url": "https://getremix.ai/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "social",
+    "free"
+   ],
    "blurb": "I think of Remix as Instagram meets AI. I’ve had a lot of fun with it, as my prompting skill improves the more I use it. There’s also the concept of ‘remixing,’ which creates threads of related posts. Quite fun!",
    "section": "crowdsourced",
    "recommender": "Jason (reader)"
@@ -337,8 +366,10 @@
    "name": "this book",
    "url": "https://herringbonebooks.indielite.org/book/9781684810536",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "As a Simpsons fan, this book just hit preorder stages, and I’m very excited to eventually get into it. It’s basically a collection of various memorabilia and merchandise throughout the course of the lifetime of the show.",
    "section": "crowdsourced",
    "recommender": "Joseph (reader)"
@@ -361,8 +392,11 @@
    "name": "Catchup",
    "url": "https://www.getcatchup.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "utilities"
+   ],
    "blurb": "Catchup is a simple but polished utility for keeping track of when you last talked to people close to you. You set how frequently you want to be in touch with each person (weekly, monthly, etc.) and see who’s due for a call.",
    "section": "crowdsourced",
    "recommender": "Lachlan (reader)"
@@ -372,7 +406,7 @@
    "name": "Cocoon",
    "url": "https://www.cocoongame.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Just finished Cocoon on PS5. Brilliant puzzle adventure game where you’re carrying orbs that house different realms and traversing between them. It’s also by one of the minds behind Inside and Limbo . Short, sweet, and a perfect precursor to Spider-Man 2 .",
    "section": "crowdsourced",
@@ -383,8 +417,10 @@
    "name": "Offsuit",
    "url": "https://offsuit.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ai"
+   ],
    "blurb": "Offsuit , AI offline poker app. Really clean interface, leaderboards, etc.",
    "section": "crowdsourced",
    "recommender": "Jonathan (reader)"
@@ -394,8 +430,11 @@
    "name": "Derek Sivers’ step-by-step guide to “Tech Independence”",
    "url": "https://sive.rs/ti",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "web"
+   ],
    "blurb": "I’ve spent the last couple of weeks deep down the self-hosting rabbit hole working on some Vergecast stuff coming soon. I have this idea that I might be able to replace a lot of the (increasingly unreliable) cloud services I use with some self-hosted ones. So far, I have mostly failed.",
    "section": "signing-off",
    "recommender": null

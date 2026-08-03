@@ -23,7 +23,7 @@
    "name": "Civilization VII",
    "url": "https://civilization.2k.com/civ-vii/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "It’s still technically only in early access, but by most accounts, this game lives up to the series’ truly epic, practically unparalleled depth and history. I’ve always avoided these games for fear they’d take over my life — but maybe it’s time.",
    "section": "the-drop",
@@ -34,7 +34,7 @@
    "name": "Kingdom Come: Deliverance II",
    "url": "https://kingdomcomerpg.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Big week for outrageously huge, deliberate, thousands-of-hours games! Warhorse’s new epic seems to be a now-rare, kind of slow, truly open world — which I suspect might be the exact kind of escape people need right now. You know, for Reasons.",
    "section": "the-drop",
@@ -45,8 +45,10 @@
    "name": "Avoiding Outrage Fatigue while Staying Informed",
    "url": "https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "“ Avoiding Outrage Fatigue while Staying Informed .” A really good Scientific American podcast about a topic that feels, uh, very relevant right now. It’s important to understand what’s happening! But we all need some help to manage it all.",
    "section": "the-drop",
    "recommender": null
@@ -56,8 +58,11 @@
    "name": "ChatGPT deep research",
    "url": "https://openai.com/index/introducing-deep-research/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "subscription"
+   ],
    "blurb": "The new thing in LLMs is models that can take their time, work through a problem, and come to much better and more useful answers. I’ve only played with deep research a little, but it’s impressive — and even experts are saying it gets most things right.",
    "section": "the-drop",
    "recommender": null
@@ -70,8 +75,12 @@
     "https://reeder.app/",
     "https://feeeed.nateparrott.com/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "social",
+    "paid"
+   ],
    "blurb": "I’m kinda done with algorithms, and I think timeline apps like this one, and Reeder , and Feeeed , are going to be a big deal. Put your favorite blogs, creators, podcasts, Bluesky follows, and everything else in one place — Apple devices only, alas — and consume it all at your speed.",
    "section": "the-drop",
    "recommender": null
@@ -81,8 +90,12 @@
    "name": "Tana",
    "url": "https://tana.inc/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "web",
+    "beta"
+   ],
    "blurb": "Tana’s been in beta for a while and has developed into one of the most powerful and power user-friendly productivity apps out there. It’s like an even nerdier Notion — and there’s a lot about it I really like.",
    "section": "the-drop",
    "recommender": null
@@ -94,8 +107,10 @@
    "alt_urls": [
     "https://tubitv.com/superbowl"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "Tubi Originals! Are apparently a thing! I’m sort of shocked how fun I found the pilot about a bunch of rowdy youths who take charge at an ad agency. Definitely one to watch after the Super Bowl ( also on Tubi! ) ends this weekend.",
    "section": "the-drop",
    "recommender": null
@@ -118,8 +133,12 @@
    "name": "Instapaper 9.1",
    "url": "https://www.instapaper.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "ios",
+    "cross-platform"
+   ],
    "blurb": "Instapaper is the OG read-later app and continues to get better. The newest update does a particularly nice job of managing paywalls and logins, which makes the whole process of saving stuff feel much more seamless. (So far, it’s only for iOS, but I assume it’s coming to Android soon.)",
    "section": "the-drop",
    "recommender": null
@@ -166,8 +185,12 @@
    "name": "Feedly",
    "url": "https://feedly.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "cross-platform",
+    "productivity"
+   ],
    "blurb": "I like to keep my homescreen very clean of notifications and extraneous apps. I only keep my eight most-used apps on there. Of note: I use Feedly for keeping up with RSS feeds and news. RSS feeds are such a nicer way of consuming internet content than anything else!",
    "section": "screen-share",
    "recommender": "Cooper"
@@ -177,8 +200,12 @@
    "name": "Bluesky",
    "url": "https://bsky.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "free",
+    "cross-platform"
+   ],
    "blurb": "I like to keep my homescreen very clean of notifications and extraneous apps. I only keep my eight most-used apps on there. Of note: I use Feedly for keeping up with RSS feeds and news. RSS feeds are such a nicer way of consuming internet content than anything else!",
    "section": "screen-share",
    "recommender": "Cooper"
@@ -188,8 +215,10 @@
    "name": "my main social network",
    "url": "https://bsky.app/profile/cooperq.com",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social"
+   ],
    "blurb": "I like to keep my homescreen very clean of notifications and extraneous apps. I only keep my eight most-used apps on there. Of note: I use Feedly for keeping up with RSS feeds and news. RSS feeds are such a nicer way of consuming internet content than anything else!",
    "section": "screen-share",
    "recommender": "Cooper"
@@ -199,8 +228,13 @@
    "name": "Signal",
    "url": "https://signal.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "open-source",
+    "cross-platform",
+    "social"
+   ],
    "blurb": "I like to keep my homescreen very clean of notifications and extraneous apps. I only keep my eight most-used apps on there. Of note: I use Feedly for keeping up with RSS feeds and news. RSS feeds are such a nicer way of consuming internet content than anything else!",
    "section": "screen-share",
    "recommender": "Cooper"
@@ -223,8 +257,10 @@
    "name": "The HIRS Collective",
    "url": "https://getbetterrecords.com/collections/the-hirs-collective",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "Star Trek: The Next Generation reruns — this is pure comfort food. I’ve been listening to this hardcore punk band made up of all trans folks called The HIRS Collective . I’m really excited about Meshtastic and LoRa meshes , so that’s been cool. I’ve been replaying Fallout: New Vegas .",
    "section": "screen-share",
    "recommender": "Cooper"
@@ -234,8 +270,12 @@
    "name": "Meshtastic",
    "url": "https://meshtastic.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "utilities"
+   ],
    "blurb": "Star Trek: The Next Generation reruns — this is pure comfort food. I’ve been listening to this hardcore punk band made up of all trans folks called The HIRS Collective . I’m really excited about Meshtastic and LoRa meshes , so that’s been cool. I’ve been replaying Fallout: New Vegas .",
    "section": "screen-share",
    "recommender": "Cooper"
@@ -245,7 +285,7 @@
    "name": "LoRa meshes",
    "url": "https://meshtastic.org/docs/introduction/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Star Trek: The Next Generation reruns — this is pure comfort food. I’ve been listening to this hardcore punk band made up of all trans folks called The HIRS Collective . I’m really excited about Meshtastic and LoRa meshes , so that’s been cool. I’ve been replaying Fallout: New Vegas .",
    "section": "screen-share",
@@ -256,7 +296,7 @@
    "name": "Fallout: New Vegas",
    "url": "https://fallout.bethesda.net/en/games/fallout-new-vegas",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Star Trek: The Next Generation reruns — this is pure comfort food. I’ve been listening to this hardcore punk band made up of all trans folks called The HIRS Collective . I’m really excited about Meshtastic and LoRa meshes , so that’s been cool. I’ve been replaying Fallout: New Vegas .",
    "section": "screen-share",
@@ -267,8 +307,10 @@
    "name": "Bleep",
    "url": "https://bleep.is/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "Using Bleep . It’s like Google Keep got in a fight with MyMind and agreed to be friends.",
    "section": "crowdsourced",
    "recommender": "Esteban (reader)"
@@ -278,8 +320,11 @@
    "name": "Firewalla",
    "url": "https://firewalla.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home",
+    "utilities"
+   ],
    "blurb": "Firewalla . They are a router / firewall company that truly makes an appliance that can be plug-and-play, with a shell available for power users to do more things. They recently also released access points that are also super simple to set up.",
    "section": "crowdsourced",
    "recommender": "Gurupanguji (reader)"
@@ -289,8 +334,11 @@
    "name": "GameTrack",
    "url": "https://gametrack.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "I am looking for a good app to track the games I am playing (or plan to) across various platforms. So far, GameTrack is my favorite, but Game Tracker seems like a good and cheaper entry. (Yes, they have basically the same name but are different apps, not confusing at all.)",
    "section": "crowdsourced",
    "recommender": "Daniele (reader)"
@@ -300,8 +348,10 @@
    "name": "Game Tracker",
    "url": "https://gametracker.cloud/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "I am looking for a good app to track the games I am playing (or plan to) across various platforms. So far, GameTrack is my favorite, but Game Tracker seems like a good and cheaper entry. (Yes, they have basically the same name but are different apps, not confusing at all.)",
    "section": "crowdsourced",
    "recommender": "Daniele (reader)"
@@ -311,8 +361,12 @@
    "name": "T3 Chat",
    "url": "https://t3.chat/chat/welcome",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web",
+    "subscription"
+   ],
    "blurb": "Using the T3 Chat client instead of the ChatGPT website or Anthropic’s crappy desktop app — turns out just making the webpage fast is an insane improvement to the experience.",
    "section": "crowdsourced",
    "recommender": "jtromero (reader)"
@@ -322,8 +376,12 @@
    "name": "ElevenReader",
    "url": "https://elevenlabs.io/text-reader",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "free",
+    "podcast"
+   ],
    "blurb": "I’ve been using the ElevenReader app by ElevenLabs to create podcasts from some of those TL;DR articles. It boils them down into a shorter — obviously cruder — form so I can listen to a few while walking the dog.",
    "section": "crowdsourced",
    "recommender": "Alan (reader)"
@@ -333,8 +391,12 @@
    "name": "Superlist",
    "url": "https://www.superlist.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform",
+    "ios"
+   ],
    "blurb": "Trying Superlist again, love the thoughtful and beautiful design and the recent updates. Love that I can log on via web and quickly glance on my iPhone. Love the recent update.",
    "section": "crowdsourced",
    "recommender": "Samuel (reader)"
@@ -344,7 +406,7 @@
    "name": "Moccamaster",
    "url": "https://us.moccamaster.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Moccamaster for coffee brewing. I’ve been switching back and forth from a pour-over to the Moccamaster the last while. I happened to be drinking a fresh pot when I read your post.",
    "section": "crowdsourced",
@@ -355,8 +417,11 @@
    "name": "Androids: The Team that Built the Android Operating System",
    "url": "https://www.oreilly.com/library/view/androids/9781098130237/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "android"
+   ],
    "blurb": "Finally got around to reading Androids: The Team that Built the Android Operating System . An amazing book to understand how Android came to be, and that made me dig out my old OS college notes. Now I’m reading too much about OSes of the ’90s / 2000s.",
    "section": "crowdsourced",
    "recommender": "Kruti (reader)"
@@ -366,8 +431,12 @@
    "name": "Letterboxd",
    "url": "https://letterboxd.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "movie",
+    "free"
+   ],
    "blurb": "There’s a group on Letterboxd that runs a monthly movie Scavenger Hunt , with a new host each month, that creates prompts for each day. Like: ‘watch a film from a country you want to visit.’ It really helps expand your movie horizon.",
    "section": "crowdsourced",
    "recommender": "Allyn (reader)"
@@ -377,8 +446,11 @@
    "name": "a monthly movie Scavenger Hunt",
    "url": "https://letterboxd.com/urfactual/list/2025-scavenger-hunt/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "movie",
+    "social"
+   ],
    "blurb": "There’s a group on Letterboxd that runs a monthly movie Scavenger Hunt , with a new host each month, that creates prompts for each day. Like: ‘watch a film from a country you want to visit.’ It really helps expand your movie horizon.",
    "section": "crowdsourced",
    "recommender": "Allyn (reader)"
@@ -388,8 +460,11 @@
    "name": "Sonos Beam (second-gen)",
    "url": "https://www.sonos.com/https://www.dpbolvw.net/click-8836598-11556673?sid=VergeNewsletter020725&url=https://www.sonos.com/en-us/shop/beamen-us/shop/beam",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home",
+    "music"
+   ],
    "blurb": "I bought a Sonos Beam (second-gen) , and it is such a huge upgrade over my TV’s speakers. I am kicking myself for not doing it years ago.",
    "section": "crowdsourced",
    "recommender": "Joshua (reader)"
@@ -399,8 +474,12 @@
    "name": "WikiTok",
    "url": "https://wikitok.vercel.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "website",
+    "free"
+   ],
    "blurb": "I probably use TikTok too much, but in addition to all the Office bloopers and stand-up clips it shows me, the thing I like most about it is the interface.",
    "section": "signing-off",
    "recommender": null
@@ -410,8 +489,12 @@
    "name": "ReddTok",
    "url": "https://reddtok.vercel.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "website",
+    "free"
+   ],
    "blurb": "I probably use TikTok too much, but in addition to all the Office bloopers and stand-up clips it shows me, the thing I like most about it is the interface.",
    "section": "signing-off",
    "recommender": null

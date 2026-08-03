@@ -23,8 +23,11 @@
    "name": "Sofa 5",
    "url": "https://www.sofahq.com/5",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "A huge update to an Installerverse favorite, this app is now a great way to manage everything you want to watch, read, play, and even do IRL. I never quite made it stick when it was mostly just movies and shows, but now I think of it as like a Notion for my personal life.",
    "section": "the-drop",
    "recommender": null
@@ -34,8 +37,11 @@
    "name": "Surf",
    "url": "https://surf.social/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "ios"
+   ],
    "blurb": "After a long beta, this feed reader / social network / timeline app finally launched, and I still think it’s a great idea. The fediverse doesn’t have to look like Twitter! It can be lots of things! Surf is one of those things.",
    "section": "the-drop",
    "recommender": null
@@ -69,8 +75,12 @@
    "name": "Proton Meet",
    "url": "https://proton.me/meet",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "video",
+    "web",
+    "cross-platform"
+   ],
    "blurb": "There are a lot of good reasons to be worried about the privacy of your meetings, the recordings of those meetings, the AI summaries of those meetings, and everything else. Proton’s new tool is encrypted, simple, and seems to work well. Gonna swap a lot of Google Meets for this.",
    "section": "the-drop",
    "recommender": null
@@ -93,8 +103,11 @@
    "name": "Day One Chat",
    "url": "https://dayoneapp.com/guides/labs/daily-chat/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "ios"
+   ],
    "blurb": "A chatbot that prompts you through a journal entry, so that every day is a conversation instead of a monologue. It’s definitely not how everybody journals, but it might make the habit easier to start.",
    "section": "the-drop",
    "recommender": null
@@ -132,8 +145,11 @@
    "name": "Twos",
    "url": "https://www.twosapp.com",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "I’ve been using Twos , a note-taking and to-do list app, a lot over the last couple of years. The app does a lot, but in a very straightforward way, and it just works the way my brain does.",
    "section": "screen-share",
    "recommender": "Parker"
@@ -143,7 +159,7 @@
    "name": "Parker Klein",
    "url": "https://www.parkerklein.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Well, Parker Klein , the developer behind Twos, shipped a new version of the app this week that is a huge improvement in that respect. Every corner of the app feels cleaner and more polished, and I’ve been loving it in beta for the last few weeks. The wildest part?",
    "section": "screen-share",
@@ -154,8 +170,12 @@
    "name": "Claude Mac app",
    "url": "https://claude.com/download",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "mac",
+    "subscription"
+   ],
    "blurb": "“I use the Claude Mac app on my MacBook Pro, on their Max plan. It works directly with the directory and files on my computer, and then I commit to GitHub and deploy on my own.",
    "section": "screen-share",
    "recommender": "Parker"
@@ -165,8 +185,11 @@
    "name": "Claude Code extension in VSCode",
    "url": "https://code.claude.com/docs/en/vs-code",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "cross-platform"
+   ],
    "blurb": "“I use the Claude Mac app on my MacBook Pro, on their Max plan. It works directly with the directory and files on my computer, and then I commit to GitHub and deploy on my own.",
    "section": "screen-share",
    "recommender": "Parker"
@@ -176,8 +199,11 @@
    "name": "Cursor",
    "url": "https://cursor.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "cross-platform"
+   ],
    "blurb": "“I use the Claude Mac app on my MacBook Pro, on their Max plan. It works directly with the directory and files on my computer, and then I commit to GitHub and deploy on my own.",
    "section": "screen-share",
    "recommender": "Parker"
@@ -187,8 +213,11 @@
    "name": "Hyperspace",
    "url": "https://hypercritical.co/hyperspace/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "utilities"
+   ],
    "blurb": "John Siracusa’s app Hyperspace on the Mac App Store — great for saving space on your Mac (but it doesn’t actually delete any files through the use of APFS).",
    "section": "crowdsourced",
    "recommender": "Quack (reader)"
@@ -198,8 +227,11 @@
    "name": "VidaBay Snap",
    "url": "https://vidabay.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography",
+    "ios"
+   ],
    "blurb": "I got a terrible/wonderful color e-ink photo frame: the VidaBay Snap . No wires, no battery. Transfer exactly one (1) photo via NFC. It only works on iOS (for now?), I have to transfer a white image to clear it thoroughly before changing the photo, and it’s SUPER janky.",
    "section": "crowdsourced",
    "recommender": "Daniel (reader)"
@@ -209,7 +241,7 @@
    "name": "Crimson Desert",
    "url": "https://crimsondesert.pearlabyss.com/en-US/Main",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I’m playing Crimson Desert , the amazing open-world RPG with characters who have no personality and a main plot with no diegetic quest delivery. But it’s gorgeous and huge, combat is fun, and it lets you pick grasshoppers out of a field.",
    "section": "crowdsourced",
@@ -246,8 +278,10 @@
    "name": "Indie Game Works",
    "url": "https://readonlymemory.com/pages/indie-game-works",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Indie Game Works . Excellent new book release from ROM on the greatest indie games of the 21st century.",
    "section": "crowdsourced",
    "recommender": "Andy (reader)"
@@ -257,8 +291,11 @@
    "name": "Emby",
    "url": "https://emby.media/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "video"
+   ],
    "blurb": "Recently I have been mostly in Google and Claude, searching ‘how to use an old phone as a media server,’ and Reddit has suggested that I should try Emby . It is a little slow — maybe I should connect ethernet to my TV — but it is kinda awesome!",
    "section": "crowdsourced",
    "recommender": "Aftab (reader)"
@@ -268,8 +305,10 @@
    "name": "The Demon Cycle",
    "url": "https://www.penguinrandomhouse.com/series/DMN/the-demon-cycle/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’m an avid audiobook fan, and thought these recommendations might be of interest. The Demon Cycle series by Peter V. Brett is an epic world of magic, demons and fantasy. A dark and fascinating cultural delight!",
    "section": "crowdsourced",
    "recommender": "Brian (reader)"
@@ -279,8 +318,10 @@
    "name": "The Stormlight Archive",
    "url": "https://www.brandonsanderson.com/pages/the-stormlight-archive-series",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’m an avid audiobook fan, and thought these recommendations might be of interest. The Demon Cycle series by Peter V. Brett is an epic world of magic, demons and fantasy. A dark and fascinating cultural delight!",
    "section": "crowdsourced",
    "recommender": "Brian (reader)"
@@ -290,8 +331,11 @@
    "name": "Wanderlog",
    "url": "https://wanderlog.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "travel",
+    "cross-platform"
+   ],
    "blurb": "I recently gave Wanderlog a try for planning my family’s summer road trip. It made it a breeze to co-plan this with my husband. It also saved us from accidentally making a 12 hr driving day. Such a great tool!",
    "section": "crowdsourced",
    "recommender": "Naomi (reader)"
@@ -301,8 +345,11 @@
    "name": "Guinness World Records",
    "url": "https://www.tiktok.com/@guinnessworldrecords",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "social"
+   ],
    "blurb": "Guinness World Records is my new favorite thing on TikTok. I don’t know how I didn’t find it until this week, but it’s perfect: just an endless feed of remarkable accomplishments, whether it’s clapping a billion times a minute , driving a truck through an impossibly tiny opening , or just being a…",
    "section": "signing-off",
    "recommender": null
@@ -312,8 +359,11 @@
    "name": "clapping a billion times a minute",
    "url": "https://www.tiktok.com/@guinnessworldrecords/video/7620853307237518614",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "social"
+   ],
    "blurb": "Guinness World Records is my new favorite thing on TikTok. I don’t know how I didn’t find it until this week, but it’s perfect: just an endless feed of remarkable accomplishments, whether it’s clapping a billion times a minute , driving a truck through an impossibly tiny opening , or just being a…",
    "section": "signing-off",
    "recommender": null
@@ -323,8 +373,11 @@
    "name": "driving a truck through an impossibly tiny opening",
    "url": "https://www.tiktok.com/@guinnessworldrecords/video/7620124614257200387",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "social"
+   ],
    "blurb": "Guinness World Records is my new favorite thing on TikTok. I don’t know how I didn’t find it until this week, but it’s perfect: just an endless feed of remarkable accomplishments, whether it’s clapping a billion times a minute , driving a truck through an impossibly tiny opening , or just being a…",
    "section": "signing-off",
    "recommender": null
@@ -334,8 +387,11 @@
    "name": "being a very large snake",
    "url": "https://www.tiktok.com/@guinnessworldrecords/video/7602959292437728534",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "social"
+   ],
    "blurb": "Guinness World Records is my new favorite thing on TikTok. I don’t know how I didn’t find it until this week, but it’s perfect: just an endless feed of remarkable accomplishments, whether it’s clapping a billion times a minute , driving a truck through an impossibly tiny opening , or just being a…",
    "section": "signing-off",
    "recommender": null

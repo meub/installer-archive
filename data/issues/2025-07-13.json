@@ -25,8 +25,10 @@
    "alt_urls": [
     "https://www.theverge.com/phones/701076/samsung-galaxy-z-fold-flip-7-fe-hands-on"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "Foldables have never really interested me, but even I am extremely impressed by just how thin the Z Fold 7 looks . But then I look at the price: $1,999, a $100 increase from the Z Fold 6! Too rich for my blood. The Z Flip 7 , with its edge-to-edge cover display, also seems like a good upgrade.",
    "section": "the-drop",
    "recommender": null
@@ -38,8 +40,11 @@
    "alt_urls": [
     "https://www.theverge.com/hands-on/701175/samsung-galaxy-watch-8-series-hands-on-smartwatch-fitness-health-wearables"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android",
+    "fitness"
+   ],
    "blurb": "As Victoria Song said , “the squircle has taken over”: Samsung’s new Galaxy Watch 8 and Watch 8 Classic now have circle faces set in rounded square bodies.",
    "section": "the-drop",
    "recommender": null
@@ -51,8 +56,10 @@
    "alt_urls": [
     "https://www.theverge.com/news/695788/nothing-phone-3-launch-news-specs-price"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "This was technically announced last week, but Installer took the week off for the July 4th holiday in the US, so I’m including it now. Nothing is touting this phone as its “ first true flagship ” — though perhaps the most noticeable thing about it is its unusual camera layout.",
    "section": "the-drop",
    "recommender": null
@@ -64,8 +71,10 @@
    "alt_urls": [
     "https://www.theverge.com/headphone-review/695609/nothing-headphone-1-review"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "Nothing announced its first pair of over-ear headphones last week, too, and they seem like a decent pair of cans . The translucent design isn’t my cup of tea, but props to Nothing for trying something funky and new.",
    "section": "the-drop",
    "recommender": null
@@ -78,7 +87,7 @@
     "https://www.theverge.com/games/704560/tony-hawks-pro-skater-3-4-nintendo-switch-2-comparison",
     "https://www.tonyhawkthegame.com/blog/2025/07/tony-hawk-pro-skater-three-four-customization-accessibility-overview"
    ],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "This game puts remakes of two classics into one package, and it’s awesome. I’ve been playing on my Switch 2 — where it runs pretty well ! — and have had a blast reliving my youth.",
    "section": "the-drop",
@@ -89,8 +98,12 @@
    "name": "HBO Max",
    "url": "https://max.prf.hn/click/camref:1101lqHRA/destination:https%3A%2F%2Fwww.hbomax.com%2F",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "subscription",
+    "video",
+    "tv"
+   ],
    "blurb": "Max is HBO Max again, like it probably always should have been, even though HBO Max isn’t a great name, either.",
    "section": "the-drop",
    "recommender": null
@@ -102,8 +115,11 @@
    "alt_urls": [
     "https://www.theverge.com/news/704162/opeani-ai-web-browser-chatgpt"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "mac"
+   ],
    "blurb": "The AI “answer” engine’s new browser naturally uses Perplexity as its main search engine but also has an AI assistant built in. Browsers could be the next big turf war for AI companies, and Perplexity is beating OpenAI to the punch .",
    "section": "the-drop",
    "recommender": null
@@ -150,8 +166,11 @@
    "name": "Overcast",
    "url": "https://overcast.fm/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "podcast",
+    "ios"
+   ],
    "blurb": "The apps: I try to keep things simple and positioned in an easy-to-reach area. I don’t keep social media apps on my phone in an attempt to be healthier, so it’s mostly things that are useful: vehicle apps (still a bit cold in Canada, so gotta love being able to preheat your vehicle), with Overcast…",
    "section": "screen-share",
    "recommender": "Christian"
@@ -161,8 +180,12 @@
    "name": "Microsoft To Do",
    "url": "https://www.microsoft.com/en-us/microsoft-365/microsoft-to-do-list-app",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform",
+    "free"
+   ],
    "blurb": "The apps: I try to keep things simple and positioned in an easy-to-reach area. I don’t keep social media apps on my phone in an attempt to be healthier, so it’s mostly things that are useful: vehicle apps (still a bit cold in Canada, so gotta love being able to preheat your vehicle), with Overcast…",
    "section": "screen-share",
    "recommender": "Christian"
@@ -172,8 +195,11 @@
    "name": "ChatGPT",
    "url": "https://chatgpt.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "cross-platform"
+   ],
    "blurb": "The apps: I try to keep things simple and positioned in an easy-to-reach area. I don’t keep social media apps on my phone in an attempt to be healthier, so it’s mostly things that are useful: vehicle apps (still a bit cold in Canada, so gotta love being able to preheat your vehicle), with Overcast…",
    "section": "screen-share",
    "recommender": "Christian"
@@ -209,8 +235,11 @@
    "name": "Chess.com app",
    "url": "http://chess.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "The apps: I try to keep things simple and positioned in an easy-to-reach area. I don’t keep social media apps on my phone in an attempt to be healthier, so it’s mostly things that are useful: vehicle apps (still a bit cold in Canada, so gotta love being able to preheat your vehicle), with Overcast…",
    "section": "screen-share",
    "recommender": "Christian"
@@ -220,8 +249,11 @@
    "name": "Card Thief",
    "url": "http://www.card-thief.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "I want to give a shoutout to my favorite mobile game designer who’s based here in Germany: Arnold Rauers and his little studio Tiny Touchtales develop some beautiful, addictive light strategy games. My favorites are Card Thief , Geo Gods , and Miracle Merchant .",
    "section": "crowdsourced",
    "recommender": "Nick (reader)"
@@ -231,8 +263,11 @@
    "name": "Geo Gods",
    "url": "http://www.geo-gods.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "I want to give a shoutout to my favorite mobile game designer who’s based here in Germany: Arnold Rauers and his little studio Tiny Touchtales develop some beautiful, addictive light strategy games. My favorites are Card Thief , Geo Gods , and Miracle Merchant .",
    "section": "crowdsourced",
    "recommender": "Nick (reader)"
@@ -242,8 +277,11 @@
    "name": "Miracle Merchant",
    "url": "http://www.miracle-merchant.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "I want to give a shoutout to my favorite mobile game designer who’s based here in Germany: Arnold Rauers and his little studio Tiny Touchtales develop some beautiful, addictive light strategy games. My favorites are Card Thief , Geo Gods , and Miracle Merchant .",
    "section": "crowdsourced",
    "recommender": "Nick (reader)"
@@ -253,8 +291,12 @@
    "name": "Nova",
    "url": "https://nova.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "paid",
+    "productivity"
+   ],
    "blurb": "I use Panic’s Nova to make websites and truly love it. Probably my favorite app. Mimestream is also fantastic! Can’t wait for the iPhone version.",
    "section": "crowdsourced",
    "recommender": "Jeanne (reader)"
@@ -264,8 +306,12 @@
    "name": "Mimestream",
    "url": "https://mimestream.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "productivity",
+    "subscription"
+   ],
    "blurb": "I use Panic’s Nova to make websites and truly love it. Probably my favorite app. Mimestream is also fantastic! Can’t wait for the iPhone version.",
    "section": "crowdsourced",
    "recommender": "Jeanne (reader)"
@@ -288,8 +334,11 @@
    "name": "Obsidian",
    "url": "https://obsidian.md/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "Obsidian and Anybox .",
    "section": "crowdsourced",
    "recommender": "Peter (reader)"
@@ -299,8 +348,12 @@
    "name": "Anybox",
    "url": "https://anybox.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "ios",
+    "productivity"
+   ],
    "blurb": "Obsidian and Anybox .",
    "section": "crowdsourced",
    "recommender": "Peter (reader)"
@@ -310,8 +363,11 @@
    "name": "Crouton",
    "url": "https://crouton.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac"
+   ],
    "blurb": "I’m constantly shocked whenever recommendations come up for recipe apps that Crouton is not mentioned. To me, if Apple were to have made a recipe app themselves, this would be it.",
    "section": "crowdsourced",
    "recommender": "Justin (reader)"
@@ -321,8 +377,10 @@
    "name": "The First Fifteen Lives of Harry August",
    "url": "https://www.clairenorth.com/titles/claire-north/the-first-fifteen-lives-of-harry-august/9781405528252/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "All of Claire North’s books are fantastic! Her stuff is super original: sci-fi-ish but more about big ideas like time, memory, and identity. She does a really good job of bringing out the nuances and real-life feelings and consequences of the roles her characters have.",
    "section": "crowdsourced",
    "recommender": "Dave (reader)"
@@ -332,8 +390,10 @@
    "name": "Touch",
    "url": "https://www.clairenorth.com/titles/claire-north/touch/9780356504575/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "All of Claire North’s books are fantastic! Her stuff is super original: sci-fi-ish but more about big ideas like time, memory, and identity. She does a really good job of bringing out the nuances and real-life feelings and consequences of the roles her characters have.",
    "section": "crowdsourced",
    "recommender": "Dave (reader)"
@@ -343,8 +403,12 @@
    "name": "Marvel Snap",
    "url": "https://marvelsnap.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "I know it’s been out for a while, but my whole family is addicted to Marvel Snap . The new season with The Fantastic Four is really fun so far and this gives my kids things that help them tickle their brain with logic. Also, all the different variants for the cards are really cool to see.",
    "section": "crowdsourced",
    "recommender": "WALL-E (reader)"
@@ -354,8 +418,11 @@
    "name": "Folio",
    "url": "https://savewithfolio.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "Been using Folio as my Pocket replacement and have been quite happy.",
    "section": "crowdsourced",
    "recommender": "Carter (reader)"
@@ -365,8 +432,11 @@
    "name": "The Trip",
    "url": "https://www.themoviedb.org/collection/309300-the-trip-collection?language=en-US",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "movie",
+    "subscription"
+   ],
    "blurb": "All four The Trip movies are streaming on Criterion Channel. Very funny, very mean comedies — and the longer BBC episodic cuts are also available too, if you want the extended play version (which you will).",
    "section": "crowdsourced",
    "recommender": "Kevin (reader)"
@@ -387,8 +457,10 @@
    "name": "Baba Is You",
    "url": "https://hempuli.com/baba/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "cross-platform"
+   ],
    "blurb": "Despite my backlog, I’m checking out A Solitaire Mystery , as I have no choice but to play anything from the Baba Is You developer.",
    "section": "crowdsourced",
    "recommender": "Tristan (reader)"
@@ -398,8 +470,10 @@
    "name": "Pixel line",
    "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://store.google.com/category/phones?hl=en-US",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "Just made the switch to the Pixel line from iOS, and I’m really digging trying a new OS. Outside of that, I’ve been taking a slight tech break and going back to physically painting, reading paperbacks, and being present.",
    "section": "crowdsourced",
    "recommender": "EmpireStrikesBacktotheFuture (reader)"
@@ -409,8 +483,10 @@
    "name": "Taskmaster",
    "url": "https://taskmaster.tv/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "All week, I have been mourning the recent end of the latest series of Taskmaster , a British comedy show where five comedians must all complete absurd tasks and be graded on them by the show’s mercurial host.",
    "section": "signing-off",
    "recommender": null

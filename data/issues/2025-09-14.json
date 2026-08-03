@@ -25,8 +25,10 @@
    "alt_urls": [
     "https://www.theverge.com/news/775802/apple-iphone-17-deal-compare-pro"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ios"
+   ],
    "blurb": "The Air looks great, the Pro has lots of impressive features, but for my money, the base iPhone 17 is the one to get this year . Screen upgrade, more durable, camera improvements, more storage, nice price. Other than the zoom camera, there’s not really much of a reason for people to go Pro.",
    "section": "the-drop",
    "recommender": null
@@ -36,8 +38,11 @@
    "name": "The AirPods Pro 3",
    "url": "https://www.apple.com/airpods-pro/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music",
+    "ios"
+   ],
    "blurb": "The new Apple thing that I’m most excited about is actually the $250 headphones with better noise cancellation, better battery, more durability, and some useful health features. A slam-dunk upgrade to one of Apple’s best products.",
    "section": "the-drop",
    "recommender": null
@@ -47,8 +52,10 @@
    "name": "Beats iPhone 17 Pro Kickstand Case with MagSafe and Camera Control",
    "url": "https://www.apple.com/shop/product/MGTN4LL/A/beats-iphone-17-pro-kickstand-case-with-magsafe-and-camera-control-lime-stone?fnode=16b7c3651193b04a816c231847f00665e5f6eebe9f3ad70cef3da9243215e7dd68c86bbfd9bba72c73c0ace5ea8eca53f33b557ddd8468f592978687f985a1df3cfcf41114a62e1f98767ae3f362414c79335d00d5817edf370e51a57f1dfd7c",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ios"
+   ],
    "blurb": "Clunky name, clever product: an iPhone case with a lanyard that flips around and becomes a kickstand. I barely understand how this even works, but I love a way to prop my phone up on the counter.",
    "section": "the-drop",
    "recommender": null
@@ -77,8 +84,11 @@
    "alt_urls": [
     "https://www.theverge.com/cameras/775373/nikons-first-red-co-brand-is-the-nikon-zr"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "video",
+    "photography"
+   ],
    "blurb": "This video-centric new camera seems to be roughly what you’d expect a year and change after Nikon acquired RED: a great capture system with a massive amount of post-production flexibility. It’s not on sale until next month, though, so start putting aside the $2,200 now.",
    "section": "the-drop",
    "recommender": null
@@ -105,8 +115,11 @@
    "alt_urls": [
     "https://www.theverge.com/spotify/775189/spotify-lossless-streaming-flac-audio"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "music",
+    "subscription"
+   ],
    "blurb": "Only took most of a decade ! And at no extra cost. I think it’s great that there’s a higher-end streaming option, even though it’s not as hi-fi as some other streaming services, and I don’t think my laptop speakers are going to project much difference anyway.",
    "section": "the-drop",
    "recommender": null
@@ -118,8 +131,10 @@
    "alt_urls": [
     "https://www.theverge.com/games/776148/borderlands-4-review-coop-looter-shooter-gearbox"
    ],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "paid"
+   ],
    "blurb": "This might be a stupid thing to say, but I love a game that doesn’t try to be, like, thoughtful and smart and about something. Borderlands 4 makes no bones about what it is: it’s all plot, all action, no filler, no thinking involved. That’s exactly what I wanted it to be.",
    "section": "the-drop",
    "recommender": null
@@ -129,8 +144,10 @@
    "name": "RabbitOS 2",
    "url": "https://forum.rabbitcommunity.tech/t/rabbitos-2-is-here/15449",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai"
+   ],
    "blurb": "I never ever thought that I’d mention Rabbit here again. And yet the new version of this device’s software is… sort of neat?",
    "section": "the-drop",
    "recommender": null
@@ -151,8 +168,12 @@
    "name": "Obsidian",
    "url": "https://obsidian.md/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform",
+    "ios"
+   ],
    "blurb": "I’m a big note-taker, and I use Obsidian , so I have an iOS shortcut called “Note.” It’s a direct link to an Obsidian note called “Inbox,” where I capture stuff to process later.",
    "section": "screen-share",
    "recommender": "Gina"
@@ -162,8 +183,11 @@
    "name": "Lovable",
    "url": "https://lovable.dev/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web"
+   ],
    "blurb": "In Health & Fitness, I’ve got a triathlon training app I vibe-coded on Lovable , driven by a personal Google Sheet. All it does is tell me one thing: whether I’m supposed to run, bike, or swim at the gym that day.",
    "section": "screen-share",
    "recommender": "Gina"
@@ -173,8 +197,10 @@
    "name": "The Oral-B app",
    "url": "https://oralb.com/en-us/oral-b-app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness"
+   ],
    "blurb": "As it turns out, I’m nearly five decades old and need a teeth-brushing coach. The Oral-B app paired with my electric toothbrush gamifies things, which works for me. It helps me get pressure and coverage right, and my full two minutes of brushing in because I won’t otherwise.",
    "section": "screen-share",
    "recommender": "Gina"
@@ -184,8 +210,12 @@
    "name": "Superhuman",
    "url": "https://superhuman.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "paid",
+    "subscription"
+   ],
    "blurb": "Superhuman is better than Gmail. Todoist is for deadlines. Citymapper is my favorite way to navigate New York City. Monarch is my where-does-the-money-go app. Checking ebooks out of the library with Libby brings me much joy.",
    "section": "screen-share",
    "recommender": "Gina"
@@ -195,8 +225,11 @@
    "name": "Todoist",
    "url": "https://www.todoist.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "Superhuman is better than Gmail. Todoist is for deadlines. Citymapper is my favorite way to navigate New York City. Monarch is my where-does-the-money-go app. Checking ebooks out of the library with Libby brings me much joy.",
    "section": "screen-share",
    "recommender": "Gina"
@@ -206,8 +239,12 @@
    "name": "Citymapper",
    "url": "https://citymapper.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "travel",
+    "ios",
+    "android"
+   ],
    "blurb": "Superhuman is better than Gmail. Todoist is for deadlines. Citymapper is my favorite way to navigate New York City. Monarch is my where-does-the-money-go app. Checking ebooks out of the library with Libby brings me much joy.",
    "section": "screen-share",
    "recommender": "Gina"
@@ -217,8 +254,11 @@
    "name": "Monarch",
    "url": "https://www.monarchmoney.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "subscription",
+    "productivity"
+   ],
    "blurb": "Superhuman is better than Gmail. Todoist is for deadlines. Citymapper is my favorite way to navigate New York City. Monarch is my where-does-the-money-go app. Checking ebooks out of the library with Libby brings me much joy.",
    "section": "screen-share",
    "recommender": "Gina"
@@ -228,8 +268,12 @@
    "name": "Libby",
    "url": "https://libbyapp.com/interview/welcome#doYouHaveACard",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "book",
+    "free",
+    "cross-platform"
+   ],
    "blurb": "Superhuman is better than Gmail. Todoist is for deadlines. Citymapper is my favorite way to navigate New York City. Monarch is my where-does-the-money-go app. Checking ebooks out of the library with Libby brings me much joy.",
    "section": "screen-share",
    "recommender": "Gina"
@@ -252,8 +296,10 @@
    "name": "All Systems Red: The Murderbot Diaries",
    "url": "https://www.marthawells.com/murderbot1.htm",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "KPop Demon Hunters ! My preteen has our whole family deep in it, and I am not mad about it.",
    "section": "screen-share",
    "recommender": "Gina"
@@ -263,8 +309,10 @@
    "name": "The Ministry of Time",
    "url": "https://www.hachette.co.uk/titles/kaliane-bradley/the-ministry-of-time/9781399726344/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "KPop Demon Hunters ! My preteen has our whole family deep in it, and I am not mad about it.",
    "section": "screen-share",
    "recommender": "Gina"
@@ -274,8 +322,10 @@
    "name": "Intermezzo",
    "url": "https://www.faber.co.uk/product/9780571365494-intermezzo/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "KPop Demon Hunters ! My preteen has our whole family deep in it, and I am not mad about it.",
    "section": "screen-share",
    "recommender": "Gina"
@@ -285,8 +335,11 @@
    "name": "r/LinkedInLunatics",
    "url": "https://www.reddit.com/r/LinkedInLunatics/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "web"
+   ],
    "blurb": "KPop Demon Hunters ! My preteen has our whole family deep in it, and I am not mad about it.",
    "section": "screen-share",
    "recommender": "Gina"
@@ -296,8 +349,10 @@
    "name": "Demon Slayer: The Hinomaki Chronicles",
    "url": "https://demonslayer-hinokami.sega.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "paid"
+   ],
    "blurb": "I ‘inherited’ my daughter’s Nintendo Switch and got Demon Slayer: The Hinomaki Chronicles on sale for $20. Getting myself hyped up for the movie this weekend.",
    "section": "crowdsourced",
    "recommender": "Michael (reader)"
@@ -346,8 +401,10 @@
    "name": "Here Comes the Sun: A Last Chance for Climate and a Fresh Chance for Civilization",
    "url": "https://wwnorton.com/books/Here-Comes-the-Sun/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I have been thoroughly enjoying Bill McKibben’s Here Comes the Sun: A Last Chance for Climate and a Fresh Chance for Civilization .",
    "section": "crowdsourced",
    "recommender": "Hoto (reader)"
@@ -357,8 +414,11 @@
    "name": "2XKO",
    "url": "https://2xko.riotgames.com/en-us/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "free",
+    "beta"
+   ],
    "blurb": "Currently checking out the beta of 2XKO , a free 2v2 tag-team fighting game set in the League of Legends universe. Appears to be great for newcomers.",
    "section": "crowdsourced",
    "recommender": "Daniel (reader)"
@@ -368,8 +428,11 @@
    "name": "Garmin Forerunner 955",
    "url": "https://www.anrdoezrs.net/click-8836598-15205098?url=https://www.garmin.com/en-US/p/777655/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "fitness",
+    "travel"
+   ],
    "blurb": "I’m cautiously enjoying a new feature on the Garmin Forerunner 955 . A recent software update ties in my travel plans to the watch, and I get recommendations for time zone adjustments. It gave decent suggestions when I went from the US to Italy, back to the US, then to France all within a week.",
    "section": "crowdsourced",
    "recommender": "Sean (reader)"
@@ -405,8 +468,12 @@
    "name": "1001 Albums Generator",
    "url": "https://1001albumsgenerator.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "web",
+    "free"
+   ],
    "blurb": "1001 Albums Generator recommends a new album every day (including weekends if you like) from the book 1001 Albums You Must Hear Before You Die . It’s a great way to listen to some of the best-regarded music and expand your listening habits beyond your music recommendation algorithm.”",
    "section": "crowdsourced",
    "recommender": "Sheila (reader)"
@@ -416,8 +483,11 @@
    "name": "1001 Albums You Must Hear Before You Die",
    "url": "https://en.wikipedia.org/wiki/1001_Albums_You_Must_Hear_Before_You_Die",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "music"
+   ],
    "blurb": "1001 Albums Generator recommends a new album every day (including weekends if you like) from the book 1001 Albums You Must Hear Before You Die . It’s a great way to listen to some of the best-regarded music and expand your listening habits beyond your music recommendation algorithm.”",
    "section": "crowdsourced",
    "recommender": "Sheila (reader)"

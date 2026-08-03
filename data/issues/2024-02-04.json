@@ -71,8 +71,12 @@
    "alt_urls": [
     "https://neal.fun/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "free",
+    "ai"
+   ],
    "blurb": "Also as a rule, I will pretty much always post whatever Neal Agarwal makes on his website , which is full of fun and silly things to play with. This one is just an endless series of ways to combine things and make new things, and I cannot explain why I love it so much. But I love it so much.",
    "section": "the-drop",
    "recommender": null
@@ -85,8 +89,10 @@
     "https://winbuzzer.com/2024/01/30/microsoft-edge-may-introduce-circle-to-search-gesture-with-ai-powered-copilot-xcxwbn/",
     "https://www.theverge.com/2024/1/17/24041792/google-is-bringing-ai-powered-insights-to-multisearch"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "android"
+   ],
    "blurb": "Now available on a Pixel or Galaxy near you: a nifty way to search just by drawing a circle around whatever you see and care about.",
    "section": "the-drop",
    "recommender": null
@@ -98,8 +104,11 @@
    "alt_urls": [
     "https://www.theverge.com/2024/1/30/24054438/skylight-cal-max-smart-family-calendar-launch-pricing"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home",
+    "productivity"
+   ],
    "blurb": "My calendar app is the only reason I’m a remotely functional human being, so of course the idea of a 27-inch screen dedicated to blaring my calendar at me seems super compelling. It’s $600, which is ludicrous, but I’m this close to buying the 15-inch $300 model.",
    "section": "the-drop",
    "recommender": null
@@ -137,8 +146,11 @@
    "alt_urls": [
     "https://www.neverpo.st/never-post/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "free"
+   ],
    "blurb": "So far, there are only two episodes of this podcast — which is basically a bunch of Extremely Online people talking about Extremely Online things, and I mean that in the very best way — and I’ve loved them both. The first episode , on independent media companies, was particularly great.",
    "section": "the-drop",
    "recommender": null
@@ -153,8 +165,12 @@
     "https://www.wsj.com/",
     "https://www.theatlantic.com/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "subscription"
+   ],
    "blurb": "Most people just have A Place. Or two. Overwhelmingly, I heard from folks who mostly just open up one or two sources to get their news. The New York Times app was the most-named one by a pretty wide margin, which didn’t really surprise me.",
    "section": "deep-dive",
    "recommender": null
@@ -167,8 +183,11 @@
     "https://ground.news/about",
     "https://www.inkl.com/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "web"
+   ],
    "blurb": "There are so many good curators! I heard from a bunch of folks who really like getting a broad swath of stuff, quickly, all in one place. The three most popular ones were Informed News , Ground News , and Inkl .",
    "section": "deep-dive",
    "recommender": null
@@ -178,8 +197,12 @@
    "name": "Google News",
    "url": "https://news.google.com/home?hl=en-US&gl=US&ceid=US:en",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "And then there’s Google News . If you want a news app that knows what you like, a number of folks said Google News is the place that most consistently shows them stuff they care about from all over.",
    "section": "deep-dive",
    "recommender": null
@@ -194,8 +217,12 @@
     "https://feeeed.nateparrott.com/",
     "https://www.goldenhillsoftware.com/unread/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "web",
+    "productivity"
+   ],
    "blurb": "We stan an RSS reader. Feedly got a lot of votes, but Inoreader and NetNewsWire both have some fans, and Feeeed and Unread both got a couple of shout-outs.",
    "section": "deep-dive",
    "recommender": null
@@ -231,7 +258,7 @@
    "name": "Shiho Konno",
    "url": "https://twitter.com/shi44ilo/status/1553893446234312705",
    "alt_urls": [],
-   "category": null,
+   "category": "media",
    "tags": [],
    "blurb": "The wallpaper: I love this illustration for how in contrast it feels to everything else on a phone. I found it on Twitter after I went down a rabbit hole of following a bunch of Japanese illustrators.",
    "section": "screen-share",
@@ -242,7 +269,7 @@
    "name": "Analogue Pocket",
    "url": "https://www.analogue.co/pocket",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I just got an Analogue Pocket . Using it feels like playing games the way you remembered them. (Even if the games maybe play just a bit worse 20 years later.) This Yeule album from last year is like 50 percent of my Spotify listening right now.",
    "section": "screen-share",
@@ -266,7 +293,7 @@
    "name": "Kashmiri Red Chili",
    "url": "https://iherb.prf.hn/click/camref:1011l5DsPb/%5Bp_id:1011l394533%5D/destination:https%3A%2F%2Fwww.iherb.com%2Fpr%2Fpure-indian-foods-organic-kashmiri-red-chili-ground-8-oz-226-g%2F113883",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "I just got an Analogue Pocket . Using it feels like playing games the way you remembered them. (Even if the games maybe play just a bit worse 20 years later.) This Yeule album from last year is like 50 percent of my Spotify listening right now.",
    "section": "screen-share",
@@ -277,8 +304,11 @@
    "name": "PI.FYI",
    "url": "https://www.pi.fyi/welcome/NEW_USER",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "web"
+   ],
    "blurb": "Really enjoying PI.FYI after reading Kevin’s story . Lotta bugs but makes me feel indescribable things.",
    "section": "crowdsourced",
    "recommender": "Akhilesh (reader)"
@@ -288,8 +318,13 @@
    "name": "NotePlan",
    "url": "https://noteplan.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "productivity",
+    "paid"
+   ],
    "blurb": "Don’t know why NotePlan isn’t getting more attention — it’s a fantastic app for writing notes and planning using time blocks and has great integration with calendars and reminders. The developer, Eduard, is extremely good at listening to users.",
    "section": "crowdsourced",
    "recommender": "Anders (reader)"
@@ -312,8 +347,12 @@
    "name": "Pigments",
    "url": "https://www.arturia.com/products/software-instruments/pigments/overview",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "mac",
+    "windows"
+   ],
    "blurb": "Arturia released a free update to their modern softsynth, Pigments , this week. While I can’t complain about a free upgrade to an already solid product, it’s not my pick: using Pigments 5 has underscored how much I prefer using the built-in synthesis tools of my DAW of choice, Bitwig Studio (it’s…",
    "section": "crowdsourced",
    "recommender": "Andrew (reader)"
@@ -323,8 +362,12 @@
    "name": "Bitwig Studio",
    "url": "https://www.bitwig.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "cross-platform",
+    "paid"
+   ],
    "blurb": "Arturia released a free update to their modern softsynth, Pigments , this week. While I can’t complain about a free upgrade to an already solid product, it’s not my pick: using Pigments 5 has underscored how much I prefer using the built-in synthesis tools of my DAW of choice, Bitwig Studio (it’s…",
    "section": "crowdsourced",
    "recommender": "Andrew (reader)"
@@ -334,7 +377,7 @@
    "name": "new Halo Infinite content",
    "url": "https://www.halowaypoint.com/news/cu29-launch",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I’ve been getting re-obsessed with Halo due to new Halo Infinite content as well as the forthcoming season 2 of the show , which seems like a massive improvement from the rather compromised first season.",
    "section": "crowdsourced",
@@ -371,8 +414,12 @@
    "name": "Spurious Correlations",
    "url": "https://tylervigen.com/spurious-correlations",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "web",
+    "free"
+   ],
    "blurb": "Spurious Correlations . It’s absolutely lovely to have such weird pairings correlated. Example after example of the adage, ‘Correlation is not causation.’ And then to see the AI descriptions below the graphs’ completely made-up drivel applying causation is just chef’s kiss.” – Matthew.",
    "section": "crowdsourced",
    "recommender": null
@@ -395,8 +442,11 @@
    "name": "Pop Pantheon",
    "url": "https://www.poppantheonpod.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "music"
+   ],
    "blurb": "My podcast recommendation is Pop Pantheon — ultra-deep dives into pop music careers and wider topics from host DJ Louie XIV and expert guests.",
    "section": "crowdsourced",
    "recommender": "Ben (reader)"
@@ -430,8 +480,11 @@
    "name": "Retro Bowl",
    "url": "https://www.newstargames.com/servlet/Content/en/text/releases/Releases/item/424/Releases-Retro-Bowl",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "Kevin Nguyen, a deputy editor at The Verge, sent over a recommendation that derailed my whole week. Here’s what he said: “There’s no football this weekend, but you can bridge that gap to the Super Bowl by playing Retro Bowl .",
    "section": "signing-off",
    "recommender": null
@@ -441,8 +494,11 @@
    "name": "Retro Goal",
    "url": "https://www.newstargames.com/servlet/Content/en/text/releases/Releases/item/448/Releases-Retro-Goal",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "He’s not kidding. I have been playing this game more or less nonstop since Kevin told me about it (it works really well with a controller, by the way), to the point where I have to leave my phone in the other room or I’ll play it all night and not sleep.",
    "section": "signing-off",
    "recommender": null

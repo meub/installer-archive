@@ -24,8 +24,11 @@
    "name": "Version History",
    "url": "https://link.chtbl.com/versionhistory",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "podcast"
+   ],
    "blurb": "I’m sorry, I’m sorry, more self-promotion. (I’m not sorry.) Our new show is launching this weekend! You can watch on The Verge ’s YouTube channel, or on The Vergecast ’s feed, but my big request is that you subscribe wherever you get podcasts. And give us five stars. And tell your friends.",
    "section": "the-drop",
    "recommender": null
@@ -48,8 +51,11 @@
    "name": "Claude Sonnet 4.5",
    "url": "https://www.anthropic.com/claude/sonnet",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "paid"
+   ],
    "blurb": "All the developer types I know are thrilled about how good Claude Code is becoming, and 4.5 gives the model the power and patience to do much more complicated stuff. I think I’m going to finally finish vibe coding my perfect note-taking app with this one.",
    "section": "the-drop",
    "recommender": null
@@ -70,8 +76,12 @@
    "name": "Comet",
    "url": "https://www.perplexity.ai/comet",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web",
+    "free"
+   ],
    "blurb": "Perplexity’s AI-forward browser is finally out and available to everyone. I’ve used it a little, and my main impression is that it’s a lot like every other AI-forward browser?",
    "section": "the-drop",
    "recommender": null
@@ -103,8 +113,10 @@
    "name": "Final Fantasy Tactics: The Ivalice Chronicles",
    "url": "https://final-fantasy-tactics-the-ivalice-chronicles.square-enix-games.com/en-us",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "paid"
+   ],
    "blurb": "I know almost nothing about Final Fantasy , and frankly I’m terrified to learn because all my FF -fan friends and colleagues are super into the new title and it seems like the exact right amount of complexity to hook me forever. Please, nobody else tell me how fun this game is.",
    "section": "the-drop",
    "recommender": null
@@ -114,8 +126,12 @@
    "name": "Kagi News",
    "url": "https://kite.kagi.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web",
+    "subscription"
+   ],
    "blurb": "Kagi continues to be my daily-driver search engine, and this is a good new addition to the product: a once-daily digest of big news stories, with AI summaries but mostly lots of broadly sourced reading material. Simple, straightforward, super useful.",
    "section": "the-drop",
    "recommender": null
@@ -138,8 +154,10 @@
    "name": "Logitech’s MX Master 4",
    "url": "https://logitech.cfzu.net/c/482924/499820/8585?u=https%3A%2F%2Fwww.logitech.com%2Fen-us%2Fshop%2Fp%2Fmx-master-4-mac",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "Everybody you know who cares about their computer mouse probably has an MX Master. And with good reason!",
    "section": "the-drop",
    "recommender": null
@@ -151,8 +169,10 @@
    "alt_urls": [
     "https://www.bbc.co.uk/programmes/w3ct74n7"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "“ The birth of the Excel spreadsheet .” Microsoft’s ubiquitous spreadsheet app turned 40 this week, and the BBC has a really fun nine-minute podcast history lesson about why rows and columns took over the world.",
    "section": "the-drop",
    "recommender": null
@@ -162,8 +182,11 @@
    "name": "A bunch of you keep packing lists, sometimes several of them for different kinds",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "travel",
+    "productivity"
+   ],
    "blurb": "of trips. I’ve never done it, but I love the idea of a lower-stress system for making sure you bring the right stuff.",
    "section": "group-project",
    "recommender": null
@@ -173,8 +196,10 @@
    "name": "Otto said they keep a list of saved product manuals and documents, in PDF form,",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "for easy retrieval.",
    "section": "group-project",
    "recommender": null
@@ -184,8 +209,10 @@
    "name": "Ron has a list of people they want to keep in touch with, and tries to get to a",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "few of them a week. (Ron also keeps a list of paint color names they use, which would have saved me a lot of time the last two weeks.)",
    "section": "group-project",
    "recommender": null
@@ -195,8 +222,10 @@
    "name": "Lee keeps a list of pictures their kids created in restaurants, and of all the k",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "id-related gifts they’ve received.",
    "section": "group-project",
    "recommender": null
@@ -206,8 +235,11 @@
    "name": "Hannes has a list of their favorite quotes from books, and another one that’s a",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "productivity",
+    "music"
+   ],
    "blurb": "list of “personal best nostalgia-bait” songs from their youth.",
    "section": "group-project",
    "recommender": null
@@ -217,8 +249,10 @@
    "name": "Pen and paper",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "A surprising winner here! I heard from so many of you that you’ve tried the apps, you’ve moved between platforms, and you went back to good ol’ writing stuff down. This may just be the way.",
    "section": "group-project",
    "recommender": null
@@ -228,8 +262,11 @@
    "name": "Todoist",
    "url": "https://www.todoist.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "I heard about a lot of to-do list apps, but Todoist seems to be the consensus favorite. It’s flexible, it’s fast, it’s available everywhere, I get it.",
    "section": "group-project",
    "recommender": null
@@ -239,8 +276,11 @@
    "name": "Notion",
    "url": "https://www.notion.so/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "The other app that came up over and over, especially for people who keep really complex systems — not just a list of movies to watch, but a list of starred reviews for every movie you’ve ever seen. Notion’s great at that.",
    "section": "group-project",
    "recommender": null
@@ -252,8 +292,12 @@
    "alt_urls": [
     "https://www.icloud.com/reminders"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "android",
+    "free"
+   ],
    "blurb": "The built-in apps. Lots of shouts for Google Keep from the Android crowd, and many fans of Apple Notes and Apple Reminders among the iOS users.",
    "section": "group-project",
    "recommender": null
@@ -266,8 +310,12 @@
     "https://www.microsoft.com/en-us/microsoft-365/excel",
     "https://www.smartsheet.com/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "web",
+    "free"
+   ],
    "blurb": "Spreadsheets . I heard about Google Sheets , and Excel , and Smartsheet . Turns out a lot of you are big fans of spreadsheeting just about anything. To which I say: I love it, but the mobile apps are all so terrible!",
    "section": "group-project",
    "recommender": null
@@ -283,8 +331,12 @@
     "https://trakt.tv/",
     "https://www.getsequel.app/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "ios",
+    "mac"
+   ],
    "blurb": "Honorable Mentions: Craft and Obsidian both got some love in the note-taking world. AnyList is a favorite for grocery shoppers in particular. Letterboxd and Trakt seem to be the best for tracking shows and movies.",
    "section": "group-project",
    "recommender": null
@@ -305,8 +357,10 @@
    "name": "Backdrops",
    "url": "https://backdrops.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
    "blurb": "The wallpaper: Both from the Backdrops app.",
    "section": "screen-share",
    "recommender": "Marques"
@@ -316,8 +370,11 @@
    "name": "Not Boring Weather",
    "url": "https://notbor.ing/product/weather",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "utilities"
+   ],
    "blurb": "They’re kinda similar starting points on each phone, despite how differently I use them. The iPhone uses the Not Boring Weather app widget, but I use Carrot Weather to actually dig into details. Safari is my default, but Arc is my go-to for launching a quick search.",
    "section": "screen-share",
    "recommender": "Marques"
@@ -327,8 +384,12 @@
    "name": "Carrot Weather",
    "url": "https://www.meetcarrot.com/weather/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android",
+    "ios",
+    "utilities"
+   ],
    "blurb": "They’re kinda similar starting points on each phone, despite how differently I use them. The iPhone uses the Not Boring Weather app widget, but I use Carrot Weather to actually dig into details. Safari is my default, but Arc is my go-to for launching a quick search.",
    "section": "screen-share",
    "recommender": "Marques"
@@ -338,8 +399,11 @@
    "name": "Connections",
    "url": "https://www.nytimes.com/athletic/connections-sports-edition",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "free",
+    "web"
+   ],
    "blurb": "I’m really into the Sports-themed Connections game by The New York Times right now. Partially because my brain can’t always handle the regular Connections.",
    "section": "screen-share",
    "recommender": "Marques"
@@ -349,8 +413,11 @@
    "name": "Athlytic",
    "url": "https://www.athlyticapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness",
+    "ios"
+   ],
    "blurb": "I’m really into the Sports-themed Connections game by The New York Times right now. Partially because my brain can’t always handle the regular Connections.",
    "section": "screen-share",
    "recommender": "Marques"
@@ -360,8 +427,11 @@
    "name": "Arc",
    "url": "https://arc.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "mac"
+   ],
    "blurb": "I’m really into the Sports-themed Connections game by The New York Times right now. Partially because my brain can’t always handle the regular Connections.",
    "section": "screen-share",
    "recommender": "Marques"
@@ -371,7 +441,7 @@
    "name": "FIIO RR11",
    "url": "https://www.fiio.com/RR11",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "My partner and I got really into the drive-in movie scene in the Hudson Valley, but sitting in our pickup bed instead of the front seats. The problem became how to get great audio over a portable radio.",
    "section": "crowdsourced",
@@ -382,8 +452,10 @@
    "name": "Soundcore Motion x600",
    "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://www.soundcore.com/products/motion-x600-a3130011?variant=42713765085374",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "My partner and I got really into the drive-in movie scene in the Hudson Valley, but sitting in our pickup bed instead of the front seats. The problem became how to get great audio over a portable radio.",
    "section": "crowdsourced",
    "recommender": "Spencer (reader)"
@@ -404,8 +476,12 @@
    "name": "Everlog",
    "url": "https://everlog.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "paid",
+    "productivity"
+   ],
    "blurb": "I would like to recommend Everlog for your diary / journal. You can get a lifetime subscription and, one of my favorite features, add updates to previous entries.",
    "section": "crowdsourced",
    "recommender": "Daryl (reader)"
@@ -415,7 +491,7 @@
    "name": "Digimon Story: Time Stranger",
    "url": "https://www.bandainamcoent.com/games/digimon-story-time-stranger",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Getting ready for Digimon Story: Time Stranger . Gonna play on the PS5. Demo was fun, and it’s turning out to be the best Digimon game ever reviewed. With the new anime also starting next week, us Digimon fans are eating well.",
    "section": "crowdsourced",
@@ -426,8 +502,10 @@
    "name": "The Red Tree",
    "url": "https://www.penguinrandomhouse.com/books/302351/the-red-tree-by-caitlin-r-kiernan/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’m getting into Spooky Season by discovering Caitlín Kiernan, whose The Red Tree is a really fun combo of nesting narratives and folk horror.",
    "section": "crowdsourced",
    "recommender": "Adi (reader)"
@@ -437,8 +515,12 @@
    "name": "Ask Brave",
    "url": "https://brave.com/blog/ask-brave/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "web",
+    "free"
+   ],
    "blurb": "Brave Search now has Ask Brave , like AI mode in Google but without the creepy tracking.",
    "section": "crowdsourced",
    "recommender": "Bryan (reader)"
@@ -461,8 +543,10 @@
    "name": "Rode Wireless Go Gen 3",
    "url": "https://rode.com/en-us/products/wireless-go-gen-3",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "video"
+   ],
    "blurb": "I just got a Rode Wireless Go Gen 3 , and it’s... magical? Local recordings, solid wireless sync, great battery life. But it comes with the goofiest USB-C charger that is sort of adorable.",
    "section": "crowdsourced",
    "recommender": "Rich (reader)"
@@ -472,8 +556,10 @@
    "name": "Ugmonk’s Analog",
    "url": "https://ugmonk.com/collections/analog",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "A couple months ago, I moved all of my day-to-day task management out of apps and into Ugmonk’s Analog paper and pencil system. It’s been great. De-digitizing key parts of my day is more thoughtful, less distracting, and just more fun than trying to manage the nth productivity app on my phone.",
    "section": "crowdsourced",
    "recommender": "HollowedLeaf (reader)"
@@ -494,8 +580,10 @@
    "name": "exclude a single song from your “taste profile,”",
    "url": "https://newsroom.spotify.com/2025-10-01/exclude-tracks-taste-profile/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "music"
+   ],
    "blurb": "There was a lot of news this week, but at least in my life there was nothing more exciting than one tiny new Spotify feature: you can now exclude a single song from your “taste profile,” which means Spotify won’t use it to program recommendations or playlists. This rules.",
    "section": "signing-off",
    "recommender": null

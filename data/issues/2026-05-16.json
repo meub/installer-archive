@@ -23,8 +23,11 @@
    "name": "Mole",
    "url": "https://mole.fit/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "utilities"
+   ],
    "blurb": "I’ve been following this Mac app’s development for a while, and I’m a big fan. It does a great job of hunting down huge files, un-needed apps, memory-hungry processes, and other things mucking up your computer, without being overzealous about it (or constantly trying to upcharge you).",
    "section": "the-drop",
    "recommender": null
@@ -34,8 +37,10 @@
    "name": "A Parade of Horribles",
    "url": "https://www.penguinrandomhouse.com/books/812017/a-parade-of-horribles-by-matt-dinniman/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Dungeon Crawler Carl is back! I’m still catching up on the series, but I’m confident the eighth book in the story brings even more chaos to Carl and Donut. DCC is maybe the most-recommended thing in the history of Installer , so this book is huge news. I can’t wait.",
    "section": "the-drop",
    "recommender": null
@@ -45,7 +50,7 @@
    "name": "The Twelve South PowerClip",
    "url": "https://www.twelvesouth.com/products/powerclip",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I am a big proponent of always carrying a giant backup battery, but I’m oddly charmed by this tiny $40 dongle that isn’t designed to fully charge your phone but rather to keep it from dying. Clever that it can also act as a USB-C cable, too.",
    "section": "the-drop",
@@ -56,8 +61,13 @@
    "name": "Bartender Pro",
    "url": "https://www.macbartender.com/pro/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "utilities",
+    "subscription",
+    "paid"
+   ],
    "blurb": "Bartender has always been a classic power-user Mac app for cleaning up your menu bar. For $15 a year, Bartender Pro does way more: It adds a bunch of small utilities, like audio controls and your calendar, to the notch in your Mac’s screen. (Or just the middle of your menu bar.) My favorite?",
    "section": "the-drop",
    "recommender": null
@@ -69,7 +79,7 @@
    "alt_urls": [
     "https://www.theverge.com/games/930562/subnautica-2-early-access-launch-steam-pc-epic-games-store-xbox"
    ],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "This underwater adventure game became one of the biggest titles on Steam literally overnight , which is very funny given how many reviews say the game (which is, in fairness, in early access!) is full of bugs and weirdness. Doesn’t seem to be stopping anybody.",
    "section": "the-drop",
@@ -139,7 +149,7 @@
    "name": "Joanna Stern",
    "url": "https://joannastern.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Today, Joanna Stern gets the most important professional accomplishment of her life. No, not the Emmy she won, or her fabulous book, I Am Not a Robot , that just came out this week and you 100 percent need to buy and read several times.",
    "section": "screen-share",
@@ -161,7 +171,7 @@
    "name": "New Things",
    "url": "https://thenewthings.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Today, Joanna Stern gets the most important professional accomplishment of her life. No, not the Emmy she won, or her fabulous book, I Am Not a Robot , that just came out this week and you 100 percent need to buy and read several times.",
    "section": "screen-share",
@@ -172,8 +182,11 @@
    "name": "joannastern.com",
    "url": "http://joannastern.com",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "web"
+   ],
    "blurb": "Have you vibe-coded anything cool recently? Only the greatest website ever: joannastern.com . But seriously, I was running a pin promotion for a while, where people who pre-ordered the book could get a free pin.",
    "section": "screen-share",
    "recommender": "Joanna"
@@ -183,8 +196,10 @@
    "name": "Fresh Air with Terry Gross",
    "url": "https://www.npr.org/2026/05/12/nx-s1-5816163/she-spent-a-year-using-ai-to-do-almost-everything-heres-what-she-learned",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Decoder with Nilay Patel Fresh Air with Terry Gross Hard Fork with Casey Newton and Kevin Roose Pioneers of AI Stratechery with Ben Thompson The Journal",
    "section": "screen-share",
    "recommender": "Joanna"
@@ -194,8 +209,10 @@
    "name": "Hard Fork with Casey Newton and Kevin Roose",
    "url": "https://www.nytimes.com/2026/05/08/podcasts/hardfork-prediction-markets.html",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Decoder with Nilay Patel Fresh Air with Terry Gross Hard Fork with Casey Newton and Kevin Roose Pioneers of AI Stratechery with Ben Thompson The Journal",
    "section": "screen-share",
    "recommender": "Joanna"
@@ -218,8 +235,11 @@
    "name": "Stratechery with Ben Thompson",
    "url": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-living-with-ai/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "newsletter"
+   ],
    "blurb": "Decoder with Nilay Patel Fresh Air with Terry Gross Hard Fork with Casey Newton and Kevin Roose Pioneers of AI Stratechery with Ben Thompson The Journal",
    "section": "screen-share",
    "recommender": "Joanna"
@@ -266,8 +286,12 @@
    "name": "NotebookLM",
    "url": "https://notebooklm.google/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity",
+    "web"
+   ],
    "blurb": "I am documenting all of our weekly D&D adventures of the last five years, and adding adventures from the same party from before I joined this group.",
    "section": "crowdsourced",
    "recommender": "Michiel (reader)"
@@ -277,7 +301,7 @@
    "name": "Devil May Cry 5",
    "url": "https://www.devilmaycry.com/5/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Really enjoying Devil May Cry 5 , and the new season of the series on Netflix .",
    "section": "crowdsourced",
@@ -301,8 +325,12 @@
    "name": "Blento",
    "url": "https://blento.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "website",
+    "social"
+   ],
    "blurb": "I recently learned about Blento , the website maker. It’s an AT Protocol alternative for Bento (RIP) and pulls in information from the apps in the ATmosphere.",
    "section": "crowdsourced",
    "recommender": "Oscar (reader)"
@@ -312,8 +340,10 @@
    "name": "Mason & Dixon",
    "url": "https://www.penguinrandomhouse.com/books/312582/mason-and-dixon-by-thomas-pynchon/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Reading Mason & Dixon . And it will continue to be Mason & Dixon for a very very long time",
    "section": "crowdsourced",
    "recommender": "Scott (reader)"
@@ -336,8 +366,10 @@
    "name": "Graveyard Keeper",
    "url": "https://www.graveyardkeeper.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "free"
+   ],
    "blurb": "Graveyard Keeper was free a few weeks back on Steam and I am obsessed. Stardew Valley if you also made sandwiches and zombies out of dead bodies.",
    "section": "crowdsourced",
    "recommender": "Rob (reader)"
@@ -347,8 +379,10 @@
    "name": "Apple: The First 50 Years",
    "url": "https://www.simonandschuster.com/books/Apple/David-Pogue/9781668107119",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’m listening to the audiobook, Apple: The First 50 Years by David Pogue on Everand . Great book, great audiobook, great alternative to Audible.",
    "section": "crowdsourced",
    "recommender": "Ryan (reader)"
@@ -358,8 +392,11 @@
    "name": "Everand",
    "url": "https://www.everand.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "subscription",
+    "book"
+   ],
    "blurb": "I’m listening to the audiobook, Apple: The First 50 Years by David Pogue on Everand . Great book, great audiobook, great alternative to Audible.",
    "section": "crowdsourced",
    "recommender": "Ryan (reader)"
@@ -391,7 +428,7 @@
    "name": "Native Union Pop Cable",
    "url": "https://www.nativeunion.com/products/pop-cable",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I took a sort of half-vacation this week, which mostly meant I didn’t go to any meetings (and took a week off of podcasting) but was still around for urgent things as they came up. I spent a lot of my free-ish time organizing my home office, which had turned into a bit of a disaster zone.",
    "section": "signing-off",

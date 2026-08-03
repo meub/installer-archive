@@ -24,8 +24,10 @@
    "alt_urls": [
     "https://www.theverge.com/2025/1/7/24338520/lg-stanbyme-2-portable-tv-carrying-strap-ces-2025"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "tv"
+   ],
    "blurb": "I cannot explain to you why I am so into this thing. It’s just a big, portable screen (LG calls it a “lifestyle screen,” which is hysterical), with a strap and a stand, so you can hang it up or prop it on a table. Is that anything? I don’t know! But I love this idea.",
    "section": "the-drop",
    "recommender": null
@@ -38,8 +40,10 @@
     "https://www.theverge.com/2025/1/5/24325286/circular-ring-2-wearables-smart-ekg-price-ces-2025",
     "https://www.theverge.com/2024/10/1/24259284/oura-ring-samsung-galaxy-ring-ultrahuman-ring-air-ringconn-circular-ring-evie-ring-review-wearables"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "fitness"
+   ],
    "blurb": "The first model was kind of a dud , but the Ring 2 appears to get almost everything right: better battery, easier charging, nicer design, more features. My 2025 project is to ditch my smartwatch for a smart ring, and this has some potential.",
    "section": "the-drop",
    "recommender": null
@@ -49,8 +53,10 @@
    "name": "Nvidia Project Digits",
    "url": "https://www.nvidia.com/en-us/project-digits/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ai"
+   ],
    "blurb": "This one kind of violates the spirit of the “things a real person might actually buy” rubric here, but I am increasingly convinced that the only good AI future is one where your AI systems are more local, more personal, and more yours.",
    "section": "the-drop",
    "recommender": null
@@ -62,7 +68,7 @@
    "alt_urls": [
     "https://www.theverge.com/2025/1/5/24336900/a-sodastream-for-your-hydro-flask"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I had a SodaStream for years and loved everything about it except it was huge and only in my kitchen. The SodaTop screws right onto a water bottle and carbonates water in five seconds. $50! Spectacular, give me 14 of them.",
    "section": "the-drop",
@@ -75,8 +81,10 @@
    "alt_urls": [
     "https://www.theverge.com/2025/1/7/24337633/lenovo-thinkbook-plus-gen-6-rollable-laptop-flexible-oled-price-specs"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "windows"
+   ],
    "blurb": "I didn’t get to see this one on the CES floor, but Lenovo’s rollable screen concept thing is real now — and apparently works pretty well. $3,500 for a laptop is preposterous, but this is a technology that belongs in a lot of laptops. Soon.",
    "section": "the-drop",
    "recommender": null
@@ -88,8 +96,10 @@
    "alt_urls": [
     "https://www.theverge.com/2025/1/5/24336154/samsung-the-frame-pro-features-specs"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "tv"
+   ],
    "blurb": "As far as I can tell, the actual display improvements here are not super impressive. But I like that the Frame setup is simpler and involves fewer wires now — and I’m hoping this’ll make the last-gen Frame cheap enough that I can justify buying one.",
    "section": "the-drop",
    "recommender": null
@@ -101,8 +111,12 @@
    "alt_urls": [
     "https://www.theverge.com/2025/1/6/24337124/bird-buddy-wonder-petal-camera-track-plants-insects-ces-2025"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ai",
+    "photography",
+    "smart-home"
+   ],
    "blurb": "All my gardening- and birding-obsessed friends are super into this thing , a flower-styled and solar-powered camera that uses AI to identify plants and creatures roaming around your yard. I keep hearing great things about the Bird Buddy feeder, too.",
    "section": "the-drop",
    "recommender": null
@@ -114,8 +128,10 @@
    "alt_urls": [
     "https://www.theverge.com/2025/1/6/24330536/flic-duo-smart-button-price-release-date-ces-2025"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "A button! For doing button things! You stick this tiny thing on a wall and program what happens when you click, double-click, press and hold, swipe, and lots more. It’s Matter-compatible and $49 and the sort of thing every smart home needs.",
    "section": "the-drop",
    "recommender": null
@@ -127,8 +143,10 @@
    "alt_urls": [
     "https://www.theverge.com/2025/1/5/24333438/switchbot-multitasking-household-robot-k20-plus-pro-price-specs-release-date"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "Yikes, that name. But the product is so smart: a modular robot vacuum that turns into a roving air purifier, pet monitor, and more. I love the trend we’re seeing here, as these turn into the first true home robots.",
    "section": "the-drop",
    "recommender": null
@@ -140,8 +158,10 @@
    "alt_urls": [
     "https://www.theverge.com/2025/1/6/24336409/amazfit-active-2-hands-on-specs-price-ces-2025"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "fitness"
+   ],
    "blurb": "I noticed my colleague Victoria Song wearing this watch and told her how much I liked the red, kind of Tron-y face. She looked at me and goes, “IT’S ONLY A HUNDRED DOLLARS!” That’s basically the deal — a pretty, pretty good, pretty cheap smartwatch and fitness tracker.",
    "section": "the-drop",
    "recommender": null
@@ -153,7 +173,7 @@
    "alt_urls": [
     "https://www.theverge.com/2025/1/7/24336841/razer-handheld-dock-chroma-pc-remote-play-price-availability"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "One dock for all your handheld game consoles. It has fast power, seems to connect easily, and supports phones, Steam Decks, Switches, and more. I remain totally convinced that these consoles are the future of games, and this is a terrific accessory idea .",
    "section": "the-drop",
@@ -175,8 +195,12 @@
    "name": "Hey",
    "url": "https://www.hey.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "subscription",
+    "cross-platform"
+   ],
    "blurb": "In the dock, I have Hey email and a few companion apps for my Micro.blog platform: Epilogue for keeping track of books, Strata for notes, and the official Micro.blog app.",
    "section": "screen-share",
    "recommender": "Manton"
@@ -186,8 +210,11 @@
    "name": "Epilogue",
    "url": "https://epilogue.micro.blog/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "book"
+   ],
    "blurb": "In the dock, I have Hey email and a few companion apps for my Micro.blog platform: Epilogue for keeping track of books, Strata for notes, and the official Micro.blog app.",
    "section": "screen-share",
    "recommender": "Manton"
@@ -197,8 +224,11 @@
    "name": "Strata",
    "url": "https://strata.micro.blog/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "In the dock, I have Hey email and a few companion apps for my Micro.blog platform: Epilogue for keeping track of books, Strata for notes, and the official Micro.blog app.",
    "section": "screen-share",
    "recommender": "Manton"
@@ -208,8 +238,10 @@
    "name": "Wind and Truth",
    "url": "https://us.macmillan.com/books/9781250319180/windandtruth/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Wind and Truth by Brandon Sanderson. I’m currently halfway through this book and love the epic scope of a story that spans multiple standalone book series. I hope to read more this year. I track what books I’m reading, and I post a short microblog post to my own site about each one. ChatGPT .",
    "section": "screen-share",
    "recommender": "Manton"
@@ -219,8 +251,11 @@
    "name": "ChatGPT",
    "url": "https://chatgpt.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "cross-platform"
+   ],
    "blurb": "Wind and Truth by Brandon Sanderson. I’m currently halfway through this book and love the epic scope of a story that spans multiple standalone book series. I hope to read more this year. I track what books I’m reading, and I post a short microblog post to my own site about each one. ChatGPT .",
    "section": "screen-share",
    "recommender": "Manton"
@@ -230,8 +265,11 @@
    "name": "Swarm",
    "url": "https://www.swarmapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "social"
+   ],
    "blurb": "Wind and Truth by Brandon Sanderson. I’m currently halfway through this book and love the epic scope of a story that spans multiple standalone book series. I hope to read more this year. I track what books I’m reading, and I post a short microblog post to my own site about each one. ChatGPT .",
    "section": "screen-share",
    "recommender": "Manton"
@@ -241,8 +279,11 @@
    "name": "this post on Threads",
    "url": "https://www.threads.net/@imdavidpierce/post/DEnMHHwpUqs?xmt=AQGzd0JTUFDB8HTLxVTIEqDPi2asWNmiz7zyoTGYhaP8Jw",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "social",
+    "web"
+   ],
    "blurb": "Here’s what the Installer community is into this week. I want to know what you’re into right now as well! Email installer@theverge.com or message me on Signal — @davidpierce.11 — with your recommendations for anything and everything, and we’ll feature some of our favorites here every week.",
    "section": "screen-share",
    "recommender": "Manton"
@@ -252,8 +293,11 @@
    "name": "this post on Bluesky",
    "url": "https://bsky.app/profile/davidpierce.xyz/post/3lfd5jnlcv22u",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "social",
+    "web"
+   ],
    "blurb": "Here’s what the Installer community is into this week. I want to know what you’re into right now as well! Email installer@theverge.com or message me on Signal — @davidpierce.11 — with your recommendations for anything and everything, and we’ll feature some of our favorites here every week.",
    "section": "screen-share",
    "recommender": "Manton"
@@ -289,7 +333,7 @@
    "name": "Laifen Wave",
    "url": "https://www.laifentech.com/pages/electric-toothbrush-v2",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "“Last week, I ordered a Laifen Wave electric toothbrush, and it’s taking way too long in the mail. I want to play with my new gadget now, damn it!” – Ellie",
    "section": "screen-share",
@@ -300,8 +344,10 @@
    "name": "Essenger",
    "url": "https://essenger.carrd.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "“I’ve been listening to the entire discography of Essenger . I think that having an electronic groove during the busiest time of the year in tech makes the tech world even cooler!” – Eli",
    "section": "screen-share",
    "recommender": "Manton"
@@ -324,8 +370,12 @@
    "name": "Flyleaf",
    "url": "https://moehrenzahn.de/project/flyleaf/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "productivity"
+   ],
    "blurb": "“ Flyleaf . A beautiful read-it-later app for macOS, iPadOS, and iOS.” – Ryan",
    "section": "screen-share",
    "recommender": "Manton"
@@ -335,8 +385,11 @@
    "name": "If Books Could Kill",
    "url": "https://www.ifbookspod.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "book"
+   ],
    "blurb": "“I just started listening to the wonderful If Books Could Kill podcast. You’re Wrong About alum Michael Hobbes and lawyer Peter Shamshiri tackle the question, ‘What if pop science books would have peer review?’ The answer is pretty damning for the books but great fun for us listeners.” – Laszlo",
    "section": "screen-share",
    "recommender": "Manton"
@@ -346,7 +399,7 @@
    "name": "Baseus Nomos",
    "url": "https://www.baseus.com/pages/nomos",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "“Not new, but the Baseus Nomos 5-in-1 charging station changed my whole desk setup. The retractable cable and StandBy mode-friendly phone mount (Qi2!) make it worth it.” – Hawke",
    "section": "screen-share",
@@ -357,8 +410,10 @@
    "name": "AEW",
    "url": "https://max.prf.hn/click/camref:1101lqHRA/destination:https%3A%2F%2Fwww.max.com%2Fshows%2Faew%2Fbf7f2c0f-74b5-43c5-b1e9-6dd5071410de",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "“I’ve been bingeing AEW on Max. I was a childhood wrestling fan who got back into WWE casually at the pandemic Wrestlemania. Now that it’s on Max, I’ve been bingeing the past two months of AEW shows to get acquainted with the product and better compare it to post-McMahon WWE.",
    "section": "screen-share",
    "recommender": "Manton"
@@ -368,8 +423,10 @@
    "name": "Southern Man",
    "url": "https://www.harpercollins.com/products/southern-man-greg-iles",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "“Greg Iles’ Southern Man , a massive but riveting novel set in modern Mississippi, has been eating up all my spare time.” – Darragh",
    "section": "screen-share",
    "recommender": "Manton"
@@ -379,8 +436,12 @@
    "name": "ProjectionLab",
    "url": "https://projectionlab.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "productivity",
+    "subscription"
+   ],
    "blurb": "“I recommend you check out ProjectionLab . It’s a beautifully designed financial planning tool that I’ve been using for the past few years. This solo dev-built app makes it simple to model finances and plan for the future.” – Jake",
    "section": "screen-share",
    "recommender": "Manton"
@@ -403,8 +464,10 @@
    "name": "a really lovely set of app icons",
    "url": "https://lokki.framer.website/l/formless",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "ios"
+   ],
    "blurb": "Over the holiday break, I came across a really lovely set of app icons from a designer named Lokki, and of course jumped at an excuse to yet again completely overhaul my homescreen. I really like it now!",
    "section": "signing-off",
    "recommender": null
@@ -427,7 +490,7 @@
    "name": "share stuff you’ve made",
    "url": "https://www.reddit.com/r/widgy/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Over the holiday break, I came across a really lovely set of app icons from a designer named Lokki, and of course jumped at an excuse to yet again completely overhaul my homescreen. I really like it now!",
    "section": "signing-off",

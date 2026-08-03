@@ -23,8 +23,11 @@
    "name": "The GPT Store",
    "url": "https://chat.openai.com/gpts",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web"
+   ],
    "blurb": "I still hate that we’ve allowed “GPT” to become the standard name for AI tools. But alas. OpenAI’s app store is already full of GPTs to help you with research, brainstorming, tattoo design for some reason, and lots more. Lots of fun stuff to play with.",
    "section": "the-drop",
    "recommender": null
@@ -34,8 +37,12 @@
    "name": "Clear 2",
    "url": "https://www.useclear.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity",
+    "paid"
+   ],
    "blurb": "The original Clear launched more than a decade ago, and there’s still no to-do list app as fun to use. I’m digging the new version (which is iPhone and iPad-only), too, with all its customizable colors and icons and sounds.",
    "section": "the-drop",
    "recommender": null
@@ -58,8 +65,12 @@
    "name": "BBEdit 15",
    "url": "https://www.barebones.com/products/bbedit/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "productivity",
+    "paid"
+   ],
    "blurb": "The 30-year-old text editor keeps chugging along, and it keeps being great. The new version has some power-user organizational tools, a really neat ChatGPT interface, and my favorite new thing: a mini map that makes it way easier to find stuff in a huge document.",
    "section": "the-drop",
    "recommender": null
@@ -71,7 +82,7 @@
    "alt_urls": [
     "https://www.theverge.com/2024/1/10/24033161/ayaneo-next-lite-steam-deck-competitor-steamos"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I’m convinced 2024 is going to be The Year of The Gaming Handheld, as the whole tech world tries to copy and one-up the Switch and Steam Deck. Ayaneo had been good at this for a while, and there’s some weirdness around the SteamOS-ness of this one, but it looks like it might be a winner.",
    "section": "the-drop",
@@ -98,8 +109,12 @@
     "https://www.hey.com/",
     "https://www.theverge.com/2024/1/5/24027283/apple-hey-rejection-calendar-app-basecamp-david-heinemeier-hansson"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "subscription",
+    "cross-platform"
+   ],
    "blurb": "I churned out of Hey’s email app after a while because while it has lots of good ideas, it was just too much change in my email setup. Calendar strikes a better balance: it’ll import your other events, but then has a ton of smart UI and features (like habit tracking! I love habit tracking!) on top.",
    "section": "the-drop",
    "recommender": null
@@ -137,8 +152,10 @@
    "alt_urls": [
     "https://www.theverge.com/2024/1/9/24030667/rabbit-r1-ai-action-model-price-release-date"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ai"
+   ],
    "blurb": "The most intriguing gadget of the year so far, at least for me . This is a great-looking, Teenage Engineering-designed, surprisingly inexpensive AI device. Can it be more than just a smartphone app? Is its Large Action Model a total privacy disaster? I don’t know!",
    "section": "spotlight",
    "recommender": null
@@ -150,7 +167,7 @@
    "alt_urls": [
     "https://www.theverge.com/2024/1/9/24030236/honda-zero-ev-global-series-concept-ces"
    ],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "This car concept straight up looks like the Batmobile , and I can’t decide whether I love or hate it for that. But I love that Honda’s looking for ways to make cars lighter and sleeker instead of bigger and truck-ier, and you know? I do want to drive the Batmobile. I love it.",
    "section": "spotlight",
@@ -161,8 +178,11 @@
    "name": "Ballie",
    "url": "https://news.samsung.com/us/samsung-ballie-ai-companion-robot-home-video-ces-2024/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ai",
+    "smart-home"
+   ],
    "blurb": "Projectors were one of the stories of the year this CES, and Samsung’s Ballie — a rolling AI assistant / projector / robot companion — kinda stole my heart. I’m still not sure anyone has made a good case for why you need a robot in your home, but Ballie’s one of the best so far.",
    "section": "spotlight",
    "recommender": null
@@ -174,7 +194,7 @@
    "alt_urls": [
     "https://www.theverge.com/2024/1/7/24024442/xreal-air-2-ultra-developer-ar-glasses-6dof-tracking-pricing-availability"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Apple wasn’t at CES, and the Vision Pro was still one of the most-discussed things in Vegas. But I continue to think Xreal is on a cool path : it’s building displays into glasses and giving those displays more and more power.",
    "section": "spotlight",
@@ -188,8 +208,10 @@
     "https://www.theverge.com/2024/1/12/24034978/smart-ring-oura-ring-evie-ring-zepp-helio-ces-2024",
     "https://www.theverge.com/2024/1/9/24030070/movano-evie-ring-smart-ring-wearables-ces-2024"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "fitness"
+   ],
    "blurb": "I agree with Victoria Song: this is the year of the smart ring . The Evie Ring, which has some impressive health-focused features and is designed specifically for women , is a pretty impressive device — but I suspect we’re going to see a lot more like it this year.",
    "section": "spotlight",
    "recommender": null
@@ -201,8 +223,10 @@
    "alt_urls": [
     "https://www.theverge.com/2024/1/8/24028209/aqara-hub-m3-matter-controller-thread-border-router-ces2024"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "We’re inching slowly closer to the interoperable smart home we need and deserve, but we’re not there yet. For now, we get super-versatile hubs like this one . Aqara is a rising star in the smart home world, and the hub makes it a serious player.",
    "section": "spotlight",
    "recommender": null
@@ -214,8 +238,10 @@
    "alt_urls": [
     "https://www.youtube.com/watch?v=JK_hBk2f01k"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "The Japanese post-harcore / pop-punky band Mass of the Fermenting Dregs . They never tour in the US, and I recently saw them in Brooklyn. The concert vibe was like someone opened several mosh pits at a K-pop concert. Everyone was doing coordinated hand motions. It was perfect. Maybe start here .",
    "section": "spotlight",
    "recommender": null
@@ -225,8 +251,10 @@
    "name": "Creative Hands",
    "url": "https://www.theartyologist.com/fashion-moment-creative-hands/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I have been poring over a set of craft books from the ‘60s and ‘70s called Creative Hands . They have instructions for sewing, knitting, crochet, needlework, beading, literally any kind of home craft project you can think of. I’ve been gatekeeping these because I’m still missing a few editions.",
    "section": "spotlight",
    "recommender": null
@@ -238,8 +266,10 @@
    "alt_urls": [
     "https://shareasale.com/r.cfm?b=2547636&u=1225169&m=154288&urllink=https%3A%2F%2Flata.shop%2Fcollections%2Fall%2Fproducts%2Fnazarena-sardine-pate-pate-de-sardinha"
    ],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "subscription"
+   ],
    "blurb": "My mom got me a subscription to a monthly mystery tinned seafood box . Last month’s included sardine pate , which I forced my friends to try with me, and it was surprisingly incredible spread thin on crackers.",
    "section": "spotlight",
    "recommender": null
@@ -264,7 +294,7 @@
    "name": "Thermomix",
    "url": "https://www.thermomix.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Thermomix is the next level of kitchen gadgets! It’s been popular in Europe for decades, and they recently launched in the US. We’ve used it almost every day for years, it’s the best appliance!",
    "section": "crowdsourced",
@@ -288,8 +318,12 @@
    "name": "Longreads",
    "url": "https://longreads.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "article",
+    "free"
+   ],
    "blurb": "I recently stumbled across a website called Longreads . It’s a website that curates longer-form articles from different publications in a wide range of subjects.",
    "section": "crowdsourced",
    "recommender": "Tommy (reader)"
@@ -299,8 +333,11 @@
    "name": "Dimension 20",
    "url": "https://www.dropout.tv/dimension-20",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv",
+    "subscription"
+   ],
    "blurb": "The new season of Dimension 20 came out on Dropout this week — it’s the third season of their very popular ‘Fantasy High’ storyline!",
    "section": "crowdsourced",
    "recommender": "Zach (reader)"
@@ -323,8 +360,10 @@
    "name": "Material World",
    "url": "https://www.penguinrandomhouse.com/books/703268/material-world-by-ed-conway/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "The book Material World and a refurb Surface Duo as a sort of at-home tablet / widget to futz with.",
    "section": "crowdsourced",
    "recommender": "Matt (reader)"
@@ -334,8 +373,10 @@
    "name": "Surface Duo",
    "url": "https://news.microsoft.com/surfaceduo/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "The book Material World and a refurb Surface Duo as a sort of at-home tablet / widget to futz with.",
    "section": "crowdsourced",
    "recommender": "Matt (reader)"
@@ -358,8 +399,12 @@
    "name": "ListenBrainz",
    "url": "https://listenbrainz.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "open-source",
+    "free"
+   ],
    "blurb": "After leaving Apple Music and Spotify for Plex, one thing I was going to miss was my Wrapped at the end of the year. But I hooked Plex up to ListenBrainz to track my listens, and got an awesome year in review page at the end of the year.",
    "section": "crowdsourced",
    "recommender": "Michael (reader)"
@@ -369,8 +414,10 @@
    "name": "year in review",
    "url": "https://listenbrainz.org/user/noktulo/year-in-music/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "music"
+   ],
    "blurb": "After leaving Apple Music and Spotify for Plex, one thing I was going to miss was my Wrapped at the end of the year. But I hooked Plex up to ListenBrainz to track my listens, and got an awesome year in review page at the end of the year.",
    "section": "crowdsourced",
    "recommender": "Michael (reader)"
@@ -380,8 +427,10 @@
    "name": "Dune",
    "url": "https://dunenovels.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Dune . Reading it again in preparation for the second movie later this year.",
    "section": "crowdsourced",
    "recommender": "Manuel (reader)"

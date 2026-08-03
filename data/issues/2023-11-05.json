@@ -27,8 +27,13 @@
     "https://www.anrdoezrs.net/links/8836598/type/dlg/https://1password.com/",
     "https://bitwarden.com/help/releasenotes/#2023-10-0"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "open-source",
+    "free",
+    "utilities"
+   ],
    "blurb": "If you only ever take my advice once, make it this: use a password manager. It’s the best place for all your logins, loyalty numbers, license codes, and all the other stuff you need online all the time.",
    "section": "the-drop",
    "recommender": null
@@ -41,8 +46,12 @@
     "https://www.theverge.com/2023/8/25/23837296/google-keep-app-formatting-version-history",
     "https://9to5google.com/2023/11/01/google-keep-shopping-list-assistant-notes/’"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "free",
+    "productivity"
+   ],
    "blurb": "I am perpetually afraid Google is going to kill Keep, its excellent and useful note-taking tool, but I think instead it might be… investing in it? What a world!",
    "section": "the-drop",
    "recommender": null
@@ -54,8 +63,10 @@
    "alt_urls": [
     "https://www.theverge.com/2023/10/30/23938783/apple-macbook-pro-m3-max-specs-features-price-release-date"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "mac"
+   ],
    "blurb": "The M3 chip lineup is slightly confusing this year, and I really wish the space black were more black and less gray, but the outcome is still this: the new Pros appear to be faster than ever, and I can’t think of a spec that excites me more than “22 hours of battery life.”",
    "section": "the-drop",
    "recommender": null
@@ -65,8 +76,11 @@
    "name": "Blank Check with Griffin & David : “The Social Network.”",
    "url": "https://audioboom.com/posts/8391457-the-social-network",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "movie"
+   ],
    "blurb": "This is not what you would call a “focused” podcast. It’s longer than the movie it’s ostensibly about. But it’s super fun and funny and does in fact talk a lot about Facebook, Mark Zuckerberg, being cool, and the legacy of one of my all-time favorite movies.",
    "section": "the-drop",
    "recommender": null
@@ -78,8 +92,10 @@
    "alt_urls": [
     "https://www.theverge.com/2023/11/3/23943701/fortnite-og-new-season-tilted-towers-baller"
    ],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "free"
+   ],
    "blurb": "My Fortnite sweet spot was in the 2019–2020 era, which means I have fond memories of Tilted Towers and roaming the terrain in shopping carts. For its new season, the game is going back through its history , with some new twists along the way.",
    "section": "the-drop",
    "recommender": null
@@ -104,8 +120,11 @@
    "name": "Brave Leo",
    "url": "https://brave.com/leo/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "web"
+   ],
    "blurb": "An AI assistant that doesn’t store your data, doesn’t keep a record of your chats, and doesn’t use everything you do and say to train its model? Brave’s onto something here, especially if it can make a privacy-first product that doesn’t end up as “ChatGPT but worse.”",
    "section": "the-drop",
    "recommender": null
@@ -117,8 +136,12 @@
    "alt_urls": [
     "https://www.raycast.com/changelog/1-61-0"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "mac",
+    "productivity"
+   ],
    "blurb": "Speaking of cool AI things: Raycast is one of my favorite and most-used Mac apps, and it just got access to GPT-4’s real-time web results. It’s now the fastest way I have to search “Who won the Warriors game” or “Was SBF found guilty.”",
    "section": "the-drop",
    "recommender": null
@@ -130,8 +153,10 @@
    "alt_urls": [
     "https://www.theverge.com/2023/11/2/23942607/matic-robot-vacuum-price-release-date-features"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "Ugh, it’s $1,800, which is ridiculous. But I find this thing fascinating : it has some really clever hardware to keep it from getting stuck, and it never needs to be online. It’s also just a tiny bit adorable, which never hurts.",
    "section": "the-drop",
    "recommender": null
@@ -157,8 +182,11 @@
     "https://www.bbc.co.uk/sounds/brand/m001s6hw",
     "https://www.bbc.co.uk/sounds/play/m001rzkp"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "music"
+   ],
    "blurb": "Vulture also has a great backstory of how “Now and Then” came together, and the BBC’s Eras podcast (which has six Beatles episodes, all of which you should listen to) has an excellent 30-minute episode on the song’s history.",
    "section": "deep-dive",
    "recommender": null
@@ -211,8 +239,13 @@
    "name": "Duolingo",
    "url": "https://www.duolingo.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "free",
+    "ios",
+    "android"
+   ],
    "blurb": "I started with Duolingo two years ago before having the epiphany all Japanese learners have — Duolingo isn’t meant for Japanese. Since then, I’ve tried all sorts of different apps.",
    "section": "screen-share",
    "recommender": "Chris"
@@ -222,8 +255,13 @@
    "name": "Anki",
    "url": "https://apps.ankiweb.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "free",
+    "open-source",
+    "productivity"
+   ],
    "blurb": "I started with Duolingo two years ago before having the epiphany all Japanese learners have — Duolingo isn’t meant for Japanese. Since then, I’ve tried all sorts of different apps.",
    "section": "screen-share",
    "recommender": "Chris"
@@ -233,8 +271,11 @@
    "name": "Bunpro",
    "url": "https://bunpro.jp/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "subscription"
+   ],
    "blurb": "I started with Duolingo two years ago before having the epiphany all Japanese learners have — Duolingo isn’t meant for Japanese. Since then, I’ve tried all sorts of different apps.",
    "section": "screen-share",
    "recommender": "Chris"
@@ -244,8 +285,13 @@
    "name": "Signal",
    "url": "https://signal.org/#signal",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "free",
+    "open-source",
+    "social"
+   ],
    "blurb": "Otherwise, it’s the usual: Signal and Authenticator for work; YNAB because I’m a dullard with finances and envelope budgeting saves me from myself; and Letterboxd , arguably the one social media app I’ve kept. Though pro tip for Letterboxd: write it for yourself and nobody else.",
    "section": "screen-share",
    "recommender": "Chris"
@@ -255,8 +301,13 @@
    "name": "Authenticator",
    "url": "https://support.google.com/accounts/answer/1066447",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "free",
+    "utilities"
+   ],
    "blurb": "Otherwise, it’s the usual: Signal and Authenticator for work; YNAB because I’m a dullard with finances and envelope budgeting saves me from myself; and Letterboxd , arguably the one social media app I’ve kept. Though pro tip for Letterboxd: write it for yourself and nobody else.",
    "section": "screen-share",
    "recommender": "Chris"
@@ -266,8 +317,12 @@
    "name": "YNAB",
    "url": "https://www.ynab.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "subscription",
+    "productivity"
+   ],
    "blurb": "Otherwise, it’s the usual: Signal and Authenticator for work; YNAB because I’m a dullard with finances and envelope budgeting saves me from myself; and Letterboxd , arguably the one social media app I’ve kept. Though pro tip for Letterboxd: write it for yourself and nobody else.",
    "section": "screen-share",
    "recommender": "Chris"
@@ -277,8 +332,12 @@
    "name": "Letterboxd",
    "url": "https://letterboxd.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "movie",
+    "social"
+   ],
    "blurb": "Otherwise, it’s the usual: Signal and Authenticator for work; YNAB because I’m a dullard with finances and envelope budgeting saves me from myself; and Letterboxd , arguably the one social media app I’ve kept. Though pro tip for Letterboxd: write it for yourself and nobody else.",
    "section": "screen-share",
    "recommender": "Chris"
@@ -288,8 +347,12 @@
    "name": "Overcast",
    "url": "https://overcast.fm/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "podcast",
+    "free"
+   ],
    "blurb": "Oh, and Overcast . I use the widget so I can hit pause when I’m doing chores.",
    "section": "screen-share",
    "recommender": "Chris"
@@ -299,8 +362,10 @@
    "name": "Happy End",
    "url": "https://en.wikipedia.org/wiki/Happy_End_(band)",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "Happy End . It’s hard to say one thing in particular inspired me to learn a language in my 30s, but these albums play a major part. I learned about this Japanese pop / rock / folk band in college when Rolling Stone Japan named one of their albums the “great Japanese rock album of all time.”",
    "section": "screen-share",
    "recommender": "Chris"
@@ -310,8 +375,11 @@
    "name": "Pitchfork wrote a review / band history last year",
    "url": "https://pitchfork.com/reviews/albums/happy-end-kazemachi-roman/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "music"
+   ],
    "blurb": "Happy End . It’s hard to say one thing in particular inspired me to learn a language in my 30s, but these albums play a major part. I learned about this Japanese pop / rock / folk band in college when Rolling Stone Japan named one of their albums the “great Japanese rock album of all time.”",
    "section": "screen-share",
    "recommender": "Chris"
@@ -334,8 +402,10 @@
    "name": "I’ve seen it. It rules",
    "url": "https://www.polygon.com/reviews/23940888/godzilla-minus-one-review",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
    "blurb": "Happy End . It’s hard to say one thing in particular inspired me to learn a language in my 30s, but these albums play a major part. I learned about this Japanese pop / rock / folk band in college when Rolling Stone Japan named one of their albums the “great Japanese rock album of all time.”",
    "section": "screen-share",
    "recommender": "Chris"
@@ -358,8 +428,10 @@
    "name": "My Brother, My Brother and Me",
    "url": "https://www.themcelroy.family/mbmbam",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Happy End . It’s hard to say one thing in particular inspired me to learn a language in my 30s, but these albums play a major part. I learned about this Japanese pop / rock / folk band in college when Rolling Stone Japan named one of their albums the “great Japanese rock album of all time.”",
    "section": "screen-share",
    "recommender": "Chris"
@@ -369,8 +441,10 @@
    "name": "The Adventure Zone",
    "url": "https://www.themcelroy.family/theadventurezone",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Happy End . It’s hard to say one thing in particular inspired me to learn a language in my 30s, but these albums play a major part. I learned about this Japanese pop / rock / folk band in college when Rolling Stone Japan named one of their albums the “great Japanese rock album of all time.”",
    "section": "screen-share",
    "recommender": "Chris"
@@ -391,7 +465,7 @@
    "name": "Baldur’s Gate 3",
    "url": "https://baldursgate3.game/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Happy End . It’s hard to say one thing in particular inspired me to learn a language in my 30s, but these albums play a major part. I learned about this Japanese pop / rock / folk band in college when Rolling Stone Japan named one of their albums the “great Japanese rock album of all time.”",
    "section": "screen-share",
@@ -402,8 +476,12 @@
    "name": "Shortwave",
    "url": "https://www.shortwave.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "productivity",
+    "subscription"
+   ],
    "blurb": "My inbox has absolutely been saved by Shortwave — finally get to relive the glory of those Inbox by Gmail days.",
    "section": "crowdsourced",
    "recommender": "Hillary (reader)"
@@ -413,8 +491,13 @@
    "name": "CleanShot X",
    "url": "https://cleanshot.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "paid",
+    "productivity",
+    "utilities"
+   ],
    "blurb": "I find myself explaining how to use computers for a large portion of my life. At work, nothing is a better aid than CleanShot X . Nothing, nothing makes me happier than sending a 15-second GIF on how to complete a task instead of 10 bullet points in a Slack message.",
    "section": "crowdsourced",
    "recommender": "Liam (reader)"
@@ -424,8 +507,12 @@
    "name": "Genie",
    "url": "https://lumalabs.ai/genie",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "beta",
+    "web"
+   ],
    "blurb": "I thought Genie was pretty cool. It lets you make 3D models with gen AI the way you would with Midjourney or DALL-E. I’ve been on their Luma Labs beta for a while, and what they have is pretty dang good.",
    "section": "crowdsourced",
    "recommender": "Matt (reader)"
@@ -435,8 +522,13 @@
    "name": "Frinkiac",
    "url": "https://frinkiac.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "website",
+    "free",
+    "tv"
+   ],
    "blurb": "Found this amazing website called Frinkiac with millions of screengrabs of the Simpsons series (till season 17). I use it all the time to make GIFs and share stills. You can search by quotes or even season and episode. It’s such a simple idea but a technical marvel.",
    "section": "crowdsourced",
    "recommender": "Priyantan (reader)"
@@ -459,8 +551,12 @@
    "name": "Retro",
    "url": "https://retro.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "social",
+    "photography"
+   ],
    "blurb": "Big fan of Retro at the moment.",
    "section": "crowdsourced",
    "recommender": "Tim (reader)"
@@ -470,8 +566,13 @@
    "name": "Music League",
    "url": "https://musicleague.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "music",
+    "social",
+    "free"
+   ],
    "blurb": "I’ve been enjoying Music League . We have a weekly league set up, and the winner chooses the theme for the next week.",
    "section": "crowdsourced",
    "recommender": "Michael (reader)"
@@ -481,8 +582,12 @@
    "name": "Book Tracker",
    "url": "https://booktrack.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "paid",
+    "book"
+   ],
    "blurb": "Stumbled upon Book Tracker this week. No extras, clean, basic UI, fair price.",
    "section": "crowdsourced",
    "recommender": "Zook (reader)"
@@ -492,8 +597,10 @@
    "name": "The Country of the Blind",
    "url": "https://www.penguinrandomhouse.com/books/635964/the-country-of-the-blind-by-andrew-leland/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I am listening to and loving Andrew Leland’s memoir, The Country of the Blind . I also want to recommend getting a laptop stand and separate peripherals for people working from home all day.",
    "section": "crowdsourced",
    "recommender": "Jeanne (reader)"
@@ -503,7 +610,7 @@
    "name": "Twelve South folding thing",
    "url": "https://www.twelvesouth.com/products/curve-flex-for-macbook",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I am listening to and loving Andrew Leland’s memoir, The Country of the Blind . I also want to recommend getting a laptop stand and separate peripherals for people working from home all day.",
    "section": "crowdsourced",
@@ -514,8 +621,10 @@
    "name": "The Lazarus Heist",
    "url": "https://www.bbc.co.uk/programmes/w13xtvg9",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "The Lazarus Heist , a BBC podcast about how North Korean government-sponsored hackers nearly stole $1B.",
    "section": "crowdsourced",
    "recommender": "Dave (reader)"
@@ -525,7 +634,7 @@
    "name": "daylight saving time",
    "url": "https://www.tiktok.com/@gracelapaille/video/7296890917167009070?q=daylight%20saving&t=1699018674379",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "It’s the daylight saving time switchover this weekend, which means people all over the US will change their clocks back an hour and grumble about it for the rest of the weekend.",
    "section": "signing-off",
@@ -536,8 +645,13 @@
    "name": "TikTok",
    "url": "https://www.tiktok.com/@mondralajuan/video/7158851741373467947?q=daylight%20saving&t=1699018674379",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "social",
+    "video"
+   ],
    "blurb": "It’s the daylight saving time switchover this weekend, which means people all over the US will change their clocks back an hour and grumble about it for the rest of the weekend.",
    "section": "signing-off",
    "recommender": null
@@ -547,7 +661,7 @@
    "name": "all",
    "url": "https://www.tiktok.com/@thewadeempire/video/7162599888507669802?q=daylight%20saving&t=1699018674379",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "It’s the daylight saving time switchover this weekend, which means people all over the US will change their clocks back an hour and grumble about it for the rest of the weekend.",
    "section": "signing-off",
@@ -558,7 +672,7 @@
    "name": "my",
    "url": "https://www.tiktok.com/@jimenezzz._/video/7163078313672723758?q=daylight%20saving&t=1699018674379",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "It’s the daylight saving time switchover this weekend, which means people all over the US will change their clocks back an hour and grumble about it for the rest of the weekend.",
    "section": "signing-off",
@@ -569,7 +683,7 @@
    "name": "once",
    "url": "https://www.tiktok.com/@mum_and_a_mic/video/7294954314458582305?q=daylight%20saving&t=1699018674379",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "It’s the daylight saving time switchover this weekend, which means people all over the US will change their clocks back an hour and grumble about it for the rest of the weekend.",
    "section": "signing-off",

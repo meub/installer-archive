@@ -23,8 +23,11 @@
    "name": "Parseword",
    "url": "https://www.parseword.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "A new game from Josh Wardle, the creator of Wordle , this one is based on the concept of cryptic crosswords. The concept is substantially harder to explain than Wordle , but tickles my word game-loving brain in a similarly delightful way.",
    "section": "the-drop",
    "recommender": null
@@ -34,8 +37,11 @@
    "name": "The Sonos Play",
    "url": "https://www.sonos.com/en-us/shop/sonos-play",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music",
+    "smart-home"
+   ],
    "blurb": "Sonos’ first new speaker in more than a year is too expensive — $299 is just a lot for a wireless speaker — but otherwise sounds kind of ideal? Big and powerful enough to be a good living room speaker, portable enough to actually throw in a bag or carry to the backyard.",
    "section": "the-drop",
    "recommender": null
@@ -56,8 +62,10 @@
    "name": "Perplexity Personal Computer",
    "url": "https://www.perplexity.ai/hub/blog/everything-is-computer",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai"
+   ],
    "blurb": "There are a bunch of apps coming out now that I would classify as “OpenClaw, but simpler and less risky.” People seem to like this one from Perplexity — it still requires a dedicated device and comes with some risks, but it’s a lot easier to get up and running.",
    "section": "the-drop",
    "recommender": null
@@ -67,8 +75,10 @@
    "name": "Is the brand new city in California for real?",
    "url": "https://www.volts.wtf/p/is-the-brand-new-city-in-california",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "“ Is the brand new city in California for real? ” I had kind of forgotten about California Forever, the tech-led proposal to build an entirely new city outside of San Francisco! This is a great episode of the Volts podcast digging into how the city would work. I’m looking forward to part two.",
    "section": "the-drop",
    "recommender": null
@@ -78,8 +88,10 @@
    "name": "The Bigfoot emoji",
    "url": "https://emojipedia.org/hairy-creature",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "beta"
+   ],
    "blurb": "The Unicode 17.0 standard is starting to roll out to devices — it’s currently in a bunch of Apple betas — and it includes a bunch of good new emoji! But I feel like we need to, right now, decide on a culturally useful reason to use the Bigfoot emoji all the time. Like, does it mean “badass”?",
    "section": "the-drop",
    "recommender": null
@@ -89,8 +101,12 @@
    "name": "Channel Surfer",
    "url": "https://channelsurfer.tv/?ch=25",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "video",
+    "free"
+   ],
    "blurb": "This web app puts YouTube into an old-school grid of TV channels, so you can flip between videos like you’d scroll your hotel room TV. But you can also import your own subscriptions, which actually makes this one of the best lean-back YouTube experiences I’ve ever encountered.",
    "section": "the-drop",
    "recommender": null
@@ -100,8 +116,12 @@
    "name": "My WordPress",
    "url": "https://my.wordpress.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "free",
+    "open-source"
+   ],
    "blurb": "I almost don’t know what to make of this: You can now install a local version of WordPress that is confined to your browser, requires zero setup, and kind of just works. It’s WordPress as local operating system, I think? I’m a little confused by it, but fascinated by the rise in local-browser apps.",
    "section": "the-drop",
    "recommender": null
@@ -111,8 +131,10 @@
    "name": "Brian Lovin",
    "url": "https://brianlovin.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "website"
+   ],
    "blurb": "First up: Brian Lovin , who works as a designer at Notion and is also a prolific developer and designer on the side. (If you checked out Shiori , the bookmarking app I mentioned here a couple of weeks ago, you’re already familiar with his work.)",
    "section": "screen-share",
    "recommender": null
@@ -122,8 +144,11 @@
    "name": "Shiori",
    "url": "https://www.shiori.sh/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "First up: Brian Lovin , who works as a designer at Notion and is also a prolific developer and designer on the side. (If you checked out Shiori , the bookmarking app I mentioned here a couple of weeks ago, you’re already familiar with his work.)",
    "section": "screen-share",
    "recommender": null
@@ -133,8 +158,12 @@
    "name": "Claude",
    "url": "https://claude.ai/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity",
+    "subscription"
+   ],
    "blurb": "Claude . He uses the Claude Code app for a lot of things, but also interacts with Claude in the Mac’s Terminal, in Cursor , in Zed , and elsewhere. Claude Skills .",
    "section": "screen-share",
    "recommender": null
@@ -144,8 +173,12 @@
    "name": "Cursor",
    "url": "https://cursor.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity",
+    "subscription"
+   ],
    "blurb": "Claude . He uses the Claude Code app for a lot of things, but also interacts with Claude in the Mac’s Terminal, in Cursor , in Zed , and elsewhere. Claude Skills .",
    "section": "screen-share",
    "recommender": null
@@ -155,8 +188,12 @@
    "name": "Zed",
    "url": "https://zed.dev/ai",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "open-source",
+    "free"
+   ],
    "blurb": "Claude . He uses the Claude Code app for a lot of things, but also interacts with Claude in the Mac’s Terminal, in Cursor , in Zed , and elsewhere. Claude Skills .",
    "section": "screen-share",
    "recommender": null
@@ -166,8 +203,11 @@
    "name": "Claude Skills",
    "url": "https://code.claude.com/docs/en/skills",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
    "blurb": "Claude . He uses the Claude Code app for a lot of things, but also interacts with Claude in the Mac’s Terminal, in Cursor , in Zed , and elsewhere. Claude Skills .",
    "section": "screen-share",
    "recommender": null
@@ -190,8 +230,12 @@
    "name": "Monologue",
    "url": "https://www.monologue.to/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "mac",
+    "productivity"
+   ],
    "blurb": "Claude . He uses the Claude Code app for a lot of things, but also interacts with Claude in the Mac’s Terminal, in Cursor , in Zed , and elsewhere. Claude Skills .",
    "section": "screen-share",
    "recommender": null
@@ -201,8 +245,12 @@
    "name": "Conductor",
    "url": "https://www.conductor.build/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "mac",
+    "productivity"
+   ],
    "blurb": "Claude . He uses the Claude Code app for a lot of things, but also interacts with Claude in the Mac’s Terminal, in Cursor , in Zed , and elsewhere. Claude Skills .",
    "section": "screen-share",
    "recommender": null
@@ -212,8 +260,12 @@
    "name": "Android Studio",
    "url": "https://developer.android.com/studio",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android",
+    "free",
+    "cross-platform"
+   ],
    "blurb": "I’m finally starting to understand Android Studio . Maybe I have too many options and tools (Claude, Gemini, Manus, Firebase Studio, Android Studio, Replit, whatever else is in my inbox). But I’m getting there.",
    "section": "crowdsourced",
    "recommender": "Omar (reader)"
@@ -236,8 +288,12 @@
    "name": "Home-Cooked Software and Barefoot Developers",
    "url": "https://maggieappleton.com/home-cooked-software",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "free",
+    "web"
+   ],
    "blurb": "Been thinking about this Maggie Appleton essay, ‘ Home-Cooked Software and Barefoot Developers ,’ a lot recently!",
    "section": "crowdsourced",
    "recommender": "Jacob (reader)"
@@ -247,8 +303,10 @@
    "name": "The Prize",
    "url": "https://www.danielyergin.com/books/theprize",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I have a book rec I think you’re gonna love: The Prize . This book does a fantastic job of covering oil from start to now, and with it, lays out the economic background of oil then and now, the history of Western companies vs.",
    "section": "crowdsourced",
    "recommender": "Christopher (reader)"
@@ -258,8 +316,10 @@
    "name": "The Power Broker",
    "url": "https://www.robertcaro.org/the-power-broker",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’m reading The Power Broker and listening to the 99% Invisible companion podcast with Roman Mars and Elliott Kalan.",
    "section": "crowdsourced",
    "recommender": "craigkocur (reader)"
@@ -269,8 +329,11 @@
    "name": "99% Invisible companion podcast",
    "url": "https://99percentinvisible.org/power-broker/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "free"
+   ],
    "blurb": "I’m reading The Power Broker and listening to the 99% Invisible companion podcast with Roman Mars and Elliott Kalan.",
    "section": "crowdsourced",
    "recommender": "craigkocur (reader)"
@@ -280,8 +343,10 @@
    "name": "Rematch",
    "url": "https://www.playrematch.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "paid"
+   ],
    "blurb": "Have you tried Rematch ? It was released almost a year ago now, and it’s still my favourite football-related game.",
    "section": "crowdsourced",
    "recommender": "Eldar (reader)"
@@ -291,8 +356,13 @@
    "name": "MusicBrainz Picard",
    "url": "https://picard.musicbrainz.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "free",
+    "open-source",
+    "cross-platform"
+   ],
    "blurb": "For the person looking for MP3 taggers for all the music they’re ripping off CDs, I would suggest: MusicBrainz Picard or (if you enjoy the command line) Beets .",
    "section": "crowdsourced",
    "recommender": "Daryl (reader)"
@@ -302,8 +372,13 @@
    "name": "Beets",
    "url": "https://beets.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "open-source",
+    "free",
+    "utilities"
+   ],
    "blurb": "For the person looking for MP3 taggers for all the music they’re ripping off CDs, I would suggest: MusicBrainz Picard or (if you enjoy the command line) Beets .",
    "section": "crowdsourced",
    "recommender": "Daryl (reader)"
@@ -313,8 +388,11 @@
    "name": "Mist",
    "url": "https://www.getmistapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "fitness"
+   ],
    "blurb": "I can’t say enough good things about Mist as an AI health and fitness companion. It’s an AI chatbot but it’s ONLY focused on health. It’s super minimalist and clean. It has its own stats built in but it also syncs with Apple Health and other health services.",
    "section": "crowdsourced",
    "recommender": "Justin (reader)"

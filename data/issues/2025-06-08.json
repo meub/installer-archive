@@ -24,8 +24,11 @@
    "name": "!Camera",
    "url": "https://notbor.ing/product/camera",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "photography"
+   ],
    "blurb": "Andy Allen designs some of the best-looking apps you’ll find for Apple platforms, and he has outdone himself with this very playful, tactile take on a camera app.",
    "section": "the-drop",
    "recommender": null
@@ -46,8 +49,11 @@
    "name": "Good Night, and Good Luck",
    "url": "https://www.cnn.com/good-night-and-good-luck-watch-cnn",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "movie",
+    "tv"
+   ],
    "blurb": "First, George Clooney made a terrific movie. Then, he turned it into a record-breaking Broadway show. Now, it’s being filmed, live, on CNN on Saturday night. I love this kind of thing, and I always wondered why we didn’t get more of it after Hamilton was such a smash.",
    "section": "the-drop",
    "recommender": null
@@ -72,7 +78,7 @@
    "alt_urls": [
     "https://razer.a9yw.net/c/482924/642901/10229?u=https%3A%2F%2Fwww.razer.com%2Fsynapse-4-mac"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I’m really not an “all of the RGB lights” kind of guy, but there’s something about this translucent, glowing keyboard and mousepad that really does work for me.",
    "section": "the-drop",
@@ -85,8 +91,13 @@
    "alt_urls": [
     "https://play.google.com/store/apps/details?id=net.poolsuite.mobile&pcampaignid=web_share"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "android",
+    "ios",
+    "free"
+   ],
    "blurb": "Big update this week to one of the internet’s best sources of chill vibes and great summer music — including, for the first time, an Android app ! This is one of the few apps I can just turn on and let play all day. The vibes are immaculate.",
    "section": "the-drop",
    "recommender": null
@@ -114,8 +125,11 @@
    "alt_urls": [
     "https://us.macmillan.com/books/9780374619329/enshittification/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "free"
+   ],
    "blurb": "“ Ensh*ttification, Live! ” Cory Doctorow has been more right about the state of the internet than anyone these last few years, and this interview from the PBS Ideas Festival is a really smart catch-up about how we got enshittified, what it looks like right now, and where we go from here.",
    "section": "the-drop",
    "recommender": null
@@ -151,8 +165,10 @@
    "alt_urls": [
     "https://www.theverge.com/nintendo/642436/nintendo-switch-2-gamecube-f-zero-hands-on"
    ],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "subscription"
+   ],
    "blurb": "he addition of some GameCube classics . And I know that as soon as I can I’m dusting off that virtual copy of F-Zero GX and racing those futuristic streets.”",
    "section": "spotlight",
    "recommender": null
@@ -173,8 +189,11 @@
    "name": "NYT Cooking",
    "url": "https://www.nytimes.com/marketing/cooking/app",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "subscription"
+   ],
    "blurb": "Otherwise, I’m an iPhone girl with a penchant for Google apps (big Google Maps, Google Photos, and Gmail fan). My two aspirational apps are NYT Cooking and NYT Games : I use and love them, but I’m way less skilled at both things than I wish I were.",
    "section": "screen-share",
    "recommender": "Hayden"
@@ -184,8 +203,11 @@
    "name": "NYT Games",
    "url": "https://www.nytimes.com/crosswords/apps",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "subscription"
+   ],
    "blurb": "Otherwise, I’m an iPhone girl with a penchant for Google apps (big Google Maps, Google Photos, and Gmail fan). My two aspirational apps are NYT Cooking and NYT Games : I use and love them, but I’m way less skilled at both things than I wish I were.",
    "section": "screen-share",
    "recommender": "Hayden"
@@ -195,8 +217,11 @@
    "name": "Skratch",
    "url": "https://www.skratch.world/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "travel",
+    "ios"
+   ],
    "blurb": "Skratch is my way of keeping track of the number of countries I’ve traveled to (my dream is to visit every country in the world). And West is for disposable-camera-looking photos when I don’t have a real camera around.",
    "section": "screen-share",
    "recommender": "Hayden"
@@ -206,8 +231,11 @@
    "name": "West",
    "url": "https://thestudio.company/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "photography",
+    "ios"
+   ],
    "blurb": "Skratch is my way of keeping track of the number of countries I’ve traveled to (my dream is to visit every country in the world). And West is for disposable-camera-looking photos when I don’t have a real camera around.",
    "section": "screen-share",
    "recommender": "Hayden"
@@ -256,7 +284,7 @@
    "name": "Everdell",
    "url": "https://www.tabletoptycoon.com/products/everdell-standard-edition-3rd-edition",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "I’m catching up on The Witcher right now, and I’m addicted; on the opposite side of things, I’ve been rewatching Gossip Girl and gearing up to catch up on The Rehearsal next.",
    "section": "screen-share",
@@ -267,8 +295,10 @@
    "name": "Furbo",
    "url": "https://furbo.com/us",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "I’m catching up on The Witcher right now, and I’m addicted; on the opposite side of things, I’ve been rewatching Gossip Girl and gearing up to catch up on The Rehearsal next.",
    "section": "screen-share",
    "recommender": "Hayden"
@@ -278,8 +308,11 @@
    "name": "Hannah Via’s",
    "url": "https://hannahviaart.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "social"
+   ],
    "blurb": "I’m catching up on The Witcher right now, and I’m addicted; on the opposite side of things, I’ve been rewatching Gossip Girl and gearing up to catch up on The Rehearsal next.",
    "section": "screen-share",
    "recommender": "Hayden"
@@ -289,7 +322,7 @@
    "name": "Fallout 4",
    "url": "https://fallout.bethesda.net/en/games/fallout-4",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I’ve recently fallen back into Fallout 4 . Maybe it’s the yearning for a new Fallout title, or just that this game has INSANE replayability.",
    "section": "crowdsourced",
@@ -300,8 +333,10 @@
    "name": "Philips Hue Light Strip",
    "url": "https://www.philips-hue.com/en-us/products/smart-light-strips",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "Just bought a Philips Hue Light Strip and love how this little light addition lets you set a whole new mood in your rooms — without being visible like a lamp.",
    "section": "crowdsourced",
    "recommender": "Florian (reader)"
@@ -311,7 +346,7 @@
    "name": "Flesh and Blood",
    "url": "https://fabtcg.com/en/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Check out the Flesh and Blood trading card game, super competitive and addicting. Way better than Magic the Gathering in my eyes. It’s also the US national championship this weekend.",
    "section": "crowdsourced",
@@ -322,7 +357,7 @@
    "name": "US national championship",
    "url": "https://fabtcg.com/en/organised-play/2025/national-championships-2025/national-championships-2025/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Check out the Flesh and Blood trading card game, super competitive and addicting. Way better than Magic the Gathering in my eyes. It’s also the US national championship this weekend.",
    "section": "crowdsourced",
@@ -333,8 +368,12 @@
    "name": "Zen",
    "url": "https://zen-browser.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "cross-platform"
+   ],
    "blurb": "I switched my browser from Arc to Zen due to Arc no longer being supported by The Browser Company. Zen is turning out to be an almost perfect open-sourced version of Arc, so far I am happy!",
    "section": "crowdsourced",
    "recommender": "Craig (reader)"
@@ -344,7 +383,7 @@
    "name": "Dig Dig Dino!",
    "url": "https://play.date/games/dig-dig-dino/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Dig Dig Dino! is for me the killer app of the Playdate console. Until I played it, I wasn’t sure buying the gadget was a good choice. Perfect game for short bursts of play time, but also can (and does) suck you in with a fun gameplay loop for longer sessions.",
    "section": "crowdsourced",
@@ -355,8 +394,11 @@
    "name": "Hodinkee",
    "url": "https://www.hodinkee.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "web"
+   ],
    "blurb": "I have been trying and failing to find another website to visit the way I do The Verge , and I think I’ve found it: Hodinkee . It’s a website about high-end watches, and a good website. I can’t recommend it enough.",
    "section": "crowdsourced",
    "recommender": "Vishal (reader)"
@@ -405,7 +447,7 @@
    "name": "Skin Deep",
    "url": "https://blendogames.com/skindeep/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "The game Skin Deep by Blendo Games is phenomenal. It’s like if Hitman had a less punishing game loop and was deeply silly. There are cats to rescue (also the cats are spaceship crew)!",
    "section": "crowdsourced",
@@ -427,8 +469,10 @@
    "name": "someone who is good at the economy help me budget this",
    "url": "https://x.com/dril/status/384408932061417472?lang=en",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "But in the interim, I made the mistake of looking for an upgrade. I asked my colleagues which controller I should buy, or if I should wait for all the new accessories to come out. They all said the same thing: just buy the Nintendo Pro Controller , it’s the best one, it’s not even close.",
    "section": "signing-off",
    "recommender": null

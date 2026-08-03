@@ -29,8 +29,11 @@
     "https://www.anrdoezrs.net/links/8836598/type/dlg/https://store.google.com/product/pixel_buds_pro?hl=en-US",
     "https://www.theverge.com/23896271/pixel-watch-2-hands-on-google-price-specs"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android",
+    "fitness"
+   ],
    "blurb": "Google launched the Pixel 8 phone lineup this week and some cool updates to the Pixel Buds Pro headphones, but I think the new $349.99 watch is the best new thing of the bunch .",
    "section": "the-drop",
    "recommender": null
@@ -40,7 +43,7 @@
    "name": "Assassin’s Creed Mirage",
    "url": "https://www.ubisoft.com/en-us/game/assassins-creed/mirage",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I haven’t played this one yet, but I hear great things, and I love me some Assassin’s Creed. For years, it’s been basically the same game, only relentlessly bigger and more confusing, but this Egypt-set installment appears to be a return to its relentless form.",
    "section": "the-drop",
@@ -53,7 +56,7 @@
    "alt_urls": [
     "https://www.theverge.com/23905255/forza-motorsport-launch-date-first-impressions"
    ],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "My other long-weekend project. An ultra-realistic, ultra-detailed game with endless side quests and upgrade tasks is pretty much everything I can ask for in a racing game. Now I just have to figure out how to sneak a full simulator rig into my house without anyone noticing…",
    "section": "the-drop",
@@ -66,8 +69,11 @@
    "alt_urls": [
     "https://www.theverge.com/2023/10/3/23902039/spotify-audiobooks-subscription-podcast-audible-amazon-pushkin"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "book",
+    "subscription"
+   ],
    "blurb": "I don’t love the way audiobooks are integrated within Spotify, but I do love getting 15 hours of audiobook listening a month with a Premium subscription.",
    "section": "the-drop",
    "recommender": null
@@ -79,8 +85,10 @@
    "alt_urls": [
     "https://www.theverge.com/2023/3/23/23653127/rewind-ai-chatgpt-for-me-chatbot-mac"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ai"
+   ],
    "blurb": "This is straight out of sci-fi: a device you wear around your neck that records everything you say and hear, summarizes it, and tells you what matters later. Awesome? Horrifying? Who knows. But Rewind is definitely one of the most interesting companies in AI .",
    "section": "the-drop",
    "recommender": null
@@ -92,8 +100,10 @@
    "alt_urls": [
     "https://www.theverge.com/23901027/loki-season-2-review-marvel-disney-plus"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "Loki and Wandavision are easily my two favorite Marvel shows from the last few years, so I was psyched to see Tom Hiddleston back as the universe’s favorite long-haired trickster. And unlike so many Marvel things recently, Loki ’s second season is pretty good !",
    "section": "the-drop",
    "recommender": null
@@ -105,8 +115,10 @@
    "alt_urls": [
     "https://www.theverge.com/2023/10/3/23901682/microsoft-onedrive-new-design-copilot-offline-features"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "Microsoft is quietly building a really great set of simple productivity tools — between the also-new OneDrive , the always-great To Do, and the new Lists app that’s great for everything from shopping lists to to-watch lists, the ecosystem here is looking pretty great.",
    "section": "the-drop",
    "recommender": null
@@ -131,8 +143,11 @@
    "alt_urls": [
     "https://www.theverge.com/2023/5/10/23718088/google-android-14-ai-wallpaper-messages-magic-compose-io"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "android"
+   ],
    "blurb": "I’ve become a big fan of frequently changing my wallpaper ever since Canoopsy recommended it in Installer a few weeks ago. Google’s new tool, which uses generative AI to create a wallpaper based on your prompts , is a super fun way to quickly make a wallpaper to match any mood of the day.",
    "section": "the-drop",
    "recommender": null
@@ -142,8 +157,12 @@
    "name": "Orion",
    "url": "https://orion.tube/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "utilities",
+    "free"
+   ],
    "blurb": "A couple of weeks ago, I mentioned in Installer that a new app called Orion had come out. It turns your iPad into a display for pretty much anything that uses a display, from a game console to a Windows 98 computer . It’s a simple concept, but Orion is a really fun and clever app.",
    "section": "pro-tips",
    "recommender": null
@@ -153,8 +172,10 @@
    "name": "a Windows 98 computer",
    "url": "https://www.tiktok.com/@verge/video/7285376730733301035",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "windows"
+   ],
    "blurb": "A couple of weeks ago, I mentioned in Installer that a new app called Orion had come out. It turns your iPad into a display for pretty much anything that uses a display, from a game console to a Windows 98 computer . It’s a simple concept, but Orion is a really fun and clever app.",
    "section": "pro-tips",
    "recommender": null
@@ -188,7 +209,7 @@
    "name": "the internet’s favorite meme",
    "url": "https://knowyourmeme.com/memes/kevin-james-smirking-getty-image",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "The wallpaper: the internet’s favorite meme",
    "section": "screen-share",
@@ -199,8 +220,11 @@
    "name": "Brian Jordan Alvarez",
    "url": "https://www.tiktok.com/@brianjordanalvarez?referer_url=www.vulture.com%2F2023%2F10%2Fbrian-jordan-alvarez-tiktok-characters-explained.html&refer=embed&embed_source=121355058%2C121351166%2C121331973%2C120811592%2C120810756%3Bnull%3Bembed_masking&referer_video_id=7277315001944247594’",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "social"
+   ],
    "blurb": "The Brian Jordan Alvarez extended univers e. This man has created an entire cast of characters on his TikTok. Blood in the Machine , Brian Merchant’s new book about the Luddite movement, is phenomenal. I can’t put it down! The Luddites have been so unfairly maligned.",
    "section": "screen-share",
    "recommender": "Taylor"
@@ -210,8 +234,11 @@
    "name": "an entire cast of characters",
    "url": "https://www.vulture.com/2023/10/brian-jordan-alvarez-tiktok-characters-explained.html",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "social"
+   ],
    "blurb": "The Brian Jordan Alvarez extended univers e. This man has created an entire cast of characters on his TikTok. Blood in the Machine , Brian Merchant’s new book about the Luddite movement, is phenomenal. I can’t put it down! The Luddites have been so unfairly maligned.",
    "section": "screen-share",
    "recommender": "Taylor"
@@ -221,8 +248,10 @@
    "name": "Blood in the Machine",
    "url": "https://www.hachettebookgroup.com/titles/brian-merchant/blood-in-the-machine/9780316487740/?lens=little-brown",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "The Brian Jordan Alvarez extended univers e. This man has created an entire cast of characters on his TikTok. Blood in the Machine , Brian Merchant’s new book about the Luddite movement, is phenomenal. I can’t put it down! The Luddites have been so unfairly maligned.",
    "section": "screen-share",
    "recommender": "Taylor"
@@ -232,8 +261,10 @@
    "name": "The Otherworld podcast",
    "url": "https://www.otherworldpod.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "The Brian Jordan Alvarez extended univers e. This man has created an entire cast of characters on his TikTok. Blood in the Machine , Brian Merchant’s new book about the Luddite movement, is phenomenal. I can’t put it down! The Luddites have been so unfairly maligned.",
    "section": "screen-share",
    "recommender": "Taylor"
@@ -243,8 +274,12 @@
    "name": "Discover Quickly",
    "url": "http://discoverquickly.com",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "web",
+    "free"
+   ],
    "blurb": "Discover Quickly lets you fall into a rabbit hole of your Spotify library by letting you traverse through music quickly and visually.",
    "section": "crowdsourced",
    "recommender": "Karan (reader)"
@@ -254,8 +289,10 @@
    "name": "Rurouni Kenshin",
    "url": "https://www.crunchyroll.com/series/G0XHWM1NK/rurouni-kenshin",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "Currently watching the remake of Rurouni Kenshin anime in Crunchyroll.",
    "section": "crowdsourced",
    "recommender": "Christian (reader)"
@@ -265,8 +302,11 @@
    "name": "Pi",
    "url": "https://pi.ai/talk",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "free"
+   ],
    "blurb": "I just have to let you know that for whatever reason, Pi is the most slept-on conversational AI there is, by far. It is capable of handling complex searches in the background and formatting the information it’s scanned to present it in a highly digestible and highly human way.",
    "section": "crowdsourced",
    "recommender": "Jacob (reader)"
@@ -276,8 +316,11 @@
    "name": "Fallout Shelter",
    "url": "https://bethesda.net/en/game/falloutshelter",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "free",
+    "cross-platform"
+   ],
    "blurb": "Fallout Shelter . Highly engaging strategy game, to just survive against all odds. Played two consecutive nights without dropping the tablet. Once you figure out the overall survival plan, maybe it’s easy. Yet to be determined.",
    "section": "crowdsourced",
    "recommender": "Prabhat (reader)"
@@ -287,8 +330,11 @@
    "name": "Paprika",
    "url": "https://www.paprikaapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "paid"
+   ],
    "blurb": "Paprika . An app that lets you save recipes from anywhere, Raindrop-style, but it also extracts the ingredients and steps from even the most seo-text-laden of webpages. It’s so good.",
    "section": "crowdsourced",
    "recommender": "Luke (reader)"
@@ -298,8 +344,11 @@
    "name": "RunPee",
    "url": "https://runpee.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "movie",
+    "cross-platform"
+   ],
    "blurb": "I’ve been using and recommending RunPee to people for like over 10 years now. I know the UI / UX leaves a lot to be desired, but it’s an amazing app. When you’re watching a movie and need to pee, you open the app, and it tells you good times you can run to the bathroom.",
    "section": "crowdsourced",
    "recommender": "Ryan (reader)"
@@ -309,8 +358,10 @@
    "name": "Wellness",
    "url": "https://www.penguinrandomhouse.com/books/717451/wellness-by-nathan-hill/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Wellness by Nathan Hill! Arc Max for browsing.",
    "section": "crowdsourced",
    "recommender": "Nation (reader)"
@@ -320,8 +371,10 @@
    "name": "Arc Max",
    "url": "https://arc.net/max",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai"
+   ],
    "blurb": "Wellness by Nathan Hill! Arc Max for browsing.",
    "section": "crowdsourced",
    "recommender": "Nation (reader)"
@@ -331,7 +384,7 @@
    "name": "Cocoon",
    "url": "https://www.cocoongame.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "If you’re into challenging puzzle games that also look positively gorgeous and sound absolutely mesmerizing, you cannot miss Cocoon . I just finished it (takes a couple of hours) but was consistently amazed at the art (both visual and audio) and the puzzle design.",
    "section": "crowdsourced",
@@ -342,8 +395,10 @@
    "name": "The Good Wife",
    "url": "https://paramountplus.qflm.net/c/482924/175360/3065?u=https%3A%2F%2Fwww.paramountplus.com%2Fshows%2Fthe_good_wife%2F&subid1=Installer100623",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "For reasons I don’t fully understand, everyone I know seems to be rewatching The Good Wife . Myself included.",
    "section": "crowdsourced",
    "recommender": "Peter (reader)"
@@ -353,7 +408,7 @@
    "name": "Ember Tumbler",
    "url": "https://ember.com/products/ember-tumbler?variant=43379319570617",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I got an Ember Tumbler this week, the new $200 mug from the company that specializes in temperature-regulating drinkware. The company sent it to me to test, and I’ll end up writing something about it, but using it the last few days has reminded me of why tech is so much fun.",
    "section": "signing-off",

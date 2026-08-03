@@ -38,8 +38,10 @@
    "name": "Images in ChatGPT",
    "url": "https://help.openai.com/en/articles/8932459-creating-images-in-chatgpt",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai"
+   ],
    "blurb": "This feature has made the internet super weird all week. I’ve seen and made some really cool, beautiful stuff, and also horrors I hoped to never encounter. This feels like a step beyond any image generation stuff I’ve seen before.",
    "section": "the-drop",
    "recommender": null
@@ -51,8 +53,10 @@
    "alt_urls": [
     "https://www.theverge.com/news/634582/twelve-south-airfly-pro-2-wireless-headphone-bluetooth-dongle"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "travel"
+   ],
    "blurb": "This is one of those accessories that shouldn’t need to exist, but I’m glad it does — a dongle for connecting Bluetooth headphones to seat-back screens, old-school audio systems, and more. The new model has better sound and faster pairing, which almost makes the $59.99 price tag tolerable.",
    "section": "the-drop",
    "recommender": null
@@ -77,8 +81,12 @@
    "alt_urls": [
     "https://vivaldi.com/blog/privacy-without-compromise-proton-vpn-is-now-built-into-vivaldi/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "free",
+    "cross-platform"
+   ],
    "blurb": "An excellent browser with a great new feature: a built-in VPN courtesy of Proton. It’s never super difficult to get a VPN, but baking this in for free and as part of your browser account makes things easy. One to keep installed, even if it’s not your daily driver.",
    "section": "the-drop",
    "recommender": null
@@ -116,7 +124,7 @@
    "alt_urls": [
     "https://www.theverge.com/games-review/635297/atomfall-review-xbox-ps5-steam"
    ],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "A postapocalyptic survival game set in some extremely British locales, with a big world and a big story ? I don’t always love a wander-around game, but this sounds like my kind of wandering.",
    "section": "the-drop",
@@ -138,7 +146,7 @@
    "name": "Untitled (Black on Gray)",
    "url": "https://www.guggenheim.org/artwork/3535",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "The wallpaper: It’s a Gothko! Mark Rothko’s Untitled (Black on Gray) that I saw at the Guggenheim years ago.",
    "section": "screen-share",
@@ -149,8 +157,10 @@
    "name": "AI garbage stinking up search results",
    "url": "https://news.artnet.com/art-world/cubism-ai-slop-google-2597531",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "ai"
+   ],
    "blurb": "The wallpaper: It’s a Gothko! Mark Rothko’s Untitled (Black on Gray) that I saw at the Guggenheim years ago.",
    "section": "screen-share",
    "recommender": "Marina"
@@ -160,8 +170,12 @@
    "name": "Apple Fitness",
    "url": "https://www.apple.com/apple-fitness-plus/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness",
+    "ios",
+    "subscription"
+   ],
    "blurb": "Clearly, I’m really into gamified fitness right now. The Verge ’s Victoria Song turned me onto both Apple Fitness and Ladder , and I’m sort of oscillating between the two. I only still have Twitter as an occupational hazard. Otherwise it would be gone. The best (only good?)",
    "section": "screen-share",
    "recommender": "Marina"
@@ -171,8 +185,12 @@
    "name": "Ladder",
    "url": "https://www.joinladder.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness",
+    "ios",
+    "subscription"
+   ],
    "blurb": "Clearly, I’m really into gamified fitness right now. The Verge ’s Victoria Song turned me onto both Apple Fitness and Ladder , and I’m sort of oscillating between the two. I only still have Twitter as an occupational hazard. Otherwise it would be gone. The best (only good?)",
    "section": "screen-share",
    "recommender": "Marina"
@@ -182,8 +200,10 @@
    "name": "Twitter",
    "url": "https://x.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social"
+   ],
    "blurb": "Clearly, I’m really into gamified fitness right now. The Verge ’s Victoria Song turned me onto both Apple Fitness and Ladder , and I’m sort of oscillating between the two. I only still have Twitter as an occupational hazard. Otherwise it would be gone. The best (only good?)",
    "section": "screen-share",
    "recommender": "Marina"
@@ -193,8 +213,11 @@
    "name": "Letterboxd",
    "url": "https://letterboxd.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "movie"
+   ],
    "blurb": "Clearly, I’m really into gamified fitness right now. The Verge ’s Victoria Song turned me onto both Apple Fitness and Ladder , and I’m sort of oscillating between the two. I only still have Twitter as an occupational hazard. Otherwise it would be gone. The best (only good?)",
    "section": "screen-share",
    "recommender": "Marina"
@@ -204,8 +227,11 @@
    "name": "Way of Life",
    "url": "https://wayoflifeapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "ios"
+   ],
    "blurb": "Way of Life — I should explain that one, because it sounds like a cult manual. It’s just a very simple habit tracker that doesn’t just count multiple streaks but generates handy little graphs and charts to visualize your W v. L day ratios. Gamify everything.",
    "section": "screen-share",
    "recommender": "Marina"
@@ -215,8 +241,10 @@
    "name": "Acts of Desperation",
    "url": "https://www.hachettebookgroup.com/titles/megan-nolan/acts-of-desperation/9781549185779/?lens=little-brown",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I enjoyed reading Acts of Desperation recently, by Megan Nolan — a good book about a bad relationship. I’m still thinking about Companion even though I gave it only three stars on Letterboxd, but a solid three stars. More of an extended metaphor than a believable sci-fi flick, but satisfying.",
    "section": "screen-share",
    "recommender": "Marina"
@@ -239,7 +267,7 @@
    "name": "Silksong",
    "url": "https://hollowknightsilksong.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I enjoyed reading Acts of Desperation recently, by Megan Nolan — a good book about a bad relationship. I’m still thinking about Companion even though I gave it only three stars on Letterboxd, but a solid three stars. More of an extended metaphor than a believable sci-fi flick, but satisfying.",
    "section": "screen-share",
@@ -250,7 +278,7 @@
    "name": "Hollow Knight",
    "url": "https://www.hollowknight.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I enjoyed reading Acts of Desperation recently, by Megan Nolan — a good book about a bad relationship. I’m still thinking about Companion even though I gave it only three stars on Letterboxd, but a solid three stars. More of an extended metaphor than a believable sci-fi flick, but satisfying.",
    "section": "screen-share",
@@ -261,8 +289,11 @@
    "name": "MultiViewer",
    "url": "https://multiviewer.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "video",
+    "cross-platform"
+   ],
    "blurb": "As Formula 1 season begins, it’s worth mentioning that the best way of following the sport live or through replays for true F1 fans is by using the incredibly cool MultiViewer app. It enables you to use multiple streams and get live timing and tons of other data in real time.",
    "section": "crowdsourced",
    "recommender": "David (reader)"
@@ -272,8 +303,11 @@
    "name": "GetInvoice",
    "url": "https://www.get-invoice.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "web"
+   ],
    "blurb": "This week, I discovered GetInvoice , a tool that extracts invoices and receipts from your emails and web portals. Has saved our company a huge amount of time for tax season.",
    "section": "crowdsourced",
    "recommender": "Miki (reader)"
@@ -283,8 +317,10 @@
    "name": "Kobo",
    "url": "https://us.kobobooks.com/collections/eReaders",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "book"
+   ],
    "blurb": "Amazon’s lockdown of book downloads convinced me to download all my books from various services and put them on a self-hosted server, accessible from my Kobo . So thanks for the nudge, Bezos!",
    "section": "crowdsourced",
    "recommender": "Dan (reader)"
@@ -294,8 +330,11 @@
    "name": "Lunatask",
    "url": "https://lunatask.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "I wanted to recommend Lunatask , which might be the ultimate platform for life tracking. It works cross platform, and it is end-to-end encrypted. It has already replaced Todoist for me, but that’s not all: it also has a Notes tab, which can be connected to your calendar or tasks.",
    "section": "crowdsourced",
    "recommender": "Matin (reader)"
@@ -331,8 +370,11 @@
    "name": "Healthy Minds Program",
    "url": "https://hminnovations.org/meditation-app",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness",
+    "free"
+   ],
    "blurb": "Among the many subscription-based meditation apps, there’s this lesser-known Healthy Minds Program , made by actual scientists and pretty customizable. You can pick your own meditation time for any specific lesson, for example. And it’s completely free.",
    "section": "crowdsourced",
    "recommender": "Liviu (reader)"
@@ -342,7 +384,7 @@
    "name": "Dragonyhm",
    "url": "https://www.spacebot-interactive.com/dragonyhm",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Been diving into ‘new’ Game Boy games after getting a ModRetro Chromatic. Besides the official games (my favorites are Dragonyhm and Hermano so far), there are a ton of polished games on itch.io and from other publishers. I had no idea.",
    "section": "crowdsourced",
@@ -353,7 +395,7 @@
    "name": "Hermano",
    "url": "https://modretro.com/products/hermano",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Been diving into ‘new’ Game Boy games after getting a ModRetro Chromatic. Besides the official games (my favorites are Dragonyhm and Hermano so far), there are a ton of polished games on itch.io and from other publishers. I had no idea.",
    "section": "crowdsourced",
@@ -375,8 +417,11 @@
    "name": "Runna",
    "url": "https://www.runna.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness",
+    "subscription"
+   ],
    "blurb": "I started using Runna to train for a local marathon and was impressed with its commitment to training plans. It gives off a far more serious vibe than Runkeeper (my previous favorite) or the Nike Run app, but it comes with a serious price tag. So far, I’m digging it",
    "section": "crowdsourced",
    "recommender": "but skeptical it’s worth the $.” – Tyler (reader)"
@@ -386,7 +431,7 @@
    "name": "Unexpected Cheddar Cheese Spread",
    "url": "https://www.traderjoes.com/home/products/pdp/unexpected-cheddar-cheese-spread-074802",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "I talk a lot in this newsletter about some of the things I care too much about. Note-taking apps, for one. Bad shows and movies about cool spies, to name another. But there’s one I don’t talk about much here, and that is my deep and abiding obsession with snacks.",
    "section": "signing-off",
@@ -397,7 +442,7 @@
    "name": "Elote Corn Chip Dippers",
    "url": "https://www.traderjoes.com/home/products/pdp/organic-elote-corn-chip-dippers-060564",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "I talk a lot in this newsletter about some of the things I care too much about. Note-taking apps, for one. Bad shows and movies about cool spies, to name another. But there’s one I don’t talk about much here, and that is my deep and abiding obsession with snacks.",
    "section": "signing-off",
@@ -408,8 +453,11 @@
    "name": "Cabel Sasser’s annual snack roundups",
    "url": "https://cabel.com/2025/01/27/the-snacks-cereals-of-2024/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "website"
+   ],
    "blurb": "I say this because, one, I want you to send me snack recommendations, and two, I discovered Cabel Sasser’s annual snack roundups and, through them, have both found a ton of good snacks and a new love for snack-related content. Maybe Installer will one day just be about snacks.",
    "section": "signing-off",
    "recommender": null

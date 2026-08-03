@@ -25,8 +25,11 @@
    "alt_urls": [
     "https://openai.com/index/codex-for-almost-everything/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "cross-platform"
+   ],
    "blurb": "Here’s OpenAI’s latest stab at an all-in-one AI superapp , which includes a web browser, new coding tools, and a setting that allows Codex to just use your computer for you. Tread lightly, as always, but people seem to be liking Codex a lot recently.",
    "section": "the-drop",
    "recommender": null
@@ -36,8 +39,11 @@
    "name": "Gemini for Mac",
    "url": "https://gemini.google/mac/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "mac"
+   ],
    "blurb": "I’m mad at Google for tying its Mac app to a keyboard shortcut lots of people use for other things, and for making the app a login item by default. But! This is immediately the best way yet to interact with Gemini, and even Google Drive and Photos, from your computer. Into my dock it goes.",
    "section": "the-drop",
    "recommender": null
@@ -60,8 +66,11 @@
    "name": "Gradient Weather",
    "url": "https://subtlesignals.studio/gradientweather/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android",
+    "beta"
+   ],
    "blurb": "Y’all, I think somebody finally made the gorgeous, simple weather app Android has been desperately needing. It’s very new and very beta, but I love the look, and I love that the whole aesthetic shifts with the weather. Insta-install.",
    "section": "the-drop",
    "recommender": null
@@ -99,8 +108,11 @@
    "alt_urls": [
     "https://www.theverge.com/tech/912381/dji-osmo-pocket-4-camera-stabilizied-gimbal-4k-slow-motion"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "video",
+    "photography"
+   ],
    "blurb": "It’s very sad that this gimbal camera isn’t coming to the US in the near future, because more buttons, better slo-mo, and more built-in storage are all terrific upgrades. I use a Pocket 3 all the time, and will be keeping an eye out for the upgrade.",
    "section": "the-drop",
    "recommender": null
@@ -112,8 +124,11 @@
    "alt_urls": [
     "https://www.theverge.com/gadgets/911324/gopro-mission1-pro-action-video-camera-price-specs"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "video",
+    "photography"
+   ],
    "blurb": "This one’s still in “coming soon” mode , but it is the first GoPro in a long time I’ve been excited about. Adding an interchangeable lens mount, along with all the other Mission 1 upgrades, is going to completely change the kinds of things people do with GoPros.",
    "section": "the-drop",
    "recommender": null
@@ -138,7 +153,7 @@
    "alt_urls": [
     "https://www.theverge.com/games/910385/pragmata-review-ps5-xbox-switch-2-pc"
    ],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I am always here for a game that’s not trying to be a live-service, battle-royale, open-world anything, and instead just sends you on an adventure. It may suffer from being a touch too derivative , but it still appears to be very much my kind of game.",
    "section": "the-drop",
@@ -160,8 +175,11 @@
    "name": "Blank Spaces",
    "url": "https://www.blankspaces.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "utilities"
+   ],
    "blurb": "The apps: Evernote, Phone, Safari. ( Blank Spaces is the app that turns the icons to text.)",
    "section": "screen-share",
    "recommender": "Maria"
@@ -171,8 +189,10 @@
    "name": "Book of Birds: A Field Guide to Wonder and Loss",
    "url": "https://wwnorton.com/books/the-book-of-birds",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Robert Macfarlane and Jackie Morris’s Book of Birds: A Field Guide to Wonder and Loss . Joan As Police Woman’s record Lemons, Limes and Orchids . Jad Abumrad’s miniseries Fela Kuti: Fear No Man . The lovely reminder of who we can be in the story of how humanity saved the ginkgo .",
    "section": "screen-share",
    "recommender": "Maria"
@@ -182,8 +202,10 @@
    "name": "Lemons, Limes and Orchids",
    "url": "https://joanaspolicewoman.ffm.to/llando",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "Robert Macfarlane and Jackie Morris’s Book of Birds: A Field Guide to Wonder and Loss . Joan As Police Woman’s record Lemons, Limes and Orchids . Jad Abumrad’s miniseries Fela Kuti: Fear No Man . The lovely reminder of who we can be in the story of how humanity saved the ginkgo .",
    "section": "screen-share",
    "recommender": "Maria"
@@ -193,8 +215,11 @@
    "name": "Fela Kuti: Fear No Man",
    "url": "https://www.wnycstudios.org/podcasts/dolly-partons-america/articles/jad-abumrads-new-show--fela-kuti-fear-no-man",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music",
+    "podcast"
+   ],
    "blurb": "Robert Macfarlane and Jackie Morris’s Book of Birds: A Field Guide to Wonder and Loss . Joan As Police Woman’s record Lemons, Limes and Orchids . Jad Abumrad’s miniseries Fela Kuti: Fear No Man . The lovely reminder of who we can be in the story of how humanity saved the ginkgo .",
    "section": "screen-share",
    "recommender": "Maria"
@@ -204,8 +229,10 @@
    "name": "how humanity saved the ginkgo",
    "url": "https://www.themarginalian.org/2025/09/23/ginkgo/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "Robert Macfarlane and Jackie Morris’s Book of Birds: A Field Guide to Wonder and Loss . Joan As Police Woman’s record Lemons, Limes and Orchids . Jad Abumrad’s miniseries Fela Kuti: Fear No Man . The lovely reminder of who we can be in the story of how humanity saved the ginkgo .",
    "section": "screen-share",
    "recommender": "Maria"
@@ -228,7 +255,7 @@
    "name": "OhSnap Mcon",
    "url": "https://ohsnap.com/products/mcon-magnetic-controller?view=gp-template-611082167342072419",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Becca Farsace recommended the OhSnap Mcon on her channel recently and I picked one up. It’s super slick and works great with the Delta emulator so far. I got Goldeneye running just fine with it after a little tuning.",
    "section": "crowdsourced",
@@ -239,8 +266,12 @@
    "name": "Plain Text Sports",
    "url": "https://plaintextsports.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "website",
+    "free"
+   ],
    "blurb": "Really been enjoying Plain Text Sports to follow the start of baseball season. Loads fast, has everything I want with none of the ESPN cruft",
    "section": "crowdsourced",
    "recommender": "Rich (reader)"
@@ -250,8 +281,10 @@
    "name": "Service Model",
    "url": "https://us.macmillan.com/books/9781250290281/servicemodel/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’ve almost finished reading Service Model by Adrian Tchaikovsky and I’m obsessed: equal amounts of humor and existential dread. It’s very silly, very thoughtful, and frankly a very Verge -y take on technology.",
    "section": "crowdsourced",
    "recommender": "Olof (reader)"
@@ -287,8 +320,12 @@
    "name": "Alcove",
    "url": "https://tryalcove.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "paid",
+    "utilities"
+   ],
    "blurb": "I bought a MacBook Air a few weeks ago after looking at the Neo and getting fed up by Windows, and I bought a few helper apps to fix small annoyances I had with the notch and Spotlight.",
    "section": "crowdsourced",
    "recommender": null
@@ -298,8 +335,12 @@
    "name": "TinyStart",
    "url": "https://tinystart.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "paid",
+    "utilities"
+   ],
    "blurb": "I bought a MacBook Air a few weeks ago after looking at the Neo and getting fed up by Windows, and I bought a few helper apps to fix small annoyances I had with the notch and Spotlight.",
    "section": "crowdsourced",
    "recommender": null
@@ -335,8 +376,12 @@
    "name": "The Big Idea",
    "url": "https://whatever.scalzi.com/category/big-idea/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "book",
+    "website"
+   ],
    "blurb": "I find SO MANY great book recommendations thanks to The Big Idea feature on John Scalzi’s blog, Whatever !",
    "section": "crowdsourced",
    "recommender": "Steve (reader)"
@@ -346,7 +391,7 @@
    "name": "a variety pack of candy from YumEarth",
    "url": "https://yumearth.com/products/variety-pack-30ct?variant=47433058418933",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "You surely already know this, but I spend way too much time on snacks. Eating them. Researching them. Thinking about them. Longing for more of them. And I know I’m not alone! So I have big news: My wife recently brought home a variety pack of candy from YumEarth , and it’s all excellent.",
    "section": "signing-off",

@@ -24,8 +24,13 @@
    "name": "Apple’s public betas",
    "url": "https://apple.sjv.io/qzvEBL",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "beta",
+    "ios",
+    "mac",
+    "free"
+   ],
    "blurb": "Public betas for iOS 26, iPadOS 26, macOS Tahoe 26, watchOS 26, and tvOS 26 are available now, giving you a chance to see Apple’s Liquid Glass design language in action before the updates are released widely this fall.",
    "section": "the-drop",
    "recommender": null
@@ -35,8 +40,10 @@
    "name": "Maingear’s Retro95 PC",
    "url": "https://maingear.com/collections/retro95",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "windows"
+   ],
    "blurb": "This limited release puts a retro shell over modern PC components. Anyone have $1,599 (or more) they can lend me?",
    "section": "the-drop",
    "recommender": null
@@ -48,8 +55,10 @@
    "alt_urls": [
     "https://www.theverge.com/tech/712429/applecare-one-warranty-play-cost-versus-plus-plan-analysis"
    ],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "subscription"
+   ],
    "blurb": "This new $19.99-per-month subscription from Apple lets you cover up to three devices at once with the same benefits you’d get with individual AppleCare Plus subscriptions. You can add more devices for $5.99 per month each.",
    "section": "the-drop",
    "recommender": null
@@ -77,8 +86,10 @@
    "alt_urls": [
     "https://amzn.to/4kTwqIT"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "book"
+   ],
    "blurb": "This new version of Amazon’s color Kindle comes with half the storage and is missing a few perks from the Kindle Colorsoft Signature Edition , but at $249.99, it’s $30 cheaper than last year’s model.",
    "section": "the-drop",
    "recommender": null
@@ -90,8 +101,10 @@
    "alt_urls": [
     "https://www.theverge.com/news/712966/irobot-roomba-max-705-combo-roller-mop-carpet-cover"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "This new combo robot vacuum from iRobot has a “first-of-its-kind roller mop cover that keeps carpets dry.” If that cover actually works, it seems like this could be a great dual-purpose robovacuum.",
    "section": "the-drop",
    "recommender": null
@@ -103,7 +116,7 @@
    "alt_urls": [
     "https://www.theverge.com/games-review/711680/wheel-world-review-ps5-xbox-steam"
    ],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "It’s a cycling-themed open-world adventure game from Annapurna Interactive and the developers of Nidhogg . That sounds like a winning combo to me, and it might just be the feel-good game of the summer .",
    "section": "the-drop",
@@ -114,8 +127,11 @@
    "name": "Acapulco season 4",
    "url": "https://apple.sjv.io/K0GqWx",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv",
+    "subscription"
+   ],
    "blurb": "I watched the first two seasons of this Apple TV Plus series set at a resort in Mexico and loved them — the show is funny and heartwarming. Like Ted Lasso , it can be a little saccharine, but I think we should all watch some lighter TV every once in a while. Might be time for me to catch up.",
    "section": "the-drop",
    "recommender": null
@@ -125,8 +141,10 @@
    "name": "this slim Torras case",
    "url": "https://amzn.to/4f7LK3x",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ios"
+   ],
    "blurb": "As for my own decision? Well, I haven’t reached one yet, and honestly, I may never pick one lane. Typically, my iPhone 16 Pro lives in this slim Torras case , but as I write this, it’s sitting on top of the case, not in it. Will I put the case on before I walk out the door? We’ll see!",
    "section": "the-case-conundrum",
    "recommender": null
@@ -136,8 +154,10 @@
    "name": "magnetic back from Nomad",
    "url": "https://www.kqzyfj.com/click-8836598-14527713?url=https%3A%2F%2Fnomadgoods.com%2Fproducts%2Fmagnetic-leather-back-rustic-brown-horween-iphone-16-pro",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ios"
+   ],
    "blurb": "“I, too, felt the urge to go caseless. I’m pretty careful with my electronics, so I still didn’t love the idea of setting my phone down on tables and things alike. I got the magnetic back from Nomad , and it has felt like the perfect meet-in-the-middle accessory for me!",
    "section": "the-case-conundrum",
    "recommender": null
@@ -147,8 +167,10 @@
    "name": "Peak Design GNAR case",
    "url": "https://www.peakdesign.com/products/gnar-case-for-iphone-16",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ios"
+   ],
    "blurb": "“I have the Peak Design GNAR case . Saw some complaints online about the protection being too minimal for the front of the phone, but it’s been solid for me. Does well being outdoors (I run outside all the time). I’m rocking no screen protector.” – airwr3ck6669",
    "section": "the-case-conundrum",
    "recommender": null
@@ -158,8 +180,10 @@
    "name": "Razer Kishi controller",
    "url": "https://razer.a9yw.net/kOvabN",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "“I never used cases until I got my current phone ( Pixel 6A ) because the Razer Kishi controller I used no longer fit snuggly around it, so I found a case that allowed it to fit again.",
    "section": "the-case-conundrum",
    "recommender": null
@@ -180,8 +204,10 @@
    "name": "new Wet Leg album",
    "url": "https://storeus.wetlegband.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "Music-wise, I’ve been listening to a lot of Oasis on Spotify lately. I was one of the lucky 2 percent who managed to snag tickets for their current run of shows, and I’ve been riding the high ever since their homecoming gig in Manchester on Sunday (the 20th).",
    "section": "screen-share",
    "recommender": "Keith"
@@ -217,7 +243,7 @@
    "name": "Final Fantasy Pixel Remasters",
    "url": "https://finalfantasypixelremaster.square-enix-games.com/en_US/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Music-wise, I’ve been listening to a lot of Oasis on Spotify lately. I was one of the lucky 2 percent who managed to snag tickets for their current run of shows, and I’ve been riding the high ever since their homecoming gig in Manchester on Sunday (the 20th).",
    "section": "screen-share",
@@ -228,8 +254,11 @@
    "name": "@theblack.lodge",
    "url": "https://www.instagram.com/theblack.lodge",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "social",
+    "video"
+   ],
    "blurb": "Music-wise, I’ve been listening to a lot of Oasis on Spotify lately. I was one of the lucky 2 percent who managed to snag tickets for their current run of shows, and I’ve been riding the high ever since their homecoming gig in Manchester on Sunday (the 20th).",
    "section": "screen-share",
    "recommender": "Keith"
@@ -239,8 +268,11 @@
    "name": "Algospeak: How Social Media Is Transforming the Future of Language",
    "url": "https://www.penguinrandomhouse.com/books/776856/algospeak-by-adam-aleksic/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "social"
+   ],
    "blurb": "Music-wise, I’ve been listening to a lot of Oasis on Spotify lately. I was one of the lucky 2 percent who managed to snag tickets for their current run of shows, and I’ve been riding the high ever since their homecoming gig in Manchester on Sunday (the 20th).",
    "section": "screen-share",
    "recommender": "Keith"
@@ -250,8 +282,10 @@
    "name": "Face with Tears of Joy: A Natural History of Emoji",
    "url": "https://wwnorton.com/books/9781324075158",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Music-wise, I’ve been listening to a lot of Oasis on Spotify lately. I was one of the lucky 2 percent who managed to snag tickets for their current run of shows, and I’ve been riding the high ever since their homecoming gig in Manchester on Sunday (the 20th).",
    "section": "screen-share",
    "recommender": "Keith"
@@ -261,8 +295,12 @@
    "name": "Emojitracker.com",
    "url": "http://emojitracker.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "free",
+    "web"
+   ],
    "blurb": "Music-wise, I’ve been listening to a lot of Oasis on Spotify lately. I was one of the lucky 2 percent who managed to snag tickets for their current run of shows, and I’ve been riding the high ever since their homecoming gig in Manchester on Sunday (the 20th).",
    "section": "screen-share",
    "recommender": "Keith"
@@ -272,8 +310,11 @@
    "name": "Outplay",
    "url": "https://coloursoftware.com/projects/outplay/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "fitness"
+   ],
    "blurb": "I use Outplay on my Apple Watch to track the soccer matches I play. It shows a heat map of my movement during a match and has metrics specific to playing soccer like sprints. It works better for me than using the built-in Apple Workout app or Strava .",
    "section": "crowdsourced",
    "recommender": "Harry Tequila (reader)"
@@ -283,8 +324,10 @@
    "name": "Cyberpunk 2077",
    "url": "https://www.cyberpunk.net/us/en/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "mac"
+   ],
    "blurb": "Been playing the macOS version of Cyberpunk 2077 on a base M4 Mac Mini . I am impressed with the game and graphic quality of this version. Just hoping this is the start for more Mac-native versions of A & S tier games.",
    "section": "crowdsourced",
    "recommender": "penguinchiller (reader)"
@@ -294,7 +337,7 @@
    "name": "Clair Obscur: Expedition 33",
    "url": "https://www.sandfall.co/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I just completed the (not so) Endless Tower in Clair Obscur: Expedition 33 and beat Clea... on an MSI Claw 8 with an Intel chip! Didn’t expect that after panning the first Claw. It’s the only handheld I’ve really enjoyed this game on so far!",
    "section": "crowdsourced",
@@ -305,8 +348,10 @@
    "name": "MSI Claw 8",
    "url": "https://www.msi.com/Handhelds/Claw-8-AI-Plus-A2VMX",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "windows"
+   ],
    "blurb": "I just completed the (not so) Endless Tower in Clair Obscur: Expedition 33 and beat Clea... on an MSI Claw 8 with an Intel chip! Didn’t expect that after panning the first Claw. It’s the only handheld I’ve really enjoyed this game on so far!",
    "section": "crowdsourced",
    "recommender": "Sean (reader)"
@@ -316,8 +361,11 @@
    "name": "the Twos app",
    "url": "https://www.twosapp.com/home",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "I’ve become obsessed with the Twos app and using it constantly. Highly recommend!",
    "section": "crowdsourced",
    "recommender": "Rich (reader)"
@@ -327,7 +375,7 @@
    "name": "Returnal",
    "url": "https://housemarque.com/games/returnal",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "After steadfastly avoiding it because of its difficulty, I recently purchased and have been dying over and over again in Returnal . The environment really does feel like a hostile alien planet, and with headphones it feels like I can hear every drop of rain. And yeah, it’s really difficult.",
    "section": "crowdsourced",
@@ -338,8 +386,10 @@
    "name": "Lushfoil Photography Sim",
    "url": "https://annapurnainteractive.com/en/games/lushfoil-photography-sim",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "photography"
+   ],
    "blurb": "Been playing Lushfoil Photography Sim and it is so relaxing and lovely.",
    "section": "crowdsourced",
    "recommender": "Allison (reader)"
@@ -375,8 +425,11 @@
    "name": "a starter guide on Reddit",
    "url": "https://www.reddit.com/r/DanceDanceRevolution/comments/1i16xfk/how_to_get_started_with_ddritg_in_2024_the/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "web"
+   ],
    "blurb": "Last week, I included a tidbit from a reader who has been playing Dance Dance Revolution recently. As someone who played a lot of DDR when I was a kid ( “Butterfly,” anyone? ), I was curious to learn more about how he does it.",
    "section": "signing-off",
    "recommender": null
@@ -386,8 +439,10 @@
    "name": "www.ddrpad.com",
    "url": "http://www.ddrpad.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "fitness"
+   ],
    "blurb": "“I grabbed the Deluxe 1-inch thick foam pad from www.ddrpad.com , along with the extension cord and the preloaded Stepmania Flash drive. Stepmania is the open-source clone of DDR .",
    "section": "signing-off",
    "recommender": null
@@ -397,8 +452,13 @@
    "name": "Stepmania",
    "url": "https://www.stepmania.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "windows",
+    "fitness"
+   ],
    "blurb": "“I grabbed the Deluxe 1-inch thick foam pad from www.ddrpad.com , along with the extension cord and the preloaded Stepmania Flash drive. Stepmania is the open-source clone of DDR .",
    "section": "signing-off",
    "recommender": null

@@ -23,8 +23,12 @@
    "name": "Notion Calendar for Android",
    "url": "https://www.notion.so/product/calendar#downloads",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android",
+    "productivity",
+    "free"
+   ],
    "blurb": "I still really hate the app icon, but other than that, this is one of the best-looking and generally sharpest calendar apps out there. It’s especially great if you’re also a Notion user, but even if not, I think it’s an upgrade on Google Cal.",
    "section": "the-drop",
    "recommender": null
@@ -47,7 +51,7 @@
    "name": "The TinyPod",
    "url": "https://thetinypod.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "It’s a case for an Apple Watch that makes it look like an iPod, and even as I type that, it sounds totally ridiculous. But you better believe I will be buying this thing and seeing if it turns my Watch into the music-playing, message-sending dumbphone of my dreams.",
    "section": "the-drop",
@@ -73,8 +77,13 @@
    "name": "UTM SE",
    "url": "https://getutm.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "utilities",
+    "free",
+    "windows"
+   ],
    "blurb": "I would’ve happily bet you $10 that Apple would never approve an app that just straight-up emulates a Windows computer. I’m glad to have lost that bet! UTM SE can do retro games, but it can also do all kinds of other stuff. (Just don’t expect it to, like, actually replace your computer.)",
    "section": "the-drop",
    "recommender": null
@@ -84,8 +93,10 @@
    "name": "EA Sports College Football 25 .",
    "url": "https://www.ea.com/games/ea-sports-college-football/college-football-25",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "paid"
+   ],
    "blurb": "After 11 years, it’s back and apparently as good as ever. The story of this game is a hilariously perfect tale about the internet, capitalism, and fame, but ultimately, I’m just excited to finally turn my alma mater into the football juggernaut it very much is not.",
    "section": "the-drop",
    "recommender": null
@@ -95,8 +106,12 @@
    "name": "Overcast",
    "url": "https://overcast.fm/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "podcast",
+    "ios",
+    "free"
+   ],
    "blurb": "A big update this week to one of the best podcast apps for Apple devices. Marco Arment, the developer, is right when he says it’s noticeably faster in almost every way, and Overcast does things like Smart Speed and volume enhancement better than anything else.",
    "section": "the-drop",
    "recommender": null
@@ -108,8 +123,11 @@
    "alt_urls": [
     "https://www.theverge.com/2024/7/17/24200381/canon-eos-r1-r5-mark-ii-2024-announce"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography",
+    "video"
+   ],
    "blurb": "Photographers and camera nerds have been waiting for this one for a while, and with good reason . The R5 II is faster for photos, more functional for video, and has a new autofocus system that sounds pretty great. $4,300 ain’t cheap, but awesome cameras never are.",
    "section": "the-drop",
    "recommender": null
@@ -147,8 +165,10 @@
    "name": "Dyson’s OnTrac headphones",
    "url": "https://www.dyson.com/headphones",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "Glad to see Dyson go a little less, uh, Bane-ish with its second set of headphones. The OnTrac are super expensive — $500! — but look pretty good, and I’m rooting for anything going this hard on customization.",
    "section": "the-drop",
    "recommender": null
@@ -184,8 +204,12 @@
    "name": "USGA GHIN",
    "url": "https://www.ghin.com/login",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "fitness"
+   ],
    "blurb": "USGA GHIN : The app that has probably never been featured here before! It’s for keeping track of my golf scores and handicap. I still play Wordle every morning. I like to think it gets my creative juices flowing, but really, it’s just a way to avoid checking email for an extra few minutes.",
    "section": "screen-share",
    "recommender": "Ryan"
@@ -195,8 +219,11 @@
    "name": "Wordle",
    "url": "https://www.nytimes.com/games/wordle/index.html",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "USGA GHIN : The app that has probably never been featured here before! It’s for keeping track of my golf scores and handicap. I still play Wordle every morning. I like to think it gets my creative juices flowing, but really, it’s just a way to avoid checking email for an extra few minutes.",
    "section": "screen-share",
    "recommender": "Ryan"
@@ -206,8 +233,10 @@
    "name": "Terrifying Questions",
    "url": "https://www.terrifyingquestions.com",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Terrifying Questions is a great philosophy podcast by Futurama writer Eric Kaplan and professor Taylor Carman. Each week, they discuss a philosophical question. It’s smart, funny, and interesting but without being inaccessible.",
    "section": "crowdsourced",
    "recommender": "Jonathan (reader)"
@@ -217,8 +246,13 @@
    "name": "Fable",
    "url": "https://fable.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "book",
+    "social",
+    "ios",
+    "android"
+   ],
    "blurb": "Fable ! It has been great for me and got me into reading again!",
    "section": "crowdsourced",
    "recommender": "Ataya (reader)"
@@ -265,8 +299,12 @@
    "name": "Omnivore’s",
    "url": "https://omnivore.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "article",
+    "ai",
+    "free"
+   ],
    "blurb": "I can’t get over Omnivore’s text-to-speech article reader! I had started off using ElevenLabs’ Reader app to read articles to me, and though their voices are more realistic, I just looove the way Omnivore switches voices for a quoted passage. No idea when Omnivore made this update, but I’m obsessed!",
    "section": "crowdsourced",
    "recommender": "Roxxy (reader)"
@@ -276,8 +314,13 @@
    "name": "ElevenLabs’ Reader app",
    "url": "https://elevenlabs.io/blog/introducing-elevenlabs-reader-app",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "article",
+    "ios",
+    "android"
+   ],
    "blurb": "I can’t get over Omnivore’s text-to-speech article reader! I had started off using ElevenLabs’ Reader app to read articles to me, and though their voices are more realistic, I just looove the way Omnivore switches voices for a quoted passage. No idea when Omnivore made this update, but I’m obsessed!",
    "section": "crowdsourced",
    "recommender": "Roxxy (reader)"
@@ -287,8 +330,10 @@
    "name": "AEW",
    "url": "https://www.allelitewrestling.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "Been really enjoying what AEW has been up to recently, definitely coming out of some creative doldrums. They have a storyline where Toni Storm is the champ playing a black-and-white movie star (literally her intro and promos are B&W).",
    "section": "crowdsourced",
    "recommender": "Richard (reader)"
@@ -298,8 +343,10 @@
    "name": "The Battle of the Beams",
    "url": "https://www.penguin.co.uk/books/442430/the-battle-of-the-beams-by-whipple-tom/9780552177801",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Reading The Battle of the Beams , the story of the development of radar during WW2 and the countermeasures to it. Some incredible tales, really eye-opening.",
    "section": "crowdsourced",
    "recommender": "Peter (reader)"
@@ -309,8 +356,10 @@
    "name": "Dayton Audio B40 speakers",
    "url": "https://daytonaudio.com/product/2050/classic-b40-bookshelf-speaker-pair-wood",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "Ordered a pair of Dayton Audio B40 speakers . They sound like $50, but like… a really good $50. Dayton’s B452 and 652 speakers were long-reigning champs of the ‘beginner audiophile,’ and it’s cool to see this update.",
    "section": "crowdsourced",
    "recommender": "Emmet (reader)"

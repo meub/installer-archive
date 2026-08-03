@@ -22,8 +22,11 @@
    "name": "Dia",
    "url": "https://www.diabrowser.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "mac"
+   ],
    "blurb": "I know there are a lot of Arc fans here in the Installerverse, and I know you, like me, will have a lot of feelings about the company’s new and extremely AI-focused browser.",
    "section": "the-drop",
    "recommender": null
@@ -59,8 +62,12 @@
    "name": "The F1 haptic trailer",
    "url": "https://apple.co/-Haptic",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "ios",
+    "movie"
+   ],
    "blurb": "That link, and the trailer, will only do anything for you if you have a newer iPhone. But even if you don’t care about the movie, the trailer — which actually buzzes in sync with the car’s rumbles and revs — is just really, really cool.",
    "section": "the-drop",
    "recommender": null
@@ -72,8 +79,11 @@
    "alt_urls": [
     "https://www.theverge.com/news/684601/android-16-launch-live-updates-notifications"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android",
+    "free"
+   ],
    "blurb": "You can’t get the cool, colorful new look just yet or the desktop mode I am extremely excited about — there’s a lot of good stuff in Android 16 but most of it is coming later. Still, Live Updates look good, and there’s some helpful accessibility stuff, as well.",
    "section": "the-drop",
    "recommender": null
@@ -83,7 +93,7 @@
    "name": "The Infinite Machine Olto",
    "url": "https://www.infinitemachine.com/olto",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I am such a sucker for any kind of futuristic-looking electric scooter, and this one really hits the sweet spot. Part moped, part e-bike, all Blade Runner vibes. If it wasn’t $3,500, then I would’ve probably ordered one already.",
    "section": "the-drop",
@@ -96,8 +106,10 @@
    "alt_urls": [
     "https://www.theverge.com/news/685782/fujifilm-xe5-mirrorless-camera-x100-price-specs"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography"
+   ],
    "blurb": "I kept wondering why Fujifilm didn’t just make, like, a hundred different great-looking cameras at every imaginable price because everyone wants a camera this cool. Well, here we are ! It’s a spin on the X100VI but with interchangeable lenses and a few power-user features.",
    "section": "the-drop",
    "recommender": null
@@ -135,7 +147,7 @@
    "name": "Dune: Awakening",
    "url": "https://duneawakening.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Dune has ascended to the rare territory of “I will check out anything from this franchise, ever, no questions asked.” This game is big on open-world survival and ornithopters, too, so it’s even more my kind of thing. And it’s apparently punishingly difficult in spots.",
    "section": "the-drop",
@@ -146,8 +158,10 @@
    "name": "Remarkable Paper Pro",
    "url": "https://remarkable.com/products/remarkable-paper/pro",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "I had tried the paper planner in the leather Paper Republic journal but since have moved onto the Remarkable Paper Pro color e-ink device which takes everything you like about paper but makes it editable and color coded.",
    "section": "crowdsourced",
    "recommender": "Jason (reader)"
@@ -157,8 +171,10 @@
    "name": "Monsters We Make",
    "url": "https://monsterswemake.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I started reading a manga series from content creator Cory Kenshin called Monsters We Make . So far, I love it. Already preordered Vol. 2.",
    "section": "crowdsourced",
    "recommender": "Rob (reader)"
@@ -168,7 +184,7 @@
    "name": "GameSir Cyclone 2",
    "url": "https://gamesir.com/products/gamesir-cyclone2-black",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I recently went down the third party controller rabbit hole after my trusty adapted Xbox One controller finally kicked the bucket, and I wanted something I could use across my PC, phone, handheld, Switch, etc. I’ve been playing with the GameSir Cyclone 2 for a few weeks, and it feels really deluxe.",
    "section": "crowdsourced",
@@ -192,8 +208,10 @@
    "name": "Devil and the Deep Blue Sea",
    "url": "https://www.christianitytoday.com/podcasts/devil-and-the-deep-blue-sea/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Podcast recommendation: Devil and the Deep Blue Sea by Christianity Today. A deep dive into the Satanic Panic of the 80’s and 90’s.",
    "section": "crowdsourced",
    "recommender": "Drew (reader)"
@@ -238,8 +256,12 @@
    "name": "Fable",
    "url": "https://fable.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "book",
+    "social",
+    "ios"
+   ],
    "blurb": "Fable , a cool app for finding books with virtual book clubs. It’s the closest to a more cozy online bookstore with more honest reviews. I just wish you could click on the author’s name to see their other books.",
    "section": "crowdsourced",
    "recommender": "Astrid (reader)"
@@ -249,7 +271,7 @@
    "name": "Wildgate",
    "url": "https://playwildgate.com/en-US/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "This is the Summer Games Fest week (formerly E3, RIP) and there are a TON of game demos to try out on Steam. One that has caught my attention / play time the most is Wildgate . It’s a team based spaceship shooter where ship crews battle and try to escape with a powerful artifact.",
    "section": "crowdsourced",
@@ -260,7 +282,7 @@
    "name": "Battlefront 2",
    "url": "https://www.ea.com/games/starwars/battlefront/star-wars-battlefront-2",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Battlefront 2 is back for some reason. Still looks great.",
    "section": "crowdsourced",
@@ -271,8 +293,10 @@
    "name": "The Weather Machine",
    "url": "https://www.andrewblum.net/the-weather-machine-2",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I have long been fascinated by weather forecasting. I recommend Andrew Blum’s book, The Weather Machine , to people all the time, as a way to understand both how we learned to predict the weather and why it’s a literally culture-changing thing to be able to do so.",
    "section": "signing-off",
    "recommender": null
@@ -282,8 +306,10 @@
    "name": "The Fifth Risk",
    "url": "https://wwnorton.com/books/The-Fifth-Risk/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I have long been fascinated by weather forecasting. I recommend Andrew Blum’s book, The Weather Machine , to people all the time, as a way to understand both how we learned to predict the weather and why it’s a literally culture-changing thing to be able to do so.",
    "section": "signing-off",
    "recommender": null
@@ -293,8 +319,12 @@
    "name": "Weather Lab",
    "url": "https://deepmind.google.com/science/weatherlab",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web",
+    "free"
+   ],
    "blurb": "I’ve also been hearing for years that weather forecasting is a perfect use for AI. It’s all about vast quantities of historical data, tiny fluctuations in readings, and finding patterns that often don’t want to be found.",
    "section": "signing-off",
    "recommender": null

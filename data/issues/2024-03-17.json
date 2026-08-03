@@ -23,8 +23,13 @@
    "name": "Likewise",
    "url": "https://likewise.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "tv",
+    "movie"
+   ],
    "blurb": "I’ve been a fan of Likewise as a show and movie and podcast recommender for a while, and the app just got a redesign I really like. It’s extremely just TikTok, but it kind of works — you just scroll from title to title and trailer to trailer until you find something you like.",
    "section": "the-drop",
    "recommender": null
@@ -60,8 +65,12 @@
    "name": "Proton Mail for desktop",
    "url": "https://proton.me/mail",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "windows",
+    "productivity"
+   ],
    "blurb": "I’m pretty ready to call Proton the best non-Gmail email service on the internet. (Gmail’s not even that great, it’s just… it’s Gmail.) The new Mac and Windows apps include both mail and calendar, and it’s silly they don’t work offline yet, but that’s apparently coming soon.",
    "section": "the-drop",
    "recommender": null
@@ -73,8 +82,10 @@
    "alt_urls": [
     "https://www.theverge.com/24098771/dyson-vis-nav-robot-vacuum-hands-on"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "A $1,200 robot vacuum seems silly, in the way that Dyson’s prices always seem silly, but they do seem to be worth it a lot. Early looks at this one seem sort of split on whether it’s worth the price, but its mega power and apparent skill with corners is pretty enticing.",
    "section": "the-drop",
    "recommender": null
@@ -87,8 +98,11 @@
     "https://evernote.com/blog/microsoft-outlook-calendar",
     "https://twitter.com/evernote/status/1767964055887610234"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "productivity"
+   ],
    "blurb": "I never, ever thought I’d mention Evernote here — the app seemed to be on a slow road to nothingness. But under new ownership, it’s kind of on a tear?",
    "section": "the-drop",
    "recommender": null
@@ -113,8 +127,11 @@
    "name": "Dola",
    "url": "https://hidola.ai/en",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
    "blurb": "I have long extolled the virtues of text messaging as a productivity tool. This is a really clever (and surprisingly powerful) version of that: an AI assistant that communicates through text messages, that can set reminders, make calendar events, and more.",
    "section": "the-drop",
    "recommender": null
@@ -124,8 +141,12 @@
    "name": "Ozone on Bluesky",
    "url": "https://bsky.social/about/blog/03-12-2024-stackable-moderation",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "open-source",
+    "free"
+   ],
    "blurb": "This is the fediverse stuff that gets me excited: the Bluesky team is open-sourcing its moderation tool, so that anyone can build their own moderation systems and users can use whichever one they want. And it all gets integrated right into Bluesky.",
    "section": "the-drop",
    "recommender": null
@@ -146,8 +167,10 @@
    "name": "Living In The Future podcast",
    "url": "https://i.mediatek.com/podcast",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "In preparing for a recent episode of the Living In The Future podcast , I watched the classic science-fiction film Outland . A 1981 Sean Connery playing a federal SPACE MARSHAL! Sent to tame a rough-and-tumble mining colony on one of Jupiter’s moons!",
    "section": "screen-share",
    "recommender": "Michael"
@@ -170,7 +193,7 @@
    "name": "Alter Ego",
    "url": "https://www.playalterego.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "In preparing for a recent episode of the Living In The Future podcast , I watched the classic science-fiction film Outland . A 1981 Sean Connery playing a federal SPACE MARSHAL! Sent to tame a rough-and-tumble mining colony on one of Jupiter’s moons!",
    "section": "screen-share",
@@ -181,7 +204,7 @@
    "name": "cat cafe",
    "url": "https://catcafebk.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "In preparing for a recent episode of the Living In The Future podcast , I watched the classic science-fiction film Outland . A 1981 Sean Connery playing a federal SPACE MARSHAL! Sent to tame a rough-and-tumble mining colony on one of Jupiter’s moons!",
    "section": "screen-share",
@@ -192,8 +215,11 @@
    "name": "Pandora",
    "url": "https://www.pandora.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "subscription"
+   ],
    "blurb": "I’m a week late , but I wanted to get a single point on the board for Pandora . The new music page highlights artists that match my tastes, and they still have a stupendous radio feature — hardly surprising considering they popularized it.",
    "section": "crowdsourced",
    "recommender": "Will (reader)"
@@ -203,7 +229,7 @@
    "name": "Pokémon TCG",
    "url": "https://www.pokemon.com/us/pokemon-tcg",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "New Pokémon TCG set coming next week, so prepping for that, as well as playing Pokémon Go , because well… I’m always playing Pokémon Go … always.",
    "section": "crowdsourced",
@@ -214,8 +240,12 @@
    "name": "Pokémon Go",
    "url": "https://pokemongolive.com/?hl=en",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "New Pokémon TCG set coming next week, so prepping for that, as well as playing Pokémon Go , because well… I’m always playing Pokémon Go … always.",
    "section": "crowdsourced",
    "recommender": "Bobby (reader)"
@@ -225,8 +255,13 @@
    "name": "BeReal",
    "url": "https://bereal.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "​​More and more of my friends have been signing on to BeReal — wonder if any other friend groups are seeing this growth. Also, the app keeps trying to get you to view public profiles and I would like them to stop that.",
    "section": "crowdsourced",
    "recommender": "Wisdom (reader)"
@@ -236,8 +271,12 @@
    "name": "Empty Fasting",
    "url": "https://www.emptyfasting.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "fitness",
+    "paid"
+   ],
    "blurb": "The amazing Empty Fasting app that launched this week. One-time fee for a beautifully designed fasting app.",
    "section": "crowdsourced",
    "recommender": "Esteban (reader)"
@@ -260,8 +299,10 @@
    "name": "Pixel 7 Pro",
    "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://store.google.com/us/config/pixel_7_pro",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "Bought a used, but excellent condition Pixel 7 Pro . After trade-in, $201. Wife recently got the same-condition iPhone 13 . Makes you think about upgrade cycles. Also Zack from JerryRigEverything has left an impression on me regarding recycling tech and parts and whatnot.",
    "section": "crowdsourced",
    "recommender": "Omar (reader)"
@@ -271,8 +312,10 @@
    "name": "iPhone 13",
    "url": "https://www.apple.com/shop/buy-iphone/iphone-13",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ios"
+   ],
    "blurb": "Bought a used, but excellent condition Pixel 7 Pro . After trade-in, $201. Wife recently got the same-condition iPhone 13 . Makes you think about upgrade cycles. Also Zack from JerryRigEverything has left an impression on me regarding recycling tech and parts and whatnot.",
    "section": "crowdsourced",
    "recommender": "Omar (reader)"
@@ -295,8 +338,12 @@
    "name": "live streams of nesting European eagle owls",
    "url": "https://l.threads.net/?u=https://uhu.webcam.pixtura.de/cam3&e=AT1S8qbkwSeA4S1_z2X5cAf5r7C4Xl9w1X-viigpCsvMjmpT1UacOhPM1UN3VK9-ytc52w3AQbSv8nfRRMh9gH2KYj69LaYZLH6A8W32pUIWJTtIyFYTl1aj5YvIODtfCGhNiwUrDspr",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "free",
+    "web"
+   ],
    "blurb": "It’s owl breeding season, and I’m back to watching live streams of nesting European eagle owls . In addition to being cute, the camera quality for bird cams is so much better than it was just a couple years ago. Tristan and Isolde on Cam 3 have a clutch of 4 eggs this year!",
    "section": "crowdsourced",
    "recommender": "Daniel (reader)"
@@ -319,8 +366,11 @@
    "name": "Microsoft Loop",
    "url": "https://www.microsoft.com/en-us/microsoft-loop",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "Watching Mr. & Mrs. Smith and organizing my notes using the PARA method in Microsoft Loop and Capacities .",
    "section": "crowdsourced",
    "recommender": "Carter (reader)"
@@ -330,8 +380,11 @@
    "name": "Capacities",
    "url": "https://capacities.io",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "Watching Mr. & Mrs. Smith and organizing my notes using the PARA method in Microsoft Loop and Capacities .",
    "section": "crowdsourced",
    "recommender": "Carter (reader)"

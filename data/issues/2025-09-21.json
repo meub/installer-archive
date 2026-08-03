@@ -25,8 +25,10 @@
    "alt_urls": [
     "https://www.theverge.com/tech/779566/meta-ray-ban-display-hands-on-smart-glasses-price-battery-specs"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ai"
+   ],
    "blurb": "Meta’s new smart glasses with a screen look like a technical achievement, but if you’re in the market for smart glasses, the simple model seems like the right one. The upgraded version is more expensive at $379, but comes with double the battery and a bunch of other upgrades too.",
    "section": "the-drop",
    "recommender": null
@@ -36,8 +38,10 @@
    "name": "Skate",
    "url": "https://www.ea.com/games/skate",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "free"
+   ],
    "blurb": "I’ve been waiting for this game for a while, and it mostly delivers: it’s a big, open space in which you mostly just wander around jumping over stuff, and it’s very fun to do so. The game is still in early access, and there’s only so much to do so far, but I’m having fun.",
    "section": "the-drop",
    "recommender": null
@@ -62,8 +66,12 @@
    "name": "Vivaldi 7.6",
    "url": "https://vivaldi.com/blog/vivaldi-on-desktop-7-6/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "cross-platform",
+    "free"
+   ],
    "blurb": "A big update to one of my favorite browsers, which is really close to replacing Arc as my day-to-day app. The big new thing here is all customization, and be warned: you will, like I did, spend half a day getting your browser exactly the way you want it. Eh, whatever, I had a blast.",
    "section": "the-drop",
    "recommender": null
@@ -73,8 +81,12 @@
    "name": "Google for Windows",
    "url": "https://labs.google.com/search/experiment/40",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "windows",
+    "utilities",
+    "free"
+   ],
    "blurb": "A million years ago, Google had a really useful desktop app that could search files, the web, and more from your desktop. Bizarrely enough, it’s back as a local AI tool! It’s only an experiment, but I’ve been hearing good things about it.",
    "section": "the-drop",
    "recommender": null
@@ -97,7 +109,7 @@
    "name": "The Kuxiu X40 Turbo charger",
    "url": "https://kuxiu.co/products/kuxiu-x40-turbo-stand",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I am a huge proponent of multi-device charging stands, which become just a default place to drop all your crap every day. My colleague Thomas Ricker loves his Kuxiu charger, and this one’s even more powerful — and folds up super small for travel.",
    "section": "the-drop",
@@ -108,8 +120,12 @@
    "name": "Notion 3.0",
    "url": "https://www.notion.com/blog/introducing-notion-3-0",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "Notion’s big idea is to build an AI system that can do all the busywork you do in Notion — and potentially elsewhere. Its new tools sound incredibly ambitious, and maybe more intrusive than some people are looking for.",
    "section": "the-drop",
    "recommender": null
@@ -132,8 +148,10 @@
    "name": "Lego Voyagers",
    "url": "https://www.lego.com/en-us/games/lego-voyagers",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "paid"
+   ],
    "blurb": "I love this concept so much: a cooperative two-player puzzle game in which every solution involves building of some kind. Somebody please convince my wife to spend a million hours playing this with me.",
    "section": "the-drop",
    "recommender": null
@@ -219,8 +237,10 @@
    "name": "Ear Hustle",
    "url": "https://www.earhustlesq.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "I am into rewatching shows I loved a decade ago. I started with Lost , then it was Prison Break , and now The Blacklist . Lost was outstanding TV. The latter two are formulaic as all get-out, but they are mindless without being trashy, which is exactly what I need.",
    "section": "screen-share",
    "recommender": "Caleb"
@@ -230,8 +250,10 @@
    "name": "Radiolab",
    "url": "https://radiolab.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "I am into rewatching shows I loved a decade ago. I started with Lost , then it was Prison Break , and now The Blacklist . Lost was outstanding TV. The latter two are formulaic as all get-out, but they are mindless without being trashy, which is exactly what I need.",
    "section": "screen-share",
    "recommender": "Caleb"
@@ -241,8 +263,10 @@
    "name": "Snap Judgment",
    "url": "https://snapjudgment.org/podcast-episodes/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "I am into rewatching shows I loved a decade ago. I started with Lost , then it was Prison Break , and now The Blacklist . Lost was outstanding TV. The latter two are formulaic as all get-out, but they are mindless without being trashy, which is exactly what I need.",
    "section": "screen-share",
    "recommender": "Caleb"
@@ -278,8 +302,11 @@
    "name": "Overwatch 2",
    "url": "https://overwatch.blizzard.com/en-us/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "free",
+    "cross-platform"
+   ],
    "blurb": "After getting really tired of cheaters in Fortnite , I’ve started learning Overwatch 2 , and I’m having a blast. I mean, it’s like trying to play pickup basketball where every player has five different roles, but when it works, it’s magic!",
    "section": "crowdsourced",
    "recommender": "Laszlo (reader)"
@@ -289,8 +316,12 @@
    "name": "MacOS Tahoe",
    "url": "https://www.apple.com/os/macos/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "productivity",
+    "free"
+   ],
    "blurb": "New Spotlight in MacOS Tahoe is a game changer for running Shortcuts and other automation.",
    "section": "crowdsourced",
    "recommender": "Jack (reader)"
@@ -300,8 +331,10 @@
    "name": "Batman 1",
    "url": "https://www.dc.com/comics/batman-2025/batman-2025-1",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Folks, if you’re not into comics, now is a great time to get into them. DC Comics just renewed the Batman series with Batman 1 written by Matt Fraction, art by Jorge Jimenez, letters by Clayton Cowles, and color by Tomeu Morey.",
    "section": "crowdsourced",
    "recommender": "John (reader)"
@@ -350,8 +383,12 @@
    "name": "NTS Radio",
    "url": "https://www.nts.live/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "free",
+    "web"
+   ],
    "blurb": "I’ve spent every morning this week in the company of NTS Radio . I really like the variety of the music the hosts play — anything from Wilco, latin jazz, and ambient music to obscure 80s meditation tapes and video game soundtracks. It’s 24/7, ad-free, and listener-supported!",
    "section": "crowdsourced",
    "recommender": "tobysaurus99 (reader)"
@@ -361,8 +398,10 @@
    "name": "Apple In China",
    "url": "https://www.simonandschuster.com/books/Apple-in-China/Patrick-McGee/9781668053379",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’m into reading this book Apple In China by Patrick McGee, and it’s a doozy. Lots of learning, gossip and drama. The perfect mix for a book to keep me glued to it.",
    "section": "crowdsourced",
    "recommender": "Sencion (reader)"
@@ -372,8 +411,11 @@
    "name": "Hindsight",
    "url": "https://hindsight.today/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "web"
+   ],
    "blurb": "I’ve been unwinding with Hindsight , a low-stress, no FOMO RSS reader. Instead of real-time feeds, it shows you yesterday’s news. It’s become a welcome part of my morning routine!",
    "section": "crowdsourced",
    "recommender": "Kyle (reader)"
@@ -383,8 +425,10 @@
    "name": "Smartypants",
    "url": "https://www.dropout.tv/smartypants",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios"
+   ],
    "blurb": "It’s been a week, y’all. Life’s busy, news is nuts, just a lot happening! For some reason, the thing that has made me feel better over and over this week has been Smartypants , the truly genius Dropout show in which very smart people give totally unhinged presentations about deeply bizarre…",
    "section": "signing-off",
    "recommender": null

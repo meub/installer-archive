@@ -24,8 +24,12 @@
    "name": "The NPR app",
    "url": "https://www.npr.org/about-npr/1212396769/the-new-npr-app-is-your-one-stop-for-the-best-of-public-radio",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "podcast",
+    "cross-platform"
+   ],
    "blurb": "If you gave me $100, I could not tell you the difference between the NPR One app and the NPR app, or why they both existed. Luckily, they don’t anymore!",
    "section": "the-drop",
    "recommender": null
@@ -46,8 +50,10 @@
    "name": "Finalist",
    "url": "https://finalist.works/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "One of the niftier to-do list apps I’ve seen in a while. My main issue with Finalist at the beginning was I hated the color choices. With the new version, you can design the app any way you want! And it’s still a super-simple and pretty clever tasks system.",
    "section": "the-drop",
    "recommender": null
@@ -76,8 +82,11 @@
     "https://www.theverge.com/2023/12/11/23990347/ios-17-2-released-iphone-update-journal-app-spatial-video",
     "https://www.theverge.com/2023/10/28/23935473/apple-iphone-journal-app-preview"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "When I wrote about Apple’s Journal app — which is out for everyone now in iOS 17.2 ! — I said that Journaling Suggestions, the API that combs through your photos, activities, locations, music, and more to offer you stuff to journal about, was the most intriguing part of the product .",
    "section": "the-drop",
    "recommender": null
@@ -111,8 +120,12 @@
    "name": "NotebookLM",
    "url": "https://notebooklm.google.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web",
+    "productivity"
+   ],
    "blurb": "Google’s AI-powered notes app still doesn’t have many features, and I still don’t totally understand why it’s not just a feature of Keep or Docs… but it’s a nifty app nonetheless. Upload your docs, summarize them, ask questions about them, make studying or researching a little easier.",
    "section": "the-drop",
    "recommender": null
@@ -122,8 +135,10 @@
    "name": "Xbox Cloud Gaming on Quest 3",
    "url": "https://www.meta.com/experiences/6096836170400630/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "subscription"
+   ],
    "blurb": "This might be the best reason yet to buy a VR headset. If you’re a Game Pass subscriber, you can now connect your controller, fire up a huge virtual TV, and play games from anywhere. This is going to become part of my bedtime routine way too quickly.",
    "section": "the-drop",
    "recommender": null
@@ -133,8 +148,11 @@
    "name": "Reader can handle everything",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "article",
+    "productivity"
+   ],
    "blurb": "You can save articles, upload books, add videos, import RSS feeds, subscribe to newsletters, and more. The app does a really good job of sorting things into the right places, so you’re not just stuck with a giant mass of stuff.",
    "section": "deep-dive",
    "recommender": null
@@ -144,8 +162,11 @@
    "name": "It’s more than just a queue",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "article",
+    "productivity"
+   ],
    "blurb": "The first thing I loved about Reader was the homescreen, which shows you categories like “quick reads,” “long reads,” and “recently added.” There’s also a Digest feature that just grabs a bunch of stuff you’ve saved and tells you to read it today.",
    "section": "deep-dive",
    "recommender": null
@@ -155,8 +176,12 @@
    "name": "It’s also kind of a note-taking app",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "article",
+    "productivity",
+    "book"
+   ],
    "blurb": "Readwise’s original shtick was to compile all your notes and highlights from places like Kindle and Pocket into a searchable, reviewable archive.",
    "section": "deep-dive",
    "recommender": null
@@ -166,8 +191,11 @@
    "name": "You can… read… video",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "video",
+    "productivity"
+   ],
    "blurb": "I watch a lot of YouTube, for, uh, journalism. Reader adds a (good but not perfect) transcript to every video you save, so you can highlight and take notes just like on an article. Everything gets time-stamped, too, so you can find it later. It’s so helpful.",
    "section": "deep-dive",
    "recommender": null
@@ -177,8 +205,10 @@
    "name": "It’s super fast",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "One reason I’ve stopped using Reader in the past is that the app was kind of sluggish. One of those apps that always felt like it was working, you know what I mean?",
    "section": "deep-dive",
    "recommender": null
@@ -199,8 +229,11 @@
    "name": "The Wombles",
    "url": "https://www.bbc.co.uk/sounds/play/p0gyrlb2",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv",
+    "music"
+   ],
    "blurb": "The Wombles . I was a huge fan of The Wombles growing up as a kid, so when I’m not listening to EDM loudly in my headphones, you’ll find me listening to an episode of The Wombles on BBC Sounds. It’s delightfully relaxing, thanks to the voice acting of Richard E. Grant. TeeDee .",
    "section": "screen-share",
    "recommender": "Tom"
@@ -210,8 +243,10 @@
    "name": "TeeDee",
    "url": "https://www.tiktok.com/@teedeeuk",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "The Wombles . I was a huge fan of The Wombles growing up as a kid, so when I’m not listening to EDM loudly in my headphones, you’ll find me listening to an episode of The Wombles on BBC Sounds. It’s delightfully relaxing, thanks to the voice acting of Richard E. Grant. TeeDee .",
    "section": "screen-share",
    "recommender": "Tom"
@@ -221,8 +256,10 @@
    "name": "I Wanna Feel",
    "url": "https://www.tiktok.com/@teedeeuk/video/7119524517302603013",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "The Wombles . I was a huge fan of The Wombles growing up as a kid, so when I’m not listening to EDM loudly in my headphones, you’ll find me listening to an episode of The Wombles on BBC Sounds. It’s delightfully relaxing, thanks to the voice acting of Richard E. Grant. TeeDee .",
    "section": "screen-share",
    "recommender": "Tom"
@@ -232,8 +269,12 @@
    "name": "SoundCloud",
    "url": "https://soundcloud.com/teedeesheffield",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "web",
+    "cross-platform"
+   ],
    "blurb": "The Wombles . I was a huge fan of The Wombles growing up as a kid, so when I’m not listening to EDM loudly in my headphones, you’ll find me listening to an episode of The Wombles on BBC Sounds. It’s delightfully relaxing, thanks to the voice acting of Richard E. Grant. TeeDee .",
    "section": "screen-share",
    "recommender": "Tom"
@@ -243,8 +284,10 @@
    "name": "The Finals",
    "url": "https://www.reachthefinals.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "free"
+   ],
    "blurb": "The Wombles . I was a huge fan of The Wombles growing up as a kid, so when I’m not listening to EDM loudly in my headphones, you’ll find me listening to an episode of The Wombles on BBC Sounds. It’s delightfully relaxing, thanks to the voice acting of Richard E. Grant. TeeDee .",
    "section": "screen-share",
    "recommender": "Tom"
@@ -254,8 +297,12 @@
    "name": "Anybox",
    "url": "https://anybox.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "ios",
+    "mac"
+   ],
    "blurb": "I used this shelf app called Anybox . This app is a box to quickly access any type of item: image, text, document, and links. The app allows customization for default action based on saved item type, we can preview, copy, share, and so on.",
    "section": "crowdsourced",
    "recommender": "Krishna (reader)"
@@ -278,8 +325,11 @@
    "name": "Playlist",
    "url": "https://playlist.ign.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "productivity"
+   ],
    "blurb": "As you were talking about media organization / collection apps, please check out the game-tracking app developed by IGN called Playlist . It is free and I am liking it.",
    "section": "crowdsourced",
    "recommender": "OK (reader)"
@@ -289,7 +339,7 @@
    "name": "Analogue Duo",
    "url": "https://www.analogue.co/duo",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Analogue Duo baybee.",
    "section": "crowdsourced",
@@ -300,8 +350,11 @@
    "name": "creating AI wallpapers",
    "url": "https://www.zdnet.com/article/how-to-generate-ai-wallpapers-on-android-14/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "android"
+   ],
    "blurb": "AI wallpapers on the Google Pixel! I’ve been hooked on creating AI wallpapers and it feels like the combinations are truly endless. Going from an AI-generated painting of a mountain and spaceships to a surreal castle made of muslin with different color shades is wildly fun!",
    "section": "crowdsourced",
    "recommender": "Michael (reader)"
@@ -337,8 +390,13 @@
    "name": "Calibre",
    "url": "https://calibre-ebook.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "open-source",
+    "book",
+    "newsletter"
+   ],
    "blurb": "Using Calibre to subscribe to newsletters / newspapers and have them appear on my kindle every morning gives me a beautiful little ‘slow internet’ experience while I sip my coffee.",
    "section": "crowdsourced",
    "recommender": "Jon (reader)"
@@ -348,8 +406,11 @@
    "name": "Mammoth",
    "url": "https://getmammoth.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "ios"
+   ],
    "blurb": "This week I discovered Mammoth , an insanely gorgeous Mastodon app. Until now I’ve not been able to see past Ivory. Also Longplay is a brilliant iOS app to rediscover my album collection in Apple Music.",
    "section": "crowdsourced",
    "recommender": "Chris (reader)"
@@ -359,8 +420,11 @@
    "name": "Longplay",
    "url": "https://longplay.rocks/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "ios"
+   ],
    "blurb": "This week I discovered Mammoth , an insanely gorgeous Mastodon app. Until now I’ve not been able to see past Ivory. Also Longplay is a brilliant iOS app to rediscover my album collection in Apple Music.",
    "section": "crowdsourced",
    "recommender": "Chris (reader)"
@@ -370,8 +434,11 @@
    "name": "Spotify audiobooks",
    "url": "https://open.spotify.com/genre/0JQ5DAqbMKFETqK4t8f1n3?b2mwp=true&_gl=1*smuii2*_gcl_au*MTAyMTUxMjg0Ny4xNzAxMzY5NjE2",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "book",
+    "subscription"
+   ],
    "blurb": "Spotify audiobooks . I know you don’t own the audiobooks after but it is really convenient to get 15 hours for free. It’s enough to get me through at least one medium-sized book each month. I use it with Libby and Audible to read a bunch during the month!",
    "section": "crowdsourced",
    "recommender": "Harrison (reader)"
@@ -381,8 +448,12 @@
    "name": "Libby",
    "url": "https://libbyapp.com/interview/welcome#doYouHaveACard",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "book",
+    "cross-platform"
+   ],
    "blurb": "Spotify audiobooks . I know you don’t own the audiobooks after but it is really convenient to get 15 hours for free. It’s enough to get me through at least one medium-sized book each month. I use it with Libby and Audible to read a bunch during the month!",
    "section": "crowdsourced",
    "recommender": "Harrison (reader)"

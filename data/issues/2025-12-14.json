@@ -23,8 +23,12 @@
    "name": "The Letterboxd Video Store",
    "url": "https://letterboxd.com/video-store/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "movie",
+    "paid",
+    "video"
+   ],
    "blurb": "A tightly curated set of movies to rent, filled with stuff Letterboxd knows people want to see but that you almost certainly won’t find anywhere else. Like all things Letterboxd, it’s all a bit high-minded, but I love this idea and suspect I will check it often.",
    "section": "the-drop",
    "recommender": null
@@ -36,7 +40,7 @@
    "alt_urls": [
     "https://www.theverge.com/games/840004/skate-story-review-switch-steam-ps5"
    ],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "A late-breaking contender for the best game of 2025! You’re a demon, you skate. And skate. And skate. A lot of reviews say the controls take a little getting used to, but that they give way to something that feels great and looks spectacular.",
    "section": "the-drop",
@@ -49,8 +53,12 @@
    "alt_urls": [
     "https://www.theverge.com/ai-artificial-intelligence/841252/ifixit-fixbot-hands-on-ai-chatbot"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "ai"
+   ],
    "blurb": "I can’t say I’m shocked that iFixit’s AI bot, FixBot, isn’t quite up to the task of automatically sussing out how to fix all your gadgets. But that’s fine; I’ll just be using this new iOS and Android app as a library of manuals and repair guides.",
    "section": "the-drop",
    "recommender": null
@@ -60,8 +68,12 @@
    "name": "Darkroom 7.0",
    "url": "https://darkroom.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "photography",
+    "ios",
+    "mac"
+   ],
    "blurb": "I totally forgot about Darkroom! It has long been one of the best photo editors for Apple devices, and the new version cleans up the user experience a bunch while also adding some retro-film effects and some high-end video features.",
    "section": "the-drop",
    "recommender": null
@@ -71,8 +83,12 @@
    "name": "Google Photos",
    "url": "https://blog.google/products/photos/new-video-editor-templates-custom-text/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "photography",
+    "video",
+    "cross-platform"
+   ],
    "blurb": "On the other end of the professional spectrum, the Google Photos app just got a bunch of CapCut-style video editing features along with some better tools for making highlight reels and slideshows. I’m suddenly tempted to make a lot of stupid year-in-review stuff to send to my friends.",
    "section": "the-drop",
    "recommender": null
@@ -97,8 +113,10 @@
    "alt_urls": [
     "https://www.theverge.com/installer-newsletter/621782/best-speakers-headphones-music-gear-installer"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "From one of the Installerverse’s favorite audio brands comes a new $229 portable speaker that looks like a strong competitor to Sonos’ new gear. (Or a HomePod, I guess.) If I were starting a home audio system right now, I’d probably start with Wiim.",
    "section": "the-drop",
    "recommender": null
@@ -108,8 +126,12 @@
    "name": "Google Disco",
    "url": "https://labs.google/disco",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web",
+    "beta"
+   ],
    "blurb": "An experimental new browser based on a weird and novel idea: turning collections of tabs into AI-generated, one-off web apps. I don’t expect Disco itself to ever leave Google Labs, but there’s something awfully futuristic in here.",
    "section": "the-drop",
    "recommender": null
@@ -130,8 +152,12 @@
    "name": "Arena",
    "url": "https://www.are.na/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "beta",
+    "social"
+   ],
    "blurb": "TestFlights you should keep an eye on: Arena is a community of curious internet folks that I’ve long wanted to immerse myself into but only once the iOS build got to its current level did I find that easy to do.",
    "section": "screen-share",
    "recommender": "Raffi"
@@ -141,8 +167,11 @@
    "name": "Net",
    "url": "https://net.inc/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "beta"
+   ],
    "blurb": "TestFlights you should keep an eye on: Arena is a community of curious internet folks that I’ve long wanted to immerse myself into but only once the iOS build got to its current level did I find that easy to do.",
    "section": "screen-share",
    "recommender": "Raffi"
@@ -152,8 +181,12 @@
    "name": "Retro",
    "url": "https://retro.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "beta",
+    "social"
+   ],
    "blurb": "TestFlights you should keep an eye on: Arena is a community of curious internet folks that I’ve long wanted to immerse myself into but only once the iOS build got to its current level did I find that easy to do.",
    "section": "screen-share",
    "recommender": "Raffi"
@@ -163,8 +196,12 @@
    "name": "(Not Boring) Camera",
    "url": "https://notbor.ing/product/camera",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "beta",
+    "photography"
+   ],
    "blurb": "TestFlights you should keep an eye on: Arena is a community of curious internet folks that I’ve long wanted to immerse myself into but only once the iOS build got to its current level did I find that easy to do.",
    "section": "screen-share",
    "recommender": "Raffi"
@@ -174,8 +211,11 @@
    "name": "Bump",
    "url": "https://get.amo.co/bump",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "beta"
+   ],
    "blurb": "TestFlights you should keep an eye on: Arena is a community of curious internet folks that I’ve long wanted to immerse myself into but only once the iOS build got to its current level did I find that easy to do.",
    "section": "screen-share",
    "recommender": "Raffi"
@@ -185,8 +225,12 @@
    "name": "Radio Garden",
    "url": "https://radio.garden/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "ios",
+    "web"
+   ],
    "blurb": "TestFlights you should keep an eye on: Arena is a community of curious internet folks that I’ve long wanted to immerse myself into but only once the iOS build got to its current level did I find that easy to do.",
    "section": "screen-share",
    "recommender": "Raffi"
@@ -196,8 +240,12 @@
    "name": "Particle",
    "url": "https://particle.news/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "beta",
+    "ai"
+   ],
    "blurb": "TestFlights you should keep an eye on: Arena is a community of curious internet folks that I’ve long wanted to immerse myself into but only once the iOS build got to its current level did I find that easy to do.",
    "section": "screen-share",
    "recommender": "Raffi"
@@ -207,8 +255,11 @@
    "name": "Mercury",
    "url": "https://mercury.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "beta"
+   ],
    "blurb": "TestFlights you should keep an eye on: Arena is a community of curious internet folks that I’ve long wanted to immerse myself into but only once the iOS build got to its current level did I find that easy to do.",
    "section": "screen-share",
    "recommender": "Raffi"
@@ -218,8 +269,11 @@
    "name": "TBPN",
    "url": "https://www.tbpn.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "free"
+   ],
    "blurb": "TBPN & Stratechery podcasts. Discovering creative developers and design engineers who showcase their work on tech Twitter. Using Claude Code to ship iOS apps as someone without a formal background in software engineering. The resurgence of Pokémon and the Trading Card Game app.",
    "section": "screen-share",
    "recommender": "Raffi"
@@ -229,8 +283,12 @@
    "name": "Stratechery",
    "url": "https://stratechery.com/category/podcasts/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "newsletter",
+    "subscription"
+   ],
    "blurb": "TBPN & Stratechery podcasts. Discovering creative developers and design engineers who showcase their work on tech Twitter. Using Claude Code to ship iOS apps as someone without a formal background in software engineering. The resurgence of Pokémon and the Trading Card Game app.",
    "section": "screen-share",
    "recommender": "Raffi"
@@ -240,8 +298,12 @@
    "name": "Claude Code",
    "url": "https://claude.com/product/claude-code",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity",
+    "paid"
+   ],
    "blurb": "TBPN & Stratechery podcasts. Discovering creative developers and design engineers who showcase their work on tech Twitter. Using Claude Code to ship iOS apps as someone without a formal background in software engineering. The resurgence of Pokémon and the Trading Card Game app.",
    "section": "screen-share",
    "recommender": "Raffi"
@@ -251,7 +313,7 @@
    "name": "Trading Card Game",
    "url": "https://www.pokemon.com/us/pokemon-tcg",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "TBPN & Stratechery podcasts. Discovering creative developers and design engineers who showcase their work on tech Twitter. Using Claude Code to ship iOS apps as someone without a formal background in software engineering. The resurgence of Pokémon and the Trading Card Game app.",
    "section": "screen-share",
@@ -273,8 +335,10 @@
    "name": "The Anthropocene Reviewed",
    "url": "https://anthropocenereviewedbook.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Finally reading “ The Anthropocene Reviewed by John Green. Despite John living an entirely different life than me, his experiences and understanding of the world possess so many similarities to mine. I give it five stars.",
    "section": "crowdsourced",
    "recommender": "Christopher (reader)"
@@ -319,8 +383,10 @@
    "name": "Alchemised",
    "url": "https://alchemisedbook.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Audible had an insane three months for $1 deal, so I’ve been getting back into audiobooks while I do chores and commute. Currently listening to / reading Alchemised by SenLinYu and it’s fantastic.",
    "section": "crowdsourced",
    "recommender": "Colin (reader)"
@@ -330,8 +396,10 @@
    "name": "Teenage Engineering PO-12",
    "url": "https://teenage.engineering/store/po-12",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "Got myself a Teenage Engineering PO-12 drum machine on a rare sale. What a glorious little device. Lovely design, and hours of music fun, even for a complete amateur like myself. Plus - it even has a headphone jack! That said - I kind of wish that I’d gotten the PO-20 instead.” —",
    "section": "crowdsourced",
    "recommender": null
@@ -341,8 +409,10 @@
    "name": "PO-20",
    "url": "https://teenage.engineering/store/po-20",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "Got myself a Teenage Engineering PO-12 drum machine on a rare sale. What a glorious little device. Lovely design, and hours of music fun, even for a complete amateur like myself. Plus - it even has a headphone jack! That said - I kind of wish that I’d gotten the PO-20 instead.” —",
    "section": "crowdsourced",
    "recommender": null
@@ -352,8 +422,10 @@
    "name": "StoneBlock 4",
    "url": "https://feed-the-beast.com/modpacks/130-ftb-stoneblock-4",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "free"
+   ],
    "blurb": "StoneBlock 4 , an amazing Minecraft modpack, is ruining all my productivity this week.",
    "section": "crowdsourced",
    "recommender": "Anne (reader)"
@@ -376,7 +448,7 @@
    "name": "Xbloom",
    "url": "https://xbloom.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I’m OBSESSED with the Xbloom robotic barista machine I’ve owned for a few weeks now. It’s basically like having a barista on demand 24/7 – if you love drip coffee this is an endgame coffee machine.",
    "section": "crowdsourced",

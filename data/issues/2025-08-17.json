@@ -23,7 +23,7 @@
    "name": "Teenage Engineering’s Computer-2 PC case",
    "url": "https://teenage.engineering/25-the-flipped-out-year",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "This small form factor PC case has some awesome Teenage Engineering flair. I love the hazy, semi-transparent look. Even better, the company is also giving it away for free — that is, when it’s back in stock again. At least you can sign up for a waitlist.",
    "section": "the-drop",
@@ -34,7 +34,7 @@
    "name": "Fairphone’s new cables and chargers",
    "url": "https://www.fairphone.com/en/2025/08/12/fairphones-new-cables-and-chargers-are-better-in-every-way/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Fairphone says its new accessories are more durable than what it offered before and made with sustainability in mind. They seem like solid cables and chargers, too, so they could be a great option if you like Fairphone’s mission.",
    "section": "the-drop",
@@ -47,8 +47,10 @@
    "alt_urls": [
     "https://www.theverge.com/tv-reviews/719173/alien-earth-review"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "FX’s new series set in the Alien universe is getting great reviews . My knowledge of the Alien franchise is limited to Alien and Aliens , but Alien: Earth looks really scary — and I’m overdue for a good scary show.",
    "section": "the-drop",
    "recommender": null
@@ -58,7 +60,7 @@
    "name": "GuliKit’s ES and ES Pro controllers",
    "url": "https://www.gulikit.com/productinfo/1523654.html",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "If you want a higher-end Switch 2 controller but don’t want to pay $89.99, GuliKit’s new $24.99 and $29.99 options are considerably more affordable and offer perks like anti-drift joysticks. The controllers work on PC, Android, iOS, and macOS, too.",
    "section": "the-drop",
@@ -71,8 +73,10 @@
    "alt_urls": [
     "https://www.theverge.com/games/603938/off-rpg-translation-interview"
    ],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "paid"
+   ],
    "blurb": "This surreal RPG , starring a baseball player on a mission to purify the world from ghosts, is now available in a modernized version on Steam and Nintendo Switch. I’ve played a little bit of it, and it’s quite strange — which I say in the most complimentary way.",
    "section": "the-drop",
    "recommender": null
@@ -82,8 +86,12 @@
    "name": "Enter the Gungeon and Exit the Gungeon on mobile",
    "url": "https://enterthegungeon.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android",
+    "paid"
+   ],
    "blurb": "The hit roguelike Enter the Gungeon is now available on iOS and Android for the first time, while Exit the Gungeon is back on iOS and has arrived on Google Play. Watch out for bullets.",
    "section": "the-drop",
    "recommender": null
@@ -117,8 +125,10 @@
    "name": "Civilization III",
    "url": "https://civilization.2k.com/civ-iii/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "windows"
+   ],
    "blurb": "I downloaded and started replaying Civilization III (yes, the one from 2001). It’s one of my favorite games, and I still love a lot of the choices they made with the interface design. I recently watched The Decline of Western Civilization II .",
    "section": "screen-share",
    "recommender": "Soren"
@@ -141,8 +151,10 @@
    "name": "@furb_exotic",
    "url": "https://www.instagram.com/furb_exotic/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "social"
+   ],
    "blurb": "I downloaded and started replaying Civilization III (yes, the one from 2001). It’s one of my favorite games, and I still love a lot of the choices they made with the interface design. I recently watched The Decline of Western Civilization II .",
    "section": "screen-share",
    "recommender": "Soren"
@@ -152,7 +164,7 @@
    "name": "Snack Wraps",
    "url": "https://www.mcdonalds.com/us/en-us/full-menu/snack-wrap.html",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "I downloaded and started replaying Civilization III (yes, the one from 2001). It’s one of my favorite games, and I still love a lot of the choices they made with the interface design. I recently watched The Decline of Western Civilization II .",
    "section": "screen-share",
@@ -163,8 +175,10 @@
    "name": "Ubiquiti",
    "url": "https://ui.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "Buying a bunch of Ubiquiti gear for the new house that totally isn’t overkill.",
    "section": "crowdsourced",
    "recommender": "SorryAboutYourCat (reader)"
@@ -187,8 +201,12 @@
    "name": "Super Auto Pets -like",
    "url": "https://teamwoodgames.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "I’ve been playing Merge Maestro way too much. It’s a fun match game with Super Auto Pets -like emoji artwork. Free-to-start on mobile with a $2 price for the entire game.",
    "section": "crowdsourced",
    "recommender": "Dominick (reader)"
@@ -198,8 +216,10 @@
    "name": "The Next Conversation",
    "url": "https://www.penguinrandomhouse.com/books/750014/the-next-conversation-by-jefferson-fisher/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Reading: The Next Conversation by Jefferson Fisher. Playing: Dishonored for the first time. Watching: Mr. Robot and Murderbot (does this count as a theme?) Rabbit hole: Home Assistant and generally reducing my digital footprint (I say as making this public post).",
    "section": "crowdsourced",
    "recommender": "Omega86 (reader)"
@@ -209,8 +229,10 @@
    "name": "Dishonored",
    "url": "https://bethesda.net/en/game/dishonored",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "paid"
+   ],
    "blurb": "Reading: The Next Conversation by Jefferson Fisher. Playing: Dishonored for the first time. Watching: Mr. Robot and Murderbot (does this count as a theme?) Rabbit hole: Home Assistant and generally reducing my digital footprint (I say as making this public post).",
    "section": "crowdsourced",
    "recommender": "Omega86 (reader)"
@@ -220,8 +242,10 @@
    "name": "Mr. Robot",
    "url": "https://www.usanetwork.com/mr-robot",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "Reading: The Next Conversation by Jefferson Fisher. Playing: Dishonored for the first time. Watching: Mr. Robot and Murderbot (does this count as a theme?) Rabbit hole: Home Assistant and generally reducing my digital footprint (I say as making this public post).",
    "section": "crowdsourced",
    "recommender": "Omega86 (reader)"
@@ -231,8 +255,10 @@
    "name": "Murderbot",
    "url": "https://www.apple.com/tv-pr/originals/murderbot/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "Reading: The Next Conversation by Jefferson Fisher. Playing: Dishonored for the first time. Watching: Mr. Robot and Murderbot (does this count as a theme?) Rabbit hole: Home Assistant and generally reducing my digital footprint (I say as making this public post).",
    "section": "crowdsourced",
    "recommender": "Omega86 (reader)"
@@ -242,8 +268,12 @@
    "name": "Home Assistant",
    "url": "https://www.home-assistant.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "smart-home",
+    "open-source",
+    "free"
+   ],
    "blurb": "Reading: The Next Conversation by Jefferson Fisher. Playing: Dishonored for the first time. Watching: Mr. Robot and Murderbot (does this count as a theme?) Rabbit hole: Home Assistant and generally reducing my digital footprint (I say as making this public post).",
    "section": "crowdsourced",
    "recommender": "Omega86 (reader)"
@@ -253,8 +283,10 @@
    "name": "The Penguin",
    "url": "https://www.warnerbros.com/tv/penguin",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "Just got to watching The Penguin , and it’s a really fun gangster romp set in Gotham. I’ve mostly tired of the superhero stuff, but I’m always a sucker for good origin tales, and this really delivers. And the secret is, it’s really about Sofia Falcone and her war with her patriarchal mob family.",
    "section": "crowdsourced",
    "recommender": "verge_user_m573tv18 (reader)"
@@ -275,8 +307,11 @@
    "name": "Eggplant: The Secret Lives of Gamers",
    "url": "https://eggplant.show/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "free"
+   ],
    "blurb": "UFO 50 just came out on the Nintendo Switch. I’ve been following the podcast Eggplant: The Secret Lives of Gamers , which is going through each of the 50 games in a book club-like format, with just one game a week.",
    "section": "crowdsourced",
    "recommender": "Wolf3d.exe -goobers (reader)"
@@ -299,8 +334,10 @@
    "name": "Weapons",
    "url": "https://www.warnerbros.com/movies/weapons",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
    "blurb": "I, like many other people, watched Barbarian recently on Netflix. It’s leaving on August 31st. The director’s new movie, Weapons , just came out. Highly, highly recommend Barbarian . It’s fun to go in blind, and even if you’ve seen the trailer, you’ll still be spared some of its great twists.",
    "section": "crowdsourced",
    "recommender": "Cameron (reader)"

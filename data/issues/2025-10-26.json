@@ -23,8 +23,11 @@
    "name": "The Boox Palma 2 Pro",
    "url": "https://shop.boox.com/products/palma2pro",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android",
+    "book"
+   ],
    "blurb": "My love for this smartphone-sized e-reader knows no bounds. (Okay, some bounds, but not many.) This new model is fascinating: it has a color screen, cell connection, pen input… it’s almost a phone? At $399, the price is moving in the wrong direction, but I am deeply curious about this thing.",
    "section": "the-drop",
    "recommender": null
@@ -34,8 +37,12 @@
    "name": "ChatGPT Atlas",
    "url": "https://openai.com/index/introducing-chatgpt-atlas/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "mac",
+    "free"
+   ],
    "blurb": "AI browsers are kind of a dime a dozen. It’s Chrome with a chatbot everywhere you look! But given the sheer size of ChatGPT, this one matters anyway; if anyone can make a real dent in the browser market right now, it’s OpenAI.",
    "section": "the-drop",
    "recommender": null
@@ -45,7 +52,7 @@
    "name": "Plants vs. Zombies: Replanted",
    "url": "https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-replanted",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "The good news: PvZ is back! The bad news: it doesn’t seem like anyone tried very hard with this reboot. The upshot, I guess: I’ve already played it a bunch and will be doing so for the foreseeable future.",
    "section": "the-drop",
@@ -58,8 +65,10 @@
    "alt_urls": [
     "https://www.theverge.com/tech/802299/samsung-galaxy-xr-hands-on-price-release-date"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "It’s the Vision Pro, but lighter and more comfortable and half the price. I’m not bullish on headsets as a genre right now, but that’s still a pretty good sales pitch ! As an entertainment device, Samsung might have something here.",
    "section": "the-drop",
    "recommender": null
@@ -71,8 +80,11 @@
    "alt_urls": [
     "https://www.theverge.com/tech/803173/aura-e-ink-digital-photo-frame"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography",
+    "smart-home"
+   ],
    "blurb": "It’s the Samsung Frame TV of digital picture frames: a 13.5-inch E Ink panel that hangs on your wall and apparently only needs to be charged every few months. Neat idea , and everyone I know who has Aura frames likes them, but the $499 price is tough to swallow.",
    "section": "the-drop",
    "recommender": null
@@ -84,8 +96,12 @@
    "alt_urls": [
     "https://tabtabapp.net/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "utilities",
+    "productivity"
+   ],
    "blurb": "I’ve been experimenting with a bunch of Mac apps that make the whole system a little easier to navigate — TabTab is a recent favorite — and I really like this app’s improvements to Finder. It’s worth it for the file-renaming and image-resizing tools alone.",
    "section": "the-drop",
    "recommender": null
@@ -112,8 +128,10 @@
     "https://www.theverge.com/news/804782/lomography-lomo-mca-metal-35mm-film-camera-usbc-charging-price-specs",
     "https://www.theverge.com/news/805200/fujifilm-x-t30-iii-digital-camera-film-simulation-6k-ai-subject-detection"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography"
+   ],
    "blurb": "Lotta new cameras this week, including from Leica and Lomography ! But I am a sucker for Fujifilm’s X series — the company’s just doing a great job of making filters and presets more accessible, and even finding smart ways to incorporate AI.",
    "section": "the-drop",
    "recommender": null
@@ -123,8 +141,11 @@
    "name": "Glamping",
    "url": "https://tubitv.com/movies/100047053/glamping",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "movie",
+    "free"
+   ],
    "blurb": "A Tubi original movie, directed by and starring the winner of a platform-wide contest for new creators. It’s a horror movie about influencers, the trailer looks either legit-good or so-bad-it’s-good, and I love a campy horror flick. I’m weirdly excited about this.",
    "section": "the-drop",
    "recommender": null
@@ -158,8 +179,11 @@
    "name": "Dave Chisholm",
    "url": "https://www.instagram.com/thedavechisholm/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "music"
+   ],
    "blurb": "Right now, my son has started to really get into Star Wars (finally!), so we’re watching the movies and about to start Clone Wars .",
    "section": "screen-share",
    "recommender": "John"
@@ -169,8 +193,12 @@
    "name": "Dropout",
    "url": "https://www.dropout.tv/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv",
+    "subscription",
+    "video"
+   ],
    "blurb": "Right now, my son has started to really get into Star Wars (finally!), so we’re watching the movies and about to start Clone Wars .",
    "section": "screen-share",
    "recommender": "John"
@@ -180,8 +208,11 @@
    "name": "Make Some Noise",
    "url": "https://watch.dropout.tv/make-some-noise-saga",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv",
+    "video"
+   ],
    "blurb": "Right now, my son has started to really get into Star Wars (finally!), so we’re watching the movies and about to start Clone Wars .",
    "section": "screen-share",
    "recommender": "John"
@@ -191,8 +222,12 @@
    "name": "Immich",
    "url": "https://immich.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "photography",
+    "free"
+   ],
    "blurb": "After setting up my NAS a few weeks ago, I moved from Google Photos to Immich , a self-hosted dupe which is nearly identical. The process of moving the photos over was painful, but now I own my own image server.",
    "section": "crowdsourced",
    "recommender": "Craig (reader)"
@@ -202,8 +237,12 @@
    "name": "Home Assistant",
    "url": "https://www.home-assistant.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "smart-home",
+    "free"
+   ],
    "blurb": "After setting up my NAS a few weeks ago, I moved from Google Photos to Immich , a self-hosted dupe which is nearly identical. The process of moving the photos over was painful, but now I own my own image server.",
    "section": "crowdsourced",
    "recommender": "Craig (reader)"
@@ -226,8 +265,12 @@
    "name": "NotebookLM",
    "url": "https://notebooklm.google/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web",
+    "free"
+   ],
    "blurb": "I recently discovered a use case that, in my opinion, fully justifies its existence: loading board game instructions into NotebookLM and utilizing it as both a guide and, more importantly, a judge during arguments.",
    "section": "crowdsourced",
    "recommender": "Jakub (reader)"
@@ -237,8 +280,10 @@
    "name": "Enshittification",
    "url": "https://us.macmillan.com/books/9780374619329/enshittification/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Just finished reading Enshittification by Cory Doctorow this morning. Was an excellent read, and I would highly recommend.",
    "section": "crowdsourced",
    "recommender": "Nathaniel (reader)"
@@ -248,8 +293,10 @@
    "name": "RayCue charger dock",
    "url": "https://www.raycue.com/products/raycue-all-in-one-charger-dock-for-mac-mini-m4",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "mac"
+   ],
    "blurb": "Just got this RayCue charger dock to add some functionalities to my Mac Mini M4. Waiting for NVMe SSD to add storage to my Mac.",
    "section": "crowdsourced",
    "recommender": "‪Jean-François (reader)"
@@ -272,7 +319,7 @@
    "name": "Ball x Pit",
    "url": "https://www.ballxpit.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Ball x Pit has taken over my life just like Balatro did once upon a time.",
    "section": "crowdsourced",
@@ -283,8 +330,10 @@
    "name": "Balatro",
    "url": "https://www.playbalatro.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "cross-platform"
+   ],
    "blurb": "Ball x Pit has taken over my life just like Balatro did once upon a time.",
    "section": "crowdsourced",
    "recommender": "Ronak (reader)"
@@ -294,8 +343,12 @@
    "name": "Zen Browser",
    "url": "https://zen-browser.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "cross-platform"
+   ],
    "blurb": "Zen Browser recently got a great update that makes a lot of quality of life improvements, and generally over the last few months it has become fully capable of being my daily browser.",
    "section": "crowdsourced",
    "recommender": "Janego (reader)"
@@ -318,8 +371,12 @@
    "name": "Make Some Noise",
    "url": "https://watch.dropout.tv/make-some-noise?_gl=1*1mk69ox*_ga*MTU1OTk5MzUyNS4xNzYxMjMyMzk4*_ga_6C97G3S3W5*czE3NjEyMzIzOTgkbzEkZzAkdDE3NjEyMzIzOTgkajYwJGwwJGgxNDQ5ODgwOTk2*_fplc*dlRBVUEzTDM1UW5SbXFpVEZTbVo5ZDFqZTVaJTJCZmNMWXRXa2FZeFZpVFpxeVZZcEtTb01xZ2dHbWtLTHElMkIyOGtqZ1hJcjhOMGg0Y0VtWTBQalVkN2FvS1h3dzdsN012MTJIOCUyQnBmeEFOZnJPZWI3UVd6c2M2SXlJU2tBZVR3JTNEJTNE*_gcl_au*MTQxNzE0OTQwLjE3NjEyMzIzOTg.*FPAU*MTkxOTIwNDUyNy4xNzYxMjMyMzk4",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv",
+    "video",
+    "subscription"
+   ],
    "blurb": "The best thing I’ve found, somewhat surprisingly, is Dropout . (I wrote this before John told me he also loves Dropout, I swear.) I only recently became a subscriber, and its giant library of good-vibes comedy games turns out to be the perfect thing to watch a few minutes at a time.",
    "section": "signing-off",
    "recommender": null
@@ -329,8 +386,11 @@
    "name": "Brennan Lee Mulligan",
    "url": "https://brennanleemulligan.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "subscription"
+   ],
    "blurb": "The best thing I’ve found, somewhat surprisingly, is Dropout . (I wrote this before John told me he also loves Dropout, I swear.) I only recently became a subscriber, and its giant library of good-vibes comedy games turns out to be the perfect thing to watch a few minutes at a time.",
    "section": "signing-off",
    "recommender": null

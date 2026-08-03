@@ -25,8 +25,10 @@
     "https://www.theverge.com/2025/1/22/24349658/samsung-galaxy-s25-edge-photos-unpacked",
     "https://www.theverge.com/2025/1/22/24348631/samsung-galaxy-s25-ultra-hands-on-price-camera-specs"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "The S25 Edge is definitely Samsung’s most interesting phone this year, and the Ultra is probably the best one, but honestly the whole lineup is a little boring this time? Still, I really do appreciate that Samsung’s shipping a high-end, reasonably sized, full-featured flagship smartphone for $800.",
    "section": "the-drop",
    "recommender": null
@@ -49,8 +51,12 @@
    "name": "Humanity’s Last Exam",
    "url": "https://lastexam.ai/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "website",
+    "web"
+   ],
    "blurb": "An incredibly fun and thought-provoking — and also mind-bendingly hard — test that a bunch of researchers think represents something like the final frontier for AI. (All the models currently fail spectacularly.) I’ve learned a ton just poking around the questions.",
    "section": "the-drop",
    "recommender": null
@@ -62,8 +68,11 @@
    "alt_urls": [
     "https://operator.chatgpt.com/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "android"
+   ],
    "blurb": "Frankly, I’ve never found Perplexity’s actual search results all that good, but this company is really good at building products that are fun to use. This new Android app is a step toward more task-doing AI — a bit like OpenAI’s new Operator feature but without the $200 monthly price.",
    "section": "the-drop",
    "recommender": null
@@ -75,8 +84,12 @@
    "alt_urls": [
     "https://www.theverge.com/2025/1/23/24350182/android-16-first-public-beta-google-live-updates"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android",
+    "beta",
+    "free"
+   ],
    "blurb": "Not much in the way of ground-breaking new stuff this year , but the Live Activities-style lockscreen notifications are cool. And if you have a foldable phone, you’ll like the forced app resizing. Curious about the night mode camera upgrades, too.",
    "section": "the-drop",
    "recommender": null
@@ -101,8 +114,10 @@
    "alt_urls": [
     "https://www.theverge.com/2025/1/23/24349619/nvidia-rtx-5090-review-test-benchmark"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "windows"
+   ],
    "blurb": "$2,000 is a steep price for a GPU, but Nvidia’s latest beast seems to be clearly the best thing in 4K gaming . (It’s not technically shipping until next week, but if you want one of these I have a feeling you’ll need to get in early.)",
    "section": "the-drop",
    "recommender": null
@@ -125,8 +140,11 @@
    "name": "Brave Rerank",
    "url": "https://brave.com/blog/search-rerank/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "Brave is one of the better non-Google search engines, and this is such a no-brainer good idea of a feature: you get to up- and down-rank which domains you want to see in your results. A little tweaking goes a long way, too.",
    "section": "the-drop",
    "recommender": null
@@ -147,8 +165,13 @@
    "name": "Gaia",
    "url": "https://www.gaiagps.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "travel",
+    "ios",
+    "android",
+    "subscription"
+   ],
    "blurb": "My saving grace is that I do manage to get outside a fair bit. I recently switched to Apple Maps (I love the presentation when driving), and I use Gaia for trails when I’m hiking or mountain biking. Windy is the best weather app out there (I bought a premium subscription for sailing).",
    "section": "screen-share",
    "recommender": "Mike"
@@ -158,8 +181,12 @@
    "name": "Windy",
    "url": "https://www.windy.com/-Waves-waves",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "web"
+   ],
    "blurb": "My saving grace is that I do manage to get outside a fair bit. I recently switched to Apple Maps (I love the presentation when driving), and I use Gaia for trails when I’m hiking or mountain biking. Windy is the best weather app out there (I bought a premium subscription for sailing).",
    "section": "screen-share",
    "recommender": "Mike"
@@ -169,8 +196,12 @@
    "name": "MyRadar",
    "url": "https://myradar.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "My saving grace is that I do manage to get outside a fair bit. I recently switched to Apple Maps (I love the presentation when driving), and I use Gaia for trails when I’m hiking or mountain biking. Windy is the best weather app out there (I bought a premium subscription for sailing).",
    "section": "screen-share",
    "recommender": "Mike"
@@ -180,8 +211,11 @@
    "name": "Sky Guide",
    "url": "https://www.fifthstarlabs.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "paid"
+   ],
    "blurb": "My saving grace is that I do manage to get outside a fair bit. I recently switched to Apple Maps (I love the presentation when driving), and I use Gaia for trails when I’m hiking or mountain biking. Windy is the best weather app out there (I bought a premium subscription for sailing).",
    "section": "screen-share",
    "recommender": "Mike"
@@ -191,8 +225,13 @@
    "name": "Ivory",
    "url": "https://tapbots.com/ivory/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "social",
+    "subscription"
+   ],
    "blurb": "For social media, I use a mix of Mastodon (via Ivory ), Bluesky, and Threads, three of the main apps on the social web. I also love the new Pixelfed app. Not only is it built on ActivityPub, it’s like what Instagram used to be. I stopped posting on Instagram years ago because it got so noisy.",
    "section": "screen-share",
    "recommender": "Mike"
@@ -202,8 +241,13 @@
    "name": "Pixelfed",
    "url": "https://pixelfed.org/mobile-apps",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "photography",
+    "open-source",
+    "free"
+   ],
    "blurb": "For social media, I use a mix of Mastodon (via Ivory ), Bluesky, and Threads, three of the main apps on the social web. I also love the new Pixelfed app. Not only is it built on ActivityPub, it’s like what Instagram used to be. I stopped posting on Instagram years ago because it got so noisy.",
    "section": "screen-share",
    "recommender": "Mike"
@@ -213,8 +257,11 @@
    "name": "NBAThreads",
    "url": "https://surf.social/feed/surf%2Fcustom%2F01je9nsyr9hnzjvcc1ymht9xww",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "web"
+   ],
    "blurb": "NBAThreads by David Rushing: Real-time commentary from fans on Threads and Bluesky during games. Lots of great videos and podcasts between games. FilmFeed by David Imel: Beautiful photos from a curated list of film photographers. Like Instagram for film fans.",
    "section": "screen-share",
    "recommender": "Mike"
@@ -224,8 +271,12 @@
    "name": "FilmFeed",
    "url": "https://surf.social/feed/surf%2Fcustom%2F01jehge3c6f25c4czggc3xy0s8",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "web",
+    "movie"
+   ],
    "blurb": "NBAThreads by David Rushing: Real-time commentary from fans on Threads and Bluesky during games. Lots of great videos and podcasts between games. FilmFeed by David Imel: Beautiful photos from a curated list of film photographers. Like Instagram for film fans.",
    "section": "screen-share",
    "recommender": "Mike"
@@ -235,8 +286,11 @@
    "name": "Guardians of the Fediverse",
    "url": "https://surf.social/feed/surf%2Fcustom%2F01j837ez9hfg5pk7aaejw3t8ck",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "web"
+   ],
    "blurb": "NBAThreads by David Rushing: Real-time commentary from fans on Threads and Bluesky during games. Lots of great videos and podcasts between games. FilmFeed by David Imel: Beautiful photos from a curated list of film photographers. Like Instagram for film fans.",
    "section": "screen-share",
    "recommender": "Mike"
@@ -246,8 +300,12 @@
    "name": "SkyTok",
    "url": "https://surf.social/feed/surf%2Fcustom%2F01jhs54zr6g8bn0kva66mr7wx7",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "web",
+    "video"
+   ],
    "blurb": "NBAThreads by David Rushing: Real-time commentary from fans on Threads and Bluesky during games. Lots of great videos and podcasts between games. FilmFeed by David Imel: Beautiful photos from a curated list of film photographers. Like Instagram for film fans.",
    "section": "screen-share",
    "recommender": "Mike"
@@ -257,8 +315,11 @@
    "name": "directly on Bluesky",
    "url": "https://bsky.app/profile/did:plc:6nkng5626orolzuyvuzocl4e/feed/skytoc",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "social",
+    "web"
+   ],
    "blurb": "NBAThreads by David Rushing: Real-time commentary from fans on Threads and Bluesky during games. Lots of great videos and podcasts between games. FilmFeed by David Imel: Beautiful photos from a curated list of film photographers. Like Instagram for film fans.",
    "section": "screen-share",
    "recommender": "Mike"
@@ -268,8 +329,11 @@
    "name": "this post on Threads",
    "url": "https://www.threads.net/@imdavidpierce/post/DFLF9VQpq6h",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "social",
+    "web"
+   ],
    "blurb": "Here’s what the Installer community is into this week. I want to know what you’re into right now as well! Email installer@theverge.com or message me on Signal — @davidpierce.11 — with your recommendations for anything and everything, and we’ll feature some of our favorites here every week.",
    "section": "screen-share",
    "recommender": "Mike"
@@ -279,8 +343,11 @@
    "name": "this post on Bluesky",
    "url": "https://bsky.app/profile/davidpierce.xyz/post/3lgg7iwghiu2q",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "social",
+    "web"
+   ],
    "blurb": "Here’s what the Installer community is into this week. I want to know what you’re into right now as well! Email installer@theverge.com or message me on Signal — @davidpierce.11 — with your recommendations for anything and everything, and we’ll feature some of our favorites here every week.",
    "section": "screen-share",
    "recommender": "Mike"
@@ -303,7 +370,7 @@
    "name": "UFO 50",
    "url": "https://50games.fun/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "“ UFO 50 ! Truly incredible compilation of 50 new retro-style indie games, built around a fictional game company in the 80s. It’s all I’ve been playing and I’ve only played about 15 games so far.” — Jelly",
    "section": "screen-share",
@@ -314,8 +381,10 @@
    "name": "Unrivaled",
    "url": "https://www.unrivaled.basketball/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "“Watching Unrivaled , the new 3 on 3 women’s basketball league, on TNT / TruTV / Max! So much fun to watch the best basketball players play with more space and a different format from traditional basketball.” — Renata",
    "section": "screen-share",
    "recommender": "Mike"
@@ -325,7 +394,7 @@
    "name": "Miyoo A30",
    "url": "https://miyooofficial.com/product/miyoo-a30/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "“I got a Miyoo A30 this week, installed Spruce (a custom firmware) on it, and now I’m playing Pokémon Yellow Legacy because I needed some nostalgic comfort food to deal with everything going on right now.” — Beeks",
    "section": "screen-share",
@@ -362,8 +431,11 @@
    "name": "Graze",
    "url": "https://www.graze.social/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "web"
+   ],
    "blurb": "“Been spending a bunch of time on Graze building feeds for BlueSky! They’re really doing some great work for the community, and have made setting up custom feeds super quick, fun and available to pretty much anyone, techie or not.” — Kerha",
    "section": "screen-share",
    "recommender": "Mike"
@@ -373,8 +445,11 @@
    "name": "I Love Hue Too",
    "url": "https://zutgames.com/i-love-hue-too.php",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "“ I Love Hue Too . It’s been out a while, but it’s beautiful, addictive and a wonderful way to distract from the crumbling world around me.” — Brad",
    "section": "screen-share",
    "recommender": "Mike"
@@ -397,8 +472,10 @@
    "name": "Wool",
    "url": "https://hughhowey.com/books/wool/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "“Last week’s Silo season finale was incredible and I’ve also started Wool (the first in the book series) and it is a really fun read. Crazy how much faster the book is paced – it’s only like 40 percent through the story that [REDACTED] happens!!” — Andy",
    "section": "screen-share",
    "recommender": "Mike"
@@ -419,8 +496,10 @@
    "name": "old school Weather Channel songs",
    "url": "https://open.spotify.com/playlist/077NLoQFbj4TbvLMiymhPW?pi=u-EAsL93R0QAS9&nd=1&dlsi=d32407d33e274721",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "“This playlist of old school Weather Channel songs my brother sent me has been my soundtrack for the last few days. Just sit back and let the nostalgia of trying to get a forecast over basic cable wash over you.” — Mike",
    "section": "screen-share",
    "recommender": "Mike"
@@ -430,8 +509,10 @@
    "name": "“How to Stop Worrying and Learn to Love the Internet,”",
    "url": "https://douglasadams.com/dna/19990901-00-a.html?__readwiseLocation=",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "Turns out, in 1999, Adams wrote an essay titled “How to Stop Worrying and Learn to Love the Internet,” and wow does it hold up 26 years later as a way to think about the world we live in now. Here’s just one quote:",
    "section": "signing-off",
    "recommender": null

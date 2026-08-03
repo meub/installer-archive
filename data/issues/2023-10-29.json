@@ -26,8 +26,12 @@
    "alt_urls": [
     "https://neal.fun/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "web",
+    "website"
+   ],
    "blurb": "Neal Agarwal’s whole website is an endless string of delightful games and other silly things, and this museum of important internet things — the first MP3, the first-ever “LOL,” footage from the web’s first webcam, Pizzanet, and much more — is some of his best work yet.",
    "section": "the-drop",
    "recommender": null
@@ -40,8 +44,10 @@
     "https://us.macmillan.com/books/9781250244031/nettlebone",
     "https://www.uncannymagazine.com/article/rabbit-test/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "If you’re a science fiction fan, here’s your reading / viewing list for the next year or so. Nettle & Bone by T.",
    "section": "the-drop",
    "recommender": null
@@ -81,8 +87,13 @@
    "alt_urls": [
     "https://www.theverge.com/2023/10/26/23932315/google-maps-ai-immersive-view-ev-charging-search"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android",
+    "ios",
+    "cross-platform",
+    "travel"
+   ],
    "blurb": "I know, new app, super exciting, right? But Maps actually got a really useful update this week.",
    "section": "the-drop",
    "recommender": null
@@ -94,8 +105,10 @@
    "alt_urls": [
     "https://www.theverge.com/2023/10/26/23932288/leica-m11p-camera-rangefinder-adobe-content-authenticity-cai-ai-verification-price-specs"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography"
+   ],
    "blurb": "It’s $9,195, and I’m sure it’s fantastic because it’s a Leica. But I’m more interested in the built-in support for Adobe’s Content Authenticity tools, which sign and verify each image. In this increasingly messy AI-filled world, I love this idea.",
    "section": "the-drop",
    "recommender": null
@@ -107,7 +120,7 @@
    "alt_urls": [
     "https://www.theverge.com/23934662/alan-wake-2-review-ps5-xbox-pc"
    ],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "A horror-story action game that’s also a detective thriller with a lot of super-weird storytelling that seems to add up to a coherent, fun, intense package ? Sign me up. (Also, I officially have too many great games to play and not enough time. Please consider this my vacation request.)",
    "section": "the-drop",
@@ -131,7 +144,7 @@
    "name": "Xreal Air 2",
    "url": "https://us.shop.xreal.com/products/xreal-air-2",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "There are basically two kinds of AR glasses right now. One type is the Ray-Ban Meta smart glasses, which look cool but are all audio. These are the other kind: they’re a screen that goes on your face. That’s it. That’s the whole $400 idea. But… I kinda get it.",
    "section": "the-drop",
@@ -155,8 +168,13 @@
    "name": "Sequel",
    "url": "https://www.getsequel.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "tv",
+    "movie",
+    "book"
+   ],
    "blurb": "A couple of weeks ago, a lot of you told me you like the app Sequel for tracking all the movies, books, TV shows, and everything else you want to get to.",
    "section": "pro-tips",
    "recommender": null
@@ -166,8 +184,12 @@
    "name": "Trakt",
    "url": "https://trakt.tv/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "tv",
+    "movie"
+   ],
    "blurb": "A couple of weeks ago, a lot of you told me you like the app Sequel for tracking all the movies, books, TV shows, and everything else you want to get to.",
    "section": "pro-tips",
    "recommender": null
@@ -188,8 +210,10 @@
    "name": "went viral",
    "url": "https://www.theatlantic.com/technology/archive/2015/09/internet-mystery-of-the-week-who-is-the-woman-in-these-vintage-photos/404881/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "photography"
+   ],
    "blurb": "The wallpaper: Remember those photos that went viral after a woman found them on an old roll of film? I thought they looked neat, so I made them my wallpaper. Turns out they were rejected images for an advertisement shoot.",
    "section": "screen-share",
    "recommender": "Alex"
@@ -210,8 +234,10 @@
    "name": "He Who Drowned the World by Shelley Parker-Chan",
    "url": "https://us.macmillan.com/books/9781250621832/hewhodrownedtheworld",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Ugly Betty on Netflix . I’ve been rewatching it, because America Ferrera, and really enjoying how it accidentally explores two enormous transitions that happened in the late 2000s: the decline of print media and the rise of the phone as a do-everything device.",
    "section": "screen-share",
    "recommender": "Alex"
@@ -232,8 +258,11 @@
    "name": "Quiche Browser",
    "url": "https://quiche.works/browser/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "web"
+   ],
    "blurb": "The Quiche Browser is really great! You can rearrange the whole search bar area to your liking and also add / remove buttons to / from the search bar area in the settings and change the layout of all the buttons, too.",
    "section": "crowdsourced",
    "recommender": "Harun (reader)"
@@ -243,8 +272,10 @@
    "name": "Background Sounds",
    "url": "https://support.apple.com/guide/iphone/play-background-sounds-iphb2cfa052c/ios",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ios"
+   ],
    "blurb": "Not a new feature but one I just remembered and utilized: sometimes I use the iPad as a white noise machine for the kids when we’re traveling, but I was using a free app that would cut off after eight hours and wake them up early.",
    "section": "crowdsourced",
    "recommender": "Thaddaeus (reader)"
@@ -265,8 +296,12 @@
    "name": "SwiftKey",
    "url": "https://www.microsoft.com/en-us/swiftkey",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android",
+    "ios",
+    "free"
+   ],
    "blurb": "I decided to move away from the native Google keyboard (GBoard), seeking something new and refreshing. I remembered SwiftKey , the pioneer in gesture / flow input before Microsoft acquired it. Recently, Microsoft added Bing Chat to it, which was a pleasant surprise!",
    "section": "crowdsourced",
    "recommender": "Andriy (reader)"
@@ -276,7 +311,7 @@
    "name": "TP-Link AV-2000 Powerline Adapter",
    "url": "https://www.tp-link.com/us/home-networking/powerline/tl-pa9020p-kit/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I just recently learned about the TP-Link AV-2000 Powerline Adapter , and I think it’s exactly what I need to get a wired internet connection from my horribly placed router to my home entertainment center!",
    "section": "crowdsourced",
@@ -300,8 +335,12 @@
    "name": "Nara Baby",
    "url": "https://naraorganics.com/nara-baby-tracker",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "cross-platform"
+   ],
    "blurb": "The app that helped us through those first few months of parenthood was Nara Baby . Great design, highly customizable to choose what you want to track, and you can use it like a power user or more casual one.",
    "section": "crowdsourced",
    "recommender": "Jasper (reader)"
@@ -335,8 +374,10 @@
    "name": "new Taylor Swift album",
    "url": "https://taylor.lnk.to/1989taylorsversion",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "Y’all. A new Taylor Swift album came out this week. CAN YOU EVEN BELIEVE IT? I’ve spent the last 24-ish hours mostly streaming “Say Don’t Go” on repeat while also continuing to read and watch everything I can about what a phenomenon Swift has become.",
    "section": "signing-off",
    "recommender": null
@@ -346,8 +387,11 @@
    "name": "a great data visual thing",
    "url": "https://www.bloomberg.com/graphics/2023-taylor-swift-net-worth-billionaire/?srnd=premium",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "web",
+    "music"
+   ],
    "blurb": "Y’all. A new Taylor Swift album came out this week. CAN YOU EVEN BELIEVE IT? I’ve spent the last 24-ish hours mostly streaming “Say Don’t Go” on repeat while also continuing to read and watch everything I can about what a phenomenon Swift has become.",
    "section": "signing-off",
    "recommender": null
@@ -357,8 +401,11 @@
    "name": "the Taylor Swift Industrial Complex",
    "url": "https://www.wsj.com/arts-culture/taylor-swift-taylornomics-concert-eras-tour-local-economy-9fa1d492",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "music"
+   ],
    "blurb": "Y’all. A new Taylor Swift album came out this week. CAN YOU EVEN BELIEVE IT? I’ve spent the last 24-ish hours mostly streaming “Say Don’t Go” on repeat while also continuing to read and watch everything I can about what a phenomenon Swift has become.",
    "section": "signing-off",
    "recommender": null
@@ -368,8 +415,11 @@
    "name": "melting down",
    "url": "https://www.tiktok.com/@bethany_pendleton13/video/7294493539323465003?q=taylor%20swift%201989&t=1698420694465",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "music"
+   ],
    "blurb": "Y’all. A new Taylor Swift album came out this week. CAN YOU EVEN BELIEVE IT? I’ve spent the last 24-ish hours mostly streaming “Say Don’t Go” on repeat while also continuing to read and watch everything I can about what a phenomenon Swift has become.",
    "section": "signing-off",
    "recommender": null

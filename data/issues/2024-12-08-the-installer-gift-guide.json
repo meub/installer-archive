@@ -39,8 +39,12 @@
    "name": "Twos",
    "url": "https://www.twosapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "I’ve mentioned Twos here before, and it’s still one of my favorite apps for simple tasks and notes. But I’m particularly into its new AI features, which don’t try to do impossible, wild things but instead just, like, search Google for you with one tap.",
    "section": "the-drop",
    "recommender": null
@@ -76,8 +80,10 @@
    "name": "Spotify Wrapped",
    "url": "https://www.spotify.com/us/wrapped/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "music"
+   ],
    "blurb": "My Wrapped this year is hands down the most embarrassing it’s ever been. I don’t even want to share my #1 song. But still, even though everybody seems to do some version of this year-end thing now, nobody does it as well as Spotify. And the AI podcasts that come with it this year? Surprisingly fun.",
    "section": "the-drop",
    "recommender": null
@@ -87,8 +93,11 @@
    "name": "Peloton Strength Plus",
    "url": "https://www.onepeloton.com/strength-plus-app",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness",
+    "subscription"
+   ],
    "blurb": "Makes total sense that Peloton would eventually double down on weight training — but I actually didn’t expect to be this compelled by the app. It’s cheaper, for one! But it also has a lot of really useful features and classes and looks like the right mix of structured and flexible.",
    "section": "the-drop",
    "recommender": null
@@ -137,8 +146,12 @@
    "name": "Home Assistant stuff",
    "url": "https://www.home-assistant.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "smart-home",
+    "open-source",
+    "free"
+   ],
    "blurb": "I confess I am increasingly kind of… over smart home stuff. But super hackable, in-the-weeds, make-it-do-anything-with-a-little-engineering smart home stuff? I’m in. And so are you, apparently.",
    "section": "gift-guide-part-two",
    "recommender": null
@@ -148,8 +161,10 @@
    "name": "The Raspberry Pi 5",
    "url": "https://www.raspberrypi.com/products/raspberry-pi-5/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "open-source"
+   ],
    "blurb": "More light-touch hacking gear! Raspberry Pis are super fun gifts for anyone looking for a techy project, and it’s so cheap to get started! (Though I’d urge you to spring for the full starter kit, which just makes it easier to get the thing running.)",
    "section": "gift-guide-part-two",
    "recommender": null
@@ -161,7 +176,7 @@
    "alt_urls": [
     "https://hototools.com/products/hand-tool-set"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Hoto makes some of the most gadgety tools you’ll ever find — Ryan emailed in and called it “the Apple of tools.” I own and love the screwdriver, but I’m also kind of in love with this tool set, too .",
    "section": "gift-guide-part-two",
@@ -172,8 +187,11 @@
    "name": "Four Thousand Weeks by Oliver Burkeman",
    "url": "https://www.oliverburkeman.com/fourthousandweeks",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "productivity"
+   ],
    "blurb": "This book has come through my inbox so many times this year. It’s sort of a productivity book, but it’s mostly a reminder that life is short, that’s okay, and that being productive is about giving yourself space to live, not more to do. Slightly deep for a holiday gift, maybe, but a great read.",
    "section": "gift-guide-part-two",
    "recommender": null
@@ -183,8 +201,10 @@
    "name": "The new Mac Mini",
    "url": "https://www.apple.com/mac-mini/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "mac"
+   ],
    "blurb": "I probably should have included this in my guide last week. It’s certainly no stocking stuffer, but it’s pretty cheap as high-end computers go, and Apple got pretty much everything right on this one.",
    "section": "gift-guide-part-two",
    "recommender": null
@@ -218,8 +238,11 @@
    "name": "White Noise",
    "url": "https://deepsleepsounds.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "I write all my drafts and keep research in the Notes app; if it ever crashes, I’m doomed. In terms of hours, no app surpasses my beloved White Noise , which is $39.99 a year and houses a massive library of whatever ambient noise suits you best.",
    "section": "screen-share",
    "recommender": "Kristen"
@@ -229,7 +252,7 @@
    "name": "Sproos",
    "url": "https://sproos.co/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I just did the easiest shower upgrade ever with a Sproos showerhead, and now my shower is much more organized than my phone. The weird little handmade items at the one-person online shop Rosehound Apparel have made their way into many rooms of my apartment.",
    "section": "screen-share",
@@ -240,8 +263,10 @@
    "name": "Rosehound Apparel",
    "url": "https://www.rosehoundapparel.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "website"
+   ],
    "blurb": "I just did the easiest shower upgrade ever with a Sproos showerhead, and now my shower is much more organized than my phone. The weird little handmade items at the one-person online shop Rosehound Apparel have made their way into many rooms of my apartment.",
    "section": "screen-share",
    "recommender": "Kristen"
@@ -251,8 +276,10 @@
    "name": "Che",
    "url": "https://che-brooklyn.square.site/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "website"
+   ],
    "blurb": "I just did the easiest shower upgrade ever with a Sproos showerhead, and now my shower is much more organized than my phone. The weird little handmade items at the one-person online shop Rosehound Apparel have made their way into many rooms of my apartment.",
    "section": "screen-share",
    "recommender": "Kristen"
@@ -262,8 +289,10 @@
    "name": "cute little 3D print designs",
    "url": "https://makerworld.com/en/collections/3215167",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "free"
+   ],
    "blurb": "I have been irrationally obsessed with designing cute little 3D print designs for the Mac Mini. The latest one is a MagSafe charging topper that is an homage to Apple’s six-color rainbow stage at Apple Park.",
    "section": "crowdsourced",
    "recommender": "Jerrod (reader)"
@@ -273,8 +302,10 @@
    "name": "a MagSafe charging topper",
    "url": "https://makerworld.com/en/models/851512#profileId-799714",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "free"
+   ],
    "blurb": "I have been irrationally obsessed with designing cute little 3D print designs for the Mac Mini. The latest one is a MagSafe charging topper that is an homage to Apple’s six-color rainbow stage at Apple Park.",
    "section": "crowdsourced",
    "recommender": "Jerrod (reader)"
@@ -284,8 +315,11 @@
    "name": "Orion",
    "url": "https://orion.tube/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "video"
+   ],
    "blurb": "I’ve been messing around with using my iPad as an external monitor for my camera for a personal project I’m shooting. Orion has been a godsend.",
    "section": "crowdsourced",
    "recommender": "Eddy (reader)"
@@ -295,7 +329,7 @@
    "name": "Kill Knight",
    "url": "https://www.playsidestudios.com/games/kill-knight",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I am playing Kill Knight on my Switch and it is great for short 10- to 15-minute sessions. You get dropped into an arena and face endless waves of enemies.",
    "section": "crowdsourced",
@@ -306,8 +340,10 @@
    "name": "Dark Matte",
    "url": "https://blakecrouch.com/books/dark-matter/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "If you liked Dark Matte r by Blake Crouch, I highly recommend checking out one of his other books, Recursion ! I read it right after Dark Matter and it was great!",
    "section": "crowdsourced",
    "recommender": "Amelia (reader)"
@@ -317,8 +353,10 @@
    "name": "Recursion",
    "url": "https://blakecrouch.com/books/recursion/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "If you liked Dark Matte r by Blake Crouch, I highly recommend checking out one of his other books, Recursion ! I read it right after Dark Matter and it was great!",
    "section": "crowdsourced",
    "recommender": "Amelia (reader)"
@@ -328,8 +366,12 @@
    "name": "James Clear’s excellent post",
    "url": "https://jamesclear.com/saying-no",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "productivity",
+    "web"
+   ],
    "blurb": "Revisiting James Clear’s excellent post on saying ‘no.’ Workdays between Thanksgiving and Christmas are a productivity wormhole, and saying no with conviction and frequency is one of the only ways to stay sane!",
    "section": "crowdsourced",
    "recommender": "Ryan (reader)"
@@ -339,8 +381,10 @@
    "name": "Against the Rules",
    "url": "https://www.pushkin.fm/podcasts/against-the-rules",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Just finished a binge of the latest round of Against the Rules with Michael Lewis. Sports betting is pervasive and deep.",
    "section": "crowdsourced",
    "recommender": "Matthew (reader)"
@@ -350,8 +394,10 @@
    "name": "Factorio: Space Age",
    "url": "https://www.factorio.com/space-age/buy",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "paid"
+   ],
    "blurb": "Want to lose your weekend? get Factorio: Space Age . It will scratch all the the engineering parts of your brain, but also eat all your free time. The new additions of other planets change up the gameplay in a great way.",
    "section": "crowdsourced",
    "recommender": "Kyle (reader)"
@@ -361,8 +407,12 @@
    "name": "Freedom",
    "url": "https://freedom.to/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "productivity",
+    "paid"
+   ],
    "blurb": "The Freedom app. It was $80 for a lifetime subscription during Black Friday. I can block time-wasting websites on my Mac, iPad, and iPhone all at the same time on a customizable schedule.",
    "section": "crowdsourced",
    "recommender": "Irfan (reader)"
@@ -372,8 +422,10 @@
    "name": "AirServer",
    "url": "https://www.airserver.com/Xbox",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "video"
+   ],
    "blurb": "Found out that AirServer on Xbox lets you use it as AirPlay (and Chromecast and Miracast) and supports background audio. This means you can stream everything from your phone while you play.",
    "section": "crowdsourced",
    "recommender": "Uli (reader)"
@@ -383,8 +435,10 @@
    "name": "Playground",
    "url": "https://www.richardpowers.net/playground/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’m reading Playground by Richard Powers. Another great novel from his hand about colonialism, biodiversity, friendship and yes, artificial intelligence(!).",
    "section": "crowdsourced",
    "recommender": "Anders (reader)"
@@ -394,8 +448,12 @@
    "name": "Someone posted on r/androidapps this week",
    "url": "https://www.reddit.com/r/androidapps/comments/1h5nu8r/list_your_best_2024_apps_that_you_have_discovered/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "android",
+    "article",
+    "web"
+   ],
    "blurb": "I get a lot of crap from Installer readers for not including enough Android apps. Which is fair enough! There are a lot of reasons for it, only some of which I control, but I’ll try and do better. Luckily, as ever, Reddit is on it.",
    "section": "signing-off",
    "recommender": null

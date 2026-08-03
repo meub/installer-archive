@@ -23,7 +23,7 @@
    "name": "The Backbone Pro",
    "url": "https://backbone.com/pages/pro",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I’ve had and loved a Backbone controller for a while — it’s a terrific gaming accessory for your phone. The new model is even more ambitious; in addition to your phone, it can also connect wirelessly to iPads, Steam Decks, smart TVs, and more.",
    "section": "the-drop",
@@ -34,8 +34,10 @@
    "name": "Emoji Law",
    "url": "https://99percentinvisible.org/episode/626-emoji-law/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "“ Emoji Law .” An instant classic of a 99 Percent Invisible episode, about how a thumbs-up emoji in response to a contract proposal turned into a huge lawsuit over what a thumbs-up emoji actually means. A wonky story in the absolute best way, and a great listen.",
    "section": "the-drop",
    "recommender": null
@@ -47,8 +49,10 @@
    "alt_urls": [
     "https://www.theverge.com/news/658523/microsoft-surface-pro-12-inch-smaller-specs-release-date"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "windows"
+   ],
    "blurb": "I remain slightly skeptical that any Windows on ARM device can be truly great, but it looks like Microsoft got the spec sheet right with this one. The Pro is thin and light, powerful enough, with good battery life, and starts at $800… I have high hopes for this one.",
    "section": "the-drop",
    "recommender": null
@@ -101,8 +105,11 @@
    "alt_urls": [
     "https://www.theverge.com/news/661773/whoop-5-news-price-specs-battery’"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "fitness",
+    "subscription"
+   ],
    "blurb": "Whoop has always been a little too much for me. It’s a great fitness tracker for, like, pro athletes, but it’s more than most people need. The new one , though, is smaller and longer-lasting and more focused on overall health tracking.",
    "section": "the-drop",
    "recommender": null
@@ -138,8 +145,12 @@
    "name": "ChatGPT",
    "url": "https://chatgpt.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "cross-platform",
+    "free"
+   ],
    "blurb": "I find myself using ChatGPT more and more to replace Google Search. Being able to ask follow-up questions about what I’m searching for is very powerful, and often helps me find what I want.",
    "section": "screen-share",
    "recommender": "Myke"
@@ -149,8 +160,10 @@
    "name": "Mango Baby",
    "url": "https://mangobaby.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
    "blurb": "My wife and I recently had our first child, and we have been using Mango Baby to track all the important things you need to track for baby health. It’s made by a single developer, it looks great, and it supports all the new Apple technologies like interactive widgets and live activities.",
    "section": "screen-share",
    "recommender": "Myke"
@@ -160,8 +173,12 @@
    "name": "Readwise Reader",
    "url": "https://readwise.io/reader",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "subscription",
+    "cross-platform",
+    "productivity"
+   ],
    "blurb": "I have recently taken all text-based social media off my phone, and am trying to do these things on work devices only, in an effort to be less distracted. So I have started saving articles to Readwise Reader .",
    "section": "screen-share",
    "recommender": "Myke"
@@ -171,8 +188,12 @@
    "name": "Widgetsmith’s",
    "url": "https://widgetsmith.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity",
+    "photography"
+   ],
    "blurb": "I really love Widgetsmith’s photo widgets. The built-in widget from Apple is good, but you never know what it’s going to show you.",
    "section": "screen-share",
    "recommender": "Myke"
@@ -208,8 +229,10 @@
    "name": "The Rest is History",
    "url": "https://therestishistory.supportingcast.fm/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "The Studio on Apple TV Plus is my absolute favorite show right now. It’s an incredibly fun and entertaining show that’s also a technical masterpiece. Everything I see about how this show is made just makes me love and respect it more.",
    "section": "screen-share",
    "recommender": "Myke"
@@ -219,8 +242,10 @@
    "name": "the episodes on the Assassination of JFK",
    "url": "https://therestishistory.com/392-jfk-the-road-to-the-white-house-part-1-2/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "The Studio on Apple TV Plus is my absolute favorite show right now. It’s an incredibly fun and entertaining show that’s also a technical masterpiece. Everything I see about how this show is made just makes me love and respect it more.",
    "section": "screen-share",
    "recommender": "Myke"
@@ -230,8 +255,11 @@
    "name": "Raddle",
    "url": "https://raddle.quest/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "I’ve started playing another daily word game called Raddle . It’s a word ladder where you have to get from one word (or phrase) to another, but instead of just changing one letter like in a traditional word ladder there are a series of clues like ‘replace the middle letter with a double letter to…",
    "section": "crowdsourced",
    "recommender": "Kyle (reader)"
@@ -254,8 +282,11 @@
    "name": "Nexus: A Brief History of Information Networks from the Stone Age to AI",
    "url": "https://www.ynharari.com/book/nexus/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "ai"
+   ],
    "blurb": "Just got done with Nexus: A Brief History of Information Networks from the Stone Age to AI , and enjoyed it.",
    "section": "crowdsourced",
    "recommender": "Hobie (reader)"
@@ -265,8 +296,12 @@
    "name": "Pocket Casts",
    "url": "https://pocketcasts.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "podcast",
+    "cross-platform",
+    "subscription"
+   ],
    "blurb": "Pocket Casts launched transcripts finally ! Only for Plus and Patron members, it looks like, but if I wasn’t already a Plus member, this would’ve instantly made me one. This will help my constant struggle of wanting to switch to Apple Podcasts significantly.",
    "section": "crowdsourced",
    "recommender": "Omesh (reader)"
@@ -276,8 +311,10 @@
    "name": "finally",
    "url": "https://blog.pocketcasts.com/2025/04/29/generated-transcripts-are-here/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Pocket Casts launched transcripts finally ! Only for Plus and Patron members, it looks like, but if I wasn’t already a Plus member, this would’ve instantly made me one. This will help my constant struggle of wanting to switch to Apple Podcasts significantly.",
    "section": "crowdsourced",
    "recommender": "Omesh (reader)"
@@ -287,8 +324,12 @@
    "name": "YunoHost",
    "url": "https://yunohost.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "utilities"
+   ],
    "blurb": "After Omnivore shut down, I got stressed and started looking into self hosting. Struggled until I set up YunoHost to self host Wallabag and Miniflux on a Raspberry Pi.",
    "section": "crowdsourced",
    "recommender": "Ronin (reader)"
@@ -298,8 +339,12 @@
    "name": "Wallabag",
    "url": "https://wallabag.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "web"
+   ],
    "blurb": "After Omnivore shut down, I got stressed and started looking into self hosting. Struggled until I set up YunoHost to self host Wallabag and Miniflux on a Raspberry Pi.",
    "section": "crowdsourced",
    "recommender": "Ronin (reader)"
@@ -309,8 +354,12 @@
    "name": "Miniflux",
    "url": "https://miniflux.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "web",
+    "utilities"
+   ],
    "blurb": "After Omnivore shut down, I got stressed and started looking into self hosting. Struggled until I set up YunoHost to self host Wallabag and Miniflux on a Raspberry Pi.",
    "section": "crowdsourced",
    "recommender": "Ronin (reader)"
@@ -331,8 +380,13 @@
    "name": "Alfred Field Guide",
    "url": "https://learn.macsparky.com/p/alfred-5",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "mac",
+    "productivity",
+    "paid"
+   ],
    "blurb": "I’m looking at the Alfred Field Guide from MacSparky, and trying to see if I can fit it into my budget this month. Been a Powerpack user for years, but I’ve never learned the ins and outs.",
    "section": "crowdsourced",
    "recommender": "Ben (reader)"
@@ -355,7 +409,7 @@
    "name": "Clair Obscur: Expedition 33",
    "url": "https://www.expedition33.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I’ve basically sunk my week into Clair Obscur: Expedition 33 . I don’t want to sound overly dramatic, but I think it’s the biggest jump in mature video game storytelling since The Witcher 3 . Cyberpunk 2077 and Baldur’s Gate 3 improved on The Witcher, but CO feels like something entirely new.",
    "section": "crowdsourced",
@@ -392,8 +446,12 @@
    "name": "KOReader",
    "url": "https://koreader.rocks/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "book"
+   ],
    "blurb": "I’ve spent some time this week on YouTube watching people jailbreak their e-readers — Dammit Jeff has a great explainer, as does Simon Feilder — and they all show that the Kindle can be a much more interesting and versatile device. Also, people really like KOReader .",
    "section": "signing-off",
    "recommender": null

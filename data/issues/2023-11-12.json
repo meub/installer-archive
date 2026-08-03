@@ -39,8 +39,10 @@
    "alt_urls": [
     "https://www.theverge.com/2023/11/9/23953901/humane-ai-pin-launch-date-price-openai"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ai"
+   ],
    "blurb": "Every gadget company has been asking the same question for the last few years: “what comes after smartphones?” So far, it’s… smartphones.",
    "section": "the-drop",
    "recommender": null
@@ -52,8 +54,11 @@
    "alt_urls": [
     "https://www.theverge.com/2023/11/6/23948957/openai-chatgpt-gpt-custom-developer-platform"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "web"
+   ],
    "blurb": "You can now create your own ChatGPT with whatever knowledge, character, and style you want, and it only takes like five minutes . I’m much more bullish on these smaller, more specific AI tools than I am the One True AI Machine idea, and I think these are going to be huge.",
    "section": "the-drop",
    "recommender": null
@@ -63,8 +68,10 @@
    "name": "Planet Earth III",
    "url": "https://www.bbcamerica.com/shows/planet-earth-iii--1064619",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "The first episode of the third entry in the world’s most epic documentary series is out now in the US, and there are a bunch more episodes to come. The drone footage, the natural sound, the things the producers are able to do underwater and in the sky, it’s all just awesome to watch.",
    "section": "the-drop",
    "recommender": null
@@ -74,8 +81,12 @@
    "name": "Aftermath",
    "url": "https://aftermath.site/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "website",
+    "article",
+    "subscription"
+   ],
    "blurb": "A new publication from some great video game reporters who are already off to a strong start covering Zelda , the Steam Deck, Overwatch , and much more. I love a good website, and so far, this is a very good website.",
    "section": "the-drop",
    "recommender": null
@@ -87,8 +98,12 @@
    "alt_urls": [
     "https://www.apple.com/newsroom/2023/11/final-cut-pro-for-mac-and-ipad-get-powerful-updates/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "paid",
+    "video"
+   ],
    "blurb": "Every once in a while, Apple likes to remind Final Cut users that it remembers they exist and does in fact care about them . The big winner this time (and this year in general) is the iPad app, which got a bunch of handy keyboard shortcuts, workflow tricks, and a useful voiceover tool.",
    "section": "the-drop",
    "recommender": null
@@ -115,8 +130,13 @@
    "alt_urls": [
     "https://readdle.com/blog/meet-new-inbox-documents"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "free",
+    "utilities",
+    "productivity"
+   ],
    "blurb": "The Files app on iOS devices is so bad. Its organization makes no sense and moving stuff around is too hard. It’s just bad times all around. Readdle’s app has long been a better option, and it got a big update this week — which includes an inbox that just dumps all your files into one place.",
    "section": "the-drop",
    "recommender": null
@@ -126,8 +146,10 @@
    "name": "Elon, Inc",
    "url": "https://www.bloomberg.com/elon-inc-podcast",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "I’m not at all sure that a weekly podcast about the many chaotic goings-on of the world’s richest person is something I even want in my life, but Bloomberg is doing it really well. It’s chatty but thoughtful, and even the first episode covers a lot of ground.",
    "section": "the-drop",
    "recommender": null
@@ -137,8 +159,12 @@
    "name": "YNAB",
    "url": "https://www.ynab.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "subscription",
+    "productivity"
+   ],
    "blurb": "is the big winner. YNAB, which stands for You Need A Budget, was the overwhelming most popular recommendation I got this week.",
    "section": "group-project",
    "recommender": null
@@ -148,8 +174,13 @@
    "name": "Copilot",
    "url": "https://copilot.money/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "subscription",
+    "productivity"
+   ],
    "blurb": "is the other go-to. Copilot is much more polished than YNAB, and people love the app’s design, its dataviz tools, and just how easy it is to interact with. It’s only for iOS and Mac, which is unfortunate, but as finance apps go, it seems to be unbeatably fun to use.",
    "section": "group-project",
    "recommender": null
@@ -169,8 +200,12 @@
     "https://ledger-cli.org/",
     "https://howl.me/ckYyeAB7rDm"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "subscription"
+   ],
    "blurb": "There are a lot of apps worth a look. Other apps you recommended, in rough order of popularity: Qapital , Buddy , Empower , HomeBank , Expenses , Quicken , EveryDollar , Nudget , Ledger , and Dime .",
    "section": "group-project",
    "recommender": null
@@ -180,8 +215,10 @@
    "name": "Don’t sleep on spreadsheets",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "I heard from a number of people who said they’d tried the apps and built the systems but ultimately landed on a good ol’ spreadsheet in Excel or Google Sheets for tracking their spending.",
    "section": "group-project",
    "recommender": null
@@ -193,8 +230,12 @@
    "alt_urls": [
     "https://www.notion.so/templates/expense-tracker"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "subscription",
+    "productivity"
+   ],
    "blurb": "Templates are your friend! A few people recommended Tiller as a way to make the Excel and Google Sheets setup a little cleaner and more automatic. This Notion template got some love, too.",
    "section": "group-project",
    "recommender": null
@@ -204,8 +245,10 @@
    "name": "The manual way can be the way… but it’s more work",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "Some of you love having custom-built systems that you can tend to for a few minutes a week, and there’s certainly no beating “it’s just a file on your computer that you own.” But almost everyone who recommended this strategy also said it’s a lot of work and can be too easy to give up on.",
    "section": "group-project",
    "recommender": null
@@ -215,8 +258,10 @@
    "name": "Or maybe just use your bank",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "A lot of banks now offer budget tools from right within your banking app, so you can manage your money right next to where it lives. (I hear good things about SoFi’s features on this front.) If you do most or all of your banking in one place, a few folks said this is the way.",
    "section": "group-project",
    "recommender": null
@@ -237,8 +282,12 @@
    "name": "iA Writer",
    "url": "https://ia.net/writer",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "paid",
+    "productivity"
+   ],
    "blurb": "I don’t know if I was channeling Tartt when I decided to regularly use a rotation of five different writing apps. They are iA Writer , Google Docs , Bear , Apple Notes , and Scrivener , and they all have more weaknesses than strengths.",
    "section": "screen-share",
    "recommender": "Kevin"
@@ -248,8 +297,13 @@
    "name": "Google Docs",
    "url": "https://docs.google.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "free",
+    "cross-platform",
+    "productivity"
+   ],
    "blurb": "I don’t know if I was channeling Tartt when I decided to regularly use a rotation of five different writing apps. They are iA Writer , Google Docs , Bear , Apple Notes , and Scrivener , and they all have more weaknesses than strengths.",
    "section": "screen-share",
    "recommender": "Kevin"
@@ -259,8 +313,13 @@
    "name": "Bear",
    "url": "https://bear.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "subscription",
+    "productivity"
+   ],
    "blurb": "I don’t know if I was channeling Tartt when I decided to regularly use a rotation of five different writing apps. They are iA Writer , Google Docs , Bear , Apple Notes , and Scrivener , and they all have more weaknesses than strengths.",
    "section": "screen-share",
    "recommender": "Kevin"
@@ -270,8 +329,13 @@
    "name": "Apple Notes",
    "url": "https://howl.me/ckYyfNZMAmV",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "free",
+    "productivity"
+   ],
    "blurb": "I don’t know if I was channeling Tartt when I decided to regularly use a rotation of five different writing apps. They are iA Writer , Google Docs , Bear , Apple Notes , and Scrivener , and they all have more weaknesses than strengths.",
    "section": "screen-share",
    "recommender": "Kevin"
@@ -281,8 +345,13 @@
    "name": "Scrivener",
    "url": "https://www.literatureandlatte.com/scrivener/overview",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "windows",
+    "paid",
+    "productivity"
+   ],
    "blurb": "I don’t know if I was channeling Tartt when I decided to regularly use a rotation of five different writing apps. They are iA Writer , Google Docs , Bear , Apple Notes , and Scrivener , and they all have more weaknesses than strengths.",
    "section": "screen-share",
    "recommender": "Kevin"
@@ -292,8 +361,10 @@
    "name": "Surround by Hiroshi Yoshimura",
    "url": "https://lightintheattic.net/products/surround",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "Surround by Hiroshi Yoshimura . This recently released ambient record was originally made to be the music of… prefab homes? But it reveals so much on closer listen: shimmering drone, swirls of pleasing synths, a touch of humor.",
    "section": "screen-share",
    "recommender": "Kevin"
@@ -303,8 +374,10 @@
    "name": "Same Bed Different Dreams by Ed Park",
    "url": "https://www.penguinrandomhouse.com/books/254786/same-bed-different-dreams-by-ed-park/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Surround by Hiroshi Yoshimura . This recently released ambient record was originally made to be the music of… prefab homes? But it reveals so much on closer listen: shimmering drone, swirls of pleasing synths, a touch of humor.",
    "section": "screen-share",
    "recommender": "Kevin"
@@ -327,8 +400,12 @@
    "name": "RetroAchievements",
    "url": "https://retroachievements.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "website",
+    "free"
+   ],
    "blurb": "There’s a website called RetroAchievements that adds trophies to old-school games. It’s a great excuse to go back and play games from your childhood or games you never got around to playing.",
    "section": "crowdsourced",
    "recommender": "Nick (reader)"
@@ -360,8 +437,10 @@
    "name": "The Kids of Rutherford County",
    "url": "https://www.nytimes.com/column/the-kids-of-rutherford-county",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Just finished The Kids of Rutherford County , the new podcast from the Serial folks, and it was great. Reading Adam Grant’s new book, Hidden Potential . Not done yet, but it’s excellent so far, especially for someone like me who struggles with imposter syndrome.",
    "section": "crowdsourced",
    "recommender": "Nick (reader)"
@@ -371,8 +450,10 @@
    "name": "Hidden Potential",
    "url": "https://adamgrant.net/book/hidden-potential/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Just finished The Kids of Rutherford County , the new podcast from the Serial folks, and it was great. Reading Adam Grant’s new book, Hidden Potential . Not done yet, but it’s excellent so far, especially for someone like me who struggles with imposter syndrome.",
    "section": "crowdsourced",
    "recommender": "Nick (reader)"
@@ -382,8 +463,11 @@
    "name": "Castro",
    "url": "https://castro.fm/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "podcast",
+    "ios"
+   ],
    "blurb": "Castro , my favorite podcast app. I appreciate the way that it treats episodes more like emails so I can queue, save for later, or delete them individually. After using it, I can’t move to any other podcast app.",
    "section": "crowdsourced",
    "recommender": "Mike (reader)"
@@ -406,7 +490,7 @@
    "name": "Chants of Sennaar",
    "url": "https://www.focus-entmt.com/en/games/chants-of-sennaar",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I’m playing a game called Chants of Sennaar right now, and it is unlike any other puzzle / logic game I have played. You wake up in a tower with different classes of people on each level, and they all speak different languages (and obviously, you don’t know any of them).",
    "section": "crowdsourced",
@@ -417,8 +501,12 @@
    "name": "Beli",
    "url": "https://beliapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "social",
+    "travel"
+   ],
    "blurb": "I stumbled upon the Beli app for tracking and discovering restaurants, and it is by far the best option for that sort of thing, far better than a crowded Google Maps or noisy FourSquare.",
    "section": "crowdsourced",
    "recommender": "Rich (reader)"
@@ -428,8 +516,11 @@
    "name": "60 Songs That Explain the ‘90s",
    "url": "https://www.theringer.com/60-songs-that-explain-the-90s",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "music"
+   ],
    "blurb": "I have recently gotten into the 60 Songs That Explain the ‘90s podcast. I am definitely not an early adopter here but am loving the deep dives on the songs paired with just the right amount of sarcasm and history.",
    "section": "crowdsourced",
    "recommender": "Antek (reader)"
@@ -452,8 +543,11 @@
    "name": "Kriegs.net",
    "url": "https://www.kriegs.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "free"
+   ],
    "blurb": "For over 15 years I have made a regular pilgrimage to Kriegs.net to check out the wallpaper that he puts out consistently by the start of the month. The design is usually themed to the season and comes with the option of a calendar in the image.",
    "section": "crowdsourced",
    "recommender": "Jonathan (reader)"
@@ -463,8 +557,10 @@
    "name": "answering people’s questions",
    "url": "https://www.tumblr.com/photomatt",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "social"
+   ],
    "blurb": "This weekend, pour one out for Tumblr, one of the most interesting social networks on the internet, which appears to be in trouble . It’s not dying, but it’s not… not dying, you know?",
    "section": "signing-off",
    "recommender": null

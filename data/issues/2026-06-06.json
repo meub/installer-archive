@@ -39,7 +39,7 @@
    "name": "Lego’s Smart Play Pokémon",
    "url": "https://www.lego.com/en-us/themes/pokemon",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I’m still torn on Lego’s whole Smart Brick concept, which has lots of potential but not much actual cool use right now. But I suspect a lot of us are going to want to preorder the 12 new interactive Pokémon sets before they come out in August. I want that Jigglypuff bad.",
    "section": "the-drop",
@@ -52,7 +52,7 @@
    "alt_urls": [
     "https://press.na.square-enix.com/FINAL-FANTASY-VII-REBIRTH-AVAILABLE-NOW-ON-NINTENDO-SWITCH-2-AND-XBOX-"
    ],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Yeah, fine, whatever, this is a two-year-old game, but it’s finally on Xbox and Switch! I know how many FF fans there are out there, and by all accounts this is one of the series’ best titles.",
    "section": "the-drop",
@@ -63,8 +63,10 @@
    "name": "The Shokz OpenDots Air",
    "url": "https://shokz.com/pages/opendots-air?irclickid=0b8yce3zrxyZU:6yH4yNnW:KUkuWrF0V03VeUM0&sharedid=&irpid=482924&irgwc=1&afsrc=1",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "This kind of clip-on, open-ear headphone definitely isn’t for everyone, but I love them for the times when I want to listen to music or a podcast without actually disconnecting from the real world — and I’m psyched to see a cheaper model.",
    "section": "the-drop",
    "recommender": null
@@ -76,8 +78,11 @@
    "alt_urls": [
     "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "windows",
+    "ai"
+   ],
    "blurb": "I am fascinated by Nvidia’s new RTX Spark chip lineup, and the whole PC industry’s bet that AI will change the way we use our laptops forever.",
    "section": "the-drop",
    "recommender": null
@@ -103,7 +108,7 @@
    "name": "The Corasir Nightsword V2 mouse",
    "url": "https://go.corsair.com/c/482924/490888/8513?u=https%3A%2F%2Fwww.corsair.com%2Fus%2Fen%2Fp%2Fgaming-mouse%2Fch-931e010-ww%2Fnightsword-v2-wireless-stream-deck-gaming-mouse-ch-931e010-ww&partnerpropertyid=7032191",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "“Nightsword” is just a hilariously overwrought name for a computer mouse, but I love the idea of a dedicated button for launching Stream Deck controls.",
    "section": "the-drop",
@@ -116,8 +121,11 @@
    "alt_urls": [
     "https://forum.wiimhome.com/threads/introducing-wiim-bar-see-the-sound-build-the-theater.9835/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music",
+    "smart-home"
+   ],
    "blurb": "Lotta WiiM fans out here in the Installerverse, so this is exciting news: a soundbar with pretty impressive specs and plenty of connectivity (other than AirPlay, alas), all for $479.",
    "section": "the-drop",
    "recommender": null
@@ -149,8 +157,11 @@
    "name": "Niagara Launcher",
    "url": "https://niagaralauncher.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android",
+    "utilities"
+   ],
    "blurb": "I’m running the always amazing Niagara Launcher . I have a custom widget of an app I built called In Your Space, which is a shameless rip-off of the iOS app In Your Face .",
    "section": "screen-share",
    "recommender": "Justin"
@@ -160,8 +171,11 @@
    "name": "In Your Face",
    "url": "https://www.inyourface.app/ios/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "I’m running the always amazing Niagara Launcher . I have a custom widget of an app I built called In Your Space, which is a shameless rip-off of the iOS app In Your Face .",
    "section": "screen-share",
    "recommender": "Justin"
@@ -171,8 +185,11 @@
    "name": "Audiobookshelf",
    "url": "https://www.audiobookshelf.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "book"
+   ],
    "blurb": "I’m running Audiobookshelf for audiobooks, and Vivaldi for my browser. No YouTube, no TikTok, just pure productivity and connectivity. Claude is also pinging me about some code it wrote in my notification banner.",
    "section": "screen-share",
    "recommender": "Justin"
@@ -182,8 +199,11 @@
    "name": "Vivaldi",
    "url": "https://vivaldi.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "web"
+   ],
    "blurb": "I’m running Audiobookshelf for audiobooks, and Vivaldi for my browser. No YouTube, no TikTok, just pure productivity and connectivity. Claude is also pinging me about some code it wrote in my notification banner.",
    "section": "screen-share",
    "recommender": "Justin"
@@ -193,8 +213,12 @@
    "name": "Claude",
    "url": "https://claude.ai/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "cross-platform",
+    "productivity"
+   ],
    "blurb": "I’m running Audiobookshelf for audiobooks, and Vivaldi for my browser. No YouTube, no TikTok, just pure productivity and connectivity. Claude is also pinging me about some code it wrote in my notification banner.",
    "section": "screen-share",
    "recommender": "Justin"
@@ -204,8 +228,10 @@
    "name": "Xteink",
    "url": "https://www.xteink.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "book"
+   ],
    "blurb": "As someone who spends 16-odd hours a day working on a computer, I’m currently enjoying anything that gets me away from a backlight and holding something tactile. My Xteink is always in my pocket, and I blow through chapters of my books instead of doomscrolling on my phone now.",
    "section": "screen-share",
    "recommender": "Justin"
@@ -215,8 +241,10 @@
    "name": "the Threshold series",
    "url": "https://www.peterclines.com/book-category/the-threshold-universe/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’ve been finishing up the rest of the Threshold series of books by Peter Clines and listening to the latest Dungeon Crawler Carl book. Kinfire Delve is a fantastic series of co-op board games my wife and I are quite enjoying right now.",
    "section": "screen-share",
    "recommender": "Justin"
@@ -226,8 +254,10 @@
    "name": "the latest Dungeon Crawler Carl",
    "url": "https://www.penguinrandomhouse.com/series/43C/dungeon-crawler-carl/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’ve been finishing up the rest of the Threshold series of books by Peter Clines and listening to the latest Dungeon Crawler Carl book. Kinfire Delve is a fantastic series of co-op board games my wife and I are quite enjoying right now.",
    "section": "screen-share",
    "recommender": "Justin"
@@ -237,7 +267,7 @@
    "name": "Kinfire Delve",
    "url": "https://kinfirechronicles.com/pages/delve",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "I’ve been finishing up the rest of the Threshold series of books by Peter Clines and listening to the latest Dungeon Crawler Carl book. Kinfire Delve is a fantastic series of co-op board games my wife and I are quite enjoying right now.",
    "section": "screen-share",
@@ -248,7 +278,7 @@
    "name": "Zorbles",
    "url": "https://zorbles.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "I’ve been finishing up the rest of the Threshold series of books by Peter Clines and listening to the latest Dungeon Crawler Carl book. Kinfire Delve is a fantastic series of co-op board games my wife and I are quite enjoying right now.",
    "section": "screen-share",
@@ -259,8 +289,10 @@
    "name": "Roost",
    "url": "https://roostsocial.app/index.html",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social"
+   ],
    "blurb": "Been having fun with Roost . It’s a messaging app that delivers a message at the speed of whatever bird you are sending.",
    "section": "crowdsourced",
    "recommender": "Michiel (reader)"
@@ -270,8 +302,12 @@
    "name": "LazyVim",
    "url": "https://www.lazyvim.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "utilities"
+   ],
    "blurb": "I just started using LazyVim , and it may actually replace a niche use case for me. I use Jetbrains for most coding, but every once in a while I just need to edit a Python or JS script and not wait for PyCharm or VS Code to launch. LazyVim gives me the IDE experience without the bloat.",
    "section": "crowdsourced",
    "recommender": "Kevin (reader)"
@@ -281,8 +317,12 @@
    "name": "Jetbrains",
    "url": "https://www.jetbrains.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "paid",
+    "productivity"
+   ],
    "blurb": "I just started using LazyVim , and it may actually replace a niche use case for me. I use Jetbrains for most coding, but every once in a while I just need to edit a Python or JS script and not wait for PyCharm or VS Code to launch. LazyVim gives me the IDE experience without the bloat.",
    "section": "crowdsourced",
    "recommender": "Kevin (reader)"
@@ -305,7 +345,7 @@
    "name": "Clicks Power Keyboard",
    "url": "https://www.clicks.tech/powerkeyboard",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I am constantly watching for updates on my Clicks Power Keyboard , which have now started shipping to folks. Can’t wait to get my clickity clackity typing on without having to use the full (large) case on my Pixel 10 Pro.",
    "section": "crowdsourced",
@@ -316,8 +356,12 @@
    "name": "Tuna",
    "url": "https://tunaformac.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "utilities",
+    "productivity"
+   ],
    "blurb": "Using Tuna to configure my workflow on my newly acquired IBM M2 keyboard. There’s a ton of Mac launchers out there, but Tuna is quick. It’s also configurable enough to make it powerful, but doesn’t feel like overkill like Raycast.",
    "section": "crowdsourced",
    "recommender": "Mike (reader)"
@@ -327,8 +371,10 @@
    "name": "Humans",
    "url": "https://www.humanswithhank.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Hank Green has a new podcast, Humans .",
    "section": "crowdsourced",
    "recommender": "Stefan (reader)"
@@ -338,7 +384,7 @@
    "name": "Marathon",
    "url": "https://www.marathonthegame.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Marathon season two is spooky now, with a night map that’s actually dark, and gear was wiped, so everyone’s on (near) equal footing. It’s a great game that deserves more praise and attention.",
    "section": "crowdsourced",
@@ -349,8 +395,10 @@
    "name": "Sesame",
    "url": "https://www.sesame.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai"
+   ],
    "blurb": "Sesame . It’s a voice dialog with an AI bot to talk about pretty much anything. They don’t mention friendship or anything like that, although maybe it’s possible. I used it to explain details of a few topics that I needed to learn about. Conversations are extremely realistic.",
    "section": "crowdsourced",
    "recommender": "Jay (reader)"
@@ -360,8 +408,12 @@
    "name": "Layr",
    "url": "https://layr.mhyks.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "productivity",
+    "utilities"
+   ],
    "blurb": "Unlike traditional clipboard managers that rely on keyboard shortcuts, Layr is designed from the ground up to be activated via trackpad gestures. The app’s design and gesture-first approach actually convinced me to replace Maccy .",
    "section": "crowdsourced",
    "recommender": "Travis (reader)"
@@ -371,8 +423,13 @@
    "name": "Maccy",
    "url": "https://maccy.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "open-source",
+    "utilities",
+    "free"
+   ],
    "blurb": "Unlike traditional clipboard managers that rely on keyboard shortcuts, Layr is designed from the ground up to be activated via trackpad gestures. The app’s design and gesture-first approach actually convinced me to replace Maccy .",
    "section": "crowdsourced",
    "recommender": "Travis (reader)"
@@ -382,8 +439,12 @@
    "name": "Swish",
    "url": "https://highlyopinionated.co/swish/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "productivity",
+    "utilities"
+   ],
    "blurb": "Unlike traditional clipboard managers that rely on keyboard shortcuts, Layr is designed from the ground up to be activated via trackpad gestures. The app’s design and gesture-first approach actually convinced me to replace Maccy .",
    "section": "crowdsourced",
    "recommender": "Travis (reader)"
@@ -393,8 +454,10 @@
    "name": "RingConn Gen 2 Air",
    "url": "https://ringconn.com/products/ringconn-gen-2-air?variant=48494897791284",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "fitness"
+   ],
    "blurb": "I got the RingConn Gen 2 Air about a year ago for $200. There’s no subscription, it looks like any other smart ring, the battery lasts for a week, and it tracks workouts and sleep. I would think that for the people (like me!)",
    "section": "crowdsourced",
    "recommender": "Bruce (reader)"
@@ -417,8 +480,11 @@
    "name": "a terrific interview to Polygon",
    "url": "https://www.polygon.com/toy-story-5-director-interview/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "movie"
+   ],
    "blurb": "There are a lot of big movies coming out this summer, but in my house the only one that matters is Toy Story 5 .",
    "section": "signing-off",
    "recommender": null
@@ -428,8 +494,11 @@
    "name": "has some thoughts",
    "url": "https://www.bbc.com/news/articles/cy5222wn410o",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "movie"
+   ],
    "blurb": "There are a lot of big movies coming out this summer, but in my house the only one that matters is Toy Story 5 .",
    "section": "signing-off",
    "recommender": null

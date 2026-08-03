@@ -36,8 +36,10 @@
    "name": "The Fairphone 6",
    "url": "https://shop.fairphone.com/the-fairphone-gen-6",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "Fairphone is doing some of the most ambitious, most interesting work in the smartphone biz right now, and the new model looks really nice. It ships with a simplified take on Android, upgradeable and modular parts, and an increasingly small list of tradeoffs. I really hope this phone’s a hit.",
    "section": "the-drop",
    "recommender": null
@@ -62,7 +64,7 @@
    "alt_urls": [
     "https://www.theverge.com/games/691316/death-stranding-2-woodkid-kojima-music-player"
    ],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Death Stranding was a video game mostly about walking, and that totally worked for lots of gamers. The new one is just as meditative but even bigger, with more to do and more to explore. I hear great things about the music , too.",
    "section": "the-drop",
@@ -73,8 +75,11 @@
    "name": "11.ai",
    "url": "http://11.ai",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web"
+   ],
    "blurb": "ElevenLabs continues to do really interesting stuff with AI voices, and this is probably its most complete product yet — a supercustomizable voice assistant that uses MCP to connect to lots of other apps and services.",
    "section": "the-drop",
    "recommender": null
@@ -99,7 +104,7 @@
    "alt_urls": [
     "https://www.theverge.com/hands-on/690978/meta-quest-3s-xbox-edition-vr-headset-release-date-pricing"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Two big wins here: the Xbox black and green is a vastly better-looking color scheme for the Quest than the normal off-white colors, and an Xbox controller makes a lot of games easier to play in the headset.",
    "section": "the-drop",
@@ -110,8 +115,10 @@
    "name": "Long Shadow: Breaking the Internet",
    "url": "https://longlead.com/article/long-shadow",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Every season of the Long Shadow podcast has been good, but these seven episodes — about the ways that technology has changed us in deeper ways than we even realize — are particularly up my alley.",
    "section": "the-drop",
    "recommender": null
@@ -145,8 +152,12 @@
    "name": "NYT Games",
    "url": "https://www.nytimes.com/crosswords",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android",
+    "subscription"
+   ],
    "blurb": "NYT Games gets prominent placement because my mom, sister, and I text each other our Connections results every day as a proof-of-life check-in. The NYTimes app is there to keep the Games app company.",
    "section": "screen-share",
    "recommender": "Travis"
@@ -156,8 +167,12 @@
    "name": "NYTimes",
    "url": "https://www.nytimes.com/app",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "subscription"
+   ],
    "blurb": "NYT Games gets prominent placement because my mom, sister, and I text each other our Connections results every day as a proof-of-life check-in. The NYTimes app is there to keep the Games app company.",
    "section": "screen-share",
    "recommender": "Travis"
@@ -180,8 +195,10 @@
    "name": "Game Changer",
    "url": "https://www.dropout.tv/game-changer",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "The current seasons of Taskmaster , Game Changer , Dimension 20 and Jet Lag: The Game . Evangelizing the Toadette + Tune Thumper combo in Mario Kart World . I just started GMing my fourth online TTRPG with a group of friends I’ve been playing with for years.",
    "section": "screen-share",
    "recommender": "Travis"
@@ -191,8 +208,10 @@
    "name": "Dimension 20",
    "url": "https://www.dropout.tv/dimension-20",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "The current seasons of Taskmaster , Game Changer , Dimension 20 and Jet Lag: The Game . Evangelizing the Toadette + Tune Thumper combo in Mario Kart World . I just started GMing my fourth online TTRPG with a group of friends I’ve been playing with for years.",
    "section": "screen-share",
    "recommender": "Travis"
@@ -215,8 +234,10 @@
    "name": "Masquerade",
    "url": "https://masqueradenyc.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "The current seasons of Taskmaster , Game Changer , Dimension 20 and Jet Lag: The Game . Evangelizing the Toadette + Tune Thumper combo in Mario Kart World . I just started GMing my fourth online TTRPG with a group of friends I’ve been playing with for years.",
    "section": "screen-share",
    "recommender": "Travis"
@@ -226,8 +247,11 @@
    "name": "Cool Tools",
    "url": "https://kk.org/cooltools/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "web"
+   ],
    "blurb": "Cool Tools have been around for 25 years, they have a podcast and have even published a book with the same name. It is a web site which recommends the best / cheapest tools available. This includes hand tools, machines, books, software, gadgets, websites, maps, and even ideas.",
    "section": "crowdsourced",
    "recommender": "Sinan (reader)"
@@ -237,8 +261,10 @@
    "name": "a podcast",
    "url": "https://kk.org/cooltools/category/podcast-2/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Cool Tools have been around for 25 years, they have a podcast and have even published a book with the same name. It is a web site which recommends the best / cheapest tools available. This includes hand tools, machines, books, software, gadgets, websites, maps, and even ideas.",
    "section": "crowdsourced",
    "recommender": "Sinan (reader)"
@@ -248,8 +274,10 @@
    "name": "a book",
    "url": "https://kk.org/cooltools/cool-tools-a-catalog-of-possibilities/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Cool Tools have been around for 25 years, they have a podcast and have even published a book with the same name. It is a web site which recommends the best / cheapest tools available. This includes hand tools, machines, books, software, gadgets, websites, maps, and even ideas.",
    "section": "crowdsourced",
    "recommender": "Sinan (reader)"
@@ -259,8 +287,12 @@
    "name": "live feeds",
    "url": "https://www.allaboutbirds.org/cams/red-tailed-hawks/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "free",
+    "web"
+   ],
    "blurb": "The red-tailed hawks’ nest at Cornell (and a bunch of other types of birds) have live feeds you can watch if you’re stressed out.",
    "section": "crowdsourced",
    "recommender": "Hayden (reader)"
@@ -270,8 +302,11 @@
    "name": "List",
    "url": "https://llllllll.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "productivity"
+   ],
    "blurb": "List , with the too-cute-for-its-own-good URL llllllll.io (that’s eight of them), one of the nicest tools to put all the information you care about in order. It basically lets you make lists, and encourages you to get creative with them.",
    "section": "crowdsourced",
    "recommender": "Cosmin (reader)"
@@ -281,8 +316,11 @@
    "name": "llllllll.io",
    "url": "http://llllllll.io",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "productivity"
+   ],
    "blurb": "List , with the too-cute-for-its-own-good URL llllllll.io (that’s eight of them), one of the nicest tools to put all the information you care about in order. It basically lets you make lists, and encourages you to get creative with them.",
    "section": "crowdsourced",
    "recommender": "Cosmin (reader)"
@@ -292,8 +330,10 @@
    "name": "Playing at the World",
    "url": "https://mitpress.mit.edu/9780262548779/playing-at-the-world-2e-volume-1/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Reading the recently-released, Playing at the World by Jon Peterson. It’s THE authoritative source on the origins of D&D, and by extension the invention of role-playing games and the origins of all the game mechanics that we take for granted from video games.",
    "section": "crowdsourced",
    "recommender": "Jonathan (reader)"
@@ -316,7 +356,7 @@
    "name": "Tony Hawk’s Pro Skater 1+2",
    "url": "https://www.tonyhawkthegame.com/1+2",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Currently watching King of the Road (the Vice series, available on YouTube). Also playing a ton of Tony Hawk’s Pro Skater 1+2 , and the original THPS3 on my Steam Deck with Partymod. All of this skateboarding media made me pick up a longboard too, which has been fun so far!",
    "section": "crowdsourced",
@@ -327,8 +367,10 @@
    "name": "Post Games",
    "url": "https://shows.acast.com/post-games",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "The newish podcast Post Games from Chris Plante, former editor in chief and co-founder of Polygon . Great weekly dives into under-covered aspects of gaming news.",
    "section": "crowdsourced",
    "recommender": "Nick (reader)"
@@ -338,8 +380,11 @@
    "name": "Every 5x5 Nonogram",
    "url": "https://pixelogic.app/every-5x5-nonogram#20750726",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "Trying to solve Every 5x5 Nonogram (Picross for the Nintendo fans) with a community of people around the world. About half of the 25 million solutions are done. I’ve contributed about 650 so far.",
    "section": "crowdsourced",
    "recommender": "Sam (reader)"
@@ -349,8 +394,11 @@
    "name": "AppBlock",
    "url": "https://appblock.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android",
+    "productivity"
+   ],
    "blurb": "I beat my phone addiction using the AppBlock Android app. It has a strict mode that makes it almost impossible to access blocked apps or websites. I also found a daily routine app that works for me.",
    "section": "crowdsourced",
    "recommender": "Jakub (reader)"
@@ -360,8 +408,11 @@
    "name": "RoutineFlow",
    "url": "https://routineflow.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android",
+    "productivity"
+   ],
    "blurb": "I beat my phone addiction using the AppBlock Android app. It has a strict mode that makes it almost impossible to access blocked apps or websites. I also found a daily routine app that works for me.",
    "section": "crowdsourced",
    "recommender": "Jakub (reader)"
@@ -371,8 +422,10 @@
    "name": "Dungeon Crawler Carl",
    "url": "https://www.penguinrandomhouse.com/series/43C/dungeon-crawler-carl/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "The book series Dungeon Crawler Carl by Matt Dinniman is fantastic! The series is funny and engaging — I tore through all seven books in two weeks and couldn’t put them down!",
    "section": "crowdsourced",
    "recommender": "Kyle (reader)"
@@ -382,7 +435,7 @@
    "name": "USPCC decks",
    "url": "https://playingcarddecks.com/collections/uspcc",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Trying to learn cardistry with my USPCC decks that came in earlier today. They’re a big step up from the dollar store playing cards I was using before. (I got the gorgeous unicorn-themed cards and the low-poly skull-themed ones called Memento Mori Genesis .)",
    "section": "crowdsourced",
@@ -393,7 +446,7 @@
    "name": "unicorn-themed cards",
    "url": "https://playingcarddecks.com/products/unicorn-bicycle-playing-cards",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Trying to learn cardistry with my USPCC decks that came in earlier today. They’re a big step up from the dollar store playing cards I was using before. (I got the gorgeous unicorn-themed cards and the low-poly skull-themed ones called Memento Mori Genesis .)",
    "section": "crowdsourced",
@@ -404,7 +457,7 @@
    "name": "Memento Mori Genesis",
    "url": "https://playingcarddecks.com/products/memento-mori-genesis-playing-cards-uspcc",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Trying to learn cardistry with my USPCC decks that came in earlier today. They’re a big step up from the dollar store playing cards I was using before. (I got the gorgeous unicorn-themed cards and the low-poly skull-themed ones called Memento Mori Genesis .)",
    "section": "crowdsourced",
@@ -415,8 +468,11 @@
    "name": "She’s A Beast",
    "url": "https://www.shesabeast.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "newsletter",
+    "fitness"
+   ],
    "blurb": "A while back, I had Casey Johnston, author of She’s A Beast and A Physical Education , on the Vergecast to talk about phone usage .",
    "section": "signing-off",
    "recommender": null
@@ -426,8 +482,11 @@
    "name": "A Physical Education",
    "url": "https://www.caseyjohnston.website/my-work/a-physical-education",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "fitness"
+   ],
    "blurb": "A while back, I had Casey Johnston, author of She’s A Beast and A Physical Education , on the Vergecast to talk about phone usage .",
    "section": "signing-off",
    "recommender": null
@@ -437,8 +496,10 @@
    "name": "an extra Android device",
    "url": "https://intl.nothing.tech/products/cmf-phone-2-pro?Colour=Orange&Capacity=8+128GB",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "Friends, I did that, and it rules. (I had an extra Android device lying around, but you can buy a pretty good one for a couple hundred bucks.)",
    "section": "signing-off",
    "recommender": null

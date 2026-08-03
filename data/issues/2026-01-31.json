@@ -34,8 +34,12 @@
    "name": "Yahoo Scout",
    "url": "https://scout.yahoo.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web",
+    "free"
+   ],
    "blurb": "This is already straight-up my favorite AI search product on the web. It has lots of links, it’s not weirdly friendly or overly complex — it’s kind of like an auto-generating Wikipedia page, on whatever subject you pick. Just make sure you click the links instead of believing the bot, you know?",
    "section": "the-drop",
    "recommender": null
@@ -45,8 +49,11 @@
    "name": "Crushable",
    "url": "https://www.yahoo.com/games/play/crushable/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "Big week for Yahoo, apparently! This is Wordle meets Candy Crush , if that makes any sense? I do like the idea of a finite version of games like this that incentivize you to just play a few minutes a day. Also, TIL the Yahoo Games app exists. And is pretty good.",
    "section": "the-drop",
    "recommender": null
@@ -56,8 +63,12 @@
    "name": "OpenClaw",
    "url": "https://openclaw.ai/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "open-source",
+    "free"
+   ],
    "blurb": "Don’t call it Moltbot, or Clawdbot — it’s apparently OpenClaw now. Whatever the name, this tool for controlling your devices with AI and messaging apps has absolutely taken over the internet. Use it with caution, but my goodness is it powerful.",
    "section": "the-drop",
    "recommender": null
@@ -95,8 +106,12 @@
    "name": "Halide Mark III",
    "url": "https://www.lux.camera/mark-iii-looks/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "photography",
+    "paid"
+   ],
    "blurb": "A big (though still in preview) upgrade to one of the best iOS camera apps. Process Zero is one of the best ways to take phone pictures, if you ask me, and I already dig the new film-simulation preset as well.",
    "section": "the-drop",
    "recommender": null
@@ -106,8 +121,11 @@
    "name": "The Sonos Amp Multi",
    "url": "https://www.sonos.com/en-us/shop/amp-multi/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music",
+    "smart-home"
+   ],
    "blurb": "The first new Sonos hardware in a minute, and it’s not exactly a mainstream gadget: It’s meant for people designing and installing huge and complex systems. But hey, if that’s you, this thing might be a godsend.",
    "section": "the-drop",
    "recommender": null
@@ -117,8 +135,11 @@
    "name": "Chrome auto browse",
    "url": "https://www.google.com/chrome/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "web"
+   ],
    "blurb": "AI agents are quickly becoming table stakes for any web browser, despite the fact they don’t often work very well. But frankly, if anyone can put the pieces together successfully and navigate the web on your behalf, it’s Google. I’ll be testing this one a lot.",
    "section": "the-drop",
    "recommender": null
@@ -139,8 +160,11 @@
    "name": "BitCam",
    "url": "https://iconfactory.com/bc.html",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "photography"
+   ],
    "blurb": "In the lower-left corner is BitCam . If you have an attachment to the original black-and-white dithering algorithm, and like the way high-contrast photos look in it, it’s for you.",
    "section": "screen-share",
    "recommender": "Mims"
@@ -150,8 +174,11 @@
    "name": "Hark",
    "url": "https://harkaudio.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "photography"
+   ],
    "blurb": "In the lower-left corner is BitCam . If you have an attachment to the original black-and-white dithering algorithm, and like the way high-contrast photos look in it, it’s for you.",
    "section": "screen-share",
    "recommender": "Mims"
@@ -161,8 +188,12 @@
    "name": "Bluesky",
    "url": "https://bsky.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "cross-platform",
+    "free"
+   ],
    "blurb": "Bluesky is good now, just don’t tell anyone. The BBC has started posting really deep cuts from its archive , including a documentary about windmills that is so painterly it could be screened at MoMA. I remain a forever Polytopia addict, it calms me.",
    "section": "screen-share",
    "recommender": "Mims"
@@ -198,8 +229,12 @@
    "name": "Polytopia",
    "url": "https://polytopia.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android",
+    "paid"
+   ],
    "blurb": "Bluesky is good now, just don’t tell anyone. The BBC has started posting really deep cuts from its archive , including a documentary about windmills that is so painterly it could be screened at MoMA. I remain a forever Polytopia addict, it calms me.",
    "section": "screen-share",
    "recommender": "Mims"
@@ -235,8 +270,10 @@
    "name": "The Roottrees are Dead",
    "url": "https://roottrees.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "paid"
+   ],
    "blurb": "I’ve been obsessing over The Roottrees are Dead , a game where you play an investigator in 1998 attempting to put together a family tree. You do this using era-appropriate internet search engines and a corkboard with string. Also the soundtrack that plays is the perfect vibe.",
    "section": "crowdsourced",
    "recommender": "Jonathan (reader)"
@@ -246,8 +283,10 @@
    "name": "these Matter-enabled Tapo ones",
    "url": "https://www.tp-link.com/us/home-networking/smart-switch/tapo-s505/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "I use Apple’s Home app to control all the smart stuff in the house. I installed Wemo light switches six-ish years ago. They never worked consistently. Recently swapped them out for these Matter-enabled Tapo ones .",
    "section": "crowdsourced",
    "recommender": "Ryan (reader)"
@@ -257,8 +296,10 @@
    "name": "Mecha Comet",
    "url": "https://mecha.so/comet",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "open-source"
+   ],
    "blurb": "The Mecha Comet is a modular Linux handheld and I’ve fallen in love with it!",
    "section": "crowdsourced",
    "recommender": "@trainsandinternet (reader)"
@@ -305,8 +346,10 @@
    "name": "Fiio Snowsky Disc",
    "url": "https://www.aliexpress.com/p/wiki/article.html?keywords=fiio-launched-the-snowsky-disc-an-affordable-retro-inspired-music-player",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "My Fiio Snowsky Disc DAP AliExpress order came in last weekend, and I’ve been having lots of fun with it this week. It’s modeled to call back to an earlier generation of music players, this time a minidisc unit.",
    "section": "crowdsourced",
    "recommender": "Brian (reader)"
@@ -316,8 +359,12 @@
    "name": "Pokémon TCG Pocket",
    "url": "https://tcgpocket.pokemon.com/en-us/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "The newest Pokémon TCG Pocket update just dropped this week, so I’ll be ripping packs and building some fun new decks. Excited about Stadium cards finally in the game!",
    "section": "crowdsourced",
    "recommender": "Bob (reader)"
@@ -327,7 +374,7 @@
    "name": "Blood on the Clocktower",
    "url": "https://bloodontheclocktower.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "I wanted to recommend Blood on the Clocktower :) It’s a social deduction game, similar to Mafia, Werewolf, or Among Us , but it has the added advantage of making every role useful and players can participate even after their death.",
    "section": "crowdsourced",
@@ -364,8 +411,10 @@
    "name": "wrote a great essay",
    "url": "https://www.inkandswitch.com/essay/local-first/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "The team at Ink & Switch wrote a great essay about local-first software a while back, and this week I stumbled on CultRepo’s 10-minute YouTube doc that digs in on the concept even more.",
    "section": "signing-off",
    "recommender": null

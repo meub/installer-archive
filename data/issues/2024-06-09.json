@@ -23,8 +23,11 @@
    "name": "The Raspberry Pi AI Kit",
    "url": "https://www.raspberrypi.com/products/ai-kit/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ai",
+    "open-source"
+   ],
    "blurb": "This is my kind of AI PC: a super simple $70 kit that works with a Raspberry Pi 5 and gives you a surprising amount of power with which to do simple processing tasks. I don’t even know what I’ll use this for! But I’m getting one anyway.",
    "section": "the-drop",
    "recommender": null
@@ -52,8 +55,10 @@
     "https://www.wired.com/story/inside-biggest-fbi-sting-operation-in-history/",
     "https://www.404media.co/dark-wire-inside-a-kidnapping-planned-on-the-fbis-secret-chat-app/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "This is as good a premise for a book as I’ve ever seen: the story of the FBI’s secret tech startup, designed to track some of the world’s most sophisticated criminals. A few places have published excerpts , and I already can’t put this book down.",
    "section": "the-drop",
    "recommender": null
@@ -63,8 +68,10 @@
    "name": "Building SimCity",
    "url": "https://www.penguinrandomhouse.com/books/744393/building-simcity-by-chaim-gingold-foreword-by-janet-h-murray/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Two books this week! You love to see it. This is a story all about SimCity, yes, but also about the history of computer simulation, with lots of photos and diagrams to go with it. One for the coffee table for sure.",
    "section": "the-drop",
    "recommender": null
@@ -76,7 +83,7 @@
    "alt_urls": [
     "https://www.theverge.com/2024/6/6/24172761/rivian-r1t-r1s-refresh-update-motor-battery-price"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Same look, same funky headlight design, totally new car underneath. A lot of what Rivian’s doing here is clearly just to keep costs down , but this continues to be the EV I lust after the most.",
    "section": "the-drop",
@@ -102,8 +109,12 @@
    "alt_urls": [
     "https://www.theverge.com/23915813/sequel-sofa-media-tracking-apps-roblox-razr-big-vape-installer-newsletter"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "productivity"
+   ],
    "blurb": "A very cool update to the Installerverse’s favorite media tracking app for Apple devices. The new feature is called Magic Lookup, and it lets you send a URL to the app and have it automatically parsed and dumped into your lists.",
    "section": "the-drop",
    "recommender": null
@@ -113,7 +124,7 @@
    "name": "The ModRetro Chromatic",
    "url": "https://modretro.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "The retro gaming hardware boom we’re in right now is just the best thing. And this, a $199 Game Boy homage from a team led by Palmer Luckey, looks great. It’s not shipping until the end of the year, but it’s up for preorders now.",
    "section": "the-drop",
@@ -126,8 +137,10 @@
    "alt_urls": [
     "https://www.theverge.com/2024/6/2/24169709/asus-rog-ally-x-price-release-date-inside-gaming-handheld"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "windows"
+   ],
    "blurb": "Speaking of portable consoles! This one’s a lot bigger, a lot more expensive, and a lot more ambitious than the Chromatic — but it also sounds pretty great. Maybe this is the first Windows handheld that can really stand up to the Steam Deck ?",
    "section": "the-drop",
    "recommender": null
@@ -139,8 +152,10 @@
    "alt_urls": [
     "https://www.macstories.net/npc/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Fun new podcast from the MacStories crew, with a gimmick I really like: every week, the three hosts have to basically do “Tech Show and Tell” and then issue a tech-related challenge to complete before the next episode. (MacStories also has another new podcast, called NPC , all about portable gaming.",
    "section": "the-drop",
    "recommender": null
@@ -150,8 +165,11 @@
    "name": "“How ‘Wall-E’ Reveals Our Changing Feelings Toward Tech.”",
    "url": "https://crooked.com/podcast/how-wall-e-reveals-our-changing-feelings-toward-tech/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "movie"
+   ],
    "blurb": "I am outrageously jealous of this whole series of episodes from the Offline podcast, looking at how movies like Her and The Social Network influenced the way we think about and build tech. This is the final episode in the miniseries, and they’re all worth a listen.",
    "section": "the-drop",
    "recommender": null
@@ -161,8 +179,11 @@
    "name": "Niagara Launcher",
    "url": "https://niagaralauncher.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android",
+    "productivity"
+   ],
    "blurb": "Well, friends, it took 41 issues, but it happened: I had someone lined up for Screen Share this week, and it just didn’t come together in time. So let’s do something slightly different.",
    "section": "screen-share",
    "recommender": null
@@ -185,8 +206,10 @@
    "name": "@sm0ke_screens",
    "url": "https://x.com/sm0ke_screens/status/1611399108224507904",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "social"
+   ],
    "blurb": "(Top row: @sm0ke_screens / @iamankursjain / @justinbelcher / @imaginationmatters6 . Bottom row: @kustom_bee / @SandeepAugusti3 / @KushalWagh )",
    "section": "screen-share",
    "recommender": null
@@ -196,8 +219,10 @@
    "name": "@iamankursjain",
    "url": "https://www.threads.net/@iamankursjain/post/C5r3xysKOLH",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "social"
+   ],
    "blurb": "(Top row: @sm0ke_screens / @iamankursjain / @justinbelcher / @imaginationmatters6 . Bottom row: @kustom_bee / @SandeepAugusti3 / @KushalWagh )",
    "section": "screen-share",
    "recommender": null
@@ -207,8 +232,10 @@
    "name": "@justinbelcher",
    "url": "https://www.threads.net/@justinbelcher/post/C717rHJvYEZ",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "social"
+   ],
    "blurb": "(Top row: @sm0ke_screens / @iamankursjain / @justinbelcher / @imaginationmatters6 . Bottom row: @kustom_bee / @SandeepAugusti3 / @KushalWagh )",
    "section": "screen-share",
    "recommender": null
@@ -218,8 +245,10 @@
    "name": "@imaginationmatters6",
    "url": "https://www.threads.net/@imaginationmatters6/post/C4s2YnJvhhY",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "social"
+   ],
    "blurb": "(Top row: @sm0ke_screens / @iamankursjain / @justinbelcher / @imaginationmatters6 . Bottom row: @kustom_bee / @SandeepAugusti3 / @KushalWagh )",
    "section": "screen-share",
    "recommender": null
@@ -229,8 +258,10 @@
    "name": "@kustom_bee",
    "url": "https://www.threads.net/@kustom_bee/post/Cu2Em4syUWj",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "social"
+   ],
    "blurb": "(Top row: @sm0ke_screens / @iamankursjain / @justinbelcher / @imaginationmatters6 . Bottom row: @kustom_bee / @SandeepAugusti3 / @KushalWagh )",
    "section": "screen-share",
    "recommender": null
@@ -240,8 +271,10 @@
    "name": "@SandeepAugusti3",
    "url": "https://x.com/SandeepAugusti3/status/1550086116006629377",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "social"
+   ],
    "blurb": "(Top row: @sm0ke_screens / @iamankursjain / @justinbelcher / @imaginationmatters6 . Bottom row: @kustom_bee / @SandeepAugusti3 / @KushalWagh )",
    "section": "screen-share",
    "recommender": null
@@ -251,8 +284,10 @@
    "name": "@KushalWagh",
    "url": "https://x.com/KushalWagh/status/1567394452586795010",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "social"
+   ],
    "blurb": "(Top row: @sm0ke_screens / @iamankursjain / @justinbelcher / @imaginationmatters6 . Bottom row: @kustom_bee / @SandeepAugusti3 / @KushalWagh )",
    "section": "screen-share",
    "recommender": null
@@ -262,7 +297,7 @@
    "name": "Vibescape",
    "url": "https://www.apposite.ai/",
    "alt_urls": [],
-   "category": null,
+   "category": "app",
    "tags": [],
    "blurb": "New version of Vibescape just came out for Apple Vision Pro — new Oregon coast-inspired meditation environment! Completely new experience with this and the Forest Ledge environment — pushing the boundaries of what’s possible outside of Apple’s own environments.",
    "section": "crowdsourced",
@@ -273,8 +308,13 @@
    "name": "Beeper",
    "url": "https://www.beeper.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "android",
+    "mac",
+    "social"
+   ],
    "blurb": "I’ve been using Beeper a ton on my Pixel 8 Pro and MacBook Pro. I actually installed it in early April when the acquisition announcement came out but have really hit my stride with it a month ago. It’s just so helpful to have all of your messaging in one app, both for work and personal.",
    "section": "crowdsourced",
    "recommender": "Josh (reader)"
@@ -310,7 +350,7 @@
    "name": "Guild Wars 2",
    "url": "https://www.guildwars2.com/en/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "A friend introduced me to Guild Wars 2 a few months back. As someone who likes the concept of an MMO but always felt let down by the execution, I can confidently say this is one of the most underrated games ever made.",
    "section": "crowdsourced",
@@ -321,8 +361,11 @@
    "name": "Bazzite",
    "url": "https://bazzite.gg/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free"
+   ],
    "blurb": "I heard about Microsoft’s Recall, which felt exhausting and tedious to me. So, last weekend, I paved over Windows and installed the Bazzite Linux distro on my gaming PC and have been playing all my Steam and Epic games that way.",
    "section": "crowdsourced",
    "recommender": "Les (reader)"
@@ -332,8 +375,10 @@
    "name": "coming back to theaters",
    "url": "https://www.fathomevents.com/series/the-lord-of-the-rings-trilogy/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
    "blurb": "The LOTR movies are finally coming back to theaters . The extended editions — the only versions I’ll watch. So excited to go watch these with my pals, like high school all over again.",
    "section": "crowdsourced",
    "recommender": "Colin (reader)"
@@ -356,8 +401,11 @@
    "name": "Thousandaires",
    "url": "https://www.dropout.tv/thousandaires",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv",
+    "subscription"
+   ],
    "blurb": "The new shows Thousandaires from Dropout and Trolley Problems from 2nd Try premiered this week and are both hilarious and great examples of modern media companies and the trend of creating their own streaming platforms.",
    "section": "crowdsourced",
    "recommender": "Zach (reader)"
@@ -367,8 +415,11 @@
    "name": "Trolley Problems",
    "url": "https://watch.2ndtry.tv/trolley-problems",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv",
+    "video"
+   ],
    "blurb": "The new shows Thousandaires from Dropout and Trolley Problems from 2nd Try premiered this week and are both hilarious and great examples of modern media companies and the trend of creating their own streaming platforms.",
    "section": "crowdsourced",
    "recommender": "Zach (reader)"
@@ -391,8 +442,11 @@
    "name": "a blog post",
    "url": "https://boz.com/articles/inbox-ten",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "web"
+   ],
    "blurb": "I’ve been thinking a lot this week about a blog post Andrew Bosworth, Meta’s CTO, wrote recently.",
    "section": "signing-off",
    "recommender": null

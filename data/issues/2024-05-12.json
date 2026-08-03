@@ -23,8 +23,10 @@
    "name": "The new iPad Pro",
    "url": "https://www.apple.com/ipad-pro/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ios"
+   ],
    "blurb": "The new Pro is easily the most impressive piece of hardware I’ve seen in a while. It’s so thin and light, and that OLED screen… gorgeous. It’s bonkers expensive, and the iPad’s big problem continues to be its software, but this is how you build a tablet, folks.",
    "section": "the-drop",
    "recommender": null
@@ -37,8 +39,10 @@
     "https://www.polygon.com/reviews/24151337/animal-well-review-pc-ps5-switch",
     "https://www.youtube.com/watch?time_continue=32&v=8EWbcc8tcsA"
    ],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "cross-platform"
+   ],
    "blurb": "Our friends over at Polygon called this “one of the most inventive games of the last decade,” which is obviously high praise! By all accounts, it’s unusual, surprising, occasionally frustrating, very smart, and incredibly engaging. Even the trailer looks like nothing I’ve seen before.",
    "section": "the-drop",
    "recommender": null
@@ -50,8 +54,12 @@
    "alt_urls": [
     "https://www.theverge.com/2024/5/7/24151109/apple-final-cut-camera-app-support-multicam-ipad"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "video",
+    "free"
+   ],
    "blurb": "This only got a quick mention at Apple’s event this week, but it’s kind of a huge deal ! It’s a first-party, pro-level camera app for iPhones and iPads that gives you lots of manual control and editing features. It’s exactly what a lot of creatives have been asking for.",
    "section": "the-drop",
    "recommender": null
@@ -61,8 +69,10 @@
    "name": "The Aqara Hub M3",
    "url": "https://www.aqara.com/us/product/hub-m3/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "The only way to manage your smart home is to make sure your devices can support as many assistants, protocols, and platforms as possible. This seems like a way to do it: it’s a Matter-ready device that can handle just about any smart-home gear you throw at it.",
    "section": "the-drop",
    "recommender": null
@@ -72,8 +82,12 @@
    "name": "Battle of the Clipboard Managers",
    "url": "https://www.reddit.com/r/macapps/comments/1cle6xz/battle_of_the_clipboard_managers/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "utilities",
+    "web"
+   ],
    "blurb": "“ Battle of the Clipboard Managers .” I don’t think I’ve ever linked to a Reddit thread here, but check this one out: it’s a long discussion about why a clipboard manager is a useful tool, plus a bunch of good options to choose from.",
    "section": "the-drop",
    "recommender": null
@@ -86,8 +100,12 @@
     "https://www.kqzyfj.com/click-8836602-14448661",
     "https://www.theverge.com/2024/5/6/24149955/proton-pass-adds-advanced-password-monitoring"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "utilities",
+    "cross-platform",
+    "subscription"
+   ],
    "blurb": "My ongoing No. 1 piece of technology advice is that everyone needs a password manager. I’m a longtime 1Password fan, but Proton’s app is starting to look tempting — this week, it got a new monitoring tool for security threats, in addition to all the smart email hiding and sharing features it…",
    "section": "the-drop",
    "recommender": null
@@ -99,8 +117,11 @@
    "alt_urls": [
     "https://www.theverge.com/2024/5/7/24151265/walmart-onn-4k-pro-google-tv-available"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "tv",
+    "android"
+   ],
    "blurb": "Basically all streaming boxes are ad-riddled, slow, and bad. This Google TV box from Walmart is at least also cheap, comes with voice control and support for all the specs you’d want, and works as a smart speaker . I love a customizable button, too.",
    "section": "the-drop",
    "recommender": null
@@ -125,8 +146,12 @@
    "name": "The Wordle archive",
    "url": "https://www.nytco.com/press/solvers-can-now-play-the-official-wordle-archive-with-new-york-times-games/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "website",
+    "free"
+   ],
    "blurb": "More than 1,000 days of Wordle , all ready to be played and replayed (because, let’s be honest, who remembers Wordle from three weeks ago?). I don’t have access to the archive yet, but you better believe I’ll be playing it all the way through as soon as it’s out.",
    "section": "the-drop",
    "recommender": null
@@ -162,8 +187,10 @@
    "name": "Stardew Valley",
    "url": "https://www.stardewvalley.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "cross-platform"
+   ],
    "blurb": "Stardew Valley took over my life during my work break. I actually started 3 Body Problem because of an old Installer . Also, I loved Fallout and need more episodes. My serious guilty pleasure is Love Island UK , and I’ve been watching the latest season during my break.",
    "section": "screen-share",
    "recommender": "Kylie"
@@ -212,8 +239,12 @@
    "name": "Pandora",
    "url": "https://www.pandora.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "subscription",
+    "cross-platform"
+   ],
    "blurb": "I have always found Spotify’s recommendation algorithm and music channels to be terrible; wayyy too much fussing and tailoring required when all I want is to hit play and get a good diversity of music I will like. So I finally gave up and tried Pandora again.",
    "section": "crowdsourced",
    "recommender": "Will (reader)"
@@ -223,8 +254,10 @@
    "name": "Netflix Is a Joke Fest",
    "url": "https://www.netflixisajokefest.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "Everything coming out of Netflix Is a Joke Fest has been 10/10.",
    "section": "crowdsourced",
    "recommender": "Mike (reader)"
@@ -234,8 +267,12 @@
    "name": "Mantella",
    "url": "https://www.nexusmods.com/skyrimspecialedition/mods/98631",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "windows",
+    "free"
+   ],
    "blurb": "Mantella mod for Skyrim (and Fallout 4 ). Not so much a single mod, but a mod plus a collection of apps that gives (basically) every NPC their own lives and stories.",
    "section": "crowdsourced",
    "recommender": "Jonathan (reader)"
@@ -245,8 +282,13 @@
    "name": "Snipd",
    "url": "https://www.snipd.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "podcast",
+    "ai",
+    "ios",
+    "android"
+   ],
    "blurb": "The Snipd podcast app (whose primary selling point is AI transcription of podcasts and the ability to easily capture, manage, and export text snippets from podcasts) has a new feature that shows you a name, bio, and picture for podcast guests, and allows you to find more podcasts with the same…",
    "section": "crowdsourced",
    "recommender": "Andy (reader)"
@@ -256,8 +298,13 @@
    "name": "Omnivore",
    "url": "https://omnivore.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "free",
+    "open-source",
+    "cross-platform"
+   ],
    "blurb": "I have recently bought a new Kindle, and I’m trying to figure out how to get news on it! My current plan is to use Omnivore as my bookmarks app, which will sync with this awesome community tool that converts those bookmarks into a Kindle-friendly website .",
    "section": "crowdsourced",
    "recommender": "David (reader)"
@@ -267,8 +314,12 @@
    "name": "a Kindle-friendly website",
    "url": "https://reink.app/auth",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "web",
+    "free"
+   ],
    "blurb": "I have recently bought a new Kindle, and I’m trying to figure out how to get news on it! My current plan is to use Omnivore as my bookmarks app, which will sync with this awesome community tool that converts those bookmarks into a Kindle-friendly website .",
    "section": "crowdsourced",
    "recommender": "David (reader)"
@@ -291,7 +342,7 @@
    "name": "Miyoo Mini Plus",
    "url": "https://www.miyoogame.com/product/miyoo-mini-plus-retro-handheld-game-console/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "With all the conversation around Delta on iOS, I have recently procured and am currently enamored with my Miyoo Mini Plus .",
    "section": "crowdsourced",
@@ -313,8 +364,12 @@
    "name": "Panels",
    "url": "https://panels.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "book",
+    "ios",
+    "paid"
+   ],
    "blurb": "Last week, Nicholas talked about YACReader and was asking for another great comic e-reader app for DRM-free files. After much searching myself, I settled on Panels for iPad. Great Apple-native UI, thoughtful features, and decent performance.",
    "section": "crowdsourced",
    "recommender": "Diogo (reader)"
@@ -324,8 +379,13 @@
    "name": "depth of field simulator",
    "url": "https://jherr.github.io/depth-of-field/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "photography",
+    "web",
+    "website",
+    "free"
+   ],
    "blurb": "I have spent so much time over the years trying to both figure out and explain to people the basics of a camera. There are a billion metaphors for ISO, shutter speed, and aperture, and all of them fall short.",
    "section": "signing-off",
    "recommender": null

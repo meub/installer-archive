@@ -66,8 +66,12 @@
    "alt_urls": [
     "https://zed.dev/blog/zed-1-0"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "ai"
+   ],
    "blurb": "I’ve been hearing good things about this super-fast code editor for a while, and it finally officially launched . Some interesting AI integrations in here, but really its job is to work everywhere and never ever slow down. On that front, it seems to be a hit.",
    "section": "the-drop",
    "recommender": null
@@ -116,7 +120,7 @@
    "name": "Saros",
    "url": "https://housemarque.com/games/saros",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "A brutally difficult game in which you try to stop a bad tech company from taking over a planet to strip it of its resources — a little too on the nose for our present times, maybe? Still, it’s a solid follow-up to Returnal that I suspect will make a lot of people happy.",
    "section": "the-drop",
@@ -127,8 +131,11 @@
    "name": "Cursor Camp",
    "url": "https://neal.fun/cursor-camp/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "A new John Oliver thing and a new Neal.fun thing? What a week! I don’t even really know how to explain this one. It’s a little Club Penguin-y, in the most delightful way. I played this way longer than I planned.",
    "section": "the-drop",
    "recommender": null
@@ -141,8 +148,12 @@
     "https://play.google.com/store/apps/details?id=dev.lovable.build&pli=1",
     "https://apps.apple.com/us/app/lovable-build-apps-with-ai/id6757471107"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "ios",
+    "android"
+   ],
    "blurb": "A lot of y’all out in the Installerverse have told me you’re using Lovable for vibe-coding projects. Now there’s an app for Android and iOS , so you can make mobile apps with your mobile apps.",
    "section": "the-drop",
    "recommender": null
@@ -152,8 +163,11 @@
    "name": "Google Calendar",
    "url": "https://calendar.google.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "I use it on the web on my computer, and through an iOS app I just managed to get functional the other day. Basically the way it works is this: I connect the app to Google Calendar and Todoist , and it shows me everything I have to do today.",
    "section": "screen-share",
    "recommender": null
@@ -163,8 +177,11 @@
    "name": "Todoist",
    "url": "https://www.todoist.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "I use it on the web on my computer, and through an iOS app I just managed to get functional the other day. Basically the way it works is this: I connect the app to Google Calendar and Todoist , and it shows me everything I have to do today.",
    "section": "screen-share",
    "recommender": null
@@ -174,8 +191,11 @@
    "name": "Raindrop",
    "url": "http://raindrop.io",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "web"
+   ],
    "blurb": "I use it on the web on my computer, and through an iOS app I just managed to get functional the other day. Basically the way it works is this: I connect the app to Google Calendar and Todoist , and it shows me everything I have to do today.",
    "section": "screen-share",
    "recommender": null
@@ -185,8 +205,11 @@
    "name": "Obsidian",
    "url": "https://obsidian.md/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "The other thing it does is input: This app has a single window through which I can create a task (which syncs to Todoist), an event (to Google Calendar), or a note (which creates a text file that immediately gets picked up in Obsidian ).",
    "section": "screen-share",
    "recommender": null
@@ -196,8 +219,11 @@
    "name": "Drafts",
    "url": "https://getdrafts.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "The other thing it does is input: This app has a single window through which I can create a task (which syncs to Todoist), an event (to Google Calendar), or a note (which creates a text file that immediately gets picked up in Obsidian ).",
    "section": "screen-share",
    "recommender": null
@@ -207,8 +233,12 @@
    "name": "Raycast",
    "url": "https://www.raycast.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "productivity",
+    "utilities"
+   ],
    "blurb": "The other thing it does is input: This app has a single window through which I can create a task (which syncs to Todoist), an event (to Google Calendar), or a note (which creates a text file that immediately gets picked up in Obsidian ).",
    "section": "screen-share",
    "recommender": null
@@ -218,8 +248,12 @@
    "name": "SCOTUSWatch",
    "url": "https://scottsapps.github.io",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "website",
+    "free"
+   ],
    "blurb": "I’m a lawyer, and I had an important order due to be released sometime on a Friday afternoon — I figured there must be a way to automate checking for that order. And from that little python script (thank you Kagi AI) grew SCOTUSWatch (with Claude Code’s help).",
    "section": "crowdsourced",
    "recommender": "Scott (reader)"
@@ -229,8 +263,10 @@
    "name": "Business of Tech",
    "url": "https://businessof.tech/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "I host Business of Tech , a daily podcast covering the business side of the technology industry — not the consumer stuff, but the companies and people who actually run the tech that keeps businesses alive. Think managed service providers, IT service companies, the vendors who build for them.",
    "section": "crowdsourced",
    "recommender": "Dave (reader)"
@@ -253,7 +289,7 @@
    "name": "made my dumb little dream come true",
    "url": "https://assets.simonfeilder.com/itsu",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "One of my favourite things is grab & go food, in particular Itsu and its fresh sushi. As a youthful spendthrift artiste, I particularly enjoyed their ‘everything is half price 30 minutes before we close’ policy.",
    "section": "crowdsourced",
@@ -264,8 +300,11 @@
    "name": "Buena Vida Run Club",
    "url": "https://buenavida.run",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness",
+    "ios"
+   ],
    "blurb": "I made Buena Vida Run Club . It’s Strava + MyFitnessPal + Runna + more in one app. This is no weekend vibe code... I’ve spent the past 16 months researching, designing & building. No AI hallucinations, just lots of detailed math & science.",
    "section": "crowdsourced",
    "recommender": "Cole (reader)"
@@ -288,8 +327,12 @@
    "name": "Rulebook",
    "url": "https://lucas.io/rulebook/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "utilities",
+    "productivity"
+   ],
    "blurb": "I built a macOS app to automatically organize your files: Rulebook . You can set up rules, and it quietly sorts, renames, converts, beeps, moves, copies, archives, and tags your files in the background — like a personal assistant for your folders.",
    "section": "crowdsourced",
    "recommender": "Lucas (reader)"
@@ -299,8 +342,11 @@
    "name": "GamePal",
    "url": "https://www.gamepalapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "I’ve built GamePal as a way to catalogue my ever growing game collection and track my play in a journal. As a designer it’s always been my dream to build my own iPhone (and soon iPad/Mac!) app and October 2024 was the moment.",
    "section": "crowdsourced",
    "recommender": "Jeremy (reader)"
@@ -310,8 +356,11 @@
    "name": "Newslog",
    "url": "https://www.newslog.me/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "newsletter",
+    "productivity"
+   ],
    "blurb": "I built Newslog . It bundles your newsletters, RSS feeds, and articles into a single daily digest with an index and summaries. It’s designed specifically for calm, distraction-free reading on Kindle and deep-work archiving in Obsidian.",
    "section": "crowdsourced",
    "recommender": "Lucas (reader)"
@@ -334,8 +383,10 @@
    "name": "a project",
    "url": "https://www.andrewpatra.com/work/hotline",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "open-source"
+   ],
    "blurb": "I’ve been working on a project that retrofitted an Arduino Uno into an old touchtone landline phone. The idea is that you can ‘dial’ in to a couple of numbers that I programmed and you’d get a song or a Fallout style audio log.",
    "section": "crowdsourced",
    "recommender": "Andrew (reader)"
@@ -345,8 +396,11 @@
    "name": "QuakeInfo",
    "url": "https://www.quakeinfo.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "utilities"
+   ],
    "blurb": "I first released QuakeInfo in November of 2007, and it began as a way for me to learn iPhone development. QuakeInfo helped me stay informed about earthquakes around the world and near me (I live in the San Francisco Bay Area).",
    "section": "crowdsourced",
    "recommender": "Adam (reader)"
@@ -382,8 +436,11 @@
    "name": "Tuesday Night Movie Night",
    "url": "https://www.tuesdaynightmovienight.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "newsletter",
+    "movie"
+   ],
    "blurb": "I made Tuesday Night Movie Night — the newsletter where readers get one good movie recommendation, every Tuesday. Our picks are 100 percent algorithm-free. We watch every movie we pick and write up the recommendation ourselves.",
    "section": "crowdsourced",
    "recommender": "Blake (reader)"
@@ -393,8 +450,11 @@
    "name": "an old-skool static website",
    "url": "https://echofuturetruth.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "website"
+   ],
    "blurb": "I’ve been writing fiction for about 10 years and trying to find agents of publishers in a changing, confusing writer’s market. I decided to make an old-skool static website to publish my three-part speculative fiction novel as a serial, week by week.",
    "section": "crowdsourced",
    "recommender": "David (reader)"
@@ -404,8 +464,12 @@
    "name": "WedSearch",
    "url": "https://app.wedsearch.ai/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "website",
+    "ai"
+   ],
    "blurb": "I built WedSearch entirely in Claude with zero coding knowledge. I’m now selling this to wedding suppliers and supplementing my wedding filmmaking income! Insane.​",
    "section": "crowdsourced",
    "recommender": "Arranv (reader)"
@@ -415,8 +479,11 @@
    "name": "Play",
    "url": "https://marcosatanaka.com/press-kit/play/play-press-kit.html",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "video"
+   ],
    "blurb": "Two years ago, you featured my app Play for saving and organizing videos. Since then, it’s grown a lot : better video player, support for transcripts and new AI features like summaries and Q&A. You can also filter subscription videos to hide YouTube shorts, and much more.",
    "section": "crowdsourced",
    "recommender": "Marcos (reader)"
@@ -426,8 +493,12 @@
    "name": "grown a lot",
    "url": "https://marcosatanaka.com/whats-new/play",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "video",
+    "ios",
+    "ai"
+   ],
    "blurb": "Two years ago, you featured my app Play for saving and organizing videos. Since then, it’s grown a lot : better video player, support for transcripts and new AI features like summaries and Q&A. You can also filter subscription videos to hide YouTube shorts, and much more.",
    "section": "crowdsourced",
    "recommender": "Marcos (reader)"
@@ -437,8 +508,11 @@
    "name": "Did It",
    "url": "https://did-it.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "Did It , a daily wins journal I built, works on the opposite principle to a todo list. It only lets you record what you already did. No tasks waiting for tomorrow, just a quiet record of your day, however small or ordinary. Some days the win is shipping something. Some days it’s getting out of bed.",
    "section": "crowdsourced",
    "recommender": "Pascal (reader)"
@@ -461,7 +535,7 @@
    "name": "OpenCase",
    "url": "https://theopencase.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I make OpenCase (well, my wife and I are the entire company), the patented iPhone case with the open space for MagSafe accessories. It’s crazy how many advantages we have been alerted to by our customers due to the uniqueness of the design.",
    "section": "crowdsourced",

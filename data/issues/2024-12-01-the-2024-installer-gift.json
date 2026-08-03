@@ -26,8 +26,11 @@
    "alt_urls": [
     "https://www.theverge.com/2024/11/28/24307906/craft-3-notes-tasks-calendar-app-mac-iphone-windows"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "I say this with (I think) no hyperbole or recency bias: this is the closest thing I’ve ever tried to my perfect note-taking app . The new version does a wonderful job integrating tasks, events, and notes, and the whole thing just makes sense.",
    "section": "the-drop",
    "recommender": null
@@ -39,8 +42,10 @@
    "alt_urls": [
     "https://www.youtube.com/watch?v=3FkvBsFYLBo"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "video"
+   ],
    "blurb": "I trust The Verge’s Andru Marino on all things audio and microphones, and he’s a fan of DJI’s small, surprisingly good-sounding $169 portable mic. Please, please use this instead of that stupid lapel mic everybody holds on TikTok.",
    "section": "the-drop",
    "recommender": null
@@ -78,8 +83,10 @@
    "name": "The Telepathic Instruments Orchid",
    "url": "https://telepathicinstruments.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "Oh no, another extremely cool-looking music maker that I will never make proper use of but totally want anyway. This one’s from Tame Impala’s Kevin Parker, and there’s not much detail yet, but it looks fantastic.",
    "section": "the-drop",
    "recommender": null
@@ -89,8 +96,11 @@
    "name": "Stuff",
    "url": "https://www.themitycompany.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "ios"
+   ],
    "blurb": "A new, nice-looking app for notes and tasks. I really like its Dependencies feature, which keeps projects in order — you can’t do task 3 until you do task 2, which you can’t do before task 1. Stuff’s developer got some flack for the fact that this app looks like Things, which it does!",
    "section": "the-drop",
    "recommender": null
@@ -100,8 +110,10 @@
    "name": "The B&O Beoplay Eleven",
    "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://www.bang-olufsen.com/en/us/earphones/beoplay-eleven?variant=beoplay-eleven-natural-aluminium",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "AirPods Pro, only way better-looking. And $500. B&O is making big claims about sound quality and noise cancellation here, and I’m somewhat skeptical of them, but the design alone (especially that copper model) is a huge upgrade.",
    "section": "the-drop",
    "recommender": null
@@ -113,8 +125,11 @@
    "alt_urls": [
     "https://www.theverge.com/2024/11/22/24302947/microsoft-recall-windows-insider-testing-dev-channel-click-to-do"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "windows"
+   ],
    "blurb": "For a while, it looked like Microsoft’s all-knowing private AI was never going to launch. But it’s here, ish ! You’ll need a Qualcomm-powered Copilot Plus PC, which you … probably don’t have. But if you do, give this a whirl and tell me how you like it. I’m so curious.",
    "section": "the-drop",
    "recommender": null
@@ -126,8 +141,11 @@
    "alt_urls": [
     "https://ultimate-ears.dubn.net/c/482924/1633468/8590?u=https%3A%2F%2Fwww.ultimateears.com%2Fen-us%2Fshop%2Fp%2Fwonderboom-4.984-001876"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music",
+    "travel"
+   ],
    "blurb": "I have a Wonderboom in my bathroom for shower tunes, another in my luggage for travel, and a third just in case. UE’s lineup of speakers ranges from huge and expensive to tiny and cheap, but they’re all durable and long-lasting and sound good. You truly can’t go wrong.",
    "section": "gift-guide-part-one",
    "recommender": null
@@ -139,7 +157,7 @@
    "alt_urls": [
     "https://www.theverge.com/2024/11/19/24300991/playstation-portal-cloud-streaming-update-beta-ps5-games"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "At $549, this one’s certainly no stocking stuffer, but I’d argue this is the best gift you can give a gamer right now. (With a possible nod to the PlayStation Portal, which now streams games and suddenly seems way more worthwhile than before.)",
    "section": "gift-guide-part-one",
@@ -150,8 +168,11 @@
    "name": "The Shokz OpenRun Pro 2",
    "url": "https://shokz.com/products/openrunpro2",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "fitness",
+    "music"
+   ],
    "blurb": "Look, you’ll probably end up gifting or getting AirPods. Which are great! But if you’re looking for headphones to wear on walks, runs, bike rides, or just while you’re also living the rest of your life, open-ear is the way. These are my most-used headphones right now, and it’s not close.",
    "section": "gift-guide-part-one",
    "recommender": null
@@ -187,8 +208,12 @@
    "alt_urls": [
     "https://www.criterionchannel.com/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "subscription",
+    "tv",
+    "movie"
+   ],
    "blurb": "Streaming service gift cards. Giving someone a few free months of Netflix or Max or whatever is great, if you know they don’t have it. But I say get weird with it! Give your friend a year of Shudder and introduce them to horror movies; give them the Criterion Channel and turn them into a film snob.",
    "section": "gift-guide-part-one",
    "recommender": null
@@ -198,7 +223,7 @@
    "name": "Gift cards in general",
    "url": null,
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Gift cards rule! “I didn’t know exactly what you wanted, so here’s some money for your favorite store / platform / whatever that you can use on anything that makes you happy.” EVERYBODY WINS. That is all. Gift cards forever.",
    "section": "gift-guide-part-one",
@@ -209,8 +234,10 @@
    "name": "The Nothing CMF Phone 1",
    "url": "https://us.nothing.tech/products/cmf-phone-1",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "One of the coolest, and cheapest, Android phones to come out this year. I dig the modular backplates and accessories, and mostly I think everyone could use a cheap Android phone for reading, gaming, and more. Think of it like a pocket-sized tablet.",
    "section": "gift-guide-part-one",
    "recommender": null
@@ -220,7 +247,7 @@
    "name": "the 8BitDo Pro 2",
    "url": "https://www.8bitdo.com/pro2/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "A Bluetooth game controller. I continue to be amazed at how useful an accessory a good gaming controller is. They’re great for games, obviously, but you can often connect these to all your devices and use them as a remote and all kinds of other things.",
    "section": "gift-guide-part-one",
@@ -231,7 +258,7 @@
    "name": "The Studio Neat Totebook",
    "url": "https://www.studioneat.com/products/totebook",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I’ve tried a lot of notebooks over the years, and I keep coming back to this one. It’s light and thin but still pretty sturdy and feels really great to write in.",
    "section": "gift-guide-part-one",
@@ -242,8 +269,11 @@
    "name": "The Google TV Streamer",
    "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://store.google.com/us/product/google_tv_streamer?hl=en-US&pli=1",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "tv",
+    "android"
+   ],
    "blurb": "The longer I use Google’s set-top box, the more I like it. It’s easy to set up, runs all the streaming apps you need, and does a better job of just… showing you stuff to watch than any other platform out there. For $100, I don’t think you can beat this one.",
    "section": "gift-guide-part-one",
    "recommender": null
@@ -264,8 +294,10 @@
    "name": "Newsify",
    "url": "https://newsify.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
    "blurb": "I love RSS feeds and have been using Newsify forever. The Alto widget tracks any recurring Apple Reminders, I track my yoga workouts. Could do better. The three dock shortcuts go to my Home note, current Month note, and my Daily note in Apple Notes.",
    "section": "screen-share",
    "recommender": "Matthias"
@@ -275,8 +307,11 @@
    "name": "Alto",
    "url": "https://docs.alto.so/daily",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "I love RSS feeds and have been using Newsify forever. The Alto widget tracks any recurring Apple Reminders, I track my yoga workouts. Could do better. The three dock shortcuts go to my Home note, current Month note, and my Daily note in Apple Notes.",
    "section": "screen-share",
    "recommender": "Matthias"
@@ -299,7 +334,7 @@
    "name": "Tiny Glade",
    "url": "https://pouncelight.games/tiny-glade/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Watching: Somebody Somewhere — a show inspired by the life of Bridget Everett. I get to be in Manhattan, Kansas, once a week with a whole bunch of great characters. I love the indie vibe of the show.",
    "section": "screen-share",
@@ -323,8 +358,12 @@
    "name": "Fitbod",
    "url": "https://fitbod.me/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness",
+    "ios",
+    "subscription"
+   ],
    "blurb": "My latest app obsession has been Fitbod . It actually gets me to work out and track strength training progress! I’ll definitely be using it to feel better after Thanksgiving.",
    "section": "crowdsourced",
    "recommender": "Mai (reader)"
@@ -334,8 +373,10 @@
    "name": "Raising Parents with Emily Oster",
    "url": "https://www.thefp.com/raisingparents-emilyoster",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "I’m listening to the podcast Raising Parents with Emily Oster . After reading books by social economists Jonathan Haidt and Richard Reeves and having two toddlers, it is a lot to think about raising kids in an overprotective and tech-filled world.",
    "section": "crowdsourced",
    "recommender": "Mitchell (reader)"
@@ -371,8 +412,11 @@
    "name": "Dropout",
    "url": "https://signup.dropout.tv/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "subscription",
+    "tv"
+   ],
    "blurb": "Dropout has essentially become my default streaming app. From Make Some Noise to Gastronauts , almost everything is a banger.",
    "section": "crowdsourced",
    "recommender": "Brad (reader)"
@@ -408,8 +452,10 @@
    "name": "Odyssey",
    "url": "https://www.penguin.co.uk/books/320993/odyssey-by-fry-stephen/9780241486351",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Picked up Stephen Fry’s Odyssey , his fourth book in the retelling of Greek mythology. The man is gifted. His books are just so damn readable and fun. I hope he picks up a new mythology after this one.",
    "section": "crowdsourced",
    "recommender": "Payasam (reader)"
@@ -432,8 +478,10 @@
    "name": "Against Technoableism",
    "url": "https://wwnorton.com/books/9781324036661",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’m currently listening to Against Technoableism by Ashley Shew. It’s a great read for anyone interested in tech who wants to examine the difference between gadgets and social technologies and learn a lot about disability communities.",
    "section": "crowdsourced",
    "recommender": "Jeanne (reader)"
@@ -443,7 +491,7 @@
    "name": "Robocop: Rogue City",
    "url": "https://robocop-roguecity.com/en",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Leaving my 2024 games on the backlog while playing last year’s Robocop: Rogue City . The best part is that it simulates the less-exciting parts of Robocop’s job. I’ve already issued two parking tickets!",
    "section": "crowdsourced",
@@ -454,7 +502,7 @@
    "name": "Stuffing waffles",
    "url": "https://www.seriouseats.com/stuffing-waffles-recipe",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "But the leftovers. THE LEFTOVERS. The weekend after Thanksgiving is better eating than Thanksgiving, if you ask me. All for one reason, two words: Stuffing waffles . Trust me. It changes everything.",
    "section": "signing-off",

@@ -24,8 +24,11 @@
    "name": "Fabric",
    "url": "https://fabric.so/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
    "blurb": "I’ve been keeping an eye on this AI bookmarking / highlighting / stuff-saving app for a while, and this week was its big public debut. (The website says there’s still a waitlist, but I was able to log right in.)",
    "section": "the-drop",
    "recommender": null
@@ -35,8 +38,11 @@
    "name": "Telemarketers",
    "url": "https://www.hbo.com/telemarketers",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv",
+    "subscription"
+   ],
    "blurb": "It’s not exactly shocking that a sketchy call center might have some sketchy stuff going on, but this Max miniseries is still pretty eye-opening about how it all works. Plus, there’s a good story in here about why Congress can’t figure out what to do about these scams.",
    "section": "the-drop",
    "recommender": null
@@ -46,8 +52,12 @@
    "name": "Threads for web",
    "url": "https://www.threads.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "web",
+    "social",
+    "free"
+   ],
    "blurb": "It took a few days, but I think the Threads web app is actually available for everybody, finally. I only had to try it like 150 times. The app’s not exactly full-featured, but at least you can post from a computer now!",
    "section": "the-drop",
    "recommender": null
@@ -72,8 +82,11 @@
    "alt_urls": [
     "https://www.theverge.com/23839946/ahsoka-star-wars-review-disney-plus"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv",
+    "subscription"
+   ],
    "blurb": "I confess I am deeply tired of mediocre Star Wars stuff, to the point where I didn’t even bother with Obi-Wan Kenobi or The Book of Boba Fett. Ahsoka doesn’t seem to break the formula entirely, but by all accounts is mysterious and exciting and fun . I’m gonna give it a shot this weekend.",
    "section": "the-drop",
    "recommender": null
@@ -83,8 +96,11 @@
    "name": "404 Media",
    "url": "https://www.404media.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "website",
+    "subscription"
+   ],
    "blurb": "A bunch of former Motherboard reporters started their own thing, and it’s an instant subscribe if you like wild stories about hackers, surveillance, AI, and what it means to be a person online in 2023.",
    "section": "the-drop",
    "recommender": null
@@ -109,8 +125,10 @@
    "alt_urls": [
     "https://www.theverge.com/2023/8/23/23842681/corsair-platform-6-gaming-desk-height-adjust-cable-management-release-date-monitor-arm"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "paid"
+   ],
    "blurb": "This desk is like if you took the entirety of r/battlestations, fed it into an image-generating AI, and then asked it to design you the most gamer-y, streamer-y desk on the planet . And I kind of mean that as a compliment! No idea what this thing is going to cost, but I do love a good pegboard.",
    "section": "the-drop",
    "recommender": null
@@ -120,8 +138,11 @@
    "name": "Backflip",
    "url": "https://www.nytimes.com/video/opinion/100000008901281/backflip.html",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "free"
+   ],
    "blurb": "This is a weird, mesmerizing mini-documentary about a man teaching his avatar to do the backflip he’s too nervous to do in real life. It’s funny, and I learned a lot! I also really like the idea that “machine learning” is just “practice.”",
    "section": "the-drop",
    "recommender": null
@@ -131,8 +152,11 @@
    "name": "Clear",
    "url": "https://www.useclear.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "Way back when, Clear was my favorite to-do list app for the iPhone. Maybe my favorite app, period. It had such a fun design, used gestures in really clever ways, and made making and checking off lists fun.",
    "section": "pro-tips",
    "recommender": null
@@ -156,8 +180,10 @@
    "name": "Heads Up!",
    "url": "https://www.warnerbros.com/games-and-apps/heads",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios"
+   ],
    "blurb": "Anyway, I asked Phill Ryu, one of the brains behind Clear (and other apps like Heads Up! ), to give us some tips both on how to use Clear and how to make better lists in general. Here’s what he sent back:",
    "section": "pro-tips",
    "recommender": null
@@ -189,8 +215,10 @@
    "name": "Dungeon Meshi",
    "url": "https://www.animenewsnetwork.com/encyclopedia/manga.php?id=17164",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Season 1 and 2 of Vinland Saga , an anime that dramatizes the life of Thorfinn Karlsefni. I found its treatment of violence / pacifism, the tragedy of war / slavery, and religion to be very compelling and am looking forward to continuing the story through its original manga!",
    "section": "screen-share",
    "recommender": "Mishaal"
@@ -200,8 +228,12 @@
    "name": "/r/HyruleEngineering",
    "url": "https://www.reddit.com/r/hyruleengineering",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "social",
+    "website",
+    "free"
+   ],
    "blurb": "Season 1 and 2 of Vinland Saga , an anime that dramatizes the life of Thorfinn Karlsefni. I found its treatment of violence / pacifism, the tragedy of war / slavery, and religion to be very compelling and am looking forward to continuing the story through its original manga!",
    "section": "screen-share",
    "recommender": "Mishaal"
@@ -224,8 +256,12 @@
    "name": "Petey",
    "url": "https://petey-assistant.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "ios",
+    "paid"
+   ],
    "blurb": "One of my favorite installs lately has been Petey , a ChatGPT companion for Apple Watch. It’s thoughtfully designed, easy to use, and surprisingly useful — being able to submit a query that pops into your head without having to go grab your phone or open a laptop is awesome.",
    "section": "crowdsourced",
    "recommender": "Nick (reader)"
@@ -235,8 +271,11 @@
    "name": "Memorigi",
    "url": "https://memorigi.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "android"
+   ],
    "blurb": "Memorigi : the best to-do list app I’ve ever used. The interface is both beautiful and highly functional, it leans on gestures which make it quick and easy to move through the app.",
    "section": "crowdsourced",
    "recommender": "Jacob (reader)"
@@ -259,8 +298,12 @@
    "name": "Raindrop",
    "url": "https://raindrop.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "free",
+    "productivity"
+   ],
    "blurb": "I’d like to recommend Raindrop . I use multiple browsers on both my phone and laptop, I use Raindrop to manage bookmarks across these devices. It has folders and tags for organization. It’s also cross-platform.",
    "section": "crowdsourced",
    "recommender": "Chethan (reader)"
@@ -281,8 +324,11 @@
    "name": "Kinopio",
    "url": "https://kinopio.club/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "I’ve been using this awesome little web app (this is the future!) developed by this one dude Prijan, and I love it. It’s called Kinopio (pronounced like Pinocchio but with a k). I love using this web app to take notes, make mood boards, or jot stuff down.",
    "section": "crowdsourced",
    "recommender": "Garrett (reader)"
@@ -292,8 +338,12 @@
    "name": "TidyCal",
    "url": "http://tidycal.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "paid",
+    "productivity"
+   ],
    "blurb": "My recommendation: TidyCal . Been loving using this. It’s like a simpler, more affordable Calendly. Pay $29 one time and get access forever. No more monthly fees. Really enjoying it.",
    "section": "crowdsourced",
    "recommender": "Dave (reader)"
@@ -316,8 +366,13 @@
    "name": "the Taskmaster TikTok page",
    "url": "https://www.tiktok.com/@taskmaster",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "social",
+    "tv",
+    "free"
+   ],
    "blurb": "A few days ago, for no particular reason, my TikTok feed became overrun by the TV show Taskmaster .",
    "section": "signing-off",
    "recommender": null

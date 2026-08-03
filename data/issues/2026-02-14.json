@@ -53,8 +53,11 @@
    "alt_urls": [
     "https://www.theverge.com/2024/10/11/24230990/mcdonalds-bespoke-painting-cabel-sasser-wes-cook-xoxo-2024"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "web"
+   ],
    "blurb": "“ Wes Cook and The McDonald’s Mural .” Remember that amazing Cabel Sasser XOXO talk from a couple of years ago? Well, Sasser has finally written out the whole story of saving the mural, and shared some truly incredible photos of the process.",
    "section": "the-drop",
    "recommender": null
@@ -66,8 +69,10 @@
    "alt_urls": [
     "https://www.theverge.com/tech/877503/sony-wf-1000xm6-earbuds-review"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "The “best earbuds” competition pretty much comes down to Sony vs. Apple, and while I much prefer the look of these to any AirPod, it’s a bummer to hear it can be hard to find the right fit with them. If I can get these to stay in my ear, I may be $330 poorer here in a few days.",
    "section": "the-drop",
    "recommender": null
@@ -77,8 +82,11 @@
    "name": "The Interface",
    "url": "https://app.magellan.ai/listen_links/theinterface-YT",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "free"
+   ],
    "blurb": "Fun, informative, thoughtful new podcast from the BBC, hosted by three tech journalists I admire. I don’t know if it’ll always be this mix of news and history, or if Karen Hao will keep being so hilariously mean to her cohosts, but I dig it all so far.",
    "section": "the-drop",
    "recommender": null
@@ -90,8 +98,12 @@
    "alt_urls": [
     "https://www.theverge.com/hands-on/761965/fitbits-ai-health-coach-is-the-first-i-might-actually-be-interested-in"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "fitness",
+    "subscription"
+   ],
    "blurb": "Like my colleague Vee Song, I kind of hate AI coaches. But also like Vee, I think Fitbit is up to something interesting here — rather than an annoying cheerleader, Fitbit is trying to build a more interactive, more understandable set of wellness tools, and that I can get behind.",
    "section": "the-drop",
    "recommender": null
@@ -101,8 +113,11 @@
    "name": "Seedance 2.0",
    "url": "https://seed.bytedance.com/en/seedance2_0",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "video"
+   ],
    "blurb": "It is my general belief that generative AI tools are a bad thing. But if you like these creative tools, this new model from ByteDance — which you can prompt with a combination of text, images, audio, and video — appears to be kind of blowing people’s minds.",
    "section": "the-drop",
    "recommender": null
@@ -125,8 +140,12 @@
    "name": "Proton",
    "url": "https://proton.me/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "subscription",
+    "productivity"
+   ],
    "blurb": "Almost everybody who told me they’re ditching Google told me they’re moving to Proton. And with good reason! Proton does email, calendar, docs, file storage, and more, and does it all really well. This is the first place I’d tell almost anyone to start.",
    "section": "group-project",
    "recommender": null
@@ -136,8 +155,13 @@
    "name": "Signal",
    "url": "https://signal.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "cross-platform",
+    "open-source",
+    "social"
+   ],
    "blurb": "The messaging app of choice, by a mile. Like Proton, it is an incredibly privacy-focused tool that is still easy and nice to use. I have nothing but good feelings about Signal.",
    "section": "group-project",
    "recommender": null
@@ -147,8 +171,13 @@
    "name": "Nextcloud",
    "url": "https://nextcloud.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "This one I did not expect! It’s another suite of services, with a lot of impressive features, but in addition to everything else it is open-source and can even be self-hosted.",
    "section": "group-project",
    "recommender": null
@@ -158,8 +187,12 @@
    "name": "Home Assistant",
    "url": "https://www.home-assistant.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "smart-home",
+    "open-source",
+    "free"
+   ],
    "blurb": "For the smart home crowd, there is really only one choice.",
    "section": "group-project",
    "recommender": null
@@ -172,8 +205,12 @@
     "https://www.ecosia.org/",
     "https://www.firefox.com/en-US/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "subscription",
+    "paid"
+   ],
    "blurb": "Lots of folks are replacing Google Search with either Kagi or Ecosia . As for browsers, it was pretty much all Firefox .",
    "section": "group-project",
    "recommender": null
@@ -185,8 +222,12 @@
    "alt_urls": [
     "https://grapheneos.org/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "open-source",
+    "utilities"
+   ],
    "blurb": "came up a bunch as a user-friendly way out of the Big Tech operating systems. It’s harder to get away from Android and iOS, but GrapheneOS is a popular alternative for mobile.",
    "section": "group-project",
    "recommender": null
@@ -198,8 +239,12 @@
    "alt_urls": [
     "https://watch.plex.tv/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "video"
+   ],
    "blurb": "appears to be the media platform of choice. Some Plex love, too, but mostly Jellyfin.",
    "section": "group-project",
    "recommender": null
@@ -209,8 +254,12 @@
    "name": "Obsidian",
    "url": "https://obsidian.md/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform",
+    "free"
+   ],
    "blurb": ", one of my favorite note-taking apps, is a favorite as well. Since it’s built on text files, it is futureproof, unlike virtually any other software you’ll find.",
    "section": "group-project",
    "recommender": null
@@ -220,8 +269,10 @@
    "name": "Garmin smartwatches",
    "url": "https://www.anrdoezrs.net/click-8836598-15205098?url=https://www.garmin.com/en-US/c/wearables-smartwatches/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "fitness"
+   ],
    "blurb": "Oh boy do you all love Garmin smartwatches ! I’m still a little skeptical that they work for anyone other than hardcore fitness folks, but you all love them as Apple and Pixel Watch alternatives.",
    "section": "group-project",
    "recommender": null
@@ -231,7 +282,7 @@
    "name": "Sunbeam F1",
    "url": "https://sunbeamwireless.com/f1-pro-rugged-dumbphone/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "The Sunbeam F1 flip phones, which actually look like they offer a pretty clever set of features, have some very devoted smartphone-ditching fans out there.",
    "section": "group-project",
@@ -242,7 +293,7 @@
    "name": "Playdate",
    "url": "https://play.date/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Couple of votes for the Playdate , too, as a less intense way to game.",
    "section": "group-project",
@@ -257,8 +308,10 @@
     "https://www.kobo.com/",
     "https://thestorygraph.com/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "book"
+   ],
    "blurb": "I got lots of E Ink device recommendations. Boox gear came up a lot. The Xteink X4 , the little e-reader that sticks to the back of your phone, seems to have captured some hearts out there.",
    "section": "group-project",
    "recommender": null
@@ -279,8 +332,12 @@
    "name": "Bluesky",
    "url": "https://bsky.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "free",
+    "cross-platform"
+   ],
    "blurb": "I’ve deleted a bunch of apps over the past few months and prefer to keep my homescreen pretty basic to try to reduce distraction.",
    "section": "screen-share",
    "recommender": "Paris"
@@ -290,8 +347,12 @@
    "name": "Vivaldi",
    "url": "https://vivaldi.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "free",
+    "cross-platform"
+   ],
    "blurb": "I’ve deleted a bunch of apps over the past few months and prefer to keep my homescreen pretty basic to try to reduce distraction.",
    "section": "screen-share",
    "recommender": "Paris"
@@ -301,8 +362,12 @@
    "name": "Inoreader",
    "url": "https://www.inoreader.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "web",
+    "cross-platform"
+   ],
    "blurb": "I’ve deleted a bunch of apps over the past few months and prefer to keep my homescreen pretty basic to try to reduce distraction.",
    "section": "screen-share",
    "recommender": "Paris"
@@ -312,8 +377,12 @@
    "name": "Deezer",
    "url": "https://www.deezer.com/us/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "subscription",
+    "cross-platform"
+   ],
    "blurb": "I’ve deleted a bunch of apps over the past few months and prefer to keep my homescreen pretty basic to try to reduce distraction.",
    "section": "screen-share",
    "recommender": "Paris"
@@ -323,8 +392,12 @@
    "name": "Proton Mail",
    "url": "https://proton.me/mail",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "productivity",
+    "subscription"
+   ],
    "blurb": "I’ve deleted a bunch of apps over the past few months and prefer to keep my homescreen pretty basic to try to reduce distraction.",
    "section": "screen-share",
    "recommender": "Paris"
@@ -334,8 +407,11 @@
    "name": "A More Civilized Age",
    "url": "https://amorecivilizedage.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "free"
+   ],
    "blurb": "A More Civilized Age . I’m not really into Star Wars since the Disney takeover ( Andor excepted), but the hosts of this podcast played through Knights of the Old Republic 2 last year and I’ve been slowly following along (and wanting to replay myself!). Magazines.",
    "section": "screen-share",
    "recommender": "Paris"
@@ -345,8 +421,10 @@
    "name": "Empty Set",
    "url": "https://www.emptysetmag.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "A More Civilized Age . I’m not really into Star Wars since the Disney takeover ( Andor excepted), but the hosts of this podcast played through Knights of the Old Republic 2 last year and I’ve been slowly following along (and wanting to replay myself!). Magazines.",
    "section": "screen-share",
    "recommender": "Paris"
@@ -356,8 +434,10 @@
    "name": "In Formation",
    "url": "https://informationmagazine.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "A More Civilized Age . I’m not really into Star Wars since the Disney takeover ( Andor excepted), but the hosts of this podcast played through Knights of the Old Republic 2 last year and I’ve been slowly following along (and wanting to replay myself!). Magazines.",
    "section": "screen-share",
    "recommender": "Paris"
@@ -380,8 +460,11 @@
    "name": "EDCs on r/dumbphones",
    "url": "https://www.reddit.com/r/dumbphones/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "social",
+    "web"
+   ],
    "blurb": "A More Civilized Age . I’m not really into Star Wars since the Disney takeover ( Andor excepted), but the hosts of this podcast played through Knights of the Old Republic 2 last year and I’ve been slowly following along (and wanting to replay myself!). Magazines.",
    "section": "screen-share",
    "recommender": "Paris"
@@ -417,8 +500,13 @@
    "name": "FFMpeg",
    "url": "https://www.ffmpeg.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "utilities",
+    "video"
+   ],
    "blurb": "I’ve been rebuilding my personal music collection. I buy most of my albums from Bandcamp so I can download the FLAC version to load on my modified iPod Classic 7th gen.",
    "section": "crowdsourced",
    "recommender": "Nick (reader)"
@@ -428,8 +516,13 @@
    "name": "MusicBrainz Picard",
    "url": "https://picard.musicbrainz.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "music",
+    "utilities"
+   ],
    "blurb": "I’ve been rebuilding my personal music collection. I buy most of my albums from Bandcamp so I can download the FLAC version to load on my modified iPod Classic 7th gen.",
    "section": "crowdsourced",
    "recommender": "Nick (reader)"
@@ -439,7 +532,7 @@
    "name": "Anbernic RG34XXSP",
    "url": "https://anbernic.com/products/rg34xxsp",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Loving my new Anbernic RG34XXSP ! It’s perfect for playing GBA games because of the clamshell design and 3:2 aspect ratio screen. MinUI (OS) also makes it a very focused experience. Currently playing through The Legend of Zelda: The Minish Cap for the first time.",
    "section": "crowdsourced",
@@ -450,8 +543,11 @@
    "name": "I Photoshop Paddington into a movie, TV show, or pop culture until I forget",
    "url": "https://bsky.app/profile/jaythechou.bsky.social",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "social",
+    "free"
+   ],
    "blurb": "Currently very into these two Bluesky accounts. They both bring me so much joy: I Photoshop Paddington into a movie, TV show, or pop culture until I forget , and Inserting a Muppet into a Star Trek screenshot .",
    "section": "crowdsourced",
    "recommender": "BaltMatrix (reader)"
@@ -461,8 +557,11 @@
    "name": "Inserting a Muppet into a Star Trek screenshot",
    "url": "https://bsky.app/profile/did:plc:razblu7vgqai5yre3rdpvlx6",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "social",
+    "free"
+   ],
    "blurb": "Currently very into these two Bluesky accounts. They both bring me so much joy: I Photoshop Paddington into a movie, TV show, or pop culture until I forget , and Inserting a Muppet into a Star Trek screenshot .",
    "section": "crowdsourced",
    "recommender": "BaltMatrix (reader)"
@@ -472,8 +571,10 @@
    "name": "Maxell Japanese cassette player",
    "url": "https://maxell-online.com/products/mxcp-p100",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "I’ve been using my Maxell Japanese cassette player more and more. I found a shop in Roma Norte where it feels like a super cool hunting trip, digging for music I like on cassette.",
    "section": "crowdsourced",
    "recommender": "Josue (reader)"
@@ -509,8 +610,10 @@
    "name": "Stardew Valley",
    "url": "https://www.stardewvalley.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "cross-platform"
+   ],
    "blurb": "I’m in Michigan and this winter has been long and cold. Stardew Valley had been a remedy until I got to winter there as well. The relief I felt when it became spring last night was palpable. Now waiting for the real thing.",
    "section": "crowdsourced",
    "recommender": "Ian (reader)"
@@ -520,8 +623,13 @@
    "name": "Wispr Flow",
    "url": "https://wisprflow.ai/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "mac",
+    "productivity",
+    "subscription"
+   ],
    "blurb": "I’ve been totally into AI dictation tools like Wispr Flow , Willow , and Raycast . I’m so much faster speaking than typing. They work seamlessly on Mac but have some friction on iOS due to permissions. Makes me think this will be baked into future versions of Mac/iOS natively.",
    "section": "crowdsourced",
    "recommender": "Irfan (reader)"
@@ -531,8 +639,12 @@
    "name": "Willow",
    "url": "https://willowvoice.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "mac",
+    "productivity"
+   ],
    "blurb": "I’ve been totally into AI dictation tools like Wispr Flow , Willow , and Raycast . I’m so much faster speaking than typing. They work seamlessly on Mac but have some friction on iOS due to permissions. Makes me think this will be baked into future versions of Mac/iOS natively.",
    "section": "crowdsourced",
    "recommender": "Irfan (reader)"
@@ -542,8 +654,13 @@
    "name": "Raycast",
    "url": "https://www.raycast.com/finjo/whisper-dictation",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "productivity",
+    "ai",
+    "free"
+   ],
    "blurb": "I’ve been totally into AI dictation tools like Wispr Flow , Willow , and Raycast . I’m so much faster speaking than typing. They work seamlessly on Mac but have some friction on iOS due to permissions. Makes me think this will be baked into future versions of Mac/iOS natively.",
    "section": "crowdsourced",
    "recommender": "Irfan (reader)"
@@ -553,8 +670,12 @@
    "name": "NewsMap",
    "url": "https://newsmap.ijmacd.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "free",
+    "website"
+   ],
    "blurb": "NewsMap has been helping me get a bird’s eye view of current events. It’s a ‘squarified tree map visualization of Google News.’ Runs as a web app and is customizable. Quick, easy color coded news in a handy grid format.",
    "section": "crowdsourced",
    "recommender": "Seth (reader)"
@@ -564,8 +685,11 @@
    "name": "Gizmo",
    "url": "https://gizmo.party/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "ai"
+   ],
    "blurb": "I was sitting waiting to see The 25th Annual Putnam Spelling Bee in NYC, and a few rows in front of me a girl was scrolling what looked like a TikTok feed, but was filled with little mini-app toys that seemed impossibly varied and unending. A quick Google turned it up: a new app called Gizmo .",
    "section": "crowdsourced",
    "recommender": "Alex (reader)"

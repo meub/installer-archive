@@ -34,8 +34,11 @@
    "name": "OpenAI’s GPT-5.4",
    "url": "https://openai.com/index/introducing-gpt-5-4/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "subscription"
+   ],
    "blurb": "OpenAI is pushing hard to catch up to Claude Code, and I keep hearing that this new model is a big step in that direction. Plus it adds native computer use, which you should approach EXTREMELY carefully, but puts an LLM in a position to be even more useful. One to play with this weekend for sure.",
    "section": "the-drop",
    "recommender": null
@@ -58,8 +61,10 @@
    "name": "Slay the Spire 2",
    "url": "https://megacrit.com/games/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "paid"
+   ],
    "blurb": "Oh boy were a lot of you in my inbox about this this week. The much-anticipated sequel to a beloved roguelike is out (technically in early access, but it seems to be extremely playable already), and I know has already ruined the productivity of many of us in the Installerverse. Don’t miss this one.",
    "section": "the-drop",
    "recommender": null
@@ -84,8 +89,11 @@
    "alt_urls": [
     "https://www.theverge.com/tech/888370/google-pixel-tablet-android-desktop-mode"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "android",
+    "free"
+   ],
    "blurb": "If you have a recent Pixel, you need to update to the latest Android and then plug your phone into a monitor, keyboard, and mouse. No, we’re not quite at “it just becomes a Chromebook!” levels of greatness. But Desktop Mode really, actually, genuinely works. I’m very excited about it.",
    "section": "the-drop",
    "recommender": null
@@ -97,7 +105,7 @@
    "alt_urls": [
     "https://www.theverge.com/entertainment/890333/marathon-live-service-game-mess"
    ],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "This is the kind of huge live-service game that almost never works anymore. (So far, the next Fortnite is just… Fortnite .) But Marathon is at the very least a very good, very shiny, very intense game, the kind you hope and expect Bungie to pull off.",
    "section": "the-drop",
@@ -108,8 +116,11 @@
    "name": "Glaze by Raycast",
    "url": "https://www.glazeapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "mac"
+   ],
    "blurb": "Vibe coding may not be coding, but it’s still pretty technically complex. I love this approach from Raycast, which tries to automate a bunch of design work and product implementation so literally all you have to do is describe the features you want.",
    "section": "the-drop",
    "recommender": null
@@ -119,8 +130,10 @@
    "name": "The Nothing Headphone A",
    "url": "https://us.nothing.tech/products/headphone-a?Colour=Black",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "I’ve come around on Nothing’s retro-future headphone design, and I really like the whole kit when it only costs $199. I wish the mic sounded better, but it has all the controls, connectivity, and battery life you could ask for.",
    "section": "the-drop",
    "recommender": null
@@ -141,8 +154,11 @@
    "name": "a Substack",
    "url": "https://rogosmodern.life/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "newsletter",
+    "web"
+   ],
    "blurb": "I started a Substack on my 40th birthday, and it’s been one of the most creatively rewarding experiences of my life. I write about whatever the hell I want, and make podcasts about whatever the hell interests me.",
    "section": "screen-share",
    "recommender": "Scott"
@@ -178,7 +194,7 @@
    "name": "Clavicular",
    "url": "https://www.instagram.com/clavicular0/",
    "alt_urls": [],
-   "category": null,
+   "category": "app",
    "tags": [],
    "blurb": "The Ben and Emil Show . I’m partial because Ben is a friend (and a softball teammate), but he and his buddy Emil have been making quality content on the regular, including a recent masterpiece called “ We took Acid at the Train Festival .” Drop everything for the next 20 minutes and watch it now.",
    "section": "screen-share",
@@ -189,7 +205,7 @@
    "name": "a direct appeal",
    "url": "https://www.instagram.com/reels/DVFQ4-pADvQ/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "The Ben and Emil Show . I’m partial because Ben is a friend (and a softball teammate), but he and his buddy Emil have been making quality content on the regular, including a recent masterpiece called “ We took Acid at the Train Festival .” Drop everything for the next 20 minutes and watch it now.",
    "section": "screen-share",
@@ -200,7 +216,7 @@
    "name": "myself",
    "url": "https://www.playsavvy.live/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "The Ben and Emil Show . I’m partial because Ben is a friend (and a softball teammate), but he and his buddy Emil have been making quality content on the regular, including a recent masterpiece called “ We took Acid at the Train Festival .” Drop everything for the next 20 minutes and watch it now.",
    "section": "screen-share",
@@ -211,8 +227,10 @@
    "name": "Fyro Citta Sling 3L",
    "url": "https://fyro.co/products/fyro-citta-sling?variant=44752961699893",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "travel"
+   ],
    "blurb": "As a fellow dad of tiny humans, I’d suggest giving a sling bag a try. I’ve been using the Fyro Citta Sling 3L daily and it’s been a game changer. Having my wallet, keys, headphones, phone all easily accessible and collected in one place has been great.",
    "section": "crowdsourced",
    "recommender": "kborer (reader)"
@@ -222,8 +240,11 @@
    "name": "Pok Pok",
    "url": "https://playpokpok.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "subscription"
+   ],
    "blurb": "Pok Pok and PBS Kids fight way above their level for kids games. There is a deep untapped market for not crappy toddler games.",
    "section": "crowdsourced",
    "recommender": "Rahul (reader)"
@@ -233,8 +254,11 @@
    "name": "PBS Kids",
    "url": "https://pbskids.org/games",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "cross-platform"
+   ],
    "blurb": "Pok Pok and PBS Kids fight way above their level for kids games. There is a deep untapped market for not crappy toddler games.",
    "section": "crowdsourced",
    "recommender": "Rahul (reader)"
@@ -244,8 +268,10 @@
    "name": "Hyperion Cantos",
    "url": "https://www.penguinrandomhouse.com/series/HYC/hyperion-cantos/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Re-listening to the audiobook version of Dan Simmons’ Hyperion Cantos after his passing last week, while impatiently waiting on my special-edition hardcovers to come.",
    "section": "crowdsourced",
    "recommender": "Marcos (reader)"
@@ -255,8 +281,10 @@
    "name": "Well There’s Your Problem",
    "url": "https://www.wtyppod.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Obsessively listening to the podcasts: Well There’s Your Problem , Tran Girlismo , and Remap Radio .",
    "section": "crowdsourced",
    "recommender": "Oliveoiltrain (reader)"
@@ -266,8 +294,10 @@
    "name": "Tran Girlismo",
    "url": "https://www.trangirlismo.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Obsessively listening to the podcasts: Well There’s Your Problem , Tran Girlismo , and Remap Radio .",
    "section": "crowdsourced",
    "recommender": "Oliveoiltrain (reader)"
@@ -277,8 +307,10 @@
    "name": "Remap Radio",
    "url": "https://remapradio.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Obsessively listening to the podcasts: Well There’s Your Problem , Tran Girlismo , and Remap Radio .",
    "section": "crowdsourced",
    "recommender": "Oliveoiltrain (reader)"
@@ -288,8 +320,11 @@
    "name": "Reverse: 1999",
    "url": "https://re1999.bluepoch.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "free",
+    "cross-platform"
+   ],
    "blurb": "Reverse: 1999 released the latest version of Critter Crash , an incredibly cute auto battle mode (think TFT from Riot). While I’ve loved the whole game since day one, I love this mode they release 2-3 times a year more than anything.",
    "section": "crowdsourced",
    "recommender": "Kiro (reader)"
@@ -299,8 +334,13 @@
    "name": "Everything Weather",
    "url": "https://everythingwx.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "free",
+    "utilities"
+   ],
    "blurb": "Check out Everything Weather on iOS and Android. It uses the National Weather Service as its source, and is well presented. And almost all of it is free. It even includes space weather.",
    "section": "crowdsourced",
    "recommender": "Kurt (reader)"
@@ -336,8 +376,10 @@
    "name": "Pentaton",
    "url": "https://pentaton.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music"
+   ],
    "blurb": "Pentaton : it just plays music. This hid under my radar for too long, but finally a super clean, super focused, sufficiently audiophile appealing FLAC file player that focuses on just playing files well and is DAC and headphone aware to boot.",
    "section": "crowdsourced",
    "recommender": "Noah (reader)"
@@ -347,8 +389,11 @@
    "name": "Version History",
    "url": "https://pod.link/1840983742",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "podcast"
+   ],
    "blurb": "Allow me some very brief self-promotion: The new season of Version History launches this weekend! We’re getting better and better at making this show, and I really love the six episodes in this season. First up is Furby, which is a truly wild episode. It drops this Sunday.",
    "section": "signing-off",
    "recommender": null
@@ -358,8 +403,12 @@
    "name": "TikTok",
    "url": "https://www.tiktok.com/@versionhistorypodcast",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "video",
+    "free"
+   ],
    "blurb": "To that end, I have a favor to ask. We created new pages for Version History on TikTok , Instagram , and YouTube , and I would be so grateful if you’d subscribe or follow one or all of them. Growing new things is really hard, and I really love this show, and we have big plans for it.",
    "section": "signing-off",
    "recommender": null
@@ -369,8 +418,11 @@
    "name": "Instagram",
    "url": "https://www.instagram.com/versionhistorypodcast",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "free"
+   ],
    "blurb": "To that end, I have a favor to ask. We created new pages for Version History on TikTok , Instagram , and YouTube , and I would be so grateful if you’d subscribe or follow one or all of them. Growing new things is really hard, and I really love this show, and we have big plans for it.",
    "section": "signing-off",
    "recommender": null

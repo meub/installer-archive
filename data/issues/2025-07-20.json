@@ -38,8 +38,12 @@
    "alt_urls": [
     "https://www.theverge.com/ai-artificial-intelligence/709158/openai-new-release-chatgpt-agent-operator-deep-research"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web",
+    "subscription"
+   ],
    "blurb": "OpenAI’s new agent can now “do work for you using its own computer,” like briefing you about your calendar or finding flights on Expedia. Seems impressive, though it’s apparently slow right now .",
    "section": "the-drop",
    "recommender": null
@@ -52,8 +56,11 @@
     "https://www.tiktok.com/@etymologynerd?lang=en",
     "https://www.theverge.com/internet-culture/697406/algospeak-adam-aleksic-excerpt"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "social"
+   ],
    "blurb": "This new book from linguist Adam Aleksic — who you might know better as etymologynerd on TikTok — explores how algorithms are changing language.",
    "section": "the-drop",
    "recommender": null
@@ -80,7 +87,7 @@
    "name": "Wacom’s MovinkPad 11",
    "url": "https://www.wacom.com/en-de/products/portable-pad/wacom-movinkpad-11#Overview",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "This new $449.95 Wacom tablet doesn’t need to be connected to a PC to work — you can just draw on it. I always aspired to be the kind of person who can capably draw on a tablet, and this seems like a good device to do that with.",
    "section": "the-drop",
@@ -93,7 +100,7 @@
    "alt_urls": [
     "https://www.theverge.com/tech/643886/joystick-drift-tunneling-magnetoresistance-tmr-hall-effect-gaming-solution"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "This controller solves the problem of fretting over different ABXY button layouts by making the buttons magnetic so you can switch them around. Genius! It also has TMR joysticks, which are less prone to joystick drift .",
    "section": "the-drop",
@@ -104,7 +111,7 @@
    "name": "Elgato Stream Deck",
    "url": "https://www.elgato.com/us/en",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Instead of just white and black, you can now get the handy, customizable console and other Elgato accessories in “forest green,” “pink petal,” “wild lavender,” and “glacier ice.” I usually get every gadget in black, but the green looks pretty darn nice.",
    "section": "the-drop",
@@ -118,8 +125,11 @@
     "https://www.theverge.com/24186786/wordle-original-name-mr-bugs-wordy-nugz-wardle",
     "https://www.theverge.com/21327599/how-to-make-emoji-yawning-face-waffle-proposal-unicode"
    ],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "subscription"
+   ],
    "blurb": "Apple News Plus subscribers can now play a new emoji-themed word game. I am considering subscribing just to try it — it sounds like my jam .",
    "section": "the-drop",
    "recommender": null
@@ -140,8 +150,12 @@
    "name": "Signal",
    "url": "https://signal.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "free",
+    "social"
+   ],
    "blurb": "The apps: The apps are all labeled, save for the quickbar ones: Signal , Bluesky , Proton Mail , Google Calendar , and Chrome . The two cut-off names are Pocket Casts and CloudLibrary .",
    "section": "screen-share",
    "recommender": "Molly"
@@ -151,8 +165,12 @@
    "name": "Bluesky",
    "url": "https://bsky.social/about",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "cross-platform",
+    "free"
+   ],
    "blurb": "The apps: The apps are all labeled, save for the quickbar ones: Signal , Bluesky , Proton Mail , Google Calendar , and Chrome . The two cut-off names are Pocket Casts and CloudLibrary .",
    "section": "screen-share",
    "recommender": "Molly"
@@ -162,8 +180,11 @@
    "name": "Proton Mail",
    "url": "https://proton.me/mail",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "productivity"
+   ],
    "blurb": "The apps: The apps are all labeled, save for the quickbar ones: Signal , Bluesky , Proton Mail , Google Calendar , and Chrome . The two cut-off names are Pocket Casts and CloudLibrary .",
    "section": "screen-share",
    "recommender": "Molly"
@@ -173,8 +194,12 @@
    "name": "Google Calendar",
    "url": "https://workspace.google.com/intl/en-US/products/calendar/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "productivity",
+    "free"
+   ],
    "blurb": "The apps: The apps are all labeled, save for the quickbar ones: Signal , Bluesky , Proton Mail , Google Calendar , and Chrome . The two cut-off names are Pocket Casts and CloudLibrary .",
    "section": "screen-share",
    "recommender": "Molly"
@@ -184,8 +209,12 @@
    "name": "Chrome",
    "url": "https://www.google.com/chrome/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "free",
+    "web"
+   ],
    "blurb": "The apps: The apps are all labeled, save for the quickbar ones: Signal , Bluesky , Proton Mail , Google Calendar , and Chrome . The two cut-off names are Pocket Casts and CloudLibrary .",
    "section": "screen-share",
    "recommender": "Molly"
@@ -195,8 +224,11 @@
    "name": "Pocket Casts",
    "url": "https://pocketcasts.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "podcast",
+    "cross-platform"
+   ],
    "blurb": "The apps: The apps are all labeled, save for the quickbar ones: Signal , Bluesky , Proton Mail , Google Calendar , and Chrome . The two cut-off names are Pocket Casts and CloudLibrary .",
    "section": "screen-share",
    "recommender": "Molly"
@@ -206,8 +238,12 @@
    "name": "CloudLibrary",
    "url": "https://www.yourcloudlibrary.com/en/home.html",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "book",
+    "cross-platform",
+    "free"
+   ],
    "blurb": "The apps: The apps are all labeled, save for the quickbar ones: Signal , Bluesky , Proton Mail , Google Calendar , and Chrome . The two cut-off names are Pocket Casts and CloudLibrary .",
    "section": "screen-share",
    "recommender": "Molly"
@@ -217,8 +253,12 @@
    "name": "Libby",
    "url": "https://libbyapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "book",
+    "cross-platform",
+    "free"
+   ],
    "blurb": "I’m a big reader, so it’s probably not surprising that three of the apps on the home screen are book-related.",
    "section": "screen-share",
    "recommender": "Molly"
@@ -228,8 +268,11 @@
    "name": "StoryGraph",
    "url": "https://thestorygraph.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "book",
+    "cross-platform"
+   ],
    "blurb": "I’m a big reader, so it’s probably not surprising that three of the apps on the home screen are book-related.",
    "section": "screen-share",
    "recommender": "Molly"
@@ -252,8 +295,10 @@
    "name": "Piranesi by Susanna Clarke",
    "url": "https://www.curtisbrown.co.uk/client/susanna-clarke/work/piranesi",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’m a big reader, so it’s probably not surprising that three of the apps on the home screen are book-related.",
    "section": "screen-share",
    "recommender": "Molly"
@@ -263,8 +308,12 @@
    "name": "Inoreader",
    "url": "https://www.inoreader.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "productivity",
+    "newsletter"
+   ],
    "blurb": "I’m a very heavy RSS user, and Inoreader is my RSS reader. It’s perhaps a bit ironic as someone who writes an email newsletter that I don’t like reading newsletters in my email inbox, but I much prefer to sit down and read my newsletters at my preferred reading time than have them interrupt me…",
    "section": "screen-share",
    "recommender": "Molly"
@@ -274,8 +323,11 @@
    "name": "Paprika",
    "url": "https://www.paprikaapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "paid"
+   ],
    "blurb": "I’m a very heavy RSS user, and Inoreader is my RSS reader. It’s perhaps a bit ironic as someone who writes an email newsletter that I don’t like reading newsletters in my email inbox, but I much prefer to sit down and read my newsletters at my preferred reading time than have them interrupt me…",
    "section": "screen-share",
    "recommender": "Molly"
@@ -285,8 +337,10 @@
    "name": "Dungeon Crawler Carl",
    "url": "https://mattdinniman.com/hardcovers/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’ve recently discovered the litRPG genre, having caught the Dungeon Crawler Carl bug a few months ago.",
    "section": "screen-share",
    "recommender": "Molly"
@@ -296,8 +350,10 @@
    "name": "Beware of Chicken",
    "url": "https://www.royalroad.com/fiction/39408/beware-of-chicken",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’ve recently discovered the litRPG genre, having caught the Dungeon Crawler Carl bug a few months ago.",
    "section": "screen-share",
    "recommender": "Molly"
@@ -318,8 +374,10 @@
    "name": "fourth issue",
    "url": "https://thehtml.review/04/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "I’ve recently discovered the litRPG genre, having caught the Dungeon Crawler Carl bug a few months ago.",
    "section": "screen-share",
    "recommender": "Molly"
@@ -342,8 +400,10 @@
    "name": "Charles Sumner: Conscience of a Nation",
    "url": "https://us.macmillan.com/books/9781250362551/charlessumner/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "For reasons surely not related to current events, I’ve been reading a lot about the leadup to the Civil War.",
    "section": "crowdsourced",
    "recommender": "Hoto (reader)"
@@ -353,7 +413,7 @@
    "name": "Cyberpunk 2077",
    "url": "https://www.cyberpunk.net/us/en/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I’ve been playing through my Steam Summer Sale haul and having a blast. ( Cyberpunk 2077 , Besiege , Emily is Away , Nubby Number Factory , A Short Hike .) I’ve also gotten into Letterboxed recently, having fun there after recruiting some friends to join.",
    "section": "crowdsourced",
@@ -364,7 +424,7 @@
    "name": "Besiege",
    "url": "https://www.spiderlinggames.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I’ve been playing through my Steam Summer Sale haul and having a blast. ( Cyberpunk 2077 , Besiege , Emily is Away , Nubby Number Factory , A Short Hike .) I’ve also gotten into Letterboxed recently, having fun there after recruiting some friends to join.",
    "section": "crowdsourced",
@@ -375,7 +435,7 @@
    "name": "Emily is Away",
    "url": "http://kyleseeley.com/emilyisaway.html",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I’ve been playing through my Steam Summer Sale haul and having a blast. ( Cyberpunk 2077 , Besiege , Emily is Away , Nubby Number Factory , A Short Hike .) I’ve also gotten into Letterboxed recently, having fun there after recruiting some friends to join.",
    "section": "crowdsourced",
@@ -386,7 +446,7 @@
    "name": "Nubby Number Factory",
    "url": "https://www.mogdogblog.com/games",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I’ve been playing through my Steam Summer Sale haul and having a blast. ( Cyberpunk 2077 , Besiege , Emily is Away , Nubby Number Factory , A Short Hike .) I’ve also gotten into Letterboxed recently, having fun there after recruiting some friends to join.",
    "section": "crowdsourced",
@@ -397,7 +457,7 @@
    "name": "A Short Hike",
    "url": "https://ashorthike.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I’ve been playing through my Steam Summer Sale haul and having a blast. ( Cyberpunk 2077 , Besiege , Emily is Away , Nubby Number Factory , A Short Hike .) I’ve also gotten into Letterboxed recently, having fun there after recruiting some friends to join.",
    "section": "crowdsourced",
@@ -408,8 +468,11 @@
    "name": "Letterboxed",
    "url": "https://letterboxd.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "I’ve been playing through my Steam Summer Sale haul and having a blast. ( Cyberpunk 2077 , Besiege , Emily is Away , Nubby Number Factory , A Short Hike .) I’ve also gotten into Letterboxed recently, having fun there after recruiting some friends to join.",
    "section": "crowdsourced",
    "recommender": "trekkie86 (reader)"
@@ -419,8 +482,10 @@
    "name": "13 Minutes Presents",
    "url": "https://www.bbc.co.uk/programmes/w13xttx2",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "I’ve been playing through my Steam Summer Sale haul and having a blast. ( Cyberpunk 2077 , Besiege , Emily is Away , Nubby Number Factory , A Short Hike .) I’ve also gotten into Letterboxed recently, having fun there after recruiting some friends to join.",
    "section": "crowdsourced",
    "recommender": "trekkie86 (reader)"
@@ -430,8 +495,10 @@
    "name": "The Anthropologists",
    "url": "https://www.bloomsbury.com/us/anthropologists-9781639733064/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Started reading The Anthropologists . Breezy, lovely writing!",
    "section": "crowdsourced",
    "recommender": "Jake (reader)"
@@ -441,8 +508,10 @@
    "name": "Careless People",
    "url": "https://read.macmillan.com/fib/careless-people/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "It may be clichéd, but reading Careless People by Sarah Wynn-Williams. And watching Superman has gotten me into reading the Superman comics, so from a Reddit recommendation, I’m currently reading Superman: Up in the Sky by Tom King.",
    "section": "crowdsourced",
    "recommender": "pangaean (reader)"
@@ -465,8 +534,10 @@
    "name": "Superman: Up in the Sky",
    "url": "https://www.dc.com/graphic-novels/superman-up-in-the-sky",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "It may be clichéd, but reading Careless People by Sarah Wynn-Williams. And watching Superman has gotten me into reading the Superman comics, so from a Reddit recommendation, I’m currently reading Superman: Up in the Sky by Tom King.",
    "section": "crowdsourced",
    "recommender": "pangaean (reader)"
@@ -476,8 +547,13 @@
    "name": "StepMania",
    "url": "https://www.stepmania.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "windows",
+    "fitness"
+   ],
    "blurb": "Been playing Dance Dance Revolution with a mat I got online as my indoor summer (and air conditioned) exercise! Works on PC with the included USB stick with StepMania and on my old PS2, still chugging along with original discs from childhood. It’s been humbling to say the least, but great cardio!",
    "section": "crowdsourced",
    "recommender": "WhatsTheMatter (reader)"

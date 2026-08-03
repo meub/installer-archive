@@ -64,8 +64,10 @@
    "name": "Skich",
    "url": "https://skich.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
    "blurb": "A really interesting alternative iOS app store (unfortunately only available to folks in the EU) that promises both lower fees for devs and better discovery for players. This thing is still very new — it doesn’t even have any games! — but is worth watching.",
    "section": "the-drop",
    "recommender": null
@@ -75,8 +77,11 @@
    "name": "Good Robot",
    "url": "https://www.vox.com/unexplainable",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "ai"
+   ],
    "blurb": "A new series from our friends at Vox , part of the terrific Unexplainable podcast, all about the rise of AI and the many, many, many questions it creates. The episodes I’ve heard are interesting and terrifying, which feels exactly right for all things AI.",
    "section": "the-drop",
    "recommender": null
@@ -86,8 +91,12 @@
    "name": "Pocket Casts Web",
    "url": "https://blog.pocketcasts.com/2025/03/11/webplayer/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "podcast",
+    "free"
+   ],
    "blurb": "Speaking of podcasts! Pocket Casts has been my favorite podcast app for years, and my only hesitation has been that you have to pay for many of its best features. No longer: its web and desktop apps are now free, and you can sync all your stuff across all your devices.",
    "section": "the-drop",
    "recommender": null
@@ -99,8 +108,10 @@
    "alt_urls": [
     "https://stanleyparable.com/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "cross-platform"
+   ],
    "blurb": "A game for Xbox, PlayStation, and PC about making tea. And hard work. And redemption. And quiet. And community. I get both Animal Crossing and Stardew Valley vibes from this game, and I mean that in the best possible way.",
    "section": "the-drop",
    "recommender": null
@@ -110,8 +121,11 @@
    "name": "Matter Co-Reader",
    "url": "https://hq.getmatter.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "ios"
+   ],
    "blurb": "I’ve mentioned Matter here a few times — it’s a really lovely read-later app for Apple devices. This new feature is a very clever use of AI: you select some text, the app will offer up questions you might have about it, and you just tap to learn more.",
    "section": "the-drop",
    "recommender": null
@@ -121,8 +135,11 @@
    "name": "Openvibe 1.9",
    "url": "https://openvibe.social/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "social",
+    "ios"
+   ],
    "blurb": "The all-in-one social feed app got the feature it needed most: timeline saving, so you can pick up where you left off next time you’re in the app. This immediately turned Openvibe from an app I think is neat to one I’m using almost every day.",
    "section": "the-drop",
    "recommender": null
@@ -132,8 +149,10 @@
    "name": "her experience at the Trump Grill",
    "url": "https://www.vanityfair.com/news/2016/12/trump-grill-review",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "Tina Nguyen joined The Verge ’s politics team a couple of weeks ago, in an extremely chill and normal time to be covering the intersection of technology and politics.",
    "section": "screen-share",
    "recommender": "Tina"
@@ -143,8 +162,11 @@
    "name": "Lime",
    "url": "https://www.li.me/vehicles/scooter",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "travel",
+    "ios"
+   ],
    "blurb": "Lime scooters are endemic in DC, which makes it easy to jet around the two-mile radius of places I visit on a regular basis, but if I have to go somewhere like Union Station (or locations where I have to wear heels), I’ll race Uber and Lyft against each other.",
    "section": "screen-share",
    "recommender": "Tina"
@@ -167,8 +189,10 @@
    "name": "Elgato Key Lights",
    "url": "https://www.elgato.com/us/en/p/key-light",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "video"
+   ],
    "blurb": "The Control Center app is for me to adjust my Elgato Key Lights at my desk. I initially got them for doing media hits, but it turns out that they make excellent sun lamps, too. (My home office has NO WINDOWS, and I swear to god, they’ve improved my productivity.)",
    "section": "screen-share",
    "recommender": "Tina"
@@ -178,8 +202,12 @@
    "name": "Calm",
    "url": "https://www.calm.com/ua-homepage",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "subscription",
+    "fitness"
+   ],
    "blurb": "Of course I have the Calm app. Have you seen what I cover for a living?",
    "section": "screen-share",
    "recommender": "Tina"
@@ -189,8 +217,11 @@
    "name": "Nebula",
    "url": "https://nebula.tv/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "subscription",
+    "video"
+   ],
    "blurb": "I subscribe to Nebula just to have access to episodes of Jet Lag: The Game a week before they hit YouTube . (It’s a travel game show that’s perfect for people who love public transit and flight logistics.)",
    "section": "screen-share",
    "recommender": "Tina"
@@ -200,8 +231,12 @@
    "name": "Jet Lag: The Game",
    "url": "https://nebula.tv/jetlag",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "travel",
+    "tv"
+   ],
    "blurb": "I subscribe to Nebula just to have access to episodes of Jet Lag: The Game a week before they hit YouTube . (It’s a travel game show that’s perfect for people who love public transit and flight logistics.)",
    "section": "screen-share",
    "recommender": "Tina"
@@ -224,8 +259,10 @@
    "name": "Cotopaxi Allpa",
    "url": "https://www.cotopaxi.com/collections/allpa",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "travel"
+   ],
    "blurb": "I subscribe to Nebula just to have access to episodes of Jet Lag: The Game a week before they hit YouTube . (It’s a travel game show that’s perfect for people who love public transit and flight logistics.)",
    "section": "screen-share",
    "recommender": "Tina"
@@ -235,8 +272,10 @@
    "name": "Peak Design 15L",
    "url": "https://www.peakdesign.com/products/everyday-backpack-zip?Size=15L",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "travel"
+   ],
    "blurb": "I subscribe to Nebula just to have access to episodes of Jet Lag: The Game a week before they hit YouTube . (It’s a travel game show that’s perfect for people who love public transit and flight logistics.)",
    "section": "screen-share",
    "recommender": "Tina"
@@ -246,8 +285,10 @@
    "name": "Pikachu Longchamp bag",
    "url": "https://www.lofficielmalaysia.com/fashion/the-longchamp-x-pokemon-collection-is-here",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "travel"
+   ],
    "blurb": "I subscribe to Nebula just to have access to episodes of Jet Lag: The Game a week before they hit YouTube . (It’s a travel game show that’s perfect for people who love public transit and flight logistics.)",
    "section": "screen-share",
    "recommender": "Tina"
@@ -270,8 +311,11 @@
    "name": "Prado Traveler",
    "url": "https://www.pradotraveler.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "fitness",
+    "ios"
+   ],
    "blurb": "You mention Fantasy Hike sometimes, so you’ve got to try Prado Traveler . It’s an incremental step counter RPG where your daily steps fuel your character to delve dungeons, level up, and get loot.",
    "section": "crowdsourced",
    "recommender": "Emmett (reader)"
@@ -281,7 +325,7 @@
    "name": "Arco",
    "url": "https://arco.game/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Playing Arco . Great game — good combat system, good story, deserves a wider audience!",
    "section": "crowdsourced",
@@ -292,8 +336,13 @@
    "name": "Organic Maps",
    "url": "https://organicmaps.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "travel",
+    "android"
+   ],
    "blurb": "I discovered Organic Maps , a well-made app for OpenStreetMap . It seems to have great data where I live in Central Europe, and it even has public transport routing and opening hours. I try to look into open-source alternatives for US big tech apps, as you can’t predict the future right now.",
    "section": "crowdsourced",
    "recommender": "Alex (reader)"
@@ -303,8 +352,13 @@
    "name": "OpenStreetMap",
    "url": "https://www.openstreetmap.org/#map=4/38.01/-95.84",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "web",
+    "travel"
+   ],
    "blurb": "I discovered Organic Maps , a well-made app for OpenStreetMap . It seems to have great data where I live in Central Europe, and it even has public transport routing and opening hours. I try to look into open-source alternatives for US big tech apps, as you can’t predict the future right now.",
    "section": "crowdsourced",
    "recommender": "Alex (reader)"
@@ -327,8 +381,10 @@
    "name": "Flipper Zero",
    "url": "https://flipperzero.one/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "utilities"
+   ],
    "blurb": "The Flipper Zero is a really intriguing multitool that may be useful in the coming end times.",
    "section": "crowdsourced",
    "recommender": "Scott (reader)"
@@ -338,8 +394,10 @@
    "name": "Mickey7",
    "url": "https://us.macmillan.com/books/9781250275035/mickey7/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Before seeing Mickey 17, I can recommend the book Mickey7 to anyone that liked anything by Andy Weir ( The Martian , Project Hail Mary ), Dennis E. Taylor ( Bobiverse series), or Martha Wells ( Murderbot series). Fun and smart sci-fi that is a joy to read!",
    "section": "crowdsourced",
    "recommender": "David (reader)"
@@ -349,8 +407,13 @@
    "name": "Logseq",
    "url": "https://logseq.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "open-source",
+    "cross-platform",
+    "free"
+   ],
    "blurb": "Logseq has replaced all my workflow tools with one succinct journal-based document engine that builds the knowledge graph as I bullet journal. It even has Emacs’ Org mode-style to-do lists and an extensive plugin ecosystem. Also open source!",
    "section": "crowdsourced",
    "recommender": "James (reader)"
@@ -360,8 +423,10 @@
    "name": "this review",
    "url": "https://www.pcmag.com/reviews/zwo-seestar-s50",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "Before the holidays, I read this review of Zwo’s Seestar S50 ‘smart telescope.’ That rekindled my longtime (but never acted on) interest in astronomy. I learned that Zwo was coming out with a new, smaller entry-level model, the Seestar S30 , so I preordered one in early December.",
    "section": "crowdsourced",
    "recommender": "David (reader)"
@@ -371,8 +436,10 @@
    "name": "Seestar S30",
    "url": "https://www.zwoastro.com/product/seestar-s30-smart-telescope/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography"
+   ],
    "blurb": "Before the holidays, I read this review of Zwo’s Seestar S50 ‘smart telescope.’ That rekindled my longtime (but never acted on) interest in astronomy. I learned that Zwo was coming out with a new, smaller entry-level model, the Seestar S30 , so I preordered one in early December.",
    "section": "crowdsourced",
    "recommender": "David (reader)"

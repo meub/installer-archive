@@ -36,8 +36,10 @@
    "name": "The new iPad Mini",
    "url": "http://apple.sjv.io/baWDvP",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ios"
+   ],
    "blurb": "I’ve always hoped Apple would decide to do something awesome and new with the iPad Mini. And Apple never does. But I love the Mini all the same, and at the very least, this one is a thoroughly modern iPad that can do every iPad thing. I’ll take that.",
    "section": "the-drop",
    "recommender": null
@@ -47,8 +49,11 @@
    "name": "The DJI Air 3S",
    "url": "https://www.dji.com/air-3s",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography",
+    "video"
+   ],
    "blurb": "The new midrange drone in DJI’s lineup has a bunch of nice upgrades but really only one purpose: to work well in the dark. The 3S is built to fly safer, capture better images, and return home more easily, all without being able to see very well.",
    "section": "the-drop",
    "recommender": null
@@ -58,8 +63,12 @@
    "name": "The Sonos Arc Ultra",
    "url": "https://www.anrdoezrs.net/click-8836598-11556673?url=https://www.sonos.com/en-us/shop/arc-ultra",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music",
+    "tv",
+    "smart-home"
+   ],
    "blurb": "Yeah, the app sucks, but Sonos still makes great-sounding stuff. And I think if you’re going to buy one piece of home stereo gear, a soundbar is the way. If the surround-sound tech works half as well as the company says, this one’s a winner.",
    "section": "the-drop",
    "recommender": null
@@ -71,7 +80,7 @@
    "alt_urls": [
     "https://www.theverge.com/2024/10/16/24265587/analogue-3d-nintendo-64-price-preorder-date"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I have been waiting for Analogue’s Nintendo 64 console for what feels like forever, and this 4K upscaling machine is exactly what I hoped it’d be . It doesn’t ship until next year, and you can’t preorder it until Monday, but I’m telling you now because I’d bet good money it’ll sell out in a hurry.",
    "section": "the-drop",
@@ -97,8 +106,11 @@
    "name": "Eater for iOS",
    "url": "https://www.eater.com/24265367/eater-app-where-to-download",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "travel"
+   ],
    "blurb": "This is exactly what I can never get Google Maps to be: just a million maps of cool, good restaurants. Eater ’s taste often skews a little fancy and expensive, but I’ve rarely gone wrong trusting its recommendations.",
    "section": "the-drop",
    "recommender": null
@@ -143,8 +155,12 @@
    "name": "Libby",
    "url": "https://libbyapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "book",
+    "free",
+    "cross-platform"
+   ],
    "blurb": "Libby : While I fully support the idea of library-managed controlled digital lending, I can’t deny the convenient pipeline of borrowing a book from the New York and Brooklyn public libraries through Libby and having it appear instantly on my Kobo reader.",
    "section": "screen-share",
    "recommender": "Adi"
@@ -154,8 +170,11 @@
    "name": "Paprika",
    "url": "https://www.paprikaapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "paid",
+    "cross-platform"
+   ],
    "blurb": "Paprika : In an era of link rot and paywalls, this is the best service I’ve found for opening a recipe on the internet, downloading a personal copy, and keeping it permanently on my phone for reference. (There’s also a desktop version.)",
    "section": "screen-share",
    "recommender": "Adi"
@@ -165,8 +184,10 @@
    "name": "Stash2Go",
    "url": "https://stash2go.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
    "blurb": "Stash2Go : I don’t knit as much as I used to (infants and giant needles present some obvious problems), but I’m an avid Ravelry user, and when I started knitting, this was the best third-party app I found.",
    "section": "screen-share",
    "recommender": "Adi"
@@ -176,8 +197,12 @@
    "name": "Bluesky",
    "url": "https://bsky.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "free",
+    "cross-platform"
+   ],
    "blurb": "Bluesky : When Twitter’s user base started splintering, I wasn’t sure Bluesky would make it!",
    "section": "screen-share",
    "recommender": "Adi"
@@ -187,8 +212,11 @@
    "name": "LibraryThing",
    "url": "https://www.librarything.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "book",
+    "web"
+   ],
    "blurb": "LibraryThing : With absolutely no disrespect to the creator of LibraryThing: I do not like LibraryThing. I do not like the complicated sorting and annotation features I never use. I do not like that, half the time, adding a book to my library requires restarting the app.",
    "section": "screen-share",
    "recommender": "Adi"
@@ -198,8 +226,12 @@
    "name": "Feedly",
    "url": "https://feedly.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "productivity",
+    "web"
+   ],
    "blurb": "Feedly : I keep up with news and essays on RSS. I got a Feedly account when Google Reader shut down. It works pretty well, and I’m happy with it. I am a simple woman, set in my ways.",
    "section": "screen-share",
    "recommender": "Adi"
@@ -209,8 +241,12 @@
    "name": "Wikipedia",
    "url": "https://m.mediawiki.org/wiki/Wikimedia_Apps",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "web",
+    "website"
+   ],
    "blurb": "Wikipedia : This is my Instagram. I’ve lost hours scrolling it. My current tabs include Charlotta Bass (the first Black woman to own and operate a US newspaper), Daigo Fukuryū Maru (the Japanese fishing boat, contaminated with radioactive fallout in the 1950s, that partially inspired Godzilla )…",
    "section": "screen-share",
    "recommender": "Adi"
@@ -220,8 +256,10 @@
    "name": "The Book of Elsewhere",
    "url": "https://thebookofelsewhere.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’m currently reading The Book of Elsewhere by Keanu Reeves and China Miéville. I’ve barely started, but I generally like Keanu Reeves’ taste, and China Miéville is one of my favorite authors, so a collaboration between them is too delightful a prospect to miss.",
    "section": "screen-share",
    "recommender": "Adi"
@@ -244,7 +282,7 @@
    "name": "Dredge",
    "url": "https://www.dredge.game/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I’m currently reading The Book of Elsewhere by Keanu Reeves and China Miéville. I’ve barely started, but I generally like Keanu Reeves’ taste, and China Miéville is one of my favorite authors, so a collaboration between them is too delightful a prospect to miss.",
    "section": "screen-share",
@@ -255,8 +293,11 @@
    "name": "Codenames",
    "url": "https://codenamesapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "I’ve found and been playing a whole lot of Codenames , a new app version of the board game. It is incredibly well-thought-out, with lots of fun variations and cool ideas. It’s also a one-time purchase, which I really appreciate!",
    "section": "crowdsourced",
    "recommender": "Joel (reader)"
@@ -266,8 +307,11 @@
    "name": "Hearing Things",
    "url": "https://www.hearingthings.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music",
+    "website"
+   ],
    "blurb": "Some former Pitchfork folks started their own thing called Hearing Things and started it off with a killer playlist of the best music of the decade so far. And before anyone asks",
    "section": "crowdsourced",
    "recommender": "yes, they do have a ‘blog’ section.” – Christine (reader)"
@@ -277,8 +321,10 @@
    "name": "a killer playlist",
    "url": "https://www.hearingthings.co/100-songs-that-define-our-decade-so-far/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "Some former Pitchfork folks started their own thing called Hearing Things and started it off with a killer playlist of the best music of the decade so far. And before anyone asks",
    "section": "crowdsourced",
    "recommender": "yes, they do have a ‘blog’ section.” – Christine (reader)"
@@ -288,8 +334,10 @@
    "name": "Six Four",
    "url": "https://us.macmillan.com/books/9781250160003/sixfour",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I just finished Hideo Yokoyama’s Six Four . It has to be the weirdest, most unique crime fiction I’ve ever read. Highly recommend it.",
    "section": "crowdsourced",
    "recommender": "Laszlo (reader)"
@@ -299,8 +347,12 @@
    "name": "DuckDuckGo AI Chat",
    "url": "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "free",
+    "web"
+   ],
    "blurb": "I really like DuckDuckGo AI Chat , which includes the ChatGPT, Claude, Llama, and Mixtral models, where chats are private and are never saved or used to train AI models. As a privacy-focused user, I find this really helpful.",
    "section": "crowdsourced",
    "recommender": "Shyam (reader)"
@@ -323,7 +375,7 @@
    "name": "Simplehuman trash cans",
    "url": "https://www.simplehuman.com/products/small-slim-step-can-5l?variant=42820157636739",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "It’s dumb, overpriced, and over-engineered. I just got three of these Simplehuman trash cans for my bathrooms. It’s built like a tank, and these things will go with me to my grave.",
    "section": "crowdsourced",
@@ -334,8 +386,10 @@
    "name": "Rusty Lake",
    "url": "https://www.rustylake.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "cross-platform"
+   ],
    "blurb": "Here’s a fun game you should look into: the studio is called Rusty Lake , and they have 15–20 point-and-click games that all are connected to an overall story. It deals with murder, reincarnation, and family, and they’re really good! I would start with Paradox because that’s the one I started with.",
    "section": "crowdsourced",
    "recommender": "Levi (reader)"
@@ -345,7 +399,7 @@
    "name": "Paradox",
    "url": "https://www.rustylake.com/room-escape-games/cube-escape-paradox.html",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Here’s a fun game you should look into: the studio is called Rusty Lake , and they have 15–20 point-and-click games that all are connected to an overall story. It deals with murder, reincarnation, and family, and they’re really good! I would start with Paradox because that’s the one I started with.",
    "section": "crowdsourced",
@@ -367,8 +421,10 @@
    "name": "The Dispossessed",
    "url": "https://www.ursulakleguin.com/dispossessed",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Been on an Ursula K. Le Guin kick and reading The Dispossessed . It goes deep into thinking what a society based on anarchist principles would be like, plus tons of mid-century sci-fi goodness.",
    "section": "crowdsourced",
    "recommender": "Richard (reader)"
@@ -391,8 +447,11 @@
    "name": "the talks from XOXO",
    "url": "https://waxy.org/2024/10/the-xoxo-2024-talks/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "free"
+   ],
    "blurb": "I’m sure (or at least I hope) I’m the 9,000th person to tell you to watch Cabel Sasser’s talk from the XOXO conference this year. Honestly, most of the talks from XOXO are great if you care about the internet and creativity and art and stuff, but Sasser’s was my favorite.",
    "section": "signing-off",
    "recommender": null

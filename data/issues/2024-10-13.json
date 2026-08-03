@@ -52,8 +52,12 @@
    "alt_urls": [
     "https://www.theverge.com/2024/10/8/24265312/microsoft-onedrive-mobile-app-search-colored-folders-file-explorer"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "subscription",
+    "photography"
+   ],
    "blurb": "OneDrive has always been, like, fine. But if Microsoft really has made it faster , improved search, and finally shipped a more photos-focused mobile app, it might finally be a worthy competitor to Google Drive and Dropbox. (Low bar, but hey.)",
    "section": "the-drop",
    "recommender": null
@@ -63,8 +67,12 @@
    "name": "Mastodon 4.3",
    "url": "https://blog.joinmastodon.org/2024/10/mastodon-4.3/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "open-source",
+    "free"
+   ],
    "blurb": "I’ve found it difficult in recent months to really care about Mastodon, which just seemed like it wasn’t ready to be the next big thing. But I think this update, meant to make the platform easier to use but especially meant to make it easier to find people to follow, is pretty exciting.",
    "section": "the-drop",
    "recommender": null
@@ -74,8 +82,11 @@
    "name": "Miraibo Go",
    "url": "https://miraibogo.dreamcubegame.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "People keep comparing this open-world monster-taming game to Palworld — because it appears to be super fun and bonkers and also because it doesn’t not look like Pokémon , you know? Either way, I anticipate seeing a lot of people capturing Miras this weekend.",
    "section": "the-drop",
    "recommender": null
@@ -85,8 +96,11 @@
    "name": "Forums Are Still Alive, Active, And A Treasure Trove Of Information",
    "url": "https://aftermath.site/best-active-forums-internet-today",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "web"
+   ],
    "blurb": "“ Forums Are Still Alive, Active, And A Treasure Trove Of Information .” Chris Person, a writer at Aftermath and friend of The Verge, is right: if you want the real real on almost anything, the best place to go is a forum.",
    "section": "the-drop",
    "recommender": null
@@ -111,8 +125,12 @@
    "name": "Goodnotes",
    "url": "https://www.goodnotes.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity",
+    "ai"
+   ],
    "blurb": "If you’re the write-by-hand type, Goodnotes is one of the best apps out there. And it’s cool to see the company bring AI to the mix — it’s doing some of the same search, handwriting improvement, and equation-solving stuff that is so cool in Apple Notes.",
    "section": "the-drop",
    "recommender": null
@@ -122,8 +140,11 @@
    "name": "Dookie Demastered",
    "url": "https://www.dookiedemastered.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music",
+    "website"
+   ],
    "blurb": "The silliest, most delightful thing of the week: Green Day took its 30-year-old masterpiece of a record and tried to make it work on, like, an electric toothbrush. Am I willing to pay $79 for a Big Mouth Billy Bass that plays the song “Basket Case”? OF COURSE I AM.",
    "section": "the-drop",
    "recommender": null
@@ -135,8 +156,11 @@
    "alt_urls": [
     "https://www.theverge.com/2024/10/8/24265025/google-docs-tabs-organization-feature-availability"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "productivity",
+    "web"
+   ],
    "blurb": "This is one of those tiny organizational things — splitting a Google Docs doc into tabs instead of just a billion pages — that is going to make my life so much easier. Now can Google just make the mobile app good? Please?",
    "section": "the-drop",
    "recommender": null
@@ -209,8 +233,10 @@
    "name": "The Bright Sword",
    "url": "https://www.penguinrandomhouse.com/books/554241/the-bright-sword-by-lev-grossman/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Current media obsessions include Agatha All Along , The Great British Bake Off , and rewatching Doctor Who . We’re just finishing the Peter Capaldi era and haven’t yet decided whether to proceed to the Jodie Whittaker era or go back to one of the old Whos, like Tom Baker.",
    "section": "screen-share",
    "recommender": "Barbara"
@@ -220,8 +246,12 @@
    "name": "Words With Friends 2",
    "url": "https://www.zynga.com/games/words-with-friends-2/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "Current media obsessions include Agatha All Along , The Great British Bake Off , and rewatching Doctor Who . We’re just finishing the Peter Capaldi era and haven’t yet decided whether to proceed to the Jodie Whittaker era or go back to one of the old Whos, like Tom Baker.",
    "section": "screen-share",
    "recommender": "Barbara"
@@ -231,8 +261,11 @@
    "name": "Wordle",
    "url": "https://www.nytimes.com/games/wordle/index.html",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "Current media obsessions include Agatha All Along , The Great British Bake Off , and rewatching Doctor Who . We’re just finishing the Peter Capaldi era and haven’t yet decided whether to proceed to the Jodie Whittaker era or go back to one of the old Whos, like Tom Baker.",
    "section": "screen-share",
    "recommender": "Barbara"
@@ -242,8 +275,12 @@
    "name": "Duolingo",
    "url": "https://www.duolingo.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "Current media obsessions include Agatha All Along , The Great British Bake Off , and rewatching Doctor Who . We’re just finishing the Peter Capaldi era and haven’t yet decided whether to proceed to the Jodie Whittaker era or go back to one of the old Whos, like Tom Baker.",
    "section": "screen-share",
    "recommender": "Barbara"
@@ -253,8 +290,10 @@
    "name": "I’m Starting to Worry About This Black Box of Doom",
    "url": "https://us.macmillan.com/books/9781250285959/imstartingtoworryaboutthisblackboxofdoom",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Reading Jason Pargin’s I’m Starting to Worry About This Black Box of Doom . A dark, funny commentary on modern culture.",
    "section": "crowdsourced",
    "recommender": "Matthew (reader)"
@@ -264,8 +303,13 @@
    "name": "Strudel",
    "url": "https://strudel.cc/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "web",
+    "open-source",
+    "free"
+   ],
    "blurb": "Strudel . I’ve used a lot of live-coding languages and frameworks, but so far, this one has worked the best for me. It’s a really fun and immediate way of making music compared to a traditional DAW.",
    "section": "crowdsourced",
    "recommender": "Tom (reader)"
@@ -275,8 +319,12 @@
    "name": "TickTick",
    "url": "https://ticktick.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform",
+    "subscription"
+   ],
    "blurb": "I recently stopped using TickTick , as I’ve been trying to reduce my subscriptions. I wanted to try living off of Apple Reminders. I feel like it’s 90 percent of the way there. Luckily, for the last 10 percent, I think I found the perfect app with GoodTask !",
    "section": "crowdsourced",
    "recommender": "John (reader)"
@@ -286,8 +334,13 @@
    "name": "GoodTask",
    "url": "https://goodtaskapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "ios",
+    "mac",
+    "paid"
+   ],
    "blurb": "I recently stopped using TickTick , as I’ve been trying to reduce my subscriptions. I wanted to try living off of Apple Reminders. I feel like it’s 90 percent of the way there. Luckily, for the last 10 percent, I think I found the perfect app with GoodTask !",
    "section": "crowdsourced",
    "recommender": "John (reader)"
@@ -297,8 +350,10 @@
    "name": "Native Union (Re)Classic Case",
    "url": "https://www.nativeunion.com/products/reclassic-case-for-iphone-16?variant=42708279492747",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ios"
+   ],
    "blurb": "I picked up the Native Union (Re)Classic Case for my iPhone 16 Pro, and this thing is nice.",
    "section": "crowdsourced",
    "recommender": "Joe (reader)"
@@ -308,8 +363,11 @@
    "name": "Superlocal Maps",
    "url": "https://superlocal.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "travel",
+    "ios"
+   ],
    "blurb": "Superlocal Maps has been a lot of fun and really useful. My favorite feature is Fog of World, which keeps track of where you have and haven’t ‘discovered’ in the world, similar to discovering locations in games like Fortnite but in the real world.",
    "section": "crowdsourced",
    "recommender": "Harry (reader)"
@@ -319,7 +377,7 @@
    "name": "3-in-1 Ninja Luxe",
    "url": "http://ninjakitchen.pxf.io/Mmae22",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "The new 3-in-1 Ninja Luxe espresso machine has been keeping me overcaffeinated. Weight-based dosing ensures your beans are consistently ground, it evaluates the shots you pull to recommend changes to grind size, and the automated frother makes it easy to get right, too.",
    "section": "crowdsourced",
@@ -330,8 +388,11 @@
    "name": "Idle Iktah",
    "url": "https://grounded.games/idle_iktah.html",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "I was looking for a good idle / incremental game to play in down moments, and Idle Iktah has totally fit the bill. I can enjoy mobile games a bit too much sometimes and have to be cautious about getting caught in addictive gameplay loops.",
    "section": "crowdsourced",
    "recommender": "Emmett (reader)"
@@ -341,8 +402,12 @@
    "name": "Forever Notes",
    "url": "https://www.myforevernotes.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "ios",
+    "paid"
+   ],
    "blurb": "Apple’s native apps have gotten good enough to be your main productivity stack. Forever Notes is an elegant and fresh look at configuring Apple Notes as a sophisticated note program. As a longtime and happy Obsidian user, I’m impressed with how well this configuration works.",
    "section": "crowdsourced",
    "recommender": "Jim (reader)"
@@ -352,8 +417,12 @@
    "name": "Overcast",
    "url": "https://overcast.fm/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "podcast",
+    "ios",
+    "free"
+   ],
    "blurb": "I am an old paying Overcast user and can confirm that the new Swift version is finally working fine.",
    "section": "crowdsourced",
    "recommender": "Gabriel (reader)"

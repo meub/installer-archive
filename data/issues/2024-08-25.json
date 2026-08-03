@@ -23,8 +23,12 @@
    "name": "The iPhone Photography Awards winners",
    "url": "https://www.ippawards.com/2024-winning-photographers/?v=3e8d115eb4b3",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "photography",
+    "website",
+    "free"
+   ],
    "blurb": "The IPPA’s photographer of the year shoots on an iPhone 11! These winning photos are always an amazing source of inspiration (and wallpapers, just saying), and it’s particularly cool in this AI-heavy moment to see how awesome photographers still are.",
    "section": "the-drop",
    "recommender": null
@@ -34,8 +38,10 @@
    "name": "The Hollywood Hack",
    "url": "https://www.theringer.com/the-hollywood-hack",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "The Sony hack was 10 years ago, and the whole entertainment business is still feeling the ramifications. Love this pod so far, which is so far roughly equal parts about what happened and what it did to Hollywood.",
    "section": "the-drop",
    "recommender": null
@@ -97,8 +103,10 @@
    "name": "The Wirecutter Show",
    "url": "https://link.chtbl.com/cxraerdM",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "I have been a loyal Wirecutter shopper forever, and the new pod fits the site’s vibe perfectly. Lots of tips and tricks, lots of behind-the-scenes testing stuff — I wound up taking furious notes during both of the first two episodes.",
    "section": "the-drop",
    "recommender": null
@@ -123,8 +131,11 @@
    "alt_urls": [
     "https://www.theverge.com/2024/8/21/24223639/ring-battery-doorbell-camera-price-release-date-specs"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home",
+    "video"
+   ],
    "blurb": "Longer battery, easier install, wider frame of video, night vision in color — it’s not a ground-breaking new idea about video doorbells, but it sure looks like a better video doorbell . If only I could convince myself to let me install one…",
    "section": "the-drop",
    "recommender": null
@@ -145,8 +156,12 @@
    "name": "Fantastical",
    "url": "https://flexibits.com/fantastical",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity",
+    "subscription"
+   ],
    "blurb": "I’m a big fan of the large widget carousel that automatically flips to whatever iOS thinks is most relevant to me. I only keep 3 widgets within: Fantastical — which I will sorely miss when I move to a Pixel — Apple News , and Carrot Weather .",
    "section": "screen-share",
    "recommender": "Liam"
@@ -156,8 +171,12 @@
    "name": "Apple News",
    "url": "https://www.apple.com/apple-news/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "article",
+    "subscription"
+   ],
    "blurb": "I’m a big fan of the large widget carousel that automatically flips to whatever iOS thinks is most relevant to me. I only keep 3 widgets within: Fantastical — which I will sorely miss when I move to a Pixel — Apple News , and Carrot Weather .",
    "section": "screen-share",
    "recommender": "Liam"
@@ -167,8 +186,12 @@
    "name": "Carrot Weather",
    "url": "https://www.meetcarrot.com/weather/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "utilities",
+    "subscription"
+   ],
    "blurb": "I’m a big fan of the large widget carousel that automatically flips to whatever iOS thinks is most relevant to me. I only keep 3 widgets within: Fantastical — which I will sorely miss when I move to a Pixel — Apple News , and Carrot Weather .",
    "section": "screen-share",
    "recommender": "Liam"
@@ -178,8 +201,12 @@
    "name": "iOS 18 beta",
    "url": "https://beta.apple.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "beta",
+    "productivity"
+   ],
    "blurb": "I’m a big fan of the large widget carousel that automatically flips to whatever iOS thinks is most relevant to me. I only keep 3 widgets within: Fantastical — which I will sorely miss when I move to a Pixel — Apple News , and Carrot Weather .",
    "section": "screen-share",
    "recommender": "Liam"
@@ -189,8 +216,12 @@
    "name": "Apple Podcasts",
    "url": "https://www.apple.com/apple-podcasts/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "podcast",
+    "free"
+   ],
    "blurb": "My job has forced me to use Apple Podcasts in order to keep a close eye on our shows, and you know what? It has really come a long way. In my opinion, it is the only podcast app that is capable of recommending shows you’d actually want to try out.",
    "section": "screen-share",
    "recommender": "Liam"
@@ -200,8 +231,10 @@
    "name": "Wiser Than Me with Julia Louis-Dreyfus",
    "url": "https://lemonadamedia.com/show/wiser-than-me-with-julia-louis-dreyfus/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "My job has forced me to use Apple Podcasts in order to keep a close eye on our shows, and you know what? It has really come a long way. In my opinion, it is the only podcast app that is capable of recommending shows you’d actually want to try out.",
    "section": "screen-share",
    "recommender": "Liam"
@@ -211,8 +244,10 @@
    "name": "the episode featuring award-winning author Isabel Allende",
    "url": "https://lemonadamedia.com/podcast/julia-gets-wise-with-isabel-allende/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "My job has forced me to use Apple Podcasts in order to keep a close eye on our shows, and you know what? It has really come a long way. In my opinion, it is the only podcast app that is capable of recommending shows you’d actually want to try out.",
    "section": "screen-share",
    "recommender": "Liam"
@@ -222,8 +257,12 @@
    "name": "Dola",
    "url": "https://heydola.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "free",
+    "productivity"
+   ],
    "blurb": "I have found Dola indispensable. It’s free — what’s free anymore? It can write to Apple Calendar and is available on iMessage and WhatsApp; it’s incredibly useful as my productivity and task tracker and amazing for reminders.",
    "section": "crowdsourced",
    "recommender": "Andrew (reader)"
@@ -246,8 +285,12 @@
    "name": "SAOViVO",
    "url": "https://saovivo.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "open-source",
+    "video"
+   ],
    "blurb": "I’ve been using this app called SAOViVO that is free and open source, and what it does is: it takes videos in your YouTube Channel, makes a queue out of them, and sends them back to YouTube as a live feed.",
    "section": "crowdsourced",
    "recommender": "Nicolas (reader)"
@@ -296,8 +339,11 @@
    "name": "Dress to Impress",
    "url": "https://www.roblox.com/games/15101393044/Dress-To-Impress",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "free",
+    "social"
+   ],
    "blurb": "Dress to Impress on Roblox . It is like Among Us in the pandemic era, but for WFH ‘gurlies.’",
    "section": "crowdsourced",
    "recommender": "Sam (reader)"
@@ -307,8 +353,10 @@
    "name": "Asus ROG Zephyrus G14",
    "url": "https://rog.asus.com/us/laptops/rog-zephyrus/rog-zephyrus-g14-2024/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "windows"
+   ],
    "blurb": "I am headed on a 5.5-hour flight to Hawaii, and I am very much looking forward to bringing the Asus ROG Zephyrus G14 to, wait for it… play EA Sports FC the whole way! Was inspired by a podcast I had listened to recently , I think…",
    "section": "crowdsourced",
    "recommender": "Richard (reader)"
@@ -318,7 +366,7 @@
    "name": "Black Myth: Wukong",
    "url": "https://www.heishenhua.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "People worry about Chinese EVs coming to America, but people should keep an eye on Chinese game developers because Black Myth: Wukong just came out, and it has over 2 million players on Steam, shattering Elden Ring and Cyberpunk ’s records.",
    "section": "crowdsourced",
@@ -329,8 +377,12 @@
    "name": "Add Eddie",
    "url": "https://www.addeddie.com",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "social",
+    "productivity"
+   ],
    "blurb": "Add Eddie is a simple app for creating QR codes to your social profiles, messengers, vCards, payment services, websites, and more. It is a godsend for networking in real life, especially as a widget on my phone’s homescreen and on the Apple Watch.",
    "section": "crowdsourced",
    "recommender": "Dewa (reader)"

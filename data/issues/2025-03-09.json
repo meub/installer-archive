@@ -23,8 +23,10 @@
    "name": "The new MacBook Air",
    "url": "https://www.apple.com/macbook-air/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "mac"
+   ],
    "blurb": "The MacBook Air is probably my longest-running default recommendation. If you just want a laptop, no follow-up questions, get an Air. This one’s faster and has a better webcam, and I even like the pale blue here. And it’s cheaper! A miracle!",
    "section": "the-drop",
    "recommender": null
@@ -36,8 +38,10 @@
    "alt_urls": [
     "https://www.apple.com/ipad-air/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ios"
+   ],
    "blurb": "The new iPad Air got all of Apple’s attention this week, but I think the new base model is the bigger deal. This is the iPad I’d tell most people to buy — I wish it had gotten a bigger chip bump, but this’ll still do iPad things nicely. And $349 is the right price.",
    "section": "the-drop",
    "recommender": null
@@ -47,7 +51,7 @@
    "name": "Split Fiction",
    "url": "https://www.ea.com/games/split-fiction/split-fiction",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I need more gamer friends, because wow does this game look like a fun co-op. It looks like Blade Runner and Tron. There’s a company called Radar. There are puzzles and fights and — seriously, who wants to play a lot of this with me? Like, right now.",
    "section": "the-drop",
@@ -73,8 +77,10 @@
    "alt_urls": [
     "https://www.theverge.com/news/622405/nothing-phone-3a-pro-essential-space-price-specs"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "Nothing might be the most interesting company in smartphones right now. It’s doing really cool, unique stuff, and it seems to be really starting to dial in its cameras.",
    "section": "the-drop",
    "recommender": null
@@ -97,8 +103,11 @@
    "name": "Twitter: Breaking the Bird",
    "url": "https://www.cnncreativemarketing.com/project/twitter/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv",
+    "social"
+   ],
    "blurb": "A four-part CNN series, starting on Sunday, about how Twitter got big, changed the world, and screwed up a million ways along the journey. I know this story pretty well, but I’m still fascinated to see how this series tries to make sense of it all.",
    "section": "the-drop",
    "recommender": null
@@ -121,8 +130,10 @@
    "name": "Palworld for Mac",
    "url": "https://www.pocketpair.jp/palworld",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "mac"
+   ],
    "blurb": "Pokémon with guns continues to be a thing, and it’s now available on any Mac with at least an M1 chip. It sounds like crossplay doesn’t work, though, so make sure you have Mac friends to play with.",
    "section": "the-drop",
    "recommender": null
@@ -134,8 +145,11 @@
    "alt_urls": [
     "https://www.theverge.com/social/624073/digg-relaunch-2025"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "social"
+   ],
    "blurb": "Right now, the new Digg is just a landing page and a signup list. But having spent some time with the folks bringing it back (including original creator Kevin Rose), I’m excited to see what new ideas about online community might turn into over time.",
    "section": "the-drop",
    "recommender": null
@@ -156,8 +170,11 @@
    "name": "Fission",
    "url": "https://rogueamoeba.com/fission/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "utilities"
+   ],
    "blurb": "I use most of these apps on a daily basis. (I have no idea why Calendar is here. I never use Calendar.) A bunch of them — Fission , Downie , VLC , Loopback — are for various podcasting-related things. I use Notion for all my project management stuff and NotePlan for my day-to-day tasks and notes.",
    "section": "screen-share",
    "recommender": null
@@ -167,8 +184,12 @@
    "name": "Downie",
    "url": "https://software.charliemonroe.net/downie/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "video",
+    "utilities"
+   ],
    "blurb": "I use most of these apps on a daily basis. (I have no idea why Calendar is here. I never use Calendar.) A bunch of them — Fission , Downie , VLC , Loopback — are for various podcasting-related things. I use Notion for all my project management stuff and NotePlan for my day-to-day tasks and notes.",
    "section": "screen-share",
    "recommender": null
@@ -178,8 +199,13 @@
    "name": "VLC",
    "url": "https://www.videolan.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "video",
+    "free",
+    "open-source"
+   ],
    "blurb": "I use most of these apps on a daily basis. (I have no idea why Calendar is here. I never use Calendar.) A bunch of them — Fission , Downie , VLC , Loopback — are for various podcasting-related things. I use Notion for all my project management stuff and NotePlan for my day-to-day tasks and notes.",
    "section": "screen-share",
    "recommender": null
@@ -189,8 +215,12 @@
    "name": "Loopback",
    "url": "https://rogueamoeba.com/loopback/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "utilities",
+    "music"
+   ],
    "blurb": "I use most of these apps on a daily basis. (I have no idea why Calendar is here. I never use Calendar.) A bunch of them — Fission , Downie , VLC , Loopback — are for various podcasting-related things. I use Notion for all my project management stuff and NotePlan for my day-to-day tasks and notes.",
    "section": "screen-share",
    "recommender": null
@@ -200,8 +230,11 @@
    "name": "Notion",
    "url": "https://www.notion.so/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "I use most of these apps on a daily basis. (I have no idea why Calendar is here. I never use Calendar.) A bunch of them — Fission , Downie , VLC , Loopback — are for various podcasting-related things. I use Notion for all my project management stuff and NotePlan for my day-to-day tasks and notes.",
    "section": "screen-share",
    "recommender": null
@@ -211,8 +244,12 @@
    "name": "NotePlan",
    "url": "https://noteplan.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "ios",
+    "productivity"
+   ],
    "blurb": "I use most of these apps on a daily basis. (I have no idea why Calendar is here. I never use Calendar.) A bunch of them — Fission , Downie , VLC , Loopback — are for various podcasting-related things. I use Notion for all my project management stuff and NotePlan for my day-to-day tasks and notes.",
    "section": "screen-share",
    "recommender": null
@@ -222,8 +259,12 @@
    "name": "Craft",
    "url": "https://www.craft.do/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "ios",
+    "productivity"
+   ],
    "blurb": "I use most of these apps on a daily basis. (I have no idea why Calendar is here. I never use Calendar.) A bunch of them — Fission , Downie , VLC , Loopback — are for various podcasting-related things. I use Notion for all my project management stuff and NotePlan for my day-to-day tasks and notes.",
    "section": "screen-share",
    "recommender": null
@@ -233,8 +274,12 @@
    "name": "MyMind",
    "url": "https://mymind.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform",
+    "ai"
+   ],
    "blurb": "MyMind and Anybox are for storing links, images, and other stuff I might want or need later, and everything else is pretty self-explanatory. I really recommend downloading desktop versions of all your messaging apps; I am now the world’s fastest texter because I’m hardly ever texting from my phone.",
    "section": "screen-share",
    "recommender": null
@@ -244,8 +289,12 @@
    "name": "Anybox",
    "url": "https://anybox.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "ios",
+    "productivity"
+   ],
    "blurb": "MyMind and Anybox are for storing links, images, and other stuff I might want or need later, and everything else is pretty self-explanatory. I really recommend downloading desktop versions of all your messaging apps; I am now the world’s fastest texter because I’m hardly ever texting from my phone.",
    "section": "screen-share",
    "recommender": null
@@ -255,8 +304,11 @@
    "name": "Arc",
    "url": "https://arc.net/e/8DA6B4DB-CB04-4A70-9029-BEDC673ECFEF",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "web"
+   ],
    "blurb": "But mostly, honestly, I live in the browser. I’ve been using Arc for years (I use Chrome because our podcast-recording software likes it better, but for nothing else) and perpetually have between three and eight windows full of tabs. It’s bonkers, but it’s the only way I know.",
    "section": "screen-share",
    "recommender": null
@@ -266,8 +318,12 @@
    "name": "Raycast",
    "url": "https://www.raycast.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "productivity",
+    "utilities"
+   ],
    "blurb": "My most important recent upgrade has been going all-in on Raycast . I use it for opening apps, managing windows, changing settings, accessing apps, and much more.",
    "section": "screen-share",
    "recommender": null
@@ -277,8 +333,11 @@
    "name": "Feeeed",
    "url": "https://feeeed.nateparrott.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "social"
+   ],
    "blurb": "You should check out the Feeeed app. Probably the best representation of a timeline app I’ve seen to date.",
    "section": "crowdsourced",
    "recommender": "Daniel (reader)"
@@ -288,8 +347,10 @@
    "name": "this TWSBI pen",
    "url": "https://yosekastationery.com/products/twsbi-eco-espresso-w-bronze-trim",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "Fountain pens. Who knew?! In a world full of Notions — which I use and love — I wanted an analog outlet for my brain dumps and light journaling. That led me to this TWSBI pen and this ink . The pen has a piston mechanism that makes it super easy to suck up ink. Love the feeling of the nib on paper.",
    "section": "crowdsourced",
    "recommender": "Austin (reader)"
@@ -299,7 +360,7 @@
    "name": "this ink",
    "url": "https://yosekastationery.com/products/diamine-fountain-pen-ink-150th-anniversary-series-tudor-blue?_psq=diamine+tudor+blue&_v=1.0",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Fountain pens. Who knew?! In a world full of Notions — which I use and love — I wanted an analog outlet for my brain dumps and light journaling. That led me to this TWSBI pen and this ink . The pen has a piston mechanism that makes it super easy to suck up ink. Love the feeling of the nib on paper.",
    "section": "crowdsourced",
@@ -310,8 +371,10 @@
    "name": "Moonbound",
    "url": "https://www.robinsloan.com/moonbound/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Moonbound by Robin Sloan. Highly recommend it. It’s like Ursula K. Le Guin writing about Thundarr the barbarian crossed with Narnia.",
    "section": "crowdsourced",
    "recommender": "Joe (reader)"
@@ -321,8 +384,12 @@
    "name": "LookAway",
    "url": "https://lookaway.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "utilities",
+    "fitness"
+   ],
    "blurb": "Working at a computer all day and reading on my phone all evening really strains my eyes. I’ve downloaded the LookAway app for Mac to actually enforce my optician’s advice of resting my eyes, and it’s worth every penny. My eyes feel a lot more comfortable at work now.",
    "section": "crowdsourced",
    "recommender": "Tom (reader)"
@@ -332,8 +399,11 @@
    "name": "Boox Palma",
    "url": "https://shop.boox.com/products/palma",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android",
+    "book"
+   ],
    "blurb": "Working at a computer all day and reading on my phone all evening really strains my eyes. I’ve downloaded the LookAway app for Mac to actually enforce my optician’s advice of resting my eyes, and it’s worth every penny. My eyes feel a lot more comfortable at work now.",
    "section": "crowdsourced",
    "recommender": "Tom (reader)"
@@ -343,8 +413,11 @@
    "name": "FeedMe",
    "url": "https://shallowsky.com/software/feedme/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android",
+    "utilities"
+   ],
    "blurb": "Working at a computer all day and reading on my phone all evening really strains my eyes. I’ve downloaded the LookAway app for Mac to actually enforce my optician’s advice of resting my eyes, and it’s worth every penny. My eyes feel a lot more comfortable at work now.",
    "section": "crowdsourced",
    "recommender": "Tom (reader)"
@@ -354,8 +427,11 @@
    "name": "Feedbin",
    "url": "https://feedbin.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "subscription"
+   ],
    "blurb": "Working at a computer all day and reading on my phone all evening really strains my eyes. I’ve downloaded the LookAway app for Mac to actually enforce my optician’s advice of resting my eyes, and it’s worth every penny. My eyes feel a lot more comfortable at work now.",
    "section": "crowdsourced",
    "recommender": "Tom (reader)"
@@ -378,8 +454,11 @@
    "name": "Five Books",
    "url": "https://fivebooks.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "book"
+   ],
    "blurb": "Five Books , if you want some non-obvious books on a subject for serious reading.",
    "section": "crowdsourced",
    "recommender": "Astrid (reader)"
@@ -389,8 +468,11 @@
    "name": "Bend",
    "url": "https://www.getbend.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness",
+    "ios"
+   ],
    "blurb": "I started using Bend 26 days ago after it was mentioned in The New York Times . The streak nature has me hooked, and the five-minute wake up routine is a low hurdle with a defined time limit so I know when to get on with my day. Good luck on getting more flexible!",
    "section": "crowdsourced",
    "recommender": "Sean (reader)"
@@ -413,8 +495,10 @@
    "name": "Horus Heresy series",
    "url": "https://www.warhammer.com/en-US/the-horus-heresy-lp",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "To cope with the US’ continued descent into unitary religious authoritarianism, I’m doing what any sane person would and starting the Horus Heresy series of Warhammer 40k books!",
    "section": "crowdsourced",
    "recommender": "Luis (reader)"
@@ -424,8 +508,11 @@
    "name": "SonoPhone",
    "url": "https://sonophone.de/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "music"
+   ],
    "blurb": "SonoPhone and SonoPad . These apps blow away the Sonos app.",
    "section": "crowdsourced",
    "recommender": "Tony (reader)"
@@ -435,8 +522,11 @@
    "name": "SonoPad",
    "url": "https://sonopad.de/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "music"
+   ],
    "blurb": "SonoPhone and SonoPad . These apps blow away the Sonos app.",
    "section": "crowdsourced",
    "recommender": "Tony (reader)"
@@ -459,8 +549,10 @@
    "name": "This link is a complete and total spoiler",
    "url": "https://www.tiktok.com/@dannygentertainment/video/7478020053238123822",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
    "blurb": "The short version: it’s two brothers competing to see who can win a TikTok game, in which you toss a ball into a line of cups the fastest. ( This link is a complete and total spoiler of the whole thing.)",
    "section": "signing-off",
    "recommender": null
@@ -470,8 +562,10 @@
    "name": "barely missed anything",
    "url": "https://www.tiktok.com/@dannygentertainment/video/7478768813761334574",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
    "blurb": "The short version: it’s two brothers competing to see who can win a TikTok game, in which you toss a ball into a line of cups the fastest. ( This link is a complete and total spoiler of the whole thing.)",
    "section": "signing-off",
    "recommender": null

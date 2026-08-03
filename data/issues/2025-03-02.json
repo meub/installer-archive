@@ -27,7 +27,7 @@
     "https://www.theverge.com/pc-gaming/619605/framework-desktop-preview-hands-on",
     "https://frame.work/desktop"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "All my PC gamer friends are more excited about the Framework Desktop , but I think the company’s cheapest (and best-looking) laptop is going to be one to watch. There’s still a lot we don’t know about this thing, but I hope I get to recommend it to a lot of folks this year.",
    "section": "the-drop",
@@ -38,8 +38,12 @@
    "name": "Photoshop for iPhone",
    "url": "https://adobe.prf.hn/click/camref:1011l3IdQV/destination:https%3A%2F%2Fwww.adobe.com%2Fproducts%2Fphotoshop%2Fapp.html",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "photography",
+    "subscription"
+   ],
    "blurb": "For the first time, there’s a mobile version of Photoshop that actually feels like Photoshop. This is not entirely a good thing — there’s a lot going on in this app — and Adobe is awfully late to the game here, but a super-powered image editor is always a welcome thing on smartphones.",
    "section": "the-drop",
    "recommender": null
@@ -62,8 +66,11 @@
    "name": "Claude 3.7",
    "url": "https://www.anthropic.com/news/claude-3-7-sonnet",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "subscription"
+   ],
    "blurb": "I’m still hearing all the time about how much more people like Claude than ChatGPT or Gemini, and this new model is fascinating. “Deep research” is all the rage right now, but Claude now lets you decide how deep, and thus how slow, it’ll be.",
    "section": "the-drop",
    "recommender": null
@@ -73,8 +80,10 @@
    "name": "The Sigma BF",
    "url": "https://www.sigma-global.com/en/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography"
+   ],
    "blurb": "In terms of features and usability, there’s no way this is the best $2,000 camera you can buy. But on pure aesthetic appeal, I’m not sure anything is beating this blocky, beautiful, ultra-simplified camera.",
    "section": "the-drop",
    "recommender": null
@@ -84,7 +93,7 @@
    "name": "Monster Hunter Wilds",
    "url": "https://www.monsterhunter.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "It’s only February, and this is already getting a lot of Game of the Year buzz — there are a lot of new mechanics to get used to, but it appears to be very much worth the six-year wait.",
    "section": "the-drop",
@@ -95,8 +104,12 @@
    "name": "Beeper Beta",
    "url": "https://www.beeper.com/beta",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "beta",
+    "mac",
+    "cross-platform"
+   ],
    "blurb": "I won’t lie, I kind of forgot about Beeper. But it’s back and starting to ship again; the new Mac app is basically the old Texts.com app with a new color scheme, but the iOS app appears to be totally new. (Android, meanwhile, remains the best platform for Beeper by a mile.)",
    "section": "the-drop",
    "recommender": null
@@ -134,8 +147,10 @@
    "name": "Edifier",
    "url": "https://www.edifier.com/us/product-category/bookshelf-speakers",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "A bunch of folks recommended various Edifier speakers, across the whole range of products. They’re nice, and y’all seem to like their stuff from the cheapest Bluetooth models to the highest-end pro gear.",
    "section": "group-project",
    "recommender": null
@@ -147,8 +162,11 @@
    "alt_urls": [
     "https://www.apple.com/shop/buy-homepod/homepod-mini"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home",
+    "music"
+   ],
    "blurb": "I would never in a million years have guessed how many people would tell me they have, and love, HomePods and HomePod Minis . I heard from so many people who bought them on one sale and are thrilled with the results.",
    "section": "group-project",
    "recommender": null
@@ -158,8 +176,10 @@
    "name": "KEF LSX",
    "url": "https://us.kef.com/products/lsx-2-lt",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "I also heard a bunch about the KEF LSX , a set of really nice-looking speakers that work wirelessly or wired, with Chromecast and AirPlay, and are exactly the kind of versatile bookshelf speakers I’ve been looking for. I’m going to end up buying these.",
    "section": "group-project",
    "recommender": null
@@ -169,8 +189,10 @@
    "name": "Vizio soundbar",
    "url": "https://www.vizio.com/en/sound-bar/sb/SL512X-0806",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "Lots of “just buy a soundbar” responses, too! The Vizio soundbar got some love, but I heard from a few people that practically any soundbar will be a huge upgrade to your living room audio system. I tend to agree.",
    "section": "group-project",
    "recommender": null
@@ -183,8 +205,10 @@
     "https://uturnaudio.com/products/orbit-basic-turntable",
     "https://www.project-audio.com/en/turntables/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "Turntables are so back. A udio Technica seems to be the go-to brand, but I also heard good things about the U-Turn Audio Orbit and all of Pro-Ject ’s gear.",
    "section": "group-project",
    "recommender": null
@@ -196,8 +220,10 @@
    "alt_urls": [
     "https://km5.co.jp/en-us/products/cd-1b?pr_prod_strat=e5_desc&pr_rec_id=84d4c9ca3&pr_rec_pid=7999814271219&pr_ref_pid=7744468254963&pr_seq=uniform"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "I am convinced that every single person who owns a Sony Walkman emailed me to tell me they love it. I believe you! I kind of want one now. There are also a lot of iPod restorers out there, and one person who shared the coolest-looking CD player I’ve ever seen.",
    "section": "group-project",
    "recommender": null
@@ -207,8 +233,10 @@
    "name": "There is a strong preference for streaming audio over Chromecast Audio, rather t",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "music"
+   ],
    "blurb": "han AirPlay, Bluetooth, or anything else. The quality is better, and a bunch of you told me it’s more reliable and better synced across speakers.",
    "section": "group-project",
    "recommender": null
@@ -220,8 +248,11 @@
    "alt_urls": [
     "https://www.hifiberry.com/hifiberryos/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music",
+    "open-source"
+   ],
    "blurb": "A few of you told me about home systems you’ve built with Raspberry Pis, the HiFiBerry converter, and the HiFiBerryOS . Sounds like a relatively straightforward and extremely fun project.",
    "section": "group-project",
    "recommender": null
@@ -242,8 +273,10 @@
    "name": "wallpaper I use",
    "url": "https://digitalminimalist.gumroad.com/l/sgact?layout=profile",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "mac"
+   ],
    "blurb": "The wallpaper: The minimal wallpaper I use is designed to blend with the dock for a cleaner look. It’s created by another Notion creator, the Digital Minimalist .",
    "section": "screen-share",
    "recommender": "Colin"
@@ -253,8 +286,10 @@
    "name": "Digital Minimalist",
    "url": "https://www.digitalminimalist.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "website"
+   ],
    "blurb": "The wallpaper: The minimal wallpaper I use is designed to blend with the dock for a cleaner look. It’s created by another Notion creator, the Digital Minimalist .",
    "section": "screen-share",
    "recommender": "Colin"
@@ -264,8 +299,11 @@
    "name": "Gumroad",
    "url": "https://tinyblocks.gumroad.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "After seeing how many people were interested in my dock setup, I created a free detailed guide that’s available on my Gumroad .",
    "section": "screen-share",
    "recommender": "Colin"
@@ -275,8 +313,11 @@
    "name": "Notion",
    "url": "https://www.notion.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "Productivity tools, especially Notion (I’m working on becoming a Notion creator). Learning Korean (I’m living in Korea currently). It’s challenging but rewarding. I have a private lesson once a week. As I’m a huge Notion nerd, I’ve created my own setup there to track vocabulary and grammar rules.",
    "section": "screen-share",
    "recommender": "Colin"
@@ -286,8 +327,10 @@
    "name": "Secret Project books",
    "url": "https://www.brandonsanderson.com/pages/standalones-cosmere",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Productivity tools, especially Notion (I’m working on becoming a Notion creator). Learning Korean (I’m living in Korea currently). It’s challenging but rewarding. I have a private lesson once a week. As I’m a huge Notion nerd, I’ve created my own setup there to track vocabulary and grammar rules.",
    "section": "screen-share",
    "recommender": "Colin"
@@ -297,8 +340,10 @@
    "name": "Wax & Wayne series",
    "url": "https://www.brandonsanderson.com/pages/the-mistborn-saga-the-wax-wayne-series",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Productivity tools, especially Notion (I’m working on becoming a Notion creator). Learning Korean (I’m living in Korea currently). It’s challenging but rewarding. I have a private lesson once a week. As I’m a huge Notion nerd, I’ve created my own setup there to track vocabulary and grammar rules.",
    "section": "screen-share",
    "recommender": "Colin"
@@ -308,8 +353,11 @@
    "name": "Huckleberry",
    "url": "https://huckleberrycare.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "We started using Huckleberry right away to track our baby’s eating, diapers, sleeping, and even my wife’s pumping, and we probably haven’t grazed the surface of what the app offers. Super helpful to simply make sure your baby has eaten enough and has soiled enough diapers plus much more!",
    "section": "crowdsourced",
    "recommender": "Spencer (reader)"
@@ -319,8 +367,10 @@
    "name": "Keys-To-Go 2",
    "url": "https://logitech.cfzu.net/c/482924/499820/8585?u=https%3A%2F%2Fwww.logitech.com%2Fen-us%2Fshop%2Fp%2Fkeys-to-go2-universal.920-012867",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "I’ve recently paired up my Keys-To-Go 2 with my Boox Poke 3 and it’s a perfect coffee shop set-up for distractionless writing.",
    "section": "crowdsourced",
    "recommender": "Jeroen (reader)"
@@ -330,8 +380,11 @@
    "name": "Boox Poke 3",
    "url": "https://onyxboox.com/boox_poke3",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android",
+    "book"
+   ],
    "blurb": "I’ve recently paired up my Keys-To-Go 2 with my Boox Poke 3 and it’s a perfect coffee shop set-up for distractionless writing.",
    "section": "crowdsourced",
    "recommender": "Jeroen (reader)"
@@ -354,8 +407,10 @@
    "name": "Kobo Clara BW",
    "url": "https://us.kobobooks.com/products/kobo-clara-bw",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’ve been diving into the world of e-readers this week and just made the switch from Kindle to a Kobo Clara BW . It’s the perfect handheld size with clear text and an auto warm light that makes reading sessions at night so easy. It’s like a smaller Paperwhite.",
    "section": "crowdsourced",
    "recommender": "Ian (reader)"
@@ -365,7 +420,7 @@
    "name": "ChessUp 2",
    "url": "https://playchessup.com/products/chessup-2",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "ChessUp 2 . The board allows you to play chess against the computer, and it can also provide assistance to one or both of the players during a 1v1 game. The board and pieces feel really high quality, and give a satisfying soft and pleasant sound when you move them.",
    "section": "crowdsourced",
@@ -389,8 +444,12 @@
    "name": "Anybox",
    "url": "https://anybox.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "productivity"
+   ],
    "blurb": "Saw the Anybox mention in the latest Installer as a way to capture links and notes, but a AAA tip for you or your readers: it’s also a fantastic way to capture images across any Apple device and categorize them for later.",
    "section": "crowdsourced",
    "recommender": "Ryan (reader)"
@@ -400,8 +459,11 @@
    "name": "this documentary",
    "url": "https://www3.nhk.or.jp/nhkworld/en/shows/4003192/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "tv"
+   ],
    "blurb": "Watched this documentary on NHK about the creator of the manga Detective Conan . This shows what people do for the love of the art",
    "section": "crowdsourced",
    "recommender": "Gigg (reader)"
@@ -411,8 +473,11 @@
    "name": "Deta Surf",
    "url": "https://deta.surf/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "beta",
+    "web"
+   ],
    "blurb": "I was able to join the alpha for Deta Surf and it’s one of the strangest and most interesting web browsers I’ve ever used. It’s absolutely brimming with personality.",
    "section": "crowdsourced",
    "recommender": "Luke (reader)"
@@ -422,8 +487,10 @@
    "name": "Josh Johnson",
    "url": "https://www.joshjohnsoncomedy.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
    "blurb": "A few weeks ago, my social feeds started filling up with videos and clips from the comedian Josh Johnson . This was great news; he’s hilarious.",
    "section": "signing-off",
    "recommender": null

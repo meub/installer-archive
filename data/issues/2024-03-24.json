@@ -39,8 +39,11 @@
    "name": "Threads in the fediverse",
    "url": "https://www.threads.net/@zuck/post/C4yMgnQRH_T",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "social",
+    "beta"
+   ],
    "blurb": "I want so badly to make “the Threadiverse” a thing. So badly. But I digress: this is cool news! Threads is starting a real beta rollout allowing people to post on Threads and syndicate it through the fediverse via ActivityPub! This is the social networking stuff I believe in.",
    "section": "the-drop",
    "recommender": null
@@ -63,8 +66,12 @@
    "name": "Call of Duty: Warzone Mobile",
    "url": "https://www.callofduty.com/warzonemobile",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "This game took up most of the storage on my phone and makes it heat up to about the surface of the sun every time I play. But this is a proper high-end battle royale game on mobile, and I’ll be playing it (with a controller, like a sane person) a lot this weekend.",
    "section": "the-drop",
    "recommender": null
@@ -87,8 +94,12 @@
    "name": "Beeper for Android",
    "url": "https://www.beeper.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android",
+    "beta",
+    "cross-platform"
+   ],
    "blurb": "After the whole iMessage saga, Beeper is back to building excellent cross-platform messaging apps. Its latest Android app is in public beta now, and it’s great. Fast, simple, lots of handy organization features. Who needs iMessage, really?",
    "section": "the-drop",
    "recommender": null
@@ -111,8 +122,10 @@
    "alt_urls": [
     "https://www.theverge.com/23906577/ai-gadgets-humane-pin-pixel-8-asassins-creed-spotify-microsoft-installer"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Taylor Lorenz, a great reporter (and friend of Installer ) just launched her new podcast this week, and the first episode is a really fun whip around the internet — from TikTok bans to Facebook pokes to Shrimp Jesus, which I just learned is a real and horrifying thing.",
    "section": "the-drop",
    "recommender": null
@@ -150,8 +163,11 @@
    "alt_urls": [
     "https://stocardapp.com/en/us"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "utilities"
+   ],
    "blurb": "There are a bunch of apps that can do this, but on iOS, I did it with the app Barcodes , and on Android, I used Stocard . Stocard’s “offers” are kind of incessant and annoying because the app is trying to be a rewards program in its own right, but in general, I like both apps.",
    "section": "spotlight",
    "recommender": null
@@ -161,8 +177,12 @@
    "name": "You can do some of this in Google Wallet or Apple Wallet, but those interfaces a",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "ios",
+    "android",
+    "utilities"
+   ],
    "blurb": "re weirder and less reliable, in my experience. If you don’t want to use an app at all, you can probably just use a folder of photos, but the apps make it all better.",
    "section": "spotlight",
    "recommender": null
@@ -172,8 +192,10 @@
    "name": "You might be amazed how many things you can put in here",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "utilities"
+   ],
    "blurb": "Anything with a code you scan — a gym pass, a Costco card, the thing you use to get into a parking garage, any QR code — can go in there. All the swipe-y magnetic strip stuff, though, no dice.",
    "section": "spotlight",
    "recommender": null
@@ -183,8 +205,11 @@
    "name": "Barcodes has some really great widgets, and I’d set one of them up with your mos",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "ios",
+    "utilities"
+   ],
    "blurb": "t-used card. So, like, Starbucks + grocery store + parking garage, all super easy to access. (It’s also really handy on the Apple Watch.)",
    "section": "spotlight",
    "recommender": null
@@ -194,8 +219,10 @@
    "name": "I’ve seen some stories about scanners, especially old ones or ones at an angle,",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "utilities"
+   ],
    "blurb": "that can’t quite scan a code on your phone. I haven’t had any issues yet, but maybe don’t throw away your most important cards just in case.",
    "section": "spotlight",
    "recommender": null
@@ -216,8 +243,10 @@
    "name": "MiSTerCade",
    "url": "https://misteraddons.com/products/mistercade",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "open-source"
+   ],
    "blurb": "MiSTerCade . I recently got a Sega New Astro City arcade cabinet, which is the kind of really indulgent purchase I’ve put off forever, and somewhere in that pandemic haze, I decided it was time to just do it.",
    "section": "screen-share",
    "recommender": "Chris"
@@ -227,7 +256,7 @@
    "name": "Sega New Astro City",
    "url": "https://segaretro.org/New_Astro_City",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "MiSTerCade . I recently got a Sega New Astro City arcade cabinet, which is the kind of really indulgent purchase I’ve put off forever, and somewhere in that pandemic haze, I decided it was time to just do it.",
    "section": "screen-share",
@@ -238,8 +267,10 @@
    "name": "my primer on MiSTer here",
    "url": "https://www.polygon.com/22640171/mister-project-classic-gaming-retro-fpga-board-chip-io-explainer-usb-hub",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "MiSTerCade . I recently got a Sega New Astro City arcade cabinet, which is the kind of really indulgent purchase I’ve put off forever, and somewhere in that pandemic haze, I decided it was time to just do it.",
    "section": "screen-share",
    "recommender": "Chris"
@@ -249,7 +280,7 @@
    "name": "Prince of Persia: The Lost Crown",
    "url": "https://www.ubisoft.com/en-us/game/prince-of-persia/the-lost-crown",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "MiSTerCade . I recently got a Sega New Astro City arcade cabinet, which is the kind of really indulgent purchase I’ve put off forever, and somewhere in that pandemic haze, I decided it was time to just do it.",
    "section": "screen-share",
@@ -273,8 +304,12 @@
    "name": "Fastmail",
    "url": "https://www.fastmail.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "subscription",
+    "cross-platform",
+    "web"
+   ],
    "blurb": "You mentioned that Proton is the best non-Gmail alternative, and although I do agree that it’s not bad, many sites don’t like Proton, and a lot of people in the privacy community have voiced issues with it. I personally have Fastmail , and I love it.",
    "section": "crowdsourced",
    "recommender": "Anthony (reader)"
@@ -284,8 +319,12 @@
    "name": "Queue",
    "url": "https://www.queue.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "tv",
+    "movie",
+    "ios"
+   ],
    "blurb": "Queue is great for tracking shows and movies you want to / are watching and to find new things. I use it all the time.",
    "section": "crowdsourced",
    "recommender": "Mike (reader)"
@@ -295,8 +334,11 @@
    "name": "Transcripts on Apple Podcasts",
    "url": "https://podcasters.apple.com/support/5316-transcripts-on-apple-podcasts",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "podcast",
+    "ios"
+   ],
    "blurb": "Checking in a few weeks after iOS 17.4… Transcripts on Apple Podcasts is shockingly good. I’ve fully converted over from Pocket Casts. Ability to quickly scroll through and read an article when I have a few minutes is amazing.",
    "section": "crowdsourced",
    "recommender": "Omesh (reader)"
@@ -306,8 +348,12 @@
    "name": "UpNote",
    "url": "https://getupnote.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform",
+    "paid"
+   ],
    "blurb": "I just left Evernote after more than a decade of use. Stagnant, bloated, and increasingly overpriced since new ownership. Switched to UpNote and very happy with it so far.",
    "section": "crowdsourced",
    "recommender": "Kirk (reader)"
@@ -330,7 +376,7 @@
    "name": "Ghost of Tsushima",
    "url": "https://www.suckerpunch.com/category/games/ghostoftsushima/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Watching Shōgun . Enjoying it so much, I am replaying Ghost of Tsushima .",
    "section": "crowdsourced",
@@ -341,7 +387,7 @@
    "name": "Stray Shot",
    "url": "https://punkcake.club/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Stray Shot , a twin-stick arena shooter where your missed shots spawn into more enemies. There’s a timer, and with too few enemies, your score will be low, but too many will probably overwhelm you. There are eight arenas with multiple enemy types and a few different game modes.",
    "section": "crowdsourced",
@@ -365,7 +411,7 @@
    "name": "Mars After Midnight",
    "url": "https://play.date/games/mars-after-midnight/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I have to plug Mars After Midnight on the Playdate.",
    "section": "crowdsourced",
@@ -376,8 +422,10 @@
    "name": "Manhunt: The 12-Day Chase for Lincoln’s Killer",
    "url": "https://www.harpercollins.com/products/manhunt-james-l-swanson",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Manhunt: The 12-Day Chase for Lincoln’s Killer . I highly recommend the book, as it was just an incredible account of the Lincoln assassination, from the plot to the shooting and the escape. Of course, I will check out the miniseries as well.",
    "section": "crowdsourced",
    "recommender": "John (reader)"
@@ -400,7 +448,7 @@
    "name": "In black",
    "url": "https://www.apple.com/shop/product/MMMR3LL/A/magic-keyboard-with-touch-id-and-numeric-keypad-for-mac-models-with-apple-silicon-us-english-black-keys",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I’ve never been a mechanical keyboard fan — too loud! — but I’m realizing that if you’re not into mechanical keyboards, all your choices are kind of boring. I’m worried I’ll just end up getting lazy and buy Apple’s Magic Keyboard. ( In black , natch.)",
    "section": "signing-off",

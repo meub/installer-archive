@@ -23,8 +23,10 @@
    "name": "The CMF Phone 1",
    "url": "https://us.nothing.tech/products/cmf-phone-1",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "A nice-looking, long-lasting Android phone for $200? With an OLED screen and interchangeable backplates and a bunch of really cool accessories, one of which is a kickstand? Yes. Please. In orange, of course.",
    "section": "the-drop",
    "recommender": null
@@ -37,8 +39,11 @@
     "https://www.theverge.com/2024/7/10/24195165/samsung-galaxy-z-fold-flip-6-screen-battery-price",
     "https://www.theverge.com/24194938/samsung-galaxy-ring-hands-on-price-unpacked-2024"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "fitness",
+    "android"
+   ],
    "blurb": "I’m still a fan of Samsung’s Fold and Flip phones, even though the new models are very same-y and even more expensive . But I’m most excited about the Galaxy Ring, which seems to have pretty much nailed the smart ring hardware — and even has some interesting ideas about gesture control.",
    "section": "the-drop",
    "recommender": null
@@ -63,8 +68,11 @@
    "name": "Delta 1.6",
    "url": "https://faq.deltaemulator.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "free"
+   ],
    "blurb": "Delta’s game emulation is on the iPad! I’m actually not sure how much I’ll use this given how much of my retro gaming is on an iPhone with a Backbone controller. But this update, with a bigger screen and support for multiple games at once, does sound pretty great.",
    "section": "the-drop",
    "recommender": null
@@ -102,8 +110,12 @@
    "name": "Openvibe",
    "url": "https://openvibe.social/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "ios",
+    "android"
+   ],
    "blurb": "Bluesky, Mastodon, Threads, and Nostr, all in one timeline in one app. This is basically a clever hack, not the interconnected social universe of my dreams, but it’s a pretty good hack! And I like that it basically hides which network people are using; it’s just people, in a timeline.",
    "section": "the-drop",
    "recommender": null
@@ -115,8 +127,10 @@
    "alt_urls": [
     "https://pestlechef.app/blog/save-recipes-from-instagram"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
    "blurb": "I love a good recipe app. I mostly use Crouton and Mela, but Pestle’s new ability to import recipes from Instagram Reels is pretty awesome. Just drop in the link, give it a name, and it’ll turn a video into a bunch of ingredients and steps.",
    "section": "the-drop",
    "recommender": null
@@ -137,8 +151,12 @@
    "name": "Flightradar24",
    "url": "https://www.flightradar24.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "travel"
+   ],
    "blurb": "Kids [group]: A thing they don’t tell you about parenting in the 2020s is how many school, camp, and bus apps you are forced to acquire and check. Ships / planes: The only AR apps I’ve ever used.",
    "section": "screen-share",
    "recommender": "Evan"
@@ -148,8 +166,12 @@
    "name": "MarineTraffic",
    "url": "https://www.marinetraffic.com/en/ais/home",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "travel"
+   ],
    "blurb": "Kids [group]: A thing they don’t tell you about parenting in the 2020s is how many school, camp, and bus apps you are forced to acquire and check. Ships / planes: The only AR apps I’ve ever used.",
    "section": "screen-share",
    "recommender": "Evan"
@@ -159,8 +181,11 @@
    "name": "CloudBeats",
    "url": "https://www.cloudbeatsapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "music"
+   ],
    "blurb": "Kids [group]: A thing they don’t tell you about parenting in the 2020s is how many school, camp, and bus apps you are forced to acquire and check. Ships / planes: The only AR apps I’ve ever used.",
    "section": "screen-share",
    "recommender": "Evan"
@@ -170,8 +195,13 @@
    "name": "Libby",
    "url": "https://libbyapp.com/interview/welcome#doYouHaveACard",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "book",
+    "free",
+    "ios",
+    "android"
+   ],
    "blurb": "Kids [group]: A thing they don’t tell you about parenting in the 2020s is how many school, camp, and bus apps you are forced to acquire and check. Ships / planes: The only AR apps I’ve ever used.",
    "section": "screen-share",
    "recommender": "Evan"
@@ -181,8 +211,13 @@
    "name": "Instapaper",
    "url": "https://www.instapaper.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "article",
+    "productivity",
+    "ios",
+    "android"
+   ],
    "blurb": "Kids [group]: A thing they don’t tell you about parenting in the 2020s is how many school, camp, and bus apps you are forced to acquire and check. Ships / planes: The only AR apps I’ve ever used.",
    "section": "screen-share",
    "recommender": "Evan"
@@ -205,8 +240,10 @@
    "name": "Charley Crockett album",
    "url": "https://charleycrockett.com/listen/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "Moss. Made a moss garden this year and I’m into all things moss-related. Websites on how to maintain it and its incredible properties, moss gurus (e.g., Mossin’ Annie ). Moss! The new Charley Crockett album . Just a genius songwriter and singer, with an incredible story.",
    "section": "screen-share",
    "recommender": "Evan"
@@ -216,8 +253,10 @@
    "name": "The Braindead Megaphone",
    "url": "https://www.penguinrandomhouse.com/books/300474/the-braindead-megaphone-by-george-saunders/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Moss. Made a moss garden this year and I’m into all things moss-related. Websites on how to maintain it and its incredible properties, moss gurus (e.g., Mossin’ Annie ). Moss! The new Charley Crockett album . Just a genius songwriter and singer, with an incredible story.",
    "section": "screen-share",
    "recommender": "Evan"
@@ -266,8 +305,11 @@
    "name": "The Singularity is Nearer",
    "url": "https://www.mcnallyjackson.com/book/9780399562761",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "ai"
+   ],
    "blurb": "Currently reading The Singularity is Nearer by Ray Kurzweil. We are lucky to see human evolution in real time.",
    "section": "crowdsourced",
    "recommender": "Matthew (reader)"
@@ -277,8 +319,12 @@
    "name": "Underdog Fantasy",
    "url": "https://underdogfantasy.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "social"
+   ],
    "blurb": "Best Ball drafts on Underdog Fantasy . What was once a niche version of fantasy football is now an (absurdly?) popular sports betting format where players draft an entire team within an hour or less and then compete against strangers.",
    "section": "crowdsourced",
    "recommender": "Noah (reader)"
@@ -288,8 +334,10 @@
    "name": "VR Exercise Tracker",
    "url": "https://vrhealth.institute/vr_exercise_tracker/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness"
+   ],
    "blurb": "Using the VR Exercise Tracker app created by the VR Health Institute. They use science-backed measurement of VR activity to help you measure your VR workouts. Connects with Apple Watch and other Bluetooth fitness devices.",
    "section": "crowdsourced",
    "recommender": "Dan (reader)"
@@ -299,8 +347,10 @@
    "name": "Dungeons & Daddies",
    "url": "https://www.dungeonsanddaddies.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "As a new dad, Dungeons & Daddies resonates with me in a special way. This (self-described non-BDSM) podcast puts a hilarious twist on D&D , following four dads navigating a fantastical realm to rescue their lost sons.",
    "section": "crowdsourced",
    "recommender": "Mark (reader)"
@@ -310,8 +360,10 @@
    "name": "Boox Go 10.3",
    "url": "https://shop.boox.com/products/go103",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "book"
+   ],
    "blurb": "Just bought a Boox Go 10.3 E Ink tablet and am really enjoying it. Very slim, nicely designed, no front light, and fairly great to write on when needed. It’s meant more as a competitor to the Remarkable 2 (i.e., a note-taking device), but I’m enjoying it for reading articles via Omnivore.",
    "section": "crowdsourced",
    "recommender": "Patrick (reader)"
@@ -321,8 +373,11 @@
    "name": "Deep Work",
    "url": "https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "productivity"
+   ],
    "blurb": "I’ve recently started reading a book called Deep Work by Cal Newport on the merits of dedicating time to focus on a task with minimal distractions.",
    "section": "crowdsourced",
    "recommender": "Dave (reader)"

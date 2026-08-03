@@ -26,8 +26,11 @@
    "alt_urls": [
     "https://radiolab.org/podcast/ceremony"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "free"
+   ],
    "blurb": "One of the better 30-minute summations of the Section 230 fight you’re ever going to hear, I think. It makes pretty convincing arguments for both sides, which is exactly why the fight over 230 is so messy, and it lands in about the right place.",
    "section": "the-drop",
    "recommender": null
@@ -37,8 +40,11 @@
    "name": "“The Doomsday AI Scenario in Hollywood from The Town",
    "url": "https://pca.st/hofrhhyy",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "ai"
+   ],
    "blurb": "Speaking of good pods to listen to this weekend! The Town is one of my favorite shows about the business of entertainment, and I loved this deep dive with Justine Bateman into what exactly AI might do to Hollywood. It’s a bit fatalistic in spots, I think? But it’s fascinating.",
    "section": "the-drop",
    "recommender": null
@@ -50,8 +56,10 @@
    "alt_urls": [
     "https://www.ifixit.com/Device/Nokia_G310_5G"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "I don’t know if this is going to be a great phone, but it feels like an important one. It’s a nice-looking $186 midrange phone, but it’s made with user repair explicitly in mind . You can swap in more storage, a new battery, and more.",
    "section": "the-drop",
    "recommender": null
@@ -74,8 +82,12 @@
    "name": "Perplexity AI 2.0",
    "url": "https://www.perplexity.ai/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web",
+    "free"
+   ],
    "blurb": "AI chatbots are a dime a dozen at this point, but I’ve always liked the way Perplexity handles citing its sources and delivering information — it’s a good mix of answers and links for lots of questions. The 2.0 update is basically just a redesign, but hey, it’s a good redesign!",
    "section": "the-drop",
    "recommender": null
@@ -112,8 +124,10 @@
    "name": "Supreme Soundsticks",
    "url": "https://supreme.com/previews/fallwinter2023/accessories/supreme-harman-kardon-soundsticks",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "The Harman / Kardon Soundsticks have been around for 23 years, and I think they’re still the best-looking desk speakers on the planet. I am, uh, quite confident that the Supreme collab ones will cost more than the standard $300 price for the Soundsticks 4. But that red, y’all. THAT RED.",
    "section": "the-drop",
    "recommender": null
@@ -125,7 +139,7 @@
    "alt_urls": [
     "https://www.youtube.com/watch?v=zyLnAVCdcqc"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Maisy Leigh has long been one of my favorite desk setup and productivity YouTubers, and I really dig the colorful, decidedly un-gadgety charging stand she created. Maisy’s video about the product development process is also definitely worth a watch.",
    "section": "the-drop",
@@ -138,8 +152,10 @@
    "alt_urls": [
     "https://thoughtmaybe.com/by/adam-curtis/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
    "blurb": "The whole Adam Curtis series of stuff, really, in terms of a modern examination of tech. HyperNormalisation is probably the gold standard.",
    "section": "pro-tips",
    "recommender": null
@@ -217,8 +233,12 @@
    "name": "Scriptable",
    "url": "https://scriptable.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "free",
+    "utilities"
+   ],
    "blurb": "The widget: The Scriptable app lets you write your own iOS widgets in JavaScript. I took someone else’s hourly forecast widget and altered it to show the daily forecast highs and precipitation chance as well as current temperature data from my own weather station.",
    "section": "screen-share",
    "recommender": "Jason"
@@ -228,8 +248,11 @@
    "name": "Star Trek: Strange New Worlds",
    "url": "https://paramountplus.qflm.net/c/482924/175360/3065?u=https%3A%2F%2Fwww.paramountplus.com%2Fshows%2Fstar-trek-strange-new-worlds%2F&subid1=Installer081723",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv",
+    "subscription"
+   ],
    "blurb": "Season 2 of Star Trek: Strange New Worlds just wrapped up on Paramount Plus, and I couldn’t be more amazed that they’ve captured the spirit of the original Star Trek while making something that’s fun and modern and welcoming to viewers who didn’t grow up with Star Trek like I did.",
    "section": "screen-share",
    "recommender": "Jason"
@@ -239,8 +262,10 @@
    "name": "Barker & Llewelyn series",
    "url": "https://us.macmillan.com/series/abarkerllewelynnovel",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Season 2 of Star Trek: Strange New Worlds just wrapped up on Paramount Plus, and I couldn’t be more amazed that they’ve captured the spirit of the original Star Trek while making something that’s fun and modern and welcoming to viewers who didn’t grow up with Star Trek like I did.",
    "section": "screen-share",
    "recommender": "Jason"
@@ -250,8 +275,10 @@
    "name": "Some Danger Involved",
    "url": "https://www.simonandschuster.com/books/Some-Danger-Involved/Will-Thomas/9780743256193",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Season 2 of Star Trek: Strange New Worlds just wrapped up on Paramount Plus, and I couldn’t be more amazed that they’ve captured the spirit of the original Star Trek while making something that’s fun and modern and welcoming to viewers who didn’t grow up with Star Trek like I did.",
    "section": "screen-share",
    "recommender": "Jason"
@@ -261,8 +288,10 @@
    "name": "To Kingdom Come",
    "url": "https://www.simonandschuster.com/books/To-Kingdom-Come/Will-Thomas/9780743272346",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Season 2 of Star Trek: Strange New Worlds just wrapped up on Paramount Plus, and I couldn’t be more amazed that they’ve captured the spirit of the original Star Trek while making something that’s fun and modern and welcoming to viewers who didn’t grow up with Star Trek like I did.",
    "section": "screen-share",
    "recommender": "Jason"
@@ -272,8 +301,11 @@
    "name": "The Flop House podcast",
    "url": "https://www.flophousepodcast.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "free"
+   ],
    "blurb": "Season 2 of Star Trek: Strange New Worlds just wrapped up on Paramount Plus, and I couldn’t be more amazed that they’ve captured the spirit of the original Star Trek while making something that’s fun and modern and welcoming to viewers who didn’t grow up with Star Trek like I did.",
    "section": "screen-share",
    "recommender": "Jason"
@@ -296,8 +328,12 @@
    "name": "Wanderlog",
    "url": "https://wanderlog.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "travel",
+    "cross-platform",
+    "free"
+   ],
    "blurb": "I’ve used Tripsy in the past, but I much prefer Wanderlog because of its ability to plan a group trip while still being crossplatform.",
    "section": "crowdsourced",
    "recommender": "Michael (reader)"
@@ -307,8 +343,13 @@
    "name": "GoodLinks app",
    "url": "https://goodlinks.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "paid",
+    "productivity"
+   ],
    "blurb": "Reading List for Safari is so disappointing. There’s no organization (folders) and you can’t tag pages you save to keep the stuff that’s similar together. I purchased the GoodLinks app and love the functionality it offers. It even has its own ‘reader’ mode like you get in Safari!",
    "section": "crowdsourced",
    "recommender": "Chris (reader)"
@@ -318,8 +359,12 @@
    "name": "Bring",
    "url": "https://www.getbring.com/en/home",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "My suggestion is an app called Bring ! It’s a grocery list app that allows your household to add items to a shared list, with cute little icons to boot. You can send notifications to others who are members of that list that you’re about to go shopping or that you’ve added items to the list as well.",
    "section": "crowdsourced",
    "recommender": "Aaron (reader)"
@@ -340,7 +385,7 @@
    "name": "our old Henry Hoover",
    "url": "https://www.theguardian.com/lifeandstyle/2021/jul/24/how-henry-vacuum-cleaner-became-accidental-design-icon",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I bought a low-end robot vacuum cleaner (the Eufy Clean G40+ ) on Prime Day a few weeks ago. And as someone with very hairy cats, it’s been absolutely life-changing. I spent years thinking these gadgets weren’t any better than our old Henry Hoover , but they’re really great.",
    "section": "crowdsourced",
@@ -351,8 +396,11 @@
    "name": "your sister site Polygon",
    "url": "https://www.polygon.com/23810363/deadloch-series-season-1-prime-video-watch",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "website"
+   ],
    "blurb": "This recommendation came from your sister site Polygon . It’s written by the ladies who created, wrote and starred in The Katering Show , a short YouTube series about an intolerable foodie and a food intolerant.",
    "section": "crowdsourced",
    "recommender": "Sean (reader)"
@@ -386,8 +434,11 @@
    "name": "Craft",
    "url": "https://www.craft.do/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "I’d like to recommend Craft . I moved to it after many (increasingly unhappy) years with Evernote, and after a bunch of months, I’m a convert. It’s got room to grow, but it’s fantastic, and I feel it doesn’t get the attention that some of the others get (like Notion and Bear).",
    "section": "crowdsourced",
    "recommender": "Bruce (reader)"

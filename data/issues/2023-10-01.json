@@ -24,7 +24,7 @@
    "name": "Meta Quest 3",
    "url": "https://www.meta.com/quest/quest-3/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "It’s not VR anymore, it’s mixed reality. The $499.99 Quest 3 seems to be a big improvement on the Quest 2, and in a brief demo, it showed some pretty solid mixed reality chops. But I’m genuinely curious: do you care about headsets? Are they the future / too early / totally stupid?",
    "section": "the-drop",
@@ -46,8 +46,10 @@
    "name": "ChatGPT’s voice commands",
    "url": "https://chat.openai.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai"
+   ],
    "blurb": "Two good things happened to ChatGPT this week: it got back the ability to browse the web in real time, and it became a really handy voice assistant. (You’ll need the $20 a month ChatGPT Plus subscription to get them, at least for now.)",
    "section": "the-drop",
    "recommender": null
@@ -57,8 +59,11 @@
    "name": "macOS Sonoma",
    "url": "https://howl.me/ckGITiFKn8g",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "free"
+   ],
    "blurb": "I include this otherwise relatively straightforward operating system update for one reason and one reason only: the screensavers. Apple basically took those gorgeous, moving screensavers from the Apple TV and ported them to the Mac, and they look so good. Also, you know, widgets and whatever.",
    "section": "the-drop",
    "recommender": null
@@ -70,7 +75,7 @@
    "alt_urls": [
     "https://www.theverge.com/2023/9/28/23889238/raspberry-pi-5-specs-availability-pricing"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "There’s still no better computer tinker toy than a Raspberry Pi. The new one, which starts at $60, is a spec upgrade across the board , and it’s as easy as ever to make it a smart home controller / simple media computer / basically anything else you can think of.",
    "section": "the-drop",
@@ -99,8 +104,11 @@
     "https://vivaldi.com/press/releases/introducing-vivaldi-browser-on-ios/",
     "https://vivaldi.com/android/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "cross-platform"
+   ],
    "blurb": "Vivaldi is one of my absolute favorite browsers. It’s superfast, wildly customizable, and as of this week, available just about everywhere! The new iOS app syncs easily with your other browsers, and just like other platforms, has a huge amount of options and features.",
    "section": "the-drop",
    "recommender": null
@@ -113,8 +121,12 @@
     "https://www.theverge.com/2023/9/26/23890621/microsoft-windows-11-update-copilot-paint-snipping-tool-features",
     "https://blogs.windows.com/windowsexperience/2023/09/26/the-most-personal-windows-11-experience-begins-rolling-out-today/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "windows",
+    "ai",
+    "free"
+   ],
    "blurb": "Microsoft would tell you the big upgrade this fall is Copilot , its built-in AI assistant for getting things done all over the OS. I’m also into the File Explorer redesign.",
    "section": "the-drop",
    "recommender": null
@@ -124,8 +136,10 @@
    "name": "Murder in the 21st",
    "url": "https://www.aetv.com/shows/murder-in-the-21st",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "This new show, a true crime series looking at some major investigations and murders through the lens of the victims’ digital footprints, is going to be very popular in my house. It’s the most iconic crossover of my family’s interests since Taylor Swift and Travis Kelce started hanging out.",
    "section": "the-drop",
    "recommender": null
@@ -135,8 +149,10 @@
    "name": "Small Web",
    "url": "https://blog.kagi.com/small-web",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "web"
+   ],
    "blurb": "It’s customizable. Kagi looks a lot like Google and generally feels very similar to use. But unlike Google, Kagi lets you block sites you don’t like and promote sites you do like.",
    "section": "spotlight",
    "recommender": null
@@ -146,8 +162,11 @@
    "name": "No ads",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "subscription",
+    "web"
+   ],
    "blurb": "The catch with Kagi is you have to pay for it. You get a few searches a month for free, but $10 buys you unlimited access. That’s a lot of money for a search engine! But the pages are so much cleaner and less confusing that I was surprised how quickly I paid up.",
    "section": "spotlight",
    "recommender": null
@@ -157,8 +176,12 @@
    "name": "It’s great for videos and podcasts",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "podcast",
+    "video",
+    "web"
+   ],
    "blurb": "Podcast search is, like, impossible. But I’ve had surprisingly good luck Kagi-ing topics I’m interested in and finding related podcast episodes, and the engine does a similarly good job of scouring YouTube for interesting stuff.",
    "section": "spotlight",
    "recommender": null
@@ -168,8 +191,11 @@
    "name": "Its AI is handy but not in the way",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "web"
+   ],
    "blurb": "For a lot of queries, Kagi puts a little “Quick Answer” button at the top — click it, and you get a brief AI-generated answer, with cited sources you can click on. That’s exactly the amount of AI I’m looking for in most of my searches.",
    "section": "spotlight",
    "recommender": null
@@ -181,8 +207,12 @@
    "alt_urls": [
     "https://help.kagi.com/kagi/getting-started/setting-default.html#chromium_mobile"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "free"
+   ],
    "blurb": "The mobile browser is great. Kagi’s mobile app is a browser called Orion , and it’s as no-frills a mobile browser as you’ll find. But that’s cool by me! It’s fast and easy to use. You can also supposedly download Kagi as a Safari extension on iOS, but I haven’t managed to make that work.",
    "section": "spotlight",
    "recommender": null
@@ -192,8 +222,10 @@
    "name": "It seems… good? I’ve tried basically all the search engines, and I usually end u",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "web"
+   ],
    "blurb": "p back on Google because Google has better results. (Or at least the results I’m expecting and looking for.) With Kagi, I’ve found myself going back to Google less than usual. I don’t know if that’ll hold up forever, but I’m impressed so far.",
    "section": "spotlight",
    "recommender": null
@@ -214,7 +246,7 @@
    "name": "Baldur’s Gate 3",
    "url": "https://baldursgate3.game/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Google Docs. Baldur’s Gate 3 has awoken one of my primal animating forces: writing fanfiction. After years of being out of the game, I’ve started writing again with a zeal I haven’t seen since I was 25 spending a whole eight-hour shift at my office job writing a 21,000-word fic in one sitting.",
    "section": "screen-share",
@@ -225,7 +257,7 @@
    "name": "that meme going around",
    "url": "https://www.tiktok.com/@livbaron/video/7279265114010799367?embed_source=121355058%2C121351166%2C121331973%2C120811592%2C120810756%3Bnull%3Bembed_name&refer=embed&referer_url=embedly.forbes.com%2Fwidgets%2Fmedia.html%3Fsrc%3Dhttps%253A%252F%252Fwww.tiktok.com%252Fembed%252Fv2%252F7279265114010799367%26display_name%3Dtiktok%26url%3Dhttps%253A%252F%252Fwww.tiktok.com%252F%2540livbaron%252Fvideo%252F7279265114010799367%26image%3Dhttps%253A%252F%252Fp16-sign-sg.tiktokcdn.com%252Fobj%252Ftos-alisg-p-0037%252FoQygoCGJIYpJAcoCE0gFOAAEBIfRBotYpwTzHh%253Fx-expires%253D1695492000%2526x-signature%253DcfmOf69cVpphKfbqQUBjwnip22I%25253D%26key%3D3ce26dc7e3454db5820ba084d28b4935%26type%3Dtext%252Fhtml%26schema%3Dtiktok&referer_video_id=7279265114010799367",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Google Docs. Baldur’s Gate 3 has awoken one of my primal animating forces: writing fanfiction. After years of being out of the game, I’ve started writing again with a zeal I haven’t seen since I was 25 spending a whole eight-hour shift at my office job writing a 21,000-word fic in one sitting.",
    "section": "screen-share",
@@ -236,7 +268,7 @@
    "name": "The screenshot",
    "url": "https://x.com/TimSweeneyEpic/status/1618685470329954306?s=20",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Google Docs. Baldur’s Gate 3 has awoken one of my primal animating forces: writing fanfiction. After years of being out of the game, I’ve started writing again with a zeal I haven’t seen since I was 25 spending a whole eight-hour shift at my office job writing a 21,000-word fic in one sitting.",
    "section": "screen-share",
@@ -247,8 +279,10 @@
    "name": "The Overwatch League",
    "url": "https://overwatchleague.com/en-us",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
    "blurb": "Google Docs. Baldur’s Gate 3 has awoken one of my primal animating forces: writing fanfiction. After years of being out of the game, I’ve started writing again with a zeal I haven’t seen since I was 25 spending a whole eight-hour shift at my office job writing a 21,000-word fic in one sitting.",
    "section": "screen-share",
    "recommender": "Ash"
@@ -258,8 +292,12 @@
    "name": "Energiza Pro",
    "url": "https://appgineers.de/energiza/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "utilities",
+    "paid"
+   ],
    "blurb": "Energiza Pro , an app for better battery life in the long term. I bought it a few weeks ago. I’m finding it very useful.",
    "section": "crowdsourced",
    "recommender": "Dennis (reader)"
@@ -269,8 +307,11 @@
    "name": "Radio Paradise",
    "url": "https://radioparadise.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music",
+    "free"
+   ],
    "blurb": "Radio Paradise plays an electric mix of music, ad-free, totally free, and has multiple ‘Mixes’ you can listen to (Rock, Mellow, Main, Global). They play a great mix of music I wouldn’t usually listen to, and you can skip the song if you don’t like it.",
    "section": "crowdsourced",
    "recommender": "Jonathan (reader)"
@@ -280,7 +321,7 @@
    "name": "Bombas socks",
    "url": "https://www.pntra.com/t/8-11047-88849-142593?sid=Installer092923&url=https%3A%2F%2Fshop.bombas.com%2F",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Bombas socks and Kizik shoes . Both the socks and shoes are so comfortable, and the shoes are easy to put on / slip on and off.",
    "section": "crowdsourced",
@@ -291,7 +332,7 @@
    "name": "Kizik shoes",
    "url": "https://kizik.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Bombas socks and Kizik shoes . Both the socks and shoes are so comfortable, and the shoes are easy to put on / slip on and off.",
    "section": "crowdsourced",
@@ -302,8 +343,10 @@
    "name": "Thumper",
    "url": "https://thumpergame.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios"
+   ],
    "blurb": "Recently, I’ve been sucked back into Thumper , one of my favorite games of all time. This playthrough on iOS!",
    "section": "crowdsourced",
    "recommender": "Arden (reader)"
@@ -339,8 +382,13 @@
    "name": "Raycast",
    "url": "https://www.raycast.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "utilities",
+    "productivity",
+    "free"
+   ],
    "blurb": "Raycast ! It’s this powerful and modern Spotlight replacement for Mac that’s similar to Alfred but way better and more modern. I use it all day, every day, and it just keeps getting better.",
    "section": "crowdsourced",
    "recommender": "Edvard (reader)"
@@ -350,8 +398,12 @@
    "name": "Alfred",
    "url": "https://www.alfredapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "utilities",
+    "productivity"
+   ],
    "blurb": "Raycast ! It’s this powerful and modern Spotlight replacement for Mac that’s similar to Alfred but way better and more modern. I use it all day, every day, and it just keeps getting better.",
    "section": "crowdsourced",
    "recommender": "Edvard (reader)"
@@ -361,8 +413,10 @@
    "name": "Death Glitch",
    "url": "https://yalebooks.yale.edu/book/9780300248272/death-glitch/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’m really liking Death Glitch by Tamara Kneese about how the social platforms and internet culture handle user death. And obvs, I hear really great things about Kashmir Hill’s new book .",
    "section": "crowdsourced",
    "recommender": "Joe (reader)"
@@ -372,8 +426,10 @@
    "name": "Kashmir Hill’s new book",
    "url": "https://www.penguinrandomhouse.com/books/691288/your-face-belongs-to-us-by-kashmir-hill/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’m really liking Death Glitch by Tamara Kneese about how the social platforms and internet culture handle user death. And obvs, I hear really great things about Kashmir Hill’s new book .",
    "section": "crowdsourced",
    "recommender": "Joe (reader)"
@@ -383,7 +439,7 @@
    "name": "fully getting rid of",
    "url": "https://www.polygon.com/23889773/dropout-anniversary-collegehumor-brennan-lee-mulligan-sam-reich",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "This week, the folks at the Dropout streaming service announced that, five years after launch, they’re fully getting rid of the name they had before — CollegeHumor. Dropout is great, love Dropout, go watch Dropout, but the official end of CH sent me down the deepest YouTube rabbit hole this week.",
    "section": "signing-off",

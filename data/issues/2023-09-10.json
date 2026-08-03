@@ -26,8 +26,11 @@
    "alt_urls": [
     "https://www.youtube.com/watch?v=3sooI3ZFw_Q&embeds_widget_referrer=https://www.theverge.com/&embeds_referring_euri=https://volume.vox-cdn.com/&embeds_referring_origin=https://volume.vox-cdn.com&source_ve_path=MjM4NTE"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography",
+    "paid"
+   ],
    "blurb": "Kudos to Polaroid for refusing to let the instant camera dream die. Less kudos for the $599.99 price of the I-2 and the nearly $2 a shot you’ll pay for prints. ( The Verge ’s Becca Farsace made a super fun video if you want to see how it all works.)",
    "section": "the-drop",
    "recommender": null
@@ -40,8 +43,11 @@
     "https://www.wsj.com/tech/elon-musk-twitter-x-takeover-walter-isaacson-5f553fa",
     "https://www.cnbc.com/2023/09/09/ai-for-cars-walter-isaacson-biography-of-elon-musk-excerpt.html"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "ai"
+   ],
    "blurb": "Walter Isaacson’s book about Elon Musk, cleverly titled Elon Musk , is coming out on Tuesday, and we’ve gotten a couple of excerpts so far.",
    "section": "the-drop",
    "recommender": null
@@ -51,8 +57,12 @@
    "name": "Taste Bud",
    "url": "https://taste-bud.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web",
+    "free"
+   ],
    "blurb": "This is a charming little AI recipe chatbot — plug in “what’s a good twist on cold brew coffee,” and it’ll pop up a recipe. Don’t like it? Click “try again” and get another. It’s also a fun tool for typing in all the ingredients you have on hand and seeing what comes back.",
    "section": "the-drop",
    "recommender": null
@@ -65,8 +75,11 @@
     "https://www.anrdoezrs.net/links/Verge/type/dlg/sid/VergeInstaller090823/https://www.sonos.com/en-us/shop/move-2",
     "https://www.ultimateears.com/en-us/wireless-speakers/wonderboom-3-bluetooth.html"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music",
+    "paid"
+   ],
    "blurb": "For my money, the UE Booms are the best Bluetooth speakers on the market. The new one, the Epicboom, is big and expensive ($350!) but is rugged and lasts for hours. The new Sonos Move 2 fits in the same category.",
    "section": "the-drop",
    "recommender": null
@@ -89,8 +102,10 @@
    "alt_urls": [
     "https://www.theverge.com/2023/9/7/23862694/lutron-caseta-smart-lighting-pico-paddle-remote-price-launch"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "This is the smart home controller I’ve been waiting for. It looks like a light switch (as all smart home controllers should), it only costs $20, and it can control most smart objects in your house.",
    "section": "the-drop",
    "recommender": null
@@ -116,8 +131,11 @@
    "name": "Clubhouse",
    "url": "https://blog.clubhouse.com/the-new-clubhouse/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "free"
+   ],
    "blurb": "I am forever fascinated by Clubhouse, the social-audio app that got hugely popular for like 10 minutes and then promptly disappeared off the radar forever. But the company has totally redesigned the app and is embracing voice messaging in a big way. No idea if it’ll work, but it’s a cool concept.",
    "section": "the-drop",
    "recommender": null
@@ -140,8 +158,11 @@
    "name": "NFL.com",
    "url": "https://www.nfl.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "tv",
+    "web"
+   ],
    "blurb": "Connect your NFL fantasy accounts. Link your NFL.com fantasy accounts to YouTube TV so you can keep up in real time with your team and league performance while watching your games.",
    "section": "pro-tips",
    "recommender": null
@@ -162,8 +183,10 @@
    "name": "The US Open",
    "url": "https://www.usopen.org/en_US/about/eventschedule.html",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "The US Open . There’s always tennis on somewhere, and I am always watching it. Right now, it’s the US Open, the last Grand Slam of the season, and it’s been a corker of a tournament, which wraps up with the women’s final this Saturday and the men’s on Sunday.",
    "section": "screen-share",
    "recommender": "Jen"
@@ -173,8 +196,10 @@
    "name": "ATP WTA Live app",
    "url": "https://www.wtatennis.com/apps",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free"
+   ],
    "blurb": "The US Open . There’s always tennis on somewhere, and I am always watching it. Right now, it’s the US Open, the last Grand Slam of the season, and it’s been a corker of a tournament, which wraps up with the women’s final this Saturday and the men’s on Sunday.",
    "section": "screen-share",
    "recommender": "Jen"
@@ -197,8 +222,10 @@
    "name": "Autumn Variations",
    "url": "https://variety.com/2023/music/news/ed-sheeran-autumn-variations-album-announce-aaron-dessner-1235703487/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "The US Open . There’s always tennis on somewhere, and I am always watching it. Right now, it’s the US Open, the last Grand Slam of the season, and it’s been a corker of a tournament, which wraps up with the women’s final this Saturday and the men’s on Sunday.",
    "section": "screen-share",
    "recommender": "Jen"
@@ -219,8 +246,11 @@
    "name": "Deku Deals",
    "url": "https://www.dekudeals.com",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "free"
+   ],
    "blurb": "One of my favorite websites is Deku Deals . It brings together the PlayStation, Xbox, and Nintendo stores and allows you to track games that are on sale really easily. You can sign up for email alerts whenever a game is discounted. They also have an iOS and Android app in development.",
    "section": "crowdsourced",
    "recommender": "Jon (reader)"
@@ -230,8 +260,11 @@
    "name": "their Patreon",
    "url": "https://www.patreon.com/dekudeals",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "website",
+    "subscription"
+   ],
    "blurb": "One of my favorite websites is Deku Deals . It brings together the PlayStation, Xbox, and Nintendo stores and allows you to track games that are on sale really easily. You can sign up for email alerts whenever a game is discounted. They also have an iOS and Android app in development.",
    "section": "crowdsourced",
    "recommender": "Jon (reader)"
@@ -267,8 +300,12 @@
    "name": "Pinboard",
    "url": "https://pinboard.in/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "paid",
+    "utilities"
+   ],
    "blurb": "The bookmarking app I never see but highly recommend is Pinboard , which markets itself as ‘Social Bookmarking for Introverts.’ It’s blazing fast because there are no images or lazy loading; it’s just webpages with text links you can add notes and tags to — that’s it.",
    "section": "crowdsourced",
    "recommender": "Ethan (reader)"
@@ -291,8 +328,10 @@
    "name": "Yuka",
    "url": "https://yuka.io/en/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free"
+   ],
    "blurb": "I want to recommend an app I am obsessed with these days: it’s called Yuka . It allows you to scan food items, and it rates food about how good / bad that food is and why.",
    "section": "crowdsourced",
    "recommender": "Shubham (reader)"
@@ -302,8 +341,12 @@
    "name": "Read.cv",
    "url": "https://read.cv/explore",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "free",
+    "web"
+   ],
    "blurb": "I’m really enjoying Read.cv and their little social network app Posts.cv — mostly centered around designers, but it’s fun seeing all the apps and web design all these people are coming up with.",
    "section": "crowdsourced",
    "recommender": "Christopher (reader)"
@@ -313,8 +356,11 @@
    "name": "Posts.cv",
    "url": "https://posts.cv/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "free"
+   ],
    "blurb": "I’m really enjoying Read.cv and their little social network app Posts.cv — mostly centered around designers, but it’s fun seeing all the apps and web design all these people are coming up with.",
    "section": "crowdsourced",
    "recommender": "Christopher (reader)"
@@ -335,8 +381,11 @@
    "name": "Finalist",
    "url": "https://finalist.works/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "ios"
+   ],
    "blurb": "Came across Finalist on Threads, a really slick to-do app that works well for my brain. Focused on daily lists that are easy to carry over, just recently released.",
    "section": "crowdsourced",
    "recommender": "Rigel (reader)"
@@ -357,8 +406,11 @@
    "name": "The Wrap ’s huge retrospective",
    "url": "https://www.thewrap.com/john-carter-movie-history-why-it-failed/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "movie"
+   ],
    "blurb": "After literally a year of having it pinned on my to-read list, I finally sat down and plowed through The Wrap ’s huge retrospective on what happened with the movie John Carter . It’s a really interesting read and made me wonder how many more movies might have gone through the same chaos.",
    "section": "signing-off",
    "recommender": null

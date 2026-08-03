@@ -23,8 +23,11 @@
    "name": "Monument Valley 3",
    "url": "https://linktr.ee/ustwogames",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "I’ve thought about it, and Monument Valley is my favorite mobile game series of all time. It’s gorgeous, quiet without being ponderous, and infinitely replayable. Even the soundtrack is one of my all-time faves!",
    "section": "the-drop",
    "recommender": null
@@ -34,8 +37,11 @@
    "name": "Mozi",
    "url": "https://www.mozi.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "social"
+   ],
    "blurb": "Ev Williams built Twitter, Medium, and now this — an app for making plans with your real friends, and connecting with folks who are in town. Strikes me as kind of… niche? But clever. And since Facebook stopped mattering, there’s really nothing else like it.",
    "section": "the-drop",
    "recommender": null
@@ -45,8 +51,11 @@
    "name": "iOS 18.2",
    "url": "https://www.apple.com/newsroom/2024/12/apple-intelligence-now-features-image-playground-genmoji-and-more/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ios",
+    "free"
+   ],
    "blurb": "I’m including this one mostly as a PSA to iPhone owners: all the Apple Intelligence stuff is whatever, but the fact that you can change go to Settings > Apps > Default Apps and change what you use for keyboards, calls, email, and more, absolutely rules. Go make it work the way you want.",
    "section": "the-drop",
    "recommender": null
@@ -58,8 +67,10 @@
    "alt_urls": [
     "https://www.theverge.com/2024/12/12/24319575/supernote-a5-x2-manta-tablet-e-ink-electronic-paper-upgradeable-repairable"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "Dumb name, really cool-looking new E Ink tablet. $459 is a lot for a device like this, but I dig Supernote’s emphasis on making it repairable and upgradeable . I love that these digital notebooks continue to get better.",
    "section": "the-drop",
    "recommender": null
@@ -69,8 +80,11 @@
    "name": "Joi Planner",
    "url": "https://joi.software/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "You surely already know this about me, but I am a sucker for a beautiful app. And this one, a combo calendar / tasks / habit tracker for iPhones, is one of the best-looking “day at a glance” designs I’ve ever seen. The app is, and feels, like it’s missing some features, but I dig it.",
    "section": "the-drop",
    "recommender": null
@@ -147,7 +161,7 @@
    "name": "Mahjong",
    "url": "https://en.wikipedia.org/wiki/Mahjong",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Watching: Shrinking . I’ve been really enjoying this show — it’s one of the least cynical things in entertainment right now. It’s not quite Scrubs level (highly recommend a rewatch!), but it’s heartfelt, funny, beautifully written and shot, and never saccharine. Playing: Mahjong !",
    "section": "screen-share",
@@ -197,8 +211,11 @@
    "name": "The Atlantic",
    "url": "https://www.theatlantic.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "subscription",
+    "web"
+   ],
    "blurb": "Watching: Shrinking . I’ve been really enjoying this show — it’s one of the least cynical things in entertainment right now. It’s not quite Scrubs level (highly recommend a rewatch!), but it’s heartfelt, funny, beautifully written and shot, and never saccharine. Playing: Mahjong !",
    "section": "screen-share",
    "recommender": "Esther"
@@ -208,7 +225,7 @@
    "name": "Bambu A1",
    "url": "https://us.store.bambulab.com/products/a1",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I’m trying to learn 3D modeling because I just got a Bambu A1 .",
    "section": "crowdsourced",
@@ -219,8 +236,12 @@
    "name": "myNoise",
    "url": "https://mynoise.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "music",
+    "productivity"
+   ],
    "blurb": "My favorite music-to-work-by site is myNoise . I particularly like ‘Medieval Library’ and ‘Medieval Village’ (with turned-down blacksmith’s clang).",
    "section": "crowdsourced",
    "recommender": "Molly (reader)"
@@ -230,8 +251,10 @@
    "name": "Caves of Qud",
    "url": "https://www.cavesofqud.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "paid"
+   ],
    "blurb": "Caves of Qud is an esoteric masterpiece of a game, I’m on my tenth character, I’ve barely seen a fraction of the world, but I’m hooked",
    "section": "crowdsourced",
    "recommender": "Jack (reader)"
@@ -241,8 +264,11 @@
    "name": "Deep Work",
    "url": "https://calnewport.com/deep-work-rules-for-focused-success-in-a-distracted-world/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "productivity"
+   ],
    "blurb": "I have finished reading Deep Work by Cal Newport. It provided useful insights about how to take time out of your busy schedule to focus on deep work. It also provided how to minimise distractions and cut down shallow work.",
    "section": "crowdsourced",
    "recommender": "Ankur (reader)"
@@ -252,8 +278,10 @@
    "name": "Pixel 9 Pro Fold",
    "url": "https://www.tkqlhce.com/click-8836598-15751464?url=https%3A%2F%2Fstore.google.com%2Fus%2Fproduct%2Fpixel_9_pro_fold%3Fhl%3Den-US%26pli%3D1",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "I got really really enamored by the Pixel 9 Pro Fold . I don’t know why. The thickness of it, just sitting next to a 15 Pro Max and then unfolding it to that screen inside… it’s something.",
    "section": "crowdsourced",
    "recommender": "Abhi (reader)"
@@ -274,8 +302,10 @@
    "name": "Indiana Jones and the Great Circle",
    "url": "https://indianajones.bethesda.net/en-US",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "windows"
+   ],
    "blurb": "The game Mouthwashing is getting a lot of attention right now, but I am just letting Indiana Jones and the Great Circle wash over me. It’s been a very long time since we had anything even remotely good with this franchise, but this game seems to really nail the vibe.",
    "section": "crowdsourced",
    "recommender": "Mike (reader)"
@@ -285,8 +315,10 @@
    "name": "Wind and Truth",
    "url": "https://us.macmillan.com/books/9781250319180/windandtruth/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Reading the gargantuan Wind and Truth from Brandon Sanderson! It’s been quite a doozy of a book.",
    "section": "crowdsourced",
    "recommender": "Jiatao (reader)"
@@ -296,8 +328,10 @@
    "name": "Baseus Bowie MA10",
    "url": "https://www.baseus.com/products/bowie-ma10-tws-wireless-earbuds",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "I needed a cheap pair of earbuds while I wait for the AirPods Pro 3. I bought the Baseus Bowie MA10 and they work better than I could ask for. They do exactly what I need them to do: play my music and podcasts.",
    "section": "crowdsourced",
    "recommender": "Alex (reader)"
@@ -307,8 +341,10 @@
    "name": "ROG Ally X",
    "url": "https://rog.asus.com/us/gaming-handhelds/rog-ally/rog-ally-x-2024/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "windows"
+   ],
    "blurb": "I just bought a ROG Ally X and I’m excited to dual boot it with Bazzite to turn it into half Steam Deck / half Windows gaming handheld, so that I can get the best of both worlds.",
    "section": "crowdsourced",
    "recommender": "Benny (reader)"
@@ -318,8 +354,11 @@
    "name": "Bazzite",
    "url": "https://bazzite.gg/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free"
+   ],
    "blurb": "I just bought a ROG Ally X and I’m excited to dual boot it with Bazzite to turn it into half Steam Deck / half Windows gaming handheld, so that I can get the best of both worlds.",
    "section": "crowdsourced",
    "recommender": "Benny (reader)"
@@ -329,8 +368,10 @@
    "name": "Stories Are Weapons",
    "url": "https://wwnorton.com/books/9780393881516",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Just finished the excellent Stories Are Weapons by Annalee Newitz, about the power of storytelling & worldbuilding in propaganda & psyops. Fascinating, insightful, often funny & tragic in turns. A really great read that’s helping me process our increasingly polarized world.",
    "section": "crowdsourced",
    "recommender": "Kailey (reader)"
@@ -340,8 +381,11 @@
    "name": "Miles Davis and the Search for the Sound",
    "url": "https://www.simonandschuster.com/books/Miles-Davis-and-the-Search-for-the-Sound/Dave-Chisholm/9798886560428",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "music"
+   ],
    "blurb": "So I am completely new to graphic novels. Went on Reddit to see the top recommendations. Came across Miles Davis and the Search for the Sound . What an amazing intro to this medium! Highly recommended for fans of Miles Davis and jazz.",
    "section": "crowdsourced",
    "recommender": "Mike (reader)"

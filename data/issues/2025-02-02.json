@@ -77,8 +77,10 @@
    "alt_urls": [
     "https://www.nytimes.com/2025/01/17/opinion/ezra-klein-podcast-chris-hayes.html"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "There’s a delightful irony in a long book about our increasingly terrible attention spans, but I’ve really enjoyed what I’ve read so far and really identify with Hayes trying to understand attention at a macro level and just, like, try to take his own brain back.",
    "section": "the-drop",
    "recommender": null
@@ -116,8 +118,10 @@
    "alt_urls": [
     "https://www.theverge.com/2025/1/23/598045/nvidia-rtx-5080-review-test-benchmark"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "windows"
+   ],
    "blurb": "And speaking of GPUs! (I’m honestly not doing this on purpose.) The $999 5080 is out now, and my colleague Tom Warren found it to be… fine . It’s fine! But the good news is you can safely bargain hunt for a 4080 or 4090 instead.",
    "section": "the-drop",
    "recommender": null
@@ -129,8 +133,10 @@
    "alt_urls": [
     "https://www.theverge.com/news/599537/no-mans-sky-worlds-2-update"
    ],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "free"
+   ],
    "blurb": "A gorgeous, impossibly huge, endlessly explorable game just got impossibly huge-er . Billions (billions!) of new solar systems, trillions (trillions!) of planets, I think you could play this game for the rest of your life and never see the end of it. Challenge accepted.",
    "section": "the-drop",
    "recommender": null
@@ -151,8 +157,10 @@
    "name": "If on a Winter’s Night a Traveler",
    "url": "https://www.harpercollins.com/products/if-on-a-winters-night-a-traveler-italo-calvino",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Google Translate is there because I’m trying to learn Italian and make myself read a couple pages of an Italian novel every day. I’m about to finish Italo Calvino’s If on a Winter’s Night a Traveler , and Translate is my backup for the many times I hit a word I don’t know.",
    "section": "screen-share",
    "recommender": "Dom"
@@ -173,7 +181,7 @@
    "name": "New Philosopher",
    "url": "https://www.newphilosopher.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "media",
    "tags": [],
    "blurb": "Severance . I know, me and everyone else. But season 2 has been great so far. I’m supremely into the entire aesthetic, and it feels like a treat just to get a TV show that’s appointment viewing again. New Philosopher . Before I was ever a journalist, I thought I was going to do a PhD in philosophy.",
    "section": "screen-share",
@@ -184,8 +192,10 @@
    "name": "Vittles",
    "url": "https://www.vittlesmagazine.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "newsletter"
+   ],
    "blurb": "Severance . I know, me and everyone else. But season 2 has been great so far. I’m supremely into the entire aesthetic, and it feels like a treat just to get a TV show that’s appointment viewing again. New Philosopher . Before I was ever a journalist, I thought I was going to do a PhD in philosophy.",
    "section": "screen-share",
    "recommender": "Dom"
@@ -195,7 +205,7 @@
    "name": "Arcs",
    "url": "https://ledergames.com/products/arcs",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Severance . I know, me and everyone else. But season 2 has been great so far. I’m supremely into the entire aesthetic, and it feels like a treat just to get a TV show that’s appointment viewing again. New Philosopher . Before I was ever a journalist, I thought I was going to do a PhD in philosophy.",
    "section": "screen-share",
@@ -206,7 +216,7 @@
    "name": "Root",
    "url": "https://ledergames.com/products/root-a-game-of-woodland-might-and-right",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Severance . I know, me and everyone else. But season 2 has been great so far. I’m supremely into the entire aesthetic, and it feels like a treat just to get a TV show that’s appointment viewing again. New Philosopher . Before I was ever a journalist, I thought I was going to do a PhD in philosophy.",
    "section": "screen-share",
@@ -256,8 +266,10 @@
    "name": "Telly",
    "url": "https://www.telly.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "free"
+   ],
    "blurb": "About two weeks ago my Telly finally arrived after ~1.5 years of being on the waitlist and it absolutely lives up to the hype! My one big asterisk is that the integrated soundbar and secondary ‘Smart Screen’ at the bottom make the TV much taller than you expect.",
    "section": "crowdsourced",
    "recommender": "Drake (reader)"
@@ -267,8 +279,12 @@
    "name": "Cine2Nerdle Battle",
    "url": "https://www.cinenerdle2.app/battle",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "movie",
+    "free"
+   ],
    "blurb": "Cine2Nerdle Battle has been taking up a lot of time for me this week. You connect films based on shared cast or crew. Super fun for movie nerds.",
    "section": "crowdsourced",
    "recommender": "Mark (reader)"
@@ -278,8 +294,11 @@
    "name": "ChatGPT Tasks",
    "url": "https://chatgpt.com/tasks",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
    "blurb": "I am using ChatGPT Tasks . I’ve since revised my first attempt to include three distinct gratitude writing prompts and three distinct AI news items. I’m also a Dallas Cowboys fan (don’t judge) and have ChatGPT monitoring their hunt for a new head coach.",
    "section": "crowdsourced",
    "recommender": "Tony (reader)"
@@ -289,8 +308,10 @@
    "name": "Phanteks Evolv X2",
    "url": "https://phanteks.com/product/evolv-x2-black/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "windows"
+   ],
    "blurb": "This week I’ll be taking apart my PC and transferring everything into a new Phanteks Evolv X2 case.",
    "section": "crowdsourced",
    "recommender": "Sean (reader)"
@@ -300,8 +321,12 @@
    "name": "KTool",
    "url": "https://ktool.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "utilities",
+    "newsletter",
+    "web"
+   ],
    "blurb": "KTool . It lets me get my RSS feeds and my newsletters to my Kindle so I can read them like a magazine and limit my scroll time. It’s amazing.",
    "section": "crowdsourced",
    "recommender": "Murphy (reader)"
@@ -324,8 +349,13 @@
    "name": "Zen Browser",
    "url": "https://zen-browser.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "cross-platform",
+    "web"
+   ],
    "blurb": "Switched over to Zen Browser . Basically Arc, but open-source and built on Firefox. Hoping for folders to be implemented soon.",
    "section": "crowdsourced",
    "recommender": "Phase (reader)"
@@ -335,8 +365,12 @@
    "name": "The StoryGraph",
    "url": "https://thestorygraph.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "book",
+    "web",
+    "free"
+   ],
    "blurb": "Have made reading a big goal for this year. To that end, my partner and I started some goal tracking through an app called The StoryGraph , where you enter what you’re reading each day and it provides a nice summary, which you can share with others.",
    "section": "crowdsourced",
    "recommender": "Colin (reader)"
@@ -346,8 +380,10 @@
    "name": "TGL",
    "url": "https://tglgolf.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "On Monday this week, I hopped on a flight to West Palm Beach, FL, to go to a golf match. But not a normal golf match: I went to see TGL , a new indoor and simulator-based golf league that has a genuinely astonishing amount of new technology baked in.",
    "section": "signing-off",
    "recommender": null
@@ -357,8 +393,10 @@
    "name": "ESPN has a good story",
    "url": "https://www.espn.com/golf/story/_/id/43396344/making-tgl-inaugural-season-sofi-center-jupiter-florida-tiger-woods-rory-mcilroy",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "On Monday this week, I hopped on a flight to West Palm Beach, FL, to go to a golf match. But not a normal golf match: I went to see TGL , a new indoor and simulator-based golf league that has a genuinely astonishing amount of new technology baked in.",
    "section": "signing-off",
    "recommender": null

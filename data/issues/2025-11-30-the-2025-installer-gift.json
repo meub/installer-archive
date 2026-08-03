@@ -54,8 +54,12 @@
    "name": "The Beatles Anthology 2025",
    "url": "https://ondisneyplus.disney.com/show/the-beatles-anthology",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music",
+    "tv",
+    "video"
+   ],
    "blurb": "The original version of this series, from 30 years ago — which includes music, a documentary, and a book — was one of the things that made me love The Beatles in the first place. This version has been remastered, includes even more stuff, and is required consumption for any music fan anywhere.",
    "section": "the-drop",
    "recommender": null
@@ -80,8 +84,10 @@
    "name": "Galactic",
    "url": "https://dstlry.co/collections/galactic",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’ve seen this new comic series compared to Star Wars, True Romance, Tarantino movies, and a dozen other things. It’s violent, it’s sci-fi, it’s romance, it sounds pretty awesome.",
    "section": "the-drop",
    "recommender": null
@@ -91,7 +97,7 @@
    "name": "Amazon Leo Ultra",
    "url": "https://www.aboutamazon.com/news/amazon-leo/amazon-leo-satellite-internet-ultra-pro",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Amazon’s Starlink competitor is finally shaping up to be a real thing, and a good thing at that: this new antenna doesn’t have a price yet but does promise up to 1Gbps of download speeds. If you’re shopping for satellite internet anytime soon, this could be a winner.",
    "section": "the-drop",
@@ -115,7 +121,7 @@
    "name": "Xbox Crocs",
    "url": "https://crocs-us.xkpq.net/c/1141873/2090960/8119?subId1=VergeNewsletter112525&u=https%3A%2F%2Fwww.crocs.com%2Fp%2Fxbox-classic-clog%2F211439.html",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Listen, I like a silly brand integration as much as the next guy, but this? This is next level. It’s Crocs! With buttons! And joysticks! If I can get my hands on a pair these will become my official Gaming Footwear.",
    "section": "the-drop",
@@ -126,8 +132,10 @@
    "name": "Claude Opus 4.5.",
    "url": "https://www.anthropic.com/news/claude-opus-4-5",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai"
+   ],
    "blurb": "Claude is consistently one of the best all-around LLMs, but generally what I hear is that it is at its best when it’s coding. And Opus 4.5 appears to be a big step up in what Claude Code can do. Time to finally finish vibe-coding my perfect productivity app, maybe?",
    "section": "the-drop",
    "recommender": null
@@ -148,7 +156,7 @@
    "name": "The POP Phone",
    "url": "https://www.nativeunion.com/products/pop-phone?variant=43838127538315",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Hands down the silliest gadget I bought this year, that nevertheless brings me tremendous joy. It plugs into a USB-C port (presumably on your phone) and gives you that old-school landline feel. Way more comfortable than pressing my phone to my ear, and sounds good too.",
    "section": "gift-guide",
@@ -206,7 +214,7 @@
    "name": "Acquire",
    "url": "https://renegadegamestudios.com/acquire/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I rediscovered this decades-old board game this year, and was reminded of how much I love it! It’s a simple premise — you’re building and merging hotel chains, one building at a time — but it requires exactly the right amount of thinking and strategy.",
    "section": "gift-guide",
@@ -239,8 +247,10 @@
    "name": "The Away Overnight Bag.",
    "url": "https://jam.awaytravel.com/t/v1/8-11514-88849-8621?website=309942&url=https%3A%2F%2Fwww.awaytravel.com%2Fpages%2Fguides%2Fthe-overnight-bag%2F",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "travel"
+   ],
    "blurb": "If I’m traveling for between 12 hours and four days, this is the bag I take. It has a few pockets and a laptop sleeve, and a surprisingly roomy spot for all my clothes.",
    "section": "gift-guide",
    "recommender": null
@@ -261,8 +271,10 @@
    "name": "The Brick",
    "url": "https://getbrick.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "For some reason, this thing just works for me: I have a Brick in my office and another in the kitchen, and just by tapping my phone on the little cube I’m able to turn my phone to a more minimalist mode. I should use it more, but I use it a lot.",
    "section": "gift-guide",
    "recommender": null
@@ -294,8 +306,11 @@
    "name": "Pinterest",
    "url": "https://www.pinterest.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "ios"
+   ],
    "blurb": "I love the Pinterest widget, which I use for motivational quotes for daily inspiration. I love to post on Retro at least weekly to keep a photo journal of my year and the most important memories, feels like social done right Tangle , a new app by Pinterest cofounder Evan Sharp, allows you to be…",
    "section": "screen-share",
    "recommender": "Naveen"
@@ -305,8 +320,12 @@
    "name": "Retro",
    "url": "https://retro.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "photography",
+    "ios"
+   ],
    "blurb": "I love the Pinterest widget, which I use for motivational quotes for daily inspiration. I love to post on Retro at least weekly to keep a photo journal of my year and the most important memories, feels like social done right Tangle , a new app by Pinterest cofounder Evan Sharp, allows you to be…",
    "section": "screen-share",
    "recommender": "Naveen"
@@ -316,8 +335,10 @@
    "name": "Tangle",
    "url": "https://tangle.com/get/desktop",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "newsletter"
+   ],
    "blurb": "I love the Pinterest widget, which I use for motivational quotes for daily inspiration. I love to post on Retro at least weekly to keep a photo journal of my year and the most important memories, feels like social done right Tangle , a new app by Pinterest cofounder Evan Sharp, allows you to be…",
    "section": "screen-share",
    "recommender": "Naveen"
@@ -327,8 +348,10 @@
    "name": "SuperMe",
    "url": "https://www.superme.ai/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
    "blurb": "I love the Pinterest widget, which I use for motivational quotes for daily inspiration. I love to post on Retro at least weekly to keep a photo journal of my year and the most important memories, feels like social done right Tangle , a new app by Pinterest cofounder Evan Sharp, allows you to be…",
    "section": "screen-share",
    "recommender": "Naveen"
@@ -338,8 +361,10 @@
    "name": "Extra",
    "url": "https://extra.email/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
    "blurb": "I love the Pinterest widget, which I use for motivational quotes for daily inspiration. I love to post on Retro at least weekly to keep a photo journal of my year and the most important memories, feels like social done right Tangle , a new app by Pinterest cofounder Evan Sharp, allows you to be…",
    "section": "screen-share",
    "recommender": "Naveen"
@@ -349,8 +374,12 @@
    "name": "Marcusveltri",
    "url": "https://www.instagram.com/marcusveltri",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "music",
+    "social"
+   ],
    "blurb": "Marcusveltri : I spent way too long watching how awesome he is and how he brings joy to people. Doloresaurous : Ran into him the other day walking around the streets as a dinosaur, bringing joy to kids and families.",
    "section": "screen-share",
    "recommender": "Naveen"
@@ -360,8 +389,11 @@
    "name": "Doloresaurous",
    "url": "https://www.instagram.com/doloresaurus_sf",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "social",
+    "video"
+   ],
    "blurb": "Marcusveltri : I spent way too long watching how awesome he is and how he brings joy to people. Doloresaurous : Ran into him the other day walking around the streets as a dinosaur, bringing joy to kids and families.",
    "section": "screen-share",
    "recommender": "Naveen"
@@ -371,7 +403,7 @@
    "name": "Spark",
    "url": "https://themindcompany.com/apps/spark",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I’ve been playing the daily games from Spark . They’ve been great and I’ve been learning things along the way. I love the daily learning habit it’s creating for me.",
    "section": "crowdsourced",
@@ -382,8 +414,10 @@
    "name": "Dungeon Crawler Carl",
    "url": "https://www.penguinrandomhouse.com/series/43C/dungeon-crawler-carl/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "All about world immersion for me this week. Been reading the first Dungeon Crawler Carl . Super fun and like reading a video game. Accidentally fell down a Kingdom Come Deliverance rabbit hole. Got the new one on sale and decided it was so good that I had to get the first one and play that instead.",
    "section": "crowdsourced",
    "recommender": "Manny (reader)"
@@ -393,7 +427,7 @@
    "name": "Kingdom Come Deliverance",
    "url": "https://www.deepsilver.com/games/kingdom-come-deliverance",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "All about world immersion for me this week. Been reading the first Dungeon Crawler Carl . Super fun and like reading a video game. Accidentally fell down a Kingdom Come Deliverance rabbit hole. Got the new one on sale and decided it was so good that I had to get the first one and play that instead.",
    "section": "crowdsourced",
@@ -404,8 +438,10 @@
    "name": "4K Criterion release of Eyes Wide Shut",
    "url": "https://www.criterion.com/films/34534-eyes-wide-shut",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
    "blurb": "Come on, it’s the 4K Criterion release of Eyes Wide Shut , obviously!",
    "section": "crowdsourced",
    "recommender": "Naught (reader)"
@@ -415,8 +451,11 @@
    "name": "Viwoods AIPaper Reader",
    "url": "https://viwoods.com/products/viwoods-aipaper-reader",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android",
+    "book"
+   ],
    "blurb": "Really considering getting a Viwoods AIPaper Reader . Like a Boox Palma, but Carta 1300, Android 16, etc. Waiting on battery tests though.",
    "section": "crowdsourced",
    "recommender": "Scott (reader)"
@@ -426,7 +465,7 @@
    "name": "The Division 2",
    "url": "https://www.ubisoft.com/en-us/game/the-division/the-division-2",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "The Division 2 , the video game. Yes, it’s about seven years old now, but it’s still got a huge user base and the dev team is rolling out new stuff all the time. In like a month’s time the game is getting a total redesign to add some things the users have been asking for.",
    "section": "crowdsourced",
@@ -437,8 +476,10 @@
    "name": "The Great Work",
    "url": "https://www.penguinrandomhouse.com/books/789604/the-great-work-by-sheldon-costa/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "The Great Work , the debut novel from Sheldon Costa, was my most recent fantastic read.",
    "section": "crowdsourced",
    "recommender": "Bill (reader)"
@@ -448,8 +489,12 @@
    "name": "Home Assistant",
    "url": "https://www.home-assistant.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "smart-home",
+    "open-source",
+    "free"
+   ],
    "blurb": "Home Assistant because, apparently, home automation is my new hobby and I like the idea of local control. Shouldn’t be too long before I’ve locked myself inside my house.",
    "section": "crowdsourced",
    "recommender": "Lee (reader)"
@@ -472,7 +517,7 @@
    "name": "In Stars And Time",
    "url": "https://www.instarsandtime.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I just started In Stars And Time , a black and white RPG with the best character writing I’ve seen in years. Even the annoying character is adorable by the end of the first hour.",
    "section": "crowdsourced",

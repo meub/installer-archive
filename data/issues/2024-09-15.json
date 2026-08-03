@@ -36,8 +36,11 @@
    "alt_urls": [
     "https://www.theverge.com/2024/9/9/24236881/apple-airpods-pro-second-gen-hearing-aid-protection-features-update"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ios",
+    "music"
+   ],
    "blurb": "I’m sure the iPhone 16 is fine, but to my mind, this is the most exciting thing Apple launched this week — a set of open-ear headphones with decent noise cancellation is a rare and exciting thing. (The AirPods Pro hearing aid stuff is also extremely cool.)",
    "section": "the-drop",
    "recommender": null
@@ -51,8 +54,10 @@
     "https://www.theverge.com/2018/11/14/18088620/samsung-foldable-phone-science-fiction-movies-television-westworld-star-trek",
     "https://www.theverge.com/2024/9/10/24240700/huawei-mate-xt-ultimate-design-tri-fold-price-launch"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "This is the phone of the week. I can’t stop watching the video of the trifold, which gives intense Westworld tablet vibes , in the best possible way. You probably can’t buy it, and at $2,800 , you probably wouldn’t want to anyway, but I love that this thing exists.",
    "section": "the-drop",
    "recommender": null
@@ -77,8 +82,10 @@
    "name": "Channels with Peter Kafka",
    "url": "https://pod.link/recodemedia",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Nobody does insidery tech media pods like Kafka, so I was psyched to see him back on the digital airwaves once again. (I guess, disclosure, he’s making the show with Vox Media, The Verge ’s parent company.) The first episode, with New Yorker editor David Remnick, was a good one.",
    "section": "the-drop",
    "recommender": null
@@ -90,8 +97,10 @@
    "alt_urls": [
     "https://www.garbageday.email/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Another great new podcast! Ryan Broderick writes one of my absolute favorite newsletters about the internet, Garbage Day , and the first episode of the podcast has the same “smart but borderline unhinged” vibe to it. It’s delightful.",
    "section": "the-drop",
    "recommender": null
@@ -103,7 +112,7 @@
    "alt_urls": [
     "https://www.polygon.com/gaming/447285/warhammer-40k-space-marine-2-review"
    ],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I’m a pretty simple gamer. I like games where I get to battle with and / or against cool robots, and I love when everything is needlessly intense and gory.",
    "section": "the-drop",
@@ -129,7 +138,7 @@
    "alt_urls": [
     "https://www.theverge.com/2024/9/12/24242497/ifixit-fixhub-usb-soldering-iron-station-battery-toolkit-price-release-date"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I trust The Verge ’s Sean Hollister completely when it comes to techie DIY, and he loves iFixit’s super-portable, super-simple tool for all things liquid metal. It’s not cheap, but it sounds like a heck of a lot of fun.",
    "section": "the-drop",
@@ -166,8 +175,10 @@
    "name": "huge photography buff",
    "url": "https://wardenshortbow.com/photos/orthodox",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "photography"
+   ],
    "blurb": "I’m a huge photography buff and I’ve really gotten into developing my own film lately using a Lab-Box . I’ve been shooting a lot with film cameras, including a medium format Mamiya C330 Professional and Hasselblad 500C/M — then I scan to digital from there.",
    "section": "screen-share",
    "recommender": "Boz"
@@ -177,8 +188,10 @@
    "name": "Lab-Box",
    "url": "https://www.lab-box.it/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography"
+   ],
    "blurb": "I’m a huge photography buff and I’ve really gotten into developing my own film lately using a Lab-Box . I’ve been shooting a lot with film cameras, including a medium format Mamiya C330 Professional and Hasselblad 500C/M — then I scan to digital from there.",
    "section": "screen-share",
    "recommender": "Boz"
@@ -188,8 +201,10 @@
    "name": "Mamiya C330 Professional",
    "url": "https://en.wikipedia.org/wiki/Mamiya_C330",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography"
+   ],
    "blurb": "I’m a huge photography buff and I’ve really gotten into developing my own film lately using a Lab-Box . I’ve been shooting a lot with film cameras, including a medium format Mamiya C330 Professional and Hasselblad 500C/M — then I scan to digital from there.",
    "section": "screen-share",
    "recommender": "Boz"
@@ -199,8 +214,10 @@
    "name": "Hasselblad 500C/M",
    "url": "https://www.hasselblad.com/about/history/500-series/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography"
+   ],
    "blurb": "I’m a huge photography buff and I’ve really gotten into developing my own film lately using a Lab-Box . I’ve been shooting a lot with film cameras, including a medium format Mamiya C330 Professional and Hasselblad 500C/M — then I scan to digital from there.",
    "section": "screen-share",
    "recommender": "Boz"
@@ -210,8 +227,11 @@
    "name": "Ray-Ban Meta Smart Glasses",
    "url": "https://www.ray-ban.com/usa/ray-ban-meta-smart-glasses",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography",
+    "ai"
+   ],
    "blurb": "I’m a huge photography buff and I’ve really gotten into developing my own film lately using a Lab-Box . I’ve been shooting a lot with film cameras, including a medium format Mamiya C330 Professional and Hasselblad 500C/M — then I scan to digital from there.",
    "section": "screen-share",
    "recommender": "Boz"
@@ -221,7 +241,7 @@
    "name": "in the coming weeks",
    "url": "https://www.meta.com/connect/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "I’m a huge photography buff and I’ve really gotten into developing my own film lately using a Lab-Box . I’ve been shooting a lot with film cameras, including a medium format Mamiya C330 Professional and Hasselblad 500C/M — then I scan to digital from there.",
    "section": "screen-share",
@@ -232,8 +252,10 @@
    "name": "IK Multimedia MTM MKII",
    "url": "https://www.ikmultimedia.com/products/iloudmtm/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "I’ve recently picked up a pair of the brand-new IK Multimedia MTM MKII studio monitors, and I am BLOWN AWAY by the quality of the sound. They’ve got to be the best-sounding ‘desk-friendly’ studio audio monitors available. They literally make me giddy by how full and rich and accurate they sound.",
    "section": "crowdsourced",
    "recommender": "Brooks (reader)"
@@ -243,8 +265,11 @@
    "name": "Mammoth",
    "url": "https://getmammoth.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "ios"
+   ],
    "blurb": "I’m giving Mammoth a try, and it’s quickly becoming my favorite Mastodon client. It does a good job of combining the firehose with curated and algorithmic feeds. And the UI is nice.",
    "section": "crowdsourced",
    "recommender": "Joseph (reader)"
@@ -254,8 +279,12 @@
    "name": "PowerPhotos",
    "url": "https://fatcatsoftware.com/powerphotos/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "photography",
+    "paid"
+   ],
    "blurb": "I’m running out of iCloud space at 200GB. I have 18,500 files in my Photos app, but Apple provides no way to tell which are larger. Turns out, the trial of the PowerPhotos Mac app lets you sort by size while your photos are still in the cloud! In my case, just 500 files take up 100GB.",
    "section": "crowdsourced",
    "recommender": "Nikolaj (reader)"
@@ -278,8 +307,10 @@
    "name": "Reader, Come Home",
    "url": "https://www.maryannewolf.com/reader-come-home-1",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "After the recent ebook versus paper book debate on The Vergecast , I wanted to point to Reader, Come Home by Maryanne Wolf. It’s a really fascinating dive into how digital reading affects the brain — with the latter half focused on childhood exposure. Definitely an important consideration!",
    "section": "crowdsourced",
    "recommender": "Brad (reader)"
@@ -315,8 +346,10 @@
    "name": "Armitage",
    "url": "https://www.atlascreedauthor.com/books",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Atlas Creed is a new indie author that I really enjoy. He self-published a crime thriller with some supernatural elements called Armitage , and it’s surprisingly killer. I listened to the audiobook, and the narrators do a great job!",
    "section": "crowdsourced",
    "recommender": "Steve (reader)"
@@ -326,8 +359,11 @@
    "name": "How to Monetize a Blog",
    "url": "https://modem.io/blog/blog-monetization/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "web"
+   ],
    "blurb": "‘ How to Monetize a Blog .’ Maybe read this article / commentary / art piece / disaster on desktop instead of mobile? It’s worth it.",
    "section": "crowdsourced",
    "recommender": "Hunter (reader)"
@@ -350,7 +386,7 @@
    "name": "Daggerheart",
    "url": "https://www.daggerheart.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "After a successful playtest, friends and I have had our first session of Daggerheart this week. It’s a TTRPG, like D&D , from the folks at Critical Role . The mechanics are simpler, and it focuses on collaborative storytelling and quick decisions.",
    "section": "crowdsourced",
@@ -361,8 +397,10 @@
    "name": "Critical Role",
    "url": "https://critrole.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
    "blurb": "After a successful playtest, friends and I have had our first session of Daggerheart this week. It’s a TTRPG, like D&D , from the folks at Critical Role . The mechanics are simpler, and it focuses on collaborative storytelling and quick decisions.",
    "section": "crowdsourced",
    "recommender": "René (reader)"

@@ -25,8 +25,12 @@
    "alt_urls": [
     "https://www.theverge.com/2024/7/26/24206108/how-to-watch-olympics-2024-paris-peacock"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "tv",
+    "video",
+    "subscription"
+   ],
    "blurb": "Peacock is doing ~ the most ~ for the Olympics this year. Personalized highlights! AI Al Michaels! The Gold Zone! But I’ll be spending the next two weeks locked to the Multiview. Four events at a time, and I get to pick which one gets the audio? That’s the future of TV right there.",
    "section": "the-drop",
    "recommender": null
@@ -38,8 +42,10 @@
    "alt_urls": [
     "https://www.theverge.com/24204770/asus-rog-ally-x-review-handheld-gaming-pc"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "windows"
+   ],
    "blurb": "A Windows gaming handheld that is fast, comfortable, and quiet ? That’s the dream right there. Except Windows still stinks on the tiny screen, and $800 is a lot for this thing. But still! We’re making progress!",
    "section": "the-drop",
    "recommender": null
@@ -49,8 +55,13 @@
    "name": "Apple Maps for web",
    "url": "https://beta.maps.apple.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "beta",
+    "free",
+    "travel"
+   ],
    "blurb": "Apple’s new beta Maps tool is a stark, simple, lovely contrast to the cluttered mess of Google Maps. It’ll be interesting to see how much Apple tries to do here — Maps is great for navigation but rough for place discovery, but maybe this is a sign Apple wants to fix that.",
    "section": "the-drop",
    "recommender": null
@@ -60,8 +71,13 @@
    "name": "Capacities",
    "url": "https://capacities.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "ios",
+    "android",
+    "cross-platform"
+   ],
    "blurb": "I’ve been messing with this superpowerful note-taking app for a while, and I really like the way Capacities organizes things. Now there’s a mobile app, too, which makes it much easier to get stuff into the system. It’s definitely a power-user tool, but I’m liking it a lot.",
    "section": "the-drop",
    "recommender": null
@@ -84,8 +100,12 @@
    "name": "Llama 3.1",
    "url": "https://llama.meta.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "open-source",
+    "free"
+   ],
    "blurb": "The occasion for that Zuckerberg interview was the launch of Meta’s new AI model, which is apparently better and faster in the way that every new model now is the best and fastest.",
    "section": "the-drop",
    "recommender": null
@@ -97,8 +117,11 @@
    "alt_urls": [
     "https://www.theverge.com/2024/7/25/24205963/elgato-stream-deck-plus-xlr-usb-dock-accessories"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "video",
+    "podcast"
+   ],
    "blurb": "If you use an external mic for video calls, streaming, podcasting, whatever, this dock / Stream Deck combo might be the best simple USB setup I’ve ever seen. I bought one immediately.",
    "section": "the-drop",
    "recommender": null
@@ -138,8 +161,12 @@
    "alt_urls": [
     "https://neal.fun/infinite-craft/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "website",
+    "web",
+    "free"
+   ],
    "blurb": "An annual competition for the best of the “personal internet,” which doubles as just a long list of really fun, often silly, always delightful websites. Infinite Craft , which I’ve mentioned here before, is just one of this year’s great nominees.",
    "section": "the-drop",
    "recommender": null
@@ -173,7 +200,7 @@
    "name": "Seral Wood and Steel",
    "url": "https://seralwoodandsteel.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "I’m not a gamer at all, but ever since trying Blackbox on Vision Pro, I’ve been loving how it blends art and play. I just made Hashi (chopsticks) in a workshop with Seral Wood and Steel at the SingleThread farm shop and am suddenly enamored with woodworking. Snoopy.",
    "section": "screen-share",
@@ -184,7 +211,7 @@
    "name": "SingleThread",
    "url": "https://www.singlethreadfarms.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "I’m not a gamer at all, but ever since trying Blackbox on Vision Pro, I’ve been loving how it blends art and play. I just made Hashi (chopsticks) in a workshop with Seral Wood and Steel at the SingleThread farm shop and am suddenly enamored with woodworking. Snoopy.",
    "section": "screen-share",
@@ -195,8 +222,10 @@
    "name": "Lord of the Rings audiobooks",
    "url": "https://rbmediaglobal.com/the-lord-of-the-rings/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "The Lord of the Rings audiobooks narrated by Andy Serkis. I have tried many times to get into those books (loved the Hobbit book and the OG LOTR movies) but couldn’t get it.",
    "section": "crowdsourced",
    "recommender": "Harrison (reader)"
@@ -206,8 +235,10 @@
    "name": "The Silmarillion",
    "url": "https://www.harpercollins.com/products/the-silmarillion-j-r-r-tolkien?variant=41057871560738",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "The Lord of the Rings audiobooks narrated by Andy Serkis. I have tried many times to get into those books (loved the Hobbit book and the OG LOTR movies) but couldn’t get it.",
    "section": "crowdsourced",
    "recommender": "Harrison (reader)"
@@ -217,8 +248,12 @@
    "name": "“A slightly lesser known but lovely",
    "url": "http://yr.no",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "A slightly lesser known but lovely (Scandinavian design, what do you expect) weather app alternative is Yr . They have a great app for iOS and Android, interesting background on their data setup… and look at that wonderful URL! Plus, did I mention Scandinavian design?",
    "section": "crowdsourced",
    "recommender": "James (reader)"
@@ -228,8 +263,12 @@
    "name": "ChimeraOS",
    "url": "https://chimeraos.org",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "utilities"
+   ],
    "blurb": "I accidentally started googling for a screen-less Steam Deck and fell into a Linux gaming on basic hardware hole. A decent 1080p rig can apparently be built for ~$300. So now I’m looking for old AMD parts to build a small form factor Steam console on the cheap. (Anyone got a RX 580 laying around?)",
    "section": "crowdsourced",
    "recommender": "Robert (reader)"
@@ -239,8 +278,12 @@
    "name": "Bazzite",
    "url": "https://bazzite.gg",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "utilities"
+   ],
    "blurb": "I accidentally started googling for a screen-less Steam Deck and fell into a Linux gaming on basic hardware hole. A decent 1080p rig can apparently be built for ~$300. So now I’m looking for old AMD parts to build a small form factor Steam console on the cheap. (Anyone got a RX 580 laying around?)",
    "section": "crowdsourced",
    "recommender": "Robert (reader)"
@@ -250,8 +293,12 @@
    "name": "EndeavourOS",
    "url": "https://endeavouros.com",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "utilities"
+   ],
    "blurb": "I accidentally started googling for a screen-less Steam Deck and fell into a Linux gaming on basic hardware hole. A decent 1080p rig can apparently be built for ~$300. So now I’m looking for old AMD parts to build a small form factor Steam console on the cheap. (Anyone got a RX 580 laying around?)",
    "section": "crowdsourced",
    "recommender": "Robert (reader)"
@@ -261,8 +308,12 @@
    "name": "Papers, Please",
    "url": "https://papersplea.se/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android",
+    "paid"
+   ],
    "blurb": "I’ve been playing Papers, Please on my phone, and it’s been nice to play during my downtime. The developer did a wonderful job translating this game from PC.",
    "section": "crowdsourced",
    "recommender": "Collin (reader)"
@@ -272,8 +323,11 @@
    "name": "the Rabbit R1",
    "url": "https://www.rabbit.tech/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ai",
+    "photography"
+   ],
    "blurb": "The update to the Magic camera feature on the Rabbit R1 that lets you dictate the style of the photos it creates. It totally changed my attitude about the R1 being a fun camera that just happens to have some AI features built in, instead of an AI device with some camera features built in.",
    "section": "crowdsourced",
    "recommender": "Daulton (reader)"
@@ -333,8 +387,10 @@
    "name": "lists like this one",
    "url": "https://www.ricksteves.com/travel-tips/packing-light/ricks-packing-list",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "Do you keep a packing list? I really want to know. I am a constant list-maker, and I find everything about life easier when I’m writing stuff down, but for some reason, I’ve never seen the point of a packing list.",
    "section": "signing-off",
    "recommender": null

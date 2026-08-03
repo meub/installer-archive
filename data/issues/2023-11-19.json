@@ -24,7 +24,7 @@
    "name": "Gubbins",
    "url": "https://linktr.ee/folly_studio",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Imagine Scrabble, except you’re trying to build the whole board in one turn, and there are a bunch of trumpets trying to help you and monsters trying to stop you. It’s pure word-game chaos, and I love it so far.",
    "section": "the-drop",
@@ -37,8 +37,11 @@
    "alt_urls": [
     "https://www.theverge.com/2023/11/15/23959801/microsoft-loop-launch-notion-competitor"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "It’s a collaborative, customizable productivity… you know what, it’s Notion. Microsoft made Notion. And after months in beta, it’s now available to everyone ! It’s a nice app, though Notion’s much better, and I officially don’t understand why Loop, Planner, and OneNote all need to exist.",
    "section": "the-drop",
    "recommender": null
@@ -50,8 +53,10 @@
    "alt_urls": [
     "https://www.theverge.com/23959171/opal-tadpole-webcam-laptops"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "video"
+   ],
    "blurb": "Opal’s first webcam, the C1, looked really good and didn’t work very well. (I think I even underestimated the issues some people have had with it.) But the Tadpole, which is explicitly made to clip to your laptop, both looks good and works well . It’s now a staple in my travel bag.",
    "section": "the-drop",
    "recommender": null
@@ -63,8 +68,11 @@
    "alt_urls": [
     "https://www.wired.com/story/tiktok-new-show-tv-takeover/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "social"
+   ],
    "blurb": "Adam McKay’s production company made an entire relatively high-production show that exists only on social platforms, a few minutes at a time. There’s a whole What It All Means thing here that is truly fascinating, but the show is so weird! And also funny!",
    "section": "the-drop",
    "recommender": null
@@ -74,8 +82,11 @@
    "name": "Google Notes",
    "url": "https://blog.google/products/search/notes-google-search-labs-experiment/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "web",
+    "social"
+   ],
    "blurb": "Google’s plan for search is weirdly bifurcated: it’s both trying to replace the whole internet with generative AI and also trying to help you find more human voices and human content.",
    "section": "the-drop",
    "recommender": null
@@ -96,8 +107,10 @@
    "name": "Nothing Chats",
    "url": "https://us.nothing.tech/pages/nothing-chats",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
    "blurb": "We’re in the middle of a truly fascinating trend: companies figuring out how to hack iMessage onto other platforms in increasingly brazen ways. Beeper did it; Texts did it; now, Nothing is doing it for the Phone 2 and basically daring Apple to stop it.",
    "section": "the-drop",
    "recommender": null
@@ -107,8 +120,11 @@
    "name": "Rooms",
    "url": "https://rooms.xyz/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "web"
+   ],
    "blurb": "Remember a couple of years ago when everyone was suddenly trying to build interesting digital spaces for people to hang out? I wish they were all like Rooms: a super customizable, really charming tool for creating almost any kind of space. This is my kind of metaverse.",
    "section": "the-drop",
    "recommender": null
@@ -137,8 +153,11 @@
     "https://www.theverge.com/23947139/holiday-gifts-dad-unique-ideas-2023-tech-gadgets",
     "https://www.theverge.com/23899698/best-early-black-friday-tech-deals-amazon-target-best-buy-walmart-sale"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "website"
+   ],
    "blurb": "But we work really hard on deal roundups and gift guides, so be sure and check ’em all out . I particularly like our digital gift guide , our under-$50 guide , and (my personal fave this year) the For Dads guide .",
    "section": "deep-dive",
    "recommender": null
@@ -152,8 +171,11 @@
     "https://www.eater.com/gift-guides",
     "https://www.buzzfeed.com/giftguide"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "website"
+   ],
    "blurb": "Only trust obviously human-made guides. If you see a guide that’s mostly populated by quotes from Amazon reviews, written by ChatGPT, or pulled from product listings, run the other way. A better way to start is by going to websites you already trust.",
    "section": "deep-dive",
    "recommender": null
@@ -166,8 +188,11 @@
     "https://www.athingortwohq.com/membership-content",
     "https://www.swiss-miss.com/gift_guide_generic"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "newsletter",
+    "podcast"
+   ],
    "blurb": "You can always deal-shop old recommendations. A Thing or Two is one of my favorite sources of product recommendations, and their Secret Menu archive is just a long list of cool stuff to buy.",
    "section": "deep-dive",
    "recommender": null
@@ -177,7 +202,7 @@
    "name": "You have to comparison shop yourself",
    "url": null,
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "All the price-comparison tools out there suck and are compromised in one way or another. Even the prices that show up in search previews often aren’t the real price! This is the most manual and annoying part of the process, but there’s really no shortcut.",
    "section": "deep-dive",
@@ -190,8 +215,12 @@
    "alt_urls": [
     "https://camelcamelcamel.com/camelizer"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "website",
+    "free"
+   ],
    "blurb": "Sales prices are lies — you’d be amazed how often they’re like, “20% off!” except it has never once actually cost that full price. Camelcamelcamel is a price tracker for Amazon, and it’ll show you whether the thing you’re about to buy might actually be cheaper some other time.",
    "section": "deep-dive",
    "recommender": null
@@ -203,8 +232,11 @@
    "alt_urls": [
     "https://capitaloneshopping.com/instant"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "I’ve spent a lot of time Googling, like, “Bose coupon codes” and then trying 100 coupon codes that never work. At least in my experience, this is a total waste of time. The Honey browser extension automates the coupon hunting, so if there is a deal out there, it’ll find it for you.",
    "section": "deep-dive",
    "recommender": null
@@ -214,8 +246,11 @@
    "name": "Fakespot",
    "url": "https://www.fakespot.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "You really can’t trust most online product reviews anymore, you know? There are the obviously paid-for ones, the obviously AI ones, and then just a stream of less obvious but equally sketchy reviews on everything everywhere.",
    "section": "deep-dive",
    "recommender": null
@@ -236,8 +271,11 @@
    "name": "GoodwillFinds",
    "url": "https://www.goodwillfinds.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "web"
+   ],
    "blurb": "I’m very into climbing all of the peaks above 3,500 feet in the Catskill Mountains. Like, I’m really into it, David. When I’m not traveling or working or traveling for work, I am hiking up these things alone thinking, “I really hope I don’t see a snake” over and over again.",
    "section": "screen-share",
    "recommender": "Becca"
@@ -247,8 +285,11 @@
    "name": "eBay",
    "url": "https://www.ebay.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "web"
+   ],
    "blurb": "I’m very into climbing all of the peaks above 3,500 feet in the Catskill Mountains. Like, I’m really into it, David. When I’m not traveling or working or traveling for work, I am hiking up these things alone thinking, “I really hope I don’t see a snake” over and over again.",
    "section": "screen-share",
    "recommender": "Becca"
@@ -258,8 +299,10 @@
    "name": "The Big Dig",
    "url": "https://www.wgbh.org/podcasts/the-big-dig",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "The Big Dig ! Some of the best reporting and narrative nonfiction audio I’ve heard in a long time. I’m rationing the episodes so I can savor each one.",
    "section": "crowdsourced",
    "recommender": "Christine (reader)"
@@ -282,8 +325,10 @@
    "name": "Elfster",
    "url": "https://www.elfster.com/actions/redirect/?redirecturl=/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free"
+   ],
    "blurb": "I’ve really been loving this app, Elfster , to manage my family’s and work’s gift exchanges. It’s clean and easy to use!",
    "section": "crowdsourced",
    "recommender": "John (reader)"
@@ -293,8 +338,10 @@
    "name": "Apex Legends",
    "url": "https://www.ea.com/games/apex-legends",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "free"
+   ],
    "blurb": "I’ve really been enjoying Apex Legends ’ new limited-time mode: Three Strikes. It’s like Warzone ’s Resurgence mode, where you get 3x lives, redeploying with all your loot and weapons. It’s a high-octane (pun intended), hectic, lovely mess. Super refreshing.",
    "section": "crowdsourced",
    "recommender": "Sentinelite (reader)"
@@ -315,8 +362,10 @@
    "name": "Highball",
    "url": "https://www.studioneat.com/products/highball",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
    "blurb": "For people who are into bartending, I cannot recommend Highball enough — it might be somewhat old, but the design is gorgeous, and it is great to keep track of all your favorite drinks.",
    "section": "crowdsourced",
    "recommender": "Evgeny (reader)"
@@ -339,8 +388,10 @@
    "name": "System Collapse",
    "url": "https://www.marthawells.com/murderbot7.htm",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "The latest in The Murderbot Diaries series of (mostly) novellas is out this week: System Collapse . While I just started today, I will probably finish by the time you publish. The entire series is hilarious, entertaining, and all-around fantastic!",
    "section": "crowdsourced",
    "recommender": "Jason (reader)"
@@ -350,8 +401,11 @@
    "name": "Serial Reader",
    "url": "https://www.serialreader.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "book",
+    "ios"
+   ],
    "blurb": "If it’s an older classic book, I’m reading it in Serial Reader . The app splits up books into small chunks and sends you a new one each day. Each day’s section is pretty short, like 10–20 minutes, which is perfect for me to sneak in some reading over breakfast before work.",
    "section": "crowdsourced",
    "recommender": "I’m starting Middlemarch next.” – Jay (reader)"
@@ -361,7 +415,7 @@
    "name": "Halo Infinite",
    "url": "https://www.halowaypoint.com/halo-infinite",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Halo Infinite brought back a classic playlist of Halo 3 maps from 2007, and it’s giving me life.",
    "section": "crowdsourced",
@@ -372,8 +426,10 @@
    "name": "this blog post from Signal",
    "url": "https://signal.org/blog/signal-is-expensive/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "One weird thing about the internet (and I guess any ecosystem or industry, really) is that there’s so much more going on at all times than you might think. When you type in a URL and hit Go, so much happens! And you never have to think about it!",
    "section": "signing-off",
    "recommender": null

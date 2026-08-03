@@ -25,8 +25,10 @@
    "alt_urls": [
     "https://ultimate-ears.dubn.net/c/482924/1434069/8590?u=https%3A%2F%2Fus.ultimateears.com%2Fproducts%2Feverboom"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "A few weeks ago, I said the best speaker advice I can give you was to buy a UE Wonderboom. I stand by this, especially now that there’s a new one that charges with USB-C! The new Everboom , with a built-in carabiner and some extra sound oomph, is very tempting, but you can’t beat this for $100.",
    "section": "the-drop",
    "recommender": null
@@ -38,8 +40,10 @@
    "alt_urls": [
     "https://www.theverge.com/24185290/beats-pill-2024-bluetooth-speaker-review"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "More new speakers! I have a weakness for a nice-looking portable sound system, and the new Pill looks pretty great. Chris Welch likes how it sounds , and I love that it does wired audio and charges other gadgets through the USB-C port. Beats did well here, even if I’m still Wonderboomin’.",
    "section": "the-drop",
    "recommender": null
@@ -52,7 +56,7 @@
     "https://shop.theverge.com/",
     "https://www.theverge.com/24182647/verge-store-merch-shirt-hoodie-mug"
    ],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "I really try not to shill for Verge stuff too much here, but I’m genuinely psyched about the new stuff we’ve been working on . I’m into the hoodie in particular, and the (finally properly sized) mug. Retooling our store has been a fun project, and I hope you like the stuff, too!",
    "section": "the-drop",
@@ -76,8 +80,12 @@
    "name": "ElevenLabs Reader",
    "url": "https://elevenlabs.io/blog/introducing-elevenlabs-reader-app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "ai",
+    "free"
+   ],
    "blurb": "ElevenLabs does AI voices better than any product I’ve ever seen and built this iPhone app (with Android coming soon, apparently) in a really clever way. You just share any article or book or PDF to the app, pick a voice, and it’ll read it aloud.",
    "section": "the-drop",
    "recommender": null
@@ -102,8 +110,12 @@
    "name": "Notion Sites",
    "url": "https://www.notion.so/product/sites",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "web",
+    "website",
+    "productivity"
+   ],
    "blurb": "This is a small but very clever thing: build a Notion page and, with one click, publish it to the web. If you want, like, a one-page personal website or a quick and easy event page. This is way easier than just about anything else out there.",
    "section": "the-drop",
    "recommender": null
@@ -126,8 +138,11 @@
    "name": "Figma Slides",
    "url": "https://www.figma.com/blog/figma-slides/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "web",
+    "productivity"
+   ],
    "blurb": "Figma got some really big updates across the board this week: a redesign, a bunch of AI stuff, and more. But Slides is particularly cool. It’s a mix of design tool and presentation tool, and it looks a whole lot more fun to play with than PowerPoint.",
    "section": "the-drop",
    "recommender": null
@@ -148,8 +163,12 @@
    "name": "Blackmagic Camera",
    "url": "https://www.blackmagicdesign.com/products/blackmagiccamera",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "video",
+    "free"
+   ],
    "blurb": "Blackmagic Camera . An AMAZING camera app that allows you to shoot Apple Log at a reasonable file size. (Shooting Log in Apple’s camera will leave you with massive ProRes HQ files.) Apple Notes .",
    "section": "screen-share",
    "recommender": "Sara"
@@ -172,8 +191,10 @@
    "name": "Nanit",
    "url": "https://shareasale.com/r.cfm?b=918500&u=1225169&m=68043&urllink=https%3A%2F%2Fwww.nanit.com%2F",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "Blackmagic Camera . An AMAZING camera app that allows you to shoot Apple Log at a reasonable file size. (Shooting Log in Apple’s camera will leave you with massive ProRes HQ files.) Apple Notes .",
    "section": "screen-share",
    "recommender": "Sara"
@@ -196,8 +217,11 @@
    "name": "Really Bad Chess",
    "url": "http://reallybadchess.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "Seeing chess in Installer made me think of another great chess game! Really Bad Chess by Zach Gage is apparently really good for my brain. It’s available on iOS and Android with an in-app purchase, and it’s free if you pay for Apple Arcade!",
    "section": "crowdsourced",
    "recommender": "Harvey (reader)"
@@ -207,8 +231,12 @@
    "name": "17776",
    "url": "https://www.sbnation.com/a/17776-football/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "web",
+    "article",
+    "free"
+   ],
    "blurb": "I’m sad that more people don’t know about “ 17776 ” and “ 20020 ,” stories from the far future about football and sapient satellites.",
    "section": "crowdsourced",
    "recommender": "Lego (reader)"
@@ -218,8 +246,12 @@
    "name": "20020",
    "url": "https://www.sbnation.com/c/secret-base/21410129/20020",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "web",
+    "article",
+    "free"
+   ],
    "blurb": "I’m sad that more people don’t know about “ 17776 ” and “ 20020 ,” stories from the far future about football and sapient satellites.",
    "section": "crowdsourced",
    "recommender": "Lego (reader)"
@@ -229,8 +261,10 @@
    "name": "Temptation of the Force",
    "url": "https://www.penguinrandomhouse.com/books/730631/star-wars-temptation-of-the-force-the-high-republic-by-tessa-gratton/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I just finished Temptation of the Force by Tessa Gratton. It’s the latest novel in the Star Wars: The High Republic storyline, and these continue to be some of my favorite books of the last 10 years, definitely in the Star Wars universe.",
    "section": "crowdsourced",
    "recommender": "Justin (reader)"
@@ -240,7 +274,7 @@
    "name": "Umai Dry vacuum bags",
    "url": "https://umaidry.com/pages/vacuum-sealer-recommendations",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Starting to cure a pancetta and capicola using Umai Dry vacuum bags . I don’t have a great place to cure and dry meats in our city home, so it’s nice to be able to do it in the fridge. Bonus: I get to use the new vacuum sealer my family got me for Father’s Day!",
    "section": "crowdsourced",
@@ -251,8 +285,11 @@
    "name": "what a board of directors does",
    "url": "https://www.anildash.com/2024/06/20/dash-board/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "web"
+   ],
    "blurb": "Anil Dash wrote up two posts on what a board of directors does , and it’s fascinating! Required reading if you’re into how corporate governance works.",
    "section": "crowdsourced",
    "recommender": "Richard (reader)"
@@ -262,8 +299,11 @@
    "name": "Deep Rock Galactic: Survivor",
    "url": "https://www.fundaygames.dk/deep-rock-galactic-survivor",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "windows",
+    "paid"
+   ],
    "blurb": "I cannot stop playing Deep Rock Galactic: Survivor on PC. In this roguelike, you’re a dwarf mining precious minerals and battling hordes of bugs on an alien planet. It’s ridiculously fun, easy to pick up, and the weapon and skill systems are ​thoroughly satisfying to navigate.",
    "section": "crowdsourced",
    "recommender": "Abhimanyu (reader)"
@@ -273,7 +313,7 @@
    "name": "Light Phone",
    "url": "https://www.thelightphone.com/lightiii",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "A while back, I went through the same journey you seem to be on: ‘I want a Light Phone , but… what if I just turned my iPhone into a Light Phone?’ The option I like most is building my own with Widgy Widgets . It’s a very powerful app that allows you to build your own widgets.",
    "section": "crowdsourced",
@@ -297,8 +337,11 @@
    "name": "Service Model",
    "url": "https://us.macmillan.com/books/9781250290281/servicemodel",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "ai"
+   ],
    "blurb": "I’m about halfway through Adrian Tchaikovsky’s new sci-fi book, Service Model , and it’s a great story about AI and our reliance on technology. Can’t put it down!",
    "section": "crowdsourced",
    "recommender": "Sighjinks (reader)"

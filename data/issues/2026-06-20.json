@@ -38,8 +38,12 @@
    "name": "Lettera",
    "url": "https://lettera.md/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "productivity"
+   ],
    "blurb": "Markdown editors are a dime a dozen right now, but hardly anybody does text editing better than Shiny Frog, the folks behind the great Bear app. This text editor is in beta, but it’s already super fast and stable at least for me. Gonna use this a lot.",
    "section": "the-drop",
    "recommender": null
@@ -51,7 +55,7 @@
    "alt_urls": [
     "https://www.popsockets.com/en-us/magsafe/magsafe-kick-out-grip-and-stands?pmin=0.01"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I might be the world’s most fervent supporter of PopSockets, and of phone grips of all kinds. (Phones are not comfortable to hold!) I’ve been using the kickstand PopSocket for a while, but am going to gladly trade it, and my $40, for the super-thin new model.",
    "section": "the-drop",
@@ -62,8 +66,11 @@
    "name": "Mastodon 4.6",
    "url": "https://blog.joinmastodon.org/2026/06/mastodon-4.6/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "open-source"
+   ],
    "blurb": "I don’t spend that much time on Mastodon anymore, but this might help win me (and some others) back. Collections are a clever way to solve Mastodon’s big discovery and search problem, and a good way to help people get started on a new social network.",
    "section": "the-drop",
    "recommender": null
@@ -73,7 +80,7 @@
    "name": "Snap Specs",
    "url": "https://www.specs.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "$2,195 for a pair of smart glasses! Wild. I confess I am not at all convinced anyone’s going to want these — they’re big and wonky and way too expensive. But I also think Snap understands how people actually want to use technology better than just about anybody.",
    "section": "the-drop",
@@ -84,8 +91,10 @@
    "name": "Android 17",
    "url": "https://blog.google/products-and-platforms/platforms/android/android-17-features/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
    "blurb": "Coming soon to a Pixel near you: an easier way to capture reaction videos, floating app windows that seem like a very useful multitasking system that I hope iOS copies immediately, and a built-in controller for playing games on foldables.",
    "section": "the-drop",
    "recommender": null
@@ -95,8 +104,11 @@
    "name": "VSCO Studio Pro",
    "url": "https://www.vsco.co/studio-pro",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "photography",
+    "paid"
+   ],
    "blurb": "VSCO makes nice photography stuff, and this app, which is made for editing huge sets of photos all at once, is very clever. “Make all my other photos look like this photo” is just such a useful editing trick! I’m not wild about the looming subscription model here, but I like what VSCO’s making.",
    "section": "the-drop",
    "recommender": null
@@ -121,8 +133,10 @@
    "alt_urls": [
     "https://www.theverge.com/tech/950146/microsoft-surface-laptop-8-surface-pro-12-snapdragon-x2-specs-price"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "windows"
+   ],
    "blurb": "There’s a new Surface Pro , too, but I have long thought the more normal Surface Laptop (not to be confused with the Ultra) was one of the best Windows devices out there. If the new Qualcomm chips are as good as advertised, this should be a really useful all-purpose laptop.",
    "section": "the-drop",
    "recommender": null
@@ -132,8 +146,10 @@
    "name": "Songs of The Dead",
    "url": "https://www.simonandschuster.com/books/Songs-of-the-Dead/Brandon-Sanderson/The-Strata-Wars/9781668068144",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "The beginning of a new series coauthored by Installerverse favorite Brandon Sanderson, called The Strata Wars, this book is about music and magic and time and space and a million other things. Some reviewers seemed to find it a bit much, but others loved it. And I know a lot of us love Sanderson.",
    "section": "the-drop",
    "recommender": null
@@ -180,8 +196,12 @@
    "name": "MyFitnessPal",
    "url": "https://www.myfitnesspal.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness",
+    "android",
+    "cross-platform"
+   ],
    "blurb": "My second page is for fitness and productivity. I’m a big Pixel Watch guy, so my Google Health widget is front and center, alongside my MyFitnessPal widget for daily calorie tracking. My favorite productivity app has been Focus Friend by Hank Green that’s equal parts Tamagotchi pet and focus timer.",
    "section": "screen-share",
    "recommender": "Josh"
@@ -191,8 +211,10 @@
    "name": "Focus Friend",
    "url": "https://www.yourfocusfriend.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "My second page is for fitness and productivity. I’m a big Pixel Watch guy, so my Google Health widget is front and center, alongside my MyFitnessPal widget for daily calorie tracking. My favorite productivity app has been Focus Friend by Hank Green that’s equal parts Tamagotchi pet and focus timer.",
    "section": "screen-share",
    "recommender": "Josh"
@@ -202,8 +224,11 @@
    "name": "Snipd",
    "url": "https://www.snipd.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "podcast",
+    "ai"
+   ],
    "blurb": "My second page is for fitness and productivity. I’m a big Pixel Watch guy, so my Google Health widget is front and center, alongside my MyFitnessPal widget for daily calorie tracking. My favorite productivity app has been Focus Friend by Hank Green that’s equal parts Tamagotchi pet and focus timer.",
    "section": "screen-share",
    "recommender": "Josh"
@@ -239,7 +264,7 @@
    "name": "PlayStation All-Stars Battle Royale",
    "url": "https://en.wikipedia.org/wiki/PlayStation_All-Stars_Battle_Royale",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I’m watching Mindy Kaling’s new show Not Suitable for Work on Hulu, and it’s surprisingly great for someone who doesn’t watch a lot of sitcoms. I’m a big Seinfeld guy, and it scratches that same itch of adults stumbling through life in NYC — but make it modern.",
    "section": "screen-share",
@@ -276,8 +301,12 @@
    "name": "Wildbirds",
    "url": "https://wildbirds.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "photography",
+    "beta"
+   ],
    "blurb": "I’ve been using Wildbirds since closed beta and it’s everything birders want from Instagram, but better.",
    "section": "crowdsourced",
    "recommender": "Michiel (reader)"
@@ -298,8 +327,11 @@
    "name": "Claude",
    "url": "https://claude.ai/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
    "blurb": "I’m studying for a technical exam and put all the materials into Claude . I had it break down the material into daily, 30-minute study chunks to be emailed to me over the next two weeks. Each email has a prompt to do a short quiz at the end. A little wonky to start but it’s working well so far.",
    "section": "crowdsourced",
    "recommender": "Ian (reader)"
@@ -309,8 +341,12 @@
    "name": "Dirty Little Zine",
    "url": "https://dirtylittlezine.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "photography",
+    "web"
+   ],
    "blurb": "I’ve been using the Dirty Little Zine website to make pocket-sized photography zines. Cheap, fun, and easy way to get your photos out of the digital wasteland and into the real world.",
    "section": "crowdsourced",
    "recommender": "Mark (reader)"
@@ -320,8 +356,10 @@
    "name": "Silo books",
    "url": "https://hughhowey.com/books/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Finished reading the series of Silo books in advance of the next season coming in July.",
    "section": "crowdsourced",
    "recommender": "Chris (reader)"
@@ -331,8 +369,10 @@
    "name": "Expeditionary Force",
    "url": "https://podiumentertainment.com/titles/5560/columbu",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’m currently going through Craig Alanson’s Expeditionary Force sci-fi novels, they’re kinetic and silly and a bit rough around the edges at the same time, I’m having a blast.",
    "section": "crowdsourced",
    "recommender": "Carlo (reader)"
@@ -342,7 +382,7 @@
    "name": "PowerWash Simulator",
    "url": "https://www.futurlab.co.uk/games/powerwash-simulator",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I’ve gotten back into playing PowerWash Simulator after work. I’m actually kind of excited about Star Wars again after watching The Mandalorian and Grogu a couple of weeks ago so now I am looking forward to the PWS2 Star Wars DLC next month.",
    "section": "crowdsourced",
@@ -353,8 +393,10 @@
    "name": "Google Calendar now has more colors!",
    "url": "https://workspaceupdates.googleblog.com/2026/06/custom-event-colors-in-google-calendar.html",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "There was some sneakily big, Installerverse-adjacent news this week: Google Calendar now has more colors! Instead of just Google’s bad ideas about green and blue, you can now color-code your calendar with 200 custom colors.",
    "section": "signing-off",
    "recommender": null
@@ -364,8 +406,11 @@
    "name": "a one-text-file",
    "url": "https://jeffhuang.com/productivity_text_file/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "productivity"
+   ],
    "blurb": "There was some sneakily big, Installerverse-adjacent news this week: Google Calendar now has more colors! Instead of just Google’s bad ideas about green and blue, you can now color-code your calendar with 200 custom colors.",
    "section": "signing-off",
    "recommender": null
@@ -375,8 +420,11 @@
    "name": "timeblocking",
    "url": "https://calnewport.com/deep-habits-the-importance-of-planning-every-minute-of-your-work-day/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "productivity"
+   ],
    "blurb": "There was some sneakily big, Installerverse-adjacent news this week: Google Calendar now has more colors! Instead of just Google’s bad ideas about green and blue, you can now color-code your calendar with 200 custom colors.",
    "section": "signing-off",
    "recommender": null

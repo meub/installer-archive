@@ -23,7 +23,7 @@
    "name": "The Framework Laptop 13 Pro.",
    "url": "https://frame.work/products/laptop13pro-diy-intel-ultra-3/configuration/new",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I love Framework’s whole thesis that computers should be more upgradeable and repairable. For the first time, it seems to have also made a laptop that is just really, really nice.",
    "section": "the-drop",
@@ -34,7 +34,7 @@
    "name": "The Framework Laptop Sleeve",
    "url": "https://frame.work/products/framework-laptop-sleeve?v=FRANJY0002",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I love a good laptop carrier, and this one — especially the silver model, which isn’t duct tape but looks just like duct tape — is an awesome one. It’s obviously designed for Framework gear, but should fit lots of other laptops too.",
    "section": "the-drop",
@@ -58,8 +58,11 @@
    "name": "New Things",
    "url": "https://thenewthings.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "newsletter",
+    "video"
+   ],
    "blurb": "Our good friend Joanna Stern just started her own newsletter / YouTube channel / whole thing, and it’s already delightful and extremely Joanna-y. Go subscribe! And keep an eye out, because we’re gonna get Joanna back in this space one way or another.",
    "section": "the-drop",
    "recommender": null
@@ -69,8 +72,11 @@
    "name": "Extra",
    "url": "https://extra.email/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
    "blurb": "As I get worse and worse at maintaining my email inbox, I get more and more enticed by the possibility of managing it with AI. Using Extra requires a whole re-think of what your email is even for, but I’m finding it full of clever organizational ideas.",
    "section": "the-drop",
    "recommender": null
@@ -80,8 +86,11 @@
    "name": "Memo AI",
    "url": "https://noteplan.co/memo",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
    "blurb": "These smart transcription apps are a dime a dozen now, but this one has a couple of things going for it. One, it’s made by the developer of NotePlan, which means it is thoughtfully designed and really clever. Two, it’s fast.",
    "section": "the-drop",
    "recommender": null
@@ -91,7 +100,7 @@
    "name": "Vampire Crawlers",
    "url": "https://poncle.games/vampire-crawlers",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Every once in a while, all of my gamer friends fall of the face of the Earth for a few days, because they’re all obsessed with some new title. It’s happening right now, and it’s all because of this extremely addictive, retro-styled deckbuilder. I probably shouldn’t get into this game.",
    "section": "the-drop",
@@ -113,8 +122,11 @@
    "name": "Claude’s Spotify connector",
    "url": "https://newsroom.spotify.com/2026-04-23/claude-integration/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "music"
+   ],
    "blurb": "If you’ve been skeptical or nervous about trying AI tools, here’s my advice: connect one to Spotify. (ChatGPT has had a connector for a while, Claude got it this week.) It’s such a fun, useful, surprising way to organize and discover music.",
    "section": "the-drop",
    "recommender": null
@@ -135,8 +147,12 @@
    "name": "Readwise Reader",
    "url": "https://readwise.io/read",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "subscription",
+    "cross-platform"
+   ],
    "blurb": "Some of these are staples: Readwise Reader , Pocket Casts , MyMind , and Arc are all apps I’ve used for a long time and am very happy with. The rest are all experimental in one way or another.",
    "section": "screen-share",
    "recommender": null
@@ -146,8 +162,11 @@
    "name": "Pocket Casts",
    "url": "https://pocketcasts.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "podcast",
+    "cross-platform"
+   ],
    "blurb": "Some of these are staples: Readwise Reader , Pocket Casts , MyMind , and Arc are all apps I’ve used for a long time and am very happy with. The rest are all experimental in one way or another.",
    "section": "screen-share",
    "recommender": null
@@ -157,8 +176,11 @@
    "name": "MyMind",
    "url": "https://mymind.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "subscription"
+   ],
    "blurb": "Some of these are staples: Readwise Reader , Pocket Casts , MyMind , and Arc are all apps I’ve used for a long time and am very happy with. The rest are all experimental in one way or another.",
    "section": "screen-share",
    "recommender": null
@@ -168,8 +190,12 @@
    "name": "Arc",
    "url": "https://arc.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "mac",
+    "free"
+   ],
    "blurb": "Some of these are staples: Readwise Reader , Pocket Casts , MyMind , and Arc are all apps I’ve used for a long time and am very happy with. The rest are all experimental in one way or another.",
    "section": "screen-share",
    "recommender": null
@@ -179,8 +205,11 @@
    "name": "Retro Bowl",
    "url": "https://www.newstargames.com/retro-bowl",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "I am a longtime fan of Retro Bowl , an essentially perfect mobile game, so of course I jumped on the college football game . I’m also a longtime fan of Coffee Golf , a fun game to play for a couple of minutes a day, and the pool-shooting version is just as satisfying.",
    "section": "screen-share",
    "recommender": null
@@ -190,8 +219,11 @@
    "name": "the college football game",
    "url": "https://www.newstargames.com/retro-bowl-college",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "I am a longtime fan of Retro Bowl , an essentially perfect mobile game, so of course I jumped on the college football game . I’m also a longtime fan of Coffee Golf , a fun game to play for a couple of minutes a day, and the pool-shooting version is just as satisfying.",
    "section": "screen-share",
    "recommender": null
@@ -227,8 +259,10 @@
    "name": "Craft",
    "url": "https://www.craft.do/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "As you can probably see, I’m in a bit of a productivity app crisis. Craft , Obsidian , Memo AI , Todoist , even Notion Calendar – I’ve been trying them all, and many more (like Workflowy , Twos , and NotePlan ) to see if I can find a new system that works.",
    "section": "screen-share",
    "recommender": null
@@ -238,8 +272,11 @@
    "name": "Obsidian",
    "url": "https://obsidian.md/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "As you can probably see, I’m in a bit of a productivity app crisis. Craft , Obsidian , Memo AI , Todoist , even Notion Calendar – I’ve been trying them all, and many more (like Workflowy , Twos , and NotePlan ) to see if I can find a new system that works.",
    "section": "screen-share",
    "recommender": null
@@ -249,8 +286,11 @@
    "name": "Todoist",
    "url": "https://www.todoist.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "As you can probably see, I’m in a bit of a productivity app crisis. Craft , Obsidian , Memo AI , Todoist , even Notion Calendar – I’ve been trying them all, and many more (like Workflowy , Twos , and NotePlan ) to see if I can find a new system that works.",
    "section": "screen-share",
    "recommender": null
@@ -260,8 +300,11 @@
    "name": "Notion Calendar",
    "url": "https://www.notion.com/product/calendar",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "As you can probably see, I’m in a bit of a productivity app crisis. Craft , Obsidian , Memo AI , Todoist , even Notion Calendar – I’ve been trying them all, and many more (like Workflowy , Twos , and NotePlan ) to see if I can find a new system that works.",
    "section": "screen-share",
    "recommender": null
@@ -271,8 +314,10 @@
    "name": "Workflowy",
    "url": "https://workflowy.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "As you can probably see, I’m in a bit of a productivity app crisis. Craft , Obsidian , Memo AI , Todoist , even Notion Calendar – I’ve been trying them all, and many more (like Workflowy , Twos , and NotePlan ) to see if I can find a new system that works.",
    "section": "screen-share",
    "recommender": null
@@ -282,8 +327,10 @@
    "name": "Twos",
    "url": "https://www.twosapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "As you can probably see, I’m in a bit of a productivity app crisis. Craft , Obsidian , Memo AI , Todoist , even Notion Calendar – I’ve been trying them all, and many more (like Workflowy , Twos , and NotePlan ) to see if I can find a new system that works.",
    "section": "screen-share",
    "recommender": null
@@ -293,8 +340,11 @@
    "name": "NotePlan",
    "url": "https://noteplan.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "mac"
+   ],
    "blurb": "As you can probably see, I’m in a bit of a productivity app crisis. Craft , Obsidian , Memo AI , Todoist , even Notion Calendar – I’ve been trying them all, and many more (like Workflowy , Twos , and NotePlan ) to see if I can find a new system that works.",
    "section": "screen-share",
    "recommender": null
@@ -304,8 +354,11 @@
    "name": "DualShot Recorder",
    "url": "https://dualshotrecorder.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "video",
+    "ios"
+   ],
    "blurb": "Lastly, if you shoot a lot of video and you haven’t tried DualShot Recorder , change that ASAP. It captures horizontal and vertical video simultaneously, and is simple and fabulous whether you’re a content creator or just trying to get videos of your kids at the right aspect ratio.",
    "section": "screen-share",
    "recommender": null
@@ -315,8 +368,11 @@
    "name": "Acme Weather",
    "url": "https://acmeweather.com/app",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "utilities"
+   ],
    "blurb": "Oh, and the widgets: Notion Calendar is, you know, fine. Acme Weather is fantastic. It’s made by the folks who built Dark Sky, and it has the same ability to tell me everything I need to know — the weather, the chance of rain, the chance the forecast is wrong and actually it is going to rain — in…",
    "section": "screen-share",
    "recommender": null
@@ -326,8 +382,10 @@
    "name": "Earth.fm",
    "url": "http://earth.fm",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music"
+   ],
    "blurb": "I’m loving the Earth.fm app. Never felt like soundscape apps helped me focus or relax, but these nature field recordings are where it’s at for me. And it’s a beautiful app too!",
    "section": "crowdsourced",
    "recommender": "Ben (reader)"
@@ -337,8 +395,11 @@
    "name": "Nvidia GeForce Now",
    "url": "https://www.nvidia.com/en-us/geforce-now/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "subscription",
+    "cross-platform"
+   ],
    "blurb": "I know I’m late to the party, but I’ve started using Nvidia GeForce Now — that thing is incredible on an iPad Pro.",
    "section": "crowdsourced",
    "recommender": "Jean-Francois (reader)"
@@ -348,8 +409,12 @@
    "name": "Aviate",
    "url": "https://www.aviate.to/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android",
+    "beta",
+    "travel"
+   ],
    "blurb": "Check out the Aviate app for Android. It’s like Flighty but for Android. It’s in early access — beautiful design.",
    "section": "crowdsourced",
    "recommender": "Guarav (reader)"
@@ -359,8 +424,11 @@
    "name": "Flighty",
    "url": "https://flighty.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "travel"
+   ],
    "blurb": "Check out the Aviate app for Android. It’s like Flighty but for Android. It’s in early access — beautiful design.",
    "section": "crowdsourced",
    "recommender": "Guarav (reader)"
@@ -383,8 +451,10 @@
    "name": "Aune AC55",
    "url": "https://www.aune-store.com/en/aune-ac55-open-back-clip-on-headphones-reference-class_110212_1277/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "Just picked up the Aune AC55 on-ear clip headphone recently and wanted to give a shout out that this headphone style is still out there rocking, didn’t actually fade away after the 90s/00s along with American Hi-Fi, and offers an excellent alternative (along with flathead earbuds) to large over-ear…",
    "section": "crowdsourced",
    "recommender": "Brian (reader)"
@@ -394,8 +464,10 @@
    "name": "Koss KSC75",
    "url": "https://koss.com/products/ksc75",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "Just picked up the Aune AC55 on-ear clip headphone recently and wanted to give a shout out that this headphone style is still out there rocking, didn’t actually fade away after the 90s/00s along with American Hi-Fi, and offers an excellent alternative (along with flathead earbuds) to large over-ear…",
    "section": "crowdsourced",
    "recommender": "Brian (reader)"
@@ -405,8 +477,11 @@
    "name": "enclose.horse",
    "url": "https://enclose.horse/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "Been playing enclose.horse for a few months now. Always enjoy it since it’s a quick daily game but not centered on words/letters.",
    "section": "crowdsourced",
    "recommender": "Peter (reader)"
@@ -429,7 +504,7 @@
    "name": "Vampire Survivors",
    "url": "https://poncle.games/vampire-survivors",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Clayton Morris did a video on YouTube about great games for adults with no time . Really great recommendations. Vampire Survivors and Dredge in particular are great and both are included in Apple Arcade.",
    "section": "crowdsourced",
@@ -440,7 +515,7 @@
    "name": "Dredge",
    "url": "https://www.dredge.game/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Clayton Morris did a video on YouTube about great games for adults with no time . Really great recommendations. Vampire Survivors and Dredge in particular are great and both are included in Apple Arcade.",
    "section": "crowdsourced",
@@ -451,8 +526,11 @@
    "name": "Pica",
    "url": "https://pica.joshpuckett.me/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "utilities"
+   ],
    "blurb": "A new, fully native font manager called Pica for macOS dropped this week and us design nerds are freaking out about it.",
    "section": "crowdsourced",
    "recommender": "Pedro (reader)"

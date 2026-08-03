@@ -23,8 +23,11 @@
    "name": "ChatGPT search",
    "url": "https://openai.com/index/introducing-chatgpt-search/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "web"
+   ],
    "blurb": "It’s not called SearchGPT, lame, but it is what we expected: live web search baked into OpenAI’s chatbot. So far, it looks an awful lot like Perplexity and Bing and the rest, but I suspect a lot of people will use this just because it’s right there in ChatGPT.",
    "section": "the-drop",
    "recommender": null
@@ -34,8 +37,11 @@
    "name": "Ask Maps",
    "url": "https://blog.google/products/maps/gemini-google-maps-navigation-updates/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "travel"
+   ],
    "blurb": "This is the kind of AI search I’m most bullish on: Google pointing Gemini at the Maps app, so you can more easily find stuff to do and places to go. If AI can just prevent me from having to comb through a million reviews looking for the word “kid-friendly,” all this nonsense might be worth it.",
    "section": "the-drop",
    "recommender": null
@@ -47,8 +53,12 @@
    "alt_urls": [
     "https://www.notion.com/product/calendar"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "windows",
+    "productivity",
+    "subscription"
+   ],
    "blurb": "I do most of my calendaring in one of two apps: Fantastical or Notion Calendar . Notion Calendar is free and faster, but Fantastical is much nicer-looking and much more powerful. The new Windows app has all the features, all the design, and looks like a winner.",
    "section": "the-drop",
    "recommender": null
@@ -61,8 +71,10 @@
     "https://www.apple.com/macbook-pro/",
     "https://www.apple.com/imac/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "mac"
+   ],
    "blurb": "There are reasons to be excited about the new MacBook Pros that launched this week, and I guess even the super-colorful iMac , but for me, the smaller, faster Mini is the most exciting computer Apple has launched this year. This thing will be my daily driver from the minute it ships.",
    "section": "the-drop",
    "recommender": null
@@ -74,8 +86,10 @@
    "alt_urls": [
     "https://www.apple.com/shop/product/MXK83LL/A/magic-keyboard-with-touch-id-and-numeric-keypad-for-mac-models-with-apple-silicon-usb-c-us-english-black-keys?fnode=ecc14567a7835e206186982852561c06c84a53cfec669c2f5681cb40babf6e08434b9ac97eb882e6036603a484a0012463e03b5dae9167e443cdb66db18378c86a5e861ce3176d64547ee5f36cced7406acef29d8389469ec18768676e75ff6f"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "mac"
+   ],
    "blurb": "Two things, both true: $149 is way too much for this keyboard (much less $199 for the black one with the number pad), and also once you use a Mac keyboard with built-in Touch ID, there is just absolutely no going back. And it finally doesn’t require a Lightning cable! What a world!",
    "section": "the-drop",
    "recommender": null
@@ -87,7 +101,7 @@
    "alt_urls": [
     "https://www.polygon.com/review/470712/review-dragon-age-the-veilguard-ps5-xbox-pc"
    ],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Our friends at Polygon described this game as basically a game about a protagonist “and their traveling Deep Roadshow of trauma-drenched weirdos (complimentary),” which I love so much. Sounds like this game takes a beat to get going but is hugely rewarding once it does.",
    "section": "the-drop",
@@ -98,8 +112,10 @@
    "name": "Uncanny Valley",
    "url": "https://pod.link/266391367",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "A new podcast from Wired , hosted by a bunch of folks we like (and a couple of former Verge staffers!) talking about all the news and chaos happening in Silicon Valley. A surprising amount of hoodie talk in the first episode! But I’m excited to see where this goes.",
    "section": "the-drop",
    "recommender": null
@@ -150,8 +166,12 @@
    "name": "Pokémon TCG Pocket",
    "url": "https://tcgpocket.pokemon.com/en-us/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "Truthfully, the Pokémon trading card games have never been my bag, but a game like this makes perfect sense as a mobile app you can play for a few minutes at a time. Or a few hours. Or days. Whatever works.",
    "section": "the-drop",
    "recommender": null
@@ -185,8 +205,11 @@
    "name": "Notion",
    "url": "https://www.notion.com/product",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "I generally have the multiple-clock widget, as it automatically shows me my current time and time back in NYC, which I find incredibly helpful while traveling as much as I do.",
    "section": "screen-share",
    "recommender": "David"
@@ -196,8 +219,11 @@
    "name": "Homebase",
    "url": "https://www.joinhomebase.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "That folder has since expanded recently thanks to the coffee shop as I now have Homebase for scheduling my baristas, Poplin to get our cleaning rags picked up and delivered, Shopify for inventory / POS / sales / obsessive data analyzing, Ring for all the cameras in the space and to make sure milk…",
    "section": "screen-share",
    "recommender": "David"
@@ -207,8 +233,11 @@
    "name": "Poplin",
    "url": "https://www.poplin.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "That folder has since expanded recently thanks to the coffee shop as I now have Homebase for scheduling my baristas, Poplin to get our cleaning rags picked up and delivered, Shopify for inventory / POS / sales / obsessive data analyzing, Ring for all the cameras in the space and to make sure milk…",
    "section": "screen-share",
    "recommender": "David"
@@ -218,8 +247,11 @@
    "name": "Shopify",
    "url": "https://www.shopify.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "subscription",
+    "web"
+   ],
    "blurb": "That folder has since expanded recently thanks to the coffee shop as I now have Homebase for scheduling my baristas, Poplin to get our cleaning rags picked up and delivered, Shopify for inventory / POS / sales / obsessive data analyzing, Ring for all the cameras in the space and to make sure milk…",
    "section": "screen-share",
    "recommender": "David"
@@ -229,8 +261,12 @@
    "name": "Ring",
    "url": "https://ring.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "smart-home",
+    "ios",
+    "android"
+   ],
    "blurb": "That folder has since expanded recently thanks to the coffee shop as I now have Homebase for scheduling my baristas, Poplin to get our cleaning rags picked up and delivered, Shopify for inventory / POS / sales / obsessive data analyzing, Ring for all the cameras in the space and to make sure milk…",
    "section": "screen-share",
    "recommender": "David"
@@ -240,8 +276,11 @@
    "name": "Odeko",
    "url": "https://odeko.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "That folder has since expanded recently thanks to the coffee shop as I now have Homebase for scheduling my baristas, Poplin to get our cleaning rags picked up and delivered, Shopify for inventory / POS / sales / obsessive data analyzing, Ring for all the cameras in the space and to make sure milk…",
    "section": "screen-share",
    "recommender": "David"
@@ -251,8 +290,11 @@
    "name": "Peerspace",
    "url": "https://www.peerspace.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "ios"
+   ],
    "blurb": "That folder has since expanded recently thanks to the coffee shop as I now have Homebase for scheduling my baristas, Poplin to get our cleaning rags picked up and delivered, Shopify for inventory / POS / sales / obsessive data analyzing, Ring for all the cameras in the space and to make sure milk…",
    "section": "screen-share",
    "recommender": "David"
@@ -262,7 +304,7 @@
    "name": "in the coffee shop",
    "url": "https://coffeecheck.nyc/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Probably comes as no surprise, but coffee. Particularly, I’m going to start roasting in the coffee shop soon and so I’m looking forward to sourcing beans from various places, getting better at roasting those beans, and tweaking roasts to get different flavors out of them.",
    "section": "screen-share",
@@ -295,8 +337,12 @@
    "name": "Zen Browser",
    "url": "https://zen-browser.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "open-source",
+    "cross-platform"
+   ],
    "blurb": "The story about Arc sunsetting in favor of a new browser kicked me into gear on finding a new home. I saw a comment on the Verge story that mentioned Zen Browser , pitching it as feeling like Arc but built from Firefox. I gave it a shot, and I love it!",
    "section": "crowdsourced",
    "recommender": "Tom (reader)"
@@ -306,8 +352,12 @@
    "name": "Brave",
    "url": "https://brave.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "cross-platform",
+    "web"
+   ],
    "blurb": "I’ve been playing with different web browsers again. It came down to Brave and Vivaldi to try as a daily driver for a while, but I’ve settled on Vivaldi. Loving it.",
    "section": "crowdsourced",
    "recommender": "Josh (reader)"
@@ -317,8 +367,12 @@
    "name": "Vivaldi",
    "url": "https://vivaldi.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "cross-platform",
+    "web"
+   ],
    "blurb": "I’ve been playing with different web browsers again. It came down to Brave and Vivaldi to try as a daily driver for a while, but I’ve settled on Vivaldi. Loving it.",
    "section": "crowdsourced",
    "recommender": "Josh (reader)"
@@ -328,8 +382,12 @@
    "name": "Letterboxd",
    "url": "https://letterboxd.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "movie",
+    "social",
+    "web"
+   ],
    "blurb": "I’m a Letterboxd junkie for logging movies and this week I found a really nice app for logging TV watching! It’s called Marathon . The design of the app is niiiiiice.",
    "section": "crowdsourced",
    "recommender": "Garrett (reader)"
@@ -339,8 +397,11 @@
    "name": "Marathon",
    "url": "https://marathontv.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "tv",
+    "ios"
+   ],
    "blurb": "I’m a Letterboxd junkie for logging movies and this week I found a really nice app for logging TV watching! It’s called Marathon . The design of the app is niiiiiice.",
    "section": "crowdsourced",
    "recommender": "Garrett (reader)"
@@ -350,7 +411,7 @@
    "name": "Rivals of Aether II",
    "url": "https://rivals2.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Started playing Rivals of Aether II , a new indie platform fighter like Super Smash Bros. , and it’s *so* much fun. Learning curve is steep, but it’s so worth it.",
    "section": "crowdsourced",
@@ -374,8 +435,12 @@
    "name": "Raindrop",
    "url": "https://raindrop.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform",
+    "web"
+   ],
    "blurb": "Redownloading Raindrop after the demise of Omnivore. Luckily I saved my config for the Obsidian plugin so it’s been an easy switch.",
    "section": "crowdsourced",
    "recommender": "Tynan (reader)"
@@ -398,8 +463,10 @@
    "name": "Red Rising series",
    "url": "https://www.piercebrown.com/redrisingsaga",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’ve been reading the Red Rising series because of one of my coworkers. The way that you get sucked into the characters and that every book builds on the previous ones, it has become one of my favorite series that I can’t recommend enough.",
    "section": "crowdsourced",
    "recommender": "Travis (reader)"
@@ -409,8 +476,10 @@
    "name": "a fun investigation",
    "url": "https://www.wsj.com/tech/personal-tech/political-text-messages-stop-17cf2abb?mod=tech_lead_pos1",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "It’s Election Day on Tuesday! Wild, important, fascinating, terrifying, causing me to feel a lot of feelings. But one thing I unequivocally love about election season is a fresh set of reporting about some of the stranger and more annoying quirks of the American political process.",
    "section": "signing-off",
    "recommender": null
@@ -420,8 +489,10 @@
    "name": "good tricks for turning them off",
    "url": "https://www.washingtonpost.com/technology/2024/10/27/how-to-stop-political-text-spam-elections/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "It’s Election Day on Tuesday! Wild, important, fascinating, terrifying, causing me to feel a lot of feelings. But one thing I unequivocally love about election season is a fresh set of reporting about some of the stranger and more annoying quirks of the American political process.",
    "section": "signing-off",
    "recommender": null
@@ -431,8 +502,10 @@
    "name": "our friends at Vox did a great podcast",
    "url": "https://www.vox.com/explain-it-to-me/379103/spam-political-fundraising-texts-election",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "It’s Election Day on Tuesday! Wild, important, fascinating, terrifying, causing me to feel a lot of feelings. But one thing I unequivocally love about election season is a fresh set of reporting about some of the stranger and more annoying quirks of the American political process.",
    "section": "signing-off",
    "recommender": null

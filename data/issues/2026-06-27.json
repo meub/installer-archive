@@ -25,8 +25,11 @@
    "alt_urls": [
     "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home",
+    "music"
+   ],
    "blurb": "Nine months later, it’s finally on sale! I mostly really like it so far — for its size and $99 price it’s a very serviceable speaker, and since all I really need is “put this on my calendar” and “play this song on Spotify,” Gemini is a winner.",
    "section": "the-drop",
    "recommender": null
@@ -51,8 +54,10 @@
    "alt_urls": [
     "https://www.nts.live/infinite-mixtapes"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "I don’t know why I’m such a sucker for adorable little music players, but there’s just nothing I can do about it. This one is beautiful , and I love that it both supports streaming services and offers a bunch of just-turn-it-on radio options. The NTS infinite mixtapes always seem to hit.",
    "section": "the-drop",
    "recommender": null
@@ -75,8 +80,11 @@
    "name": "Claude Tag",
    "url": "https://www.anthropic.com/news/introducing-claude-tag",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
    "blurb": "Work chat is so obviously a useful place for AI as a way to find information and accomplish simple stuff. There are going to be a lot of weird social questions to figure out here — can you @claude a request from your boss, right in-line in Slack? — but I suspect I’ll end up using this a lot.",
    "section": "the-drop",
    "recommender": null
@@ -86,8 +94,10 @@
    "name": "Meta Glasses",
    "url": "https://www.meta.com/ai-glasses/meta-glasses/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ai"
+   ],
    "blurb": "I’m so torn on these. Love that they’re cheaper, love that they’re lower-profile, even love a couple of the styles. But… Meta. I wish I could get a pair of these that were just a camera, a microphone, speakers, and precisely nothing else.",
    "section": "the-drop",
    "recommender": null
@@ -97,7 +107,7 @@
    "name": "Deltarune Chapter 5",
    "url": "https://deltarune.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "A bunch of new content for an absolutely beloved game just dropped, and both the Steam charts and my social feeds suggest that people are into it. If you’ve been in this world for a while, it apparently ties a lot of things together; if you’re new, like me, it feels like the perfect time to dive in.",
    "section": "the-drop",
@@ -149,8 +159,10 @@
    "name": "Parchment",
    "url": "https://www.patreon.com/Lawley/posts/my-new-app-161686953",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "I’ve been a fan of Chris’ work forever, and got excited all over again when I saw that he’s been working on a new tasks / planner app called Parchment . (Not to brag, but I am in the TestFlight.)",
    "section": "screen-share",
    "recommender": "Chris"
@@ -160,8 +172,10 @@
    "name": "photo I took at Bass Lake",
    "url": "https://theuntitled.site/images/_IMG_2885.jpeg",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "photography"
+   ],
    "blurb": "The wallpaper: The wallpaper I am currently using is a photo I took at Bass Lake . About 12 hours from this point, a massive snowstorm rolled in and trapped us for an extra day — it was a fantastic trip.",
    "section": "screen-share",
    "recommender": "Chris"
@@ -210,8 +224,11 @@
    "name": "Claude Cowork",
    "url": "https://claude.com/product/cowork",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
    "blurb": "I spent four years working a full-time job while trying to build my YouTube channel. I never automated my creative work, but even with a YouTube channel there is a ton of administrative work that goes behind the scenes.",
    "section": "screen-share",
    "recommender": "Chris"
@@ -221,8 +238,11 @@
    "name": "Codex",
    "url": "https://openai.com/codex/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
    "blurb": "I spent four years working a full-time job while trying to build my YouTube channel. I never automated my creative work, but even with a YouTube channel there is a ton of administrative work that goes behind the scenes.",
    "section": "screen-share",
    "recommender": "Chris"
@@ -232,8 +252,12 @@
    "name": "I built a shortcut",
    "url": "https://www.icloud.com/shortcuts/91c52d10c4904fbdb32b2e1b78b390b8",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity",
+    "utilities"
+   ],
    "blurb": "I spent four years working a full-time job while trying to build my YouTube channel. I never automated my creative work, but even with a YouTube channel there is a ton of administrative work that goes behind the scenes.",
    "section": "screen-share",
    "recommender": "Chris"
@@ -295,8 +319,11 @@
    "name": "Matt Birchler",
    "url": "https://birchtree.me/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "website",
+    "web"
+   ],
    "blurb": "My pal Matt Birchler has been on a bit of a tear lately making a bunch of apps. One of his more recent ones that I have fallen in love with is Quick Reads . This is a read-it-later service, with support for listening to articles with really good, natural-sounding voices.",
    "section": "screen-share",
    "recommender": "Chris"
@@ -306,8 +333,11 @@
    "name": "Quick Reads",
    "url": "https://quickreads.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "My pal Matt Birchler has been on a bit of a tear lately making a bunch of apps. One of his more recent ones that I have fallen in love with is Quick Reads . This is a read-it-later service, with support for listening to articles with really good, natural-sounding voices.",
    "section": "screen-share",
    "recommender": "Chris"
@@ -376,7 +406,7 @@
    "name": "007: First Light",
    "url": "https://ioi.dk/007firstlightgame",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I just finished 007: First Light . What a fantastic game. As somebody who has seen every 007 movie a few times (yes, even Die Another Day ), I loved this version of Bond. What a great game. I’ve been really into 3D printing lately. I got a Bambu Lab A1 for Christmas.",
    "section": "screen-share",
@@ -387,7 +417,7 @@
    "name": "Bambu Lab A1",
    "url": "https://us.store.bambulab.com/products/a1",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I just finished 007: First Light . What a fantastic game. As somebody who has seen every 007 movie a few times (yes, even Die Another Day ), I loved this version of Bond. What a great game. I’ve been really into 3D printing lately. I got a Bambu Lab A1 for Christmas.",
    "section": "screen-share",
@@ -398,8 +428,11 @@
    "name": "Gridfinity",
    "url": "https://gridfinity.xyz",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "open-source",
+    "free"
+   ],
    "blurb": "I just finished 007: First Light . What a fantastic game. As somebody who has seen every 007 movie a few times (yes, even Die Another Day ), I loved this version of Bond. What a great game. I’ve been really into 3D printing lately. I got a Bambu Lab A1 for Christmas.",
    "section": "screen-share",
    "recommender": "Chris"
@@ -409,8 +442,10 @@
    "name": "Instagram account",
    "url": "https://www.instagram.com/lifeofrileygolden",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "social"
+   ],
    "blurb": "I just finished 007: First Light . What a fantastic game. As somebody who has seen every 007 movie a few times (yes, even Die Another Day ), I loved this version of Bond. What a great game. I’ve been really into 3D printing lately. I got a Bambu Lab A1 for Christmas.",
    "section": "screen-share",
    "recommender": "Chris"
@@ -420,8 +455,10 @@
    "name": "Polastax",
    "url": "https://polastax.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography"
+   ],
    "blurb": "I have been looking into the Polastax project, which basically uses a cheap film holder to let you shoot Instax film on old Polaroid pack film cameras. It’s super kludgey: You can only take one shot at a time and then you have to put it into an Instax wide body to ‘develop’ the shot.",
    "section": "crowdsourced",
    "recommender": "Richard (reader)"
@@ -457,8 +494,10 @@
    "name": "XReal One Pros",
    "url": "https://us.shop.xreal.com/products/xreal-one-pro",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "video"
+   ],
    "blurb": "I got a pair of XReal One Pros and I’ve been using them to watch movies and play games on the Steam Deck. Really cool tech. The way it can 3D convert any video on the fly so seamlessly is amazing. It has a very crisp image as well.",
    "section": "crowdsourced",
    "recommender": "Yoinks (reader)"
@@ -468,8 +507,11 @@
    "name": "HDHomeRun",
    "url": "https://www.silicondust.com/hdhomerun/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "tv",
+    "video"
+   ],
    "blurb": "Over-the-air HD digital broadcast is still a thing and, coupled with a cheap DVR like HDHomeRun makes catching the World Cup when time permits super easy (and free, too!).",
    "section": "crowdsourced",
    "recommender": "David (reader)"
@@ -492,8 +534,10 @@
    "name": "Shoe Dog: A Memoir by the Creator of Nike",
    "url": "https://www.simonandschuster.com/books/Shoe-Dog/Phil-Knight/9781501135927",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Just started Shoe Dog: A Memoir by the Creator of Nike , by Phil Knight. Excited to hear the story of one of the world’s biggest brands, especially right now as it struggles to adapt to the modern era of running shoes.",
    "section": "crowdsourced",
    "recommender": "Ryan (reader)"
@@ -503,7 +547,7 @@
    "name": "OhSnap",
    "url": "https://ohsnap.com/products/snap-grip-stand",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "RE: PopSocket Low-Pro Grip. OhSnap did it first, and it’s great!",
    "section": "crowdsourced",
@@ -514,8 +558,11 @@
    "name": "Stilo & Stile",
    "url": "https://www.stiloestile.com/en/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "website",
+    "web"
+   ],
    "blurb": "Lately I’ve gotten into fountain pens and inks. I love, love, love the online shop by Italian company Stilo & Stile . Inks are swatched and so are most of the fountain pens, plus you can whittle it down to every nook and cranny! JetPens has a terrific online store as well.",
    "section": "crowdsourced",
    "recommender": "Elif (reader)"
@@ -525,8 +572,11 @@
    "name": "JetPens",
    "url": "https://www.jetpens.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "website",
+    "web"
+   ],
    "blurb": "Lately I’ve gotten into fountain pens and inks. I love, love, love the online shop by Italian company Stilo & Stile . Inks are swatched and so are most of the fountain pens, plus you can whittle it down to every nook and cranny! JetPens has a terrific online store as well.",
    "section": "crowdsourced",
    "recommender": "Elif (reader)"
@@ -547,8 +597,10 @@
    "name": "having",
    "url": "https://www.teenvogue.com/story/focus-gaming-apps-that-help-combat-adhd-like-behavior",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "social"
+   ],
    "blurb": "The game On-Together is kind of having a moment right now . Though I’m not even sure I’d call it a game. It’s just an online space: You join a server, walk around for a while, find a spot to sit, and sit. Sit a while, get tickets, buy new stuff for your avatar. That’s it!",
    "section": "signing-off",
    "recommender": null
@@ -558,8 +610,10 @@
    "name": "right now",
    "url": "https://aftermath.site/on-together-co-working-body-doubling-productivity/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "The game On-Together is kind of having a moment right now . Though I’m not even sure I’d call it a game. It’s just an online space: You join a server, walk around for a while, find a spot to sit, and sit. Sit a while, get tickets, buy new stuff for your avatar. That’s it!",
    "section": "signing-off",
    "recommender": null
@@ -569,8 +623,11 @@
    "name": "admin nights",
    "url": "https://www.newyorker.com/magazine/2026/06/22/misery-loves-company-if-there-are-snacks",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "productivity"
+   ],
    "blurb": "Right next to this game’s popularity is the concept of “ admin nights ,” which is basically when you get together with a bunch of strangers to accomplish all your boring tasks together. I love this idea! We should do an Installerverse admin night one of these days.",
    "section": "signing-off",
    "recommender": null

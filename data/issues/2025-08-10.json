@@ -23,8 +23,10 @@
    "name": "OpenAI’s GPT-5",
    "url": "https://openai.com/gpt-5/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai"
+   ],
    "blurb": "OpenAI’s next major AI model is finally out. The company promises it has “state-of-the-art performance” across many different types of work and is “significantly less likely to hallucinate” than its previous models. You can try it out right now in ChatGPT, even if you’re on the free plan.",
    "section": "the-drop",
    "recommender": null
@@ -36,8 +38,12 @@
    "alt_urls": [
     "https://www.theverge.com/openai/718785/openai-gpt-oss-open-model-release"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "open-source",
+    "free"
+   ],
    "blurb": "Ahead of GPT-5, OpenAI also made a splash with the release of GPT-OSS, its two new open-weight models that you can run on a laptop . Having the power of an OpenAI model, with the privacy of a local model, is perhaps an even more compelling option.",
    "section": "the-drop",
    "recommender": null
@@ -47,8 +53,12 @@
    "name": "Roku’s Howdy",
    "url": "https://www.anrdoezrs.net/click-8836598-11553901?sid=VergeInstaller080825&url=https://www.roku.com/whats-on/the-roku-channel/premium-subscriptions/howdy",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "subscription",
+    "tv",
+    "video"
+   ],
    "blurb": "This new subscription service has “thousands of titles” available ad-free for $2.99 per month.",
    "section": "the-drop",
    "recommender": null
@@ -58,8 +68,10 @@
    "name": "TP-Link’s Wi-Fi 7 BE3600 Travel Router",
    "url": "https://www.tp-link.com/us/home-networking/wifi-router/tl-wr3602be/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "travel"
+   ],
    "blurb": "This Wi-Fi 7 travel router seems like it could save you some wireless connection hassles while on a big family trip. It works with up to 90 devices at once, which I’m guessing will be more than enough for most families.",
    "section": "the-drop",
    "recommender": null
@@ -69,8 +81,10 @@
    "name": "Camp Snap CS-8",
    "url": "https://www.campsnapphoto.com/products/cs8?irclickid=y463J8zlfxyKUY609wVHRQhpUkpxI-wpyXfazY0&sharedid=theverge.com&irpid=10078&irgwc=1",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography"
+   ],
    "blurb": "This camera looks a bit like a classic Super 8 film camera, and while it uses SD card storage, there’s no screen you can use to see what you’ve shot. That could be annoying, but I also think it could be really fun.",
    "section": "the-drop",
    "recommender": null
@@ -82,8 +96,11 @@
    "alt_urls": [
     "https://www.youtube.com/watch?v=7ZIbokU9tRg"
    ],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "free",
+    "cross-platform"
+   ],
    "blurb": "The latest battle royale update adds bug infestations to the Fortnite island, but you can take them on as a Power Ranger. This seems like a season made for 90s kids , so I don’t think I’ll be able to resist checking this out.",
    "section": "the-drop",
    "recommender": null
@@ -95,8 +112,10 @@
    "alt_urls": [
     "https://www.theverge.com/games-review/717713/is-this-seat-taken-review-pc-nintendo-switch-ios-android"
    ],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "paid"
+   ],
    "blurb": "If you’re looking for something a little lower key, this chill new puzzle game that asks you to find the right seat for adorable little shapes is great. I’ve played the whole thing, and it’s delightful .",
    "section": "the-drop",
    "recommender": null
@@ -108,8 +127,12 @@
    "alt_urls": [
     "https://cloudgazing.online/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "website",
+    "web",
+    "free"
+   ],
    "blurb": "You have until September 1st to vote on one of 11 extremely cool websites to be Site of the Year. I haven’t decided on my pick, but I’m a big fan of Cloudgazing .",
    "section": "the-drop",
    "recommender": null
@@ -130,8 +153,12 @@
    "name": "Notion Calendar",
    "url": "https://www.notion.com/product/calendar",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform",
+    "free"
+   ],
    "blurb": "Notion Calendar widget Macrofactor widget: a great algorithmic nutrition tracker that works for both gaining and losing weight, depending on your goals. Weather: the stock iOS Weather app",
    "section": "screen-share",
    "recommender": "Siri"
@@ -141,8 +168,13 @@
    "name": "Macrofactor",
    "url": "https://macrofactorapp.com/macrofactor/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness",
+    "subscription",
+    "ios",
+    "android"
+   ],
    "blurb": "Notion Calendar widget Macrofactor widget: a great algorithmic nutrition tracker that works for both gaining and losing weight, depending on your goals. Weather: the stock iOS Weather app",
    "section": "screen-share",
    "recommender": "Siri"
@@ -152,8 +184,11 @@
    "name": "SyncTasks",
    "url": "https://www.synctasks.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "ios"
+   ],
    "blurb": "Notion Calendar (again) , with color-matched background SyncTasks : takes your Notion tasks and syncs them to a sweet interactive homescreen widget",
    "section": "screen-share",
    "recommender": "Siri"
@@ -163,8 +198,11 @@
    "name": "Blank Spaces Launcher",
    "url": "https://www.blankspaces.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android",
+    "productivity"
+   ],
    "blurb": "Blank Spaces Launcher : This allows you to have an app list like shown, mimicking the Light Phone. You can change the names of the apps to be generic. Like “Podcasts” leads to Overcast , my podcast app of choice. Or “Workout” leads to Stronglifts 5x5 , etc.",
    "section": "screen-share",
    "recommender": "Siri"
@@ -174,8 +212,12 @@
    "name": "Overcast",
    "url": "https://overcast.fm/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "podcast",
+    "ios",
+    "free"
+   ],
    "blurb": "Blank Spaces Launcher : This allows you to have an app list like shown, mimicking the Light Phone. You can change the names of the apps to be generic. Like “Podcasts” leads to Overcast , my podcast app of choice. Or “Workout” leads to Stronglifts 5x5 , etc.",
    "section": "screen-share",
    "recommender": "Siri"
@@ -185,8 +227,12 @@
    "name": "Stronglifts 5x5",
    "url": "https://stronglifts.com/stronglifts-5x5/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness",
+    "ios",
+    "android"
+   ],
    "blurb": "Blank Spaces Launcher : This allows you to have an app list like shown, mimicking the Light Phone. You can change the names of the apps to be generic. Like “Podcasts” leads to Overcast , my podcast app of choice. Or “Workout” leads to Stronglifts 5x5 , etc.",
    "section": "screen-share",
    "recommender": "Siri"
@@ -196,8 +242,12 @@
    "name": "Superhuman",
    "url": "https://superhuman.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "subscription",
+    "cross-platform"
+   ],
    "blurb": "The docked apps: I used a minimal black icon pack mixed with Siri shortcuts, except for the Superhuman email app.",
    "section": "screen-share",
    "recommender": "Siri"
@@ -207,8 +257,10 @@
    "name": "Dungeon Crawler Carl",
    "url": "https://mattdinniman.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I just binged the 7th novel of Dungeon Crawler Carl so fast it was silly. Incredibly fun reads that are somewhat hard to describe. Maybe like… Hunger Games meets video games? Light-hearted and eminently binge-able. Who isn’t into Donkey Kong Bananza right now?",
    "section": "screen-share",
    "recommender": "Siri"
@@ -229,8 +281,10 @@
    "name": "Surfr",
    "url": "https://www.thesurfr.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
    "blurb": "I just binged the 7th novel of Dungeon Crawler Carl so fast it was silly. Incredibly fun reads that are somewhat hard to describe. Maybe like… Hunger Games meets video games? Light-hearted and eminently binge-able. Who isn’t into Donkey Kong Bananza right now?",
    "section": "screen-share",
    "recommender": "Siri"
@@ -240,8 +294,10 @@
    "name": "Arduino",
    "url": "https://www.arduino.cc/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "open-source"
+   ],
    "blurb": "For the first time in a few years I’m playing around with some embedded programming platforms, specifically Arduino and the Pi Pico . It’s amazing that I can get a computer more powerful than the desktop I owned in high school for less than ten dollars.",
    "section": "crowdsourced",
    "recommender": "Matthew (reader)"
@@ -251,7 +307,7 @@
    "name": "Pi Pico",
    "url": "https://www.raspberrypi.com/products/raspberry-pi-pico/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "For the first time in a few years I’m playing around with some embedded programming platforms, specifically Arduino and the Pi Pico . It’s amazing that I can get a computer more powerful than the desktop I owned in high school for less than ten dollars.",
    "section": "crowdsourced",
@@ -262,8 +318,10 @@
    "name": "CRKD guitar",
    "url": "https://crkd.gg/products/lp-bluebuerry-burst-multi-platform",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "Just got my new CRKD guitar , loving it, and diving back into Clone Hero and YARG , the modern open source versions of Guitar Hero and Rock Band . And great timing, Red Octane is back to make a new rhythm game!",
    "section": "crowdsourced",
    "recommender": "Bruno (reader)"
@@ -273,8 +331,12 @@
    "name": "Clone Hero",
    "url": "https://clonehero.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "free",
+    "music",
+    "open-source"
+   ],
    "blurb": "Just got my new CRKD guitar , loving it, and diving back into Clone Hero and YARG , the modern open source versions of Guitar Hero and Rock Band . And great timing, Red Octane is back to make a new rhythm game!",
    "section": "crowdsourced",
    "recommender": "Bruno (reader)"
@@ -284,8 +346,12 @@
    "name": "YARG",
    "url": "https://yarg.in/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "free",
+    "open-source",
+    "music"
+   ],
    "blurb": "Just got my new CRKD guitar , loving it, and diving back into Clone Hero and YARG , the modern open source versions of Guitar Hero and Rock Band . And great timing, Red Octane is back to make a new rhythm game!",
    "section": "crowdsourced",
    "recommender": "Bruno (reader)"
@@ -295,8 +361,10 @@
    "name": "Red Octane",
    "url": "https://www.redoctane.games/https/redoctanegamessquarespacecom/news/press-release",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "music"
+   ],
    "blurb": "Just got my new CRKD guitar , loving it, and diving back into Clone Hero and YARG , the modern open source versions of Guitar Hero and Rock Band . And great timing, Red Octane is back to make a new rhythm game!",
    "section": "crowdsourced",
    "recommender": "Bruno (reader)"
@@ -306,8 +374,10 @@
    "name": "Lord of the Rings audiobook",
    "url": "https://rbmediaglobal.com/the-lord-of-the-rings/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’m deeply impressed by the Lord of the Rings audiobook by Andy Serkis. It’s insane how differently the characters sound (and how similar to movies).",
    "section": "crowdsourced",
    "recommender": "Jakub (reader)"
@@ -317,8 +387,12 @@
    "name": "Inoreader",
    "url": "https://www.inoreader.com/features/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "web",
+    "subscription"
+   ],
    "blurb": "This week I took control of my RSS reader by moving from Inoreader to a self-hosted Miniflux instance. It was actually super easy to get working, and it’s cool to be able to use different third-party native apps again. It feels like I’m back in the good ol’ Google Reader days again.",
    "section": "crowdsourced",
    "recommender": "gnu_slash_dhruv (reader)"
@@ -328,8 +402,12 @@
    "name": "Miniflux",
    "url": "https://miniflux.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "web"
+   ],
    "blurb": "This week I took control of my RSS reader by moving from Inoreader to a self-hosted Miniflux instance. It was actually super easy to get working, and it’s cool to be able to use different third-party native apps again. It feels like I’m back in the good ol’ Google Reader days again.",
    "section": "crowdsourced",
    "recommender": "gnu_slash_dhruv (reader)"
@@ -378,8 +456,10 @@
    "name": "mostly-QWERTY layout",
    "url": "https://configure.zsa.io/moonlander/layouts/DAGNM/X0Yb9/0",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "I use a mostly-QWERTY layout , but have a ZSA Moonlander keyboard and have customized it to my programmer/game tastes. I can actually touch-type now with this keyboard. It folds up so well that I travel with it all the time, and it gets comments every time I use it.",
    "section": "crowdsourced",
    "recommender": "Ron (reader)"
@@ -389,8 +469,10 @@
    "name": "ZSA Moonlander keyboard",
    "url": "https://www.zsa.io/moonlander",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "I use a mostly-QWERTY layout , but have a ZSA Moonlander keyboard and have customized it to my programmer/game tastes. I can actually touch-type now with this keyboard. It folds up so well that I travel with it all the time, and it gets comments every time I use it.",
    "section": "crowdsourced",
    "recommender": "Ron (reader)"
@@ -413,8 +495,10 @@
    "name": "fellow Colemak typist",
    "url": "https://tenor.com/view/arrested-development-david-cross-tobias-funke-there-are-dozens-of-us-dozens-gif-5426075",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "Thanks to everyone who wrote in their stories of alternate keyboard layouts. There’s a fair few Dvorak users out there, but I heard from a fellow Colemak typist and even a Norman user!",
    "section": "signing-off",
    "recommender": null
@@ -424,8 +508,10 @@
    "name": "Norman",
    "url": "https://normanlayout.info/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "Thanks to everyone who wrote in their stories of alternate keyboard layouts. There’s a fair few Dvorak users out there, but I heard from a fellow Colemak typist and even a Norman user!",
    "section": "signing-off",
    "recommender": null

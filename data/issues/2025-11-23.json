@@ -23,8 +23,12 @@
    "name": "Raycast for Windows",
    "url": "https://www.raycast.com/windows",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "windows",
+    "productivity",
+    "utilities"
+   ],
    "blurb": "Raycast — a launcher, clipboard manager, shortcut system, and much more — is the first app I install on any new Mac. Now it’s finally on Windows, too!",
    "section": "the-drop",
    "recommender": null
@@ -45,7 +49,7 @@
    "name": "Marvel’s Deadpool VR",
    "url": "https://www.marvel.com/games/marvels-deadpool-vr",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I don’t remember the last time a new VR game caused me to actually get my Quest out of its charging stand. But this one, with Neil Patrick Harris voicing Deadpool and a lot of the same bonkers action energy as the movies, might just get me playing again.",
    "section": "the-drop",
@@ -56,8 +60,10 @@
    "name": "Gemini 3",
    "url": "https://gemini.google.com/app",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai"
+   ],
    "blurb": "Google’s LLM appears to be among the best all-purpose models available right now, and you can use it practically everywhere. It’s in the app, it’s in Search, you can use it to make apps and visualizations and all sorts of things. Google… might be winning.",
    "section": "the-drop",
    "recommender": null
@@ -67,8 +73,10 @@
    "name": "The Samsung Smart Keyboard",
    "url": "https://www.samsung.com/us/mobile-accessories/samsung-smart-keyboard-dark-gray-sku-ej-b7800ubeguj/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "travel"
+   ],
    "blurb": "A super light, super small keyboard is a sneaky great travel accessory — bring this and your phone or tablet, and you’ll be amazed how much you can get done in a pinch without needing your laptop.",
    "section": "the-drop",
    "recommender": null
@@ -91,8 +99,11 @@
    "name": "The American Revolution",
    "url": "https://www.pbs.org/kenburns/the-american-revolution",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv",
+    "video"
+   ],
    "blurb": "Ken Burns alert! And a timely one, at that, as Burns drops a 12-hour history lesson on how the USA was created. Even the bits I’ve seen are complex and bound to make some people mad — but nobody does this like Burns does it.",
    "section": "the-drop",
    "recommender": null
@@ -117,7 +128,7 @@
    "name": "The Analogue 3D",
    "url": "https://www.analogue.co/3d",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I have been waiting for this thing — an Analogue console based on the Nintendo 64 — for so long I had basically given up hoping it would ever ship. But now it’s shipping! The reviews are excellent, the games are plentiful, the only problem is this thing can’t seem to stay in stock.",
    "section": "the-drop",
@@ -128,8 +139,11 @@
    "name": "Palma 2",
    "url": "https://shop.boox.com/products/palma2",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android",
+    "book"
+   ],
    "blurb": "I just reviewed the new Palma 2 Pro (which I was excited about and super disappointed by), so I had occasion to rethink my Palma usage. I like where my new homescreen ended up, and ported it back to the Palma 2 I still like. I figured I’d share. Here it is:",
    "section": "screen-share",
    "recommender": null
@@ -139,7 +153,7 @@
    "name": "with an iFixit kit",
    "url": "https://www.ifixit.com/Device/PlayStation_Vita",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Just replaced the battery in a 10 year old PS Vita with an iFixit kit and it took me like 20 minutes and was actually super fun.",
    "section": "crowdsourced",
@@ -150,8 +164,11 @@
    "name": "Language Transfer",
    "url": "https://www.languagetransfer.org",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "podcast"
+   ],
    "blurb": "After years of ignoring well-meant advice about this new and somehow unusual way to learn a language, I finally gave in and listened to a few short Language Transfer lessons.",
    "section": "crowdsourced",
    "recommender": "Pieter (reader)"
@@ -161,8 +178,11 @@
    "name": "this awesome coffee table book",
    "url": "https://www.assouline.com/products/air-jordan-classic",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "photography"
+   ],
    "blurb": "Currently reading this awesome coffee table book all about the Jordan Brand. It’s about the advertising, his brand, the photography, etc., instead of his career as a player. The first chapter is about 40 years of his shoe evolution..",
    "section": "crowdsourced",
    "recommender": "Boukou (reader)"
@@ -185,7 +205,7 @@
    "name": "Space Pen",
    "url": "https://www.spacepen.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I’ve gotten into physical pocket notebooks again. I bought a Space Pen because it’s nice and small, and now keep a Field Notes notebook with me at all times and use it for everything: to-do lists, ideas, journaling, etc. It’s quite addictive and I highly recommend it.",
    "section": "crowdsourced",
@@ -196,7 +216,7 @@
    "name": "Field Notes",
    "url": "https://fieldnotesbrand.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I’ve gotten into physical pocket notebooks again. I bought a Space Pen because it’s nice and small, and now keep a Field Notes notebook with me at all times and use it for everything: to-do lists, ideas, journaling, etc. It’s quite addictive and I highly recommend it.",
    "section": "crowdsourced",
@@ -207,8 +227,10 @@
    "name": "Backdrop",
    "url": "https://cindori.com/backdrop",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac"
+   ],
    "blurb": "Trying out a new animated wallpaper app for Mac called Backdrop . It’s the only one I’ve seen that unifies an animated wallpaper between your desktop and lock screen.",
    "section": "crowdsourced",
    "recommender": "Russ (reader)"
@@ -218,8 +240,10 @@
    "name": "Beyond a Boundary",
    "url": "https://www.penguin.co.uk/books/362382/beyond-a-boundary-by-c-l-r-james/9781784875398",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Just started reading Beyond a Boundary by CLR James. It is billed as THE GREATEST SPORTS BOOK EVER WRITTEN, but mostly got it because I enjoyed The Black Jacobins . Also the cover is easily top 5 all time (first place is forever the Penguin Galaxy version of The Left Hand of Darkness ).",
    "section": "crowdsourced",
    "recommender": "Rich (reader)"
@@ -229,8 +253,10 @@
    "name": "The Black Jacobins",
    "url": "https://www.penguinrandomhouse.com/books/86417/the-black-jacobins-by-c-l-r-james-with-a-new-introduction-by-david-scott/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Just started reading Beyond a Boundary by CLR James. It is billed as THE GREATEST SPORTS BOOK EVER WRITTEN, but mostly got it because I enjoyed The Black Jacobins . Also the cover is easily top 5 all time (first place is forever the Penguin Galaxy version of The Left Hand of Darkness ).",
    "section": "crowdsourced",
    "recommender": "Rich (reader)"
@@ -240,8 +266,10 @@
    "name": "The Left Hand of Darkness",
    "url": "https://www.penguinrandomhouse.com/books/538943/the-left-hand-of-darkness-by-ursula-k-le-guin/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Just started reading Beyond a Boundary by CLR James. It is billed as THE GREATEST SPORTS BOOK EVER WRITTEN, but mostly got it because I enjoyed The Black Jacobins . Also the cover is easily top 5 all time (first place is forever the Penguin Galaxy version of The Left Hand of Darkness ).",
    "section": "crowdsourced",
    "recommender": "Rich (reader)"
@@ -251,8 +279,12 @@
    "name": "Cyberspace.online",
    "url": "http://cyberspace.online/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "web",
+    "website"
+   ],
    "blurb": "My recommendation is for Cyberspace.online . It’s social media, but text based; like when the internet was good. I haven’t had this much fun online since 2007 with the original Tumblr!",
    "section": "crowdsourced",
    "recommender": "Jordan (reader)"
@@ -262,8 +294,11 @@
    "name": "Rock Planner",
    "url": "https://shop.astropad.com/pages/rock-daily-planner",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "Writing to recommend the Rock Planner app for iPad. It’s buggy, it’s primitive, BUT — and I hope you’re ready for this — you can annotate your calendar entries! It displays your calendar then allows you to write on it with the pencil. Even has a to-do section next to it.",
    "section": "crowdsourced",
    "recommender": "Mario (reader)"
@@ -273,8 +308,10 @@
    "name": "Rock paper and pencil tip",
    "url": "https://astropad.com/product/rock-paper-pencil/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "Writing to recommend the Rock Planner app for iPad. It’s buggy, it’s primitive, BUT — and I hope you’re ready for this — you can annotate your calendar entries! It displays your calendar then allows you to write on it with the pencil. Even has a to-do section next to it.",
    "section": "crowdsourced",
    "recommender": "Mario (reader)"
@@ -284,8 +321,10 @@
    "name": "one of the most remarkable photos I’ve ever seen",
    "url": "https://www.instagram.com/p/DRBAaqLkvye/?img_index=4",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "photography"
+   ],
    "blurb": "We live in weird times, where it’s often hard to know what’s real and what isn’t. When I first saw a photo of a skydiver in front of the sun, I just filed it under “AI” and went about my day. But I was wrong!",
    "section": "signing-off",
    "recommender": null
@@ -295,8 +334,11 @@
    "name": "an astonishing amount of planning",
    "url": "https://www.sciencealert.com/skydiver-caught-transiting-the-sun-in-preposterous-but-real-photograph",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "photography"
+   ],
    "blurb": "We live in weird times, where it’s often hard to know what’s real and what isn’t. When I first saw a photo of a skydiver in front of the sun, I just filed it under “AI” and went about my day. But I was wrong!",
    "section": "signing-off",
    "recommender": null
@@ -306,8 +348,11 @@
    "name": "@cosmic_background",
    "url": "https://www.instagram.com/cosmic_background/?ig_rid=c8d3ec56-f4f9-4921-aa6d-9f93cf7656cd",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "social",
+    "photography"
+   ],
    "blurb": "We live in weird times, where it’s often hard to know what’s real and what isn’t. When I first saw a photo of a skydiver in front of the sun, I just filed it under “AI” and went about my day. But I was wrong!",
    "section": "signing-off",
    "recommender": null

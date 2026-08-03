@@ -23,8 +23,12 @@
    "name": "Opera’s local AI",
    "url": "https://press.opera.com/2024/04/03/ai-feature-drops-local-llms/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "open-source",
+    "free"
+   ],
    "blurb": "I know, I know, every browser is doing AI stuff, and I keep bringing it up. But Opera’s doing something new and clever: it’s letting you download various open-source AI models to your computer, so you can do AI stuff in the browser but also fully locally. I dig it.",
    "section": "the-drop",
    "recommender": null
@@ -49,8 +53,11 @@
    "alt_urls": [
     "https://brave.com/blog/leo-ios/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "free"
+   ],
    "blurb": "Another browser AI thing! Brave’s Mixtral-based chatbot, Leo, is also trying to do AI in a privacy-preserving way, and I am always here for that. Leo’s now out on iOS , a couple of months after it landed on Android, which means you can use Leo anywhere you use Brave.",
    "section": "the-drop",
    "recommender": null
@@ -91,8 +98,12 @@
    "name": "Retro",
    "url": "https://retro.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "photography",
+    "ios"
+   ],
    "blurb": "I’m skeptical of this and every other would-be “Instagram but it’s your real friends again!” app. But I do like Retro’s latest feature, Journals, which brings a collaborative album-making system to the app. I kinda just do this in Google Photos, but it’s a smart add for any app like this.",
    "section": "the-drop",
    "recommender": null
@@ -102,7 +113,7 @@
    "name": "The Gotham City Lego set",
    "url": "https://www.lego.com/en-us/product/batman-the-animated-series-gotham-city-76271?CMP=AFC-AffiliateUS-nOD/rLJHOac-3430747-1182088-10",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Four thousand, two hundred and ten pieces. I am obsessed with this thing and frankly a little intimidated by it. The $300 price tag puts it into serious luxury range, but this just became the first and only thing on my birthday list this year.",
    "section": "the-drop",
@@ -115,8 +126,11 @@
    "alt_urls": [
     "https://werehere.beehiiv.com/p/inbox"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "newsletter",
+    "free"
+   ],
    "blurb": "I don’t recommend other newsletters enough here, and I’m going to change that, starting with this one from Hank and John Green, two of the best people on the internet, which, at least so far, is just a compendium of weird, delightful internet stuff . Insta-subscribe.",
    "section": "the-drop",
    "recommender": null
@@ -202,8 +216,12 @@
    "name": "Notion Calendar",
    "url": "https://www.notion.so/product/calendar",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform",
+    "free"
+   ],
    "blurb": "The show I am into right now is Drive to Survive . I started following Formula One a few years ago and loved how engineering and sport come together. I am really into productivity apps and really enjoyed the Waveform episode with you .",
    "section": "screen-share",
    "recommender": "Daniyal"
@@ -304,8 +322,11 @@
    "name": "read about my experience",
    "url": "https://shellsharks.com/own-my-social",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "social"
+   ],
    "blurb": "Running my own personal, single-user Mastodon instance, courtesy of Masto.host. You can read about my experience if you’re interested.",
    "section": "crowdsourced",
    "recommender": "Mike (reader)"
@@ -315,8 +336,10 @@
    "name": "Wristmeetrazor",
    "url": "https://wristmeetrazor.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "If you like screamy music, we are in a golden age for it at the moment. The new Wristmeetrazor is a modern classic, the new Boundaries goes hard as hell, death metal vets Aborted dropped one of their best albums, melodic/tech death newcomers Carrion Vael dropped a great album, OG bands like Job for…",
    "section": "crowdsourced",
    "recommender": "John (reader)"
@@ -326,8 +349,10 @@
    "name": "Boundaries",
    "url": "https://boundariesct.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "If you like screamy music, we are in a golden age for it at the moment. The new Wristmeetrazor is a modern classic, the new Boundaries goes hard as hell, death metal vets Aborted dropped one of their best albums, melodic/tech death newcomers Carrion Vael dropped a great album, OG bands like Job for…",
    "section": "crowdsourced",
    "recommender": "John (reader)"
@@ -337,8 +362,10 @@
    "name": "Aborted",
    "url": "https://goremageddon.be/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "If you like screamy music, we are in a golden age for it at the moment. The new Wristmeetrazor is a modern classic, the new Boundaries goes hard as hell, death metal vets Aborted dropped one of their best albums, melodic/tech death newcomers Carrion Vael dropped a great album, OG bands like Job for…",
    "section": "crowdsourced",
    "recommender": "John (reader)"
@@ -348,8 +375,10 @@
    "name": "Carrion Vael",
    "url": "https://linktr.ee/carrionvael",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "If you like screamy music, we are in a golden age for it at the moment. The new Wristmeetrazor is a modern classic, the new Boundaries goes hard as hell, death metal vets Aborted dropped one of their best albums, melodic/tech death newcomers Carrion Vael dropped a great album, OG bands like Job for…",
    "section": "crowdsourced",
    "recommender": "John (reader)"
@@ -359,8 +388,10 @@
    "name": "Job for a Cowboy",
    "url": "https://www.metalblade.com/jobforacowboy/#page-top",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "If you like screamy music, we are in a golden age for it at the moment. The new Wristmeetrazor is a modern classic, the new Boundaries goes hard as hell, death metal vets Aborted dropped one of their best albums, melodic/tech death newcomers Carrion Vael dropped a great album, OG bands like Job for…",
    "section": "crowdsourced",
    "recommender": "John (reader)"
@@ -370,8 +401,10 @@
    "name": "Darkest Hour",
    "url": "https://linktr.ee/DarkestHour",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "If you like screamy music, we are in a golden age for it at the moment. The new Wristmeetrazor is a modern classic, the new Boundaries goes hard as hell, death metal vets Aborted dropped one of their best albums, melodic/tech death newcomers Carrion Vael dropped a great album, OG bands like Job for…",
    "section": "crowdsourced",
    "recommender": "John (reader)"
@@ -381,8 +414,11 @@
    "name": "Godspeed",
    "url": "https://godspeedapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "mac"
+   ],
    "blurb": "Godspeed is a very opinionated, keyboard-driven task manager — I think more people should give it a shot.",
    "section": "crowdsourced",
    "recommender": "Matt (reader)"
@@ -405,8 +441,11 @@
    "name": "Listy",
    "url": "https://listy.is/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "ios"
+   ],
    "blurb": "I would like to recommend Listy . It’s a simple app for keeping lists. I started using it for tracking books, board games, movies, and TV shows. I used to use the stock Notes app for this, but Listy is way easier to use because you can just use the Share function of your browser to add a new entry.",
    "section": "crowdsourced",
    "recommender": "Péter (reader)"
@@ -416,8 +455,11 @@
    "name": "Picotron",
    "url": "https://www.lexaloffle.com/picotron.php",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "paid",
+    "cross-platform"
+   ],
    "blurb": "Picotron . It’s a bit niche, but for a certain kind of person, it’s gold. It’s a ‘fantasy workstation’ from the guy who made Pico-8. Still very early days and very buggy, but very exciting in this early time, almost like a return to the very early days of computing.",
    "section": "crowdsourced",
    "recommender": "Tom (reader)"
@@ -427,8 +469,10 @@
    "name": "Gideon the Ninth",
    "url": "https://us.macmillan.com/books/9781250313195/gideontheninth",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Gideon the Ninth is the most fun, wild, crazy, engaging, can’t-put-down book I’ve read in FOREVER. Crazy plot...",
    "section": "crowdsourced",
    "recommender": "Tyler (reader)"

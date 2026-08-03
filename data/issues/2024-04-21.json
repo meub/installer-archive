@@ -24,8 +24,12 @@
    "name": "Delta",
    "url": "https://faq.deltaemulator.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "free",
+    "utilities"
+   ],
    "blurb": "This retro gaming emulator instantly earned a spot on my homescreen. Leaving aside the complicated legal questions about emulators and ROMs, this app is mature and polished and supports a huge number of old consoles.",
    "section": "the-drop",
    "recommender": null
@@ -35,8 +39,12 @@
    "name": "Airchat",
    "url": "https://www.air.chat/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "beta",
+    "ios"
+   ],
    "blurb": "I honestly don’t know how to feel about this app. Are voice-based social networks going to be a thing, or was Clubhouse just a strange pandemic-induced haze we were all in for a week? Lots of tech folks I know are into this one, though, so it’s at least worth keeping an eye on.",
    "section": "the-drop",
    "recommender": null
@@ -48,8 +56,11 @@
    "alt_urls": [
     "https://www.theverge.com/2024/4/15/24130832/limitless-ai-pendant-wearable-meetings"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
    "blurb": "A very different kind of AI gadget, this one. The “we’ll summarize your meetings” approach is… fine, but I think the vision here, to figure out how to record and give you access to your life, is pretty cool.",
    "section": "the-drop",
    "recommender": null
@@ -61,8 +72,11 @@
    "alt_urls": [
     "https://www.theverge.com/24131495/insta360-x4-360-camera-8k"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "video",
+    "photography"
+   ],
    "blurb": "Insta360 is doing some pretty nifty stuff in the action camera world. The $500 X4 does 8K footage at 30 frames per second, which goes a long way when you’re cropping and sharing videos later. It also has some ruggedness upgrades, which should help the more, uh, clumsy of us out there.",
    "section": "the-drop",
    "recommender": null
@@ -72,8 +86,12 @@
    "name": "Soulver 3 for iPhone",
    "url": "https://soulver.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "paid",
+    "utilities"
+   ],
    "blurb": "Soulver is the coolest, smartest calculator you’ve ever seen, and at long (like, weirdly long) last, the latest version is on the iPhone. $14 is a lot for an app like this, but this one’s worth it just for converting recipes and splitting bills.",
    "section": "the-drop",
    "recommender": null
@@ -85,8 +103,10 @@
    "alt_urls": [
     "https://www.theverge.com/2024/4/18/24133464/nothing-ear-a-specs-price-hands-on"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "Nothing’s earbuds have gotten pretty good, and I am extremely into the yellow accents and case on its new low-end models. (Which cost $99 and appear to be just about as good as the more expensive ones.)",
    "section": "the-drop",
    "recommender": null
@@ -96,8 +116,12 @@
    "name": "Maestro for Amazon Music",
    "url": "https://www.aboutamazon.com/news/entertainment/amazon-music-maestro-ai-playlist-generator",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "music",
+    "subscription"
+   ],
    "blurb": "I love this as a use for AI: just telling your music services the kind of stuff you want to listen to. Get weird with your mood, or just type, like, “I like The 1975 and Van Morrison, play other bands” and see what happens.",
    "section": "the-drop",
    "recommender": null
@@ -109,8 +133,12 @@
    "alt_urls": [
     "https://www.theverge.com/2024/4/18/24133808/meta-ai-assistant-llama-3-chatgpt-openai-rival"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "cross-platform",
+    "free"
+   ],
    "blurb": "Say this for Mark Zuckerberg and Co.: they are not going small with their AI plans. The new bot works across platforms (and on your smart glasses) and runs on the new Llama 3 model that Meta says rivals everything else on the market.",
    "section": "the-drop",
    "recommender": null
@@ -120,8 +148,12 @@
    "name": "PodcastAP",
    "url": "https://podcastap.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "podcast",
+    "social",
+    "open-source"
+   ],
    "blurb": "A podcast app for the fediverse that can add new episodes to your timeline anywhere you are. It’s pretty basic right now, and Mastodon et al. need to work on being better podcast players, but this is a super cool idea.",
    "section": "the-drop",
    "recommender": null
@@ -149,8 +181,12 @@
     "https://www.meta.ai/",
     "https://poe.com/login"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "cross-platform",
+    "free"
+   ],
    "blurb": "Chatbots. I mean, duh. ChatGPT seems to be the overwhelming favorite, but I heard some love for Claude , too, and even a little Gemini hype. No love for Meta AI just yet, but that might change. Oh, and some definite votes for Poe as a way to use all the bots in one place.",
    "section": "group-project",
    "recommender": null
@@ -160,8 +196,12 @@
    "name": "Perplexity",
    "url": "https://www.perplexity.ai/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web",
+    "cross-platform"
+   ],
    "blurb": "This one’s half chatbot, half search engine, and it’s probably the most popular thing I heard about this week. As a speedy way to get real-time answers to questions, it’s pretty great.",
    "section": "group-project",
    "recommender": null
@@ -171,8 +211,12 @@
    "name": "Arc",
    "url": "https://arc.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "mac",
+    "web"
+   ],
    "blurb": "A bunch of you like Arc’s “browse for me” feature, which summarizes and curates websites for you. Lucky you, I think that feature is about to be in basically every browser everywhere.",
    "section": "group-project",
    "recommender": null
@@ -182,8 +226,12 @@
    "name": "Spacebar",
    "url": "https://spacebar.fm/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity",
+    "ios"
+   ],
    "blurb": "An app that turns your IRL conversations into “memos,” with recaps and info about everything you talked about. Would it be weird to pull this out at dinner with friends? Maybe! But I heard some good things, and I’m intrigued.",
    "section": "group-project",
    "recommender": null
@@ -193,8 +241,11 @@
    "name": "Summarize stuff",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
    "blurb": "This appears to be your go-to use case for AI, and it’s definitely mine, too. What was the gist of that long article you read and already kind of forgot? What’s this true crime doc about?",
    "section": "group-project",
    "recommender": null
@@ -204,8 +255,11 @@
    "name": "Planning things",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "ai",
+    "travel"
+   ],
    "blurb": "My other favorite use case: just ask the bot what people like to do wherever you’re going and start your itinerary from there. I loved the email I got from Jeff, who used ChatGPT to summarize a bunch of people’s ideas about where to go in Europe and got a travel itinerary out of it.",
    "section": "group-project",
    "recommender": null
@@ -215,8 +269,11 @@
    "name": "Test your knowledge",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
    "blurb": "This is sort of related to the last one, but I heard from a few folks who said they’ll upload a doc to ChatGPT or Gemini and then have the bot quiz them on its contents. A fun study tool!",
    "section": "group-project",
    "recommender": null
@@ -226,8 +283,11 @@
    "name": "Check your writing",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
    "blurb": "Lots and lots of grammar checkers out there, it seems. I heard from folks using AI tools to gut check ideas, check for errors, and just make sure all the sentences make sense.",
    "section": "group-project",
    "recommender": null
@@ -237,8 +297,10 @@
    "name": "Make your own art",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "ai"
+   ],
    "blurb": "Whether you’re making playlists, decorating Notion pages, or sketching character ideas for your novel, I heard from folks who love having an endless fountain of new art at their disposal.",
    "section": "group-project",
    "recommender": null
@@ -259,8 +321,11 @@
    "name": "dark knit background",
    "url": "https://x.com/UseClear/status/1772305227653226619",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "ios",
+    "free"
+   ],
    "blurb": "The wallpaper: On the homescreen, I am using a dark knit background shared by the folks over at Impending who make the excellent Clear to-do list app, which is also my task manager of choice.",
    "section": "screen-share",
    "recommender": "Parker"
@@ -270,8 +335,12 @@
    "name": "Clear",
    "url": "https://www.useclear.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity",
+    "paid"
+   ],
    "blurb": "The wallpaper: On the homescreen, I am using a dark knit background shared by the folks over at Impending who make the excellent Clear to-do list app, which is also my task manager of choice.",
    "section": "screen-share",
    "recommender": "Parker"
@@ -281,8 +350,13 @@
    "name": "HuggingChat",
    "url": "https://huggingface.co/chat/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "ios",
+    "android",
+    "open-source"
+   ],
    "blurb": "If you’re into LLMs, you’re probably aware of Hugging Face. The team recently released their first native mobile app, HuggingChat , that lets you use the open-source models that they host like Llama 3 and Gemma. The app is really nicely designed and a good change of pace from ChatGPT or Poe.",
    "section": "screen-share",
    "recommender": "Parker"
@@ -292,7 +366,7 @@
    "name": "Snoopy edition MoonSwatch",
    "url": "https://www.swatch.com/en-us/bioceramic-moonswatch/mission-to-the-moonphase/full-moon.html",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "If you’re into LLMs, you’re probably aware of Hugging Face. The team recently released their first native mobile app, HuggingChat , that lets you use the open-source models that they host like Llama 3 and Gemma. The app is really nicely designed and a good change of pace from ChatGPT or Poe.",
    "section": "screen-share",
@@ -303,8 +377,10 @@
    "name": "Satechi Magnetic Wallet",
    "url": "https://satechi.net/products/vegan-leather-magnetic-wallet-stand",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ios"
+   ],
    "blurb": "If you’re into LLMs, you’re probably aware of Hugging Face. The team recently released their first native mobile app, HuggingChat , that lets you use the open-source models that they host like Llama 3 and Gemma. The app is really nicely designed and a good change of pace from ChatGPT or Poe.",
    "section": "screen-share",
    "recommender": "Parker"
@@ -338,8 +414,11 @@
    "name": "Destiny 2",
    "url": "https://www.bungie.net/7/en/destiny",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "cross-platform",
+    "free"
+   ],
    "blurb": "I’ve been watching Delicious in Dungeon on Netflix, and I’m super loving it! Also been playing Helldivers 2 and the new Destiny 2 stuff and poking at a bunch of iPhone 15 reviews to see if I should get that over a 13 now that my 2020 SE has a basically defunct battery and I’ve never actually had a…",
    "section": "crowdsourced",
    "recommender": "Tyler (reader)"
@@ -349,8 +428,10 @@
    "name": "The Lonely Island and Seth Meyers Podcast",
    "url": "https://the-lonely-island-and-seth-meyers-podcast-7a1ee071.simplecast.com/episodes/the-lonely-island-beginnings",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "I’ve been really enjoying the new podcast from Seth Meyers and The Lonely Island. As well as being deeply silly, it’s a fascinating look behind the scenes of SNL at what went into making the legendary SNL Digital Shorts. It’s inventively called The Lonely Island and Seth Meyers Podcast .",
    "section": "crowdsourced",
    "recommender": "Jonathan (reader)"
@@ -360,8 +441,12 @@
    "name": "Lunch Money",
    "url": "https://lunchmoney.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "subscription",
+    "web"
+   ],
    "blurb": "I recommend that you check out Lunch Money . I’ve been using this solopreneur-built app to organize my finances for the past couple of years. It’s been wonderful to use and has taught me financial discipline. It’s one of the few subscriptions that I’m happy to pay for.",
    "section": "crowdsourced",
    "recommender": "Akshobhya (reader)"
@@ -384,8 +469,10 @@
    "name": "The Besties",
    "url": "https://the-besties.simplecast.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "On the recommendation of my fav gaming podcast, The Besties , I’ve been playing Slice & Dice for iOS — it’s an RPG battler where all attacks, both yours and your enemies’, are determined by actual dice rolling around a virtual dice tray, and instead of leveling up to get better weapons, you get…",
    "section": "crowdsourced",
    "recommender": "Nick (reader)"
@@ -395,8 +482,11 @@
    "name": "Slice & Dice",
    "url": "https://tann.fun/games/dice/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "paid"
+   ],
    "blurb": "On the recommendation of my fav gaming podcast, The Besties , I’ve been playing Slice & Dice for iOS — it’s an RPG battler where all attacks, both yours and your enemies’, are determined by actual dice rolling around a virtual dice tray, and instead of leveling up to get better weapons, you get…",
    "section": "crowdsourced",
    "recommender": "Nick (reader)"
@@ -406,8 +496,12 @@
    "name": "CropSize",
    "url": "https://www.cropsize.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "utilities",
+    "photography"
+   ],
    "blurb": "I wanted to share the app CropSize for iOS. I find myself taking multiple screenshots on social media (usually memes) and find it super cumbersome to have to crop every tweet or Instagram post so my friends don’t see the entirety of my feed.",
    "section": "crowdsourced",
    "recommender": "Keyser (reader)"
@@ -430,8 +524,13 @@
    "name": "AntennaPod",
    "url": "https://antennapod.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android",
+    "podcast",
+    "open-source",
+    "free"
+   ],
    "blurb": "I changed podcast providers to AntennaPod from Pocket Casts, just got sick of the upselling and paywalls in the app. Weird to think I’d rather have an app that was less feature-rich than one that offered the extras for a subscription fee. Also it’s a very good app and I’m happy I made the change.",
    "section": "crowdsourced",
    "recommender": "Benjamin (reader)"
@@ -454,8 +553,10 @@
    "name": "Fallout 3",
    "url": "https://fallout.bethesda.net/en/games/fallout-3",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "windows"
+   ],
    "blurb": "​​The Fallout show got me hooked to head back into the Wasteland again... Gone back to my favorite, Fallout 3 .",
    "section": "crowdsourced",
    "recommender": "Max (reader)"
@@ -465,8 +566,10 @@
    "name": "Mistborn",
    "url": "https://www.brandonsanderson.com/the-mistborn-saga-the-original-trilogy/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Reading Mistborn by Brandon Sanderson, setting up my first NAS, and hoping that the weather cooperates for me to go play Disc Golf this weekend.",
    "section": "crowdsourced",
    "recommender": "Dylan (reader)"

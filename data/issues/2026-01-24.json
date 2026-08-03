@@ -22,8 +22,11 @@
    "name": "Todoist Ramble",
    "url": "https://www.todoist.com/ramble",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
    "blurb": "This is one of my favorite AI things on the internet, and it just came out of beta. You just start an audio recording and brain dump everything in your head, and Todoist does an impressively good job of turning it into projects, tasks, and deadlines.",
    "section": "the-drop",
    "recommender": null
@@ -35,8 +38,11 @@
    "alt_urls": [
     "https://www.theverge.com/tech/864595/nexphone-android-linux-windows-11"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android",
+    "windows"
+   ],
    "blurb": "One phone, three operating systems. This midrange Android phone (which is more than a decade in the making) also comes with Linux and Windows installed , so you can in theory use it as your primary computer as well. It won’t ship for a while, and I do have some questions.",
    "section": "the-drop",
    "recommender": null
@@ -59,8 +65,12 @@
    "name": "Crossplay",
    "url": "https://www.nytimes.com/games/crossplay",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android",
+    "subscription"
+   ],
    "blurb": "The newest New York Times word game, and its first multiplayer one! Big win for Wordle -ing couples everywhere. It’s basically Words with Friends with nicer design and fewer ads, and I mean that as a pretty high compliment. I just wish it didn’t require downloading a separate app.",
    "section": "the-drop",
    "recommender": null
@@ -70,8 +80,10 @@
    "name": "MIO: Memories in Orbit",
    "url": "https://www.focus-entmt.com/en/games/mio-memories-in-orbit",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "paid"
+   ],
    "blurb": "I’ve seen some reviews putting this game alongside Silksong and Clair Obscur: Expedition 33 , which is outrageously high indie-game praise. In addition to being absolutely gorgeous, it appears to be gleefully, punishingly difficult, and I suspect that’s going to work for a lot of people.",
    "section": "the-drop",
    "recommender": null
@@ -81,8 +93,10 @@
    "name": "The Sony LinkBuds Clip",
    "url": "https://www.tkqlhce.com/click-8836598-15268034?url=https%3A%2F%2Felectronics.sony.com%2Faudio%2Fheadphones%2Fall-headphones%2Fp%2Fwflc900-c",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "I have started to see this style of clip-on, open-ear earbuds absolutely everywhere, and I kind of love it. Sony’s noise canceling and microphones are typically among the best you’ll find, so I’m curious to see what it can do with this new shape.",
    "section": "the-drop",
    "recommender": null
@@ -95,8 +109,10 @@
     "https://keeptalkinggame.com",
     "https://www.theverge.com/games/864630/tr49-review-steam-iphone"
    ],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "paid"
+   ],
    "blurb": "I love a good figure-out-the-machine game ( Keep Talking and Nobody Explodes is one of my all-time faves), and this is a great one . You’re dropped in front of a WWII-era computer and have to figure out how to use it. And what’s going on.",
    "section": "the-drop",
    "recommender": null
@@ -132,8 +148,11 @@
    "name": "Boomerang Fu",
    "url": "https://www.boomerangfu.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "cross-platform",
+    "paid"
+   ],
    "blurb": "A friend recently introduced us to Boomerang Fu . As adorable anthropomorphic foods, you hurl boomerangs to neatly slice each other in madcap local multiplayer chaos rounds. Remaining the last food standing as the various power-ups stack up becomes increasingly hilarious.",
    "section": "crowdsourced",
    "recommender": null
@@ -143,8 +162,12 @@
    "name": "Clawdbot",
    "url": "https://clawd.bot/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "open-source",
+    "free"
+   ],
    "blurb": "Clawdbot . It runs on your machine and you can message it using Telegram, WhatsApp, Discord, Slack, or even iMessage, whichever is most accessible to you — and it can do anything you’d expect from something like Claude Code or ChatGPT Codex.",
    "section": "crowdsourced",
    "recommender": "Drake (reader)"
@@ -154,8 +177,11 @@
    "name": "Bazzite",
    "url": "https://bazzite.gg/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free"
+   ],
    "blurb": "Going on two weeks with Bazzite after switching from Windows on my main gaming PC!",
    "section": "crowdsourced",
    "recommender": null
@@ -165,8 +191,10 @@
    "name": "Dirtywave M8",
    "url": "https://dirtywave.com/products/m8-tracker-model-02",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "I’m convinced musicians have the best gadgets. Right now, I’m putting hours upon hours into the Dirtywave M8 , which is the most compact, powerful music-making tool. It’s also made by a single person. It even comes with a hex key, welcoming you to repair and mod it yourself.",
    "section": "crowdsourced",
    "recommender": "Jakub (reader)"
@@ -176,8 +204,10 @@
    "name": "OP-XY",
    "url": "https://teenage.engineering/products/op-xy",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "I’m convinced musicians have the best gadgets. Right now, I’m putting hours upon hours into the Dirtywave M8 , which is the most compact, powerful music-making tool. It’s also made by a single person. It even comes with a hex key, welcoming you to repair and mod it yourself.",
    "section": "crowdsourced",
    "recommender": "Jakub (reader)"
@@ -200,8 +230,10 @@
    "name": "Kingdom Come: Deliverance 2",
    "url": "https://www.deepsilver.com/games/kingdom-come-deliverance-ii",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "paid"
+   ],
    "blurb": "I’m ready for a cozy weekend playing the Legacy of the Forge DLC for Kingdom Come: Deliverance 2 . It’s so nice to see Henry (the main character) become a homeowner after such a rough ride navigating the politics of medieval Bohemia.",
    "section": "crowdsourced",
    "recommender": "Alex (reader)"
@@ -211,8 +243,12 @@
    "name": "Alma",
    "url": "https://www.alma.food/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "fitness",
+    "ios"
+   ],
    "blurb": "I’m really enjoying Alma as a food-tracking tool. It’s a great use of AI, where I can just casually type out what I’m eating and it will figure out the macros.",
    "section": "crowdsourced",
    "recommender": "Michael (reader)"
@@ -235,8 +271,11 @@
    "name": "PowerWash Simulator 2",
    "url": "https://www.futurlab.co.uk/games/powerwash-simulator-2",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "paid",
+    "cross-platform"
+   ],
    "blurb": "I held out for a while, but I eventually gave in and bought PowerWash Simulator 2 . As a result, I’ve completely abandoned all real chores around the house.",
    "section": "crowdsourced",
    "recommender": "Nic (reader)"

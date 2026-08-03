@@ -25,8 +25,10 @@
    "alt_urls": [
     "https://helloweather.com/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
    "blurb": "Years after it was acquired by Apple and went away, there’s still no good replacement for Dark Sky. (Though I have been pretty happy with Hello Weather !) Super exciting to see the team go back out on their own, and I already like what they’re up to with their new iOS app.",
    "section": "the-drop",
    "recommender": null
@@ -38,8 +40,10 @@
    "alt_urls": [
     "https://www.theverge.com/tech/884337/samsung-galaxy-s26-ultra-privacy-display-price"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "A relatively minor upgrade this year, but I think the built-in privacy display is a genuinely great new bit of hardware. Terrible for me, an incorrigible snoop of other people’s phones, but probably a good thing for society at large. And really cleverly implemented!",
    "section": "the-drop",
    "recommender": null
@@ -62,8 +66,11 @@
    "alt_urls": [
     "https://www.theverge.com/tech/875154/how-to-watch-olympics-nintendo-muppets-installer"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "This is from last week, but it feels relevant: This is the RSS app Terry Godier promised a couple of issues ago ! It’s clean, it’s quiet, it feels practically meditative next to most RSS readers. It’s not exactly meant for my frenetic newsgathering use case, but wow is it nice to use.",
    "section": "the-drop",
    "recommender": null
@@ -75,8 +82,12 @@
    "alt_urls": [
     "https://www.monologue.to/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "android",
+    "productivity"
+   ],
    "blurb": "The more I use these cross-app, AI-powered dictation apps, the more I enjoy talking instead of typing on all my devices. There are a lot of good apps on iOS (including Monologue , which launched last week!), but Android is woefully underserved. This is a welcome addition to the options.",
    "section": "the-drop",
    "recommender": null
@@ -99,8 +110,12 @@
    "name": "Notion Custom Agents",
    "url": "https://www.notion.com/blog/introducing-custom-agents",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "productivity",
+    "subscription"
+   ],
    "blurb": "Notion is doing a really good job of bringing AI features to the tools you’re already using, and I keep hearing good things about custom agents. They know where your data is, they can build almost anything, they’re totally autonomous... vibe coding, but make it business.",
    "section": "the-drop",
    "recommender": null
@@ -123,8 +138,11 @@
    "name": "The New York Times Midi.",
    "url": "https://www.nytimes.com/crosswords/game/midi",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "subscription"
+   ],
    "blurb": "Oh, what’s that? Another crossword to do every day instead of working, that won’t be punishingly difficult half the time but also will take more than 34 seconds to complete? Oh okay cool sounds great I will do it every day forever thanks.",
    "section": "the-drop",
    "recommender": null
@@ -134,8 +152,11 @@
    "name": "YouTube Premium Lite",
    "url": "https://blog.youtube/news-and-events/youtube-premium-lite-background-play-downloads/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "subscription",
+    "video"
+   ],
    "blurb": "This is mostly a PSA, because I didn’t know this tier even existed. But now that it includes video downloads and (most importantly) background playback, Premium Lite is about half the price of Premium but has almost all of the best features. I might need to downgrade.",
    "section": "the-drop",
    "recommender": null
@@ -156,8 +177,13 @@
    "name": "the MTA app",
    "url": "https://www.mta.info/guides/apps",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "travel",
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "I’m especially dependent on Notes, and here you can see my three main categories of Note: things I need to do, things I need to buy, thoughts I probably would have tweeted a few years ago.",
    "section": "screen-share",
    "recommender": "Meredith"
@@ -167,8 +193,11 @@
    "name": "New York Metro Weather Instagram account",
    "url": "https://www.instagram.com/nymetroweather/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "social",
+    "free"
+   ],
    "blurb": "I’m especially dependent on Notes, and here you can see my three main categories of Note: things I need to do, things I need to buy, thoughts I probably would have tweeted a few years ago.",
    "section": "screen-share",
    "recommender": "Meredith"
@@ -265,8 +294,10 @@
    "name": "Marathon",
    "url": "https://www.marathonthegame.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "beta"
+   ],
    "blurb": "Marathon (a new extraction shooter game by Bungie) is having an open play-test / demo this weekend so that’s what I’ll be into for the next few days.",
    "section": "crowdsourced",
    "recommender": "Janego (reader)"
@@ -287,8 +318,13 @@
    "name": "Apple Passwords",
    "url": "https://support.apple.com/en-us/120758",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "utilities",
+    "ios",
+    "mac"
+   ],
    "blurb": "Since 1Password have upped their price I’ve spent a few hours moving over to Apple Passwords and Uplock . Was mostly okay, but it’s a shame you can’t transfer over all your passkeys to Apple Passwords. Uplock having a lifetime purchase is a big plus.",
    "section": "crowdsourced",
    "recommender": "Matthew (reader)"
@@ -298,8 +334,12 @@
    "name": "Uplock",
    "url": "https://uplock.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "utilities",
+    "ios",
+    "mac"
+   ],
    "blurb": "Since 1Password have upped their price I’ve spent a few hours moving over to Apple Passwords and Uplock . Was mostly okay, but it’s a shame you can’t transfer over all your passkeys to Apple Passwords. Uplock having a lifetime purchase is a big plus.",
    "section": "crowdsourced",
    "recommender": "Matthew (reader)"
@@ -335,8 +375,12 @@
    "name": "Fastmail",
    "url": "https://www.fastmail.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "paid",
+    "cross-platform",
+    "productivity"
+   ],
    "blurb": "I just yesterday switched my family from my grandfathered free Google Apps plan for our custom domain email to Fastmail . Fastmail is private but supports industry standard IMAP and CalDAV protocols, so we can use the built-in mail apps on our phones and computers.",
    "section": "crowdsourced",
    "recommender": "Mike (reader)"
@@ -346,8 +390,11 @@
    "name": "Comedy Bang Bang!",
    "url": "https://landing.podtrac.com/comedybangbang",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "free"
+   ],
    "blurb": "I’ve been listening to Comedy Bang Bang! Still super funny. Big Paul F. Tompkins fan.",
    "section": "crowdsourced",
    "recommender": "Mo (reader)"
@@ -357,7 +404,7 @@
    "name": "Star Trek Voyager: Across the Unknown",
    "url": "https://www.stvatu.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Star Trek Voyager: Across the Unknown . Despite the occasionally brutal RNG, it’s so fun to be able to dive into my favourite Trek stories and tweak the outcomes.",
    "section": "crowdsourced",
@@ -418,8 +465,12 @@
    "name": "Paul Ford’s blog",
    "url": "https://ftrain.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "web",
+    "website"
+   ],
    "blurb": "This winter has been a disaster, where I live and many other places. So much snow, so many snow days, so much chaos. First of all, I hope you’ve all stayed safe and warm and well! Second of all, there is one bit of good news in all this: Casey Neistat is out in New York City vlogging again .",
    "section": "signing-off",
    "recommender": null

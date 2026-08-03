@@ -53,8 +53,11 @@
    "name": "The Onn Google TV 4K Plus",
    "url": "https://www.walmart.com/ip/ONN-4K-PLUS/15557424949?irgwc=1&veh=aff&wmlspartner_creator=imp_5184608&affiliates_ad_id_creator=1398372&campaign_id_creator=16662&clickid=UwNSppzFOxycU4JTvRz8q3EyUksTiWz503VeX00&sourceid=imp_UwNSppzFOxycU4JTvRz8q3EyUksTiWz503VeX00",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "tv",
+    "video"
+   ],
    "blurb": "“A weirdly named, super-cheap set-top box from Walmart” is not a great pitch. But for $30, you’re not beating this thing’s combination of Google TV, Dolby Vision, and 4K. Onn stuff has been pretty good in the past, so I suspect this one will be pretty compelling.",
    "section": "the-drop",
    "recommender": null
@@ -67,8 +70,13 @@
     "https://play.google.com/store/apps/details?id=com.google.android.apps.labs.language.tailwind&pli=1",
     "https://apps.apple.com/us/app/google-notebooklm/id6737527615?pt=9008&ct=googleblog"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "android",
+    "ios",
+    "productivity"
+   ],
    "blurb": "The Android and iOS versions are both fine and both useful for the same reason: you can send stuff to your notebooks via the share sheet. If you’re a fan of the podcast-y Audio Overviews, they’re also a great thing to have on the go.",
    "section": "the-drop",
    "recommender": null
@@ -91,8 +99,11 @@
    "name": "The Virtual Stream Deck",
    "url": "https://elgato.sjv.io/xLXZP1",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "video"
+   ],
    "blurb": "This is so clever: Elgato is turning its collection of smart buttons from a lineup of gadgets to a full-on platform that you can either build into other hardware or just run on a screen.",
    "section": "the-drop",
    "recommender": null
@@ -102,7 +113,7 @@
    "name": "Monster Train 2",
    "url": "https://www.bigfangames.com/games/monster-train-2",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I love the structure of this game: a deck-building game that is endlessly repeatable but also complex enough that you never quite play the same game twice. I somehow missed the first game in the series entirely, and I’m going to have to give that a whirl, too.",
    "section": "the-drop",
@@ -115,8 +126,11 @@
    "alt_urls": [
     "https://press.strava.com/articles/strava-unveils-suite-of-new-subscriber-features"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "fitness",
+    "cross-platform"
+   ],
    "blurb": "Strava’s an Installerverse favorite, and it got a bunch of new features this week. But, for my money, the biggest upgrade is the routing system, which generates the best route between two points; I love a good “map me the run to this donut shop” feature.",
    "section": "the-drop",
    "recommender": null
@@ -137,8 +151,12 @@
    "name": "Brave",
    "url": "https://brave.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "free",
+    "cross-platform"
+   ],
    "blurb": "I have a very boring homescreen! I try not to use too many apps. When I set up a phone, the first thing I do is delete as many of the default apps as possible.",
    "section": "screen-share",
    "recommender": "Karen"
@@ -148,8 +166,12 @@
    "name": "GuitarTuna",
    "url": "https://yousician.com/guitar-tuner",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "ios",
+    "android"
+   ],
    "blurb": "The second: under my Audio folder, I have a guitar-tuning app, GuitarTuna , for the rare moments I fiddle with my guitar at home. Music was a big part of my childhood, but I haven’t made nearly enough time for it as an adult.",
    "section": "screen-share",
    "recommender": "Karen"
@@ -159,8 +181,11 @@
    "name": "Empire",
    "url": "https://empirepod.supportingcast.fm/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "free"
+   ],
    "blurb": "The Empire podcast, cohosted by historian William Dalrymple and Anita Anand. Wicked cast tour videos on YouTube (yes, I sing along to every song). Late-night comedy YouTube.",
    "section": "screen-share",
    "recommender": "Karen"
@@ -183,8 +208,10 @@
    "name": "Elite Obsolete Electronics",
    "url": "https://eoe.works/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "music"
+   ],
    "blurb": "YouTube has recently radicalized me to digital minimalism and decentralized tech. What started as deleting ALL social media from my iPhone and relegating the apps to my iPad is now firmly in the realm of buying old iPods from eBay and repairing them with modern parts.",
    "section": "crowdsourced",
    "recommender": "Nicholas (reader)"
@@ -194,8 +221,12 @@
    "name": "RockBox",
    "url": "https://www.rockbox.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "music"
+   ],
    "blurb": "YouTube has recently radicalized me to digital minimalism and decentralized tech. What started as deleting ALL social media from my iPhone and relegating the apps to my iPad is now firmly in the realm of buying old iPods from eBay and repairing them with modern parts.",
    "section": "crowdsourced",
    "recommender": "Nicholas (reader)"
@@ -205,7 +236,7 @@
    "name": "ToAuto DS90 Soldering Station",
    "url": "https://www.toautotool.com/products/toauto-ds90-soldering-station-110v",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "YouTube has recently radicalized me to digital minimalism and decentralized tech. What started as deleting ALL social media from my iPhone and relegating the apps to my iPad is now firmly in the realm of buying old iPods from eBay and repairing them with modern parts.",
    "section": "crowdsourced",
@@ -216,8 +247,11 @@
    "name": "IntoWallet",
    "url": "https://intowallet.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "utilities"
+   ],
    "blurb": "What if you could add any plain old QR Code/barcode card to your Apple Wallet? Lucky for you, the greatest minds of our time have come together to solve this inconvenience. Try IntoWallet and get as blown away as I was when it just worked (also the level of customization and the price are great!).",
    "section": "crowdsourced",
    "recommender": "Teo (reader)"
@@ -227,8 +261,10 @@
    "name": "Revelation Space",
    "url": "https://store.gollancz.co.uk/products/revelation-space",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’ve REALLY enjoyed the Revelation Space series by Alastair Reynolds. For lovers of hard sci-fi space operas this is for you. Engaging, dark, wild ideas and concepts, plenty of real and imagined science and physics all weaved into interesting stories.",
    "section": "crowdsourced",
    "recommender": "Tyler (reader)"
@@ -238,8 +274,12 @@
    "name": "Happier",
    "url": "https://thehappierapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness",
+    "subscription",
+    "ios"
+   ],
    "blurb": "I’ve personally managed to seriously build my meditation practice in the last two years using both Happier and Calm . I especially enjoy the meditations by teacher Jeff Warren, who strikes the right balance with his light and playful tone.",
    "section": "crowdsourced",
    "recommender": "Jeroen (reader)"
@@ -249,8 +289,12 @@
    "name": "Calm",
    "url": "https://www.calm.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness",
+    "subscription",
+    "cross-platform"
+   ],
    "blurb": "I’ve personally managed to seriously build my meditation practice in the last two years using both Happier and Calm . I especially enjoy the meditations by teacher Jeff Warren, who strikes the right balance with his light and playful tone.",
    "section": "crowdsourced",
    "recommender": "Jeroen (reader)"
@@ -260,8 +304,10 @@
    "name": "Casper Glow",
    "url": "https://casper.prf.hn/click/camref:1100l46JU6/%5Bp_id:1011l394533%5D/destination:https%3A%2F%2Fcasper.com%2Fproducts%2Fglow",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "I’ve had the Casper Glow lamp since 2019 and it’s still going strong! Love the interaction, twisting it and flipping it to control the light, and I even helped sell two (unsponsored) to an old roommate when he moved to his own place.",
    "section": "crowdsourced",
    "recommender": "SingYu (reader)"
@@ -271,8 +317,10 @@
    "name": "Star Wars: The Rise and Fall of the Galactic Empire",
    "url": "https://www.dk.com/us/book/9780744098822-star-wars-the-rise-and-fall-of-the-galactic-empire/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Post Andor I’ve been reading through Star Wars: The Rise and Fall of the Galactic Empire .",
    "section": "crowdsourced",
    "recommender": "Allen (reader)"
@@ -282,7 +330,7 @@
    "name": "Teenage Engineering case",
    "url": "https://teenage.engineering/products/computer-1",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Setup is (90%) finished! Rocking a Teenage Engineering case , HP G4 Dock , UGREEN USB Switcher , and a $60 standing desk from Facebook Marketplace.",
    "section": "crowdsourced",
@@ -293,7 +341,7 @@
    "name": "HP G4 Dock",
    "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://www.hp.com/us-en/monitors-accessories/computer-accessories/thunderbolt-G4-dock.html",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Setup is (90%) finished! Rocking a Teenage Engineering case , HP G4 Dock , UGREEN USB Switcher , and a $60 standing desk from Facebook Marketplace.",
    "section": "crowdsourced",
@@ -304,7 +352,7 @@
    "name": "UGREEN USB Switcher",
    "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://www.ugreen.com/collections/hdmi-switch/products/ugreen-usb-3-0-4-port-switch",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Setup is (90%) finished! Rocking a Teenage Engineering case , HP G4 Dock , UGREEN USB Switcher , and a $60 standing desk from Facebook Marketplace.",
    "section": "crowdsourced",
@@ -315,8 +363,12 @@
    "name": "Wallabag",
    "url": "https://wallabag.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free",
+    "web"
+   ],
    "blurb": "I suppose I should give Wallabag an honorable mention, because you can host it yourself, but it’s a much more involved project. If I were just moving over from Pocket and just wanted a nice place to read without a long list of other feature requests, I’d start with Instapaper.",
    "section": "signing-off",
    "recommender": null

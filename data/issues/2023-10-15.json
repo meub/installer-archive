@@ -26,8 +26,12 @@
    "alt_urls": [
     "https://blog.omnivore.app/p/octobers-updates-newsletter"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "open-source",
+    "productivity"
+   ],
    "blurb": "One of the best (and free and open-source) read-later apps got a bunch of updates this week — better highlighting, better text-to-speech — but I’m really into the upgraded browser extension, which makes organizing much easier.",
    "section": "the-drop",
    "recommender": null
@@ -37,7 +41,7 @@
    "name": "The Verge ’s dbrand collab",
    "url": "https://dbrand.com/coupon/the-verge-installer",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Yes, this is brazen self-promotion, but I just got the skin I ordered, and honestly, it looks awesome. We worked with dbrand on phone cases, skins, chargers, and more.",
    "section": "the-drop",
@@ -48,8 +52,10 @@
    "name": "How Do We Fix It? “ The Polarization Series.”",
    "url": "https://shows.acast.com/howdowefixit/episodes/polarization-series-is-social-media-to-blame-professor-chris",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "I’m new to this podcast but have been enjoying the three-episode arc on the current broken state of American politics, how we got here, and where we go next. I took a particularly large number of notes on the episode about whether social media is to blame.",
    "section": "the-drop",
    "recommender": null
@@ -61,8 +67,10 @@
    "alt_urls": [
     "https://www.theverge.com/2023/10/10/23911145/space-os-deta-personal-cloud-computer"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web"
+   ],
    "blurb": "The idea is super compelling: a personal, private computer in the cloud that is completely yours and not subject to the whims of app providers and social platforms.",
    "section": "the-drop",
    "recommender": null
@@ -86,8 +94,10 @@
     "https://www.theverge.com/23757846/flip-phones-forever-motorola-razr-samsung",
     "https://www.theverge.com/2023/10/10/23911156/motorola-razr-edge-2023-flip-phone-price-availability"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "I think flip phones are the future of phones . I really do. And so I’m psyched to see Motorola showing up with a flip phone designed to manage your relationship with your phone, and most importantly, it’s $699.99 — a lot cheaper than other flip phones we’ve seen.",
    "section": "the-drop",
    "recommender": null
@@ -123,8 +133,12 @@
    "name": "ActivityPub for WordPress",
    "url": "https://wordpress.com/blog/2023/10/11/activitypub/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "social",
+    "web",
+    "open-source"
+   ],
    "blurb": "This is a huge deal: it means anyone with a site on WordPress.com, which is an awful lot of people, can now automatically syndicate their stuff to Mastodon, Pixelfed, and the rest of the fediverse. I’m all in on the open web future of social, and this is a big step in that direction.",
    "section": "the-drop",
    "recommender": null
@@ -151,8 +165,11 @@
    "alt_urls": [
     "https://testflight.apple.com/join/gXcXyTz0"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "The overall favorite. Sequel was by far the most-recommended app in my inbox this week. It is sadly only for Apple devices, but folks love its design, the fact that it can track basically all kinds of media, its notifications for new stuff, the extra info it adds, and more.",
    "section": "group-project",
    "recommender": null
@@ -166,8 +183,11 @@
     "https://apps.apple.com/us/app/play-save-videos-watch-later/id1596506190",
     "https://alexandremadeira.dev/cronica/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "The all-in-one apps. Sofa was probably the second most popular recommendation. Everybody also seems to love the design of Trakt , Play is a nifty up-and-comer, and Cronica has some fans, too.",
    "section": "group-project",
    "recommender": null
@@ -189,8 +209,12 @@
     "https://www.last.fm/",
     "https://gametrack.app/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "movie",
+    "tv",
+    "free"
+   ],
    "blurb": "The media-specific apps. For movies, lots of people recommended Reelgood and JustWatch , and there was a lot of love for Letterboxd as well. For TV shows, Hobi seems to be a favorite, and SeriesGuide and TV Club both came up a few times, too.",
    "section": "group-project",
    "recommender": null
@@ -203,8 +227,12 @@
     "https://www.instapaper.com/",
     "https://getpocket.com/en/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform",
+    "free"
+   ],
    "blurb": "Drop them in a link bucket. I heard from a few people who use bookmarking tools like Raindrop , into which you can just drop IMDb or YouTube or Amazon links. Others used Instapaper and Pocket for saving links.",
    "section": "group-project",
    "recommender": null
@@ -217,8 +245,13 @@
     "https://todoist.com/",
     "https://to-do.office.com/tasks/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "ios",
+    "mac",
+    "paid"
+   ],
    "blurb": "Make them tasks. A bunch of you are repurposing to-do list apps like Things , Todoist , and Microsoft To Do as ways to track this stuff — some have it in a big “Stuff to Consume” list; others have it separated by media type.",
    "section": "group-project",
    "recommender": null
@@ -228,7 +261,7 @@
    "name": "Go to the source",
    "url": null,
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "I heard from folks who keep their to-watch list in IMDb, their shopping list in their Amazon account, their podcast recommendations in Overcast, and their music queue in their Spotify library. The goal, it seems, is just to dump everything where it’ll end up anyway.",
    "section": "group-project",
@@ -239,8 +272,10 @@
    "name": "Just keep a list",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "Notion; Apple Notes; Evernote; Anytype; Bear; Obsidian; Capacities; Google Keep; OneNote; lots and lots of others. So many of you said the best thing to do is just write everything down somewhere — ideally, somewhere you’ll find it again — and be done with it.",
    "section": "group-project",
    "recommender": null
@@ -261,8 +296,11 @@
    "name": "Artifact",
    "url": "https://artifact.news/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "free"
+   ],
    "blurb": "Artifact . This little AI newsreading app from the Instagram co-founders is shipping new features faster than any product on the consumer internet. I increasingly discover news there that I put in Platformer , and I always find something interesting that I haven’t seen before.",
    "section": "screen-share",
    "recommender": "Casey"
@@ -272,8 +310,11 @@
    "name": "Bonk",
    "url": "https://bonkbonkbonk.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "Artifact . This little AI newsreading app from the Instagram co-founders is shipping new features faster than any product on the consumer internet. I increasingly discover news there that I put in Platformer , and I always find something interesting that I haven’t seen before.",
    "section": "screen-share",
    "recommender": "Casey"
@@ -283,8 +324,12 @@
    "name": "bonkbonkbonk.app",
    "url": "https://bonkbonkbonk.app",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "website",
+    "free"
+   ],
    "blurb": "Artifact . This little AI newsreading app from the Instagram co-founders is shipping new features faster than any product on the consumer internet. I increasingly discover news there that I put in Platformer , and I always find something interesting that I haven’t seen before.",
    "section": "screen-share",
    "recommender": "Casey"
@@ -294,8 +339,11 @@
    "name": "ChatGPT",
    "url": "https://chat.openai.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "free"
+   ],
    "blurb": "Artifact . This little AI newsreading app from the Instagram co-founders is shipping new features faster than any product on the consumer internet. I increasingly discover news there that I put in Platformer , and I always find something interesting that I haven’t seen before.",
    "section": "screen-share",
    "recommender": "Casey"
@@ -305,8 +353,10 @@
    "name": "Dex",
    "url": "https://getdex.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "Dex . It’s a ‘personal rolodex’ app: it lets you take notes about people in your life, set reminders to follow up, keep track of birthdays, and sync with Gmail / LinkedIn. For a freelancer, my memory skills leave much to be desired.",
    "section": "crowdsourced",
    "recommender": "both professionally and socially.” – Ryan (reader)"
@@ -338,8 +388,11 @@
    "name": "BrowserFairy",
    "url": "https://www.browserfairy.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "utilities"
+   ],
    "blurb": "I use multiple browsers for different things, then I use BrowserFairy to automatically route apps and sites to specific browsers. For my newsletters and related things to read, I have BrowserFairy open Microsoft Edge.",
    "section": "crowdsourced",
    "recommender": "Brent (reader)"
@@ -349,8 +402,10 @@
    "name": "Shelly RGBW",
    "url": "https://kb.shelly.cloud/knowledge-base/shelly-rgbw2",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "Making a smart lamp using a Shelly RGBW and a custom firmware mod to get it to work with Apple Home. Probably a huge home network security risk, but it works. Also, too much Stardew Valley on Apple Arcade.",
    "section": "crowdsourced",
    "recommender": "Timothy (reader)"
@@ -360,8 +415,10 @@
    "name": "Stardew Valley",
    "url": "https://www.stardewvalley.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "cross-platform"
+   ],
    "blurb": "Making a smart lamp using a Shelly RGBW and a custom firmware mod to get it to work with Apple Home. Probably a huge home network security risk, but it works. Also, too much Stardew Valley on Apple Arcade.",
    "section": "crowdsourced",
    "recommender": "Timothy (reader)"
@@ -371,8 +428,12 @@
    "name": "Agenda",
    "url": "https://www.agenda.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "ios",
+    "mac"
+   ],
    "blurb": "After years of trying to warm up to GTD apps, with little success, I finally tried Agenda , and it really works for me. I’m not using it for note-taking (I have Apple Notes, Google Keep, and Obsidian for that).",
    "section": "crowdsourced",
    "recommender": "David (reader)"
@@ -382,8 +443,10 @@
    "name": "Patrick Stewart’s new memoir",
    "url": "https://www.simonandschuster.com/books/Making-It-So/Patrick-Stewart/9781982167738",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Just got Patrick Stewart’s new memoir , and I’m super excited to read it! I also got to see him during his book tour, which was amazing.",
    "section": "crowdsourced",
    "recommender": "Aaron (reader)"
@@ -393,7 +456,7 @@
    "name": "a Nitro Deck from CKRD",
    "url": "https://crkd.gg/pages/nitro-deck",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Oh my god, I just got a Nitro Deck from CKRD , and it is absolutely my new favorite video game gadget. It’s a deck for the Switch, with Hall-effect joysticks, programmable rear bumpers, and a nice wide grip for big-handed folks like me that find the Joy-Cons cramped.",
    "section": "crowdsourced",
@@ -417,8 +480,12 @@
    "name": "Marvis",
    "url": "https://appaddy.wixsite.com/marvis",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "music",
+    "paid"
+   ],
    "blurb": "I used iTunes exclusively until about 2018, and though it was bad software by the end, it did offer a music nerd a lot of things that Spotify and some of the others do not. There is an iOS app called Marvis , which has a pro version that offers many of those features.",
    "section": "crowdsourced",
    "recommender": "John (reader)"

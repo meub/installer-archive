@@ -23,8 +23,12 @@
    "name": "Cleft Notes",
    "url": "https://www.cleftnotes.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity",
+    "ios"
+   ],
    "blurb": "I’ve been playing around with a lot of AI-powered voice notes apps, and this one might be the best yet. You just talk, and the app turns your unordered thoughts into nicely formatted notes — which you can always just toggle back into your transcripts.",
    "section": "the-drop",
    "recommender": null
@@ -51,8 +55,11 @@
    "alt_urls": [
     "https://www.theatlantic.com/technology/archive/2024/03/teen-childhood-smartphone-use-mental-health-effects/677722/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "social"
+   ],
    "blurb": "Remember that Atlantic story about the effect of phones and social media on kids that went mega-viral a couple of weeks ago? This is the book version.",
    "section": "the-drop",
    "recommender": null
@@ -75,8 +82,12 @@
    "name": "SigmaOS",
    "url": "https://sigmaos.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "mac",
+    "productivity"
+   ],
    "blurb": "This is a browser full of interesting ideas about how browsers should work. Most recently, the company rolled out a bunch of AI features for searching and summarizing the web. As a person who publishes on the internet, it makes me feel a lot of feelings. As a user, it’s pretty useful.",
    "section": "the-drop",
    "recommender": null
@@ -101,8 +112,12 @@
    "alt_urls": [
     "https://www.theverge.com/2024/3/25/24110545/spotify-online-courses-learning-video-test-uk-skillshare-bbc-maestro-playvirtuoso"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "music",
+    "video",
+    "subscription"
+   ],
    "blurb": "Every time Spotify launches a new thing, I have two thoughts. First, oh no, how is this going to further ruin the Spotify UI? Then, second, oh huh, I might actually use this. This week’s entrant: video and audio educational courses.",
    "section": "the-drop",
    "recommender": null
@@ -127,7 +142,7 @@
    "alt_urls": [
     "https://www.theverge.com/2024/3/28/24113566/8bitdo-commodore-64-retro-mechanical-keyboard-specs-release-date-price-features"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Thanks to everyone who emailed last week after my plea about keyboards! I’m looking at silent switches and the Logitech MX Keys, but my heart already belongs to this $110 device: a retro beige keyboard with all the flair and customization it deserves.",
    "section": "the-drop",
@@ -227,8 +242,11 @@
    "name": "Newcomers",
    "url": "https://headgum.com/newcomers",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "tv"
+   ],
    "blurb": "Watch content. During the pandemic, YouTube radicalized me to be into watches. On TikTok, I was being served a lot of Pawn Stars clips, and I loved it. Then, I realized all the clips were actually on YouTube , and that way, I wouldn’t need to worry about TikTok destroying my brain.",
    "section": "screen-share",
    "recommender": "Jesse"
@@ -238,8 +256,10 @@
    "name": "After Midnight",
    "url": "https://cbsallaccess.qflm.net/c/482924/224914/3065?u=https%3A%2F%2Fwww.cbs.com%2Fshows%2Fafter-midnight%2F",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "Watch content. During the pandemic, YouTube radicalized me to be into watches. On TikTok, I was being served a lot of Pawn Stars clips, and I loved it. Then, I realized all the clips were actually on YouTube , and that way, I wouldn’t need to worry about TikTok destroying my brain.",
    "section": "screen-share",
    "recommender": "Jesse"
@@ -260,8 +280,12 @@
    "name": "FoodNoms",
    "url": "https://www.foodnoms.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "fitness",
+    "ios"
+   ],
    "blurb": "Found a new macro tracker / food diary that I love — FoodNoms . It has the best AI feature I’ve seen in this category: it will guess at the approximate caloric / nutritional value of a meal, so if you go out for breakfast and don’t feel like trying to break down every ounce of that eggs Benedict…",
    "section": "crowdsourced",
    "recommender": "Nick (reader)"
@@ -284,8 +308,10 @@
    "name": "just now found out",
    "url": "https://www.theguardian.com/music/2024/mar/19/djo-joe-keery-interview-psychedelic-electro-pop-stranger-things",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "Addicted to playing ‘ End of Beginning ’ by Djo on loop and only just now found out that it’s by the side project of the cute floppy-haired guy from Stranger Things .",
    "section": "crowdsourced",
    "recommender": "Amy (reader)"
@@ -308,8 +334,10 @@
    "name": "the audiobook",
    "url": "https://read.macmillan.com/lp/the-three-body-problem-audiobook-9781250370600/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "3 Body Problem has consumed my week and my brain. Now that I’ve finished S1, I’m on to the audiobook , narrated by Rosalind Chao.",
    "section": "crowdsourced",
    "recommender": "Bud (reader)"
@@ -319,7 +347,7 @@
    "name": "Lego Technic Mars Crew Exploration Rover",
    "url": "https://www.lego.com/en-us/product/mars-crew-exploration-rover-42180",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I’m currently building the Lego Technic Mars Crew Exploration Rover . It just dropped this month!",
    "section": "crowdsourced",
@@ -330,7 +358,7 @@
    "name": "Plunderstorm",
    "url": "https://worldofwarcraft.blizzard.com/en-us/news/24073142/hoist-the-sails-a-plunderstorm-has-arrived",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Since you mentioned battle royales, Blizzard has just released a limited-time BR called Plunderstorm . It is accessible within the main menu of WoW, uses WoW assets and themes, but does not feature your player character and plays completely differently. It is the weirdest thing I’ve seen in ages.",
    "section": "crowdsourced",
@@ -376,7 +404,7 @@
    "name": "Dragon’s Dogma 2",
    "url": "https://www.dragonsdogma.com/2/en-us/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Dragon’s Dogma 2 had been occupying my brain space all week. It’s a marvelous mix of fantasy adventuring and a chaos simulator, with spectacular results.",
    "section": "crowdsourced",
@@ -400,7 +428,7 @@
    "name": "Marvel Snap",
    "url": "https://www.marvelsnap.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I used to watch everything from Marvel, but I don’t think I’m the only one who lost interest in the MCU. As a longtime Spidey and X-Men fan, I now scratch my Marvel itch with games. Card games for mobile and one for desktop. Marvel Snap is quite fun, and you can play (and win!)",
    "section": "crowdsourced",
@@ -411,7 +439,7 @@
    "name": "Midnight Suns",
    "url": "https://midnightsuns.2k.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I used to watch everything from Marvel, but I don’t think I’m the only one who lost interest in the MCU. As a longtime Spidey and X-Men fan, I now scratch my Marvel itch with games. Card games for mobile and one for desktop. Marvel Snap is quite fun, and you can play (and win!)",
    "section": "crowdsourced",

@@ -36,8 +36,10 @@
    "name": "The AirPods Max 2",
    "url": "https://www.apple.com/airpods-max/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "Honestly? It is outrageous to me that Apple updated these headphones without making them lighter or fixing that stupid charging case. But, in the sense that these are “AirPods Max only better,” they are better in a bunch of really useful ways. Just, I mean, the case. Come on.",
    "section": "the-drop",
    "recommender": null
@@ -60,8 +62,11 @@
    "name": "Netlify.New",
    "url": "https://app.netlify.com/start",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web"
+   ],
    "blurb": "I only recently discovered Netlify, which is an astonishingly simple way to deploy web apps. The platform’s newest feature — integrating AI agents so you can also create an app with a prompt — works surprisingly well, and is a fun way to noodle with some actually functional vibe-coded software.",
    "section": "the-drop",
    "recommender": null
@@ -71,8 +76,11 @@
    "name": "The Boox Go 10.3 Gen II",
    "url": "https://shop.boox.com/products/go103gen2",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android",
+    "book"
+   ],
    "blurb": "A nice update to a big ol’ e-reader. You get a new(er) version of Android, a nice front light (if you buy the Lumi model, which you should), and as ever all the Android apps you can stomach on an E Ink display.",
    "section": "the-drop",
    "recommender": null
@@ -95,8 +103,11 @@
    "name": "Claude Cowork Dispatch",
    "url": "https://support.claude.com/en/articles/13947068-assign-tasks-to-claude-from-anywhere-in-cowork",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
    "blurb": "Another day, another OpenClaw But Less Dangerous. I’m fascinated by the extent to which messaging apps are becoming the interface to these AI agents, and how much powerful stuff people are willing to do from their phones.",
    "section": "the-drop",
    "recommender": null
@@ -108,8 +119,11 @@
    "alt_urls": [
     "https://stitch.withgoogle.com/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web"
+   ],
    "blurb": "A big swing at Claude Code, done Gemini-style. I’ve heard good things about what people are building (and I’m also hearing good things about Stitch , the company’s new AI design system). Seems like we’re heading toward a really interesting, three-way battle to be your AI Everything App.",
    "section": "the-drop",
    "recommender": null
@@ -121,8 +135,10 @@
    "alt_urls": [
     "https://www.leuchtturm1917.us/classic-notebooks-1.html"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "The big winner in my inbox this week was this German company, whose Classic Notebooks appear to be pretty much universally loved. They come in lots of sizes and colors, but I heard the most love for the A5 size. I bought a couple.",
    "section": "group-project",
    "recommender": null
@@ -132,8 +148,10 @@
    "name": "Field Notes",
    "url": "https://fieldnotesbrand.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "No particular surprise here — there’s just nobody doing tiny, durable, well-designed notebooks the way Field Notes does. A few of you mentioned using these as more disposable companions to larger, more permanent notebooks, and I like that idea a lot.",
    "section": "group-project",
    "recommender": null
@@ -146,8 +164,10 @@
     "https://baronfig.com/products/confidant-hardcover-notebook",
     "https://baronfig.com/products/squire"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "A bunch of you love the Confidant notebook, which is also one I’ve used and liked in the past. Got a couple of votes for the Squire pen, too, which is $65 but y’all swear it’s worth it.",
    "section": "group-project",
    "recommender": null
@@ -157,8 +177,11 @@
    "name": "Traveler’s Company.",
    "url": "https://travelerscompanyusa.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity",
+    "travel"
+   ],
    "blurb": "This is a completely new brand to me, but it has not only popular notebooks but a whole ecosystem of accessories, charms, holders, and clips, so you can thoroughly overengineer your notebook setup. Very much my kind of thing.",
    "section": "group-project",
    "recommender": null
@@ -170,8 +193,10 @@
    "alt_urls": [
     "https://www.lamy.com/en-us/p/lamy-cp1-rollerball-pen/55111650083150"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "The LAMY Safari , and the upgraded CP1 .",
    "section": "group-project",
    "recommender": null
@@ -181,8 +206,10 @@
    "name": "Fisher Space Pen",
    "url": "https://www.spacepen.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "The Fisher Space Pen .",
    "section": "group-project",
    "recommender": null
@@ -192,8 +219,10 @@
    "name": "LePen Le Pen",
    "url": "https://mylepen.com/collections/le-pen/products/le-pen",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "The LePen Le Pen .",
    "section": "group-project",
    "recommender": null
@@ -205,8 +234,10 @@
    "alt_urls": [
     "https://www.unibrands.co/products/jetstream-rt-ballpoint-pens?variant=39362274656462"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "The Uni-Ball Eye Fine and JetStream .",
    "section": "group-project",
    "recommender": null
@@ -218,8 +249,10 @@
    "alt_urls": [
     "https://www.theverge.com/24066524/pilot-pen-precise-refillable-v5-v7-availability"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "The Pilot Precise V5 . (No one wrote in about this, but my colleague Liz will kill me if I don’t mention her favorite pen in the whole wide world .)",
    "section": "group-project",
    "recommender": null
@@ -229,8 +262,11 @@
    "name": "Fela Kuti: Fear No Man",
    "url": "https://pod.link/1835735529",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "music"
+   ],
    "blurb": "Just finished part one of 13 of Fela Kuti: Fear No Man , which had completely passed me by until I saw it on both The New Yorker ’s and The Guardian ’s end-of-year podcast lists.",
    "section": "crowdsourced",
    "recommender": "Richard (reader)"
@@ -240,8 +276,11 @@
    "name": "Wikipedia Gacha",
    "url": "https://wikigacha.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "Unfortunately, I’ve become slightly obsessed with Wikipedia Gacha , the new Wikipedia card-collecting game.",
    "section": "crowdsourced",
    "recommender": "Yoinks (reader)"
@@ -251,8 +290,12 @@
    "name": "Rekindle",
    "url": "https://rekindle.ink/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "free",
+    "utilities"
+   ],
    "blurb": "I just found out about the Rekindle site, which adds a load of tools / games / utilities to your Kindle through the browser in an E Ink-friendly webpage!",
    "section": "crowdsourced",
    "recommender": "Andrew (reader)"
@@ -301,8 +344,12 @@
    "name": "Strongbox",
    "url": "https://strongboxsafe.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "utilities"
+   ],
    "blurb": "As 1Password increased the price I tried Strongbox and it is even nicer.",
    "section": "crowdsourced",
    "recommender": "Serghei (reader)"
@@ -312,8 +359,10 @@
    "name": "Esoteric Ebb",
    "url": "https://esotericebb.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "paid"
+   ],
    "blurb": "After what felt like a street-level advertising blitz this past Friday, I picked up Esoteric Ebb on Steam and proceeded to spend most of the weekend playing it! I have not played Disco Elysium yet, but I hear this is very much in that vein of games.",
    "section": "crowdsourced",
    "recommender": "Adam (reader)"
@@ -323,8 +372,10 @@
    "name": "Disco Elysium",
    "url": "https://discoelysium.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "paid"
+   ],
    "blurb": "After what felt like a street-level advertising blitz this past Friday, I picked up Esoteric Ebb on Steam and proceeded to spend most of the weekend playing it! I have not played Disco Elysium yet, but I hear this is very much in that vein of games.",
    "section": "crowdsourced",
    "recommender": "Adam (reader)"
@@ -334,8 +385,11 @@
    "name": "NYT Connections",
    "url": "https://www.nytimes.com/games/connections",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "subscription"
+   ],
    "blurb": "I recently discovered the daily illustration that accompanies each NYT Connections puzzle, accessed by pressing the lightbulb icon above the puzzle. It gives a little hint or two about the solution in a really nice creative way.",
    "section": "crowdsourced",
    "recommender": "Tom (reader)"
@@ -345,8 +399,10 @@
    "name": "new Pebble 2 Duos",
    "url": "https://repebble.com/watch#p2d",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "fitness"
+   ],
    "blurb": "I wore an Apple Watch for years. Then I got one of the new Pebble 2 Duos , which I like! Except I don’t like how it looks. I also want a little less technology on my body at all times, so I’ve been back in the market for a relatively non-fancy but also non-ugly watch to wear.",
    "section": "signing-off",
    "recommender": null
@@ -356,7 +412,7 @@
    "name": "Casio modders",
    "url": "https://www.reddit.com/r/casiomods/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "So far, the best part of my journey has been going down the rabbit hole of Casio modders : watchmakers taking apart these simple digital watches and upgrading them in all sorts of ways. Sometimes they get new features, sometimes they’re basically torn down and rebuilt entirely from scratch.",
    "section": "signing-off",
@@ -367,7 +423,7 @@
    "name": "this modified A700",
    "url": "https://urawatches.com/products/obsidian-black-a700-modified-casio-watch",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "So far, the best part of my journey has been going down the rabbit hole of Casio modders : watchmakers taking apart these simple digital watches and upgrading them in all sorts of ways. Sometimes they get new features, sometimes they’re basically torn down and rebuilt entirely from scratch.",
    "section": "signing-off",

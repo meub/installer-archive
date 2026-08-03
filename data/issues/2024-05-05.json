@@ -23,8 +23,12 @@
    "name": "Arc for Windows",
    "url": "https://arc.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "windows",
+    "web",
+    "free"
+   ],
    "blurb": "Arc is still my favorite browser, and even in this first version, it’s surprisingly solid on Windows. (Though it is missing a couple of Arc’s more advanced features and some of the AI stuff.) If you try it, give it time — it’s a really big change from Chrome, but I’m still sold on it.",
    "section": "the-drop",
    "recommender": null
@@ -62,8 +66,12 @@
    "alt_urls": [
     "https://www.macstories.net/reviews/sofa-4-0-a-customizable-downtime-tracker-without-compromises/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity",
+    "paid"
+   ],
    "blurb": "A huge update to one of my favorite movie / book / show trackers. Sofa now lets you collect and organize anything, any way you want — MacStories has a great rundown of all the stuff you can do, and I’m already using it to plan summer trips.",
    "section": "the-drop",
    "recommender": null
@@ -76,8 +84,10 @@
     "https://www.theverge.com/2024/5/2/24146865/bose-soundlink-max-bluetooth-speaker-features",
     "https://ultimate-ears.dubn.net/c/482924/1434069/8590?u=https%3A%2F%2Fus.ultimateears.com%2Fproducts%2Fwonderboom-3%3Fvariant%3D45836661653790"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "$399 is steep for a Bluetooth speaker, but I’m very into this one . Super-long battery life; an AUX port; a fun little handle; presumably excellent sound. I’ve been a UE Wonderboom believer for years, but I’ll be trying this one out this summer.",
    "section": "the-drop",
    "recommender": null
@@ -89,8 +99,10 @@
    "alt_urls": [
     "https://www.theverge.com/24145150/beats-solo-4-headphones-review"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "I agree with Chris Welch that it’s weird to not have ANC in these headphones. But I’m still into the look, love how light they are, and am stoked about the wired options as well.",
    "section": "the-drop",
    "recommender": null
@@ -152,8 +164,10 @@
    "name": "originally taken by Joe Merrick",
    "url": "https://x.com/joemerrick/status/1690333137296097280",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "photography"
+   ],
    "blurb": "The wallpaper: A photo of a Pokémon drone show in the shape of Mew, originally taken by Joe Merrick (of Serebii fame), then slightly edited.",
    "section": "screen-share",
    "recommender": "Riley"
@@ -235,8 +249,12 @@
    "name": "Tana",
    "url": "https://tana.inc/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "web",
+    "subscription"
+   ],
    "blurb": "I’ve been obsessing over note-taking apps again because I am insane. Recently tried Tana , and it’s incredible. Feels like the most natural way for me to take notes (bullet journaling, tasks, project management) and is probably going to convince me to ditch Logseq and Obsidian and everything else.",
    "section": "crowdsourced",
    "recommender": "Rin (reader)"
@@ -246,8 +264,12 @@
    "name": "Voiijer",
    "url": "https://voiijer.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "travel",
+    "ios"
+   ],
    "blurb": "Voiijer . This interesting social media app is focused on posting trips. From day hikes to overnight adventures abroad. I’ve tried it out a little bit, but it seems geared toward being a travel journal. Seems new and interesting.",
    "section": "crowdsourced",
    "recommender": "Nicholas (reader)"
@@ -296,8 +318,10 @@
    "name": "Bonk ’s GameBoy games",
    "url": "https://en.wikipedia.org/wiki/Bonk_(series)",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios"
+   ],
    "blurb": "I’ve been playing Bonk ’s GameBoy games using Delta and writing about games on Backloggd , which is a fun video game-focused review site built very similarly to Letterboxd .",
    "section": "crowdsourced",
    "recommender": "Sawyer (reader)"
@@ -307,8 +331,12 @@
    "name": "Backloggd",
    "url": "https://www.backloggd.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "social",
+    "free"
+   ],
    "blurb": "I’ve been playing Bonk ’s GameBoy games using Delta and writing about games on Backloggd , which is a fun video game-focused review site built very similarly to Letterboxd .",
    "section": "crowdsourced",
    "recommender": "Sawyer (reader)"
@@ -318,8 +346,12 @@
    "name": "Letterboxd",
    "url": "https://letterboxd.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "movie",
+    "web"
+   ],
    "blurb": "I’ve been playing Bonk ’s GameBoy games using Delta and writing about games on Backloggd , which is a fun video game-focused review site built very similarly to Letterboxd .",
    "section": "crowdsourced",
    "recommender": "Sawyer (reader)"
@@ -329,8 +361,13 @@
    "name": "Calibre",
    "url": "https://calibre-ebook.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "book",
+    "open-source",
+    "free",
+    "cross-platform"
+   ],
    "blurb": "My latest rabbit hole is comics and graphic novels, and as someone who strips his ebooks of DRM, I’m still trying to find the Calibre of comics. I landed on YACReader and YACReader Library. It’s good enough, but I feel there’s still space for a really good app.",
    "section": "crowdsourced",
    "recommender": "Kevin (reader)"
@@ -340,8 +377,13 @@
    "name": "YACReader",
    "url": "https://www.yacreader.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "book",
+    "open-source",
+    "free",
+    "cross-platform"
+   ],
    "blurb": "My latest rabbit hole is comics and graphic novels, and as someone who strips his ebooks of DRM, I’m still trying to find the Calibre of comics. I landed on YACReader and YACReader Library. It’s good enough, but I feel there’s still space for a really good app.",
    "section": "crowdsourced",
    "recommender": "Kevin (reader)"
@@ -351,8 +393,13 @@
    "name": "Cronometer",
    "url": "https://cronometer.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness",
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "Starting to pay more attention to healthy eating, and I remember hating MyFitnessPal. Found the app Cronometer , which is a great freemium alternative. Highly recommended!",
    "section": "crowdsourced",
    "recommender": "Jonathan (reader)"
@@ -375,8 +422,11 @@
    "name": "Castro",
    "url": "https://castro.fm/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "podcast",
+    "ios"
+   ],
    "blurb": "Just got back on the Castro podcast app bandwagon. It’s under new management and they are iterating. The queue system is 🔥.",
    "section": "crowdsourced",
    "recommender": "Advay (reader)"
@@ -386,8 +436,11 @@
    "name": "the Boox Palma",
    "url": "https://shop.boox.com/products/palma",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android",
+    "book"
+   ],
    "blurb": "For the last few weeks, I’ve been reading and hearing a lot about how much people like the Boox Palma . It’s basically just an Android phone, but it has a Kindle-style E Ink screen, which means it’s awful at a lot of things but can download all your reading apps and news apps.",
    "section": "signing-off",
    "recommender": null

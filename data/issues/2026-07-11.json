@@ -25,7 +25,7 @@
    "alt_urls": [
     "https://hototools.com/products/3-6v-electric-screwdriver-kit"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "My last year has been filled with small and large home repairs, and I really should have gotten a kit like this. It’s not a full-on gadget repair set (though iFixit has a good one of those, too), more of a just-right set of bits, adapters, and drivers for all the small fixes life requires.",
    "section": "the-drop",
@@ -36,8 +36,10 @@
    "name": "The Nothing Earbuds 3A",
    "url": "https://us.nothing.tech/products/ear-3a",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "Nothing’s wireless earbuds have generally been among the best you can get for $99. I’m also very intrigued by the new Audio Snapshot feature, which records a snippet of whatever you’re listening to — for me, it’ll be mostly podcast moments I want to remember — and syncs it to your phone. Nifty!",
    "section": "the-drop",
    "recommender": null
@@ -47,8 +49,10 @@
    "name": "Ugmonk’s Analog Card Variety Pack",
    "url": "https://ugmonk.com/products/analog-card-variety-pack",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "I know there are a lot of Analog fans in the Installerverse, and all the new card types look great for some pen-and-paper productivity. The more I lean into just using a card a day to keep myself organized, the more I like it.",
    "section": "the-drop",
    "recommender": null
@@ -58,8 +62,10 @@
    "name": "GPT-Live",
    "url": "https://openai.com/index/introducing-gpt-live/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai"
+   ],
    "blurb": "AI Voice Modes have always struck me as a good demo and a weird product. I don’t think aimless chatbot chat is a good thing, and the bots never worked that well anyway. By all accounts, this is a huge improvement, much more useful and much less trying to be your best friend.",
    "section": "the-drop",
    "recommender": null
@@ -84,7 +90,7 @@
    "name": "Blooms by Play-Doh",
    "url": "https://goto.target.com/c/482924/81938/2092?u=https%3A%2F%2Fwww.target.com%2Fp%2Fblooms-by-play-doh-rosy-petite-flower-bouquet-arts-and-crafts-kit-for-adults-diy-home-and-desk-decor-gifting%2F-%2FA-95181375",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "You can just imagine the meeting at Hasbro. “Adults love Legos, right? They’ll totally love Play-Doh, too!” I have a three-year-old who loves the stuff, and I gotta tell you: The logic tracks. I don’t know that I would have started with flower arrangements? But there’s something fun here.",
    "section": "the-drop",
@@ -97,8 +103,10 @@
    "alt_urls": [
     "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai"
+   ],
    "blurb": "My colleague Hayden Field called it “ Claude Wrapped ,” and that’s about right. This is probably mostly a business-analytics tool ( where did all those tokens go??",
    "section": "the-drop",
    "recommender": null
@@ -121,8 +129,12 @@
    "name": "Knockoff",
    "url": "https://knockoff.shopping/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "utilities",
+    "free"
+   ],
    "blurb": "A browser extension that attempts to sort the nonsense Amazon brands from the actual brands and help you get to the best version of a product more quickly. An incredible referendum on the state of Amazon that this is even necessary, but… it’s extremely necessary.",
    "section": "the-drop",
    "recommender": null
@@ -132,8 +144,10 @@
    "name": "Ian Bogost",
    "url": "https://ianbogost.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "Ian Bogost is one of my favorite writers on tech, because he always seems to be asking the right question: Is any of this new technology good for us as people? I’ve come back many times to his love letter to landlines , his explanation for why email sucks , and many others.",
    "section": "screen-share",
    "recommender": "Ian"
@@ -143,8 +157,10 @@
    "name": "his love letter to landlines",
    "url": "https://www.theatlantic.com/technology/archive/2023/09/landlines-comeback-home-phones/675280/?__readwiseLocation=",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "Ian Bogost is one of my favorite writers on tech, because he always seems to be asking the right question: Is any of this new technology good for us as people? I’ve come back many times to his love letter to landlines , his explanation for why email sucks , and many others.",
    "section": "screen-share",
    "recommender": "Ian"
@@ -154,8 +170,10 @@
    "name": "why email sucks",
    "url": "https://www.theatlantic.com/technology/archive/2019/08/yahoo-mails-plan-to-fix-email-make-computers-read-it/595183/?__readwiseLocation=",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "Ian Bogost is one of my favorite writers on tech, because he always seems to be asking the right question: Is any of this new technology good for us as people? I’ve come back many times to his love letter to landlines , his explanation for why email sucks , and many others.",
    "section": "screen-share",
    "recommender": "Ian"
@@ -165,8 +183,10 @@
    "name": "The Small Stuff: How to Lead a More Gratifying Life",
    "url": "https://www.simonandschuster.com/books/The-Small-Stuff/Ian-Bogost/9781668062630",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Ian has a book out this week called The Small Stuff: How to Lead a More Gratifying Life , which answers the same question in a much broader and frankly much more bizarre way.",
    "section": "screen-share",
    "recommender": "Ian"
@@ -176,8 +196,12 @@
    "name": "Homebridge",
    "url": "https://homebridge.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "smart-home",
+    "open-source",
+    "free"
+   ],
    "blurb": "The device: This is the plugin page — sort of like the apps page — for my home’s Homebridge installation. Homebridge is server software that makes smart-home devices that don’t work natively with Apple’s home-automation app appear and operate in the Apple Home app.",
    "section": "screen-share",
    "recommender": "Ian"
@@ -187,8 +211,10 @@
    "name": "Bond",
    "url": "https://bondhome.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "The apps: So much going on here. Bond allows me to control ceiling fans from Apple Home. Pico allows me to reprogram Lutron Pico wall switch remotes to do anything I want — such as controlling ceiling fans or opening garage doors and gates.",
    "section": "screen-share",
    "recommender": "Ian"
@@ -198,8 +224,10 @@
    "name": "Lutron Pico",
    "url": "https://www.casetawireless.com/us/en/products/pico-remotes",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "The apps: So much going on here. Bond allows me to control ceiling fans from Apple Home. Pico allows me to reprogram Lutron Pico wall switch remotes to do anything I want — such as controlling ceiling fans or opening garage doors and gates.",
    "section": "screen-share",
    "recommender": "Ian"
@@ -209,8 +237,10 @@
    "name": "Shelly relay",
    "url": "https://us.shelly.com/collections/relays",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "Speaking of which, Garage Door Shelly1 connects a Shelly relay that I soldered to a non-code-cycling, oldschool gate remote, which opens the gate at the end of the alley behind my house, which means I can press a button in Carplay and open it, my garage door, and unlock my house.",
    "section": "screen-share",
    "recommender": "Ian"
@@ -220,8 +250,11 @@
    "name": "UniFi Protect",
    "url": "https://ui.com/physical-security",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "smart-home",
+    "video"
+   ],
    "blurb": "Speaking of which, Garage Door Shelly1 connects a Shelly relay that I soldered to a non-code-cycling, oldschool gate remote, which opens the gate at the end of the alley behind my house, which means I can press a button in Carplay and open it, my garage door, and unlock my house.",
    "section": "screen-share",
    "recommender": "Ian"
@@ -231,8 +264,10 @@
    "name": "I wrote about for The Atlantic",
    "url": "https://www.theatlantic.com/technology/archive/2022/10/home-security-surveillance-system-cameras/671760/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "Speaking of which, Garage Door Shelly1 connects a Shelly relay that I soldered to a non-code-cycling, oldschool gate remote, which opens the gate at the end of the alley behind my house, which means I can press a button in Carplay and open it, my garage door, and unlock my house.",
    "section": "screen-share",
    "recommender": "Ian"
@@ -242,8 +277,12 @@
    "name": "r/oddlysatisfying",
    "url": "https://www.reddit.com/r/oddlysatisfying/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "social",
+    "web",
+    "free"
+   ],
    "blurb": "The r/oddlysatisfying subreddit. Asking ChatGPT for help with home repairs. Backgammon (just a tabletop set, with a hard enameled surface that makes the dice dance and spin in a gratifying way). Power over Ethernet (POE) splitters.",
    "section": "screen-share",
    "recommender": "Ian"
@@ -253,8 +292,11 @@
    "name": "ChatGPT",
    "url": "https://chatgpt.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "cross-platform"
+   ],
    "blurb": "The r/oddlysatisfying subreddit. Asking ChatGPT for help with home repairs. Backgammon (just a tabletop set, with a hard enameled surface that makes the dice dance and spin in a gratifying way). Power over Ethernet (POE) splitters.",
    "section": "screen-share",
    "recommender": "Ian"
@@ -264,7 +306,7 @@
    "name": "Backgammon",
    "url": "https://en.wikipedia.org/wiki/Backgammon",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "The r/oddlysatisfying subreddit. Asking ChatGPT for help with home repairs. Backgammon (just a tabletop set, with a hard enameled surface that makes the dice dance and spin in a gratifying way). Power over Ethernet (POE) splitters.",
    "section": "screen-share",
@@ -275,8 +317,10 @@
    "name": "Power over Ethernet",
    "url": "https://en.wikipedia.org/wiki/Power_over_Ethernet",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "The r/oddlysatisfying subreddit. Asking ChatGPT for help with home repairs. Backgammon (just a tabletop set, with a hard enameled surface that makes the dice dance and spin in a gratifying way). Power over Ethernet (POE) splitters.",
    "section": "screen-share",
    "recommender": "Ian"
@@ -299,8 +343,10 @@
    "name": "Neuromancer",
    "url": "https://www.penguinrandomhouse.com/books/538861/neuromancer-by-william-gibson/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Re-reading Neuromancer following Apple TV’s latest teaser . The Verge is totally right on Apple TV crushing sci-fi shows .",
    "section": "crowdsourced",
    "recommender": "Austin (reader)"
@@ -323,8 +369,11 @@
    "name": "4 x 3",
    "url": "https://www.hankgreen.com/fourbythree",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "Playing the new puzzle game 4 x 3 .",
    "section": "crowdsourced",
    "recommender": "Rohit (reader)"
@@ -334,8 +383,10 @@
    "name": "Myke Hurley",
    "url": "https://www.mykehurley.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Really loving Myke Hurley ’s podcasts, hard to pick just one, but his Designed in California Kickstarter with Jason Snell on the history of Apple just completed with $300K raised. Pretty cool!",
    "section": "crowdsourced",
    "recommender": "Rowan (reader)"
@@ -358,7 +409,7 @@
    "name": "Brother printer",
    "url": "https://www.brother-usa.com",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I spent a few hours setting up a new Brother printer for my mom. It’s like the opposite of enshittification. Reasonable prices and it just prints. It shouldn’t be a breath of fresh air, but it is.",
    "section": "crowdsourced",
@@ -369,8 +420,10 @@
    "name": "Klara and the Sun",
    "url": "https://www.penguinrandomhouse.com/books/653825/klara-and-the-sun-a-gma-book-club-pick-by-kazuo-ishiguro/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Reading the so-far excellent but bittersweet Klara and the Sun by Kazuo Ishiguro, before Taika Waititi’s movie version comes out in October.",
    "section": "crowdsourced",
    "recommender": "Gatherer Hunter (reader)"
@@ -380,7 +433,7 @@
    "name": "Sony Aibo ERS210",
    "url": "https://aibo.miraheze.org/wiki/ERS-210",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I took my Sony Aibo ERS210 out of my mom’s attic to bring back to the US. But it didn’t fit in my luggage... So I will need to come up with another plan.",
    "section": "crowdsourced",
@@ -443,8 +496,12 @@
    "name": "Trakt",
    "url": "https://app.trakt.tv/?mode=media",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "tv",
+    "cross-platform",
+    "subscription"
+   ],
    "blurb": "The sad product news of the week is that TV Time, which a lot of people use to find and track their favorite shows, is shutting down . And you only have until July 15th (next Wednesday) to get your data out.",
    "section": "signing-off",
    "recommender": null
@@ -454,8 +511,11 @@
    "name": "Sofa",
    "url": "https://www.sofahq.com/blog/sofa-5-2",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "tv"
+   ],
    "blurb": "The sad product news of the week is that TV Time, which a lot of people use to find and track their favorite shows, is shutting down . And you only have until July 15th (next Wednesday) to get your data out.",
    "section": "signing-off",
    "recommender": null
@@ -465,8 +525,11 @@
    "name": "Sequel",
    "url": "https://www.getsequel.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "tv"
+   ],
    "blurb": "The sad product news of the week is that TV Time, which a lot of people use to find and track their favorite shows, is shutting down . And you only have until July 15th (next Wednesday) to get your data out.",
    "section": "signing-off",
    "recommender": null

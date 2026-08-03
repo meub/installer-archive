@@ -50,8 +50,12 @@
    "name": "Goodnotes 6.0",
    "url": "https://www.goodnotes.com/blog/introducing-goodnotes-6",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "productivity",
+    "ai"
+   ],
    "blurb": "( link ) : Goodnotes is my favorite cross-platform tool for handwritten notes, and it just got some really clever updates — including an AI tool that can learn your handwriting, correct your spelling, and even write longhand for you. Wild.",
    "section": "the-drop",
    "recommender": null
@@ -74,8 +78,10 @@
    "name": "The YouTube Effect",
    "url": "https://www.yteffect.com/watch",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
    "blurb": "( link ) : A new doc from Alex Winter about the whole story of YouTube. There’s good, there’s bad, Section 230 appears, and it doesn’t cover a huge amount of new ground, but it’s a really good dive into the nuances of the platform.",
    "section": "the-drop",
    "recommender": null
@@ -117,8 +123,10 @@
    "alt_urls": [
     "https://www.theverge.com/23826738/lego-concorde-supersonic-jet-price-release-date"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "paid"
+   ],
    "blurb": "( link ) : I have two competing thoughts on all these incredibly cool new Lego sets. One is they are absurdly, preposterously expensive — this one is $200 and isn’t even the worst you’ll find. But the second is that I want them all so, so, so bad.",
    "section": "the-drop",
    "recommender": null
@@ -128,8 +136,11 @@
    "name": "Arc",
    "url": "https://arc.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "mac"
+   ],
    "blurb": "First up: Josh Miller, the CEO of The Browser Company, which makes a browser called Arc ( link ) that continues to be one of the most interesting new apps on the market.",
    "section": "pro-tips",
    "recommender": null
@@ -161,8 +172,12 @@
    "name": "This TikTok",
    "url": "https://www.tiktok.com/t/ZT8N1hmad/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "social",
+    "free"
+   ],
    "blurb": "I watched Twisted Metal ( link ) on Hulu by accident and then finished it because it’s purely ridiculous from start to finish. This TikTok ( link ) of someone building a bomber in Tears of the Kingdom with “Fortunate Son” playing and hashtag oil is a PhD thesis waiting to happen.",
    "section": "screen-share",
    "recommender": null
@@ -183,8 +198,12 @@
    "name": "SoundHound",
    "url": "https://www.soundhound.com/soundhound",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "ios",
+    "free"
+   ],
    "blurb": "I have yet to find a song recognition app for Apple Watch that works better than SoundHound ( link ) . The thing I love the most about SoundHound is a feature I didn’t even know I wanted: live lyrics for the detected song on my watch.",
    "section": "crowdsourced",
    "recommender": "Xyan (reader)"
@@ -194,8 +213,10 @@
    "name": "System76 Launch keyboard",
    "url": "https://system76.com/accessories/launch",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "open-source"
+   ],
    "blurb": "My current obsession gadget is the System76 Launch keyboard ( link ) . Thing is amazing, metal build, made in Colorado, works on every OS... and of course RGB.",
    "section": "crowdsourced",
    "recommender": "Lee (reader)"
@@ -205,8 +226,12 @@
    "name": "Flighty",
    "url": "https://flightyapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "travel",
+    "ios",
+    "subscription"
+   ],
    "blurb": "For travel, I will recommend: Flighty ( link ) for live status of planes. This app saved us hours of pain in our recent trip to Europe where the budget airlines were changing terminals at the last second without informing us.",
    "section": "crowdsourced",
    "recommender": "Dev (reader)"
@@ -216,8 +241,11 @@
    "name": "Tripsy",
    "url": "https://tripsy.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "travel",
+    "ios"
+   ],
    "blurb": "For travel, I will recommend: Flighty ( link ) for live status of planes. This app saved us hours of pain in our recent trip to Europe where the budget airlines were changing terminals at the last second without informing us.",
    "section": "crowdsourced",
    "recommender": "Dev (reader)"
@@ -227,8 +255,12 @@
    "name": "Beeper",
    "url": "https://beeper.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "free",
+    "social"
+   ],
    "blurb": "An app called Beeper ( link ) is a fully realized all-in-one messaging app based on Matrix that preserves the open-source nature of the protocol and its surrounding apps. It’s a startup by Eric Migicovsky, founder of Pebble.",
    "section": "crowdsourced",
    "recommender": "Luke (reader)"
@@ -251,8 +283,12 @@
    "name": "My80sTV",
    "url": "https://www.my80stv.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "tv",
+    "free"
+   ],
    "blurb": "This week: My80sTV ( link ) , a website that actually lets you watch TV from the ’80s on an ’80s-style TV. In your web browser. Sure. There’s a dedicated site for every decade since the ’50s! It’s great.",
    "section": "signing-off",
    "recommender": null
@@ -262,8 +298,12 @@
    "name": "on Reddit",
    "url": "https://www.reddit.com/r/InternetIsBeautiful/comments/15bnut5/watch_actual_tv_from_the_90s_and_other_decades_as/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "social",
+    "website",
+    "free"
+   ],
    "blurb": "This week: My80sTV ( link ) , a website that actually lets you watch TV from the ’80s on an ’80s-style TV. In your web browser. Sure. There’s a dedicated site for every decade since the ’50s! It’s great.",
    "section": "signing-off",
    "recommender": null

@@ -25,8 +25,13 @@
    "alt_urls": [
     "https://www.theverge.com/2024/2/6/24062837/bluesky-drops-invite-system-begins-federation-at-protocol"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "The cool kids club of social media is now open to everyone ! And as every site is required to do, it promptly crashed in a bunch of big and funny ways as people poured in.",
    "section": "the-drop",
    "recommender": null
@@ -36,8 +41,12 @@
    "name": "Google Gemini",
    "url": "https://gemini.google.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "android",
+    "free"
+   ],
    "blurb": "Great news: Google heard your complaints that Installer is too heavy on iOS-only apps and released the new Gemini app exclusively on Android. (In your face, iOS.)",
    "section": "the-drop",
    "recommender": null
@@ -62,8 +71,10 @@
    "alt_urls": [
     "https://www.theverge.com/2024/2/7/24063837/ring-battery-doorbell-pro-price-release-date-specs-features"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "Not the cheapest Ring doorbell out there, nor the most powerful, but this does seem like the Goldilocks model — more accurate sensors, all the features you want, super easy to install. I agree with my colleague Jennifer Pattison Tuohy , though: the basic Ring look needs a redesign.",
    "section": "the-drop",
    "recommender": null
@@ -73,8 +84,13 @@
    "name": "Craft",
    "url": "https://craft.do/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "ios",
+    "mac",
+    "subscription"
+   ],
    "blurb": "Craft is basically what Google Docs would be, if anyone at Google cared about making Google Docs nice to use. And this lovely little note-taking app just got a bunch of really nice collaboration features, which make it even more useful.",
    "section": "the-drop",
    "recommender": null
@@ -86,8 +102,12 @@
    "alt_urls": [
     "https://www.theverge.com/2024/2/8/24065866/apple-windows-apps-music-tv-devices-itunes"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "windows",
+    "utilities",
+    "free"
+   ],
    "blurb": "Big week for iPhone-owning Windows users! The iCloud app got a big update , Apple Music and Apple TV are no longer in “preview” mode, and it’ll all just work better. And the best news? You basically don’t have to use iTunes ever again.",
    "section": "the-drop",
    "recommender": null
@@ -125,8 +145,11 @@
    "name": "Physical Media Strikes Back With Tim Simons",
    "url": "https://www.theringer.com/2024/2/2/24058665/physical-media-strikes-back-with-tim-simons",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "movie"
+   ],
    "blurb": "From the very good podcast The Big Picture , this is almost 90 minutes of talk about Blu-ray organization, box-set tips, what it means to own a movie, the changing entertainment industry, and much more. As the proud owner of exactly zero DVDs, this made me want to start a collection.",
    "section": "the-drop",
    "recommender": null
@@ -138,8 +161,12 @@
    "alt_urls": [
     "https://www.theverge.com/2024/2/7/24065125/apple-generative-ai-image-editing-mgie-open-source-model"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "open-source",
+    "photography"
+   ],
    "blurb": "Lest you think Apple is sitting out the generative AI revolution, here’s something cool : a model designed to make image edits just by describing them. “More blues!” “Move that thing over there!” “Make my face less bad!” Not a real product yet, but a really cool idea.",
    "section": "the-drop",
    "recommender": null
@@ -160,8 +187,13 @@
    "name": "NotePlan",
    "url": "https://noteplan.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "productivity",
+    "paid"
+   ],
    "blurb": "My dock has the four categories of apps I use most, but the apps in there change depending on what I’m testing or pretending will make my life better.",
    "section": "screen-share",
    "recommender": null
@@ -171,8 +203,11 @@
    "name": "Minical",
    "url": "https://minical.app/en/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "productivity"
+   ],
    "blurb": "My dock has the four categories of apps I use most, but the apps in there change depending on what I’m testing or pretending will make my life better.",
    "section": "screen-share",
    "recommender": null
@@ -208,8 +243,11 @@
    "name": "an icon pack from Ruffsnap",
    "url": "https://ruffsnap.com/icons/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "paid"
+   ],
    "blurb": "I’m using an icon pack from Ruffsnap , which I mostly like! It doesn’t cover every app I use, so I’ve had to repurpose some icons onto other apps; you’ll notice that is not the Day One icon, for instance.",
    "section": "screen-share",
    "recommender": null
@@ -219,8 +257,12 @@
    "name": "DAKboard",
    "url": "https://dakboard.com/site",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "smart-home",
+    "web",
+    "productivity"
+   ],
    "blurb": "If you are looking for a display that can show your calendar, I urge you to take a look at DAKboard . More than a calendar, lots of different things, and cheaper: monitor and Raspberry Pi for under $150. And it’s worth the five bucks a month — fun to build and integrates with so many other services.",
    "section": "crowdsourced",
    "recommender": "Doug (reader)"
@@ -230,8 +272,10 @@
    "name": "Skylight",
    "url": "https://www.skylightframe.com/products/skylight-calendar/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "Skylight is amazing. For my mom. Because it’s simple. For you, get the largest 720p TV or monitor you can for your space, a Raspberry Pi, and use the DAKboard project. It will change your life.” – Jeremy (Two DAKboard recommendations! Guess what I’m doing this weekend…)",
    "section": "crowdsourced",
    "recommender": null
@@ -254,8 +298,11 @@
    "name": "WhatsApp Channels",
    "url": "https://faq.whatsapp.com/549900560675125",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "social",
+    "free"
+   ],
    "blurb": "I’m late, but worth a mention on the ‘how I get my news’ topic: WhatsApp Channels ! I discovered this feature about two months ago and have used it daily since.",
    "section": "crowdsourced",
    "recommender": "Santiago (reader)"
@@ -265,8 +312,11 @@
    "name": "StarCraft II",
    "url": "https://starcraft2.blizzard.com/en-us/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "windows",
+    "mac"
+   ],
    "blurb": "I don’t know if this counts, but my friends and I are playing StarCraft II again. It has co-op, and we just noticed.",
    "section": "crowdsourced",
    "recommender": "Forrest (reader)"
@@ -276,8 +326,12 @@
    "name": "Radiant",
    "url": "https://radiant.social/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "social",
+    "free"
+   ],
    "blurb": "Radiant is a really nice, customizable Mastodon client for iOS. It’s free to use but has a reasonable upgrade as well. And Elk is also a great Twitter-looking web app for Mastodon.",
    "section": "crowdsourced",
    "recommender": "Harvey (reader)"
@@ -287,8 +341,12 @@
    "name": "Elk",
    "url": "https://elk.zone/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "social",
+    "open-source"
+   ],
    "blurb": "Radiant is a really nice, customizable Mastodon client for iOS. It’s free to use but has a reasonable upgrade as well. And Elk is also a great Twitter-looking web app for Mastodon.",
    "section": "crowdsourced",
    "recommender": "Harvey (reader)"
@@ -298,8 +356,12 @@
    "name": "Not Boring",
    "url": "https://www.andy.works/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "utilities",
+    "paid"
+   ],
    "blurb": "There is a series of apps that are called ‘ Not Boring .’ A set of apps that look absolutely beautiful, with wonderful graphics and amazing haptics. I especially love the Weather app because messing around with the icons is awesome.",
    "section": "crowdsourced",
    "recommender": "Arjun (reader)"
@@ -309,8 +371,11 @@
    "name": "Weather",
    "url": "https://www.andy.works/product/weather",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "utilities"
+   ],
    "blurb": "There is a series of apps that are called ‘ Not Boring .’ A set of apps that look absolutely beautiful, with wonderful graphics and amazing haptics. I especially love the Weather app because messing around with the icons is awesome.",
    "section": "crowdsourced",
    "recommender": "Arjun (reader)"
@@ -320,8 +385,10 @@
    "name": "Analog Weekly",
    "url": "https://ugmonk.com/products/analog-weekly-kit?_kx=8TNmaPcAIgGl7a9Vno7Dd7NGTdTibLn1Jyo-FLON4mw%3D.aVinKJ&variant=42716905373846",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "I received the Analog Weekly planner from Ugmonk for Christmas, and I’ve been using the heck out of it paired with a Field Notes memo book. I take meeting notes in Field Notes and put key weekly tasks / deadlines on the Analog Weekly planner.",
    "section": "crowdsourced",
    "recommender": "J (reader)"
@@ -331,8 +398,12 @@
    "name": "ScreenZen",
    "url": "https://www.screenzen.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "free",
+    "productivity"
+   ],
    "blurb": "I’ve been using a free iOS app called ScreenZen to claw back control over my phone usage. Crucially, instead of just informing you about your usage at the end of your day, it helps you kill the compulsion by setting a countdown screen before you open an app.",
    "section": "crowdsourced",
    "recommender": "Zack (reader)"
@@ -342,8 +413,13 @@
    "name": "Libby",
    "url": "https://www.overdrive.com/apps/libby",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "free",
+    "book"
+   ],
    "blurb": "How about the Libby app? I’ve been using it since 2017. It’s free, one just needs a library card to use it, and I love it for the audiobooks it has.",
    "section": "crowdsourced",
    "recommender": "Pooja (reader)"
@@ -353,7 +429,7 @@
    "name": "get some celebrity sued",
    "url": "https://www.forbes.com/sites/ariredbord/2023/02/01/tom-brady-and-other-a-listers-fumble-ftx-endorsements-but-will-they-be-held-liable/?sh=5249d55b7d8c",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "And here’s a fun game to play: when you watch the ads, try to figure out which one will get some celebrity sued the way all those crypto ads did a couple of years ago. Who’s going to court over an AI ad this year? I have some guesses.",
    "section": "signing-off",

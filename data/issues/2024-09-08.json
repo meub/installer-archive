@@ -24,8 +24,13 @@
    "name": "Reeder",
    "url": "https://reederapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "podcast",
+    "paid"
+   ],
    "blurb": "It’s a podcast app, a YouTube queue, an RSS reader, a social feed, and a whole bunch more, all in one place. (And for Apple devices only.)",
    "section": "the-drop",
    "recommender": null
@@ -61,8 +66,10 @@
    "alt_urls": [
     "https://www.theverge.com/2024/9/4/24234815/the-remarkable-paper-pro-is-as-outrageous-as-it-is-luxurious"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "This thing is pure E Ink overkill , with an overengineered color display and a bunch of extremely fancy features. It’s like $800 for the whole setup including the keyboard, which is an awful lot, but this is a heck of a note-taking device.",
    "section": "the-drop",
    "recommender": null
@@ -87,8 +94,12 @@
    "alt_urls": [
     "https://www.theverge.com/2024/9/3/24234730/android-15-availability-circle-to-search-earthquake-alerts"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "android",
+    "ai",
+    "music"
+   ],
    "blurb": "Forget Gemini — Google’s most clever AI features are all happening through Circle to Search. Google’s song lookup tool is the best in the biz, and with Circle to Search and Android 15 , you can get at it from anywhere.",
    "section": "the-drop",
    "recommender": null
@@ -100,8 +111,11 @@
    "alt_urls": [
     "https://www.theverge.com/2024/9/3/24232208/peak-design-outdoor-backpacks-slings-price-specs"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "kickstarter",
+    "travel"
+   ],
    "blurb": "Peak Design’s stuff is just always great, and the new line of rugged gear looks like a winner . (Don’t be thrown by the Kickstarter, it’s just how the company rolls for some reason. PD is legit.) I’ve recently become a sling convert for daily use, and I’m very into the new one here.",
    "section": "the-drop",
    "recommender": null
@@ -113,8 +127,11 @@
    "alt_urls": [
     "https://www.theverge.com/2024/9/4/24235177/gopro-hero-13-black-10-bit-g-log-upgraded-battery-new-lenses"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "video",
+    "photography"
+   ],
    "blurb": "Every new GoPro is kind of the same: a little better in a bunch of ways but still a GoPro . And that’s fine! Adding some new lenses and improving transfer speeds goes a long way here, too.",
    "section": "the-drop",
    "recommender": null
@@ -126,8 +143,11 @@
    "alt_urls": [
     "https://www.theverge.com/24236503/dji-neo-vs-hoverair-selfie-drone-specs-price-hands-on"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "video",
+    "photography"
+   ],
    "blurb": "The other nifty camera launch of the week : a simple selfie drone that follows you around, does cool camera moves, and lands in your hand. Getting real Snap Pixy vibes from this thing, but I think this one might be a hit.",
    "section": "the-drop",
    "recommender": null
@@ -137,8 +157,11 @@
    "name": "The PlugBug with Find My",
    "url": "https://www.twelvesouth.com/products/plugbug-multiport-usbc-charger-with-find-my",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "travel",
+    "ios"
+   ],
    "blurb": "My first reaction to the idea of a wall plug with Find My support was, just, why? But then I thought about how many hotels and coffee shops I’ve left chargers in, and I think this $70 gizmo might pay for itself pretty fast. Plus, Twelve South stuff rarely disappoints.",
    "section": "the-drop",
    "recommender": null
@@ -549,8 +572,11 @@
    "name": "Dot",
    "url": "https://new.computer/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "ios"
+   ],
    "blurb": "Dot : It’s an AI companion chatbot thing. It’s actually really cool. It’s very much like a journal or friend that responds to you and can give you some feedback and spark ideas. It’s great until it confuses some facts about you, which breaks the immersion.",
    "section": "screen-share",
    "recommender": "Erick"
@@ -560,8 +586,11 @@
    "name": "Delta",
    "url": "https://faq.deltaemulator.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "free"
+   ],
    "blurb": "Delta : Did I mention I’m a gamer? It was LONG overdue for emulators to come into the App Store, and this is by far the best for playing retro games. If I find myself waiting around for something, I’ll quickly pop into a game of NBA Jam or Streets of Rage .",
    "section": "screen-share",
    "recommender": "Erick"
@@ -571,8 +600,12 @@
    "name": "Hey",
    "url": "https://www.hey.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "subscription",
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "Hey : Hey is my favorite email client and service. The email screener and privacy-focused approach make it well worth the yearly subscription. And it looks better than most email apps.",
    "section": "screen-share",
    "recommender": "Erick"
@@ -582,8 +615,13 @@
    "name": "Arc",
    "url": "https://arc.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "free",
+    "ai"
+   ],
    "blurb": "Arc : This is a new addition to the homescreen and has quickly replaced Safari for me in most cases. Its “Browse For Me” feature is a godsend. I also love the app’s alternate icon, which pays homage to Netscape Navigator. It’s 1994 all over again!",
    "section": "screen-share",
    "recommender": "Erick"
@@ -593,8 +631,11 @@
    "name": "MCU: The Reign of Marvel Studios",
    "url": "https://wwnorton.com/books/9781631497513",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "movie"
+   ],
    "blurb": "I’m currently reading MCU: The Reign of Marvel Studios . As a Marvel zombie from way back, I’m a huge fan of the movies and am fascinated by the behind-the-scenes look at how the sausage was made. I’m currently watching Dark Matter on Apple TV Plus.",
    "section": "screen-share",
    "recommender": "Erick"
@@ -628,8 +669,13 @@
    "name": "Zen Browser",
    "url": "https://zen-browser.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "open-source",
+    "cross-platform",
+    "windows"
+   ],
    "blurb": "Just moved my work Windows PC to Zen Browser . A Firefox version that has a very strong Arc feeling.",
    "section": "crowdsourced",
    "recommender": "Maciej (reader)"
@@ -639,8 +685,10 @@
    "name": "Live Listen",
    "url": "https://support.apple.com/en-us/102479",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ios"
+   ],
    "blurb": "Was away at a cabin with family and we did not bring a camera. When the baby fell asleep, we popped in one AirPod and turned on Live Listen , left the phone in the room, and went about our business! Two birds with one stone, really, since then I didn’t have my phone.",
    "section": "crowdsourced",
    "recommender": "Saad (reader)"
@@ -650,8 +698,11 @@
    "name": "Four Thousand Weeks",
    "url": "https://www.oliverburkeman.com/fourthousandweeks",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "productivity"
+   ],
    "blurb": "Four Thousand Weeks by Oliver Burkeman is rocking my world right now. For those in constant search of productivity optimization (speaking of no one in particular, of course…), this book hits home.",
    "section": "crowdsourced",
    "recommender": "Ryan (reader)"
@@ -674,8 +725,10 @@
    "name": "HandleStash",
    "url": "https://handlestash.com/collections/handlestash-shock-absorbing-cup-holder",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "fitness"
+   ],
    "blurb": "The HandleStash — a shock absorbing beverage holder for bikes. Game-changer for morning commute / weekend morning rides with coffee.",
    "section": "crowdsourced",
    "recommender": "Jim (reader)"
@@ -698,7 +751,7 @@
    "name": "rice cooker cornbread",
    "url": "https://www.slurrp.com/recipes/rice-cooker-corn-bread-1612538822",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "I just got a rice cooker, and I’m eyeballing rice cooker cornbread for this weekend.",
    "section": "crowdsourced",
@@ -722,8 +775,13 @@
    "name": "Bear",
    "url": "https://bear.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "productivity",
+    "subscription"
+   ],
    "blurb": "This week, I’m procrastinating by deciding whether I should stick with Bear , go back to Obsidian , or accept my fate and move back to Apple Notes . It is torture.",
    "section": "crowdsourced",
    "recommender": "Eitan (reader)"
@@ -733,8 +791,12 @@
    "name": "Obsidian",
    "url": "https://obsidian.md/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform",
+    "free"
+   ],
    "blurb": "This week, I’m procrastinating by deciding whether I should stick with Bear , go back to Obsidian , or accept my fate and move back to Apple Notes . It is torture.",
    "section": "crowdsourced",
    "recommender": "Eitan (reader)"
@@ -757,8 +819,10 @@
    "name": "A Short History of Nearly Everything",
    "url": "https://www.penguinrandomhouse.com/books/20549/a-short-history-of-nearly-everything-by-bill-bryson/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "A Short History of Nearly Everything . I know that this book is pretty old and many people have already read it, but if you haven’t read it, you should surely give it a try.",
    "section": "crowdsourced",
    "recommender": "Aashwath (reader)"
@@ -768,7 +832,7 @@
    "name": "Shapez 2",
    "url": "https://shapez2.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I lost most of my Labor Day weekend to Shapez 2 . It’s incredible!",
    "section": "crowdsourced",

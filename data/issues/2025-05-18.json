@@ -23,8 +23,10 @@
    "name": "The Sony WH-1000XM6",
    "url": "https://www.tkqlhce.com/click-8836598-15268034?url=https%3A%2F%2Felectronics.sony.com%2Faudio%2Fheadphones%2Fheadband%2Fp%2Fwh1000xm6-b",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "Sony’s over-ear headphones have been the best on the market for the last few years. The new ones aren’t exactly, you know, mind-blowing, and $450 is a lot, but I’ll take the improvements across the board — especially the better mics and noise cancelling.",
    "section": "the-drop",
    "recommender": null
@@ -34,7 +36,7 @@
    "name": "Doom: The Dark Ages",
    "url": "https://doom.bethesda.net/en-US/the-dark-ages",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "The first Doom game in five years, and by all accounts it is much more than just a sequel. I’m no scholar in the series, but I’m into the idea that it both has a solid story and has ratcheted up the quality of the fighting. Get you a game that can do both, you know?",
    "section": "the-drop",
@@ -45,8 +47,11 @@
    "name": "Spotify’s AI DJ.",
    "url": "https://newsroom.spotify.com/2025-05-13/dj-voice-requests/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "music"
+   ],
    "blurb": "Finally , this feature works the way it should. You can ask Spotify’s chatbot to play you songs based on an artist, or a mood, or whatever else you’re feeling, and it’ll generate endless music on the fly.",
    "section": "the-drop",
    "recommender": null
@@ -102,8 +107,12 @@
    "alt_urls": [
     "https://neal.fun/stimulation-clicker/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "free",
+    "website"
+   ],
    "blurb": "There’s a new Neal.fun thing, so I’m going to tell you about the new Neal.fun thing. This one’s a tour through Street View in which everyone currently on the site gets to decide where we go next. Not quite as world-shattering as Stimulation Clicker , but still very good.",
    "section": "the-drop",
    "recommender": null
@@ -116,8 +125,11 @@
     "https://www.theverge.com/news/666191/airbnb-new-app-services-experiences",
     "https://www.wired.com/story/airbnb-is-in-midlife-crisis-mode-reinvention-app-services/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "travel",
+    "cross-platform"
+   ],
    "blurb": "I’m not sure what to make of this huge pivot , honestly. Airbnb as a huge collection of travel experiences and services, rather than just homes, makes a certain kind of sense. But is this ultimately just, like, fancy Yelp? I don’t know. But I’m fascinated by how big a swing this is .",
    "section": "the-drop",
    "recommender": null
@@ -129,8 +141,11 @@
    "alt_urls": [
     "https://www.theverge.com/news/664316/android-material-three-expressive-design-ui-io"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android",
+    "free"
+   ],
    "blurb": "I really like the new design language for Android, which is bold and colorful and gives both users and developers a lot more to play with. It all feels a little more… alive, when everything else about smartphones is starting to feel drab and stale.",
    "section": "the-drop",
    "recommender": null
@@ -164,7 +179,7 @@
    "name": "Clair Obscur: Expedition 33",
    "url": "https://www.expedition33.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I feel like my entire personality has become Clair Obscur: Expedition 33 , a wonderful RPG that’s my favorite game of the year so far. It’s just so good. And the soundtrack is outstanding .",
    "section": "screen-share",
@@ -227,8 +242,10 @@
    "name": "Minimal Phone",
    "url": "https://minimalcompany.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "Received my new Minimal Phone a week ago and it is excellent. There are still some issues to be resolved, but overall there is a ton of potential for this concept of a smart dumb phone.",
    "section": "crowdsourced",
    "recommender": "Robert (reader)"
@@ -238,8 +255,11 @@
    "name": "Co-Intelligence: Living and Working with AI",
    "url": "https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "ai"
+   ],
    "blurb": "Currently reading: Co-Intelligence: Living and Working with AI by Ethan Mollick. It’s fantastic so far, and has already changed my mind a bit on the whole AI thing.",
    "section": "crowdsourced",
    "recommender": "Matt (reader)"
@@ -249,8 +269,11 @@
    "name": "Morsle",
    "url": "https://morsle.fun/help",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "Morsle , the daily word game that gives you the morse code of a 5 letter word to guess.",
    "section": "crowdsourced",
    "recommender": "Kev (reader)"
@@ -260,8 +283,12 @@
    "name": "Levels",
    "url": "https://www.levels.com/software",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness",
+    "subscription",
+    "ios"
+   ],
    "blurb": "I was a user of Levels for a long time to track my glucose, but didn’t realize you can now buy a Dexcom Stelo for $80 on Amazon and it integrates into Oura ring to understand more about your holistic health. It’s a great alternative if you’re interested in tracking your glucose.",
    "section": "crowdsourced",
    "recommender": "Will (reader)"
@@ -271,8 +298,10 @@
    "name": "Dexcom Stelo",
    "url": "https://www.stelo.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "fitness"
+   ],
    "blurb": "I was a user of Levels for a long time to track my glucose, but didn’t realize you can now buy a Dexcom Stelo for $80 on Amazon and it integrates into Oura ring to understand more about your holistic health. It’s a great alternative if you’re interested in tracking your glucose.",
    "section": "crowdsourced",
    "recommender": "Will (reader)"
@@ -282,8 +311,10 @@
    "name": "Oura ring",
    "url": "https://ouraring.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "fitness"
+   ],
    "blurb": "I was a user of Levels for a long time to track my glucose, but didn’t realize you can now buy a Dexcom Stelo for $80 on Amazon and it integrates into Oura ring to understand more about your holistic health. It’s a great alternative if you’re interested in tracking your glucose.",
    "section": "crowdsourced",
    "recommender": "Will (reader)"
@@ -293,8 +324,10 @@
    "name": "Sony MDRZX110NC",
    "url": "https://www.anrdoezrs.net/click-8836598-15268034?url=https://electronics.sony.com/audio/headphones/headband/p/mdrzx110nc",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "My fav cheap headphones that I use most days are the Sony MDRZX110NC , which are kind of noise cancelling, but nothing fancy. My ‘real’ headphones are the MDR-V6 and the long-discontinued MDR-V700DJ that I’ve mostly retired. Not really much of a wireless guy since I just like to plug stuff in.",
    "section": "crowdsourced",
    "recommender": "Ben (reader)"
@@ -304,8 +337,12 @@
    "name": "Subo",
    "url": "https://www.getsubo.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity",
+    "subscription"
+   ],
    "blurb": "Got the early bird access to Subo app! It’s an independent app to track your subscriptions, looks pretty too!",
    "section": "crowdsourced",
    "recommender": "Kevin (reader)"
@@ -328,7 +365,7 @@
    "name": "Siete Churro Strips",
    "url": "https://sietefoods.com/collections/all/products/churro-strips-5-oz-6-bags",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "I got the Siete Churro Strips from Wegman’s last week, and I’ve been crumbling them up and putting them on my vanilla ice cream at night. It’s so good to get that little bit of crunch with the vanilla ice cream.",
    "section": "crowdsourced",
@@ -389,8 +426,11 @@
    "name": "maybe the greatest Vine of all time",
    "url": "https://nymag.com/intelligencer/2016/01/story-of.html",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "free"
+   ],
    "blurb": "If you weren’t around at the time, some of it might make absolutely no sense, but there’s more comedy cold in these six-second videos than you’ll find just about anywhere, And if you’re feeling particularly nostalgic, you should read this story from our friends at New York about maybe the greatest…",
    "section": "signing-off",
    "recommender": null

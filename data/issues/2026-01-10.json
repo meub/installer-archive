@@ -26,7 +26,7 @@
     "https://www.theverge.com/tech/851368/clicks-power-keyboard-phone-battery",
     "https://clicks.tech/powerkeyboard"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "The Clicks Power Keyboard . The Communicator is maybe my favorite gadget of this year’s CES, but the Power Keyboard is much more finished and probably more practical. You can attach it to your phone, but it also works as a Bluetooth keyboard for your iPad, smart TV, and whatever else.",
    "section": "the-drop",
@@ -39,7 +39,7 @@
    "alt_urls": [
     "https://www.theverge.com/tech/854556/lego-announces-smart-brick-the-most-significant-evolution-in-50-years"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Undeniably the story of CES this year , at least according to our comments and website traffic! I actually love how simple an idea this is: it’s not some full-on NEW SMART LEGO SYSTEM, it’s just a way to make your favorite sets come even more alive.",
    "section": "the-drop",
@@ -52,8 +52,11 @@
    "alt_urls": [
     "https://www.theverge.com/tech/857403/ikea-kallsup-bluetooth-speaker-price-release-date"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home",
+    "music"
+   ],
    "blurb": "Ikea is on such a heater of great smart home devices right now. I absolutely love the idea of dotting these little speaker cubes all over the house, chaining them all together into an extremely colorful audio system. Ten bucks apiece is a huge win, too.",
    "section": "the-drop",
    "recommender": null
@@ -65,7 +68,7 @@
    "alt_urls": [
     "https://www.theverge.com/tech/853587/lenovo-legion-go-2-steam-os-annoucement-price-release-date"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "The latest in Lenovo’s line of handheld consoles, this one is already a win because it runs SteamOS and not Windows. It’s seriously expensive, and I suspect we’ll see a lot of new competition before this hits shelves in June, but this one checks a lot of the right handheld boxes.",
    "section": "the-drop",
@@ -78,8 +81,10 @@
    "alt_urls": [
     "https://www.theverge.com/tech/844583/pila-makes-the-power-station-pretty"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "Every time the power flickers — which seems to be happening more and more — I get a little closer to buying a backup battery. These are, against all odds, not hideous to look at! Which is maybe why they’re also kind of expensive. But I suspect I’ll be willing to make that trade.",
    "section": "the-drop",
    "recommender": null
@@ -91,7 +96,7 @@
    "alt_urls": [
     "https://www.theverge.com/tech/854886/corsair-galleon-100-sd-elgato-stream-deck-specs-price-launch"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Having used a Stream Deck for years now, I think the keyboard is actually where the Stream Deck belongs . This is a beast of a mechanical keyboard, too. I’m normally looking for something quieter and lower-profile, but I look at this, and I think I would be unstoppable.",
    "section": "the-drop",
@@ -105,8 +110,11 @@
     "https://www.theverge.com/tech/853290/shokz-open-fit-pro-hands-on-ces-2026-headphones-wearables",
     "https://shokz.com/products/openrunpro2"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music",
+    "fitness"
+   ],
    "blurb": "Shokz’s stuff continues to be my go-to recommendation for people who need open-ear, out-in-the-world headphones. These new buds, which appear to actually somehow also offer solid noise reduction , might just replace the OpenRun Pro 2 headband I’ve been wearing for years.",
    "section": "the-drop",
    "recommender": null
@@ -118,8 +126,10 @@
    "alt_urls": [
     "https://www.theverge.com/tech/854352/samsung-galaxy-z-trifold-hands-on"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "My theory of foldable phones is that we haven’t yet figured out what “slightly bigger than your phone” actually accomplishes. But “way bigger than your phone?” We know what that can do. And this phone folds out to be way bigger. I can’t stop myself from wanting one.",
    "section": "the-drop",
    "recommender": null
@@ -142,8 +152,10 @@
    "alt_urls": [
     "https://www.theverge.com/tech/853006/govee-sky-ceiling-light-ultra-specs"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "I’m writing to you from my dark, effectively windowless basement, staring at the pictures of this faux skylight and thinking that yes, in fact, this might make my days more bearable. Or maybe I should go outside more. Who knows.",
    "section": "the-drop",
    "recommender": null
@@ -164,8 +176,13 @@
    "name": "Letterboxd",
    "url": "https://letterboxd.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "movie",
+    "social"
+   ],
    "blurb": "I’ve been really enjoying Letterboxd lately. It’s not the most well-designed app, but as an aspiring insufferable film snob, it scratches the itch I have right now for escape and distraction.",
    "section": "screen-share",
    "recommender": "Andy"
@@ -175,8 +192,11 @@
    "name": "one-sentence reviews of Marty Supreme",
    "url": "https://letterboxd.com/film/marty-supreme/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "movie",
+    "article"
+   ],
    "blurb": "I’ve been really enjoying Letterboxd lately. It’s not the most well-designed app, but as an aspiring insufferable film snob, it scratches the itch I have right now for escape and distraction.",
    "section": "screen-share",
    "recommender": "Andy"
@@ -225,8 +245,10 @@
    "name": "Geese’s Getting Killed",
    "url": "https://geese.lnk.to/gettingkilled",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "I’ve been really enjoying Letterboxd lately. It’s not the most well-designed app, but as an aspiring insufferable film snob, it scratches the itch I have right now for escape and distraction.",
    "section": "screen-share",
    "recommender": "Andy"
@@ -236,8 +258,10 @@
    "name": "Slow Gods",
    "url": "https://www.hachettebookgroup.com/titles/claire-north/slow-gods/9780316586344/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Slow Gods , by Claire North. It’s a banger!",
    "section": "crowdsourced",
    "recommender": "Eliot (reader)"
@@ -247,8 +271,10 @@
    "name": "Murderbot Diaries",
    "url": "https://marthawells.com/murderbot.htm",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Martha Wells’s Murderbot Diaries was the sassy, perfect romp I needed this holiday season. (I haven’t yet watched the TV show .)",
    "section": "crowdsourced",
    "recommender": "Lauren (reader)"
@@ -271,8 +297,10 @@
    "name": "Margaret Atwood’s memoir",
    "url": "https://www.penguinrandomhouse.com/books/673328/book-of-lives-by-margaret-atwood/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Martha Wells’s Murderbot Diaries was the sassy, perfect romp I needed this holiday season. (I haven’t yet watched the TV show .)",
    "section": "crowdsourced",
    "recommender": "Lauren (reader)"
@@ -282,7 +310,7 @@
    "name": "Profitec 600",
    "url": "https://www.wholelattelove.com/products/profitec-pro-600-dual-boiler-espresso-machine",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Martha Wells’s Murderbot Diaries was the sassy, perfect romp I needed this holiday season. (I haven’t yet watched the TV show .)",
    "section": "crowdsourced",
@@ -293,7 +321,7 @@
    "name": "Ember Mug 2",
    "url": "https://ember.com/products/ember-mug-2",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Martha Wells’s Murderbot Diaries was the sassy, perfect romp I needed this holiday season. (I haven’t yet watched the TV show .)",
    "section": "crowdsourced",
@@ -304,8 +332,10 @@
    "name": "Retronauts",
    "url": "https://retronauts.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "I’m relistening to old Retronauts pods. The more Bob Mackey in my life, the better.",
    "section": "crowdsourced",
    "recommender": "Brad (reader)"
@@ -315,8 +345,12 @@
    "name": "Retro",
    "url": "https://retro.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "social",
+    "subscription"
+   ],
    "blurb": "An app I started using because Instagram has decided that authentic content was meaningless has been Retro . I got a free year of the premium subscription and am basically just using it as a personal photo journal rather than a social network.",
    "section": "crowdsourced",
    "recommender": "Ryan (reader)"
@@ -339,8 +373,11 @@
    "name": "Pixel Buds 2a",
    "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://store.google.com/product/pixel_buds_2a?hl=en-US&pli=1",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android",
+    "music"
+   ],
    "blurb": "Just got myself a Pixel Buds 2a after realising that I don’t, in fact, need some expensive Ultra or Pro earbuds. Love these things and how light they are. They just work! (And have no settings I need to dig deep for!) Bonus points for acting as a temporary Find My tracker. All this at $99.",
    "section": "crowdsourced",
    "recommender": "Anshuman (reader)"
@@ -363,8 +400,10 @@
    "name": "Espro portable coffee maker",
    "url": "https://espro.com/collections/travel-press",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "travel"
+   ],
    "blurb": "I recommend the Espro portable coffee maker . I travel to Italy for work regularly and the country has a coffee volume problem for Americans. No, that one-ounce espresso isn’t going to wake me up. I tried an Aeropress previously but it has a lot more pieces and cleanup.",
    "section": "crowdsourced",
    "recommender": "Sean (reader)"
@@ -374,8 +413,12 @@
    "name": "Mr. Owen Cutts",
    "url": "https://www.tiktok.com/@mrowencutts",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music",
+    "video",
+    "social"
+   ],
    "blurb": "I’ve been meaning to recommend Mr. Owen Cutts on TikTok. He does something called Old Music Friday, and it’s awesome! He plays classic soul, R&B songs, and goes through what makes them great. But that’s not the best part — he gets so into the music he dances….. it’s just gotta be seen to enjoy.",
    "section": "crowdsourced",
    "recommender": "Brian (reader)"
@@ -385,8 +428,11 @@
    "name": "ChatGPT",
    "url": "https://chatgpt.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "cross-platform"
+   ],
    "blurb": "I recently started using ChatGPT to play a solo RPG. (Solo RPGs are games where you receive random events by rolling dice/drawing cards and then journaling what happens.) Rather than writing a few simple sentences of what happened, I have ChatGPT take my plot points and write a paragraph.",
    "section": "crowdsourced",
    "recommender": "Albert (reader)"
@@ -396,8 +442,11 @@
    "name": "ElevenLabs",
    "url": "https://elevenlabs.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web"
+   ],
    "blurb": "I recently started using ChatGPT to play a solo RPG. (Solo RPGs are games where you receive random events by rolling dice/drawing cards and then journaling what happens.) Rather than writing a few simple sentences of what happened, I have ChatGPT take my plot points and write a paragraph.",
    "section": "crowdsourced",
    "recommender": "Albert (reader)"
@@ -407,8 +456,12 @@
    "name": "NYT Games app",
    "url": "https://www.nytimes.com/crosswords/apps",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android",
+    "subscription"
+   ],
    "blurb": "One of my New Year’s resolutions this year is to scroll less and game more. I’m not trying to not waste time on my phone, I just want to waste that time in a way that makes me feel good and not bad.",
    "section": "signing-off",
    "recommender": null
@@ -418,8 +471,11 @@
    "name": "Puzzmo",
    "url": "https://www.puzzmo.com/today",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "subscription"
+   ],
    "blurb": "One of my New Year’s resolutions this year is to scroll less and game more. I’m not trying to not waste time on my phone, I just want to waste that time in a way that makes me feel good and not bad.",
    "section": "signing-off",
    "recommender": null
@@ -429,8 +485,11 @@
    "name": "Balatro",
    "url": "https://www.playbalatro.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "cross-platform",
+    "paid"
+   ],
    "blurb": "One of my New Year’s resolutions this year is to scroll less and game more. I’m not trying to not waste time on my phone, I just want to waste that time in a way that makes me feel good and not bad.",
    "section": "signing-off",
    "recommender": null
@@ -440,8 +499,11 @@
    "name": "Asphalt 8",
    "url": "https://www.gameloft.com/game/asphalt-8",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "subscription"
+   ],
    "blurb": "This shift has, somewhat unexpectedly, made me absolutely love Apple Arcade. For $6.99 a month, I get a bunch of exclusive games and, more importantly, a lot of games without ads or in-app purchase shenanigans. As a result, I’m playing more games — and trying more new ones — than ever.",
    "section": "signing-off",
    "recommender": null

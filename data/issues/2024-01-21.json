@@ -26,8 +26,11 @@
     "https://www.theverge.com/2024/1/17/24040715/samsung-galaxy-s24-ultra-specs-price-ai",
     "https://www.theverge.com/2024/1/17/24040372/samsung-galaxy-s24-plus-price-release-date-specs-features-ai-artificial-intelligence"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android",
+    "ai"
+   ],
    "blurb": "It’s a safe bet that this will be the best Android phone of the year. Samsung keeps pushing on camera specs, integrated AI (it has more Google AI than the Pixels!), and overall how enormous and expensive a phone can actually be.",
    "section": "the-drop",
    "recommender": null
@@ -39,8 +42,12 @@
    "alt_urls": [
     "https://www.theverge.com/2024/1/17/24041330/notion-calendar-app"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform",
+    "free"
+   ],
    "blurb": "Cron was one of the best-looking calendar apps on the market, and when Notion acquired it in 2022, it was only a matter of time until the two platforms integrated more. Now, Cron is Notion Calendar , with deep database and notes integration.",
    "section": "the-drop",
    "recommender": null
@@ -50,8 +57,12 @@
    "name": "TidyCal 3.0",
    "url": "https://tidycal.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "web",
+    "paid"
+   ],
    "blurb": "One more calendar thing: I’ve done a total 180 over the years, and I now prefer a Calendly-style “just put time on my calendar” email rather than a bunch of back and forth. TidyCal is a cheap and easy tool for just that, and it just got a nice redesign, too.",
    "section": "the-drop",
    "recommender": null
@@ -63,8 +74,10 @@
    "alt_urls": [
     "https://www.theverge.com/24035933/prince-of-persia-the-lost-crown-review-ubisoft"
    ],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "cross-platform"
+   ],
    "blurb": "Two weeks into 2024, and already a strong Game of the Year contender! The praise for this side-scroller has been pretty much universal . It’s a good mix of difficult and doable, old structures and new ways of doing stuff. And lots and lots of fighting.",
    "section": "the-drop",
    "recommender": null
@@ -76,8 +89,10 @@
    "alt_urls": [
     "https://www.theverge.com/2023/11/28/23979860/ayaneo-am01-mini-pc-amd-windows-price-release-date"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "windows"
+   ],
    "blurb": "I have Ayaneo’s Macintosh-looking AM01 sitting on my desk right now, and it’s delightful. The AM02 looks like an old-school Nintendo console, and I think I like it even more. These are cheap, simple PCs for light gaming or simple tasks, and the aesthetics are just on point.",
    "section": "the-drop",
    "recommender": null
@@ -87,8 +102,10 @@
    "name": "The DJI Mic 2",
    "url": "https://store.dji.com/product/dji-mic-2?vid=161301",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "video"
+   ],
    "blurb": "I think microphones might be the best thing DJI makes? The drones are great, yeah yeah, but these are some surprisingly high-end mobile mics that any creator or podcaster might want to add to their kit.",
    "section": "the-drop",
    "recommender": null
@@ -113,8 +130,11 @@
    "alt_urls": [
     "https://www.theverge.com/2024/1/18/24042265/bose-kith-ultra-open-earbuds-price-design"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music",
+    "podcast"
+   ],
    "blurb": "I’ve been increasingly replacing my AirPods with the Ray-Ban Meta glasses because I listen to too many podcasts, and shoving anything into my ear canals hurts after a while. These are a clever — if expensive, at $300 — workaround: high-end earbuds that clip to your ears instead of resting in them.",
    "section": "the-drop",
    "recommender": null
@@ -124,8 +144,12 @@
    "name": "Superhuman AI",
    "url": "https://superhuman.com/ai",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "productivity",
+    "subscription"
+   ],
    "blurb": "I’m convinced that “write my boring, repetitive business-speak emails for me” is the best current use for AI. And Superhuman’s doing it really nicely — you just sort of sketch out your idea for an email, and boom, it writes it for you. Is it great prose? No. But it’s email! Who cares!",
    "section": "the-drop",
    "recommender": null
@@ -135,8 +159,12 @@
    "name": "Plants vs. Zombies 3",
    "url": "https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-3/news/soft-launch-announcement",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "I honestly forgot about this game, one of the silliest and most fun early mobile games. And now it’s back! I’m not wild about it embracing microtransactions, and it’s not available everywhere yet, but I’m confident I’ll lose a lot of hours in PvZ3 before too long.",
    "section": "the-drop",
    "recommender": null
@@ -157,8 +185,10 @@
    "name": "Before Watchmen",
    "url": "https://www.dc.com/graphic-novels/before-watchmen-2012/before-watchmen-omnibus",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I recently drove by a pretty amazing comic book store near Chico, California. I ended up buying some new and old comic books, including Before Watchmen and Something Is Killing the Children , which I also found out has been picked up by Netflix.",
    "section": "screen-share",
    "recommender": "Vjeran"
@@ -168,8 +198,10 @@
    "name": "Something Is Killing the Children",
    "url": "https://www.boom-studios.com/series/something-killing-children/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I recently drove by a pretty amazing comic book store near Chico, California. I ended up buying some new and old comic books, including Before Watchmen and Something Is Killing the Children , which I also found out has been picked up by Netflix.",
    "section": "screen-share",
    "recommender": "Vjeran"
@@ -179,8 +211,11 @@
    "name": "Insta360 Ace",
    "url": "https://store.insta360.com/product/ace-pro?i_source=website&i_medium=product_page_button&i_campaign=ace-pro&_gl=1*tf11gq*_ga*Mjg0MTcxOTUwLjE3MDU2OTA3OTQ.*_ga_7TV2BE92TS*MTcwNTY5MDc5My4xLjEuMTcwNTY5MDgwOS40NC4wLjA.",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "video",
+    "photography"
+   ],
    "blurb": "I recently drove by a pretty amazing comic book store near Chico, California. I ended up buying some new and old comic books, including Before Watchmen and Something Is Killing the Children , which I also found out has been picked up by Netflix.",
    "section": "screen-share",
    "recommender": "Vjeran"
@@ -229,8 +264,12 @@
    "name": "PlayPilot",
    "url": "https://www.playpilot.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "tv",
+    "movie"
+   ],
    "blurb": "PlayPilot is pretty much my go-to site for finding out where movies are streaming (or not). We save the stuff we want to see in there and then roll through the services over the year. I just wish they were integrated with LG TVs…",
    "section": "crowdsourced",
    "recommender": "Robert (reader)"
@@ -251,8 +290,11 @@
    "name": "Unexplainable",
    "url": "https://www.vox.com/unexplainable",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "free"
+   ],
    "blurb": "Disclosure: Vox Media is a parent company of The Verge . That said, Unexplainable is such a great podcast. Huge variety of topics. Each episode is short enough to keep me from losing interest yet still manages to pack in a ton of info and be interesting. I learn so much!”",
    "section": "crowdsourced",
    "recommender": null
@@ -262,8 +304,11 @@
    "name": "Structured",
    "url": "https://structured.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "I tried adding Structured to my productivity stack for the new semester, and even though it didn’t stick for me (I’ve got too much structured time that lives in GCal, it turns out), it’s very pretty and fairly full-featured.",
    "section": "crowdsourced",
    "recommender": "Ainslee (reader)"
@@ -273,8 +318,11 @@
    "name": "Holedown",
    "url": "https://holedown.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "paid"
+   ],
    "blurb": "I’m always looking out for iOS games I can play while listening to podcasts. They should be ‘mindless’ and preferably playable in bits while stuck in traffic. The game Holedown always filled that hole for me (no pun intended).",
    "section": "crowdsourced",
    "recommender": "Mustapha (reader)"
@@ -297,8 +345,11 @@
    "name": "Clear",
    "url": "https://www.useclear.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "Clear is back, and it looks stunning. And for those at home, there are collectibles: themes, icons, sounds, etc.” – Austin (Austin also sent their referral link , which gets everybody free stuff. Yay, free stuff!)",
    "section": "crowdsourced",
    "recommender": null
@@ -308,7 +359,7 @@
    "name": "their referral link",
    "url": "https://app.useclear.com/refer/2WZ7BR",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Clear is back, and it looks stunning. And for those at home, there are collectibles: themes, icons, sounds, etc.” – Austin (Austin also sent their referral link , which gets everybody free stuff. Yay, free stuff!)",
    "section": "crowdsourced",

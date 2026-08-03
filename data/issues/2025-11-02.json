@@ -26,8 +26,12 @@
    "alt_urls": [
     "https://getchannels.com/2025/10/29/channels-7/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "tv",
+    "video",
+    "ios"
+   ],
    "blurb": "A big update to an Installer favorite, mostly dedicated to making Channels look much nicer on both mobile devices and the Apple TV. If you’re a big library manager, this’ll be a huge upgrade. Plus it lets you multiview all the things!",
    "section": "the-drop",
    "recommender": null
@@ -39,7 +43,7 @@
    "alt_urls": [
     "https://www.theverge.com/entertainment/809022/the-outer-worlds-2-corporate-satire-interview-xbox"
    ],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I never played the original game in this series, but have heard mostly great things about its world- and character-building, and the sequel seems to be better on all fronts. The whole series is also basically a satire of capitalism and big government, which hits… different these days.",
    "section": "the-drop",
@@ -63,8 +67,10 @@
    "name": "The Nothing Phone 3a Lite",
    "url": "https://nothing.tech/products/phone-3a-lite?Colour=White",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "Another one for the “sucks we can’t buy this in America” files. This is a nice-looking, decently powerful phone with a big screen and a big battery. For like $300! (But only in the UK and Europe.) I love how good the low-end Android market is getting.",
    "section": "the-drop",
    "recommender": null
@@ -74,8 +80,10 @@
    "name": "Battlefield Redsec",
    "url": "https://www.ea.com/games/battlefield/redsec",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "free"
+   ],
    "blurb": "Battle royale Battlefield . (Say that three times fast.) Play alone, play in squads, even do missions rather than just trying to survive. All the modes and customizability mean I’m almost certainly going to be awful at this game, but that’s okay.",
    "section": "the-drop",
    "recommender": null
@@ -85,7 +93,7 @@
    "name": "Fortnite Sidekicks",
    "url": "https://www.fortnite.com/news/introducing-fortnite-sidekicks?lang=en-US",
    "alt_urls": [],
-   "category": null,
+   "category": "feature",
    "tags": [],
    "blurb": "Big week for battle royales! I include this — a new, largely adorable set of friends you can add to your Fortnite getup — as an excuse to say I’ve been getting back into Fortnite after a couple of years away from it, and it’s the best. Right now it’s being Simpsons- ified, and it’s so much fun.",
    "section": "the-drop",
@@ -96,7 +104,7 @@
    "name": "Board",
    "url": "https://board.fun/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I feel like we’ve seen roughly this idea — a tabletop surface that is both a screen and a playing surface that interacts with physical pieces, so you can play all kinds of augmented board games — a bunch of times.",
    "section": "the-drop",
@@ -120,8 +128,12 @@
    "name": "Tor 15",
    "url": "https://blog.torproject.org/new-release-tor-browser-150/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "open-source",
+    "web"
+   ],
    "blurb": "Tor is a super powerful, privacy-focused browser, but it has never been the most… usable browser. The new version is cleaner and nicer looking, with vertical tabs (!) and some useful organization tricks.",
    "section": "the-drop",
    "recommender": null
@@ -296,8 +308,10 @@
    "alt_urls": [
     "https://photowalk.show/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Podcasts : Stuff You Should Know , The Photowalk",
    "section": "group-project",
    "recommender": null
@@ -318,7 +332,7 @@
    "name": "Firewatch",
    "url": "https://www.firewatchgame.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "The wallpaper: Some art from Firewatch . I’ve got the orange backplate on my phone so I like to use orange wallpapers to match.",
    "section": "screen-share",
@@ -342,7 +356,7 @@
    "name": "Pebble Time 2",
    "url": "https://store.repebble.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I also have some lone apps sitting around outside my folders, like the revived Pebble app. I’ve still got a while left to wait for my Pebble Time 2 to ship, so I’ve been checking out the custom watchfaces people have been sharing since the app returned to the app stores.",
    "section": "screen-share",
@@ -353,8 +367,11 @@
    "name": "Focus Friend",
    "url": "https://www.yourfocusfriend.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "I also have some lone apps sitting around outside my folders, like the revived Pebble app. I’ve still got a while left to wait for my Pebble Time 2 to ship, so I’ve been checking out the custom watchfaces people have been sharing since the app returned to the app stores.",
    "section": "screen-share",
    "recommender": "Stevie"
@@ -390,7 +407,7 @@
    "name": "The Outer Worlds 2",
    "url": "https://outerworlds2.obsidian.net/enter",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I’ve been doing my best to keep up with Critical Role Campaign 4 the past few weeks, which has been fantastic so far. It’s fun seeing so many of my favorite TTRPG players in the same campaign, and the GMing from Brennan Lee Mulligan is top-notch, as always.",
    "section": "screen-share",
@@ -401,8 +418,11 @@
    "name": "Clues by Sam",
    "url": "https://cluesbysam.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "I just discovered Clues by Sam — one logic puzzle per day. Love it. Make sure you read the rules below the puzzle for tips.",
    "section": "crowdsourced",
    "recommender": "Jim (reader)"
@@ -412,7 +432,7 @@
    "name": "Yomi 2",
    "url": "https://www.sirlingames.com/yomi2",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I’ve been playing a LOT lately of the card game Yomi 2 , mostly in its digital version on Steam. The basic gist is that it’s a fighting game in card game form, by a designer who loves fighting games and wants more people to enjoy the mindgames of high-level play.",
    "section": "crowdsourced",
@@ -447,8 +467,10 @@
    "name": "the bird of the year",
    "url": "https://www.theguardian.com/environment/australian-bird-of-the-year-2025",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "website"
+   ],
    "blurb": "Every second year, the Guardian Australia hosts a national poll to select the bird of the year . The last iteration of this had over 320,000 votes, which is a lot for a small country like Australia!",
    "section": "crowdsourced",
    "recommender": "Jon (reader)"
@@ -458,8 +480,12 @@
    "name": "Kagi",
    "url": "https://kagi.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "subscription",
+    "paid"
+   ],
    "blurb": "I have also been using Kagi as my search engine. I have the search extension in Safari and I’ve been using their browser, Orion , for the past few weeks. Kagi search is built into the Orion browser, so it’s kind of a one-stop shop.",
    "section": "crowdsourced",
    "recommender": "Geoff (reader)"
@@ -469,8 +495,12 @@
    "name": "Orion",
    "url": "https://kagi.com/orion/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "ios",
+    "web"
+   ],
    "blurb": "I have also been using Kagi as my search engine. I have the search extension in Safari and I’ve been using their browser, Orion , for the past few weeks. Kagi search is built into the Orion browser, so it’s kind of a one-stop shop.",
    "section": "crowdsourced",
    "recommender": "Geoff (reader)"
@@ -493,8 +523,10 @@
    "name": "The Emperor of Gladness",
    "url": "https://www.penguinrandomhouse.com/books/752232/the-emperor-of-gladness-oprahs-book-club-by-ocean-vuong/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "The Emperor of Gladness of Ocean Vuong. It beautifully captures the messiness of life in today’s America, and yet the humanity present in all that mess.",
    "section": "crowdsourced",
    "recommender": "Jeroen (reader)"
@@ -517,8 +549,12 @@
    "name": "Sublime",
    "url": "https://sublime.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web",
+    "productivity"
+   ],
    "blurb": "I’ve been using Sublime for two years now, and what Sari and her team have built there is a very human take on AI and personal highlights, bookmarks and idea discovery. They recently also introduced Podcast Magic , which is an unique and easy way to bookmark podcasts on the go.",
    "section": "crowdsourced",
    "recommender": "Atmos (reader)"
@@ -528,8 +564,10 @@
    "name": "Podcast Magic",
    "url": "https://podcastmagic.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "I’ve been using Sublime for two years now, and what Sari and her team have built there is a very human take on AI and personal highlights, bookmarks and idea discovery. They recently also introduced Podcast Magic , which is an unique and easy way to bookmark podcasts on the go.",
    "section": "crowdsourced",
    "recommender": "Atmos (reader)"
@@ -539,8 +577,11 @@
    "name": "Bazzite",
    "url": "https://bazzite.gg/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "free"
+   ],
    "blurb": "Recently installed Bazzite on my gaming PC (dual-booting), and I think I’m a Linux convert now. Super easy to get up and running, and so far everything I’ve tried works right out of the box.",
    "section": "crowdsourced",
    "recommender": "Eddy (reader)"
@@ -550,8 +591,11 @@
    "name": "all the gear NBC is using",
    "url": "https://www.sportsvideo.org/2025/10/21/nba-on-nbc-peacock-nbc-sports-nep-build-ultra-flexible-production-plan-that-seamlessly-blends-onsite-remi-models/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "video"
+   ],
    "blurb": "So what did NBC do? The folks at Sports Video Group have two good stories on all the gear NBC is using , and how it upgraded its systems to bring better video to your screen. I love this stuff, and I am constantly reminded that it is vastly more complicated than it looks.",
    "section": "signing-off",
    "recommender": null
@@ -561,8 +605,11 @@
    "name": "upgraded its systems",
    "url": "https://www.sportsvideo.org/2025/10/20/how-nbc-sports-transitioned-stamford-faciliy-to-one-format-1080p-hdr/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "video"
+   ],
    "blurb": "So what did NBC do? The folks at Sports Video Group have two good stories on all the gear NBC is using , and how it upgraded its systems to bring better video to your screen. I love this stuff, and I am constantly reminded that it is vastly more complicated than it looks.",
    "section": "signing-off",
    "recommender": null

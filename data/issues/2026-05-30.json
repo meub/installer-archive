@@ -23,7 +23,7 @@
    "name": "007 First Light",
    "url": "https://ioi.dk/007firstlightgame",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I have played a lot of James Bond games over the years, and been disappointed by most of them. (At least since Goldeneye , one of the best games of all time.) By virtually all accounts, this is the Bond game we’ve all been waiting for.",
    "section": "the-drop",
@@ -34,8 +34,10 @@
    "name": "The Oura Ring 5",
    "url": "https://ouraring.com/store/rings/oura-ring-5",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "fitness"
+   ],
    "blurb": "My main gripe with the Oura Ring has always been its size — it’s just big enough that it seems to bonk into everything when I’m wearing it, and I never quite get used to it. The new one has some clever new features, but is also substantially lighter and smaller. That’s a big win all by itself.",
    "section": "the-drop",
    "recommender": null
@@ -60,8 +62,12 @@
    "alt_urls": [
     "https://www.theverge.com/tech/938339/lux-optics-halide-mark-iii-ios-iphone-camera-app-looks-editor-raw-files-now-available"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "photography",
+    "paid"
+   ],
    "blurb": "Halide is still the gold standard for third-party camera apps, and the new update brings a very useful feature : You can now take RAW photos with other cameras and use Halide to process them with Halide’s cool new set of filters and presets.",
    "section": "the-drop",
    "recommender": null
@@ -71,8 +77,10 @@
    "name": "The Sennheiser Momentum 5",
    "url": "https://us.sennheiser-hearing.com/collections/momentum-series-headphones/products/momentum-5-wireless",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "Sennheiser probably deserves more shine in the headphone world. I know a lot of people who love the Momentum 4s, and the new model comes with more battery life, better noise cancellation, and a user-upgradeable battery.",
    "section": "the-drop",
    "recommender": null
@@ -82,7 +90,7 @@
    "name": "Mina the Hollower",
    "url": "https://www.yachtclubgames.com/games/mina-the-hollower/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "According to, uh, everyone, this might be the best game of the year so far. It comes from the developer behind Shovel Knight , and people are comparing it to some of the great games of all time. It’s a fairly simple-looking game that hides something huge and ambitious, and I can’t wait to dig in.",
    "section": "the-drop",
@@ -108,8 +116,12 @@
    "alt_urls": [
     "https://open.spotify.com/show/61Z5E7I0hCNHOcjqqqV5Nw"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "article",
+    "subscription",
+    "music"
+   ],
    "blurb": "A bunch of curated, narrated, long-form journalism, and Premium users can listen to a handful of them free every month. There are some odd article choices in here, but also some true classics, including the great cocaine treasure hunt .",
    "section": "the-drop",
    "recommender": null
@@ -134,7 +146,7 @@
    "alt_urls": [
     "https://www.theverge.com/transportation/939226/ferrari-luce-design-terrible-ev-jony-ive-apple"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "This has to be the most expensive thing in the history of Installer , right? I really don’t care for the look of Ferrari’s first EV (and it seems neither does anyone else ), but there are some genuinely brilliant things going on inside of it. If you want to give me a ride in yours, I won’t complain.",
    "section": "the-drop",
@@ -156,8 +168,10 @@
    "name": "Hatch",
    "url": "https://www.hatch.co/?srsltid=AfmBOooRJQjzxfjsJ1GB2DtR0xEkPut4NgYAAkpqH-DQvmK626xYOKEV",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "I LOVE the Hatch sound machine for my toddler. The app is pretty decent. I like curating ambiance for my kid’s bedtime routine.",
    "section": "screen-share",
    "recommender": "Danielle"
@@ -180,8 +194,12 @@
    "name": "ChatPRD",
    "url": "https://www.chatprd.ai/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity",
+    "web"
+   ],
    "blurb": "Death by Lightning . Just finished. LOVED. ChatPRD . An AI tool for product managers, created by Claire Vo, who has been such an interesting person to also follow in the PM/AI space. I mostly use it for rubber ducking and processing my product thoughts. The Techno Sapiens newsletter.",
    "section": "screen-share",
    "recommender": "Danielle"
@@ -204,7 +222,7 @@
    "name": "Indiana Jones and the Great Circle",
    "url": "https://indianajones.bethesda.net/en-US",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Finally getting around to Indiana Jones and the Great Circle on PS5. Such a fun adventure game, very well performed and puzzles with just the right amount of challenge. Scratches that Uncharted itch. Really digging it.",
    "section": "crowdsourced",
@@ -215,8 +233,12 @@
    "name": "ImgBurn",
    "url": "https://www.imgburn.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "windows",
+    "utilities",
+    "free"
+   ],
    "blurb": "With the prices of storage still insanely high, I’m rediscovering burning files / photos onto CDs and DCDs using the ImgBurn software.",
    "section": "crowdsourced",
    "recommender": "Allen (reader)"
@@ -250,8 +272,10 @@
    "name": "Oofos",
    "url": "https://www.oofos.com/?_ab=0",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "fitness"
+   ],
    "blurb": "With the death of Allbirds, I’ve been rocking Oofos tennis shoes, which are a fantastic recovery shoe for the beach, the office, and definitely after the long run at the end of the week.",
    "section": "crowdsourced",
    "recommender": "Jimmy (reader)"
@@ -261,8 +285,10 @@
    "name": "Player Piano",
    "url": "https://www.penguinrandomhouse.com/books/184341/player-piano-by-kurt-vonnegut/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I just finished Kurt Vonnegut’s debut novel from 1952, Player Piano , about a near-future dystopia where automation has displaced all labor and engineers and management live lives of luxury despite not actually doing anything. Nothing of relevance there!!",
    "section": "crowdsourced",
    "recommender": "Andy (reader)"
@@ -272,8 +298,10 @@
    "name": "Kobo Clara BW",
    "url": "https://us.kobobooks.com/products/kobo-clara-bw",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "book"
+   ],
    "blurb": "I bought a Kobo Clara BW in January in an effort to read more and scroll less. I’ve largely succeeded in that goal thus far, but I’d like to recommend the Red Rising book series by Pierce Brown. I’m on the third book, Morning Star , and it’s fantastic so far.",
    "section": "crowdsourced",
    "recommender": "James (reader)"
@@ -283,8 +311,10 @@
    "name": "Red Rising",
    "url": "https://www.piercebrown.com/redrisingsaga",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I bought a Kobo Clara BW in January in an effort to read more and scroll less. I’ve largely succeeded in that goal thus far, but I’d like to recommend the Red Rising book series by Pierce Brown. I’m on the third book, Morning Star , and it’s fantastic so far.",
    "section": "crowdsourced",
    "recommender": "James (reader)"
@@ -307,8 +337,11 @@
    "name": "Extra",
    "url": "https://extra.email/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
    "blurb": "I downloaded Poppy but find it too verbose and sometimes incorrect. Some months ago I came across Extra , an AI-first app for emails and calendar. It’s finally out of Beta and I’m really liking it.",
    "section": "crowdsourced",
    "recommender": "Jay (reader)"
@@ -318,8 +351,11 @@
    "name": "Spotify’s Page Match",
    "url": "https://authors.spotify.com/blog/page-match",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "music",
+    "book"
+   ],
    "blurb": "Spotify’s Page Match feature is my favorite new(ish) tech thing in forever. You use it by taking a picture of your book, on paper or on an e-reader, and Spotify figures out where you are in the book and immediately picks up the audiobook in the right spot.",
    "section": "signing-off",
    "recommender": null

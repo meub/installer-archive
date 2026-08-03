@@ -23,8 +23,10 @@
    "name": "Balatro",
    "url": "https://www.playbalatro.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "cross-platform"
+   ],
    "blurb": "Roughly two-thirds of the internet appears to be into this game right now: a poker roguelike game in which you use special cards to upgrade your hands and build your deck to solve puzzles. It’s complex and delightful.",
    "section": "the-drop",
    "recommender": null
@@ -36,8 +38,10 @@
    "alt_urls": [
     "https://www.theverge.com/2024/2/20/24075147/fujifilm-x100vi-camera-announced-features-price"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography"
+   ],
    "blurb": "The sequel to the internet’s favorite camera is here, and it is gorgeous. (Obviously.) The big news this year seems to be that you might actually be able to get your hands on one — and the early reviews seem to say it’s as good and fun as ever.",
    "section": "the-drop",
    "recommender": null
@@ -50,8 +54,11 @@
     "https://www.youtube.com/shorts/NHat7IaZ488",
     "https://www.tiktok.com/@elle.cordova/video/7327418230866201899"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "social"
+   ],
    "blurb": "I have sent Cordova’s “ Inventions hanging out ” video to approximately half the people I know this week. You might have seen their “ Fonts hanging out ” series, too. This is my kind of comedy.",
    "section": "the-drop",
    "recommender": null
@@ -74,8 +81,12 @@
    "name": "ButterDocs",
    "url": "https://www.butterdocs.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "web",
+    "subscription"
+   ],
    "blurb": "I am so into this: a Google Docs-like collaborative writing app that also has a bunch of really useful outlining and notes-app-style features like backlinking? Yes please. $100 per user per year is… a lot, but there are some really cool ideas in this app.",
    "section": "the-drop",
    "recommender": null
@@ -100,8 +111,10 @@
    "alt_urls": [
     "https://www.penguinrandomhouse.com/books/741192/extremely-hardcore-by-zoe-schiffer/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "More Twitter books! This one is a great companion to Zoë Schiffer’s Extremely Hardcore . Kurt Wagner has tons of Elon Musk drama, of course, but also spends a lot of time on the pre-Musk era at Twitter, particularly Jack Dorsey’s deeply weird leadership style and legacy.",
    "section": "the-drop",
    "recommender": null
@@ -111,8 +124,12 @@
    "name": "Share Spatial Everything",
    "url": "https://sharespatialeverything.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "video",
+    "free"
+   ],
    "blurb": "A crowdsourced database of spatial video and panoramas to give Vision Pro and Quest 3 users cool stuff to watch and look at. It’s like scrolling through a travel-heavy Instagram feed, but all the pictures are humongous.",
    "section": "the-drop",
    "recommender": null
@@ -124,8 +141,10 @@
    "alt_urls": [
     "https://wondery.com/shows/how-i-built-this/episode/10386-the-peril-and-promise-of-ai-with-tristan-harris-part-1/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Sonos is such a weird company — it’s based in a beachy town in California, has resisted so many of the normal trappings of tech companies, and just kept chugging along. But there’s still a ton of drama, a lot of it unresolved, in this story. (I’m also digging HIBT ’s new AI series so far.)",
    "section": "the-drop",
    "recommender": null
@@ -135,8 +154,11 @@
    "name": "Signal usernames",
    "url": "https://signal.org/blog/phone-number-privacy-usernames/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "social",
+    "free"
+   ],
    "blurb": "Signal is trying to move past the phone number, because phone numbers are both incredibly useful and incredibly problematic things to use as usernames. You have to download the beta to get a username for now, but you should! And hit me up: I’m davidpierce.11.",
    "section": "the-drop",
    "recommender": null
@@ -157,8 +179,12 @@
    "name": "Huckleberry",
    "url": "https://huckleberrycare.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "subscription"
+   ],
    "blurb": "Huckleberry is a genius app my wife and I use to manage our 6-month-old — we used it with our now four-year-old to manage sleep, nap predictions, feeding patterns. As new parents, we were tired and shared the load, so it was nice not having to wake each other up each time we do feeds, etc.",
    "section": "screen-share",
    "recommender": "Francesco"
@@ -168,8 +194,11 @@
    "name": "Whoop",
    "url": "https://shareasale.com/r.cfm?b=1627374&u=1225169&m=101649&urllink=&afftrack=",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "fitness",
+    "subscription"
+   ],
    "blurb": "Huckleberry is a genius app my wife and I use to manage our 6-month-old — we used it with our now four-year-old to manage sleep, nap predictions, feeding patterns. As new parents, we were tired and shared the load, so it was nice not having to wake each other up each time we do feeds, etc.",
    "section": "screen-share",
    "recommender": "Francesco"
@@ -179,8 +208,12 @@
    "name": "Todoist",
    "url": "https://todoist.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "productivity",
+    "subscription"
+   ],
    "blurb": "Huckleberry is a genius app my wife and I use to manage our 6-month-old — we used it with our now four-year-old to manage sleep, nap predictions, feeding patterns. As new parents, we were tired and shared the load, so it was nice not having to wake each other up each time we do feeds, etc.",
    "section": "screen-share",
    "recommender": "Francesco"
@@ -190,8 +223,10 @@
    "name": "The Money Lab",
    "url": "https://www.moneylab.co/podcast/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "The Money Lab . Love this podcast. Matt [Giovanisci] is back with talking about his business and the business of marketing. Very interesting. Models of Ferraris. I started a collection of model Ferrari F1 cars from over the years, some from the 1950s to 1980s. I’ve started to get a nice collection.",
    "section": "screen-share",
    "recommender": "Francesco"
@@ -201,7 +236,7 @@
    "name": "Pocket Card Jockey",
    "url": "https://www.gamefreak.co.jp/rideon/en/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Pocket Card Jockey on the Nintendo Switch is one of the best versions of solitaire.",
    "section": "crowdsourced",
@@ -212,8 +247,11 @@
    "name": "a deep dive podcast",
    "url": "https://99percentinvisible.org/episode/breaking-down-the-power-broker/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "book"
+   ],
    "blurb": "99% Invisible has a deep dive podcast on The Power Broker with a new episode out each month. It’s a biography on Robert Moses, ‘the man who built New York,’ doubling as an interesting look into why the city is as it is. The intro episode features Conan O’Brien.",
    "section": "crowdsourced",
    "recommender": "David (reader)"
@@ -223,8 +261,11 @@
    "name": "It’s Literally Just Mowing",
    "url": "https://protostargames.com/just-mowing/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "I am coming up on my 600th consecutive day where I play a round or two of It’s Literally Just Mowing . Yes, I am in my 50s.",
    "section": "crowdsourced",
    "recommender": "Jeff (reader)"
@@ -234,7 +275,7 @@
    "name": "Street Fighter 6",
    "url": "https://www.streetfighter.com/6/en-us",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Street Fighter 6 is on sale, and I bought it because it has a new control scheme that feels more like Smash Bros. with standardized movesets so you don’t have to learn individual combos.",
    "section": "crowdsourced",
@@ -258,8 +299,12 @@
    "name": "Fruit Ninja",
    "url": "https://www.halfbrick.com/games/fruit-ninja-classic",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "Been going old school lately with Fruit Ninja . The difference between the free version on my kid’s Fire tablet and the Classic Plus version in Apple Arcade is amazingly stark. No ads, no pushing in-game currency, nothing but PLAYING THE GAME. REVOLUTIONARY.",
    "section": "crowdsourced",
    "recommender": "Martin (reader)"
@@ -269,8 +314,10 @@
    "name": "Vivomove Trend",
    "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://www.garmin.com/en-US/p/785411/pn/010-02665-02/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "fitness"
+   ],
    "blurb": "This week on the pod, you made a comment about smart watches only ever being a giant computer on your wrist — which I completely agree with. Although Garmin has one (the Vivomove Trend ) in their current lineup that looks really nice! I really like how they integrate the LCD with the watch.",
    "section": "crowdsourced",
    "recommender": "Daniel (reader)"
@@ -293,7 +340,7 @@
    "name": "Final Fantasy VII remake",
    "url": "https://ffvii-remake-intergrade.square-enix-games.com/en-us/?_gl=1*vj4m4b*_gcl_au*mtc5mdkwnjaxms4xnza4njk5njqz",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Everyone has a week to play (or replay) the Final Fantasy VII remake before the new one comes out.",
    "section": "crowdsourced",
@@ -317,8 +364,12 @@
    "name": "Plain Text Sports",
    "url": "https://plaintextsports.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "web",
+    "free"
+   ],
    "blurb": "Right now, though, Apple Sports is missing a lot of stuff. Which gives me a good excuse to tell you about my favorite “just tell me the score” thing: Plain Text Sports . It is ultra-simple, blisteringly fast, shows scores and stats from all over, and leaves you alone.",
    "section": "signing-off",
    "recommender": null

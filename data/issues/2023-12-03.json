@@ -26,7 +26,7 @@
    "alt_urls": [
     "https://www.youtube.com/watch?v=XxOh12Uhg08"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "It finally launched! Ish! I have spent so many hours staring at and talking about this thing for the last four years, and I still can’t decide if I love or hate the design.",
    "section": "the-drop",
@@ -39,8 +39,12 @@
    "alt_urls": [
     "https://www.theverge.com/2023/12/1/23983835/ia-writer-generative-ai-authorship"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity",
+    "paid"
+   ],
    "blurb": "I love the way this writing app integrates ChatGPT : it detects when you’re pasting in generated content and prompts you to note what’s human and what’s AI, and it treats AI more as a “help me brainstorm and think” tool than a “just write this for me” one.",
    "section": "the-drop",
    "recommender": null
@@ -67,8 +71,10 @@
    "alt_urls": [
     "https://www.theverge.com/23982575/spotify-wrapped-2023-apple-music-replay-youtube-music-recap"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "music"
+   ],
    "blurb": "All the year-in-review stuff seems to have kicked off this week — YouTube, Apple Music, Pocket Casts, and more — but Spotify’s just better at this than everybody else.",
    "section": "the-drop",
    "recommender": null
@@ -82,8 +88,11 @@
     "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies&hl=EN",
     "https://mubi.com/en/devices"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "and Google’s apps of the year. This is the other year-end source of good stuff: the app store lists are always a mix of very popular apps you definitely already know and a smattering of really cool, unknown stuff. I’m loving Stumble Guys so far, and how did I not know about Mubi before?",
    "section": "the-drop",
    "recommender": null
@@ -95,8 +104,10 @@
    "alt_urls": [
     "https://www.theverge.com/2023/11/22/23965528/teenage-engineering-ep133-ko-2-synthesizer"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "I’m not really a musician, but I find myself desperately wanting the new $299 KO II, which is both a cool music-making machine and just a gorgeous set of buttons and knobs. (I got a bunch of crap in our comments for calling it a synthesizer and not a sampler, which, fair! Sampler is more accurate.",
    "section": "the-drop",
    "recommender": null
@@ -106,8 +117,11 @@
    "name": "Dot Social",
    "url": "https://dot-social.simplecast.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "social"
+   ],
    "blurb": "This might be the first “brand” podcast I’ve ever recommended here. But it’s a good one! Flipboard is all in on the fediverse and the open web, and CEO Mike McCue’s plan is to talk to smart people about it.",
    "section": "the-drop",
    "recommender": null
@@ -143,8 +157,11 @@
    "alt_urls": [
     "https://proton.me/blog/mail-calendar-improvements-2023"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "The latest release notes on Proton’s mail and calendar apps are super funny. There’s nothing huge and new here, it’s just like, “We fixed all the stuff you wanted us to fix, here you go!” And it’s great.",
    "section": "the-drop",
    "recommender": null
@@ -169,8 +186,12 @@
    "alt_urls": [
     "http://piped.mha.fi"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "video",
+    "open-source",
+    "web"
+   ],
    "blurb": "Piped is a clever workaround: it uses the YouTube API to let you search for and watch anything on the platform but doesn’t send any data back to Google about you or what you watch.",
    "section": "deep-dive",
    "recommender": null
@@ -180,8 +201,12 @@
    "name": "Unhook",
    "url": "https://unhook.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "video",
+    "free"
+   ],
    "blurb": "There are a bunch of browser extensions out there that let you remove stuff from the YouTube interface to get a quieter viewing experience. Unhook’s my favorite because it’s so customizable — I turned off all the recommendations and sidebars but left chapters and comments.",
    "section": "deep-dive",
    "recommender": null
@@ -191,8 +216,12 @@
    "name": "Enhancer for YouTube",
    "url": "https://www.mrfdev.com/enhancer-for-youtube",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "video",
+    "free"
+   ],
    "blurb": "Another browser extension, and kind of the spiritual opposite of Unhook. This one can hide things like comments and recommendations, but it can also add so much more stuff to YouTube. A lot of it is really useful!",
    "section": "deep-dive",
    "recommender": null
@@ -202,8 +231,12 @@
    "name": "Bookmark It",
    "url": "https://bookmark-it.happydevelopers.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "video",
+    "productivity"
+   ],
    "blurb": "One last browser extension, which lets you take time-stamped notes on a YouTube video and return to them later. I use this when I know I’m going to want to come back to a specific moment later, which happens more often than I expected.",
    "section": "deep-dive",
    "recommender": null
@@ -224,8 +257,11 @@
    "name": "Todoist",
    "url": "https://todoist.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "Todoist is a to-do app (surprise! ) Twist as a team communication app (another surprise! ) Overcast as a podcast player Halist as a ChatGPT alternative. I created my own ChatGPT alternative as I don’t fully trust the privacy policy of ChatGPT (because they can train on the data).",
    "section": "screen-share",
    "recommender": "Amir"
@@ -235,8 +271,11 @@
    "name": "Twist",
    "url": "https://twist.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "Todoist is a to-do app (surprise! ) Twist as a team communication app (another surprise! ) Overcast as a podcast player Halist as a ChatGPT alternative. I created my own ChatGPT alternative as I don’t fully trust the privacy policy of ChatGPT (because they can train on the data).",
    "section": "screen-share",
    "recommender": "Amir"
@@ -246,8 +285,11 @@
    "name": "Overcast",
    "url": "https://overcast.fm/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "podcast",
+    "ios"
+   ],
    "blurb": "Todoist is a to-do app (surprise! ) Twist as a team communication app (another surprise! ) Overcast as a podcast player Halist as a ChatGPT alternative. I created my own ChatGPT alternative as I don’t fully trust the privacy policy of ChatGPT (because they can train on the data).",
    "section": "screen-share",
    "recommender": "Amir"
@@ -257,8 +299,10 @@
    "name": "Halist",
    "url": "https://halist.ai/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai"
+   ],
    "blurb": "Todoist is a to-do app (surprise! ) Twist as a team communication app (another surprise! ) Overcast as a podcast player Halist as a ChatGPT alternative. I created my own ChatGPT alternative as I don’t fully trust the privacy policy of ChatGPT (because they can train on the data).",
    "section": "screen-share",
    "recommender": "Amir"
@@ -268,8 +312,10 @@
    "name": "Succession",
    "url": "https://max.prf.hn/click/camref:1101lqHRA/%5Bp_id:1011l394533%5D/destination:https%3A%2F%2Fwww.max.com%2Fshows%2Fsuccession%2Fa8484031-f244-4661-9fb7-0932bd1ba872",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "The OpenAI drama . It’s like the real-life version of HBO’s Succession show (which is fantastic). We could say it’s the nerd version of Succession . I’ve started watching Blue Eye Samurai , and it’s incredible. Age of Empires II: Definitive Edition . This is one of the best games ever!",
    "section": "screen-share",
    "recommender": "Amir"
@@ -292,7 +338,7 @@
    "name": "Age of Empires II: Definitive Edition",
    "url": "https://www.ageofempires.com/games/aoeiide/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "The OpenAI drama . It’s like the real-life version of HBO’s Succession show (which is fantastic). We could say it’s the nerd version of Succession . I’ve started watching Blue Eye Samurai , and it’s incredible. Age of Empires II: Definitive Edition . This is one of the best games ever!",
    "section": "screen-share",
@@ -303,8 +349,10 @@
    "name": "Walter Isaacson’s biography of Elon Musk",
    "url": "https://www.simonandschuster.com/books/Elon-Musk/Walter-Isaacson/9781982181284",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "The OpenAI drama . It’s like the real-life version of HBO’s Succession show (which is fantastic). We could say it’s the nerd version of Succession . I’ve started watching Blue Eye Samurai , and it’s incredible. Age of Empires II: Definitive Edition . This is one of the best games ever!",
    "section": "screen-share",
    "recommender": "Amir"
@@ -314,8 +362,12 @@
    "name": "Llamafile",
    "url": "https://hacks.mozilla.org/2023/11/introducing-llamafile/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "open-source",
+    "free"
+   ],
    "blurb": "This awesome project out of Mozilla, Llamafile . You can get a pretty fully featured version of ChatGPT running locally on your own computer (with image analysis and everything), super easily.",
    "section": "crowdsourced",
    "recommender": "Matthew (reader)"
@@ -351,8 +403,11 @@
    "name": "Trash Baby",
    "url": "https://trash.baby/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "photography"
+   ],
    "blurb": "Trash Baby . Chaotic and creative and wacky AI-based photo remixing app. Combine two photos to create some really out-there outputs. It’s a really creative and collaborative play on generative AI. Every “baby” is an unexpected excitement.",
    "section": "crowdsourced",
    "recommender": "Kyle (reader)"
@@ -373,8 +428,10 @@
    "name": "Last Stop Larrimah",
    "url": "https://max.prf.hn/click/camref:1101lqHRA/%5Bp_id:1011l394533%5D/destination:https%3A%2F%2Fwww.max.com%2Fmovies%2Flast-stop-larrimah%2F1bd2c9d9-b0f8-4054-9a23-df04878038cc",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
    "blurb": "Last Stop Larrimah . Being a town of only 11 people, Larrimah is kind of like Cheers. A place where everybody knows your name (and also spends most of their time in a bar). But they’re not all glad you came. When one of the residents goes missing, two others become prime suspects.",
    "section": "crowdsourced",
    "recommender": "Carl (reader)"
@@ -384,8 +441,12 @@
    "name": "Frinkiac",
    "url": "https://frinkiac.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "free",
+    "tv"
+   ],
    "blurb": "In response to the recommendation for Frinkiac , the Simpsons meme generator, I thought I’d recommend the equivalent Futurama meme generator, Morbotron , which is made by the same people. Now you can create all the ‘Shut up and take my money’ memes you desire!",
    "section": "crowdsourced",
    "recommender": "Jonathan (reader)"
@@ -395,8 +456,12 @@
    "name": "Morbotron",
    "url": "https://morbotron.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "free",
+    "tv"
+   ],
    "blurb": "In response to the recommendation for Frinkiac , the Simpsons meme generator, I thought I’d recommend the equivalent Futurama meme generator, Morbotron , which is made by the same people. Now you can create all the ‘Shut up and take my money’ memes you desire!",
    "section": "crowdsourced",
    "recommender": "Jonathan (reader)"
@@ -406,8 +471,11 @@
    "name": "Fleeting Notes",
    "url": "https://www.fleetingnotes.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "Fleeting Notes . In my quest to de-Google my life, I have found a really great replacement for Google Keep. It’s cross-platform, available offline, and syncs with Obsidian. Plus it’s end-to-end encrypted, open source, and free.",
    "section": "crowdsourced",
    "recommender": "Braedon (reader)"
@@ -417,8 +485,12 @@
    "name": "Travle",
    "url": "https://imois.in/games/travle/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "free",
+    "travel"
+   ],
    "blurb": "Travle . Wordle -style, you play once a day, it counts your streaks, etc. The premise is super simple: they give you two countries and a number of attempts you have to name the countries that connect them. Sometimes they spice it up and tell you a country you need to avoid going through.",
    "section": "crowdsourced",
    "recommender": "Sam (reader)"
@@ -441,8 +513,12 @@
    "name": "garages",
    "url": "https://www.tiktok.com/@johnnnyhuynh/video/7306157151439867178",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "social",
+    "music"
+   ],
    "blurb": "I am deep in lip-syncing TikTok, y’all. I don’t know how I got here, but I’m here: there are countless people on TikTok who, like, sing beautiful harmonies in garages and kitchens while making very intense faces and body motions, and it turns out, a lot of those people are prerecording their audio…",
    "section": "signing-off",
    "recommender": null
@@ -452,8 +528,12 @@
    "name": "kitchens",
    "url": "https://www.tiktok.com/@nataliejanesings/video/7241599530838396202?q=natalie%20jane&t=1701396794699",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "social",
+    "music"
+   ],
    "blurb": "I am deep in lip-syncing TikTok, y’all. I don’t know how I got here, but I’m here: there are countless people on TikTok who, like, sing beautiful harmonies in garages and kitchens while making very intense faces and body motions, and it turns out, a lot of those people are prerecording their audio…",
    "section": "signing-off",
    "recommender": null
@@ -463,8 +543,12 @@
    "name": "bunch",
    "url": "https://www.tiktok.com/@demijunie/video/7304375873686261034?q=singing%20garage%20autotune&t=1701396905912",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "social",
+    "music"
+   ],
    "blurb": "I am deep in lip-syncing TikTok, y’all. I don’t know how I got here, but I’m here: there are countless people on TikTok who, like, sing beautiful harmonies in garages and kitchens while making very intense faces and body motions, and it turns out, a lot of those people are prerecording their audio…",
    "section": "signing-off",
    "recommender": null
@@ -474,8 +558,12 @@
    "name": "creators",
    "url": "https://www.tiktok.com/@beckycjmusic/video/7305560286843374881",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "social",
+    "music"
+   ],
    "blurb": "I am deep in lip-syncing TikTok, y’all. I don’t know how I got here, but I’m here: there are countless people on TikTok who, like, sing beautiful harmonies in garages and kitchens while making very intense faces and body motions, and it turns out, a lot of those people are prerecording their audio…",
    "section": "signing-off",
    "recommender": null
@@ -485,8 +573,12 @@
    "name": "shtick",
    "url": "https://www.tiktok.com/@cowboy.like.alli/video/7304041209247419678?q=singing%20garage%20autotune&t=1701396905912",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "social",
+    "music"
+   ],
    "blurb": "I am deep in lip-syncing TikTok, y’all. I don’t know how I got here, but I’m here: there are countless people on TikTok who, like, sing beautiful harmonies in garages and kitchens while making very intense faces and body motions, and it turns out, a lot of those people are prerecording their audio…",
    "section": "signing-off",
    "recommender": null
@@ -496,8 +588,12 @@
    "name": "call",
    "url": "https://www.tiktok.com/@jettblyton/video/7303495112842120450?q=singing%20garage%20autotune&t=1701396905912",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "social",
+    "music"
+   ],
    "blurb": "I am deep in lip-syncing TikTok, y’all. I don’t know how I got here, but I’m here: there are countless people on TikTok who, like, sing beautiful harmonies in garages and kitchens while making very intense faces and body motions, and it turns out, a lot of those people are prerecording their audio…",
    "section": "signing-off",
    "recommender": null
@@ -507,8 +603,12 @@
    "name": "out",
    "url": "https://www.tiktok.com/@petertiktok.1/video/7305602618989006122?q=singing%20garage%20autotune&t=1701396905912",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "social",
+    "music"
+   ],
    "blurb": "I am deep in lip-syncing TikTok, y’all. I don’t know how I got here, but I’m here: there are countless people on TikTok who, like, sing beautiful harmonies in garages and kitchens while making very intense faces and body motions, and it turns out, a lot of those people are prerecording their audio…",
    "section": "signing-off",
    "recommender": null
@@ -518,8 +618,12 @@
    "name": "shirtless Charlie Puth did a video",
    "url": "https://www.tiktok.com/@charlieputh/video/7306927814224268587",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "social",
+    "music"
+   ],
    "blurb": "I am deep in lip-syncing TikTok, y’all. I don’t know how I got here, but I’m here: there are countless people on TikTok who, like, sing beautiful harmonies in garages and kitchens while making very intense faces and body motions, and it turns out, a lot of those people are prerecording their audio…",
    "section": "signing-off",
    "recommender": null

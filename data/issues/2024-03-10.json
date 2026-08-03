@@ -26,8 +26,10 @@
    "alt_urls": [
     "https://www.theverge.com/24090581/nothing-phone-2a-screen-battery-camera-price"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "I t has been a long time since I was this excited about a cheap smartphone. It doesn’t work on every network in the US, but a $350 phone that looks good and makes mostly reasonable compromises ? More of this, please.",
    "section": "the-drop",
    "recommender": null
@@ -52,8 +54,10 @@
    "alt_urls": [
     "https://www.theverge.com/2024/3/6/24091040/logitech-mx-brio-price-release-date-specs-features"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "video"
+   ],
    "blurb": "This high-end $200 webcam might be two years too late to really be everywhere, but I’ve been looking for a webcam that is both good and simple for… forever and still haven’t found it. Logitech always nails simple, and this one sounds like it might really be good .",
    "section": "the-drop",
    "recommender": null
@@ -78,8 +82,12 @@
    "name": "MyMind",
    "url": "https://mymind.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "productivity",
+    "subscription"
+   ],
    "blurb": "This has long been one of my favorite apps: it’s like a personal Pinterest, a place to keep all the stuff you care about and like and want to remember.",
    "section": "the-drop",
    "recommender": null
@@ -89,8 +97,11 @@
    "name": "CleanMyPhone",
    "url": "https://macpaw.com/cleanmyphone",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "utilities"
+   ],
    "blurb": "MacPaw makes some of my favorite device cleanup devices (CleanMyMac and CleanMyPC have saved me a million times), and I’m already digging this as a way to clean up my iPhone’s camera roll. The app’s expensive ($24.99 a year), but you can get a lot done in the three-day free trial… just saying.",
    "section": "the-drop",
    "recommender": null
@@ -113,8 +124,10 @@
    "name": "The M3 MacBook Air",
    "url": "https://www.apple.com/macbook-air/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "mac"
+   ],
    "blurb": "I will always miss the wedge design, but I’m already beginning to talk myself into upgrading — the new Air’s battery and performance both sound ridiculous, and I’m extremely into that midnight color. I don’t need a new computer, I don’t need a new computer, I don’t need a new computer.",
    "section": "the-drop",
    "recommender": null
@@ -127,7 +140,7 @@
     "https://www.theverge.com/2024/3/7/24093215/rivian-r2-revealed-ev-suv-price-specs-price",
     "https://www.theverge.com/2024/3/7/24093570/rivian-r3-r3x-electric-suv-crossover-pics-specs"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "The new R2 also looks good — cheaper, glove compartments, two scroll wheels?! — and is definitely coming sooner . But I’m really into the R3, which is smaller and sportier and gives me vintage Land Rover vibes in a way I very much enjoy .",
    "section": "the-drop",
@@ -138,8 +151,11 @@
    "name": "Maybe all the music services are bad? I heard from a lot of what I’d call “Begru",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "music",
+    "subscription"
+   ],
    "blurb": "dging Music Streamers” who hate the interface and the lack of high-quality audio in their app but feel stuck for one reason or another. (Family plans keep us all locked in, it seems.)",
    "section": "group-project",
    "recommender": null
@@ -149,8 +165,12 @@
    "name": "Apple Music wins on interface",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "subscription",
+    "ios"
+   ],
    "blurb": "Almost everyone who told me they liked Apple Music told me they liked its tools for managing playlists and libraries. If you’re the organizing type, there’s no better music app.",
    "section": "group-project",
    "recommender": null
@@ -160,8 +180,11 @@
    "name": "But Spotify wins on recommendations",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "music",
+    "subscription"
+   ],
    "blurb": "Turns out, the same thing keeps you all hooked on Spotify that has me there, too: personalized playlists like Release Radar and the Daily Mixes, along with being able to see what your friends are listening to.",
    "section": "group-project",
    "recommender": null
@@ -171,8 +194,11 @@
    "name": "Spotify is also everywhere",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "music",
+    "cross-platform"
+   ],
    "blurb": "It’s integrated into Bluetooth speakers, Sonos speakers, lots of car interfaces, fitness trackers, voice assistants, and practically everything else. That was important to a lot of folks — your music service should be available everywhere you want music, and Spotify has that pretty much covered.",
    "section": "group-project",
    "recommender": null
@@ -182,8 +208,12 @@
    "name": "YouTube wins by being YouTube",
    "url": null,
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "video",
+    "subscription"
+   ],
    "blurb": "I really thought you’d all make fun of me for spending a billion dollars a month on YouTube Premium, but it turns out, I’m not alone! YouTube Music is kind of a meh app, but it’s included, and the overall YouTube corpus of music is just unbeatable.",
    "section": "group-project",
    "recommender": null
@@ -193,8 +223,11 @@
    "name": "Plexamp",
    "url": "https://www.plex.tv/plexamp/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "cross-platform"
+   ],
    "blurb": "Tidal is still kicking. I honestly think every single Tidal user emailed me this week to remind me that Tidal is good. I believe you! One person, Marcus, said they Plexamp to stream both Tidal and their local music collection, which is a pretty good trick.",
    "section": "group-project",
    "recommender": null
@@ -215,8 +248,10 @@
    "name": "Pedro Páramo",
    "url": "https://groveatlantic.com/book/pedro-paramo/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Right now, I’m reading the new translation (by Douglas Weatherford) of Pedro Páramo , and I’ve been astonished at how much better I like it than the previous version I read. I’ve kind of been reading it more slowly than I usually read books because I don’t want it to end.",
    "section": "screen-share",
    "recommender": "Liz"
@@ -226,7 +261,7 @@
    "name": "a fountain pen",
    "url": "https://www.gouletpens.com/products/pilot-metropolitan-fountain-pen-black-plain",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Right now, I’m reading the new translation (by Douglas Weatherford) of Pedro Páramo , and I’ve been astonished at how much better I like it than the previous version I read. I’ve kind of been reading it more slowly than I usually read books because I don’t want it to end.",
    "section": "screen-share",
@@ -237,7 +272,7 @@
    "name": "bought",
    "url": "https://www.lamy.com/en/lamy-cp-1/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Right now, I’m reading the new translation (by Douglas Weatherford) of Pedro Páramo , and I’ve been astonished at how much better I like it than the previous version I read. I’ve kind of been reading it more slowly than I usually read books because I don’t want it to end.",
    "section": "screen-share",
@@ -248,7 +283,7 @@
    "name": "more",
    "url": "https://www.jetpens.com/Pilot-Cavalier-Fountain-Pen-Marbled-Black-Blue-Fine-Nib/pd/22731",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Right now, I’m reading the new translation (by Douglas Weatherford) of Pedro Páramo , and I’ve been astonished at how much better I like it than the previous version I read. I’ve kind of been reading it more slowly than I usually read books because I don’t want it to end.",
    "section": "screen-share",
@@ -296,7 +331,7 @@
    "name": "Peak Design mount",
    "url": "https://www.peakdesign.com/products/wall-mount",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Two clutch MagSafe mounts for the bathroom: one for next to the mirror and one for the shower. One says JOYROOM on it , which is hilarious in the context of a bathroom, but if you want to listen to a pod in the shower, it’s unbeatable.",
    "section": "crowdsourced",
@@ -318,8 +353,10 @@
    "name": "this macro pad",
    "url": "https://www.keebmonkey.com/products/megalodon-triple-knob-macro-pad?_psq=megal&_v=1.0",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "Missing the iPod click wheel? I bought this macro pad mostly to make it so that rotating the knob with one finger scrolls up and down.",
    "section": "crowdsourced",
    "recommender": "Miguel (reader)"
@@ -329,8 +366,11 @@
    "name": "Rainbow Plant Life",
    "url": "https://rainbowplantlife.com/mealplans/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "subscription",
+    "website"
+   ],
    "blurb": "Listening to the smart kitchen Vergecast episode , I thought I’d share the meal planning service I use from Rainbow Plant Life . Since it does a lot of what was mentioned in that episode just without using cameras and sensors.",
    "section": "crowdsourced",
    "recommender": "Zach (reader)"
@@ -340,8 +380,13 @@
    "name": "newsmap.js",
    "url": "https://newsmap.ijmacd.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "website",
+    "free",
+    "open-source"
+   ],
    "blurb": "Check out newsmap.js . It visualizes Google News in a helpful way.",
    "section": "crowdsourced",
    "recommender": "Jeremy (reader)"
@@ -364,7 +409,7 @@
    "name": "Lorcana",
    "url": "https://www.disneylorcana.com/en-US",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "I’ve been getting into Disney’s trading card game Lorcana . It’s a neat, fun, and surprisingly easy-to-learn TCG that I just got my nine-year-old sister to start playing, and she loves it. I can see myself spending a lot of money on it.",
    "section": "crowdsourced",
@@ -401,8 +446,13 @@
    "name": "Fantastical",
    "url": "https://flexibits.com/fantastical",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "productivity",
+    "free"
+   ],
    "blurb": "Fell in love again with Fantastical . The free version is damn good. Great design and what makes me love it more than Amie or Notion Cal is the intelligent natural language input and ability to sync with Todoist .",
    "section": "crowdsourced",
    "recommender": "Irfan (reader)"
@@ -412,8 +462,11 @@
    "name": "Todoist",
    "url": "https://todoist.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "productivity"
+   ],
    "blurb": "Fell in love again with Fantastical . The free version is damn good. Great design and what makes me love it more than Amie or Notion Cal is the intelligent natural language input and ability to sync with Todoist .",
    "section": "crowdsourced",
    "recommender": "Irfan (reader)"
@@ -436,8 +489,11 @@
    "name": "Switched on Pop episode",
    "url": "https://switchedonpop.com/episodes/jacob-collier-unites-the-world-djesse-4",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "music"
+   ],
    "blurb": "Jacob Collier is one of those people I’ve seen a million times on TikTok and YouTube — big wild hair and cool sweaters, always talking about some esoteric musical theory I don’t understand but nonetheless will watch him talk about for an hour — but I know almost nothing about him.",
    "section": "signing-off",
    "recommender": null
@@ -447,8 +503,11 @@
    "name": "interview with CBC",
    "url": "https://www.cbc.ca/arts/q/jacob-collier-may-be-a-musical-genius-but-he-s-tired-of-working-alone-1.7130737",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music",
+    "video"
+   ],
    "blurb": "Jacob Collier is one of those people I’ve seen a million times on TikTok and YouTube — big wild hair and cool sweaters, always talking about some esoteric musical theory I don’t understand but nonetheless will watch him talk about for an hour — but I know almost nothing about him.",
    "section": "signing-off",
    "recommender": null

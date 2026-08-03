@@ -38,7 +38,7 @@
    "alt_urls": [
     "https://www.theverge.com/2024/2/29/24086758/final-fantasy-vii-rebirth-interview-naoki-hamaguchi-yoshinori-kitase"
    ],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "This game will make you feel feelings. Stressful, intense, breath-holding feelings . But in a good way. It’s a huge open game with a ton to do, and while it doesn’t exactly reinvent the wheel, everyone seems to be finding something to love in here.",
    "section": "the-drop",
@@ -51,8 +51,10 @@
    "alt_urls": [
     "https://www.theverge.com/24086715/sennheiser-momentum-true-wireless-4-earbuds-review"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "Sennheiser should be a bigger name in headphones; it just consistently churns out great-sounding stuff. These new $300 buds are definitely high-end, but their audio quality can hang , and they have a bunch of features — like Auracast! — that make them pretty compelling.",
    "section": "the-drop",
    "recommender": null
@@ -88,8 +90,11 @@
    "name": "The OnePlus Watch 2",
    "url": "https://www.oneplus.com/us/buy-oneplus-watch-2",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android",
+    "fitness"
+   ],
    "blurb": "OnePlus’ first smartwatch was… bad. But this one seems to be good! Early reviews say it has solid battery life and pretty good performance, more health and fitness stuff, and a much-improved design. It’s not cheap, but it looks like OnePlus is figuring this smartwatch stuff out.",
    "section": "the-drop",
    "recommender": null
@@ -99,8 +104,10 @@
    "name": "The Recipe with Kenji and Deb",
    "url": "https://www.therecipepodcast.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "A new food thing! Perfect timing for this week. And I love the show so far: it’s about food, but it’s also about how two very smart people create recipes, which means it’s about how they think about food and how they work. It’s a pure process deep dive, and it’s great.",
    "section": "the-drop",
    "recommender": null
@@ -110,8 +117,11 @@
    "name": "Google Docs markups",
    "url": "https://www.android.com/new-features-on-android/?feature=google-docs-markups#gms-filter",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "android",
+    "productivity"
+   ],
    "blurb": "If you have an Android device, you can now highlight, draw, or otherwise mark up Google Docs right within the app. This is so much better than leaving a million comments or doing that weird thing where you change the font color and write your notes that way. I need an Android tablet.",
    "section": "the-drop",
    "recommender": null
@@ -121,8 +131,10 @@
    "name": "Burn Book",
    "url": "https://www.simonandschuster.com/books/Burn-Book/Kara-Swisher/9781982163891",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "The discourse around Kara Swisher’s book has been so funny — some people love it, some people hate it, and everybody’s talking about it, which is just precisely the way I suspect Kara wants it. Few people have seen as much of tech as she has; whatever this book is, I’m sure I’m gonna like it.",
    "section": "the-drop",
    "recommender": null
@@ -132,8 +144,11 @@
    "name": "Superhuman Instant Reply",
    "url": "https://blog.superhuman.com/superhuman-ai-instant-reply/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
    "blurb": "I’m on the record that I think the very best thing AI chatbots do is write emails. Superhuman took it one step further by marrying AI to Gmail-like smart replies, so now you can tap, like, “Sounds good,” and it’ll write out a whole email for you.",
    "section": "the-drop",
    "recommender": null
@@ -180,7 +195,7 @@
    "name": "chile crisp",
    "url": "https://www.eater.com/22308176/best-chile-crisps-lao-gan-ma-momofuku-fly-by-jing-pantry-essential",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Like everyone else I know, I’m obsessed with The Traitors . We watch it as soon as it airs because I can’t stand being spoiled. And I love Tournament of Champions , Guy Fieri’s game show-esque cooking competition with a stacked roster of big-name chefs.",
    "section": "screen-share",
@@ -191,7 +206,7 @@
    "name": "Mama Teav’s Hot Garlic",
    "url": "https://mamateavs.com/products/mama-teavs-hot-garlic-new",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Like everyone else I know, I’m obsessed with The Traitors . We watch it as soon as it airs because I can’t stand being spoiled. And I love Tournament of Champions , Guy Fieri’s game show-esque cooking competition with a stacked roster of big-name chefs.",
    "section": "screen-share",
@@ -202,7 +217,7 @@
    "name": "Yun Hai’s Su Chili Crisp Mala",
    "url": "https://yunhai.shop/products/su-chili-crisp-mala",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Like everyone else I know, I’m obsessed with The Traitors . We watch it as soon as it airs because I can’t stand being spoiled. And I love Tournament of Champions , Guy Fieri’s game show-esque cooking competition with a stacked roster of big-name chefs.",
    "section": "screen-share",
@@ -213,7 +228,7 @@
    "name": "Fly by Jing’s Sichuan Chili Crisp",
    "url": "https://shareasale.com/r.cfm?b=1699437&u=1225169&m=105661&urllink=https%3A%2F%2Fflybyjing.com%2Fshop%2Fsichuan-chili-crisp%2F",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Like everyone else I know, I’m obsessed with The Traitors . We watch it as soon as it airs because I can’t stand being spoiled. And I love Tournament of Champions , Guy Fieri’s game show-esque cooking competition with a stacked roster of big-name chefs.",
    "section": "screen-share",
@@ -224,7 +239,7 @@
    "name": "a jam spoon",
    "url": "https://www.muji.us/products/silicone-jam-spoon-mcda0a",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Like everyone else I know, I’m obsessed with The Traitors . We watch it as soon as it airs because I can’t stand being spoiled. And I love Tournament of Champions , Guy Fieri’s game show-esque cooking competition with a stacked roster of big-name chefs.",
    "section": "screen-share",
@@ -235,8 +250,12 @@
    "name": "Paprika",
    "url": "https://www.paprikaapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "paid",
+    "productivity"
+   ],
    "blurb": "This was not just the most recommended app but the most recommended thing by far in my inbox: a cross-platform app for meal planning, recipes, and grocery shopping. There are a lot of apps that do this, but Paprika is your overwhelming favorite.",
    "section": "crowdsourced",
    "recommender": null
@@ -246,8 +265,12 @@
    "name": "Mela",
    "url": "https://mela.recipes/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "paid"
+   ],
    "blurb": "The runner-up in the app category: Mela doesn’t do as much as Paprika, and it only works on Apple devices, but wow is it well designed and just delightful to use.",
    "section": "crowdsourced",
    "recommender": null
@@ -261,8 +284,11 @@
     "https://www.youtube.com/@CSaffitz/featured",
     "https://www.youtube.com/watch?v=HoK_ASldUrY"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "book"
+   ],
    "blurb": "Everybody loves Claire Saffitz. I got recommendations for her Dessert Person cookbook and a whole slew of people saying how much they love her YouTube channel . I just rediscovered her breakfast sandwich video , and I know what I’m doing this weekend.",
    "section": "crowdsourced",
    "recommender": null
@@ -276,8 +302,12 @@
     "https://www.ethanchlebowski.com/newsletter",
     "https://www.youtube.com/@EthanChlebowski"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "newsletter",
+    "website"
+   ],
    "blurb": "You all like his recipe site , his newsletter , and especially his YouTube channel . His approach is a little different from most: he makes a lot of videos about whether you really need expensive parmesan cheese and lots of deep dives into food science.",
    "section": "crowdsourced",
    "recommender": null
@@ -291,8 +321,12 @@
     "https://cooked.wiki/",
     "https://pestlechef.app/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "utilities",
+    "free"
+   ],
    "blurb": "All the just-the-recipe services . One thing everyone wants is a way to turn complicated, ad-filled food websites into simple recipes. Paprika and Mela both do that well; folks also recommended Just the Recipe , CookBook , Cooked , and Pestle as ways to get the recipe without all the extra stuff.",
    "section": "crowdsourced",
    "recommender": null
@@ -341,8 +375,11 @@
    "name": "Budget Bytes",
    "url": "https://www.budgetbytes.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "website",
+    "free"
+   ],
    "blurb": "The best and most important food blog I’ve ever found is Budget Bytes . Beth, the founder of the website, puts together great low-cost recipes, broken down by ingredient price.",
    "section": "crowdsourced",
    "recommender": "Zoe (reader)"
@@ -352,7 +389,7 @@
    "name": "baked oatmeal",
    "url": "https://www.budgetbytes.com/baked-oatmeal/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "The best and most important food blog I’ve ever found is Budget Bytes . Beth, the founder of the website, puts together great low-cost recipes, broken down by ingredient price.",
    "section": "crowdsourced",
@@ -363,8 +400,11 @@
    "name": "Cook Well",
    "url": "https://www.cookwell.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "web"
+   ],
    "blurb": "I recommend checking out Cook Well for your food-related issue. Dead simple, no gimmicks. Best recipe site I’ve used in years.",
    "section": "crowdsourced",
    "recommender": "Matty (reader)"
@@ -374,8 +414,11 @@
    "name": "World of Mouth",
    "url": "https://www.worldofmouth.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "travel"
+   ],
    "blurb": "I specifically want to recommend World of Mouth . They are trying to create a community for foodies. I tried it on my vacation to Vietnam recently, and it was surprisingly great. The selection may be a little sparse vs. other mediums, but quality over quantity.",
    "section": "crowdsourced",
    "recommender": "Nachiketa (reader)"
@@ -450,8 +493,12 @@
    "name": "Sidekick app",
    "url": "https://sortedfood.com/sidekick/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "subscription",
+    "ios",
+    "android"
+   ],
    "blurb": "Gotta be the Sidekick app from the guys at Sorted Food on YouTube. The channel is a riot: a mix of professional chefs and ‘regular guys’ competing and learning about cooking together.",
    "section": "crowdsourced",
    "recommender": "John (reader)"
@@ -474,8 +521,12 @@
    "name": "New York Times Cooking",
    "url": "https://cooking.nytimes.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "subscription",
+    "web"
+   ],
    "blurb": "I also use the New York Times Cooking website and BBC Good Food as major sources of recipes. It’s great to get recipes without a big story like a lot of cooking blogs do.",
    "section": "crowdsourced",
    "recommender": "Richard (reader)"
@@ -485,8 +536,12 @@
    "name": "BBC Good Food",
    "url": "https://www.bbcgoodfood.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "web",
+    "free"
+   ],
    "blurb": "I also use the New York Times Cooking website and BBC Good Food as major sources of recipes. It’s great to get recipes without a big story like a lot of cooking blogs do.",
    "section": "crowdsourced",
    "recommender": "Richard (reader)"

@@ -23,8 +23,11 @@
    "name": "The Pebblebee Clip Universal",
    "url": "https://pebblebee.com/products/pebblebee-clip-universal",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "This tracker works with both Apple’s Find My and Google’s Find My Device systems, which is just such an obviously good and correct idea! For a multiplatform person or family, this is a way better buy than a bunch of AirTags.",
    "section": "the-drop",
    "recommender": null
@@ -34,8 +37,12 @@
    "name": "Croissant",
    "url": "https://croissantapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "ios",
+    "subscription"
+   ],
    "blurb": "We may not live in the full everything-everywhere, fediverse-y social world I want, but at least cross-posting is getting easier. This is a really nice-looking iOS app that lets you post simultaneously to Threads, Bluesky, and Mastodon. It’s also just really nice to type in.",
    "section": "the-drop",
    "recommender": null
@@ -45,8 +52,11 @@
    "name": "The Raspberry Pi AI Camera",
    "url": "https://www.raspberrypi.com/products/ai-camera/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ai",
+    "photography"
+   ],
    "blurb": "This is going to be a tinkerer’s paradise: a $70 camera with a built-in AI processor that you can use for machine vision, automated photo-taking, and lots more. I can’t wait to see what people build with this.",
    "section": "the-drop",
    "recommender": null
@@ -69,8 +79,11 @@
    "name": "How I Replaced Notion with Reminders, Numbers, and Notes.",
    "url": "https://medium.com/the-realist/how-i-replaced-notion-with-reminders-numbers-and-notes-38282543b29b",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "productivity"
+   ],
    "blurb": "“ How I Replaced Notion with Reminders, Numbers, and Notes. ” So, so, so many of you sent this to me this week! Joan Westenberg’s deep dive into Apple’s productivity tools is really smart and detailed and is probably the way most people should manage their lives.",
    "section": "the-drop",
    "recommender": null
@@ -80,8 +93,11 @@
    "name": "Microsoft Copilot",
    "url": "https://copilot.microsoft.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "cross-platform"
+   ],
    "blurb": "Sure, I’m a sucker for a warm-shaded website and some calming illustrations, but I really like the new look of Microsoft’s AI bot. And I like that Microsoft is looking at Copilot less like a work tool and more like a handy personal helper.",
    "section": "the-drop",
    "recommender": null
@@ -91,8 +107,11 @@
    "name": "The Oura Ring 4",
    "url": "https://ouraring.com/product/rings",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "fitness",
+    "subscription"
+   ],
    "blurb": "I like the Oura Ring a lot, but it’s always been just a bit too chunky to feel truly comfortable on my finger. This one has some neat-sounding new features and improvements, but mostly, it seems to be significantly smaller.",
    "section": "the-drop",
    "recommender": null
@@ -120,8 +139,12 @@
    "alt_urls": [
     "https://support.anthropic.com/en/articles/9487310-what-are-artifacts-and-how-do-i-use-them"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "productivity",
+    "web"
+   ],
    "blurb": "We are, slowly but surely, getting out of the chatbot era of AI models. This looks a lot like Claude’s Artifacts feature in that it lets you make something from scratch and then edit it in place with the model’s help. It’s fun! And useful!",
    "section": "the-drop",
    "recommender": null
@@ -157,8 +180,11 @@
    "name": "this synthetic podcast",
    "url": "https://cloud.okfn.de/s/4LHKRmY855fBqpL",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "ai"
+   ],
    "blurb": "One of our right to repair coalition members just made this synthetic podcast from Aaron Perzanowski’s seminal book on the topic. It’s amazing! The “podcast” is very close to the source material, and I didn’t notice any particular mistakes.",
    "section": "screen-share",
    "recommender": "Kyle"
@@ -168,8 +194,10 @@
    "name": "very large portion",
    "url": "https://fcc.maps.arcgis.com/apps/webappviewer/index.html?id=6c1b2e73d9d749cdb7bc88a0d1bdd25b",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "I spend a lot of time in low-reception environments. I understand why carrier execs who live in cities think 5G is a good idea, but a very large portion of the US still has zero cell phone coverage.",
    "section": "screen-share",
    "recommender": "Kyle"
@@ -179,8 +207,11 @@
    "name": "Starlink Wi-Fi",
    "url": "https://www.starlink.com/us",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "travel",
+    "subscription"
+   ],
    "blurb": "I spend a lot of time in low-reception environments. I understand why carrier execs who live in cities think 5G is a good idea, but a very large portion of the US still has zero cell phone coverage.",
    "section": "screen-share",
    "recommender": "Kyle"
@@ -190,8 +221,13 @@
    "name": "MTB Project",
    "url": "https://www.mtbproject.com/mobile-app",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "free",
+    "fitness"
+   ],
    "blurb": "I spend a lot of time in low-reception environments. I understand why carrier execs who live in cities think 5G is a good idea, but a very large portion of the US still has zero cell phone coverage.",
    "section": "screen-share",
    "recommender": "Kyle"
@@ -201,8 +237,13 @@
    "name": "onX",
    "url": "https://www.onxmaps.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "subscription",
+    "travel"
+   ],
    "blurb": "I spend a lot of time in low-reception environments. I understand why carrier execs who live in cities think 5G is a good idea, but a very large portion of the US still has zero cell phone coverage.",
    "section": "screen-share",
    "recommender": "Kyle"
@@ -212,7 +253,7 @@
    "name": "FixHub soldering iron",
    "url": "https://www.ifixit.com/fixhub",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I spend a lot of time in low-reception environments. I understand why carrier execs who live in cities think 5G is a good idea, but a very large portion of the US still has zero cell phone coverage.",
    "section": "screen-share",
@@ -223,8 +264,13 @@
    "name": "Zing Coach",
    "url": "https://www.zing.coach/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness",
+    "ios",
+    "android",
+    "subscription"
+   ],
    "blurb": "Zing Coach . I’ve spent years looking for workout apps because I’m not good at just committing to exercising without a full plan before I start. Zing takes into account your age, gender, and even injuries to write the best workout schedule for you — using AI (huh!).",
    "section": "crowdsourced",
    "recommender": "Calvin (reader)"
@@ -234,8 +280,11 @@
    "name": "SiliconDust HDHomeRun Flex 4K",
    "url": "https://shop.silicondust.com/shop/product/hdfx-4k/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "tv",
+    "video"
+   ],
    "blurb": "I’m loving my SiliconDust HDHomeRun Flex 4K . Combined with Plex Pass , it is easily the most intuitive and feature-rich OTT viewing experience.",
    "section": "crowdsourced",
    "recommender": "Joseph (reader)"
@@ -245,8 +294,12 @@
    "name": "Plex Pass",
    "url": "https://www.plex.tv/plex-pass/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "subscription",
+    "video",
+    "tv"
+   ],
    "blurb": "I’m loving my SiliconDust HDHomeRun Flex 4K . Combined with Plex Pass , it is easily the most intuitive and feature-rich OTT viewing experience.",
    "section": "crowdsourced",
    "recommender": "Joseph (reader)"
@@ -256,8 +309,10 @@
    "name": "Imagining Arc",
    "url": "https://pod.link/1758984150",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Imagining Arc by The Browser Company is a newish (and ongoing) podcast with CEO Josh Miller about the company’s work on the 2.0 version of the Arc web browser .",
    "section": "crowdsourced",
    "recommender": "should definitely give it a try.” – Kaiden (reader)"
@@ -267,8 +322,13 @@
    "name": "the Arc web browser",
    "url": "https://arc.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "windows",
+    "free",
+    "web"
+   ],
    "blurb": "Imagining Arc by The Browser Company is a newish (and ongoing) podcast with CEO Josh Miller about the company’s work on the 2.0 version of the Arc web browser .",
    "section": "crowdsourced",
    "recommender": "should definitely give it a try.” – Kaiden (reader)"
@@ -278,8 +338,11 @@
    "name": "Daily",
    "url": "https://dscp.team/daily/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "ios"
+   ],
    "blurb": "In my never-ending quest to find a good task manager, I came across this dead-simple to-do app called Daily . It’s been perfect for my daily standups and is the perfect place to dump a ton of tasks you need to get done for the day.",
    "section": "crowdsourced",
    "recommender": "Eddy (reader)"
@@ -289,8 +352,11 @@
    "name": "Outlanders 2",
    "url": "https://www.pomelogames.com/outlanders/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "​​I recently stumbled upon a title called Outlanders 2 , an updated and enhanced version of the original Outlanders , and it’s wonderful. You take care of a few outlanders, with the objective to survive, build houses, grow the population, hunt for food, and prosper.",
    "section": "crowdsourced",
    "recommender": "Vojta (reader)"
@@ -300,8 +366,10 @@
    "name": "It’s Lonely at the Centre of the Earth",
    "url": "https://www.simonandschuster.com/books/Its-Lonely-at-the-Centre-of-the-Earth/Zoe-Thorogood/9781534323865",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I am reading It’s Lonely at the Centre of the Earth by Zoe Thorogood. She recently lost her brother. New profits for the amazing graphic novel from the day her brother left till the end of the year are being donated to mental health charities.",
    "section": "crowdsourced",
    "recommender": "Daniel (reader)"
@@ -311,8 +379,10 @@
    "name": "Qudelix-5K",
    "url": "https://drop.com/buy/qudelix-5k-bluetooth-usb-dac-amp",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "I’m by no means an audiophile, but the Qudelix-5K has given new life to my studio headphones. Super-quick Bluetooth pairing, and I have mine clipped directly on the headphones, so no dangling cords!",
    "section": "crowdsourced",
    "recommender": "Jack (reader)"
@@ -322,8 +392,12 @@
    "name": "Tripsy",
    "url": "https://tripsy.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "travel",
+    "ios",
+    "subscription"
+   ],
    "blurb": "I’m a very organized person, especially when it comes to traveling. Tripsy for iOS is hands-down the best travel planner app I’ve ever tried. It’s really well designed and easy to use. They even give you flight alerts similar to Flighty, so I’ve stopped paying for Flighty altogether.",
    "section": "crowdsourced",
    "recommender": "Daniel (reader)"
@@ -333,8 +407,12 @@
    "name": "Pincone",
    "url": "https://pincone.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "newsletter",
+    "productivity",
+    "web"
+   ],
    "blurb": "If you’re a fan of newsletters, hoarding bookmarks, and collecting endless internet wisdom, you should try out Pincone . I work in marketing, so my email gets really cluttered with newsletters — I’ve now added all of them to Pincone, and it has freed my inbox loads!",
    "section": "crowdsourced",
    "recommender": "Lea (reader)"

@@ -23,8 +23,10 @@
    "name": "Pixel 10 Pro Fold",
    "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/sid/__vg0822awD__762080__________________theverge.com/https://store.google.com/product/pixel_10_pro_fold?hl=en-US",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "Google’s newest foldable has an IP68 ingress rating, meaning that it should be significantly more resistant to dust than other foldables. The company made it happen with a new gearless hinge design.",
    "section": "the-drop",
    "recommender": null
@@ -34,8 +36,11 @@
    "name": "Pixel Watch 4",
    "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/sid/__vg0822awD__761918__________________theverge.com/https://store.google.com/product/pixel_watch_4?hl=en-US",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android",
+    "fitness"
+   ],
    "blurb": "The newest Pixel Watch has screws on its chassis that you can remove to more easily repair and replace the screen and the battery. Previous Pixel Watches haven’t been repairable, so this is a major step up for Google.",
    "section": "the-drop",
    "recommender": null
@@ -45,8 +50,11 @@
    "name": "Shutter Declutter",
    "url": "https://shutterdeclutter.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "photography"
+   ],
    "blurb": "Every day, this excellent new iOS app nudges you to look through all of the photos you’ve taken on that date — across all years where you’ve snapped a photo on that date — and swipe left or right to delete or keep them.",
    "section": "the-drop",
    "recommender": null
@@ -56,8 +64,10 @@
    "name": "Galaxy Buds 3 FE",
    "url": "https://howl.link/d9gnzmgxdhigz",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "Samsung’s newest earbuds adopt an AirPods-like stemmed design and have 6 hours of battery life with ANC on and 8.5 with ANC off. And at $149.99, their starting price is $100 cheaper than the Galaxy Buds 3 Pro.",
    "section": "the-drop",
    "recommender": null
@@ -67,8 +77,10 @@
    "name": "Nanoleaf 4D V2",
    "url": "https://nanoleaf.me/en-US/products/nanoleaf-4d/?im_ref=z8C062z0JxyKUY609wVHRQhpUkp2df0RyXfazY0&sharedid=theverge.com&irpid=10078&irgwc=1&category=4D&version=v2&size=65",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
    "blurb": "Nanoleaf has a new version of its immersive TV lighting kit that adds a color-matched glow behind your screen. I’ve always wanted to try one of these — they seem like a fun way to add a little more pop to what you’re watching.",
    "section": "the-drop",
    "recommender": null
@@ -78,8 +90,11 @@
    "name": "Insta360’s Go Ultra",
    "url": "https://store.insta360.com/product/go-ultra",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "video",
+    "photography"
+   ],
    "blurb": "Insta360’s new compact action camera has a bigger sensor than the Go 3S and can capture footage at 4K / 60fps. It comes in a square shape instead of a pill, but that change means it can include a larger 500mAh battery.",
    "section": "the-drop",
    "recommender": null
@@ -91,7 +106,7 @@
    "alt_urls": [
     "https://www.theverge.com/hands-on/757680/sony-inzone-pc-gaming-headset-keyboard-mouse-hands-on"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "As part of a suite of new InZone gaming peripherals , Sony launched a wireless mouse that weighs just 48 grams. At $149.99, it’s a bit of an investment, but it seems like a decent option if you’re looking for a superlight gaming mouse.",
    "section": "the-drop",
@@ -102,8 +117,10 @@
    "name": "Herdling",
    "url": "https://herdling.game/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "paid"
+   ],
    "blurb": "In Herdling , you guide a flock of adorable sheep / woolly mammoth-like creatures through scenic landscapes backed by beautiful music. It’s kind of like Journey , if you played as a shepherd.",
    "section": "the-drop",
    "recommender": null
@@ -124,8 +141,12 @@
    "name": "Amazing Marvin",
    "url": "https://amazingmarvin.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "subscription",
+    "cross-platform"
+   ],
    "blurb": "I’ve moved my task management process from Amazing Marvin (which, don’t get me wrong, is a great product) to TickTick . I’ve been writing Apple Shortcuts to try and automate archiving over to Obsidian because I have the data hoarding illness.",
    "section": "crowdsourced",
    "recommender": "@feather.town‬ (reader)"
@@ -135,8 +156,11 @@
    "name": "TickTick",
    "url": "https://ticktick.com/?language=en_us",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "I’ve moved my task management process from Amazing Marvin (which, don’t get me wrong, is a great product) to TickTick . I’ve been writing Apple Shortcuts to try and automate archiving over to Obsidian because I have the data hoarding illness.",
    "section": "crowdsourced",
    "recommender": "@feather.town‬ (reader)"
@@ -159,8 +183,11 @@
    "name": "Obsidian",
    "url": "https://obsidian.md/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "I’ve moved my task management process from Amazing Marvin (which, don’t get me wrong, is a great product) to TickTick . I’ve been writing Apple Shortcuts to try and automate archiving over to Obsidian because I have the data hoarding illness.",
    "section": "crowdsourced",
    "recommender": "@feather.town‬ (reader)"
@@ -170,8 +197,12 @@
    "name": "Digg",
    "url": "https://www.digg.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "web",
+    "beta"
+   ],
    "blurb": "New Digg , baby!",
    "section": "crowdsourced",
    "recommender": "dome_node (reader)"
@@ -181,8 +212,12 @@
    "name": "Retro Catalog",
    "url": "http://retrocatalog.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "web",
+    "free"
+   ],
    "blurb": "I have been newly-enjoying two website resources: Retro Catalog and Retro Handhelds . I am also quite a huge fan of Russ from Retro Game Corps on YouTube , who does some very lovely discussions about this wonderful world of retro handhelds.",
    "section": "crowdsourced",
    "recommender": "verge_user_m498isna (reader)"
@@ -192,8 +227,12 @@
    "name": "Retro Handhelds",
    "url": "http://retrohandhelds.gg/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "web",
+    "free"
+   ],
    "blurb": "I have been newly-enjoying two website resources: Retro Catalog and Retro Handhelds . I am also quite a huge fan of Russ from Retro Game Corps on YouTube , who does some very lovely discussions about this wonderful world of retro handhelds.",
    "section": "crowdsourced",
    "recommender": "verge_user_m498isna (reader)"
@@ -229,8 +268,12 @@
    "name": "Beeper",
    "url": "https://www.beeper.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "cross-platform",
+    "free"
+   ],
    "blurb": "I suspect most Verge readers know about Beeper , but it has a hidden use case that they probably haven’t thought about: accessing DMs without risking getting sucked into an app.",
    "section": "crowdsourced",
    "recommender": "boblin (reader)"
@@ -240,8 +283,10 @@
    "name": "The Compound",
    "url": "https://www.penguinrandomhouse.com/books/773489/the-compound-a-gma-book-club-pick-by-aisling-rawle/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I just finished Aisling Rawle’s The Compound . If you’re a fan of Love Island but wished there was more dystopia and violence, boy do I have the book for you. On the comics front, Absolute Martian Manhunter is the best showcase for the medium we’ve had in a minute.",
    "section": "crowdsourced",
    "recommender": "SocialJerm (reader)"
@@ -264,8 +309,10 @@
    "name": "Absolute Martian Manhunter",
    "url": "https://www.dc.com/comics/absolute-martian-manhunter-2025/absolute-martian-manhunter-1",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I just finished Aisling Rawle’s The Compound . If you’re a fan of Love Island but wished there was more dystopia and violence, boy do I have the book for you. On the comics front, Absolute Martian Manhunter is the best showcase for the medium we’ve had in a minute.",
    "section": "crowdsourced",
    "recommender": "SocialJerm (reader)"

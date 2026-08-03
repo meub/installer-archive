@@ -26,8 +26,10 @@
    "alt_urls": [
     "https://www.theverge.com/23869728/apple-iphone-15-event-announcements-watch-ultra-airpods-pro-usb-c"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "ios"
+   ],
    "blurb": "It’s been a few days since the Apple event , and I’m still not sure whether I’m excited about the iPhone 15 and 15 Pro. I like the titanium on the Pro, the camera, and that it’s lighter! And yay, USB-C! But that’s… kinda it.",
    "section": "the-drop",
    "recommender": null
@@ -37,8 +39,10 @@
    "name": "Apple’s USB-C EarPods",
    "url": "https://apple.sjv.io/ZQYJak",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "Now these , I am unequivocally into. I’ve spent years telling everyone to just buy a pair of EarPods and keep them in your bag — they’re $19, their sound quality is meh, but their mic quality is fantastic, and they’re super useful for phone calls / voice dictation / whenever your wireless…",
    "section": "the-drop",
    "recommender": null
@@ -61,8 +65,10 @@
    "alt_urls": [
     "https://www.theverge.com/23869799/sally-ride-nichelle-nichols-six-women-astronauts-nasa-space-spacex"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Speaking of great space stories, Bloomberg reporter (and Verge alum!) Loren Grush wrote a great book about the six women who helped expand and change the American space program and the huge amount of sexism and pushback they received in the process.",
    "section": "the-drop",
    "recommender": null
@@ -75,8 +81,10 @@
     "https://www.cnbc.com/2023/09/09/ai-for-cars-walter-isaacson-biography-of-elon-musk-excerpt.html",
     "https://www.newyorker.com/magazine/2023/09/18/elon-musk-walter-isaacson-book-review"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Big week for tech books, apparently! I confess I have not yet cracked Walter Isaacson’s 688-page tome, but I’ve been devouring excerpts and reviews , many of which say the same thing: Elon Musk is a deeply complicated person, definitely a smart person, maybe not a very good person, and it’s…",
    "section": "the-drop",
    "recommender": null
@@ -86,8 +94,10 @@
    "name": "Spotify’s Daylist",
    "url": "http://spotify.com/daylist",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "music"
+   ],
    "blurb": "The most interesting question in the music business right now is this: how do you differentiate yourself when everybody has all the same content?",
    "section": "the-drop",
    "recommender": null
@@ -97,8 +107,12 @@
    "name": "Stable Audio",
    "url": "https://www.stableaudio.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "music",
+    "web"
+   ],
    "blurb": "I’m currently deep down the rabbit hole of AI music-making tools (for a Vergecast episode coming Monday!), and Stable Audio is one of the more impressive tools I’ve seen.",
    "section": "the-drop",
    "recommender": null
@@ -110,8 +124,12 @@
    "alt_urls": [
     "https://www.theverge.com/23870146/monster-hunter-now-review-niantic-iphone-android"
    ],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "This is definitely not a full-on Monster Hunter game for your phone. And The Verge ’s Andrew Webster found it a little lacking in depth and strategy .",
    "section": "the-drop",
    "recommender": null
@@ -123,8 +141,11 @@
    "alt_urls": [
     "https://www.theverge.com/2023/9/13/23871561/artifact-links-news-reading-app-tiktok"
    ],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "social",
+    "free"
+   ],
    "blurb": "A very important genre of app to me is the Puttering App, the one I can just open and scroll through for a few minutes at a time in the hopes of finding something fun / interesting / useful. Twitter was kinda that, Instagram and Reddit are still kinda that, and Artifact wants to be exactly that.",
    "section": "the-drop",
    "recommender": null
@@ -134,8 +155,10 @@
    "name": "Canoopsy",
    "url": "https://canoopsy.media/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
    "blurb": "For advice, I turned to Isaac Mosna, who you might know better as Canoopsy on YouTube and around the web . He makes great tech videos but also creates wallpapers , icons , and more cool phone stuff.",
    "section": "pro-tips",
    "recommender": null
@@ -158,8 +181,10 @@
    "name": "around the web",
    "url": "https://www.instagram.com/canoopsy/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "website"
+   ],
    "blurb": "For advice, I turned to Isaac Mosna, who you might know better as Canoopsy on YouTube and around the web . He makes great tech videos but also creates wallpapers , icons , and more cool phone stuff.",
    "section": "pro-tips",
    "recommender": null
@@ -169,8 +194,10 @@
    "name": "wallpapers",
    "url": "https://canoopsy.media/collections/wallpapers",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "free"
+   ],
    "blurb": "For advice, I turned to Isaac Mosna, who you might know better as Canoopsy on YouTube and around the web . He makes great tech videos but also creates wallpapers , icons , and more cool phone stuff.",
    "section": "pro-tips",
    "recommender": null
@@ -180,8 +207,10 @@
    "name": "icons",
    "url": "https://canoopsy.media/products/canoopsy-icon-pack",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "free"
+   ],
    "blurb": "For advice, I turned to Isaac Mosna, who you might know better as Canoopsy on YouTube and around the web . He makes great tech videos but also creates wallpapers , icons , and more cool phone stuff.",
    "section": "pro-tips",
    "recommender": null
@@ -191,8 +220,11 @@
    "name": "Clear Spaces",
    "url": "https://howl.me/ckAJ7TRGiT1",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "utilities"
+   ],
    "blurb": "Embrace space. “On Android, it’s really easy to leave empty spots on the screen. On iOS, you can use things like Clear Spaces to have blank spaces or put everything on one side of your phone where your hand naturally rests.",
    "section": "pro-tips",
    "recommender": null
@@ -213,7 +245,7 @@
    "name": "Warhammer 40,000",
    "url": "https://warhammer40000.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "Dancing! I have begun choreography for an Argentine Tango recital in November, so that’ll occupy quite a lot of my life over the near future. I’ve been dancing seriously for almost three years now and do performances about twice a year. It’s nerve-wracking but fun. Painting videos.",
    "section": "screen-share",
@@ -263,8 +295,10 @@
    "name": "Futureland",
    "url": "https://futureland.tv/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "A lot of my life, online and offline, is captured on Futureland — a journal / routine organizer / tracker hybrid that can be a little hard to explain but feels wonderfully organic in practice.",
    "section": "crowdsourced",
    "recommender": "Min-Taec (reader)"
@@ -274,8 +308,11 @@
    "name": "Finity",
    "url": "https://howl.me/ckAJ8JYWVrk",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "subscription"
+   ],
    "blurb": "Currently addicted to playing Finity on Apple Arcade.",
    "section": "crowdsourced",
    "recommender": "Scott (reader)"
@@ -285,8 +322,11 @@
    "name": "Numbr",
    "url": "https://numbr.dev/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "utilities",
+    "productivity"
+   ],
    "blurb": "Calculator apps are boring and haven’t seen any innovation, until Numbr ! It’s a notepad mixed with a calculator, and I’ve used it exclusively as my calculator for several years. It’s primarily a web app, but there’s also a handy Chrome extension , and all the syntax is explained on their Github .",
    "section": "crowdsourced",
    "recommender": "Ross (reader)"
@@ -322,8 +362,11 @@
    "name": "Usagi Shima",
    "url": "https://usagishima.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "free"
+   ],
    "blurb": "I have been OBSESSED with Usagi Shima , a little bunny-collecting chill island game with vibes reminiscent of Neko Atsume and a bit of Animal Crossing relaxation.",
    "section": "crowdsourced",
    "recommender": "Evelyn (reader)"
@@ -333,8 +376,12 @@
    "name": "Tessie",
    "url": "https://www.tessie.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "subscription",
+    "utilities",
+    "ios"
+   ],
    "blurb": "Subscribed to Tessie . Allows my Apple Watch to be used as a Tesla key similar to my phone. Not sure how to feel about it, but it’s been super convenient!",
    "section": "crowdsourced",
    "recommender": "Chris (reader)"
@@ -344,8 +391,11 @@
    "name": "FamilyWall",
    "url": "https://www.familywall.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "My wife found the app FamilyWall — it is our common app for recipes, meal planning, contacts, budgets, and bucket lists. What I like is that the app connects things: when I enter a recipe, I can plan the meal for a specific day and add the ingredients to the grocery list.",
    "section": "crowdsourced",
    "recommender": "Chris (reader)"
@@ -355,8 +405,11 @@
    "name": "One Sec",
    "url": "https://one-sec.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "utilities"
+   ],
    "blurb": "One Sec . This app primarily allows you to set up a delay (referred to as an intervention) when opening specified apps.",
    "section": "crowdsourced",
    "recommender": "Andrew (reader)"
@@ -366,8 +419,12 @@
    "name": "Camera app from Blackmagic",
    "url": "https://www.blackmagicdesign.com/products/blackmagiccamera",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "video",
+    "free",
+    "ios"
+   ],
    "blurb": "The new Camera app from Blackmagic , plus their cloud integration so that multiple cameras can all upload to Davinci at the same time.",
    "section": "crowdsourced",
    "recommender": "Iestyn (reader)"
@@ -377,8 +434,12 @@
    "name": "Letterboxd",
    "url": "https://letterboxd.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "movie",
+    "free"
+   ],
    "blurb": "Instead of relying on Rotten Tomatoes for questionable movie ratings, use Letterboxd . As a bonus, some of the reviews for the really bad movies are super fun. The Flash , with 2.7 stars out of 5: ‘the cgi in this movie makes superman’s mustache removal look like a work of art.’ Honesty and humor.",
    "section": "crowdsourced",
    "recommender": "Brandon (reader)"
@@ -388,8 +449,10 @@
    "name": "The Flash",
    "url": "https://letterboxd.com/film/the-flash/reviews/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
    "blurb": "Instead of relying on Rotten Tomatoes for questionable movie ratings, use Letterboxd . As a bonus, some of the reviews for the really bad movies are super fun. The Flash , with 2.7 stars out of 5: ‘the cgi in this movie makes superman’s mustache removal look like a work of art.’ Honesty and humor.",
    "section": "crowdsourced",
    "recommender": "Brandon (reader)"
@@ -399,8 +462,11 @@
    "name": "Flight Radar 24",
    "url": "https://www.flightradar24.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "travel",
+    "utilities"
+   ],
    "blurb": "Flight Radar 24 is wonderful. Want to know where that jet overhead is headed? Pop open the app and turn on AR for a live overlay. I also have all emergency alerts as silent notifications. Occasionally, you get military jets or big flight diversions.",
    "section": "crowdsourced",
    "recommender": "Sean (reader)"
@@ -410,8 +476,10 @@
    "name": "Honda Motocompacto",
    "url": "https://motocompacto.honda.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "travel"
+   ],
    "blurb": "I am obsessed with scooters. Scooters you buy, scooters you rent, scooters you pay for by the minute and then throw into the river when you’re done — I love them all. And I can’t remember the last time I fell for a scooter like the new Honda Motocompacto .",
    "section": "signing-off",
    "recommender": null

@@ -23,7 +23,7 @@
    "name": "Pokémon Legends: Z-A",
    "url": "https://legends.pokemon.com/en-us",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "A good new Pokémon game! It’s been too long since we had one. A lot of people are mad at how long the tutorial lasts, and the new mechanics seem to take some getting used to, but there’s a lot to like about the new world and new system.",
    "section": "the-drop",
@@ -34,8 +34,10 @@
    "name": "Apple’s M5 MacBook Pro",
    "url": "https://www.apple.com/macbook-pro/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "mac"
+   ],
    "blurb": "Apple released a bunch of M5-powered gear this week, but the best place to put all that power is pretty clearly in Apple’s high-end laptop. I’ve been a very happy M4 owner for a while now, and I suspect a lot of people will love this upgrade.",
    "section": "the-drop",
    "recommender": null
@@ -61,8 +63,12 @@
    "name": "Raycast for iOS",
    "url": "https://www.raycast.com/ios",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity",
+    "ai"
+   ],
    "blurb": "Version 1.1 is the Raycast mobile app I’ve been waiting for: a keyboard that works across apps and lets you access snippets and links, chat with AI, and take notes. Third-party iOS keyboards haven’t always worked great, but I’m liking this so far.",
    "section": "the-drop",
    "recommender": null
@@ -88,7 +94,7 @@
     "https://apps.apple.com/us/app/hitman-absolution/id6737513240",
     "https://play.google.com/store/apps/details?id=com.feralinteractive.hitmanabsolution_android&hl=en_US"
    ],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "All the Hitman titles are sort of action games, sort of puzzle games, and pretty much all very fun. This one’s a really old game — from 2012! — but the news is that it’s now on iOS and Android . I’ve only played a little, but it actually works pretty well on the small screen.",
    "section": "the-drop",
@@ -99,8 +105,10 @@
    "name": "The Kobo Remote",
    "url": "https://us.kobobooks.com/products/kobo-remote",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "book"
+   ],
    "blurb": "There are a lot of page-turner remotes out there, but they’re mostly hacky and require attaching a mechanical thing to your e-reader. Super smart of Kobo to make one that works over Bluetooth and doesn’t get in the way.",
    "section": "the-drop",
    "recommender": null
@@ -123,7 +131,7 @@
    "name": "Ball x Pit",
    "url": "https://www.ballxpit.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "This is a smorgasbord of video game ideas that all seem to add up to something both relatively simple — a ball-shooting, level-clearing game — and wildly, even overly complex. I’m going to end up playing a lot of this.",
    "section": "the-drop",
@@ -136,8 +144,10 @@
    "alt_urls": [
     "https://www.youtube.com/watch?v=26WMF7Xdb0E"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Andrew Ross Sorkin’s book is technically about events from a hundred years ago, but my goodness does it rhyme with what’s happening in AI, on Wall Street, and all over America. If you want a good teaser, Sorkin was good on 60 Minutes last weekend.",
    "section": "the-drop",
    "recommender": null
@@ -158,8 +168,11 @@
    "name": "Minimalist Phone",
    "url": "https://www.minimalistphone.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android",
+    "productivity"
+   ],
    "blurb": "My homescreen is called Minimalist Phone . I’m trying to spend less time staring at a screen in general, but especially my phone. I wanted to do my best to recreate the experience of a Light Phone or something similar, without having to give up things like RCS or ticketing apps.",
    "section": "screen-share",
    "recommender": "Terrence"
@@ -169,8 +182,12 @@
    "name": "Obsidian",
    "url": "https://obsidian.md/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "productivity",
+    "free"
+   ],
    "blurb": "Obsidian is there for purely reference purposes (recipes, combination lock codes I can never remember, etc.). While the desktop app is incredible, the mobile interface is slow and kind of terrible. For actual note-taking on the go, I much prefer a Field Notes pocket notebook and a pen.",
    "section": "screen-share",
    "recommender": "Terrence"
@@ -180,8 +197,12 @@
    "name": "Readwise’s Reader",
    "url": "https://readwise.io/read",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "subscription",
+    "productivity"
+   ],
    "blurb": "Obsidian is there for purely reference purposes (recipes, combination lock codes I can never remember, etc.). While the desktop app is incredible, the mobile interface is slow and kind of terrible. For actual note-taking on the go, I much prefer a Field Notes pocket notebook and a pen.",
    "section": "screen-share",
    "recommender": "Terrence"
@@ -191,8 +212,11 @@
    "name": "Welcome to Night Vale",
    "url": "https://www.welcometonightvale.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast",
+    "free"
+   ],
    "blurb": "I have rediscovered my love of Welcome to Night Vale , a fiction podcast that basically presents Lovecraftian horrors as mundane community radio updates. It’s both funny and spooky in equal measure.",
    "section": "screen-share",
    "recommender": "Terrence"
@@ -215,8 +239,12 @@
    "name": "r/pitbulls",
    "url": "https://www.reddit.com/r/pitbulls/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "social",
+    "web",
+    "free"
+   ],
    "blurb": "I have rediscovered my love of Welcome to Night Vale , a fiction podcast that basically presents Lovecraftian horrors as mundane community radio updates. It’s both funny and spooky in equal measure.",
    "section": "screen-share",
    "recommender": "Terrence"
@@ -226,8 +254,12 @@
    "name": "r/pitbulls_in_partyhats",
    "url": "https://www.reddit.com/r/pitbulls_in_partyhats/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "social",
+    "web",
+    "free"
+   ],
    "blurb": "I have rediscovered my love of Welcome to Night Vale , a fiction podcast that basically presents Lovecraftian horrors as mundane community radio updates. It’s both funny and spooky in equal measure.",
    "section": "screen-share",
    "recommender": "Terrence"
@@ -237,8 +269,12 @@
    "name": "r/PittiesAndKitties",
    "url": "https://www.reddit.com/r/PittiesAndKitties/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "social",
+    "web",
+    "free"
+   ],
    "blurb": "I have rediscovered my love of Welcome to Night Vale , a fiction podcast that basically presents Lovecraftian horrors as mundane community radio updates. It’s both funny and spooky in equal measure.",
    "section": "screen-share",
    "recommender": "Terrence"
@@ -248,8 +284,11 @@
    "name": "Dilla Time",
    "url": "https://dillati.me/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "music"
+   ],
    "blurb": "I just finished Dan Charnas’ biography of J Dilla, Dilla Time , which was amazing — not just as a biography but as a cultural history detailing the technological developments that enabled hip-hop producers to make beats in new ways.",
    "section": "crowdsourced",
    "recommender": "Jake (reader)"
@@ -272,7 +311,7 @@
    "name": "Hades 2",
    "url": "https://www.supergiantgames.com/games/hades-ii",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Hades 2 has similarly consumed my gaming time in the same way Hades did five years ago. The sequel somehow improves on a game that, for me, was almost flawless and I thought could not get any better. And yet…",
    "section": "crowdsourced",
@@ -283,8 +322,12 @@
    "name": "PikaPods",
    "url": "https://www.pikapods.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "web",
+    "subscription"
+   ],
    "blurb": "PikaPods hosts and manages instances of open-source software for pretty cheap. I migrated from Google Photos to a PhotoPrism instance. Been using it for over 4 years with no issues and zero maintenance.",
    "section": "crowdsourced",
    "recommender": "Luke (reader)"
@@ -294,8 +337,12 @@
    "name": "PhotoPrism",
    "url": "https://www.photoprism.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "photography",
+    "web"
+   ],
    "blurb": "PikaPods hosts and manages instances of open-source software for pretty cheap. I migrated from Google Photos to a PhotoPrism instance. Been using it for over 4 years with no issues and zero maintenance.",
    "section": "crowdsourced",
    "recommender": "Luke (reader)"
@@ -305,7 +352,7 @@
    "name": "Donkey Kong Country",
    "url": "https://en.wikipedia.org/wiki/Donkey_Kong_Country",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Playing Donkey Kong Country on my Miyoo Mini Plus has been a fun way to relax in the first few weeks with my newborn daughter, Amelia! Something cozy and comforting about retro games and transparent tech!",
    "section": "crowdsourced",
@@ -316,7 +363,7 @@
    "name": "Miyoo Mini Plus",
    "url": "https://officialmiyoomini.com/product-category/miyoo-mini-plus/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Playing Donkey Kong Country on my Miyoo Mini Plus has been a fun way to relax in the first few weeks with my newborn daughter, Amelia! Something cozy and comforting about retro games and transparent tech!",
    "section": "crowdsourced",
@@ -327,7 +374,7 @@
    "name": "Topsider Bifold LT",
    "url": "https://www.osleather.com/product-page/topsider-bifold-lt",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I just found my perfect wallet, and I need to share it: the Topsider Bifold LT . It is small, it is beautiful, it is handmade in Hawaii, smells great (not that this was in the list of a wallet needed to have), and it’s fully customizable: I got an Olmo Pueblo with Olive Pueblo for primary and…",
    "section": "crowdsourced",
@@ -351,7 +398,7 @@
    "name": "Strange Antiquities",
    "url": "https://www.iceberg-games.com/games/strange-antiquities/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Strange Antiquities ! incredible game in and out of spooky season.",
    "section": "crowdsourced",
@@ -375,8 +422,12 @@
    "name": "Johnny Decimal",
    "url": "https://johnnydecimal.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "productivity",
+    "website",
+    "free"
+   ],
    "blurb": "A friend recommended the Johnny Decimal organization system a while back, and I finally got around to actually doing the process after I enjoyed reading the workbook itself. I’m super excited to finally wrangle my many, many lists into order.",
    "section": "crowdsourced",
    "recommender": "Laszlo (reader)"
@@ -386,8 +437,10 @@
    "name": "Toniebox",
    "url": "https://us.tonies.com/pages/toniebox2",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "So my oldest kid is about to turn three, and I think we’re going to get him a Toniebox for his birthday. (Don’t tell him!) It’s a super cool idea: an audio player with these little toy-like cartridges that let kids choose what they want to listen to.",
    "section": "signing-off",
    "recommender": null

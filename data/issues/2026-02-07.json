@@ -23,8 +23,12 @@
    "name": "Peacock’s Gold Zone",
    "url": "https://imp.i305175.net/c/482924/828265/11640?u=https%3A%2F%2Fwww.peacocktv.com%2Fsports%2Fgold-zone-day-1%2F6b59103e-fe47-3901-ac47-18e2061cba31&partnerpropertyid=7032191",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "tv",
+    "subscription",
+    "video"
+   ],
    "blurb": "This is not strictly a new thing, really, just a PSA: For my money there is no better way to watch the Olympics than through Gold Zone, which whips around the Games to show you the most interesting thing happening at any given moment.",
    "section": "the-drop",
    "recommender": null
@@ -34,8 +38,12 @@
    "name": "Raindrop.io Stella",
    "url": "https://help.raindrop.io/stella",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "A big AI-powered update to my favorite bookmarking app. So far, it’s what you’d expect: a much better way to search, ask questions about, and otherwise interact with your bookmarks. After trying a bunch of other apps, I’ve been back in on Raindrop recently, and this comes at the perfect time.",
    "section": "the-drop",
    "recommender": null
@@ -45,8 +53,10 @@
    "name": "Super Nintendo",
    "url": "https://www.penguinrandomhouse.com/books/753986/super-nintendo-by-keza-macdonald/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I really don’t think there’s another company quite like Nintendo. Keza MacDonald’s book is a business story, a game story, and more besides — I’ve only just started reading it and I’ve already learned a ton. (Stay tuned, by the way: we have an excertp from the book running on the site on Monday.)",
    "section": "the-drop",
    "recommender": null
@@ -56,8 +66,12 @@
    "name": "Codex for Mac",
    "url": "https://developers.openai.com/codex/app",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "mac",
+    "productivity"
+   ],
    "blurb": "OpenAI’s answer to Claude Code got a desktop app, and I’ve been hearing pretty good things about it. I’m particularly intrigued by the Automations feature, which I intend to use to help clean up my Downloads folder every week or so.",
    "section": "the-drop",
    "recommender": null
@@ -95,7 +109,7 @@
    "name": "Dragon Quest VII Reimagined",
    "url": "https://dragonquest.square-enix-games.com/games/en-us/dragon-quest-vii-reimagined/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I swear, once a week someone ships a remastered game that makes me go “Oh, man, I forgot about that game!” Somehow this series is 40 years old, and though the cartoony screenshots don’t totally do it for me, I suspect a lot of folks will have a blast digging back into this one.",
    "section": "the-drop",
@@ -145,8 +159,12 @@
    "name": "Are.na",
    "url": "http://are.na",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "web",
+    "productivity"
+   ],
    "blurb": "The apps: Find My, Fastmail, Fantastical, ChatGPT, Claude, Carrot Weather, Photos, Things, Reddit, Instagram, Margin, Current, Ivory, Are.na , Bear, Recollect, Phone, Messages, Safari.",
    "section": "screen-share",
    "recommender": "Terry"
@@ -156,8 +174,12 @@
    "name": "Fastmail",
    "url": "https://www.fastmail.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "paid",
+    "cross-platform",
+    "productivity"
+   ],
    "blurb": "I have a home folder on the top left which has all of my various home automation apps (I’m too lazy to complete my HomeAssistant rig). Then Find My, because my kids love to see where Mom is and how long it’ll be before she gets home.",
    "section": "screen-share",
    "recommender": "Terry"
@@ -167,8 +189,13 @@
    "name": "Fantastical",
    "url": "https://flexibits.com/fantastical",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "productivity",
+    "subscription"
+   ],
    "blurb": "I have a home folder on the top left which has all of my various home automation apps (I’m too lazy to complete my HomeAssistant rig). Then Find My, because my kids love to see where Mom is and how long it’ll be before she gets home.",
    "section": "screen-share",
    "recommender": "Terry"
@@ -178,8 +205,12 @@
    "name": "Nugs",
    "url": "https://www.nugs.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "video",
+    "subscription"
+   ],
    "blurb": "The media folder contains things like Nugs (sweet streaming concert videos), Music, Patreon , etc. There’s also my two handy robot friends ChatGPT and Claude… and Carrot Weather , which is pretty much a robot, actually, so I guess I have three robot friends.",
    "section": "screen-share",
    "recommender": "Terry"
@@ -189,8 +220,12 @@
    "name": "Patreon",
    "url": "https://www.patreon.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "subscription",
+    "web",
+    "social"
+   ],
    "blurb": "The media folder contains things like Nugs (sweet streaming concert videos), Music, Patreon , etc. There’s also my two handy robot friends ChatGPT and Claude… and Carrot Weather , which is pretty much a robot, actually, so I guess I have three robot friends.",
    "section": "screen-share",
    "recommender": "Terry"
@@ -200,8 +235,12 @@
    "name": "Carrot Weather",
    "url": "https://www.meetcarrot.com/weather/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "paid"
+   ],
    "blurb": "The media folder contains things like Nugs (sweet streaming concert videos), Music, Patreon , etc. There’s also my two handy robot friends ChatGPT and Claude… and Carrot Weather , which is pretty much a robot, actually, so I guess I have three robot friends.",
    "section": "screen-share",
    "recommender": "Terry"
@@ -211,8 +250,13 @@
    "name": "Bear",
    "url": "https://bear.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "productivity",
+    "subscription"
+   ],
    "blurb": "The media folder contains things like Nugs (sweet streaming concert videos), Music, Patreon , etc. There’s also my two handy robot friends ChatGPT and Claude… and Carrot Weather , which is pretty much a robot, actually, so I guess I have three robot friends.",
    "section": "screen-share",
    "recommender": "Terry"
@@ -222,8 +266,12 @@
    "name": "Recollect.fyi",
    "url": "https://recollect.fyi/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "web",
+    "ai"
+   ],
    "blurb": "The media folder contains things like Nugs (sweet streaming concert videos), Music, Patreon , etc. There’s also my two handy robot friends ChatGPT and Claude… and Carrot Weather , which is pretty much a robot, actually, so I guess I have three robot friends.",
    "section": "screen-share",
    "recommender": "Terry"
@@ -337,8 +385,10 @@
    "name": "Thrice",
    "url": "https://thrice.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "Shows: Fallout , The Chair Company , Star Trek: TNG , Pluribus , Superstore (Recently watched) movies: Eddington , Master and Commander , Zootopia 2 (kids…) Listening: Thrice , anything by Motown bassist James Jamerson , Van Halen , and Thelonious Monk",
    "section": "screen-share",
    "recommender": "Terry"
@@ -348,8 +398,10 @@
    "name": "James Jamerson",
    "url": "https://en.wikipedia.org/wiki/James_Jamerson",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "Shows: Fallout , The Chair Company , Star Trek: TNG , Pluribus , Superstore (Recently watched) movies: Eddington , Master and Commander , Zootopia 2 (kids…) Listening: Thrice , anything by Motown bassist James Jamerson , Van Halen , and Thelonious Monk",
    "section": "screen-share",
    "recommender": "Terry"
@@ -359,8 +411,10 @@
    "name": "Van Halen",
    "url": "http://www.van-halen.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "Shows: Fallout , The Chair Company , Star Trek: TNG , Pluribus , Superstore (Recently watched) movies: Eddington , Master and Commander , Zootopia 2 (kids…) Listening: Thrice , anything by Motown bassist James Jamerson , Van Halen , and Thelonious Monk",
    "section": "screen-share",
    "recommender": "Terry"
@@ -370,8 +424,10 @@
    "name": "Thelonious Monk",
    "url": "https://www.theloniousmonkmusic.com/#/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "Shows: Fallout , The Chair Company , Star Trek: TNG , Pluribus , Superstore (Recently watched) movies: Eddington , Master and Commander , Zootopia 2 (kids…) Listening: Thrice , anything by Motown bassist James Jamerson , Van Halen , and Thelonious Monk",
    "section": "screen-share",
    "recommender": "Terry"
@@ -381,8 +437,12 @@
    "name": "Batocera",
    "url": "https://batocera.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "open-source",
+    "utilities"
+   ],
    "blurb": "I took an old mini desktop PC and threw Batocera on it so that I can play emulated games with a nice front end, and earn RetroAchievements while playing some old classics!",
    "section": "crowdsourced",
    "recommender": "Chris (reader)"
@@ -392,8 +452,12 @@
    "name": "RetroAchievements",
    "url": "https://retroachievements.org/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "web",
+    "social"
+   ],
    "blurb": "I took an old mini desktop PC and threw Batocera on it so that I can play emulated games with a nice front end, and earn RetroAchievements while playing some old classics!",
    "section": "crowdsourced",
    "recommender": "Chris (reader)"
@@ -403,8 +467,10 @@
    "name": "Heir to the Empire trilogy",
    "url": "https://www.penguinrandomhouse.com/series/RWN/star-wars-the-thrawn-trilogy---legends/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Timothy Zahn’s Heir to the Empire trilogy , which is regarded as the best series of Star Wars books.",
    "section": "crowdsourced",
    "recommender": "Noah (reader)"
@@ -414,8 +480,11 @@
    "name": "the Audible audiobooks",
    "url": "https://www.audibletrial.com/c/482924/982711/12951?u=https%3A%2F%2Fwww.audible.com%2Fseries%2FStar-Wars-The-Thrawn-Trilogy-Legends-Audiobooks%2FB0C447PKXY&partnerpropertyid=7032191",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "subscription"
+   ],
    "blurb": "Timothy Zahn’s Heir to the Empire trilogy , which is regarded as the best series of Star Wars books.",
    "section": "crowdsourced",
    "recommender": "Noah (reader)"
@@ -425,8 +494,11 @@
    "name": "Fitera",
    "url": "https://getfitera.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness",
+    "ios"
+   ],
    "blurb": "I started using this app called Fitera to track my workouts. If you were using Apple Notes to track workouts and then importing them to Microsoft Excel manually at home to visualize, then this solves that (very niche, albeit real) problem.",
    "section": "crowdsourced",
    "recommender": "Athan (reader)"
@@ -436,8 +508,11 @@
    "name": "FoodNoms",
    "url": "https://foodnoms.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness",
+    "ios"
+   ],
    "blurb": "I started using this app called Fitera to track my workouts. If you were using Apple Notes to track workouts and then importing them to Microsoft Excel manually at home to visualize, then this solves that (very niche, albeit real) problem.",
    "section": "crowdsourced",
    "recommender": "Athan (reader)"
@@ -447,8 +522,11 @@
    "name": "Um, Actually",
    "url": "https://watch.dropout.tv/um-actually",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv",
+    "subscription"
+   ],
    "blurb": "​​Watching the new series of Um, Actually on Dropout, as well as rewatching some of my other Dropout top shows ( Game Changer , VIP , etc.). Did I mention how much I love Dropout?",
    "section": "crowdsourced",
    "recommender": "Andrew (reader)"
@@ -458,8 +536,11 @@
    "name": "Game Changer",
    "url": "https://watch.dropout.tv/game-changer",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv",
+    "subscription"
+   ],
    "blurb": "​​Watching the new series of Um, Actually on Dropout, as well as rewatching some of my other Dropout top shows ( Game Changer , VIP , etc.). Did I mention how much I love Dropout?",
    "section": "crowdsourced",
    "recommender": "Andrew (reader)"
@@ -469,8 +550,11 @@
    "name": "VIP",
    "url": "https://watch.dropout.tv/very-important-people",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv",
+    "subscription"
+   ],
    "blurb": "​​Watching the new series of Um, Actually on Dropout, as well as rewatching some of my other Dropout top shows ( Game Changer , VIP , etc.). Did I mention how much I love Dropout?",
    "section": "crowdsourced",
    "recommender": "Andrew (reader)"
@@ -480,8 +564,12 @@
    "name": "Linux Mint",
    "url": "https://linuxmint.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "free",
+    "open-source",
+    "utilities"
+   ],
    "blurb": "Switching to Linux Mint has removed all the Windows bloat and breathed new life into my eight-year-old laptop; it’s so much faster and pleasant to use now (and no start menu ads!).",
    "section": "crowdsourced",
    "recommender": "Sleepy (reader)"
@@ -517,8 +605,10 @@
    "name": "Chronicles of a Liquid Society",
    "url": "https://www.harpercollins.com/products/chronicles-of-a-liquid-society-umberto-eco?variant=39935235719202",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’m reading Chronicles of a Liquid Society , the last book from Umberto Eco. A collection of his editorials that read like blog posts. They range from 2000 onward, so some of the topics are now quaint (like the implausible idea in 2004 that every kid has a computer in class).",
    "section": "crowdsourced",
    "recommender": "Rich (reader)"

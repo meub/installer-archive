@@ -26,8 +26,10 @@
    "alt_urls": [
     "https://www.theverge.com/24073019/bose-ultra-open-earbuds-review"
    ],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "For some reason, over the last year or so, almost all in-ear headphones suddenly leave my ears sore and scratchy. So I’m very curious to try these — even though at $299 they’re too expensive for my tastes, the clip-on style seems like it could work .",
    "section": "the-drop",
    "recommender": null
@@ -65,8 +67,11 @@
    "name": "Mark Zuckerberg’s Vision Pro review",
    "url": "https://www.instagram.com/reel/C3TkhmivNzt",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "social"
+   ],
    "blurb": "The review itself is, like, fine — I think Zuck is right about a lot of the things people actually want headsets for, and about the price-to-quality balance being a tricky one. But shooting a review of a competitor’s product, with your own product, in such a casual way, is just fascinating to me.",
    "section": "the-drop",
    "recommender": null
@@ -89,8 +94,12 @@
    "name": "Superlist",
    "url": "https://www.superlist.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform",
+    "subscription"
+   ],
    "blurb": "This week’s “to-do list app that’s so close to being everything I wanted and maybe I’ll just spend the whole weekend trying it out.” It’s a teams-first product, which, meh, but this is the best-looking productivity app I’ve seen in years.",
    "section": "the-drop",
    "recommender": null
@@ -131,8 +140,12 @@
     "https://spreadprivacy.com/password-sync-backup/",
     "https://www.theverge.com/2024/2/14/24071815/duckduckgo-browser-device-syncing-privacy-encryption"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "free",
+    "utilities"
+   ],
    "blurb": "DDG just rolled out a cool new tool that lets you sync passwords and bookmarks across platforms without needing an account; you just scan a QR code to add a new device. At this point, I’m wary of saying any company is actually a good privacy option, but DuckDuckGo is certainly doing the work.",
    "section": "the-drop",
    "recommender": null
@@ -145,8 +158,13 @@
     "https://obsidian.md/",
     "https://logseq.com/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "productivity",
+    "paid"
+   ],
    "blurb": "I use an iOS and Mac app called NotePlan for daily notes and task management — the app is built on top of a folder of Markdown files I can easily use anywhere else. Obsidian and Logseq are both the same way and are both excellent (if very different) apps.",
    "section": "spotlight",
    "recommender": null
@@ -156,8 +174,12 @@
    "name": "Raindrop",
    "url": "https://raindrop.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "productivity",
+    "web"
+   ],
    "blurb": "I use the bookmarking service Raindrop to store all the links I care about, for Installer and everything else, and once a week I export all my links as a CSV file and again as a text file.",
    "section": "spotlight",
    "recommender": null
@@ -167,8 +189,12 @@
    "name": "Day One",
    "url": "https://dayoneapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "productivity"
+   ],
    "blurb": "is where I keep my actual journal, and every month or so I export the whole thing to a PDF.",
    "section": "spotlight",
    "recommender": null
@@ -178,7 +204,7 @@
    "name": "Once a year or so, when I’m feeling both bored and ambitious, I’ll back up my en",
    "url": null,
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "tire camera roll and Google Photos library to an external hard drive. All the other stuff goes into Google Drive, and onto that same hard drive.",
    "section": "spotlight",
@@ -200,8 +226,10 @@
    "name": "Harry Potter",
    "url": "https://www.wizardingworld.com/discover/books",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Right now, I’m rereading Harry Potter and listening to a lot of Caroline Shaw . Oh you meant on the internet??? Huh. Huuuuuh. I like the fashion newsletter Blackbird Spyplane . I’m a big fan of the Moderated Content podcast.",
    "section": "screen-share",
    "recommender": "Zoë"
@@ -211,8 +239,10 @@
    "name": "Caroline Shaw",
    "url": "https://carolineshaw.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
    "blurb": "Right now, I’m rereading Harry Potter and listening to a lot of Caroline Shaw . Oh you meant on the internet??? Huh. Huuuuuh. I like the fashion newsletter Blackbird Spyplane . I’m a big fan of the Moderated Content podcast.",
    "section": "screen-share",
    "recommender": "Zoë"
@@ -222,8 +252,10 @@
    "name": "Blackbird Spyplane",
    "url": "https://www.blackbirdspyplane.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "newsletter"
+   ],
    "blurb": "Right now, I’m rereading Harry Potter and listening to a lot of Caroline Shaw . Oh you meant on the internet??? Huh. Huuuuuh. I like the fashion newsletter Blackbird Spyplane . I’m a big fan of the Moderated Content podcast.",
    "section": "screen-share",
    "recommender": "Zoë"
@@ -233,8 +265,10 @@
    "name": "Moderated Content",
    "url": "https://law.stanford.edu/evelyn-douek/moderated-content/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Right now, I’m rereading Harry Potter and listening to a lot of Caroline Shaw . Oh you meant on the internet??? Huh. Huuuuuh. I like the fashion newsletter Blackbird Spyplane . I’m a big fan of the Moderated Content podcast.",
    "section": "screen-share",
    "recommender": "Zoë"
@@ -244,8 +278,10 @@
    "name": "Jacqueline Novak",
    "url": "https://www.jokesnovak.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
    "blurb": "Right now, I’m rereading Harry Potter and listening to a lot of Caroline Shaw . Oh you meant on the internet??? Huh. Huuuuuh. I like the fashion newsletter Blackbird Spyplane . I’m a big fan of the Moderated Content podcast.",
    "section": "screen-share",
    "recommender": "Zoë"
@@ -268,8 +304,11 @@
    "name": "Dominion",
    "url": "https://templegatesgames.com/gamepages/dominion.html",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "I’ve been playing the new Dominion card game app! Dominion is a deckbuilding game from back in the day, and it’s got several (I believe 15) expansions so far. Previous iterations of the game online and in app form never fully realized their potential.",
    "section": "crowdsourced",
    "recommender": "Matt (reader)"
@@ -279,8 +318,10 @@
    "name": "Worlds Beyond Number",
    "url": "https://worldsbeyondnumber.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "I’ve been listening to and immensely enjoying Worlds Beyond Number , an actual play narrative podcast from the best folks to ever do it.",
    "section": "crowdsourced",
    "recommender": "Caleb (reader)"
@@ -290,7 +331,7 @@
    "name": "Retroid Pocket 4 Pro",
    "url": "https://www.goretroid.com/products/retroid-pocket-4-handheld",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I received my Retroid Pocket 4 Pro in the mail this week after about a month of waiting from China. It exceeded expectations, and I’m having a great time emulating N64, GameCube, and PlayStation 2 games.",
    "section": "crowdsourced",
@@ -301,7 +342,7 @@
    "name": "Miyoo Plus",
    "url": "https://miyoominiv2.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Having fun playing old Nintendo titles on the Miyoo Plus . Such a great device. Feels like a time machine.",
    "section": "crowdsourced",
@@ -312,7 +353,7 @@
    "name": "Prince of Persia: The Lost Crown",
    "url": "https://www.ubisoft.com/en-us/game/prince-of-persia/the-lost-crown",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I’m playing, and overwhelmingly impressed with, Prince of Persia: The Lost Crown . It feels like a love letter to Castlevania and Metroid , and heavily inspired by Hollow Knight … but also innovates in some really clever ways. It also runs incredibly well on the Switch.",
    "section": "crowdsourced",
@@ -323,8 +364,12 @@
    "name": "Mela",
    "url": "https://mela.recipes/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "paid"
+   ],
    "blurb": "Probably one of the most used apps on my phone is Mela , by Silvio Rizzi. It’s a thoughtfully designed recipe app designed to share with your family. It has a shared family recipe library and integrations with Reminders and Calendar to ensure my fiancé and I are always on the same page.",
    "section": "crowdsourced",
    "recommender": "Liam (reader)"
@@ -334,8 +379,10 @@
    "name": "What Happened Last Week",
    "url": "https://whathappenedlastweek.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "newsletter"
+   ],
    "blurb": "It’s called What Happened Last Week , and it’s a great way to keep up with news from countries that are not often reported on in places like Africa, Asia, and Latin America.",
    "section": "crowdsourced",
    "recommender": "Richard (reader)"
@@ -358,8 +405,11 @@
    "name": "Game Changer",
    "url": "https://www.dropout.tv/videos/second-place",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv",
+    "subscription"
+   ],
    "blurb": "The new season of Game Changer on Dropout started this week, and it’s a treat as always!",
    "section": "crowdsourced",
    "recommender": "Noah (reader)"
@@ -369,8 +419,10 @@
    "name": "all-LED full-court screen",
    "url": "https://www.threads.net/@nba/post/C3Xy02uMBfZ",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "video"
+   ],
    "blurb": "The biggest, weirdest tech story of this weekend is coming from a slightly surprising place: the floor of the NBA All-Star Game. Have you seen the videos of the all-LED full-court screen ? Here’s an example of what this kind of thing looks like during a game, too.",
    "section": "signing-off",
    "recommender": null

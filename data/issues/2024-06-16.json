@@ -25,7 +25,7 @@
    "alt_urls": [
     "https://www.theverge.com/2024/6/11/24176026/light-phone-3-launch-price-release-date"
    ],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "The new version of one of the best minimalist phones comes with a better screen, a camera, an NFC chip, and some big ambitions about replacing your phone. I don’t think I’m physically capable of ditching my smartphone, but I want this thing so badly.",
    "section": "the-drop",
@@ -38,8 +38,13 @@
    "alt_urls": [
     "https://www.theverge.com/2024/6/10/24171999/apple-wwdc-2024-news-rumors-announcements-ios-18-ai"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "cross-platform",
+    "utilities"
+   ],
    "blurb": "We’ll talk a lot more about all of Apple’s WWDC announcements as they start to roll out, but this one’s worth thinking about now: Apple’s cross-platform, presumably well-integrated passwords app looks really good. Might be time to start compiling all your passwords and passkeys.",
    "section": "the-drop",
    "recommender": null
@@ -51,8 +56,10 @@
    "alt_urls": [
     "https://www.robinsloan.com/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Robin Sloan is one of my favorite writers on the internet , and both of his previous books were excellent. This one, a deeply meta science fiction epic, seems to be the weirdest one yet — and I mean that in a good way.",
    "section": "the-drop",
    "recommender": null
@@ -103,8 +110,12 @@
    "alt_urls": [
     "https://www.theverge.com/2024/4/2/24118436/yahoo-news-artifact-acquisition"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "free"
+   ],
    "blurb": "Yahoo bought and shut down Artifact earlier this year. That was sad. This is better: some of that recommendation tech is back in the new Yahoo News, which has lots of personalization and streaks and badging and all kinds of good stuff. I’m using Yahoo again! Who woulda thunk!",
    "section": "the-drop",
    "recommender": null
@@ -151,7 +162,7 @@
    "name": "Mikael Gustafsson’s",
    "url": "https://www.instagram.com/mklgustafsson/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "The wallpaper: I like a very minimalist wallpaper under my apps, but because I find solid black makes the screen too reflective, I created a custom subtle blue gradient I’ve been using for the past five years. (For my lock screen, I’m using one of Mikael Gustafsson’s dreamy nature scenes.)",
    "section": "screen-share",
@@ -162,7 +173,7 @@
    "name": "Anbernic RG28XX",
    "url": "https://anbernic.com/products/rg28xx",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I’m a big fan of retro gaming and recently added the tiny Anbernic RG28XX to my ever-growing collection of handheld emulators. The Game Boy Micro remains one of my favorite handhelds of all time, but with the RG28XX, I can leave all the cartridges at home.",
    "section": "screen-share",
@@ -199,8 +210,10 @@
    "name": "The Things We Make",
    "url": "https://engineerguy.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I’m a big fan of retro gaming and recently added the tiny Anbernic RG28XX to my ever-growing collection of handheld emulators. The Game Boy Micro remains one of my favorite handhelds of all time, but with the RG28XX, I can leave all the cartridges at home.",
    "section": "screen-share",
    "recommender": "Andrew"
@@ -210,8 +223,11 @@
    "name": "Joe DIY Instagram account",
    "url": "https://www.instagram.com/joe_diy",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "social",
+    "video"
+   ],
    "blurb": "I’m a big fan of retro gaming and recently added the tiny Anbernic RG28XX to my ever-growing collection of handheld emulators. The Game Boy Micro remains one of my favorite handhelds of all time, but with the RG28XX, I can leave all the cartridges at home.",
    "section": "screen-share",
    "recommender": "Andrew"
@@ -221,7 +237,7 @@
    "name": "Juicy Crumb",
    "url": "https://juicycrumb.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I just recently came across this Australian company called Juicy Crumb that specializes in creating custom motherboard replacements for old iMacs, which lets people easily repurpose them as monitors. And they made one for the iMac G4 !",
    "section": "crowdsourced",
@@ -232,8 +248,10 @@
    "name": "one for the iMac G4",
    "url": "https://juicycrumb.com/product/docklite-g4/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "mac"
+   ],
    "blurb": "I just recently came across this Australian company called Juicy Crumb that specializes in creating custom motherboard replacements for old iMacs, which lets people easily repurpose them as monitors. And they made one for the iMac G4 !",
    "section": "crowdsourced",
    "recommender": "Ryan (reader)"
@@ -243,7 +261,7 @@
    "name": "this magnet-back cover",
    "url": "https://www.amazon.de/dp/B0BZ43BPZN/ref=pe_27091401_487024491_TE_item",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I LOVE the Surface kickstand, enjoy typing onscreen (have done it for 14 years, tbf), and hate cases on my Apple devices. I’m obsessed with this magnet-back cover with a kickstand for my iPad. Could only source it from Amazon Germany, but they shipped to New Zealand for free. Wicked result.",
    "section": "crowdsourced",
@@ -254,8 +272,10 @@
    "name": "Inbox Ten",
    "url": "https://boz.com/articles/inbox-ten?ueid=34ed6d4569109c0fdd81f0e52e494cfa",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "Your mention of Inbox Ten makes me think you’d appreciate Tony Hsieh’s Yesterbox method, which I’ve used successfully for years!",
    "section": "crowdsourced",
    "recommender": "Deb (reader)"
@@ -265,8 +285,10 @@
    "name": "Yesterbox",
    "url": "https://yesterbox.wordpress.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "other",
+   "tags": [
+    "productivity"
+   ],
    "blurb": "Your mention of Inbox Ten makes me think you’d appreciate Tony Hsieh’s Yesterbox method, which I’ve used successfully for years!",
    "section": "crowdsourced",
    "recommender": "Deb (reader)"
@@ -276,8 +298,11 @@
    "name": "Diarium",
    "url": "https://diariumapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "productivity"
+   ],
    "blurb": "I’ve been loving journaling in Diarium , especially since it’s completely private and local. If you want to sync between devices, you can use a cloud sync of your choosing — it can even read-only sync with apps like Fitbit, Instagram, Strava, etc.",
    "section": "crowdsourced",
    "recommender": "Michael (reader)"
@@ -287,8 +312,10 @@
    "name": "Implications",
    "url": "https://www.implications.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "newsletter"
+   ],
    "blurb": "I recently subscribed to Scott Belsky’s Implications newsletter, and I’m convinced everyone who is interested in the future of tech and culture should, too.",
    "section": "crowdsourced",
    "recommender": "Ricky (reader)"
@@ -298,8 +325,10 @@
    "name": "Crouton",
    "url": "https://crouton.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios"
+   ],
    "blurb": "I just discovered the app Crouton for recipe collection, and it’s by far the best at scrubbing a URL for the actual recipe. You can even take a photo of a cookbook page, and it’ll generate the recipe. Probably the best example of a real-world use for AI I’ve encountered yet.",
    "section": "crowdsourced",
    "recommender": "JT (reader)"
@@ -309,8 +338,10 @@
    "name": "MLB Morning Lineup",
    "url": "https://www.mlb.com/fans/podcasts",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "I’m enjoying the new MLB Morning Lineup podcast. Each episode is 10 minutes or less, and it recaps the previous day’s box scores and news. It’s been a very nice way to catch up on the best sport.",
    "section": "crowdsourced",
    "recommender": "Mario (reader)"
@@ -320,8 +351,11 @@
    "name": "Star Wars: Hunters",
    "url": "https://starwarshunters.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "free"
+   ],
    "blurb": "Been trying out Star Wars: Hunters on iOS after it finally launched. It’s a PVP arena combat game, and I’m loving it so far. The hunters are all unique and fun, it’s not too heavy on the pay-to-play stuff, and it’s remarkably good for a quick game.",
    "section": "crowdsourced",
    "recommender": "Matt (reader)"
@@ -331,8 +365,11 @@
    "name": "Pile-Up Poker",
    "url": "https://www.puzzmo.com/play/pile-up-poker/uiwf2mzh",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "free"
+   ],
    "blurb": "Puzzmo just added a new game to their catalog, Pile-Up Poker , and it is stellar.",
    "section": "crowdsourced",
    "recommender": "Luke (reader)"
@@ -342,8 +379,12 @@
    "name": "Free Fire Max",
    "url": "https://ff.garena.com/en/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "android",
+    "ios",
+    "free"
+   ],
    "blurb": "My friends introduced me to this Call of Duty -like shooter that’s apparently very popular in India. It’s called Free Fire Max . The reason for its popularity is its ability to run on any device.",
    "section": "crowdsourced",
    "recommender": null

@@ -47,8 +47,12 @@
    "name": "The Nokia Design Archive",
    "url": "https://nokiadesignarchive.aalto.fi/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "web",
+    "free"
+   ],
    "blurb": "A bunch of researchers spent several years putting together a massive, interconnected history of Nokia’s design work — from its wacky phone concepts to its biggest ideas about the future of everything. You could spend weeks digging around in there.",
    "section": "the-drop",
    "recommender": null
@@ -97,8 +101,11 @@
    "name": "Raycast Focus",
    "url": "https://www.raycast.com/core-features/focus",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "mac",
+    "productivity"
+   ],
    "blurb": "Raycast has become the first app I install on a new Mac, and I use it for everything. Love this new feature, which can block specific apps or websites — and uses a countdown timer to help keep you focused.",
    "section": "the-drop",
    "recommender": null
@@ -121,8 +128,11 @@
    "name": "ChatGPT Tasks",
    "url": "https://chatgpt.com/tasks",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
    "blurb": "A super basic feature so far, and pretty buggy — it invented a dentist appointment that I didn’t have? — but I’m really intrigued by the combination of a to-do list app and chatbot. I have it sending me a new oatmeal recipe and workout idea every morning, and it’s a pretty cool system.",
    "section": "the-drop",
    "recommender": null
@@ -143,8 +153,12 @@
    "name": "GroupMe",
    "url": "https://groupme.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "cross-platform",
+    "free"
+   ],
    "blurb": "GroupMe is for staying in touch with my college friends and also where my town’s volunteer fire department keeps in touch. I haven’t been as active as I’d like to be since the summer. Xbox Cloud Gaming is there because I always tell myself I’m going to have all this free time for gaming on the go.",
    "section": "screen-share",
    "recommender": "Todd"
@@ -165,8 +179,10 @@
    "name": "Angle of Repose",
    "url": "https://www.penguinrandomhouse.com/books/172494/angle-of-repose-by-wallace-stegner/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Angle of Repose by Wallace Stegner. I just started it so don’t ask me what it’s about. I spend most nights reading on a Kindle Paperwhite.",
    "section": "screen-share",
    "recommender": "Todd"
@@ -176,8 +192,10 @@
    "name": "Trust",
    "url": "https://www.penguinrandomhouse.com/books/678664/trust-pulitzer-prize-winner-by-hernan-diaz/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Angle of Repose by Wallace Stegner. I just started it so don’t ask me what it’s about. I spend most nights reading on a Kindle Paperwhite.",
    "section": "screen-share",
    "recommender": "Todd"
@@ -187,8 +205,10 @@
    "name": "Stoner",
    "url": "https://www.penguinrandomhouse.com/books/191134/stoner-by-john-williams-introduction-by-john-mcgahern/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Angle of Repose by Wallace Stegner. I just started it so don’t ask me what it’s about. I spend most nights reading on a Kindle Paperwhite.",
    "section": "screen-share",
    "recommender": "Todd"
@@ -198,8 +218,10 @@
    "name": "The Little Friend",
    "url": "https://www.penguinrandomhouse.com/books/176616/the-little-friend-by-donna-tartt/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Angle of Repose by Wallace Stegner. I just started it so don’t ask me what it’s about. I spend most nights reading on a Kindle Paperwhite.",
    "section": "screen-share",
    "recommender": "Todd"
@@ -209,7 +231,7 @@
    "name": "Call of Duty: Black Ops 6",
    "url": "https://www.callofduty.com/blackops6/pc",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Angle of Repose by Wallace Stegner. I just started it so don’t ask me what it’s about. I spend most nights reading on a Kindle Paperwhite.",
    "section": "screen-share",
@@ -220,8 +242,11 @@
    "name": "get it DoorDashed",
    "url": "https://doordash.7zd4df.net/c/482924/655830/10350?u=https%3A%2F%2Fwww.doordash.com%2Fbusiness%2Fmcdonalds-5579%2F",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android"
+   ],
    "blurb": "Angle of Repose by Wallace Stegner. I just started it so don’t ask me what it’s about. I spend most nights reading on a Kindle Paperwhite.",
    "section": "screen-share",
    "recommender": "Todd"
@@ -231,8 +256,11 @@
    "name": "Unhinged",
    "url": "https://unhinged.life/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
    "blurb": "Unhinged , a delightfully simple mood tracker app that doubles as a micro-journal. I’ve always struggled to stick with journaling, but this makes it effortless (it takes just 15 seconds) to capture my thoughts and details about my day.",
    "section": "crowdsourced",
    "recommender": "Austin (reader)"
@@ -255,8 +283,11 @@
    "name": "Mochi",
    "url": "https://mochi.cards/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "Trying to get better at Dutch, and downloaded the excellent Mochi app. Like Anki but so much better in every way.",
    "section": "crowdsourced",
    "recommender": "Hannes (reader)"
@@ -266,8 +297,12 @@
    "name": "Stremio",
    "url": "https://www.stremio.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "video",
+    "cross-platform",
+    "free"
+   ],
    "blurb": "I just discovered Stremio and I have a profound feeling it will change my life forever. Okay, at least the way I consume media. With all the price hikes and many services not available in the Netherlands, this seems like a great alternative.",
    "section": "crowdsourced",
    "recommender": "Jasper (reader)"
@@ -277,8 +312,12 @@
    "name": "MacDroid",
    "url": "https://www.macdroid.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "android",
+    "utilities"
+   ],
    "blurb": "MacDroid . I always back up my full-resolution photos to an external hard drive every few months in addition to Google Photos, but damn is it a pain to do that on the Mac. Tried MacDroid today and instantly signed up for a lifetime subscription. So much time and stress saved!",
    "section": "crowdsourced",
    "recommender": "Josh (reader)"
@@ -288,7 +327,7 @@
    "name": "Indiana Jones and the Great Circle",
    "url": "https://indianajones.bethesda.net/en-US",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Indiana Jones and the Great Circle on Xbox. It’s the best Indiana Jones thing made in decades. I’m shocked at how much fun it is to explore and how they hit the tone perfectly. And wow did the voice actor nail young Harrison Ford. It’s almost eerie.",
    "section": "crowdsourced",
@@ -299,8 +338,10 @@
    "name": "One Piece",
    "url": "https://www.viz.com/one-piece",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I started reading One Piece from the beginning last year after watching the Netflix show — it’s very fun, it’s lighthearted, the art’s great, and the characters are all lovable and easy to latch on to.",
    "section": "crowdsourced",
    "recommender": "Luis (reader)"
@@ -336,8 +377,13 @@
    "name": "Keyword Search",
    "url": "http://safarikeywordsearch.aurlien.net/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "ios",
+    "utilities",
+    "web"
+   ],
    "blurb": "The amazing Safari extension Keyword Search ! It allows you to run custom web searches by adding a keyword or letter, so adding ‘wiki’ or ‘yt’ will search those respective sites instead of your default search engine.",
    "section": "crowdsourced",
    "recommender": "JME (reader)"
@@ -347,7 +393,7 @@
    "name": "News Tower",
    "url": "https://sparrownight.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Have you tried News Tower yet? Total blast.",
    "section": "crowdsourced",
@@ -371,8 +417,10 @@
    "name": "The Guardian has a good story",
    "url": "https://www.theguardian.com/sport/2025/jan/14/australian-open-avatars-helping-tennis-reach-new-audience",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
    "blurb": "For complicated rights reasons, the organization behind the Open is streaming the matches on YouTube, but not like you’d think: everything is live-animated and everyone looks like Wii Sports characters. It’s deeply bizarre and extremely hokey, but against all odds, it totally works?",
    "section": "signing-off",
    "recommender": null

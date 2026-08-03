@@ -66,7 +66,7 @@
    "name": "The Popsockets Kick-Out Grip",
    "url": "https://www.popsockets.com/en-us/new-and-featured/kick-out-grip-and-stand",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I am a longtime, die-hard Popsockets user and evangelist, and the new model fixes my one gripe with the thing by working as both a landscape and portrait kickstand. $40 is highway robbery for a phone holder, but this is exactly the thing I wanted.",
    "section": "the-drop",
@@ -77,8 +77,11 @@
    "name": "Dance with Sabrina",
    "url": "https://www.fortnite.com/news/dance-with-sabrina-carpenter-in-fortnite",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "music",
+    "free"
+   ],
    "blurb": "“ Dance with Sabrina .” A new, real-time competitive rhythm game inside of Fortnite , in which you try to do well enough to earn the right to actually help create the show itself. Super fun concept, though all these games are better with pads, guitars, or really anything but a normal controller.",
    "section": "the-drop",
    "recommender": null
@@ -90,8 +93,12 @@
    "alt_urls": [
     "https://x.com/demtzu/status/1927372085640282399"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "Lazy is a stealthy but fascinating note-taking tool, and it does an unusually good job of integrating with files and apps. The new version is very AI-forward, basically bringing a personalized chatbot and all your notes to your whole computer. Neat!",
    "section": "the-drop",
    "recommender": null
@@ -101,7 +108,7 @@
    "name": "Elden Ring Nightreign",
    "url": "https://en.bandainamcoent.eu/elden-ring/elden-ring-nightreign",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "A multiplayer-heavy spinoff of the game that I cannot get my gamer friends to shut up about, even years after it came out. I’ve seen a few people call the game a bit small and repetitive, but next to Elden Ring I suppose most things are.",
    "section": "the-drop",
@@ -176,8 +183,12 @@
    "name": "Google Fit",
    "url": "https://www.google.com/fit/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "fitness",
+    "android",
+    "free"
+   ],
    "blurb": "I haven’t downloaded a new app in ages. What’s shown on my homescreen has been there, unmoved, for longer than I can remember.",
    "section": "screen-share",
    "recommender": "Cam"
@@ -200,7 +211,7 @@
    "name": "Clair Obscur: Expedition 33",
    "url": "https://www.expedition33.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Righteous Gemstones on HBO Max. It’s a much smarter comedy than I had assumed (but it’s still dumb in the best ways), and I’m delighted to have four seasons to catch up on.",
    "section": "screen-share",
@@ -211,7 +222,7 @@
    "name": "Persona 5",
    "url": "https://persona.atlus.com/p5r/?lang=en",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Righteous Gemstones on HBO Max. It’s a much smarter comedy than I had assumed (but it’s still dumb in the best ways), and I’m delighted to have four seasons to catch up on.",
    "section": "screen-share",
@@ -285,8 +296,13 @@
    "name": "Open Bubbles",
    "url": "https://openbubbles.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "android",
+    "free",
+    "social"
+   ],
    "blurb": "I switched to a Pixel 9 Pro XL and Pixel Watch 3 from an iPhone and Apple Watch about 6 months ago and found Open Bubbles , an open source alternative to BlueBubbles that does need a Mac but doesn’t need that Mac to remain on, You just need a one-time hardware identifier from it, then it gives you…",
    "section": "crowdsourced",
    "recommender": "Tim (reader)"
@@ -296,8 +312,13 @@
    "name": "BlueBubbles",
    "url": "https://bluebubbles.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "open-source",
+    "android",
+    "free",
+    "social"
+   ],
    "blurb": "I switched to a Pixel 9 Pro XL and Pixel Watch 3 from an iPhone and Apple Watch about 6 months ago and found Open Bubbles , an open source alternative to BlueBubbles that does need a Mac but doesn’t need that Mac to remain on, You just need a one-time hardware identifier from it, then it gives you…",
    "section": "crowdsourced",
    "recommender": "Tim (reader)"
@@ -318,8 +339,12 @@
    "name": "Inoreader",
    "url": "https://www.inoreader.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "web",
+    "subscription"
+   ],
    "blurb": "With Pocket being killed off I’ve started using my RSS reader — which is Inoreader — instead as a suitable replacement. I only switched over to Pocket after Omnivore shut down.",
    "section": "crowdsourced",
    "recommender": "James (reader)"
@@ -329,8 +354,11 @@
    "name": "Boox Go 10.3",
    "url": "https://shop.boox.com/products/go103",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android",
+    "book"
+   ],
    "blurb": "I just got a Boox Go 10.3 for my birthday and love it. The lack of front lighting is the biggest downfall. It is also only on Android 12 so I cannot load a corporate profile. It feels good to write on just, almost as good as my cheaper fountain pen and paper.",
    "section": "crowdsourced",
    "recommender": "Sean (reader)"
@@ -340,8 +368,12 @@
    "name": "Tweek",
    "url": "https://tweek.so/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "web",
+    "cross-platform"
+   ],
    "blurb": "Giving Tweek a bit of a go, and for a lightweight weekly planner it’s beautiful. I also currently use Motion for project management of personal tasks and when I was doing my Master’s. I really like the Gantt view to map out long term personal and study projects.",
    "section": "crowdsourced",
    "recommender": "Astrid (reader)"
@@ -351,8 +383,12 @@
    "name": "Motion",
    "url": "https://www.usemotion.com/calendar",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "subscription",
+    "cross-platform"
+   ],
    "blurb": "Giving Tweek a bit of a go, and for a lightweight weekly planner it’s beautiful. I also currently use Motion for project management of personal tasks and when I was doing my Master’s. I really like the Gantt view to map out long term personal and study projects.",
    "section": "crowdsourced",
    "recommender": "Astrid (reader)"
@@ -362,8 +398,11 @@
    "name": "The Elysian",
    "url": "https://www.elysian.press/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "newsletter",
+    "article"
+   ],
    "blurb": "Might I suggest Elle Griffin’s work at The Elysian ? How she’s thinking through speculative futures and a cooperative media system is fascinating.",
    "section": "crowdsourced",
    "recommender": "Zach (reader)"
@@ -373,8 +412,10 @@
    "name": "GeForce Now",
    "url": "https://www.nvidia.com/en-us/geforce-now/download/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "subscription"
+   ],
    "blurb": "GeForce Now on Steam Deck!",
    "section": "crowdsourced",
    "recommender": "Steve (reader)"
@@ -384,8 +425,11 @@
    "name": "a blog post from the great Dan Sinker",
    "url": "https://dansinker.com/posts/2025-05-23-who-cares/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "article",
+    "free"
+   ],
    "blurb": "And then this week I read a blog post from the great Dan Sinker , who called this moment “the Who Cares Era, where completely disposable things are shoddily produced for people to mostly ignore.” You should read the whole thing, but here’s a bit I really loved:",
    "section": "signing-off",
    "recommender": null

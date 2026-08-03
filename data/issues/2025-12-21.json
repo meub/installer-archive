@@ -23,8 +23,10 @@
    "name": "Enshittification",
    "url": "https://us.macmillan.com/books/9780374619329/enshittification/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Cory Doctorow’s book was very fun to read, while simultaneously filling me with rage on every page. It explains the world in that way that is just really satisfying and helpful, a real oh so it’s not just me sort of feeling.",
    "section": "my-favorite-stuff-of",
    "recommender": null
@@ -56,8 +58,12 @@
    "name": "Claude Code.",
    "url": "https://claude.com/product/claude-code",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity",
+    "paid"
+   ],
    "blurb": "There’s a lot of crappy AI out there, but there’s simply no question that large language models can write workable code for simple projects. I’ve spent the year retuning my brain to solve all my tiny problems by building one-off apps and browser extensions, and suddenly my power knows no bounds.",
    "section": "my-favorite-stuff-of",
    "recommender": null
@@ -67,8 +73,11 @@
    "name": "Antinote",
    "url": "https://antinote.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "productivity"
+   ],
    "blurb": "For all my note-taking systems, I am constantly in need of a quick scratchpad to just do some math or write stuff down. This Mac app is a scratchpad that doubles as a calculator, a timer, a list-maker, and much more. I use it (and the iOS beta!) a million times a day.",
    "section": "my-favorite-stuff-of",
    "recommender": null
@@ -115,8 +124,10 @@
    "alt_urls": [
     "https://www.theringer.com/podcasts/good-hang-with-amy-poehler/2025/03/18/martin-short"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "It takes a lot for a new podcast to enter my rotation, and I don’t listen to many celeb-to-celeb podcasts. And yet, I’ve listened to every single one of these Amy Poehler chats. (And judging by the charts, so has everybody else.)",
    "section": "my-favorite-stuff-of",
    "recommender": null
@@ -126,8 +137,11 @@
    "name": "Puzzmo",
    "url": "https://www.puzzmo.com/today/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "subscription"
+   ],
    "blurb": "I’ve spent a lot of time trying to find better things to do on my phone, and the trade I recommend most is swapping social media scrolling for five minutes of puzzle games. From Really Bad Chess to Pile-Up Poker, Puzzmo is now one of the few apps I use every single day.",
    "section": "my-favorite-stuff-of",
    "recommender": null
@@ -148,8 +162,12 @@
    "name": "Swarm",
    "url": "https://swarmapp.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "android",
+    "social"
+   ],
    "blurb": "Welcome to my normcore homescreen. I don’t really spend a lot of time evaluating new apps or whatever.",
    "section": "screen-share",
    "recommender": "Jason"
@@ -159,8 +177,10 @@
    "name": "The American Revolution",
    "url": "https://www.pbs.org/show/the-american-revolution/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
    "blurb": "You know who’s really great at their jobs? Ken Burns and his collaborators. I’ve been watching The American Revolution on PBS, and it’s just so interesting. It’s the kind of show I put on and 10 minutes in, I’m like, oh no, I actually wanted to go to sleep before 1AM tonight...",
    "section": "screen-share",
    "recommender": "Jason"
@@ -170,8 +190,10 @@
    "name": "Opus 4.5",
    "url": "https://www.anthropic.com/news/claude-opus-4-5",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai"
+   ],
    "blurb": "You know who’s really great at their jobs? Ken Burns and his collaborators. I’ve been watching The American Revolution on PBS, and it’s just so interesting. It’s the kind of show I put on and 10 minutes in, I’m like, oh no, I actually wanted to go to sleep before 1AM tonight...",
    "section": "screen-share",
    "recommender": "Jason"
@@ -181,8 +203,12 @@
    "name": "Raindrop",
    "url": "https://raindrop.io/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform",
+    "web"
+   ],
    "blurb": "You know who’s really great at their jobs? Ken Burns and his collaborators. I’ve been watching The American Revolution on PBS, and it’s just so interesting. It’s the kind of show I put on and 10 minutes in, I’m like, oh no, I actually wanted to go to sleep before 1AM tonight...",
    "section": "screen-share",
    "recommender": "Jason"
@@ -214,8 +240,11 @@
    "name": "Home Assistant Green",
    "url": "https://www.home-assistant.io/green/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home",
+    "open-source"
+   ],
    "blurb": "Home Assistant Green . I was hesitant to go for it and I don’t regret it. It’s an amazing thing. I have several sensors connected via Zigbee and I love automation. I only buy new things that can be integrated into Home Assistant. I highly recommend it.",
    "section": "crowdsourced",
    "recommender": "Andris (reader)"
@@ -225,8 +254,10 @@
    "name": "Fujifilm X100V",
    "url": "https://www.fujifilm-x.com/en-us/products/cameras/x100v/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography"
+   ],
    "blurb": "In April 2024 I became a father, and have been obsessively taking photos on my iPhone. I got sick of how every photo looked the same and in May 2025, bought a used Fujifilm X100V (after reading the Verge review of the X Half and going down a rabbit hole of what camera I wanted).",
    "section": "crowdsourced",
    "recommender": "Zayd (reader)"
@@ -236,8 +267,11 @@
    "name": "Gemini",
    "url": "https://gemini.google.com/app",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web"
+   ],
    "blurb": "My favorite tech-thing of the year is vibe coding! I’m a marketer with a very low level in development (I vaguely understand html and css).",
    "section": "crowdsourced",
    "recommender": "Rémi (reader)"
@@ -247,8 +281,11 @@
    "name": "ChatGPT",
    "url": "https://chatgpt.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web"
+   ],
    "blurb": "My favorite tech-thing of the year is vibe coding! I’m a marketer with a very low level in development (I vaguely understand html and css).",
    "section": "crowdsourced",
    "recommender": "Rémi (reader)"
@@ -258,8 +295,11 @@
    "name": "Claude",
    "url": "https://claude.ai/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web"
+   ],
    "blurb": "My favorite tech-thing of the year is vibe coding! I’m a marketer with a very low level in development (I vaguely understand html and css).",
    "section": "crowdsourced",
    "recommender": "Rémi (reader)"
@@ -269,7 +309,7 @@
    "name": "Apple Vision Pro",
    "url": "https://www.apple.com/apple-vision-pro/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Loving the new-to-me Apple Vision Pro . Work, entertainment etc are awesome in it. Couldn’t convince myself at MSRP, but at under $2,000 in the used market it’s awesome. Wish I had gotten one last year!",
    "section": "crowdsourced",
@@ -280,8 +320,11 @@
    "name": "TRMNL",
    "url": "https://usetrmnl.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home",
+    "open-source"
+   ],
    "blurb": "For me it’s TRMNL . It’s such a nice and well thought out device supported by a great software platform. It allows me to tinker, but also to just use the ready made plugins without hassle.",
    "section": "crowdsourced",
    "recommender": "Estof (reader)"
@@ -291,7 +334,7 @@
    "name": "Riddara",
    "url": "https://www.riddara.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "I started leasing a Riddara EV pickup, and I honestly love it. Coolest thing about it was reverse charging, even though I didn’t use it but just in case I’m running out of battery on my other EVs, I could use it to top it off. In terms of performance, it’s instantly fast, doing 0-60 in 4.5 seconds!",
    "section": "crowdsourced",
@@ -313,8 +356,10 @@
    "name": "AYN Odin 2 Portal",
    "url": "https://www.ayntec.com/products/odin2-portal",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
    "blurb": "Mine would have to be Android handhelds like the AYN Odin 2 Portal . Think of an ARM-based Steam Deck. It can run Android, emulation, and Steam games. The latter using Gamehub. Also has WiFi 7 and an OLED screen. Because it’s ARM, the battery life is much better than x86 handhelds.",
    "section": "crowdsourced",
    "recommender": "Alric (reader)"
@@ -346,8 +391,10 @@
    "name": "Dungeons and Daddies",
    "url": "https://www.dungeonsanddaddies.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "AirPods Pro and the Dungeons and Daddies podcast! Many late nights with headphones in listening to this D&D podcast about four dads searching the realm for their kids. Turns out professional actors/comedians playing D&D is the best?",
    "section": "crowdsourced",
    "recommender": "Matt (reader)"
@@ -357,7 +404,7 @@
    "name": "HP-1xC calculators",
    "url": "https://en.wikipedia.org/wiki/HP_Voyager",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "My favourite new-to-me thing of this year was discovering the wonders of the HP-1xC calculators . Launched in 1981/82, this series of calculators covered three very different domains of calculation: financial (HP-12C), scientific (HP-11C and HP-15C) and programming (HP-16C).",
    "section": "crowdsourced",
@@ -368,8 +415,12 @@
    "name": "Mymind",
    "url": "https://mymind.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "web",
+    "subscription"
+   ],
    "blurb": "Mymind . Simply brilliant, fast, intuitive, elegant and useful.",
    "section": "crowdsourced",
    "recommender": "Nicos (reader)"
@@ -390,8 +441,10 @@
    "name": "Selphy Photo Printer",
    "url": "https://www.usa.canon.com/shop/printers/selphy",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "photography"
+   ],
    "blurb": "I picked up a Selphy Photo Printer in late November to bring to life a ‘Movie Wall’ I’ve been wanting to do forever. From Thanksgiving to Christmas we only watch holiday movies + TV.",
    "section": "crowdsourced",
    "recommender": "Taylor (reader)"

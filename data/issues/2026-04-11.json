@@ -40,8 +40,11 @@
    "alt_urls": [
     "https://www.nasa.gov/image-article/solar-eclipse-of-the-heart/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "photography",
+    "web"
+   ],
    "blurb": "I cannot stop staring at the photos coming from the Artemis II crew. The photos of the Earth that show the atmosphere! The eclipse shots! Even the onboard photos of the crew are a blast. For me, though, it’s the dark side of the Moon that’s now permanently my desktop wallpaper.",
    "section": "the-drop",
    "recommender": null
@@ -66,7 +69,7 @@
    "name": "Pokémon Champions",
    "url": "https://champions.pokemon.com/en-us/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "The rap on this game so far is that it’s very fun but seems thoroughly unfinished. You might want to wait for an update or three before really diving in, but early players seem to already enjoy the basic battle systems here. So I’m optimistic.",
    "section": "the-drop",
@@ -79,8 +82,11 @@
    "alt_urls": [
     "https://www.youtube.com/watch?v=VlYlQoGHnng"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "tv",
+    "video"
+   ],
    "blurb": "The D20 crew just never really seems to miss, and this season’s tabletop adventure is as bizarre and fun as ever. If the trailer alone doesn’t convince you to sign up for a Dropout subscription, well, I’ve got nothing for you.",
    "section": "the-drop",
    "recommender": null
@@ -90,8 +96,10 @@
    "name": "Transcription",
    "url": "https://us.macmillan.com/books/9780374618599/transcription/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I keep hearing great things about this new novel from Ben Lerner about what’s temporary and what’s permanent, what we record and what we remember, and what screens and devices do to us. I’ve been in kind of a reading rut recently, and I think this’ll get me out of it.",
    "section": "the-drop",
    "recommender": null
@@ -125,8 +133,11 @@
    "name": "Obsidian Reader",
    "url": "https://obsidian.md/clipper",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "I missed this last week, but it’s worth catching up on. It doesn’t even require you to use Obsidian — it’s just the best way I’ve ever encountered to make any website more readable, highlightable, and saveable.",
    "section": "the-drop",
    "recommender": null
@@ -147,8 +158,10 @@
    "name": "Cascade pack",
    "url": "https://kirokustudio.co.uk/shop/cascade-wallpaper-pack/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "free"
+   ],
    "blurb": "The wallpaper: One of my own, from the Cascade pack (maybe my favourite we’ve ever made!).",
    "section": "screen-share",
    "recommender": "Tom"
@@ -158,8 +171,11 @@
    "name": "Todoist",
    "url": "https://todoist.com",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "Todoist . I switched from Microsoft To Do and while it is better I think the UI is so dull. However, I like the fact you can use natural language to set tasks for “tomorrow” or “this evening” just by typing it — crazy useful.",
    "section": "screen-share",
    "recommender": "Tom"
@@ -169,8 +185,11 @@
    "name": "Craft",
    "url": "https://www.craft.do/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "cross-platform"
+   ],
    "blurb": "Todoist . I switched from Microsoft To Do and while it is better I think the UI is so dull. However, I like the fact you can use natural language to set tasks for “tomorrow” or “this evening” just by typing it — crazy useful.",
    "section": "screen-share",
    "recommender": "Tom"
@@ -180,7 +199,7 @@
    "name": "Resident Evil Requiem",
    "url": "https://www.residentevil.com/requiem/en-us/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I just completed Resident Evil Requiem , which was a blast, very much a tale of two games — one very scary and the other very silly and over the top. I’m still currently using a FIIO Echo Mini instead of Spotify for all my music when I’m travelling.",
    "section": "screen-share",
@@ -191,8 +210,10 @@
    "name": "FIIO Echo Mini",
    "url": "https://www.fiio.com/echomini",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "I just completed Resident Evil Requiem , which was a blast, very much a tale of two games — one very scary and the other very silly and over the top. I’m still currently using a FIIO Echo Mini instead of Spotify for all my music when I’m travelling.",
    "section": "screen-share",
    "recommender": "Tom"
@@ -215,8 +236,10 @@
    "name": "iMac G3",
    "url": "https://en.wikipedia.org/wiki/IMac_G3",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "mac"
+   ],
    "blurb": "I just completed Resident Evil Requiem , which was a blast, very much a tale of two games — one very scary and the other very silly and over the top. I’m still currently using a FIIO Echo Mini instead of Spotify for all my music when I’m travelling.",
    "section": "screen-share",
    "recommender": "Tom"
@@ -226,7 +249,7 @@
    "name": "Mike Sunday",
    "url": "https://www.instagram.com/mike_sunday/?hl=en",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "I just completed Resident Evil Requiem , which was a blast, very much a tale of two games — one very scary and the other very silly and over the top. I’m still currently using a FIIO Echo Mini instead of Spotify for all my music when I’m travelling.",
    "section": "screen-share",
@@ -237,7 +260,7 @@
    "name": "Timberborn",
    "url": "https://mechanistry.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "I’m playing the heck out of Timberborn , a city builder set in a post-apocalyptic future where beavers rule the planet. It’s wonderful.",
    "section": "crowdsourced",
@@ -248,8 +271,12 @@
    "name": "The Odin Project",
    "url": "https://www.theodinproject.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "website",
+    "web",
+    "free"
+   ],
    "blurb": "I’ve been learning web development from The Odin Project ! It’s a completely free and self-directed curriculum that starts with HTML, CSS, and JavaScript, then goes into backend technologies like NodeJS or Ruby on Rails. It curates free high-quality resources from around the web as well.",
    "section": "crowdsourced",
    "recommender": "Evancito (reader)"
@@ -259,8 +286,10 @@
    "name": "Blindsight",
    "url": "https://us.macmillan.com/books/9781250237484/blindsight/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "I re-read Blindsight , by Peter Watts. The part about the ship Rorschach and how intelligence without consciousness seems eerily similar to what AI is currently doing. Worth the re-read.",
    "section": "crowdsourced",
    "recommender": "Dawit (reader)"
@@ -270,8 +299,11 @@
    "name": "Claude Cowork",
    "url": "https://claude.com/product/cowork",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "productivity"
+   ],
    "blurb": "Taught Claude Cowork to use NotePlan . It’s creating daily, weekly, and monthly notes. It’s creating notes that act as memories and referencing those notes as I drop in updates throughout the day. It‘s scheduling weekly reviews and prompting me for updates on all of my open projects.",
    "section": "crowdsourced",
    "recommender": "Christian (reader)"
@@ -281,8 +313,12 @@
    "name": "NotePlan",
    "url": "https://noteplan.co/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "ios",
+    "productivity"
+   ],
    "blurb": "Taught Claude Cowork to use NotePlan . It’s creating daily, weekly, and monthly notes. It’s creating notes that act as memories and referencing those notes as I drop in updates throughout the day. It‘s scheduling weekly reviews and prompting me for updates on all of my open projects.",
    "section": "crowdsourced",
    "recommender": "Christian (reader)"
@@ -292,8 +328,12 @@
    "name": "Capy Reader",
    "url": "https://capyreader.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "android",
+    "free",
+    "open-source"
+   ],
    "blurb": "I’m trying an RSS reader for Android named Capy Reader . It works great with Feedbin, which I use most. It’s free, no ads, and no in-app purchases. It does its job.",
    "section": "crowdsourced",
    "recommender": "Hansoll (reader)"
@@ -303,7 +343,7 @@
    "name": "Daggerheart",
    "url": "https://www.daggerheart.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "other",
    "tags": [],
    "blurb": "I’ve been playing the TTRPG Daggerheart , from the folks at Critical Role. It has a good digital version, which works well with phones and tablets. Great system if you want more focus on storytelling, less rules and number crunching.",
    "section": "crowdsourced",
@@ -327,8 +367,12 @@
    "name": "TinyStart",
    "url": "https://tinystart.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "utilities",
+    "productivity"
+   ],
    "blurb": "TinyStart . It’s a new launcher for Mac and all it does is the basics. It’s faster than Spotlight and less overwhelming than Raycast. Perfect if all you want to do is search apps and pick emoji.",
    "section": "crowdsourced",
    "recommender": "Trystan (reader)"
@@ -351,8 +395,11 @@
    "name": "Blue Marble",
    "url": "https://en.wikipedia.org/wiki/The_Blue_Marble",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "video",
+    "photography"
+   ],
    "blurb": "With the attention devoted this week to the Artemis II mission, I was reminded of the video, ‘ The photography behind Earthrise ,’ from two years ago. It’s also a look at early photography by NASA astronauts.",
    "section": "crowdsourced",
    "recommender": "Craig (reader)"

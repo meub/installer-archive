@@ -22,8 +22,11 @@
    "name": "Vivaldi 8.0",
    "url": "https://vivaldi.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "web"
+   ],
    "blurb": "For the first time in five years or so, I have a new default browser on all my devices. (RIP Arc.) I’ve liked Vivaldi for a long time — it is very fast, incredibly customizable, and full of clever organizational tools — but I’ve always just found it irredeemably ugly to look at.",
    "section": "the-drop",
    "recommender": null
@@ -46,8 +49,10 @@
    "name": "Steve Jobs in Exile",
    "url": "https://www.penguinrandomhouse.ca/books/741703/steve-jobs-in-exile-by-geoffrey-cain-foreword-by-danl-lewin-afterword-by-ed-catmull/9780593716694",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "It is very hard to find new stories to tell about Steve Jobs, but from what I’ve read so far, Geoff Cain’s new book is full of them. This book is the story of NeXT, Pixar, Jobs’ deep personal changes, and how the guy who almost destroyed Apple came back to save it. Also just a very fun read.",
    "section": "the-drop",
    "recommender": null
@@ -57,8 +62,10 @@
    "name": "How to Rule the World",
    "url": "https://www.penguinrandomhouse.com/books/760317/how-to-rule-the-world-by-theo-baker/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Two great tech books this week! This one is from a Stanford student, digging deep into his own world and its bizarre and problematic and outrageously successful connection to the tech industry.",
    "section": "the-drop",
    "recommender": null
@@ -83,8 +90,11 @@
    "alt_urls": [
     "https://www.aoamovie.com/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "podcast"
+   ],
    "blurb": "A terrific history lesson from the folks at Twenty Thousand Hertz , with some great stories from a bunch of legendary podcasters. Connected to a recent documentary of the same name that I am now very eager to find a way to see.",
    "section": "the-drop",
    "recommender": null
@@ -96,7 +106,7 @@
    "alt_urls": [
     "https://www.theverge.com/entertainment/929816/forza-horizon-6-review-xbox-pc"
    ],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "Gorgeous, ultra-realistic cars, which you can tinker with and drive endlessly over gorgeous, ultra-realistic Japanese landscapes. Yeah, it can be a super-intense racing game, but I’ve also come to see Forza as almost… cozy . Sometimes you just need a Sunday drive, you know?",
    "section": "the-drop",
@@ -110,8 +120,13 @@
     "https://www.macstories.net/stories/introducing-shortcuts-playground/",
     "https://www.macstories.net/shortcuts/"
    ],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "ios",
+    "ai",
+    "productivity"
+   ],
    "blurb": "Federico Viticci and the gang at MacStories are true connoisseurs of Apple Shortcuts, and they’ve made something really cool : a way to use Claude Code or Codex to just describe the Shortcut you want, and have it magically appear.",
    "section": "the-drop",
    "recommender": null
@@ -121,7 +136,7 @@
    "name": "Oculus Go",
    "url": "https://developers.meta.com/horizon/blog/introducing-oculus-go/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "Got an Oculus Go at a thrift store for $10. Most of the apps are nonexistent except for YouTube, and it’s surprisingly… fine? I wonder if the future AI wearables will be useful for a long time; Apple devices seem to be the only group that are still usable even after half a decade.",
    "section": "crowdsourced",
@@ -132,7 +147,7 @@
    "name": "Stickerbox",
    "url": "https://stickerbox.com/",
    "alt_urls": [],
-   "category": null,
+   "category": "gadget",
    "tags": [],
    "blurb": "My mom gave my son a Stickerbox for his 9th birthday. My kids and their friends have spent many hours collectively making stickers for everything and everyone. I love that it embraces simplicity while still making a toy with AI and a screen. Also great that there’s no subscription!",
    "section": "crowdsourced",
@@ -143,8 +158,10 @@
    "name": "A Man on the Moon",
    "url": "https://www.andrewchaikin.com/books/a-man-on-the-moon/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "A Man on the Moon by Andrew Chaikin is one of the best nonfiction books I’ve listened to in a long time. I don’t often run to books anymore, but I maintained my race cadence listening to the Apollo 11 moon landing section.",
    "section": "crowdsourced",
    "recommender": "James (reader)"
@@ -154,8 +171,12 @@
    "name": "Writer",
    "url": "https://writer.bighugelabs.com/welcome",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "web",
+    "ai"
+   ],
    "blurb": "I’m going to be experimenting this weekend with a couple of Google Docs alternatives — Writer and Ellipsus — and working on the slog to transition away from Gmail (I’ve had my account since you needed an invite).",
    "section": "crowdsourced",
    "recommender": "Wintersong (reader)"
@@ -165,8 +186,11 @@
    "name": "Ellipsus",
    "url": "https://ellipsus.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "productivity",
+    "web"
+   ],
    "blurb": "I’m going to be experimenting this weekend with a couple of Google Docs alternatives — Writer and Ellipsus — and working on the slog to transition away from Gmail (I’ve had my account since you needed an invite).",
    "section": "crowdsourced",
    "recommender": "Wintersong (reader)"
@@ -176,8 +200,10 @@
    "name": "Sony WH-1000XM5",
    "url": "https://www.kqzyfj.com/click-8836598-15268034?url=https%3A%2F%2Felectronics.sony.com%2Faudio%2Fheadphones%2Fheadband%2Fp%2Fwh1000xm5-b",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "I bought a new pair of headphones this month: the Sony WH-1000XM5 . They’re amazing, and the sound quality feels incredibly professional.",
    "section": "crowdsourced",
    "recommender": "Seb (reader)"
@@ -187,8 +213,10 @@
    "name": "Allroundo Eco cable from Vonmahlen",
    "url": "https://www.vonmaehlen.com/en/products/allroundo-eco",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "travel"
+   ],
    "blurb": "​​You recommended a cable last week, and it inspired me to tell you about the Allroundo Eco cable from Vonmahlen ; a short, coiled USB-C to USB-C cable in a little case. But what makes it special is it also includes USB-A, microUSB and Lightning adaptors in the case.",
    "section": "crowdsourced",
    "recommender": "Mitch (reader)"
@@ -198,8 +226,10 @@
    "name": "Light Bringer",
    "url": "https://www.penguinrandomhouse.com/books/545689/light-bringer-by-pierce-brown/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Almost done with Light Bringer (Red Rising book 6) on my Xteink X4 !",
    "section": "crowdsourced",
    "recommender": "Tynan (reader)"
@@ -209,8 +239,10 @@
    "name": "Xteink X4",
    "url": "https://www.xteink.com/products/xteink-x4",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "book"
+   ],
    "blurb": "Almost done with Light Bringer (Red Rising book 6) on my Xteink X4 !",
    "section": "crowdsourced",
    "recommender": "Tynan (reader)"
@@ -220,8 +252,12 @@
    "name": "Record Club",
    "url": "https://record.club/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "social",
+    "web"
+   ],
    "blurb": "Been messing about on Record Club , a European indie selling themselves as the Letterboxd of music. I wish they had a section for your vinyl / CD / cassette collections, but it’s a really nice site and the new social-sharing images are a lovely touch.",
    "section": "crowdsourced",
    "recommender": "comicallytinyhat (reader)"
@@ -244,7 +280,7 @@
    "name": "Diablo IV",
    "url": "https://diablo4.blizzard.com/en-us/",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "After a few years of bouncing between multiplayer games we’d try for like six weeks and then drop, me and the homies have a standing Monday-evening Diablo IV date, which has been amped up by the new Lord of Hatred expansion.",
    "section": "crowdsourced",
@@ -255,7 +291,7 @@
    "name": "Lord of Hatred",
    "url": "https://diablo4.blizzard.com/en-us/lord-of-hatred",
    "alt_urls": [],
-   "category": null,
+   "category": "game",
    "tags": [],
    "blurb": "After a few years of bouncing between multiplayer games we’d try for like six weeks and then drop, me and the homies have a standing Monday-evening Diablo IV date, which has been amped up by the new Lord of Hatred expansion.",
    "section": "crowdsourced",
@@ -266,8 +302,10 @@
    "name": "Strike Force Five",
    "url": "https://strikeforcefive.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "This was the last week of Stephen Colbert’s run on The Late Show (and also the end of The Late Show , politics politics, late night TV is dying, anyway, moving on), and for my money the brightest silver lining of the whole saga was that the Strike Force Five gang got back together.",
    "section": "signing-off",
    "recommender": null
@@ -277,8 +315,10 @@
    "name": "Strike Force Wives!",
    "url": "https://strikeforcefive.com/2023/09/ep-5-strike-force-wives/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "This was the last week of Stephen Colbert’s run on The Late Show (and also the end of The Late Show , politics politics, late night TV is dying, anyway, moving on), and for my money the brightest silver lining of the whole saga was that the Strike Force Five gang got back together.",
    "section": "signing-off",
    "recommender": null
@@ -288,8 +328,10 @@
    "name": "for one more episode",
    "url": "https://strikeforcefive.com/2026/05/ep-13-strike-force-returns-to-celebrate-stephen-colbert/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
    "blurb": "Anyway, the guys got back together for one more episode to celebrate Colbert’s run (plus a long hang on Colbert’s show ), and it is predictably delightful — and made me think I should start wearing a suit for every Vergecast episode. Might be weird to do in my basement studio, though.",
    "section": "signing-off",
    "recommender": null

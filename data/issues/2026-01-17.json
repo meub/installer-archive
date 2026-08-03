@@ -49,8 +49,12 @@
    "name": "Apple Creative Studio",
    "url": "https://www.apple.com/apple-creator-studio/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "mac",
+    "subscription",
+    "video"
+   ],
    "blurb": "This is kind of an astonishingly good deal? I’m not particularly into the AI features in Numbers and Pages, but between Pixelmator Pro, Logic Pro, and Final Cut Pro, you have a set of creative tools right up there with what Adobe offers.",
    "section": "the-drop",
    "recommender": null
@@ -75,8 +79,12 @@
    "name": "Claude Cowork",
    "url": "https://claude.com/resources/tutorials/claude-cowork-a-research-preview",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "subscription",
+    "productivity"
+   ],
    "blurb": "For now, this is only for the most expensive Claude plans, but I think it’s a terrific idea: a Claude Code-like tool for doing stuff on your computer, but one that doesn’t require you to interact with or even look at code.",
    "section": "the-drop",
    "recommender": null
@@ -99,8 +107,10 @@
    "name": "The Legend of Heroes: Trails Beyond the Horizon",
    "url": "https://thelegendofheroes.com/horizon/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "paid"
+   ],
    "blurb": "Every review I’ve read of this game suggests that it is not for the faint of heart, or a newcomer to the Trails series. But if these games are your jam, this one appears to be a really solid addition to the canon.",
    "section": "the-drop",
    "recommender": null
@@ -110,8 +120,12 @@
    "name": "Digg",
    "url": "https://digg.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "beta",
+    "web"
+   ],
    "blurb": "Its new public beta is very much still in beta, and it’s still pretty small and quiet over there, but I like a lot of what Digg is doing here. It’s like Reddit, but less chaotic, or like Twitter, but less horrible. I’m already finding lots of good new stuff through its communities.",
    "section": "the-drop",
    "recommender": null
@@ -121,8 +135,12 @@
    "name": "Relinq",
    "url": "https://relinq.app/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "music",
+    "utilities",
+    "free"
+   ],
    "blurb": "A simple utility that converts links between Apple Music, Spotify, and other services, so every link translates to every service. One of those tiny apps I’m suddenly using all the time.",
    "section": "the-drop",
    "recommender": null
@@ -143,8 +161,12 @@
    "name": "Beeper",
    "url": "https://www.beeper.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "cross-platform",
+    "social",
+    "utilities"
+   ],
    "blurb": "I optimize the bottom half of the phone for my most-used messaging apps — Slack / WhatsApp / Telegram — so they’re within an easy reach of the thumb.",
    "section": "screen-share",
    "recommender": "Kevin"
@@ -154,8 +176,11 @@
    "name": "Lovable",
    "url": "https://lovable.dev/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "ai",
+    "web"
+   ],
    "blurb": "Vibe coding is my meditation. I actually love playing around with Lovable . Over the past 20 years I built up a portfolio of domain names that I never did anything with, so now I’m starting to build out apps for myself just so I put the names to use.",
    "section": "screen-share",
    "recommender": "Kevin"
@@ -165,8 +190,11 @@
    "name": "TimeCrunch",
    "url": "https://timecrunch.com/auth",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "productivity"
+   ],
    "blurb": "Vibe coding is my meditation. I actually love playing around with Lovable . Over the past 20 years I built up a portfolio of domain names that I never did anything with, so now I’m starting to build out apps for myself just so I put the names to use.",
    "section": "screen-share",
    "recommender": "Kevin"
@@ -176,8 +204,11 @@
    "name": "WurdWeb",
    "url": "https://wurdweb.com/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "subscription"
+   ],
    "blurb": "If you like word games, check out WurdWeb on Apple Arcade, which features a daily game. It’s part of my daily routine along with the NYT games , Apple News games and Rogue Words (a free Balatro -like Scrabble word game).",
    "section": "crowdsourced",
    "recommender": "Kurt (reader)"
@@ -187,8 +218,12 @@
    "name": "NYT games",
    "url": "https://www.nytimes.com/crosswords",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "android",
+    "subscription"
+   ],
    "blurb": "If you like word games, check out WurdWeb on Apple Arcade, which features a daily game. It’s part of my daily routine along with the NYT games , Apple News games and Rogue Words (a free Balatro -like Scrabble word game).",
    "section": "crowdsourced",
    "recommender": "Kurt (reader)"
@@ -198,8 +233,11 @@
    "name": "Apple News games",
    "url": "https://support.apple.com/guide/iphone/find-puzzles-in-apple-news-iph4883822da/ios",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "ios",
+    "subscription"
+   ],
    "blurb": "If you like word games, check out WurdWeb on Apple Arcade, which features a daily game. It’s part of my daily routine along with the NYT games , Apple News games and Rogue Words (a free Balatro -like Scrabble word game).",
    "section": "crowdsourced",
    "recommender": "Kurt (reader)"
@@ -222,8 +260,12 @@
    "name": "Cooked",
    "url": "https://cooked.wiki/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "web",
+    "utilities",
+    "free"
+   ],
    "blurb": "Cooked is a neat tool for ingesting recipes. To use it, I prepend a recipe url with ‘cooked.wiki/.’",
    "section": "crowdsourced",
    "recommender": "BTTK (reader)"
@@ -233,8 +275,10 @@
    "name": "a Walkman",
    "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://electronics.sony.com/audio/walkman-digital-recorders/walkman-mp3-players/p/nwa306-b",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
    "blurb": "Got myself a Walkman in 2026. I’m a music hunter at heart and while I won’t quit beloved Apple Music, I am slowly rebuilding my own library. Taking my love of intentional music listening on vinyl on the go. I’m back in my iPod era. It’s been fun.",
    "section": "crowdsourced",
    "recommender": "Manny (reader)"
@@ -244,8 +288,11 @@
    "name": "Puzzmo",
    "url": "https://www.puzzmo.com/today/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "game",
+   "tags": [
+    "web",
+    "subscription"
+   ],
    "blurb": "Puzzmo added a new game for the new year called Ribbit , and it’s got everything. Words, frogs, a rotate button… What more could you ask for?",
    "section": "crowdsourced",
    "recommender": "Andy (reader)"
@@ -255,8 +302,10 @@
    "name": "Dungeon Crawler Carl",
    "url": "https://mattdinniman.com/books-2/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
    "blurb": "Dungeon Crawler Carl by Matt Dinniman. Specifically, the audiobooks. The narrator, Jeff Hays, is so good he will ruin all other audiobooks.",
    "section": "crowdsourced",
    "recommender": "Weddle (reader)"
@@ -266,8 +315,12 @@
    "name": "Sill",
    "url": "https://sill.social/",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "app",
+   "tags": [
+    "social",
+    "web",
+    "newsletter"
+   ],
    "blurb": "I open up Sill every morning to find out what events and stories my friends and folks I follow on Bluesky and Mastodon have been sharing while I’ve been sleeping and have been otherwise unplugged.",
    "section": "crowdsourced",
    "recommender": "Mita (reader)"
@@ -316,8 +369,12 @@
    "name": "YouTube’s “Smart Downloads” playlist",
    "url": "https://support.google.com/youtube/answer/12002587?hl=en&co=GENIE.Platform%3DAndroid",
    "alt_urls": [],
-   "category": null,
-   "tags": [],
+   "category": "feature",
+   "tags": [
+    "video",
+    "travel",
+    "ios"
+   ],
    "blurb": "I’ve been traveling a bunch recently, which for me means a lot of time spent manually downloading stuff to an iPad to watch on planes. Most streaming apps now allow downloads, which is great, but you know what I’ve really been enjoying?",
    "section": "signing-off",
    "recommender": null
