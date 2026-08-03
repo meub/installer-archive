@@ -1,0 +1,1146 @@
+Delivered-To: alexmeub@gmail.com
+Received: by 2002:ad5:5602:0:b0:338:7540:c82c with SMTP id f2csp862723imq;
+        Sat, 30 Nov 2024 05:00:20 -0800 (PST)
+X-Google-Smtp-Source: AGHT+IGzPgtAJJpYTqL6M65skDz2oVSo09xDulOyjmQ/GpVEjHQyS5I7uCRbjCluUZCn3+cqxryN
+X-Received: by 2002:a05:620a:44c3:b0:7a9:acd5:1b08 with SMTP id af79cd13be357-7b67c466117mr1818108885a.51.1732971618659;
+        Sat, 30 Nov 2024 05:00:18 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1732971618; cv=none;
+        d=google.com; s=arc-20240605;
+        b=iZdayyrMG9nvYP280JPe+zDX+EHnGaBbXzIYrrfdsl+3qymAgRApcXTTVaMrqB0Dg6
+         +Z3o4mY8AQHucKOiVVqSH+0pQPXAAJ9/XlzYEDUA6dyUkPW5f2pX/3JdzcOjlFLE6+6U
+         xvpHzxh9KRbRpvEGLDDrWziP4jLSQPP8NKJq9z28khxjqT4mG+MLc0nJM+ULEPdQdZOF
+         Le7m2zBsQ8cbZjt+wUqSDVgdB2nAQEJVpDUEtaQSu3X8swyZPo/dCCAA5waPNXoUdp98
+         +ZkGBkmKZfgnTdz7rLxi7/wv5bBA5IAs708zXn5fYB+U1LBLfpPvOv+fuqYnFXjaUrUU
+         mL2A==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+        h=list-unsubscribe:list-unsubscribe-post:precedence:mime-version
+         :subject:message-id:to:from:date:dkim-signature:dkim-signature;
+        bh=PPFCIfsXPGpWsThHgxVZg8QTrIQ5WwmgP1U6vyzR1us=;
+        fh=CczM4ktnbZln3HXHEKzbHB9pKVi+WlXtx1juADfc1H4=;
+        b=KwW2zWYb2KIR4xCY3fIqR2odgIifT1yZrWXYhCX4bry6Qnqc+cusBoeUndLUiOV4xl
+         IJ+IMqBPDANfOA2UclJl8Uvr05x8wC2QfryKgt3TzWuSVj62dB2+6i4UZELc7RL63vVz
+         4q8vxCqy6SBySxsWfoiYPOvHWr2QkOkj4fFys25MJSzDkHTjqFwKOOkfm5Vk+mPSS/NB
+         AWrA4SzRYwM70GmRrOrUckBw7iipQ+l7gqgA5e1ztF56a6hX8gvSKUek0zECZKTaSlJ2
+         92wSLYX41yr0FpKor/f7GKM6MQXQRGgZ2XdEj1btM+ktirhMpPcmlrcLftdjkLSjt/GE
+         mhag==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@theverge.com header.s=sailthru header.b=AFrfV8Zz;
+       dkim=pass header.i=@pmta.sailthru.com header.s=mt header.b=iGis0Ck8;
+       spf=pass (google.com: domain of delivery_20241130080011.37673231.19031@bouncest.theverge.com designates 192.64.237.131 as permitted sender) smtp.mailfrom=delivery_20241130080011.37673231.19031@bouncest.theverge.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=theverge.com
+Return-Path: <delivery_20241130080011.37673231.19031@bouncest.theverge.com>
+Received: from mta237-131.sailthru.com (mta237-131.sailthru.com. [192.64.237.131])
+        by mx.google.com with ESMTPS id af79cd13be357-7b6849c0681si697939085a.362.2024.11.30.05.00.18
+        for <alexmeub@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Sat, 30 Nov 2024 05:00:18 -0800 (PST)
+Received-SPF: pass (google.com: domain of delivery_20241130080011.37673231.19031@bouncest.theverge.com designates 192.64.237.131 as permitted sender) client-ip=192.64.237.131;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@theverge.com header.s=sailthru header.b=AFrfV8Zz;
+       dkim=pass header.i=@pmta.sailthru.com header.s=mt header.b=iGis0Ck8;
+       spf=pass (google.com: domain of delivery_20241130080011.37673231.19031@bouncest.theverge.com designates 192.64.237.131 as permitted sender) smtp.mailfrom=delivery_20241130080011.37673231.19031@bouncest.theverge.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=theverge.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=sailthru; d=theverge.com;
+ h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:
+ List-Unsubscribe-Post:List-Unsubscribe; i=installer@theverge.com;
+ bh=PPFCIfsXPGpWsThHgxVZg8QTrIQ5WwmgP1U6vyzR1us=;
+ b=AFrfV8ZzrbcRwQWkqFxyvcy1IAb08nIVgtDKoX4bASExz9yYOUe8ulxMxQMNFb/w8Ccw+fROvhbS
+   wikiDV2h75MYUyzM9ns+i157HjrllnbPC51p+S7KekcP7RYABYHrIX7YwmnBLWO9JqgChHDvHAjf
+   Blm2pyLdyqfrzTXK3d8=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=mt; d=pmta.sailthru.com;
+ h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type:
+ List-Unsubscribe-Post:List-Unsubscribe;
+ bh=PPFCIfsXPGpWsThHgxVZg8QTrIQ5WwmgP1U6vyzR1us=;
+ b=iGis0Ck8ZrQTSH5jlRQg+DGXokcND0EO3TUjk6rufmYdjSjh1I4BHgCJ5JHGFB39OsB4OCJZUdlZ
+   TRiJgTeZX/9wQSVM22UET3J7oMhtGSVGKGibBbp4CUb+emCAbYb6VJX6S8jfmiN0r7H5impwgS7S
+   ZTQJmef72tjlh0g8d9Q=
+Received: from aws1-mta-relay9.sailthru.cloud (10.55.62.145) by pmta11.sailthru.com id h9c6643791s0 for <alexmeub@gmail.com>; Sat, 30 Nov 2024 07:00:11 -0600 (envelope-from <delivery_20241130080011.37673231.19031@bouncest.theverge.com>)
+Date: Sat, 30 Nov 2024 08:00:11 -0500 (EST)
+From: David Pierce from Installer <installer@theverge.com>
+To: alexmeub@gmail.com
+Message-ID: <20241130080011.37673231.19031@sailthru.com>
+Subject: The 2024 Installer gift guide, part one
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2710864_813284922.1732971611228"
+Precedence: bulk
+x-job: 8977-37673231-20241130
+X-Feedback-ID: 8977:37673231:campaign:sailthru
+X-TM-ID: 20241130080011.37673231.19031
+X-Info: Message sent by sailthru.com customer Vox Media - theverge.com
+X-Info: We do not permit unsolicited commercial email
+X-Info: Please report abuse by forwarding complete headers to
+X-Info: abuse@sailthru.com
+X-Mailer: sailthru.com
+X-JMailer: aws-campaign-mailer-17.sailthru.cloud
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-Unsubscribe-Web: https://link.theverge.com/oc/64d9420b94f1ae4c940147d1mfgun.eon/9cb296c4
+List-Unsubscribe: <https://link.theverge.com/oc/64d9420b94f1ae4c940147d1mfgun.eon/9cb296c4>,<mailto:unsubscribe_20241130080011.37673231.19031@mx.sailthru.com>
+X-rpcampaign: stnhh37673231
+
+------=_Part_2710864_813284922.1732971611228
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"u=
+rn:schemas-microsoft-com:office:office" lang=3D"en"><head><title></title><m=
+eta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><met=
+a name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D1"><!--=
+[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInc=
+h><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]--><!--[if !mso]><=
+!--><!--<![endif]--><style>
+*{box-sizing:border-box}body{margin:0;padding:0}a[x-apple-data-detectors]{c=
+olor:inherit!important;text-decoration:inherit!important}#MessageViewBody a=
+{color:inherit;text-decoration:none}p{line-height:inherit}.desktop_hide,.de=
+sktop_hide table{mso-hide:all;display:none;max-height:0;overflow:hidden}.im=
+age_block img+div{display:none}sub,sup{font-size:75%;line-height:0} @media =
+(max-width:620px){.social_block.desktop_hide .social-table{display:inline-b=
+lock!important}.mobile_hide{display:none}.row-content{width:100%!important}=
+.stack .column{width:100%;display:block}.mobile_hide{min-height:0;max-heigh=
+t:0;max-width:0;overflow:hidden;font-size:0}.desktop_hide,.desktop_hide tab=
+le{display:table!important;max-height:none!important}}
+</style><!--[if mso ]><style>sup, sub { font-size: 100% !important; } sup {=
+ mso-text-raise:10% } sub { mso-text-raise:-10% }</style> <![endif]--></hea=
+d><body class=3D"body" style=3D"background-color:#fff;margin:0;padding:0;-w=
+ebkit-text-size-adjust:none;text-size-adjust:none"><div class=3D"sailthru-e=
+mco-preheader" style=3D"display: none; max-height: 0px; overflow: hidden;">=
+Plus: My new favorite productivity tool, a new go-to portable mic, Recall i=
+s back, and much more.</div><div style=3D"display:none"><a href=3D"https://=
+sailthru.com"><img src=3D"https://link.theverge.com/img/64d9420b94f1ae4c940=
+147d1mfgun.eon/7238b833.gif" alt=3D"" border=3D"0" /></a></div><table class=
+=3D"nl-container" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0=
+;background-color:#fff"><tbody><tr><td><table class=3D"row row-1" align=3D"=
+center"=20
+width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"pre=
+sentation" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td><=
+table class=3D"row-content stack" align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;=
+mso-table-rspace:0;color:#000;width:600px;margin:0 auto" width=3D"600"><tbo=
+dy><tr><td class=3D"column column-1" width=3D"100%"=20
+style=3D"mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:l=
+eft;padding-bottom:5px;padding-top:5px;vertical-align:top;border-top:0;bord=
+er-right:0;border-bottom:0;border-left:0"><table class=3D"image_block block=
+-1" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D=
+"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td clas=
+s=3D"pad" style=3D"width:100%"><div class=3D"alignment" align=3D"center" st=
+yle=3D"line-height:10px"><div style=3D"max-width:600px">
+<a href=3D"https://link.theverge.com/click/37673231.19031/aHR0cHM6Ly93d3cud=
+GhldmVyZ2UuY29tL2luc3RhbGxlcj91ZWlkPWFiYzA0OWUxYTI0YWVmYmQzOGI4NTJmZDE0NzZi=
+OTUz/64d9420b94f1ae4c940147d1B07a78bf9" target=3D"_blank" style=3D"outline:=
+none" tabindex=3D"-1"><img src=3D"https://media.sailthru.com/composer/image=
+s/sailthru-prod-6xd/Installer%20Newsletter%20Banner.jpg" style=3D"display:b=
+lock;height:auto;border:0;width:100%" width=3D"600" alt=3D"Installer" title=
+=3D"Installer" height=3D"auto"></a></div></div></td></tr></table><table cla=
+ss=3D"text_block block-2" width=3D"100%" border=3D"0" cellpadding=3D"10" ce=
+llspacing=3D"0" role=3D"presentation"=20
+style=3D"mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><=
+td class=3D"pad"><div style=3D"font-family:Arial,sans-serif"><div class sty=
+le=3D"font-size:12px;font-family:'Helvetica Neue',Helvetica,Arial,sans-seri=
+f;mso-line-height-alt:18px;color:#131313;line-height:1.5"><p style=3D"margi=
+n:0;font-size:12px;text-align:left;mso-line-height-alt:19.5px">
+<span style=3D"word-break: break-word; font-size: 13px;"><em>A weekly newsl=
+etter by David Pierce about the best and Verge-iest stuff you should know a=
+bout.&nbsp;</em></span></p></div></div></td></tr></table><table class=3D"di=
+vider_block block-3" width=3D"100%" border=3D"0" cellpadding=3D"10" cellspa=
+cing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspa=
+ce:0"><tr><td class=3D"pad"><div class=3D"alignment" align=3D"center"><tabl=
+e border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation"=20
+width=3D"100%" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td clas=
+s=3D"divider_inner" style=3D"font-size:1px;line-height:1px;border-top:1px s=
+olid #bbb"><span style=3D"word-break: break-word;">&#8202;</span></td></tr>=
+</table></div></td></tr></table></td></tr></tbody></table></td></tr></tbody=
+></table><table class=3D"row row-2" align=3D"center" width=3D"100%" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"m=
+so-table-lspace:0;mso-table-rspace:0"><tbody><tr><td><table=20
+class=3D"row-content stack" align=3D"center" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-ta=
+ble-rspace:0;color:#000;width:600px;margin:0 auto" width=3D"600"><tbody><tr=
+><td class=3D"column column-1" width=3D"100%" style=3D"mso-table-lspace:0;m=
+so-table-rspace:0;font-weight:400;text-align:left;padding-bottom:5px;paddin=
+g-top:5px;vertical-align:top;border-top:0;border-right:0;border-bottom:0;bo=
+rder-left:0"><table class=3D"text_block block-1" width=3D"100%" border=3D"0=
+"=20
+cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-tabl=
+e-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><td class=3D"pad" =
+style=3D"padding-left:10px;padding-right:10px"><div style=3D"font-family:Ar=
+ial,sans-serif"><div class style=3D"font-size:12px;font-family:'Helvetica N=
+eue',Helvetica,Arial,sans-serif;mso-line-height-alt:18px;color:#131313;line=
+-height:1.5"><p style=3D"margin:0;font-size:16px;mso-line-height-alt:24px">
+<span style=3D"word-break: break-word; font-size: 16px;">Hi, friends! Welco=
+me to <em>Installer</em> No. 62, your guide to the best and <em>Verge</em>-=
+iest stuff in the world. (If you=E2=80=99re new here, welcome, happy Post-T=
+hanksgiving Chill Weekend, and also you can read all the old editions at th=
+e <a href=3D"https://link.theverge.com/click/37673231.19031/aHR0cHM6Ly93d3c=
+udGhldmVyZ2UuY29tL2luc3RhbGxlci1uZXdzbGV0dGVyP3VlaWQ9YWJjMDQ5ZTFhMjRhZWZiZD=
+M4Yjg1MmZkMTQ3NmI5NTM/64d9420b94f1ae4c940147d1B71b6c265" style=3D"text-deco=
+ration: underline; color: #5200ff;"><em>Installer</em> homepage</a>.)&nbsp;=
+</span></p><p=20
+style=3D"margin:0;font-size:16px;mso-line-height-alt:18px">&nbsp;</p><p sty=
+le=3D"margin:0;font-size:16px;mso-line-height-alt:24px">
+<span style=3D"word-break: break-word; font-size: 16px;">This week, I=E2=80=
+=99ve been reading about <a href=3D"https://link.theverge.com/click/3767323=
+1.19031/aHR0cHM6Ly93d3cubnl0aW1lcy5jb20vMjAyNC8xMS8xOS9tYWdhemluZS9vemVtcGl=
+jLWp1bmstZm9vZC5odG1sP3VubG9ja2VkX2FydGljbGVfY29kZT0xLmNFNC5tSGVnLmxKUkxDMW=
+pqRGlBUCZzbWlkPXVybC1zaGFyZSZfX3JlYWR3aXNlTG9jYXRpb249JnVlaWQ9YWJjMDQ5ZTFhM=
+jRhZWZiZDM4Yjg1MmZkMTQ3NmI5NTM/64d9420b94f1ae4c940147d1B2d391f84" style=3D"=
+text-decoration: underline; color: #5200ff;"><strong>junk food</strong></a>=
+ and <a href=3D"https://link.theverge.com/click/37673231.19031/aHR0cHM6Ly93=
+d3cuZXNwbi5jb20vbmZsL3N0b3J5L18vaWQvMzg0MzMyMjMvdGhlLWNoZWF0LWNvZGUtMjAteWV=
+hcnMtbGF0ZXItbWljaGFlbC12aWNrLWxhc3RpbmctbWFkZGVuLWxlZ2FjeT91ZWlkPWFiYzA0OW=
+UxYTI0YWVmYmQzOGI4NTJmZDE0NzZiOTUz/64d9420b94f1ae4c940147d1B4bd497f1" style=
+=3D"text-decoration: underline; color: #5200ff;"><strong><em>Madden 2004</e=
+m></strong></a> and <a href=3D"https://link.theverge.com/click/37673231.190=
+31/aHR0cHM6Ly93d3cudnVsdHVyZS5jb20vYXJ0aWNsZS9hbnRob255LWplc2VsbmlrLWJvbmVz=
+LWFuZC1hbGwtc3RhbmQtdXAtY29tZWR5LXByb2ZpbGUuaHRtbD91ZWlkPWFiYzA0OWUxYTI0YWV=
+mYmQzOGI4NTJmZDE0NzZiOTUz/64d9420b94f1ae4c940147d1Bbbd0301a" style=3D"text-=
+decoration: underline; color: #5200ff;"><strong>Anthony Jeselnik</strong></=
+a>, watching <a href=3D"https://link.theverge.com/click/37673231.19031/aHR0=
+cHM6Ly93d3cudGhlbW92aWVkYi5vcmcvbW92aWUvNDAyNDMxLXdpY2tlZD9sYW5ndWFnZT1lbi1=
+VUyZ1ZWlkPWFiYzA0OWUxYTI0YWVmYmQzOGI4NTJmZDE0NzZiOTUz/64d9420b94f1ae4c94014=
+7d1B7c12df76" style=3D"text-decoration: underline; color: #5200ff;"><strong=
+><em>Wicked</em></strong></a><em> </em>and immediately making sure to hold =
+space for the lyrics of =E2=80=9CDefying Gravity,=E2=80=9D exploring the ba=
+ck catalog of <a href=3D"https://link.theverge.com/click/37673231.19031/aHR=
+0cHM6Ly93d3cueW91dHViZS5jb20vQDYwc2VjZG9jcz91ZWlkPWFiYzA0OWUxYTI0YWVmYmQzOG=
+I4NTJmZDE0NzZiOTUz/64d9420b94f1ae4c940147d1B3b2e3418" style=3D"text-decorat=
+ion: underline; color: #5200ff;"><strong>60 Second Docs</strong></a> (which=
+ I found thanks to <a href=3D"https://link.theverge.com/click/37673231.1903=
+1/aHR0cHM6Ly9rb3R0a2Uub3JnLzI0LzExL21ldGVvcml0ZS1odW50ZXI_dWVpZD1hYmMwNDllM=
+WEyNGFlZmJkMzhiODUyZmQxNDc2Yjk1Mw/64d9420b94f1ae4c940147d1B9e8ec3b4" style=
+=3D"text-decoration: underline; color: #5200ff;"><strong>Jason Kottke</stro=
+ng></a>), watching a lot of Thomas the Tank Engine with my toddler, marveli=
+ng at how complicated it is just to <a href=3D"https://link.theverge.com/cl=
+ick/37673231.19031/aHR0cHM6Ly93d3cuc2VyaW91c2VhdHMuY29tL2Jlc3QtcGl6emEtc3Rv=
+bmVzLTgzNzk2NjM_dWVpZD1hYmMwNDllMWEyNGFlZmJkMzhiODUyZmQxNDc2Yjk1Mw/64d9420b=
+94f1ae4c940147d1B15ed6235" style=3D"text-decoration: underline; color: #520=
+0ff;"><strong>shop for pizza stones</strong></a>, and listening to the firs=
+t episodes of <a href=3D"https://link.theverge.com/click/37673231.19031/aHR=
+0cHM6Ly9saW5rdHIuZWUvdHJpY2xhc3NpZmllZD91ZWlkPWFiYzA0OWUxYTI0YWVmYmQzOGI4NT=
+JmZDE0NzZiOTUz/64d9420b94f1ae4c940147d1B59f91580" style=3D"text-decoration:=
+ underline; color: #5200ff;"><strong><em>The Rest is Classified</em></stron=
+g></a><em>.</em></span>
+</p><p style=3D"margin:0;font-size:16px;mso-line-height-alt:18px">&nbsp;</p=
+><p style=3D"margin:0;font-size:16px;mso-line-height-alt:24px">
+<span style=3D"word-break: break-word; font-size: 16px;">I also have for yo=
+u a productivity app that I truly love, a new portable mic, another lovely-=
+looking music-making gadget, and lots of fun stuff to watch this weekend. I=
+t=E2=80=99s a fairly light week for new stuff since it=E2=80=99s a holiday =
+in the US, but luckily you all delivered on the recommendations as always. =
+Let=E2=80=99s dig in.</span></p><p style=3D"margin:0;font-size:16px;mso-lin=
+e-height-alt:24px"><br>
+<span style=3D"word-break: break-word; font-size: 16px;">(As always, the be=
+st part of <em>Installer</em> is your ideas and tips. What are you reading =
+/ watching / playing / building / eating / installing Linux on this week? W=
+hat should everyone else be as into as you are? Tell me everything: <a href=
+=3D"mailto:installer@theverge.com" style=3D"text-decoration: underline; col=
+or: #5200ff;">installer@theverge.com</a>. And if you know someone else who =
+might enjoy <em>Installer</em>, forward it to them and tell them to <a href=
+=3D"https://link.theverge.com/click/37673231.19031/aHR0cHM6Ly93d3cudGhldmVy=
+Z2UuY29tL3BhZ2VzL2luc3RhbGxlci1uZXdzbGV0dGVyLXNpZ24tdXA_dWVpZD1hYmMwNDllMWE=
+yNGFlZmJkMzhiODUyZmQxNDc2Yjk1Mw/64d9420b94f1ae4c940147d1Bd3b01d19" style=3D=
+"text-decoration: underline; color: #5200ff;">subscribe here</a>.)</span>
+</p></div></div></td></tr></table><table class=3D"divider_block block-2" wi=
+dth=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td class=3D"p=
+ad" style=3D"padding-bottom:10px;padding-left:10px;padding-right:10px;paddi=
+ng-top:20px"><div class=3D"alignment" align=3D"center"><table border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" width=3D"100%" st=
+yle=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td class=3D"divider_inne=
+r"=20
+style=3D"font-size:1px;line-height:1px;border-top:1px solid #bbb"><span sty=
+le=3D"word-break: break-word;">&#8202;</span></td></tr></table></div></td><=
+/tr></table></td></tr></tbody></table></td></tr></tbody></table><table clas=
+s=3D"row row-3" align=3D"center" width=3D"100%" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso=
+-table-rspace:0"><tbody><tr><td><table class=3D"row-content stack" align=3D=
+"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentat=
+ion"=20
+style=3D"mso-table-lspace:0;mso-table-rspace:0;border-radius:0;color:#000;w=
+idth:600px;margin:0 auto" width=3D"600"><tbody><tr><td class=3D"column colu=
+mn-1" width=3D"100%" style=3D"mso-table-lspace:0;mso-table-rspace:0;font-we=
+ight:400;text-align:left;padding-bottom:5px;padding-top:5px;vertical-align:=
+top;border-top:0;border-right:0;border-bottom:0;border-left:0"><table class=
+=3D"heading_block block-1" width=3D"100%" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" role=3D"presentation"=20
+style=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td class=3D"pad" style=
+=3D"padding-bottom:10px;padding-left:10px;padding-right:10px;text-align:cen=
+ter;width:100%"><h1 style=3D"margin:0;color:#131313;direction:ltr;font-fami=
+ly:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:24px;font-weight:7=
+00;letter-spacing:normal;line-height:120%;text-align:left;margin-top:0;marg=
+in-bottom:0;mso-line-height-alt:28.799999999999997px">
+<span class=3D"tinyMce-placeholder" style=3D"word-break: break-word;">The D=
+rop</span></h1></td></tr></table><table class=3D"text_block block-2" width=
+=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presenta=
+tion" style=3D"mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"=
+><tr><td class=3D"pad" style=3D"padding-left:10px;padding-right:10px"><div =
+style=3D"font-family:Arial,sans-serif"><div class=20
+style=3D"font-size:12px;font-family:'Helvetica Neue',Helvetica,Arial,sans-s=
+erif;mso-line-height-alt:18px;color:#131313;line-height:1.5"><ul style=3D"l=
+ine-height:1.5;mso-line-height-alt:18px;font-size:16px"><li class><p style=
+=3D"margin:0;font-size:16px;mso-line-height-alt:24px" aria-level=3D"1">
+<span style=3D"word-break: break-word; font-size: 16px;"><a href=3D"https:/=
+/link.theverge.com/click/37673231.19031/aHR0cHM6Ly93d3cuY3JhZnQuZG8vP3VlaWQ=
+9YWJjMDQ5ZTFhMjRhZWZiZDM4Yjg1MmZkMTQ3NmI5NTM/64d9420b94f1ae4c940147d1Bacb60=
+f77" style=3D"text-decoration: underline; color: #5200ff;"><strong>Craft 3<=
+/strong></a>. I say this with (I think) no hyperbole or recency bias: this =
+is the closest thing I=E2=80=99ve ever tried to <a href=3D"https://link.the=
+verge.com/click/37673231.19031/aHR0cHM6Ly93d3cudGhldmVyZ2UuY29tLzIwMjQvMTEv=
+MjgvMjQzMDc5MDYvY3JhZnQtMy1ub3Rlcy10YXNrcy1jYWxlbmRhci1hcHAtbWFjLWlwaG9uZS1=
+3aW5kb3dzP3VlaWQ9YWJjMDQ5ZTFhMjRhZWZiZDM4Yjg1MmZkMTQ3NmI5NTM/64d9420b94f1ae=
+4c940147d1Bbc71f128" style=3D"text-decoration: underline; color: #5200ff;">=
+my perfect note-taking app</a>. The new version does a wonderful job integr=
+ating tasks, events, and notes, and the whole thing just makes <em>sense</e=
+m>. I=E2=80=99ve been living in the beta for a while, and if you=E2=80=99re=
+ on any platform but Android, I can=E2=80=99t recommend it enough. (And I=
+=E2=80=99m told Android is coming! =E2=80=A6 Eventually.)&nbsp;</span>
+</p></li><li class><p style=3D"margin:0;font-size:16px;mso-line-height-alt:=
+24px" aria-level=3D"1">
+<span style=3D"word-break: break-word; font-size: 16px;"><a href=3D"https:/=
+/link.theverge.com/click/37673231.19031/aHR0cHM6Ly93d3cuZGppLmNvbS9taWMtbWl=
+uaT91ZWlkPWFiYzA0OWUxYTI0YWVmYmQzOGI4NTJmZDE0NzZiOTUz/64d9420b94f1ae4c94014=
+7d1B739e0726" style=3D"text-decoration: underline; color: #5200ff;"><strong=
+>The DJI Mic Mini</strong></a>. I trust <em>The Verge</em>=E2=80=99s Andru =
+Marino on all things audio and microphones, <a href=3D"https://link.theverg=
+e.com/click/37673231.19031/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g_dj0zRmt2=
+QnNGWUxCbyZ1ZWlkPWFiYzA0OWUxYTI0YWVmYmQzOGI4NTJmZDE0NzZiOTUz/64d9420b94f1ae=
+4c940147d1B1501456a" style=3D"text-decoration: underline; color: #5200ff;">=
+and he=E2=80=99s a fan</a> of DJI=E2=80=99s small, surprisingly good-soundi=
+ng $169 portable mic. Please, <em>please </em>use this instead of that stup=
+id lapel mic everybody holds on TikTok.</span>
+</p></li><li class><p style=3D"margin:0;font-size:16px;mso-line-height-alt:=
+24px" aria-level=3D"1">
+<span style=3D"word-break: break-word; font-size: 16px;"><a href=3D"https:/=
+/link.theverge.com/click/37673231.19031/aHR0cHM6Ly93d3cudGhlbW92aWVkYi5vcmc=
+vdHYvMjc2NTI3LWl0LXMtaW4tdGhlLWdhbWUtbWFkZGVuLW5mbD9sYW5ndWFnZT1nbC1FUyZ1ZW=
+lkPWFiYzA0OWUxYTI0YWVmYmQzOGI4NTJmZDE0NzZiOTUz/64d9420b94f1ae4c940147d1B092=
+80a8d" style=3D"text-decoration: underline; color: #5200ff;"><strong><em>It=
+=E2=80=99s in the Game</em></strong></a><strong><em>.</em></strong><strong>=
+ </strong>Four hours of archival footage, behind-the-scenes process, and NF=
+L players raving about how much they love <em>Madden</em> is a pretty good =
+argument for me to watch a doc. It skews a little more infomercial than tho=
+ughtful in spots, but it=E2=80=99s still a really fun watch if you like vir=
+tual football.</span>
+</p></li><li class><p style=3D"margin:0;font-size:16px;mso-line-height-alt:=
+24px" aria-level=3D"1">
+<span style=3D"word-break: break-word; font-size: 16px;"><a href=3D"https:/=
+/link.theverge.com/click/37673231.19031/aHR0cHM6Ly93d3cudGhlbW92aWVkYi5vcmc=
+vbW92aWUvODM4MjQwLXJvYm90LWRyZWFtcz9sYW5ndWFnZT1lbi1VUyZ1ZWlkPWFiYzA0OWUxYT=
+I0YWVmYmQzOGI4NTJmZDE0NzZiOTUz/64d9420b94f1ae4c940147d1Bbb403b38" style=3D"=
+text-decoration: underline; color: #5200ff;"><strong><em>Robot Dreams</em><=
+/strong></a><strong><em>.</em></strong><em> </em>This one=E2=80=99s not str=
+ictly <em>new </em>=E2=80=94 it came out in 2023 and was nominated for Best=
+ Animated Feature =E2=80=94 but until now, it=E2=80=99s been hard to stream=
+ this <a href=3D"https://link.theverge.com/click/37673231.19031/aHR0cHM6Ly9=
+3d3cucG9seWdvbi5jb20vYW5pbWF0aW9uLWNhcnRvb25zLzQ4NDI3OC9yb2JvdC1kcmVhbXMtaH=
+VsdS13YXRjaC1zdHJlYW1pbmctZW5kaW5nP3VlaWQ9YWJjMDQ5ZTFhMjRhZWZiZDM4Yjg1MmZkM=
+TQ3NmI5NTM/64d9420b94f1ae4c940147d1B3a2e6f86" style=3D"text-decoration: und=
+erline; color: #5200ff;">adorable, surprisingly affecting movie</a> about a=
+ robot and dog duo. Add this to the list this holiday season.</span>
+</p></li><li class><p style=3D"margin:0;font-size:16px;mso-line-height-alt:=
+24px" aria-level=3D"1">
+<span style=3D"word-break: break-word; font-size: 16px;"><a href=3D"https:/=
+/link.theverge.com/click/37673231.19031/aHR0cHM6Ly90ZWxlcGF0aGljaW5zdHJ1bWV=
+udHMuY29tLz91ZWlkPWFiYzA0OWUxYTI0YWVmYmQzOGI4NTJmZDE0NzZiOTUz/64d9420b94f1a=
+e4c940147d1Bff6a02e4" style=3D"text-decoration: underline; color: #5200ff;"=
+><strong>The Telepathic Instruments Orchid</strong></a>. Oh no, <em>another=
+ </em>extremely cool-looking music maker that I will never make proper use =
+of but totally want anyway. This one=E2=80=99s from Tame Impala=E2=80=99s K=
+evin Parker, and there=E2=80=99s not much detail yet, but it looks fantasti=
+c.</span></p></li><li class><p=20
+style=3D"margin:0;font-size:16px;mso-line-height-alt:24px" aria-level=3D"1"=
+>
+<span style=3D"word-break: break-word; font-size: 16px;"><a href=3D"https:/=
+/link.theverge.com/click/37673231.19031/aHR0cHM6Ly93d3cudGhlbWl0eWNvbXBhbnk=
+uY29tLz91ZWlkPWFiYzA0OWUxYTI0YWVmYmQzOGI4NTJmZDE0NzZiOTUz/64d9420b94f1ae4c9=
+40147d1B172d2341" style=3D"text-decoration: underline; color: #5200ff;"><st=
+rong>Stuff</strong></a>. A new, nice-looking app for notes and tasks. I rea=
+lly like its Dependencies feature, which keeps projects in order =E2=80=94 =
+you can=E2=80=99t do task 3 until you do task 2, which you can=E2=80=99t do=
+ before task 1. Stuff=E2=80=99s developer got some flack for the fact that =
+this app looks like Things, which it does! But that=E2=80=99s more a compli=
+ment than a problem.</span>
+</p></li><li class><p style=3D"margin:0;font-size:16px;mso-line-height-alt:=
+24px" aria-level=3D"1">
+<span style=3D"word-break: break-word; font-size: 16px;"><a href=3D"https:/=
+/link.theverge.com/click/37673231.19031/aHR0cHM6Ly93d3cuYmFuZy1vbHVmc2VuLmN=
+vbS9lbi91cy9lYXJwaG9uZXMvYmVvcGxheS1lbGV2ZW4_dmFyaWFudD1iZW9wbGF5LWVsZXZlbi=
+1uYXR1cmFsLWFsdW1pbml1bSZ1ZWlkPWFiYzA0OWUxYTI0YWVmYmQzOGI4NTJmZDE0NzZiOTUz/=
+64d9420b94f1ae4c940147d1Be5fd0528" style=3D"text-decoration: underline; col=
+or: #5200ff;"><strong>The B&O Beoplay Eleven</strong></a><strong>.</strong>=
+ AirPods Pro, only <em>way </em>better-looking. And $500. B&O is making big=
+ claims about sound quality and noise cancellation here, and I=E2=80=99m so=
+mewhat skeptical of them, but the design alone (especially that copper mode=
+l) is a huge upgrade.&nbsp;</span></p></li><li=20
+class><p style=3D"margin:0;font-size:16px;mso-line-height-alt:24px" aria-le=
+vel=3D"1">
+<span style=3D"word-break: break-word; font-size: 16px;"><a href=3D"https:/=
+/link.theverge.com/click/37673231.19031/aHR0cHM6Ly9ibG9ncy53aW5kb3dzLmNvbS9=
+3aW5kb3dzLWluc2lkZXIvMjAyNC8xMS8yMi9wcmV2aWV3aW5nLXJlY2FsbC13aXRoLWNsaWNrLX=
+RvLWRvLW9uLWNvcGlsb3QtcGNzLXdpdGgtd2luZG93cy1pbnNpZGVycy1pbi10aGUtZGV2LWNoY=
+W5uZWwvP3VlaWQ9YWJjMDQ5ZTFhMjRhZWZiZDM4Yjg1MmZkMTQ3NmI5NTM/64d9420b94f1ae4c=
+940147d1B80b9f5b0" style=3D"text-decoration: underline; color: #5200ff;"><s=
+trong>Microsoft Recall</strong></a><strong>. </strong>For a while, it looke=
+d like Microsoft=E2=80=99s all-knowing private AI was never going to launch=
+. <a href=3D"https://link.theverge.com/click/37673231.19031/aHR0cHM6Ly93d3c=
+udGhldmVyZ2UuY29tLzIwMjQvMTEvMjIvMjQzMDI5NDcvbWljcm9zb2Z0LXJlY2FsbC13aW5kb3=
+dzLWluc2lkZXItdGVzdGluZy1kZXYtY2hhbm5lbC1jbGljay10by1kbz91ZWlkPWFiYzA0OWUxY=
+TI0YWVmYmQzOGI4NTJmZDE0NzZiOTUz/64d9420b94f1ae4c940147d1B952fac58" style=3D=
+"text-decoration: underline; color: #5200ff;">But it=E2=80=99s here, ish</a=
+>! You=E2=80=99ll need a Qualcomm-powered Copilot Plus PC, which you =E2=80=
+=A6 probably don=E2=80=99t have. But if you do, give this a whirl and tell =
+me how you like it. I=E2=80=99m so curious.</span>
+</p></li></ul></div></div></td></tr></table><table class=3D"divider_block b=
+lock-3" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" rol=
+e=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td =
+class=3D"pad" style=3D"padding-bottom:10px;padding-left:10px;padding-right:=
+10px;padding-top:20px"><div class=3D"alignment" align=3D"center"><table bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" width=
+=3D"100%" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td=20
+class=3D"divider_inner" style=3D"font-size:1px;line-height:1px;border-top:1=
+px solid #bbb"><span style=3D"word-break: break-word;">&#8202;</span></td><=
+/tr></table></div></td></tr></table></td></tr></tbody></table></td></tr></t=
+body></table><table class=3D"row row-4" align=3D"center" width=3D"100%" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=
+=3D"mso-table-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class=3D"r=
+ow-content stack" align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0"=20
+role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0;border=
+-radius:0;color:#000;width:600px;margin:0 auto" width=3D"600"><tbody><tr><t=
+d class=3D"column column-1" width=3D"100%" style=3D"mso-table-lspace:0;mso-=
+table-rspace:0;font-weight:400;text-align:left;padding-bottom:5px;padding-t=
+op:5px;vertical-align:top;border-top:0;border-right:0;border-bottom:0;borde=
+r-left:0"><table class=3D"heading_block block-1" width=3D"100%" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation"=20
+style=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td class=3D"pad" style=
+=3D"padding-bottom:10px;padding-left:10px;padding-right:10px;text-align:cen=
+ter;width:100%"><h1 style=3D"margin:0;color:#131313;direction:ltr;font-fami=
+ly:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:24px;font-weight:7=
+00;letter-spacing:normal;line-height:120%;text-align:left;margin-top:0;marg=
+in-bottom:0;mso-line-height-alt:28.799999999999997px">
+<span class=3D"tinyMce-placeholder" style=3D"word-break: break-word;">Gift =
+guide (part one)</span></h1></td></tr></table><table class=3D"text_block bl=
+ock-2" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=
+=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0;word-break=
+:break-word"><tr><td class=3D"pad" style=3D"padding-left:10px;padding-right=
+:10px"><div style=3D"font-family:Arial,sans-serif"><div class=20
+style=3D"font-size:12px;font-family:'Helvetica Neue',Helvetica,Arial,sans-s=
+erif;mso-line-height-alt:18px;color:#131313;line-height:1.5"><p style=3D"ma=
+rgin:0;font-size:16px;mso-line-height-alt:24px">
+<span style=3D"word-break: break-word; font-size: 16px;">I think I like rea=
+ding gift guides more than I like even getting gifts. I cannot explain this=
+! But there=E2=80=99s something to the shopping-y nature of it all that is =
+fun and aspirational and feels like a peek into other people=E2=80=99s brai=
+ns. I tend to gravitate toward individual people=E2=80=99s guides, too: <a =
+href=3D"https://link.theverge.com/click/37673231.19031/aHR0cHM6Ly93d3cubmV3=
+eW9ya2VyLmNvbS9jdWx0dXJlL3RoZS1mb29kLXNjZW5lL3B1dC15b3VyLW1vbmV5LXdoZXJlLXl=
+vdXItbG92ZWQtb25lcy1tb3V0aC1pcz91ZWlkPWFiYzA0OWUxYTI0YWVmYmQzOGI4NTJmZDE0Nz=
+ZiOTUz/64d9420b94f1ae4c940147d1B9d784663" style=3D"text-decoration: underli=
+ne; color: #5200ff;"><strong>Helen Rosner</strong></a> always does great on=
+es, and <a href=3D"https://link.theverge.com/click/37673231.19031/aHR0cHM6L=
+y93d3cucm9iaW5zbG9hbi5jb20vbmV3c2xldHRlcnMvMjAyNC1naWZ0LWd1aWRlLz91ZWlkPWFi=
+YzA0OWUxYTI0YWVmYmQzOGI4NTJmZDE0NzZiOTUz/64d9420b94f1ae4c940147d1B8a20a6c0"=
+ style=3D"text-decoration: underline; color: #5200ff;"><strong>Robin Sloan<=
+/strong></a> is always finding stuff I=E2=80=99d never seen before. Special=
+ mention to <a href=3D"https://link.theverge.com/click/37673231.19031/aHR0c=
+HM6Ly93d3cucmFtYnVsbC5jby9ndWlkZS8yMDI0LWhvbGlkYXktZ2lmdC1ndWlkZS9yL3JlY2gy=
+bEJWMk4yVzBxQjBUP3VlaWQ9YWJjMDQ5ZTFhMjRhZWZiZDM4Yjg1MmZkMTQ3NmI5NTM/64d9420=
+b94f1ae4c940147d1Beb1ee721" style=3D"text-decoration: underline; color: #52=
+00ff;"><strong><em>Rambull</em></strong></a>, too, which compiled a lot of =
+people=E2=80=99s recommendations into a truly delightful gift guide.</span>
+</p><p style=3D"margin:0;font-size:16px;mso-line-height-alt:18px">&nbsp;</p=
+><p style=3D"margin:0;font-size:16px;mso-line-height-alt:24px">
+<span style=3D"word-break: break-word; font-size: 16px;">Last week, I asked=
+ all of you to share your gift ideas for this year, and I got so many good =
+ones! But then something in our Gmail system broke, and I haven=E2=80=99t b=
+een able to access the <em>Installer</em> email for a few days. I=E2=80=99l=
+l get it back, though, and we=E2=80=99ll do more gift-y stuff next week =E2=
+=80=94&nbsp;sorry to everyone I=E2=80=99ve left hanging this week! We=E2=80=
+=99ll get it fixed ASAP, and we=E2=80=99ll do this even bigger next weekend=
+. And please send me more recommendations! installer@theverge.com.</span>
+</p><p style=3D"margin:0;font-size:16px;mso-line-height-alt:24px"><br>
+<span style=3D"word-break: break-word; font-size: 16px;">For now, I figured=
+ I=E2=80=99d share a few of my recommendations. To be clear, this is not an=
+ exhaustive gift guide.<strong> </strong><a href=3D"https://link.theverge.c=
+om/click/37673231.19031/aHR0cHM6Ly93d3cudGhldmVyZ2UuY29tL2dpZnQtZ3VpZGU_dWV=
+pZD1hYmMwNDllMWEyNGFlZmJkMzhiODUyZmQxNDc2Yjk1Mw/64d9420b94f1ae4c940147d1B46=
+03a39a" style=3D"text-decoration: underline; color: #5200ff;"><strong><em>T=
+he Verge</em></strong><strong>=E2=80=99s gift guides</strong></a> are fille=
+d with much more cool stuff. Go read those! Click the links! Buy the things=
+! All I have to offer you is a bunch of stuff that I personally love and ca=
+n vouch for. I tried to keep it all within at least a semi-reasonable price=
+ point because how many of us are really out here giving each other $3,000 =
+laptops for the holidays, you know?</span>
+</p><p style=3D"margin:0;font-size:16px;mso-line-height-alt:24px"><span sty=
+le=3D"word-break: break-word; font-size: 16px;">&nbsp;</span></p><p style=
+=3D"margin:0;font-size:16px;mso-line-height-alt:24px"><span style=3D"word-b=
+reak: break-word; font-size: 16px;">Anyway, here are a bunch of my favorite=
+ things, and things I think you might like, too:</span></p><ul style=3D"lin=
+e-height:1.5;mso-line-height-alt:24px;font-size:12px"><li class><p style=3D=
+"margin:0;font-size:16px;mso-line-height-alt:24px"=20
+aria-level=3D"1">
+<span style=3D"word-break: break-word; font-size: 16px;"><a href=3D"https:/=
+/link.theverge.com/click/37673231.19031/aHR0cHM6Ly93d3cudWx0aW1hdGVlYXJzLmN=
+vbS9lbi11cy9zaG9wL2Mvd2lyZWxlc3Mtc3BlYWtlcnM_dWVpZD1hYmMwNDllMWEyNGFlZmJkMz=
+hiODUyZmQxNDc2Yjk1Mw/64d9420b94f1ae4c940147d1B3e65aa9f" style=3D"text-decor=
+ation: underline; color: #5200ff;"><strong>Ultimate Ears Bluetooth speakers=
+</strong></a><strong>.</strong> I have a <a href=3D"https://link.theverge.c=
+om/click/37673231.19031/aHR0cHM6Ly93d3cudWx0aW1hdGVlYXJzLmNvbS9lbi11cy9zaG9=
+wL3Avd29uZGVyYm9vbS00Ljk4NC0wMDE4NzY_dWVpZD1hYmMwNDllMWEyNGFlZmJkMzhiODUyZm=
+QxNDc2Yjk1Mw/64d9420b94f1ae4c940147d1B36974976" style=3D"text-decoration: u=
+nderline; color: #5200ff;"><strong>Wonderboom</strong></a> in my bathroom f=
+or shower tunes, another in my luggage for travel, and a third just in case=
+. UE=E2=80=99s lineup of speakers ranges from huge and expensive to tiny an=
+d cheap, but they=E2=80=99re all durable and long-lasting and sound good. Y=
+ou truly can=E2=80=99t go wrong.</span>
+</p></li><li class><p style=3D"margin:0;font-size:16px;mso-line-height-alt:=
+24px" aria-level=3D"1">
+<span style=3D"word-break: break-word; font-size: 16px;"><a href=3D"https:/=
+/link.theverge.com/click/37673231.19031/aHR0cHM6Ly93d3cuc3RlYW1kZWNrLmNvbS9=
+lbi9vbGVkP3VlaWQ9YWJjMDQ5ZTFhMjRhZWZiZDM4Yjg1MmZkMTQ3NmI5NTM/64d9420b94f1ae=
+4c940147d1B38622771" style=3D"text-decoration: underline; color: #5200ff;">=
+<strong>The Steam Deck OLED</strong></a><strong>. </strong>At $549, this on=
+e=E2=80=99s certainly no stocking stuffer, but I=E2=80=99d argue this is th=
+e best gift you can give a gamer right now. (With a possible nod to the Pla=
+yStation Portal, which <a href=3D"https://link.theverge.com/click/37673231.=
+19031/aHR0cHM6Ly93d3cudGhldmVyZ2UuY29tLzIwMjQvMTEvMTkvMjQzMDA5OTEvcGxheXN0Y=
+XRpb24tcG9ydGFsLWNsb3VkLXN0cmVhbWluZy11cGRhdGUtYmV0YS1wczUtZ2FtZXM_dWVpZD1h=
+YmMwNDllMWEyNGFlZmJkMzhiODUyZmQxNDc2Yjk1Mw/64d9420b94f1ae4c940147d1B4cedf32=
+6" style=3D"text-decoration: underline; color: #5200ff;">now streams games<=
+/a> and suddenly seems <em>way </em>more worthwhile than before.)&nbsp;</sp=
+an>
+</p></li><li class><p style=3D"margin:0;font-size:16px;mso-line-height-alt:=
+24px" aria-level=3D"1">
+<span style=3D"word-break: break-word; font-size: 16px;"><a href=3D"https:/=
+/link.theverge.com/click/37673231.19031/aHR0cHM6Ly9zaG9rei5jb20vcHJvZHVjdHM=
+vb3BlbnJ1bnBybzI_dWVpZD1hYmMwNDllMWEyNGFlZmJkMzhiODUyZmQxNDc2Yjk1Mw/64d9420=
+b94f1ae4c940147d1B058783aa" style=3D"text-decoration: underline; color: #52=
+00ff;"><strong>The Shokz OpenRun Pro 2</strong></a><strong>.</strong> Look,=
+ you=E2=80=99ll probably end up gifting or getting AirPods. Which are great=
+! But if you=E2=80=99re looking for headphones to wear on walks, runs, bike=
+ rides, or just while you=E2=80=99re also living the rest of your life, ope=
+n-ear is the way. These are my most-used headphones right now, and it=E2=80=
+=99s not close.</span>
+</p></li><li class><p style=3D"margin:0;font-size:16px;mso-line-height-alt:=
+24px" aria-level=3D"1">
+<span style=3D"word-break: break-word; font-size: 16px;"><strong>A charger =
+/ power bank combo. </strong>It=E2=80=99s like a universal charger =E2=80=
+=94 plug it into the wall, or just plug it into your device, and you=E2=80=
+=99ll always have juice. I have <a href=3D"https://link.theverge.com/click/=
+37673231.19031/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9ncC9wcm9kdWN0L0IwOEdLTDQxVjQ_=
+dWVpZD1hYmMwNDllMWEyNGFlZmJkMzhiODUyZmQxNDc2Yjk1Mw/64d9420b94f1ae4c940147d1=
+B9817fa60" style=3D"text-decoration: underline; color: #5200ff;"><strong>th=
+is Anker one</strong></a>, which I like, but I don=E2=80=99t have particula=
+r brand loyalty here. It=E2=80=99s just the combo that=E2=80=99s magic.</sp=
+an></p></li><li=20
+class><p style=3D"margin:0;font-size:16px;mso-line-height-alt:24px" aria-le=
+vel=3D"1">
+<span style=3D"word-break: break-word; font-size: 16px;"><a href=3D"https:/=
+/link.theverge.com/click/37673231.19031/aHR0cHM6Ly93d3cuYW1hem9uLmNvbS9kcC9=
+CMENGUEpZWDdQP3VlaWQ9YWJjMDQ5ZTFhMjRhZWZiZDM4Yjg1MmZkMTQ3NmI5NTM/64d9420b94=
+f1ae4c940147d1Bff4bc0a9" style=3D"text-decoration: underline; color: #5200f=
+f;"><strong>The Kindle Paperwhite</strong></a><strong>.</strong> I love the=
+ <a href=3D"https://link.theverge.com/click/37673231.19031/aHR0cHM6Ly93d3cu=
+dGhldmVyZ2UuY29tLzIwMjQvMTEvMjQvMjQzMDEzNzkvYm9veC1wYWxtYS0yLXJldmlldy1lLXJ=
+lYWRlci1hbmRyb2lkP3VlaWQ9YWJjMDQ5ZTFhMjRhZWZiZDM4Yjg1MmZkMTQ3NmI5NTM/64d942=
+0b94f1ae4c940147d1B6b147951" style=3D"text-decoration: underline; color: #5=
+200ff;">Boox Palma</a>, but it=E2=80=99s probably more expensive and comple=
+x than most people need. If all you need is a book reader, I don=E2=80=99t =
+think you can beat the speed and simplicity of the new Paperwhite. (Also, t=
+his might be a hot take, but: save the $20 and get it with ads. They don=E2=
+=80=99t bother me one bit.)</span>
+</p></li><li class><p style=3D"margin:0;font-size:16px;mso-line-height-alt:=
+24px" aria-level=3D"1">
+<span style=3D"word-break: break-word; font-size: 16px;"><strong>Streaming =
+service gift cards.</strong> Giving someone a few free months of Netflix or=
+ Max or whatever is great, if you know they don=E2=80=99t have it. But I sa=
+y get weird with it! Give your friend a year of <a href=3D"https://link.the=
+verge.com/click/37673231.19031/aHR0cHM6Ly93d3cuc2h1ZGRlci5jb20vP3VlaWQ9YWJj=
+MDQ5ZTFhMjRhZWZiZDM4Yjg1MmZkMTQ3NmI5NTM/64d9420b94f1ae4c940147d1Bd6269a95" =
+style=3D"text-decoration: underline; color: #5200ff;"><strong>Shudder</stro=
+ng></a> and introduce them to horror movies; give them <a href=3D"https://l=
+ink.theverge.com/click/37673231.19031/aHR0cHM6Ly93d3cuY3JpdGVyaW9uY2hhbm5lb=
+C5jb20vP3VlaWQ9YWJjMDQ5ZTFhMjRhZWZiZDM4Yjg1MmZkMTQ3NmI5NTM/64d9420b94f1ae4c=
+940147d1B7aa1be3f" style=3D"text-decoration: underline; color: #5200ff;"><s=
+trong>the Criterion Channel</strong></a> and turn them into a film snob. Th=
+ere are so many niche services out there, and this is a great way to explor=
+e them.&nbsp;</span>
+</p></li><li class><p style=3D"margin:0;font-size:16px;mso-line-height-alt:=
+24px" aria-level=3D"1"><span style=3D"word-break: break-word; font-size: 16=
+px;"><strong>Gift cards in general. </strong>Gift cards rule! =E2=80=9CI di=
+dn=E2=80=99t know exactly what you wanted, so here=E2=80=99s some money for=
+ your favorite store / platform / whatever that you can use on anything tha=
+t makes you happy.=E2=80=9D EVERYBODY WINS. That is all. Gift cards forever=
+.</span></p></li><li class><p style=3D"margin:0;font-size:16px;mso-line-hei=
+ght-alt:24px"=20
+aria-level=3D"1">
+<span style=3D"word-break: break-word; font-size: 16px;"><a href=3D"https:/=
+/link.theverge.com/click/37673231.19031/aHR0cHM6Ly91cy5ub3RoaW5nLnRlY2gvcHJ=
+vZHVjdHMvY21mLXBob25lLTE_dWVpZD1hYmMwNDllMWEyNGFlZmJkMzhiODUyZmQxNDc2Yjk1Mw=
+/64d9420b94f1ae4c940147d1B343fc70b" style=3D"text-decoration: underline; co=
+lor: #5200ff;"><strong>The Nothing CMF Phone 1</strong></a><strong>. </stro=
+ng>One of the coolest, and cheapest, Android phones to come out this year. =
+I dig the modular backplates and accessories, and mostly I think everyone c=
+ould use a cheap Android phone for reading, gaming, and more. Think of it l=
+ike a pocket-sized tablet.</span></p></li><li
+class><p style=3D"margin:0;font-size:16px;mso-line-height-alt:24px" aria-le=
+vel=3D"1">
+<span style=3D"word-break: break-word; font-size: 16px;"><strong>A Bluetoot=
+h game controller.</strong> I continue to be amazed at how useful an access=
+ory a good gaming controller is. They=E2=80=99re great for games, obviously=
+, but you can often connect these to all your devices and use them as a rem=
+ote and all kinds of other things. I have <a href=3D"https://link.theverge.=
+com/click/37673231.19031/aHR0cHM6Ly93d3cuOGJpdGRvLmNvbS9wcm8yLz91ZWlkPWFiYz=
+A0OWUxYTI0YWVmYmQzOGI4NTJmZDE0NzZiOTUz/64d9420b94f1ae4c940147d1Badfe4edb" s=
+tyle=3D"text-decoration: underline; color: #5200ff;"><strong>the 8BitDo Pro=
+ 2</strong></a>, which is great, but again there are plenty of good options=
+.&nbsp;</span>
+</p></li><li class><p style=3D"margin:0;font-size:16px;mso-line-height-alt:=
+24px" aria-level=3D"1"><span style=3D"word-break: break-word; font-size: 16=
+px;"><a href=3D"https://link.theverge.com/click/37673231.19031/aHR0cHM6Ly93=
+d3cuc3R1ZGlvbmVhdC5jb20vcHJvZHVjdHMvdG90ZWJvb2s_dWVpZD1hYmMwNDllMWEyNGFlZmJ=
+kMzhiODUyZmQxNDc2Yjk1Mw/64d9420b94f1ae4c940147d1B022a7943" style=3D"text-de=
+coration: underline; color: #5200ff;"><strong>The Studio Neat Totebook</str=
+ong></a><strong>. </strong>I=E2=80=99ve tried a lot of notebooks over the y=
+ears, and I keep coming back to this one. It=E2=80=99s light and thin but s=
+till pretty sturdy and feels really great to write in.</span></p>
+</li><li class><p style=3D"margin:0;font-size:16px;mso-line-height-alt:24px=
+" aria-level=3D"1">
+<span style=3D"word-break: break-word; font-size: 16px;"><a href=3D"https:/=
+/link.theverge.com/click/37673231.19031/aHR0cHM6Ly9zdG9yZS5nb29nbGUuY29tL3V=
+zL3Byb2R1Y3QvZ29vZ2xlX3R2X3N0cmVhbWVyP2hsPWVuLVVTJnBsaT0xJnVlaWQ9YWJjMDQ5ZT=
+FhMjRhZWZiZDM4Yjg1MmZkMTQ3NmI5NTM/64d9420b94f1ae4c940147d1B252ab17c" style=
+=3D"text-decoration: underline; color: #5200ff;"><strong>The Google TV Stre=
+amer</strong></a><strong>.</strong> The longer I use Google=E2=80=99s set-t=
+op box, the more I like it. It=E2=80=99s easy to set up, runs all the strea=
+ming apps you need, and does a better job of just=E2=80=A6 showing you stuf=
+f to watch than any other platform out there. For $100, I don=E2=80=99t thi=
+nk you can beat this one.</span></p>
+</li></ul></div></div></td></tr></table><table class=3D"divider_block block=
+-3" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D=
+"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td clas=
+s=3D"pad" style=3D"padding-bottom:10px;padding-left:10px;padding-right:10px=
+;padding-top:20px"><div class=3D"alignment" align=3D"center"><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" width=3D"1=
+00%" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td class=3D"divid=
+er_inner"=20
+style=3D"font-size:1px;line-height:1px;border-top:1px solid #bbb"><span sty=
+le=3D"word-break: break-word;">&#8202;</span></td></tr></table></div></td><=
+/tr></table><table class=3D"html_block block-4" width=3D"100%" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-tab=
+le-lspace:0;mso-table-rspace:0"><tr><td class=3D"pad"><div style=3D"font-fa=
+mily:'Helvetica Neue',Helvetica,Arial,sans-serif;text-align:center" align=
+=3D"center"><div class=3D"ow_56147 ow">
+<table width=3D"600" align=3D"center" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"width: 100%; max-width: 600px;">
+<tr>
+<td align=3D"center">
+<a href=3D"https://link.theverge.com/click/37673231.19031/aHR0cHM6Ly9ycy1zd=
+HJpcGUudGhldmVyZ2UuY29tL3N0cmlwZS9yZWRpcmVjdD9jc19zdHJpcGVpZD01NjE0NyZjc19v=
+ZmZzZXQ9MCZjc19lbWFpbD1hbGV4bWV1YiU0MGdtYWlsLmNvbSZjc19zZW5kaWQ9Mzc2NzMyMzE=
+mY3NfZXNwPXNhaWx0aHJ1JnVlaWQ9YWJjMDQ5ZTFhMjRhZWZiZDM4Yjg1MmZkMTQ3NmI5NTM/64=
+d9420b94f1ae4c940147d1B53565a22" style=3D"border-style: none; outline: none=
+; text-decoration: none;" target=3D"_blank"><img alt height=3D"auto" src=3D=
+"https://rs-stripe.theverge.com/stripe/image?cs_stripeid=3D56147&amp;cs_off=
+set=3D0&amp;cs_email=3Dalexmeub@gmail.com&amp;cs_sendid=3D37673231&amp;cs_e=
+sp=3Dsailthru" style=3D"display: block; border: 0; height: auto; line-heigh=
+t: 100%; outline: none; text-decoration: none; width: 100%; max-width: 600p=
+x;" width=3D"600" /></a>
+</td>
+</tr>
+</table>
+</div>
+</div></td></tr></table><table=20
+class=3D"divider_block block-5" width=3D"100%" border=3D"0" cellpadding=3D"=
+5" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-=
+table-rspace:0"><tr><td class=3D"pad"><div class=3D"alignment" align=3D"cen=
+ter"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presen=
+tation" width=3D"100%" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tr>=
+<td class=3D"divider_inner" style=3D"font-size:1px;line-height:1px;border-t=
+op:1px solid #bbb"><span style=3D"word-break: break-word;">&#8202;</span></=
+td></tr>
+</table></div></td></tr></table></td></tr></tbody></table></td></tr></tbody=
+></table><table class=3D"row row-5" align=3D"center" width=3D"100%" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"m=
+so-table-lspace:0;mso-table-rspace:0"><tbody><tr><td><table class=3D"row-co=
+ntent stack" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-table-rspace:0;bo=
+rder-radius:0;color:#000;width:600px;margin:0 auto" width=3D"600"><tbody><t=
+r><td=20
+class=3D"column column-1" width=3D"100%" style=3D"mso-table-lspace:0;mso-ta=
+ble-rspace:0;font-weight:400;text-align:left;padding-bottom:5px;padding-top=
+:5px;vertical-align:top;border-top:0;border-right:0;border-bottom:0;border-=
+left:0"><table class=3D"heading_block block-1" width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-tabl=
+e-lspace:0;mso-table-rspace:0"><tr><td class=3D"pad" style=3D"padding-botto=
+m:10px;padding-left:10px;padding-right:10px;text-align:center;width:100%">
+<h1 style=3D"margin:0;color:#131313;direction:ltr;font-family:'Helvetica Ne=
+ue',Helvetica,Arial,sans-serif;font-size:24px;font-weight:700;letter-spacin=
+g:normal;line-height:120%;text-align:left;margin-top:0;margin-bottom:0;mso-=
+line-height-alt:28.799999999999997px"><span class=3D"tinyMce-placeholder" s=
+tyle=3D"word-break: break-word;">Screen Share</span></h1></td></tr></table>=
+<table class=3D"text_block block-2" width=3D"100%" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" role=3D"presentation"=20
+style=3D"mso-table-lspace:0;mso-table-rspace:0;word-break:break-word"><tr><=
+td class=3D"pad" style=3D"padding-left:10px;padding-right:10px"><div style=
+=3D"font-family:Arial,sans-serif"><div class style=3D"font-size:12px;font-f=
+amily:'Helvetica Neue',Helvetica,Arial,sans-serif;mso-line-height-alt:18px;=
+color:#131313;line-height:1.5"><p style=3D"margin:0;font-size:16px;mso-line=
+-height-alt:24px">
+<span style=3D"word-break: break-word; font-size: 16px;">Over the last coup=
+le of months, I=E2=80=99ve seen a lot of folks in productivity nerd circles=
+ getting really excited about this thing called <a href=3D"https://link.the=
+verge.com/click/37673231.19031/aHR0cHM6Ly93d3cubXlmb3JldmVybm90ZXMuY29tLz91=
+ZWlkPWFiYzA0OWUxYTI0YWVmYmQzOGI4NTJmZDE0NzZiOTUz/64d9420b94f1ae4c940147d1B1=
+a114a42" style=3D"text-decoration: underline; color: #5200ff;"><strong>Fore=
+ver Notes</strong></a>. It=E2=80=99s a system, created by <a href=3D"https:=
+//link.theverge.com/click/37673231.19031/aHR0cHM6Ly93d3cubXlmb3JldmVybm90ZX=
+MuY29tL21hdHRoaWFzLWhpbHNlP3VlaWQ9YWJjMDQ5ZTFhMjRhZWZiZDM4Yjg1MmZkMTQ3NmI5N=
+TM/64d9420b94f1ae4c940147d1B1c75e2f9" style=3D"text-decoration: underline; =
+color: #5200ff;"><strong>Matthias Hilse</strong></a>, for adding some reall=
+y useful organization and structure to Apple Notes without making the whole=
+ thing needlessly complicated. It=E2=80=99s really clever, and also really =
+easy to adapt to other apps. I=E2=80=99ve even stolen some ideas for my own=
+ system.</span>
+</p><p style=3D"margin:0;font-size:16px;mso-line-height-alt:18px">&nbsp;</p=
+><p style=3D"margin:0;font-size:16px;mso-line-height-alt:24px"><span style=
+=3D"word-break: break-word; font-size: 16px;">It all made me curious, too, =
+what Matthias=E2=80=99 other systems and setups look like. If you=E2=80=99r=
+e the guy who solves Apple Notes, what else have you figured out? So I aske=
+d him to share his homescreen with us.</span></p><p style=3D"margin:0;font-=
+size:16px;mso-line-height-alt:18px">&nbsp;</p><p=20
+style=3D"margin:0;font-size:16px;mso-line-height-alt:24px"><span style=3D"w=
+ord-break: break-word; font-size: 16px;">Here=E2=80=99s Matthias=E2=80=99 h=
+omescreen, plus some info on the apps he uses and why:</span></p></div></di=
+v></td></tr></table><table class=3D"image_block block-3" width=3D"100%" bor=
+der=3D"0" cellpadding=3D"10" cellspacing=3D"0" role=3D"presentation" style=
+=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td class=3D"pad"><div class=
+=3D"alignment" align=3D"center" style=3D"line-height:10px"><div style=3D"ma=
+x-width:580px"><img=20
+src=3D"https://media.sailthru.com/composer/images/sailthru-prod-6xd/Matthia=
+s%20Hilse%20homescreen.jpg" style=3D"display:block;height:auto;border:0;wid=
+th:100%" width=3D"580" alt title height=3D"auto"></div></div></td></tr></ta=
+ble><table class=3D"text_block block-4" width=3D"100%" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspac=
+e:0;mso-table-rspace:0;word-break:break-word"><tr><td class=3D"pad" style=
+=3D"padding-left:10px;padding-right:10px"><div=20
+style=3D"font-family:Arial,sans-serif"><div class style=3D"font-size:12px;f=
+ont-family:'Helvetica Neue',Helvetica,Arial,sans-serif;mso-line-height-alt:=
+18px;color:#000;line-height:1.5"><p style=3D"margin:0;font-size:16px;mso-li=
+ne-height-alt:24px"><span style=3D"word-break: break-word; font-size: 16px;=
+"><strong>The phone: </strong>I=E2=80=99m still holding on to my iPhone 14 =
+Pro. Once Apple gives me a real reason to upgrade, I will.&nbsp;</span></p>=
+<p style=3D"margin:0;font-size:16px;mso-line-height-alt:18px">&nbsp;
+</p><p style=3D"margin:0;font-size:16px;mso-line-height-alt:24px"><span sty=
+le=3D"word-break: break-word; font-size: 16px;"><strong>The wallpaper: </st=
+rong>I designed this wallpaper on my lockscreen to go along with the cover =
+images I created for Forever Notes. They are free to download on the websit=
+e. I wanted something that=E2=80=99s visually bold and can be associated wi=
+th the framework.</span></p><p style=3D"margin:0;font-size:16px;mso-line-he=
+ight-alt:18px">&nbsp;</p><p=20
+style=3D"margin:0;font-size:16px;mso-line-height-alt:24px"><span style=3D"w=
+ord-break: break-word; font-size: 16px;"><strong>The apps: </strong>Insight=
+ Timer, Newsify, WienMobil, Arc, Apple Notes.</span></p><p style=3D"margin:=
+0;font-size:16px;mso-line-height-alt:18px">&nbsp;</p><p style=3D"margin:0;f=
+ont-size:16px;mso-line-height-alt:24px">
+<span style=3D"word-break: break-word; font-size: 16px;">I love RSS feeds a=
+nd have been using <a href=3D"https://link.theverge.com/click/37673231.1903=
+1/aHR0cHM6Ly9uZXdzaWZ5LmNvLz91ZWlkPWFiYzA0OWUxYTI0YWVmYmQzOGI4NTJmZDE0NzZiO=
+TUz/64d9420b94f1ae4c940147d1B564fbbce" style=3D"text-decoration: underline;=
+ color: #5200ff;"><strong>Newsify</strong></a> forever. T</span><span style=
+=3D"word-break: break-word; font-size: 16px;">he <a href=3D"https://link.th=
+everge.com/click/37673231.19031/aHR0cHM6Ly9kb2NzLmFsdG8uc28vZGFpbHk_dWVpZD1=
+hYmMwNDllMWEyNGFlZmJkMzhiODUyZmQxNDc2Yjk1Mw/64d9420b94f1ae4c940147d1B18832e=
+77" style=3D"text-decoration: underline; color: #5200ff;"><strong>Alto</str=
+ong></a> widget tracks any recurring Apple Reminders, I track my yoga worko=
+uts. Could do better. </span><span style=3D"word-break: break-word; font-si=
+ze: 16px;">The three dock shortcuts go<strong> </strong>to my Home note, cu=
+rrent Month note, and my Daily note in Apple Notes.</span>
+</p><p style=3D"margin:0;font-size:16px;mso-line-height-alt:18px">&nbsp;</p=
+><p style=3D"margin:0;font-size:16px;mso-line-height-alt:24px"><span style=
+=3D"word-break: break-word; font-size: 16px;"><em>I also asked Matthias to =
+share a few things he=E2=80=99s into right now. Here=E2=80=99s what he sent=
+ back:</em></span></p><ul style=3D"line-height:1.5;mso-line-height-alt:24px=
+"><li aria-level=3D"1"><p style=3D"margin:0;font-size:16px;mso-line-height-=
+alt:24px" aria-level=3D"1">
+<span style=3D"word-break: break-word; font-size: 16px;"><strong>Watching:<=
+/strong> <a href=3D"https://link.theverge.com/click/37673231.19031/aHR0cHM6=
+Ly93d3cudGhlbW92aWVkYi5vcmcvdHYvMTA2MzA4LXNvbWVib2R5LXNvbWV3aGVyZT9sYW5ndWF=
+nZT1lbi1VUyZ1ZWlkPWFiYzA0OWUxYTI0YWVmYmQzOGI4NTJmZDE0NzZiOTUz/64d9420b94f1a=
+e4c940147d1B053842b8" style=3D"text-decoration: underline; color: #5200ff;"=
+><em>Somebody Somewhere</em></a> =E2=80=94 a show inspired by the life of B=
+ridget Everett. I get to be in Manhattan, Kansas, once a week with a whole =
+bunch of great characters. I love the indie vibe of the show.</span></p></l=
+i><li aria-level=3D"1"><p style=3D"margin:0;font-size:16px;mso-line-height-=
+alt:24px"=20
+aria-level=3D"1"><span style=3D"word-break: break-word; font-size: 16px;"><=
+strong>Not</strong><strong> playing:</strong> <a href=3D"https://link.theve=
+rge.com/click/37673231.19031/aHR0cHM6Ly9wb3VuY2VsaWdodC5nYW1lcy90aW55LWdsYW=
+RlLz91ZWlkPWFiYzA0OWUxYTI0YWVmYmQzOGI4NTJmZDE0NzZiOTUz/64d9420b94f1ae4c9401=
+47d1Bb94b0700" style=3D"text-decoration: underline; color: #5200ff;"><em>Ti=
+ny Glade</em></a> =E2=80=94 a PC-only game where the only thing you do is b=
+uild tiny cottages and castles in a forest. As I=E2=80=99m a Mac user, I on=
+ly get to watch and listen (!) to others playing it on YouTube. It=E2=80=99=
+s ASMR therapy.</span></p></li><li aria-level=3D"1"><p=20
+style=3D"margin:0;font-size:16px;mso-line-height-alt:24px" aria-level=3D"1"=
+><span style=3D"word-break: break-word; font-size: 16px;"><strong>The YouTu=
+ber @</strong><a href=3D"https://link.theverge.com/click/37673231.19031/aHR=
+0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQ0hCc3BrUVZLeW55Q3pzSWZNZFlKSlE_dW=
+VpZD1hYmMwNDllMWEyNGFlZmJkMzhiODUyZmQxNDc2Yjk1Mw/64d9420b94f1ae4c940147d1B8=
+0c716ca" style=3D"text-decoration: underline; color: #5200ff;"><strong>Sunn=
+yKindJourney</strong></a><strong>:</strong> Minimalist from Finland =E2=80=
+=94 just started following him recently. Feel-good content.</span></p></li>=
+</ul></div></div></td></tr></table><table class=3D"divider_block block-5"=
+=20
+width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"pre=
+sentation" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td class=3D=
+"pad" style=3D"padding-bottom:10px;padding-left:10px;padding-right:10px;pad=
+ding-top:20px"><div class=3D"alignment" align=3D"center"><table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" width=3D"100%" =
+style=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td class=3D"divider_in=
+ner" style=3D"font-size:1px;line-height:1px;border-top:1px solid #bbb">
+<span style=3D"word-break: break-word;">&#8202;</span></td></tr></table></d=
+iv></td></tr></table></td></tr></tbody></table></td></tr></tbody></table><t=
+able class=3D"row row-6" align=3D"center" width=3D"100%" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lsp=
+ace:0;mso-table-rspace:0"><tbody><tr><td><table class=3D"row-content stack"=
+ align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"=
+presentation"=20
+style=3D"mso-table-lspace:0;mso-table-rspace:0;border-radius:0;color:#000;w=
+idth:600px;margin:0 auto" width=3D"600"><tbody><tr><td class=3D"column colu=
+mn-1" width=3D"100%" style=3D"mso-table-lspace:0;mso-table-rspace:0;font-we=
+ight:400;text-align:left;padding-bottom:5px;padding-top:5px;vertical-align:=
+top;border-top:0;border-right:0;border-bottom:0;border-left:0"><table class=
+=3D"heading_block block-1" width=3D"100%" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" role=3D"presentation"=20
+style=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td class=3D"pad" style=
+=3D"padding-bottom:10px;padding-left:10px;padding-right:10px;text-align:cen=
+ter;width:100%"><h1 style=3D"margin:0;color:#131313;direction:ltr;font-fami=
+ly:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:24px;font-weight:7=
+00;letter-spacing:normal;line-height:120%;text-align:left;margin-top:0;marg=
+in-bottom:0;mso-line-height-alt:28.799999999999997px"><strong>Crowdsourced<=
+/strong></h1></td></tr></table><table=20
+class=3D"text_block block-2" width=3D"100%" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-tab=
+le-rspace:0;word-break:break-word"><tr><td class=3D"pad" style=3D"padding-l=
+eft:10px;padding-right:10px"><div style=3D"font-family:Arial,sans-serif"><d=
+iv class style=3D"font-size:12px;font-family:'Helvetica Neue',Helvetica,Ari=
+al,sans-serif;mso-line-height-alt:18px;color:#131313;line-height:1.5"><p st=
+yle=3D"margin:0;font-size:16px;mso-line-height-alt:24px">
+<span style=3D"word-break: break-word; font-size: 16px;"><em>Here=E2=80=99s=
+ what the </em>Installer<em> community is into this week. I want to know wh=
+at you=E2=80=99re into right now as well! Email </em><a href=3D"mailto:inst=
+aller@theverge.com" style=3D"text-decoration: underline; color: #5200ff;"><=
+em>installer@theverge.com</em></a><em> or message me on Signal =E2=80=94&nb=
+sp;@davidpierce.11 =E2=80=94 with your recommendations for anything and eve=
+rything, and we=E2=80=99ll feature some of our favorites here every week. F=
+or even more recommendations than I can fit here, check out the replies to =
+</em><a href=3D"https://link.theverge.com/click/37673231.19031/aHR0cHM6Ly93=
+d3cudGhyZWFkcy5uZXQvQGltZGF2aWRwaWVyY2UvcG9zdC9EQzJnSWd2cGMzTj94bXQ9QVFHekU=
+xRFoyendad242WmRMZUtCY0Yxcm1KY1FKQXJFR0FCdGN0cS1pOVo0QSZ1ZWlkPWFiYzA0OWUxYT=
+I0YWVmYmQzOGI4NTJmZDE0NzZiOTUz/64d9420b94f1ae4c940147d1B3d00ea32" style=3D"=
+text-decoration: underline; color: #5200ff;"><em>this post on Threads</em><=
+/a><em> and </em><a href=3D"https://link.theverge.com/click/37673231.19031/=
+aHR0cHM6Ly9ic2t5LmFwcC9wcm9maWxlL2RhdmlkcGllcmNlLnh5ei9wb3N0LzNsYnYzemJuZ3I=
+yMmk_dWVpZD1hYmMwNDllMWEyNGFlZmJkMzhiODUyZmQxNDc2Yjk1Mw/64d9420b94f1ae4c940=
+147d1Bbf709c14" style=3D"text-decoration: underline; color: #5200ff;"><em>t=
+his post on Bluesky</em></a><em>.</em></span>
+</p><p style=3D"margin:0;font-size:16px;mso-line-height-alt:18px">&nbsp;</p=
+><p style=3D"margin:0;font-size:16px;mso-line-height-alt:24px">
+<span style=3D"word-break: break-word; font-size: 16px;">=E2=80=9CMy latest=
+ app obsession has been <a href=3D"https://link.theverge.com/click/37673231=
+.19031/aHR0cHM6Ly9maXRib2QubWUvP3VlaWQ9YWJjMDQ5ZTFhMjRhZWZiZDM4Yjg1MmZkMTQ3=
+NmI5NTM/64d9420b94f1ae4c940147d1Bf713a20a" style=3D"text-decoration: underl=
+ine; color: #5200ff;"><strong>Fitbod</strong></a>. It actually gets me to w=
+ork out and track strength training progress! I=E2=80=99ll definitely be us=
+ing it to feel better after Thanksgiving.=E2=80=9D =E2=80=94&nbsp;Mai</span=
+></p><p style=3D"margin:0;font-size:16px;mso-line-height-alt:18px">&nbsp;</=
+p><p=20
+style=3D"margin:0;font-size:16px;mso-line-height-alt:24px">
+<span style=3D"word-break: break-word; font-size: 16px;">=E2=80=9CI=E2=80=
+=99m listening to the podcast <a href=3D"https://link.theverge.com/click/37=
+673231.19031/aHR0cHM6Ly93d3cudGhlZnAuY29tL3JhaXNpbmdwYXJlbnRzLWVtaWx5b3N0ZX=
+I_dWVpZD1hYmMwNDllMWEyNGFlZmJkMzhiODUyZmQxNDc2Yjk1Mw/64d9420b94f1ae4c940147=
+d1B5a15a317" style=3D"text-decoration: underline; color: #5200ff;"><strong>=
+<em>Raising Parents with Emily Oster</em></strong></a>. After reading books=
+ by social economists Jonathan Haidt and Richard Reeves and having two todd=
+lers, it is a lot to think about raising kids in an overprotective and tech=
+-filled world.=E2=80=9D &nbsp;=E2=80=94 Mitchell</span></p><p=20
+style=3D"margin:0;font-size:16px;mso-line-height-alt:18px">&nbsp;</p><p sty=
+le=3D"margin:0;font-size:16px;mso-line-height-alt:24px"><span style=3D"word=
+-break: break-word; font-size: 16px;">=E2=80=9CWatching <a href=3D"https://=
+link.theverge.com/click/37673231.19031/aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0=
+Y2g_dj00UXA0dExUclg2QSZ1ZWlkPWFiYzA0OWUxYTI0YWVmYmQzOGI4NTJmZDE0NzZiOTUz/64=
+d9420b94f1ae4c940147d1C1a898582" style=3D"text-decoration: underline; color=
+: #5200ff;"><strong><em>Architectural Digest</em></strong><strong>=E2=80=99=
+s video</strong></a> about the production design of the <em>Wicked</em> mov=
+ie =E2=80=94&nbsp;fascinating stuff.=E2=80=9D =E2=80=94 Eli</span></p><p=20
+style=3D"margin:0;font-size:16px;mso-line-height-alt:18px">&nbsp;</p><p sty=
+le=3D"margin:0;font-size:16px;mso-line-height-alt:24px"><span style=3D"word=
+-break: break-word; font-size: 16px;">=E2=80=9CI=E2=80=99ve never played a =
+lick of <em>League of Legends</em>, but season 2 of <a href=3D"https://link=
+.theverge.com/click/37673231.19031/aHR0cHM6Ly93d3cudGhlbW92aWVkYi5vcmcvdHYv=
+OTQ2MDUtYXJjYW5lP2xhbmd1YWdlPWVuLVVTJnVlaWQ9YWJjMDQ5ZTFhMjRhZWZiZDM4Yjg1MmZ=
+kMTQ3NmI5NTM/64d9420b94f1ae4c940147d1Bf6526855" style=3D"text-decoration: u=
+nderline; color: #5200ff;"><strong><em>Arcane</em></strong></a> is some of =
+the best damn compelling television I've seen in a long time.=E2=80=9D =E2=
+=80=94 Noah</span></p><p
+style=3D"margin:0;font-size:16px;mso-line-height-alt:18px">&nbsp;</p><p sty=
+le=3D"margin:0;font-size:16px;mso-line-height-alt:24px"><span style=3D"word=
+-break: break-word; font-size: 16px;">=E2=80=9C<a href=3D"https://link.thev=
+erge.com/click/37673231.19031/aHR0cHM6Ly9zaWdudXAuZHJvcG91dC50di8_dWVpZD1hY=
+mMwNDllMWEyNGFlZmJkMzhiODUyZmQxNDc2Yjk1Mw/64d9420b94f1ae4c940147d1Bb64ee1b0=
+" style=3D"text-decoration: underline; color: #5200ff;"><strong>Dropout</st=
+rong></a> has essentially become my default streaming app. From <em>Make So=
+me Noise</em> to <em>Gastronauts</em>, almost everything is a banger.=E2=80=
+=9D =E2=80=94&nbsp;Brad</span></p><p=20
+style=3D"margin:0;font-size:16px;mso-line-height-alt:18px">&nbsp;</p><p sty=
+le=3D"margin:0;font-size:16px;mso-line-height-alt:24px"><span style=3D"word=
+-break: break-word; font-size: 16px;">=E2=80=9CWatching the <a href=3D"http=
+s://link.theverge.com/click/37673231.19031/aHR0cHM6Ly93d3cueW91dHViZS5jb20v=
+d2F0Y2g_dj04WnJDZEd4VTJzTSZ1ZWlkPWFiYzA0OWUxYTI0YWVmYmQzOGI4NTJmZDE0NzZiOTU=
+z/64d9420b94f1ae4c940147d1D44bd5db6" style=3D"text-decoration: underline; c=
+olor: #5200ff;"><strong><em>Waveform</em></strong><strong> podcast=E2=80=99=
+s trivia extravaganza</strong></a>. Ellis=E2=80=99s intro alone deserves a =
+listen!=E2=80=9D =E2=80=94 Colin</span></p><p=20
+style=3D"margin:0;font-size:16px;mso-line-height-alt:18px">&nbsp;</p><p sty=
+le=3D"margin:0;font-size:16px;mso-line-height-alt:24px">
+<span style=3D"word-break: break-word; font-size: 16px;">=E2=80=9CGoing to =
+check out the Pope drama <a href=3D"https://link.theverge.com/click/3767323=
+1.19031/aHR0cHM6Ly93d3cudGhlbW92aWVkYi5vcmcvbW92aWUvOTc0NTc2LWNvbmNsYXZlP3V=
+laWQ9YWJjMDQ5ZTFhMjRhZWZiZDM4Yjg1MmZkMTQ3NmI5NTM/64d9420b94f1ae4c940147d1Bd=
+3600468" style=3D"text-decoration: underline; color: #5200ff;"><strong><em>=
+Conclave</em></strong></a> now that it's on VOD. Sounds like it's a right p=
+roper Grown Up movie with killer performances from Ralph Fiennes, John Lith=
+gow, Stanley Tucci, and Isabella Rossellini.=E2=80=9D =E2=80=94 Marty</span=
+></p><p style=3D"margin:0;font-size:16px;mso-line-height-alt:18px">&nbsp;
+</p><p style=3D"margin:0;font-size:16px;mso-line-height-alt:24px"><span sty=
+le=3D"word-break: break-word; font-size: 16px;">=E2=80=9CPicked up Stephen =
+Fry's <a href=3D"https://link.theverge.com/click/37673231.19031/aHR0cHM6Ly9=
+3d3cucGVuZ3Vpbi5jby51ay9ib29rcy8zMjA5OTMvb2R5c3NleS1ieS1mcnktc3RlcGhlbi85Nz=
+gwMjQxNDg2MzUxP3VlaWQ9YWJjMDQ5ZTFhMjRhZWZiZDM4Yjg1MmZkMTQ3NmI5NTM/64d9420b9=
+4f1ae4c940147d1B41d63604" style=3D"text-decoration: underline; color: #5200=
+ff;"><strong><em>Odyssey</em></strong></a>, his fourth book in the retellin=
+g of Greek mythology. The man is gifted. His books are just so damn readabl=
+e and fun. I hope he picks up a new mythology after this one.=E2=80=9D =E2=
+=80=94&nbsp;Payasam</span></p><p=20
+style=3D"margin:0;font-size:16px;mso-line-height-alt:18px">&nbsp;</p><p sty=
+le=3D"margin:0;font-size:16px;mso-line-height-alt:24px"><span style=3D"word=
+-break: break-word; font-size: 16px;">=E2=80=9C<a href=3D"https://link.thev=
+erge.com/click/37673231.19031/aHR0cHM6Ly93d3cudGhlbW92aWVkYi5vcmcvdHYvMjQ1M=
+jU2LXNheS1ub3RoaW5nP2xhbmd1YWdlPWVuLVVTJnVlaWQ9YWJjMDQ5ZTFhMjRhZWZiZDM4Yjg1=
+MmZkMTQ3NmI5NTM/64d9420b94f1ae4c940147d1Bc295db73" style=3D"text-decoration=
+: underline; color: #5200ff;"><strong><em>Say Nothing</em></strong></a>, a =
+TV show on Hulu based on the book by Patrick Radden Keefe on the Troubles i=
+n Northern Ireland.=E2=80=9D =E2=80=94 Darragh</span></p><p=20
+style=3D"margin:0;font-size:16px;mso-line-height-alt:18px">&nbsp;</p><p sty=
+le=3D"margin:0;font-size:16px;mso-line-height-alt:24px">
+<span style=3D"word-break: break-word; font-size: 16px;">=E2=80=9CI'm curre=
+ntly listening to <a href=3D"https://link.theverge.com/click/37673231.19031=
+/aHR0cHM6Ly93d25vcnRvbi5jb20vYm9va3MvOTc4MTMyNDAzNjY2MT91ZWlkPWFiYzA0OWUxYT=
+I0YWVmYmQzOGI4NTJmZDE0NzZiOTUz/64d9420b94f1ae4c940147d1B63d6069e" style=3D"=
+text-decoration: underline; color: #5200ff;"><strong><em>Against Technoable=
+ism</em></strong></a> by Ashley Shew. It's a great read for anyone interest=
+ed in tech who wants to examine the difference between gadgets and social t=
+echnologies and learn a lot about disability communities.=E2=80=9D =E2=80=
+=94 Jeanne</span></p><p=20
+style=3D"margin:0;font-size:16px;mso-line-height-alt:24px"><br><span style=
+=3D"word-break: break-word; font-size: 16px;">=E2=80=9CLeaving my 2024 game=
+s on the backlog while playing last year's <a href=3D"https://link.theverge=
+.com/click/37673231.19031/aHR0cHM6Ly9yb2JvY29wLXJvZ3VlY2l0eS5jb20vZW4_dWVpZ=
+D1hYmMwNDllMWEyNGFlZmJkMzhiODUyZmQxNDc2Yjk1Mw/64d9420b94f1ae4c940147d1B7250=
+95d0" style=3D"text-decoration: underline; color: #5200ff;"><strong><em>Rob=
+ocop: Rogue City</em></strong></a>. The best part is that it simulates the =
+less-exciting parts of Robocop's job. I've already issued two parking ticke=
+ts!=E2=80=9D =E2=80=94 Arnold</span></p></div></div>
+</td></tr></table><table class=3D"divider_block block-3" width=3D"100%" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=
+=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td class=3D"pad" style=3D"p=
+adding-bottom:10px;padding-left:10px;padding-right:10px;padding-top:20px"><=
+div class=3D"alignment" align=3D"center"><table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" role=3D"presentation" width=3D"100%" style=3D"mso-tab=
+le-lspace:0;mso-table-rspace:0"><tr><td class=3D"divider_inner"=20
+style=3D"font-size:1px;line-height:1px;border-top:1px solid #bbb"><span sty=
+le=3D"word-break: break-word;">&#8202;</span></td></tr></table></div></td><=
+/tr></table></td></tr></tbody></table></td></tr></tbody></table><table clas=
+s=3D"row row-7" align=3D"center" width=3D"100%" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso=
+-table-rspace:0"><tbody><tr><td><table class=3D"row-content stack" align=3D=
+"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentat=
+ion"=20
+style=3D"mso-table-lspace:0;mso-table-rspace:0;border-radius:0;color:#000;w=
+idth:600px;margin:0 auto" width=3D"600"><tbody><tr><td class=3D"column colu=
+mn-1" width=3D"100%" style=3D"mso-table-lspace:0;mso-table-rspace:0;font-we=
+ight:400;text-align:left;padding-bottom:5px;padding-top:5px;vertical-align:=
+top;border-top:0;border-right:0;border-bottom:0;border-left:0"><table class=
+=3D"heading_block block-1" width=3D"100%" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" role=3D"presentation"=20
+style=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td class=3D"pad" style=
+=3D"padding-bottom:10px;padding-left:10px;padding-right:10px;text-align:cen=
+ter;width:100%"><h1 style=3D"margin:0;color:#131313;direction:ltr;font-fami=
+ly:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:24px;font-weight:7=
+00;letter-spacing:normal;line-height:120%;text-align:left;margin-top:0;marg=
+in-bottom:0;mso-line-height-alt:28.799999999999997px"><strong>Signing off</=
+strong></h1></td></tr></table><table=20
+class=3D"text_block block-2" width=3D"100%" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-tab=
+le-rspace:0;word-break:break-word"><tr><td class=3D"pad" style=3D"padding-l=
+eft:10px;padding-right:10px"><div style=3D"font-family:Arial,sans-serif"><d=
+iv class style=3D"font-size:12px;font-family:'Helvetica Neue',Helvetica,Ari=
+al,sans-serif;mso-line-height-alt:18px;color:#131313;line-height:1.5"><p st=
+yle=3D"margin:0;font-size:16px;mso-line-height-alt:24px">
+<span style=3D"word-break: break-word; font-size: 16px;">I love Thanksgivin=
+g, but I don=E2=80=99t honestly love most Thanksgiving <em>food</em>. Huge =
+slices of turkey, mashed potatoes, weird casseroles, it=E2=80=99s all just =
+not exactly what I=E2=80=99d pick for a huge all-day meal, you know?&nbsp;<=
+/span></p><p style=3D"margin:0;font-size:16px;mso-line-height-alt:18px">&nb=
+sp;</p><p style=3D"margin:0;font-size:16px;mso-line-height-alt:24px">
+<span style=3D"word-break: break-word; font-size: 16px;">But the leftovers.=
+ THE LEFTOVERS. The weekend after Thanksgiving is better eating than Thanks=
+giving, if you ask me. All for one reason, two words: <a href=3D"https://li=
+nk.theverge.com/click/37673231.19031/aHR0cHM6Ly93d3cuc2VyaW91c2VhdHMuY29tL3=
+N0dWZmaW5nLXdhZmZsZXMtcmVjaXBlP3VlaWQ9YWJjMDQ5ZTFhMjRhZWZiZDM4Yjg1MmZkMTQ3N=
+mI5NTM/64d9420b94f1ae4c940147d1Be748dcac" style=3D"text-decoration: underli=
+ne; color: #5200ff;"><strong>Stuffing waffles</strong></a>. Trust me. It ch=
+anges everything.</span></p><p style=3D"margin:0;font-size:16px;mso-line-he=
+ight-alt:18px">&nbsp;</p><p=20
+style=3D"margin:0;font-size:16px;mso-line-height-alt:24px"><span style=3D"w=
+ord-break: break-word; font-size: 16px;">Hope everyone who celebrates is ha=
+ving a great holiday. See you next week!</span></p></div></div></td></tr></=
+table><table class=3D"divider_block block-3" width=3D"100%" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-=
+lspace:0;mso-table-rspace:0"><tr><td class=3D"pad" style=3D"padding-bottom:=
+10px;padding-left:10px;padding-right:10px;padding-top:20px"><div=20
+class=3D"alignment" align=3D"center"><table border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" role=3D"presentation" width=3D"100%" style=3D"mso-table-l=
+space:0;mso-table-rspace:0"><tr><td class=3D"divider_inner" style=3D"font-s=
+ize:1px;line-height:1px;border-top:1px solid #bbb"><span style=3D"word-brea=
+k: break-word;">&#8202;</span></td></tr></table></div></td></tr></table><ta=
+ble class=3D"html_block block-4" width=3D"100%" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" role=3D"presentation"=20
+style=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td class=3D"pad"><div =
+style=3D"font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;text-align=
+:center" align=3D"center"><div class=3D"ow_56148 ow">
+<table width=3D"600" align=3D"center" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"width: 100%; max-width: 600px;">
+<tr>
+<td align=3D"center">
+<a href=3D"https://link.theverge.com/click/37673231.19031/aHR0cHM6Ly9ycy1zd=
+HJpcGUudGhldmVyZ2UuY29tL3N0cmlwZS9yZWRpcmVjdD9jc19zdHJpcGVpZD01NjE0OCZjc19v=
+ZmZzZXQ9MCZjc19lbWFpbD1hbGV4bWV1YiU0MGdtYWlsLmNvbSZjc19zZW5kaWQ9Mzc2NzMyMzE=
+mY3NfZXNwPXNhaWx0aHJ1JnVlaWQ9YWJjMDQ5ZTFhMjRhZWZiZDM4Yjg1MmZkMTQ3NmI5NTM/64=
+d9420b94f1ae4c940147d1Cda499145" style=3D"border-style: none; outline: none=
+; text-decoration: none;" target=3D"_blank"><img alt height=3D"auto" src=3D=
+"https://rs-stripe.theverge.com/stripe/image?cs_stripeid=3D56148&amp;cs_off=
+set=3D0&amp;cs_email=3Dalexmeub@gmail.com&amp;cs_sendid=3D37673231&amp;cs_e=
+sp=3Dsailthru" style=3D"display: block; border: 0; height: auto; line-heigh=
+t: 100%; outline: none; text-decoration: none; width: 100%; max-width: 600p=
+x;" width=3D"600" /></a>
+</td>
+</tr>
+</table>
+</div>
+</div></td></tr></table><table class=3D"divider_block block-5" width=3D"100=
+%" border=3D"0" cellpadding=3D"5" cellspacing=3D"0" role=3D"presentation" s=
+tyle=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td class=3D"pad"><div c=
+lass=3D"alignment" align=3D"center"><table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" role=3D"presentation"=20
+width=3D"100%" style=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td clas=
+s=3D"divider_inner" style=3D"font-size:1px;line-height:1px;border-top:1px s=
+olid #bbb"><span style=3D"word-break: break-word;">&#8202;</span></td></tr>=
+</table></div></td></tr></table></td></tr></tbody></table></td></tr></tbody=
+></table><table class=3D"row row-8" align=3D"center" width=3D"100%" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"m=
+so-table-lspace:0;mso-table-rspace:0"><tbody><tr><td><table=20
+class=3D"row-content stack" align=3D"center" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" role=3D"presentation" style=3D"mso-table-lspace:0;mso-ta=
+ble-rspace:0;color:#000;width:600px;margin:0 auto" width=3D"600"><tbody><tr=
+><td class=3D"column column-1" width=3D"100%" style=3D"mso-table-lspace:0;m=
+so-table-rspace:0;font-weight:400;text-align:left;padding-bottom:5px;paddin=
+g-top:5px;vertical-align:top;border-top:0;border-right:0;border-bottom:0;bo=
+rder-left:0"><table class=3D"image_block block-1" width=3D"100%" border=3D"=
+0"=20
+cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D"mso-tabl=
+e-lspace:0;mso-table-rspace:0"><tr><td class=3D"pad" style=3D"padding-top:3=
+0px;width:100%;padding-right:0;padding-left:0"><div class=3D"alignment" ali=
+gn=3D"center" style=3D"line-height:10px"><div style=3D"max-width:198px"><a =
+href=3D"https://link.theverge.com/click/37673231.19031/aHR0cHM6Ly90aGV2ZXJn=
+ZS5jb20_dWVpZD1hYmMwNDllMWEyNGFlZmJkMzhiODUyZmQxNDc2Yjk1Mw/64d9420b94f1ae4c=
+940147d1B91c16110" target=3D"_blank" style=3D"outline:none" tabindex=3D"-1"=
+><img=20
+src=3D"https://media.sailthru.com/composer/images/sailthru-prod-6xd/Primary=
+%20Wordmark%20-%20Black%20%281%29.png" style=3D"display:block;height:auto;b=
+order:0;width:100%" width=3D"198" alt title height=3D"auto"></a></div></div=
+></td></tr></table><table class=3D"social_block block-2" width=3D"100%" bor=
+der=3D"0" cellpadding=3D"10" cellspacing=3D"0" role=3D"presentation" style=
+=3D"mso-table-lspace:0;mso-table-rspace:0"><tr><td class=3D"pad"><div class=
+=3D"alignment" align=3D"center"><table class=3D"social-table" width=3D"144p=
+x"=20
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" styl=
+e=3D"mso-table-lspace:0;mso-table-rspace:0;display:inline-block"><tr><td st=
+yle=3D"padding:0 2px 0 2px"><a href=3D"https://link.theverge.com/click/3767=
+3231.19031/aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3ZlcmdlLz91ZWlkPWFiYzA0OWUxYTI0=
+YWVmYmQzOGI4NTJmZDE0NzZiOTUz/64d9420b94f1ae4c940147d1Bf8a865e2" target=3D"_=
+blank"><img src=3D"https://app-rsrc.getbee.io/public/resources/social-netwo=
+rks-icon-sets/t-circle-dark-gray/facebook@2x.png" width=3D"32" height=3D"au=
+to" alt=3D"Facebook" title=3D"Facebook" style=3D"display:block;height:auto;=
+border:0"></a></td><td=20
+style=3D"padding:0 2px 0 2px"><a href=3D"https://link.theverge.com/click/37=
+673231.19031/aHR0cHM6Ly90d2l0dGVyLmNvbS92ZXJnZT91ZWlkPWFiYzA0OWUxYTI0YWVmYm=
+QzOGI4NTJmZDE0NzZiOTUz/64d9420b94f1ae4c940147d1B36166b57" target=3D"_blank"=
+><img src=3D"https://app-rsrc.getbee.io/public/resources/social-networks-ic=
+on-sets/t-circle-dark-gray/twitter@2x.png" width=3D"32" height=3D"auto" alt=
+=3D"Twitter" title=3D"Twitter" style=3D"display:block;height:auto;border:0"=
+></a></td><td style=3D"padding:0 2px 0 2px"><a href=3D"https://link.theverg=
+e.com/click/37673231.19031/aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS92ZXJnZS8_dWVp=
+ZD1hYmMwNDllMWEyNGFlZmJkMzhiODUyZmQxNDc2Yjk1Mw/64d9420b94f1ae4c940147d1B800=
+361d2" target=3D"_blank"><img=20
+src=3D"https://app-rsrc.getbee.io/public/resources/social-networks-icon-set=
+s/t-circle-dark-gray/instagram@2x.png" width=3D"32" height=3D"auto" alt=3D"=
+Instagram" title=3D"Instagram" style=3D"display:block;height:auto;border:0"=
+></a></td><td style=3D"padding:0 2px 0 2px"><a href=3D"https://link.theverg=
+e.com/click/37673231.19031/aHR0cHM6Ly93d3cueW91dHViZS5jb20vdXNlci90aGV2ZXJn=
+ZT91ZWlkPWFiYzA0OWUxYTI0YWVmYmQzOGI4NTJmZDE0NzZiOTUz/64d9420b94f1ae4c940147=
+d1B26e1e57a" target=3D"_blank"><img src=3D"https://app-rsrc.getbee.io/publi=
+c/resources/social-networks-icon-sets/t-circle-dark-gray/youtube@2x.png" wi=
+dth=3D"32" height=3D"auto" alt=3D"YouTube"=20
+title=3D"YouTube" style=3D"display:block;height:auto;border:0"></a></td></t=
+r></table></div></td></tr></table><table class=3D"text_block block-3" width=
+=3D"100%" border=3D"0" cellpadding=3D"10" cellspacing=3D"0" role=3D"present=
+ation" style=3D"mso-table-lspace:0;mso-table-rspace:0;word-break:break-word=
+"><tr><td class=3D"pad"><div style=3D"font-family:sans-serif"><div class=20
+style=3D"font-size:12px;font-family:'Helvetica Neue',Helvetica,Arial,sans-s=
+erif;mso-line-height-alt:14.399999999999999px;color:#131313;line-height:1.2=
+"><p style=3D"margin:0;mso-line-height-alt:14.399999999999999px">
+Vox Media has affiliate partnerships. These do not influence editorial cont=
+ent, though Vox Media may earn commissions for products purchased via affil=
+iate links. For more information, see&nbsp;<a href=3D"https://link.theverge=
+.com/click/37673231.19031/aHR0cHM6Ly93d3cudGhldmVyZ2UuY29tL2V0aGljcy1zdGF0Z=
+W1lbnQ_dWVpZD1hYmMwNDllMWEyNGFlZmJkMzhiODUyZmQxNDc2Yjk1Mw/64d9420b94f1ae4c9=
+40147d1B8feb0297" target=3D"_blank" rel=3D"noopener" style=3D"text-decorati=
+on: underline; color: #5200ff;">our ethics policy</a>. View our&nbsp;<a hre=
+f=3D"https://link.theverge.com/click/37673231.19031/aHR0cHM6Ly93d3cudm94bWV=
+kaWEuY29tL3BhZ2VzL3ByaXZhY3ktcG9saWN5P3VlaWQ9YWJjMDQ5ZTFhMjRhZWZiZDM4Yjg1Mm=
+ZkMTQ3NmI5NTM/64d9420b94f1ae4c940147d1B1d1a8d98" style=3D"text-decoration: =
+underline; color: #5200ff;">Privacy Policy</a>&nbsp;and our&nbsp;<a href=3D=
+"https://link.theverge.com/click/37673231.19031/aHR0cHM6Ly93d3cudm94bWVkaWE=
+uY29tL3BhZ2VzL3Rlcm1zLW9mLXVzZT91ZWlkPWFiYzA0OWUxYTI0YWVmYmQzOGI4NTJmZDE0Nz=
+ZiOTUz/64d9420b94f1ae4c940147d1B6aba0423" style=3D"text-decoration: underli=
+ne; color: #5200ff;">Terms of Service</a>.
+</p><p style=3D"margin:0;mso-line-height-alt:14.399999999999999px">&nbsp;</=
+p><p style=3D"margin:0;mso-line-height-alt:14.399999999999999px">This email=
+ was sent to alexmeub@gmail.com. <a href=3D"https://link.theverge.com/manag=
+e/6xd/oc?email=3Dalexmeub@gmail.com&param=3Dinstaller" target=3D"_blank" re=
+l=3D"noopener" style=3D"text-decoration: underline; color: #5200ff;">Unsubs=
+cribe</a>&nbsp;&nbsp;to stop receiving this email.</p><p style=3D"margin:0;=
+mso-line-height-alt:14.399999999999999px">&nbsp;</p><p style=3D"margin:0;ms=
+o-line-height-alt:14.399999999999999px">Vox Media, 1201 Connecticut Ave. NW=
+, Washington, DC 20036.<br>Copyright 2024. All rights reserved.</p>
+</div></div></td></tr></table></td></tr></tbody></table></td></tr></tbody><=
+/table></td></tr></tbody></table><!-- End --><p><small>If you believe this =
+has been sent to you in error, please safely <a href=3D"https://link.thever=
+ge.com/oc/64d9420b94f1ae4c940147d1mfgun.eon/9cb296c4">unsubscribe</a>.</sma=
+ll></p>
+</body></html>
+------=_Part_2710864_813284922.1732971611228--

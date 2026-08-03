@@ -473,7 +473,8 @@ def write_issue(issue: dict, body: str | None, force: bool = False) -> tuple[str
 EMAIL_TRACKING_PARAMS = ("url", "u", "redirect", "dest")
 
 
-def parse_email(html: str, date: str, title: str | None = None) -> dict:
+def parse_email(html: str, date: str, title: str | None = None,
+                number: int | None = None) -> dict:
     """Best-effort parse of a newsletter email (inline-styled table soup).
 
     Matches section heading *text* instead of CSS classes; always needs_review.
@@ -487,9 +488,15 @@ def parse_email(html: str, date: str, title: str | None = None) -> dict:
     buckets: dict[str, list[tuple[str, str, str]]] = {}
     for el in soup.find_all(True):
         if el.name in ("h1", "h2", "h3", "strong", "b", "span", "td", "p"):
-            label = re.sub(r"[^a-z ]", "", norm_ws(el.get_text()).lower()).strip()
-            if label in KNOWN_SECTIONS and len(norm_ws(el.get_text())) < 30:
+            heading = norm_ws(el.get_text())
+            label = re.sub(r"[^a-z ]", "", heading.lower()).strip()
+            if label in KNOWN_SECTIONS and len(heading) < 30:
                 current = KNOWN_SECTIONS[label]
+                continue
+            # unknown-but-heading-shaped (real <h1-3>, short): new slug section,
+            # mirroring how the web parser slugs unknown h2s
+            if el.name in ("h1", "h2", "h3") and label and len(heading) < 40:
+                current = slugify(label, 32)
                 continue
         if el.name == "a" and el.get("href"):
             url = clean_url(el["href"])
@@ -505,14 +512,21 @@ def parse_email(html: str, date: str, title: str | None = None) -> dict:
             items.append(_item(name, url, blurb, section))
     items = _dedupe_and_id(items, date)
 
+    final_title = norm_ws(title or (soup.title.string if soup.title else "") or f"Installer {date}")
+    post_type = "issue"
+    if CALLOUT_TITLES.search(final_title):
+        post_type = "callout"
+    elif SPECIAL_TITLES.search(final_title):
+        post_type = "special"
+
     return {
         "schema": SCHEMA_VERSION,
         "date": date,
-        "post_type": "issue",
-        "title": norm_ws(title or (soup.title.string if soup.title else "") or f"Installer {date}"),
+        "post_type": post_type,
+        "title": final_title,
         "url": None,
         "author": "David Pierce",
-        "number": int(m.group(1)) if m else None,
+        "number": number if number is not None else (int(m.group(1)) if m else None),
         "sections_found": list(buckets.keys()),
         "source": "email",
         "scraped_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),

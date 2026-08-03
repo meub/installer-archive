@@ -29,11 +29,28 @@ def cmd_fetch(_args) -> int:
 
 def cmd_parse(args) -> int:
     if args.email:
-        html = Path(args.email).read_text(encoding="utf-8")
-        date = args.date or Path(args.email).stem[:10]
-        issue = parse.parse_email(html, date=date, title=args.title)
+        src = Path(args.email)
+        title, date = args.title, args.date
+        if src.suffix.lower() == ".eml":
+            import email as email_mod
+            import email.policy
+            from email.utils import parsedate_to_datetime
+            msg = email_mod.message_from_bytes(src.read_bytes(), policy=email.policy.default)
+            body = msg.get_body(preferencelist=("html",))
+            if body is None:
+                print(f"parse: no HTML part in {src.name}")
+                return 1
+            html = body.get_content()
+            title = title or str(msg["Subject"] or "")
+            if not date and msg["Date"]:
+                date = parsedate_to_datetime(msg["Date"]).date().isoformat()
+        else:
+            html = src.read_text(encoding="utf-8")
+        date = date or src.stem[:10]
+        issue = parse.parse_email(html, date=date, title=title, number=args.number)
         path, action = parse.write_issue(issue, body=None, force=args.force)
-        print(f"parse: {action} {path} ({len(issue['recommendations'])} recs, email source)")
+        print(f"parse: {action} {path} — No. {issue['number']}, "
+              f"{len(issue['recommendations'])} recs, sections: {issue['sections_found']}")
         return 0
 
     state = discover.load_state()
@@ -106,8 +123,9 @@ def main(argv=None) -> int:
     p.add_argument("--date", help="only this issue date (YYYY-MM-DD)")
     p.add_argument("--force", action="store_true",
                    help="re-parse existing issues into .proposed.json")
-    p.add_argument("--email", help="parse a saved newsletter email HTML file")
-    p.add_argument("--title", help="issue title (email mode)")
+    p.add_argument("--email", help="parse a saved newsletter email (.eml or .html)")
+    p.add_argument("--title", help="issue title (email mode; default: Subject header)")
+    p.add_argument("--number", type=int, help="issue number (email mode)")
 
     e = sub.add_parser("enrich", help="propose categories/tags")
     e.add_argument("--date", action="append", help="limit to issue date(s)")

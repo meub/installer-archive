@@ -28,7 +28,27 @@ def _wrapper_params(host: str) -> tuple[str, ...] | None:
             return params
     return None
 
-TRACKING_PARAMS = re.compile(r"^(utm_|ref$|ref_|cmpid$|smid$|ito$|sref$)")
+TRACKING_PARAMS = re.compile(r"^(utm_|ref$|ref_|cmpid$|smid$|ito$|sref$|ueid$)")
+
+
+def _unwrap_sailthru(parts) -> str | None:
+    """link.theverge.com/click/{id}/{urlsafe-b64-destination}/{n} (email tracker)."""
+    import base64
+    host = parts.netloc.lower().removeprefix("www.")
+    if host != "link.theverge.com" and not host.endswith(".sailthru.com"):
+        return None
+    segs = [s for s in parts.path.split("/") if s]
+    if len(segs) < 2 or segs[0] != "click":
+        return None
+    for seg in segs[1:]:
+        pad = seg + "=" * (-len(seg) % 4)
+        try:
+            decoded = base64.urlsafe_b64decode(pad).decode("utf-8", "ignore")
+        except Exception:
+            continue
+        if decoded.startswith("http"):
+            return decoded
+    return None
 
 
 def norm_ws(text: str) -> str:
@@ -52,6 +72,10 @@ def clean_url(href: str | None, base: str = BASE) -> str | None:
     for _ in range(3):  # unwrap nested wrappers
         parts = urlparse(url)
         host = parts.netloc.lower().removeprefix("www.")
+        wrapped = _unwrap_sailthru(parts)
+        if wrapped and wrapped.startswith("http"):
+            url = wrapped
+            continue
         params = _wrapper_params(host)
         wrapped = None
         if params:
