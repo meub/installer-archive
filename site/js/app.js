@@ -1,9 +1,13 @@
 import MiniSearch from "../vendor/minisearch.js";
-import { readState, writeState, resetState } from "./urlstate.js?v=22";
-import { CATEGORY_LABELS, SECTION_LABELS, sectionLabel, createRenderer, fmtDate, fmtNum } from "./render.js?v=22";
+import { readState, writeState, resetState } from "./urlstate.js?v=23";
+import { CATEGORY_LABELS, SECTION_LABELS, sectionLabel, createRenderer, fmtDate, fmtNum } from "./render.js?v=23";
 
 const $ = (id) => document.getElementById(id);
 const state = readState();
+
+// Phone-sized layouts get shorter control labels — the sticky bar has room for
+// a chip row or a verbose button, not both.
+const narrow = window.matchMedia("(max-width: 640px)");
 
 // -------------------------------------------------------------------- theme
 // The inline <head> script already resolved and applied the theme; this wires
@@ -106,7 +110,7 @@ function makeChip(label, isPressed, onClick) {
   b.className = "chip";
   b.textContent = label;
   b.setAttribute("aria-pressed", String(isPressed()));
-  b.addEventListener("click", () => { onClick(); apply(); });
+  b.addEventListener("click", () => { onClick(); apply(true); });
   b.refresh = () => b.setAttribute("aria-pressed", String(isPressed()));
   return b;
 }
@@ -149,6 +153,26 @@ function buildChips() {
   chips.push(...cat.children, ...sec.children, ...yearRow.children, ...tagRow.children);
 }
 
+// The category row scrolls sideways once the chips outgrow the bar. Fade
+// whichever end still has chips behind it so a clipped row reads as
+// scrollable, and open on the active chip when one arrives from the URL.
+function wireCatScroll() {
+  const row = $("cat-chips");
+  const syncFade = () => {
+    const max = row.scrollWidth - row.clientWidth;
+    row.classList.toggle("fade-l", max > 1 && row.scrollLeft > 2);
+    row.classList.toggle("fade-r", max > 1 && row.scrollLeft < max - 2);
+  };
+  row.addEventListener("scroll", syncFade, { passive: true });
+  window.addEventListener("resize", syncFade);
+
+  if (state.cat) {
+    const active = [...row.children].find((c) => c.getAttribute("aria-pressed") === "true");
+    if (active) row.scrollLeft = Math.max(0, active.offsetLeft - 48);
+  }
+  syncFade();
+}
+
 function buildStatBadges() {
   const wrap = $("stat-badges");
   const statOf = (num, label) => {
@@ -175,7 +199,7 @@ function buildStatBadges() {
     btn.append(b, document.createTextNode(CATEGORY_LABELS[key].toLowerCase()));
     btn.addEventListener("click", () => {
       state.cat = state.cat === key ? null : key;
-      apply();
+      apply(true);
     });
     btn.refresh = () => btn.setAttribute("aria-pressed", String(state.cat === key));
     chips.push(btn);
@@ -187,7 +211,7 @@ function toggleTag(tag, doApply = true) {
   const i = state.tags.indexOf(tag);
   if (i >= 0) state.tags.splice(i, 1);
   else state.tags.push(tag);
-  if (doApply) apply();
+  if (doApply) apply(true);
 }
 
 // ---------------------------------------------------------------- admin mode
@@ -322,7 +346,19 @@ function filtersActive() {
   return Boolean(state.q.trim() || state.cat || state.section || state.tags.length || state.year);
 }
 
-function apply() {
+// Changing a filter rebuilds the list from the top. If the reader was scrolled
+// into the old results, leaving them mid-page drops them into the middle of a
+// list they've never seen — so pull them back to the first row, tucked just
+// under the sticky bar. Only ever scrolls up, never down.
+function keepResultsInView() {
+  const main = document.querySelector("main");
+  const bar = document.querySelector(".topbar");
+  const target = Math.max(0, main.offsetTop - bar.offsetHeight);
+  if (window.scrollY > target) window.scrollTo(0, target);
+}
+
+function apply(rescroll) {
+  if (rescroll) keepResultsInView();
   const list = currentList();
   const groups = groupList(list);
   renderer.set(groups);
@@ -348,13 +384,22 @@ function hiddenFilterCount() {
 function syncMoreFilters() {
   const n = hiddenFilterCount();
   const open = !moreWrap.hidden;
-  moreBtn.textContent = `${open ? "Fewer filters" : "More filters"}${n ? ` (${n})` : ""} ${open ? "▴" : "▾"}`;
+  const label = narrow.matches
+    ? (open ? "Fewer" : "Filters")
+    : (open ? "Fewer filters" : "More filters");
+  moreBtn.textContent = `${label}${n ? ` (${n})` : ""} ${open ? "▴" : "▾"}`;
   moreBtn.setAttribute("aria-expanded", String(open));
 }
+narrow.addEventListener("change", syncMoreFilters);
 
 moreBtn.addEventListener("click", () => {
   moreWrap.hidden = !moreWrap.hidden;
   syncMoreFilters();
+  // The panel sits below the sticky bar, so opening it while scrolled down
+  // would expand a region nobody can see.
+  if (!moreWrap.hidden && window.scrollY > 0) {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
 });
 if (hiddenFilterCount()) moreWrap.hidden = false; // don't hide active filters
 
@@ -362,22 +407,24 @@ if (hiddenFilterCount()) moreWrap.hidden = false; // don't hide active filters
 
 buildChips();
 buildStatBadges();
+wireCatScroll();
 syncAdminUI();
 syncMoreFilters();
 
 const qInput = $("q");
+if (narrow.matches) qInput.placeholder = "Search the archive…";
 qInput.value = state.q;
 $("sort").value = state.sort;
 
 let debounce;
 qInput.addEventListener("input", () => {
   clearTimeout(debounce);
-  debounce = setTimeout(() => { state.q = qInput.value; apply(); }, 80);
+  debounce = setTimeout(() => { state.q = qInput.value; apply(true); }, 80);
 });
 $("sort").addEventListener("change", () => {
   state.sort = $("sort").value;
   if (state.sort === "random") randOrder = null; // reshuffle each time it's picked
-  apply();
+  apply(true);
 });
 
 function clearAll() {
@@ -385,7 +432,7 @@ function clearAll() {
   resetState(state);
   state.sort = sort;
   qInput.value = "";
-  apply();
+  apply(true);
 }
 $("clear-btn").addEventListener("click", clearAll);
 $("empty-clear").addEventListener("click", clearAll);
@@ -399,7 +446,7 @@ document.addEventListener("keydown", (e) => {
     qInput.focus();
     qInput.select();
   } else if (e.key === "Escape" && document.activeElement === qInput) {
-    if (qInput.value) { qInput.value = ""; state.q = ""; apply(); }
+    if (qInput.value) { qInput.value = ""; state.q = ""; apply(true); }
     else qInput.blur();
   } else if ((e.key === "ArrowDown" || e.key === "ArrowUp") && !inField) {
     const links = [...document.querySelectorAll(".rec-name")];

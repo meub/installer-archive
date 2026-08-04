@@ -2,17 +2,28 @@
 /* author `display` declarations outrank the UA sheet's [hidden] rule — this
    keeps the attribute authoritative for anything JS toggles (admin bar, etc.) */
 [hidden] { display: none !important; }
-html { -webkit-text-size-adjust: 100%; }
+html {
+  -webkit-text-size-adjust: 100%;
+  /* keep keyboard-focused rows out from under the sticky search + filter bar */
+  scroll-padding-top: 140px;
+}
 body {
   margin: 0;
   background: var(--bg);
   color: var(--text);
   font: 15px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
+/* No `overflow-x: hidden` here on purpose: it makes the body a scroll container
+   and breaks the sticky bar in iOS Safari. Sideways overflow is prevented at
+   the source instead — see the overflow-wrap rules on names and blurbs. */
 a { color: inherit; }
-button { font: inherit; color: inherit; }
+button { font: inherit; color: inherit; touch-action: manipulation; }
 
-.wrap { max-width: 780px; margin: 0 auto; padding: 0 20px; }
+/* Inline padding only, never the `padding` shorthand: several elements pair
+   .wrap with a layout class that supplies its own padding-top/bottom, and a
+   shorthand here — especially in a later media query — silently wipes those
+   out and collapses the whole page's vertical rhythm. */
+.wrap { max-width: 780px; margin: 0 auto; padding-inline: 20px; }
 
 /* ---------- header ---------- */
 .site-bar {
@@ -24,15 +35,16 @@ button { font: inherit; color: inherit; }
   padding-top: 14px; padding-bottom: 14px;
 }
 .site-name { font-size: 17px; letter-spacing: -0.01em; margin: 0; }
-.bar-links { display: flex; align-items: center; gap: 16px; }
+.bar-links { display: flex; align-items: center; gap: 14px; flex-shrink: 0; }
 .bar-updated { color: var(--text-faint); font-size: 12.5px; }
 .bar-icon {
   color: var(--text-muted); display: inline-flex;
-  background: none; border: none; padding: 0; cursor: pointer;
+  align-items: center; justify-content: center;
+  background: none; border: none; cursor: pointer;
+  /* padding widens the touch target; the negative margin keeps the layout */
+  padding: 7px; margin: -7px;
 }
-.bar-icon:hover { color: var(--accent); }
 .bar-icon svg { width: 18px; height: 18px; }
-@media (max-width: 560px) { .bar-updated { display: none; } }
 
 .theme-toggle {
   position: relative; flex-shrink: 0;
@@ -43,7 +55,6 @@ button { font: inherit; color: inherit; }
   cursor: pointer;
   transition: border-color 0.12s ease;
 }
-.theme-toggle:hover { border-color: var(--border-strong); }
 .theme-knob {
   position: absolute; top: 2px; left: 2px;
   width: 18px; height: 18px; border-radius: 50%;
@@ -66,7 +77,6 @@ button { font: inherit; color: inherit; }
   margin: 0 0 14px; max-width: 560px;
 }
 .tagline a { color: var(--accent); text-decoration: none; }
-.tagline a:hover { text-decoration: underline; }
 
 .stat-badges { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }
 .stat-badge {
@@ -83,19 +93,22 @@ button { font: inherit; color: inherit; }
 }
 .stat-badge-cat { border-color: transparent; cursor: pointer; font: inherit; font-size: 12.5px; }
 .stat-badge-cat b { color: inherit; }
-.stat-badge-cat:hover { filter: brightness(1.18); }
 .stat-badge-cat[aria-pressed="true"] { box-shadow: 0 0 0 1.5px currentColor; }
 
-/* ---------- sticky search bar ---------- */
+/* ---------- sticky search + filter bar ---------- */
+/* Search and the category chips travel together so filtering never means
+   scrolling back to the top. The "more filters" panel deliberately lives
+   outside, so opening it can't grow the sticky block over the results. */
 .topbar {
   position: sticky; top: 0; z-index: 10;
   background: var(--bg-topbar);
   -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px);
-  border-bottom: 1px solid var(--border);
+  box-shadow: 0 8px 16px -14px rgba(0, 0, 0, 0.55);
 }
-.topbar-inner { padding-top: 14px; padding-bottom: 20px; }
+.topbar-search { border-bottom: 1px solid var(--border); }
+.topbar-inner { padding-top: 14px; padding-bottom: 16px; }
 .search-row { display: flex; gap: 10px; }
-.searchbox { position: relative; flex: 1; display: flex; align-items: center; }
+.searchbox { position: relative; flex: 1; min-width: 0; display: flex; align-items: center; }
 .search-icon {
   position: absolute; left: 12px; width: 16px; height: 16px;
   fill: var(--text-faint); pointer-events: none;
@@ -122,9 +135,10 @@ button { font: inherit; color: inherit; }
   border: 1px solid var(--border-strong); border-radius: 10px;
   padding: 8px 10px;
 }
+#sort { flex-shrink: 0; }
 
 /* ---------- filter chips ---------- */
-.filters { padding-top: 20px; }
+.filters-bar { padding-top: 14px; padding-bottom: 14px; }
 .chip-row { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
 .chip {
   border: 1px solid var(--chip-border, var(--border));
@@ -137,7 +151,6 @@ button { font: inherit; color: inherit; }
   white-space: nowrap;
   transition: border-color 0.1s ease, color 0.1s ease;
 }
-.chip:hover { border-color: var(--border-strong); color: var(--text); }
 .chip[aria-pressed="true"] {
   background: var(--chip-bg-active);
   color: var(--chip-fg-active);
@@ -151,16 +164,33 @@ button { font: inherit; color: inherit; }
   flex-wrap: nowrap; overflow-x: auto;
   margin-bottom: 0;
   scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+  /* a sideways swipe over the chips must not trigger back/forward navigation */
+  overscroll-behavior-x: contain;
+  scroll-padding-inline: 12px;
 }
 .chip-row-wrap .chip-row::-webkit-scrollbar { display: none; }
+/* Fade whichever edge still has chips behind it, so a cut-off row reads as
+   scrollable rather than as a clipping bug. Classes come from app.js. */
+.chip-row.fade-r {
+  -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 26px), transparent);
+  mask-image: linear-gradient(to right, #000 calc(100% - 26px), transparent);
+}
+.chip-row.fade-l {
+  -webkit-mask-image: linear-gradient(to right, transparent, #000 26px);
+  mask-image: linear-gradient(to right, transparent, #000 26px);
+}
+.chip-row.fade-l.fade-r {
+  -webkit-mask-image: linear-gradient(to right, transparent, #000 26px, #000 calc(100% - 26px), transparent);
+  mask-image: linear-gradient(to right, transparent, #000 26px, #000 calc(100% - 26px), transparent);
+}
 .more-filters-btn {
-  background: none; border: none; padding: 2px 0;
+  background: none; border: none; padding: 4px 0;
   color: var(--text-faint); font-size: 13px; cursor: pointer;
   white-space: nowrap; flex-shrink: 0;
 }
-.more-filters-btn:hover { color: var(--accent); }
 #more-filters {
-  margin-top: 14px;
+  margin-top: 16px;
   padding: 16px 18px 8px;
   background: var(--bg-elev);
   border: 1px solid var(--border);
@@ -177,14 +207,13 @@ button { font: inherit; color: inherit; }
 /* ---------- results ---------- */
 .status-row {
   display: flex; align-items: baseline; gap: 14px;
-  padding: 14px 0 6px;
+  padding: 16px 0 8px;
 }
 .count { color: var(--text-faint); font-size: 13px; }
 .link-btn {
   background: none; border: none; padding: 0;
   color: var(--accent); font-size: 13px; cursor: pointer;
 }
-.link-btn:hover { text-decoration: underline; }
 
 .rec-list { list-style: none; margin: 0; padding: 0; }
 .rec {
@@ -196,14 +225,14 @@ button { font: inherit; color: inherit; }
   margin-bottom: 10px;
   transition: border-color 0.12s ease, background 0.12s ease;
 }
-.rec:hover { border-color: var(--card-hover-border); background: var(--card-hover); }
 .rec-body { flex: 1; min-width: 0; }
 .rec-head { display: flex; align-items: baseline; gap: 10px; }
 .rec-name {
   font-weight: 600; font-size: 15.5px;
   color: var(--text); text-decoration: none;
+  /* long unbroken URLs/titles must not push the card wider than the screen */
+  overflow-wrap: anywhere;
 }
-.rec-name:hover { color: var(--accent); text-decoration: underline; }
 .rec-name.no-link { font-weight: 600; }
 .badge {
   display: inline-flex; align-items: center; gap: 4px;
@@ -219,7 +248,7 @@ button { font: inherit; color: inherit; }
 .badge-feature { background: var(--badge-feature-bg); color: var(--badge-feature-fg); }
 .badge-other   { background: var(--badge-other-bg);   color: var(--badge-other-fg); }
 
-.rec-blurb { color: var(--text-muted); font-size: 14px; margin: 5px 0 7px; }
+.rec-blurb { color: var(--text-muted); font-size: 14px; margin: 5px 0 7px; overflow-wrap: break-word; }
 
 /* repeat recommendations: count pill toggles the per-issue mention list */
 .dupe-pill {
@@ -227,12 +256,11 @@ button { font: inherit; color: inherit; }
   border: 1px solid var(--border-strong);
   color: var(--text-muted);
   border-radius: 999px;
-  padding: 1px 8px;
+  padding: 2px 9px;
   font-size: 11px; font-weight: 600;
   font-variant-numeric: tabular-nums;
   cursor: pointer; white-space: nowrap;
 }
-.dupe-pill:hover { border-color: var(--accent); color: var(--accent); }
 .dupe-pill[aria-expanded="true"] {
   background: var(--accent-soft); border-color: var(--accent); color: var(--accent);
 }
@@ -248,21 +276,38 @@ button { font: inherit; color: inherit; }
   color: var(--text-faint); font-size: 12px;
 }
 .mention-meta a { color: var(--text-faint); text-decoration: none; }
-.mention-meta a:hover { color: var(--accent); text-decoration: underline; }
-.mention-blurb { margin: 4px 0 0; color: var(--text-muted); font-size: 13px; }
+.mention-blurb { margin: 4px 0 0; color: var(--text-muted); font-size: 13px; overflow-wrap: break-word; }
 .rec-meta {
   display: flex; flex-wrap: wrap; align-items: center; gap: 6px;
   color: var(--text-faint); font-size: 12.5px;
 }
 .rec-meta a { color: var(--text-faint); text-decoration: none; }
-.rec-meta a:hover { color: var(--accent); text-decoration: underline; }
 .rec-meta .sep { opacity: 0.6; }
 .tag {
   background: var(--chip-bg); color: var(--text-muted);
   border: none; border-radius: 999px;
   font-size: 11.5px; padding: 2px 9px; cursor: pointer;
 }
-.tag:hover { background: var(--accent-soft); color: var(--accent); }
+
+/* Hover styling is gated so a tap on a touch screen doesn't leave every card
+   and chip stuck in its hover state until the next tap elsewhere. */
+@media (hover: hover) {
+  .bar-icon:hover { color: var(--accent); }
+  .theme-toggle:hover { border-color: var(--border-strong); }
+  .tagline a:hover { text-decoration: underline; }
+  .stat-badge-cat:hover { filter: brightness(1.18); }
+  .chip:hover { border-color: var(--border-strong); color: var(--text); }
+  .more-filters-btn:hover { color: var(--accent); }
+  .link-btn:hover { text-decoration: underline; }
+  .rec:hover { border-color: var(--card-hover-border); background: var(--card-hover); }
+  .rec-name:hover { color: var(--accent); text-decoration: underline; }
+  .dupe-pill:hover { border-color: var(--accent); color: var(--accent); }
+  .mention-meta a:hover { color: var(--accent); text-decoration: underline; }
+  .rec-meta a:hover { color: var(--accent); text-decoration: underline; }
+  .tag:hover { background: var(--accent-soft); color: var(--accent); }
+  .btn:hover { border-color: var(--accent); color: var(--accent); }
+  .del-btn:hover { background: #dc2626; color: #fff; }
+}
 
 /* ---------- states ---------- */
 .skeleton { height: 92px; position: relative; overflow: hidden; }
@@ -280,18 +325,22 @@ button { font: inherit; color: inherit; }
 .btn {
   background: var(--bg-elev); color: var(--text);
   border: 1px solid var(--border-strong); border-radius: 8px;
-  padding: 7px 14px; cursor: pointer;
+  padding: 9px 16px; cursor: pointer;
 }
-.btn:hover { border-color: var(--accent); color: var(--accent); }
 
 .site-foot {
   color: var(--text-faint); font-size: 12.5px;
-  padding-top: 28px; padding-bottom: 44px;
+  padding-top: 28px;
+  padding-bottom: calc(44px + env(safe-area-inset-bottom, 0px));
 }
 .site-foot a { color: var(--text-muted); }
 
 dialog {
-  max-width: 460px; margin: auto; padding: 22px 24px;
+  width: min(460px, calc(100vw - 32px));
+  max-height: min(84vh, 720px);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  margin: auto; padding: 22px 24px;
   background: var(--bg-elev); color: var(--text);
   border: 1px solid var(--border-strong); border-radius: 12px;
 }
@@ -305,8 +354,9 @@ dialog a { color: var(--accent); }
 /* ---------- admin mode (data cleanup, SPEC §7.2) ---------- */
 .admin-bar {
   position: fixed; bottom: 0; left: 0; right: 0; z-index: 20;
-  display: flex; align-items: center; gap: 16px;
+  display: flex; flex-wrap: wrap; align-items: center; gap: 8px 16px;
   padding: 9px 20px;
+  padding-bottom: calc(9px + env(safe-area-inset-bottom, 0px));
   background: #7f1d1d; color: #fecaca;
   font-size: 13px;
 }
@@ -314,15 +364,88 @@ dialog a { color: var(--accent); }
 .admin-bar strong { letter-spacing: 0.08em; }
 .del-btn {
   border: 1px solid #dc2626; background: none; color: #dc2626;
-  border-radius: 5px; width: 22px; height: 22px; line-height: 1;
+  border-radius: 5px; width: 24px; height: 24px; line-height: 1;
   font-size: 12px; cursor: pointer; flex-shrink: 0;
 }
-.del-btn:hover { background: #dc2626; color: #fff; }
-body.admin-on { padding-bottom: 48px; }
+body.admin-on { padding-bottom: 56px; }
 
-@media (max-width: 560px) {
-  .wrap { padding: 0 14px; }
-  .site-head { padding-top: 18px; }
+/* ---------------------------------------------------------------- mobile ---
+   Only `padding-inline` is ever overridden on .wrap here; see the note at the
+   top of the file for why the shorthand is off limits. */
+@media (max-width: 640px) {
+  html { scroll-padding-top: 128px; }
+  .wrap {
+    padding-inline:
+      max(16px, env(safe-area-inset-left, 0px))
+      max(16px, env(safe-area-inset-right, 0px));
+  }
+
+  .site-bar-inner { padding-top: 11px; padding-bottom: 11px; gap: 10px; }
+  .site-name { font-size: 15.5px; line-height: 1.3; }
+  .bar-updated { display: none; }
+  .bar-links { gap: 16px; }
+
+  .site-head { padding-top: 16px; padding-bottom: 0; }
+  .tagline { font-size: 14.5px; margin-bottom: 11px; }
+  .stat-badges { gap: 6px; margin-bottom: 14px; }
+  .stat-badge { padding: 5px 10px; font-size: 12px; gap: 5px; }
+  .stat-badge b { font-size: 13.5px; }
+  .stat-badge-cat { font-size: 12px; }
+
+  /* The sticky bar carries both the search field and the chips, so every pixel
+     of padding here is a pixel of results the phone can't show. */
+  .topbar-inner { padding-top: 10px; padding-bottom: 10px; }
+  /* 16px is the threshold below which iOS Safari zooms the page on focus */
+  #q, #sort { font-size: 16px; }
+  #q { padding: 10px 12px 10px 36px; }
+  #sort { padding: 8px 6px 8px 8px; max-width: 38%; }
   .slash-hint { display: none; }
-  .rec-head { flex-wrap: wrap; gap: 6px; }
+
+  .filters-bar { padding-top: 9px; padding-bottom: 9px; }
+  .chip-row-wrap { gap: 10px; }
+  .chip { padding: 6px 14px; font-size: 13.5px; }
+  .chip-row-tags .chip { padding: 6px 12px; font-size: 13px; }
+  #more-filters .chip-row { gap: 7px; }
+  .more-filters-btn { font-size: 13px; padding: 6px 0; }
+  #more-filters { margin-top: 14px; padding: 14px 14px 6px; }
+
+  .status-row { padding: 14px 0 8px; }
+  .rec {
+    gap: 10px; border-radius: 10px;
+    padding: 14px 14px 13px; margin-bottom: 8px;
+  }
+  .rec-head { flex-wrap: wrap; align-items: center; gap: 6px 8px; }
+  .rec-name { font-size: 16px; }
+  .rec-blurb { font-size: 14.5px; line-height: 1.5; margin: 6px 0 9px; }
+  /* Meta lines wrap on every phone, and a leading "·" on the new line reads
+     like a typo — swap the interpuncts for wider gaps. */
+  .rec-meta .sep, .mention-meta .sep { display: none; }
+  .rec-meta { column-gap: 12px; row-gap: 7px; font-size: 12.5px; }
+  .tag { padding: 5px 11px; font-size: 12.5px; }
+  .dupe-pill { padding: 4px 11px; font-size: 11.5px; }
+  .mentions { margin-top: 14px; padding-left: 12px; }
+  .mention { padding: 10px 0; }
+  .mention-meta { column-gap: 12px; row-gap: 6px; font-size: 12.5px; }
+  .mention-blurb { font-size: 13.5px; }
+
+  .skeleton { height: 108px; }
+  .site-foot { padding-top: 24px; }
+  dialog { padding: 20px 18px; }
+  .admin-bar { padding-inline: 16px; font-size: 12.5px; gap: 8px 12px; }
+  body.admin-on { padding-bottom: 84px; }
+}
+
+/* A landscape phone is barely 400px tall. Pinning a 130px bar there costs a
+   third of the screen, so let it scroll away and give the results the room. */
+@media (orientation: landscape) and (max-height: 500px) {
+  html { scroll-padding-top: 0; }
+  .topbar { position: static; box-shadow: none; }
+}
+
+@media (max-width: 380px) {
+  .site-name { font-size: 14.5px; }
+  .bar-links { gap: 13px; }
+  .stat-badge { padding: 5px 9px; }
+  #sort { max-width: 34%; }
+  .rec { padding: 13px 12px 12px; }
 }
