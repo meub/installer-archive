@@ -314,7 +314,8 @@ Standard alexmeub.com stack. **Provisioned 2026-08-03:** bucket `installerarchiv
 | 4 | Site v1 (clean theme) | Search/filter/sort/URL-state/keyboard all work; perf budget met; deployed to prod |
 | 5 | Weekly loop proven | Two consecutive Saturdays updated in <10 min each |
 | 6 | Win98 theme | Toggle ships; theme parity on all states (loading/empty/error) |
-| 7+ | Ideas parking lot | GoatCounter analytics (decided yes — wire up post-launch); **dedupe pass: same item recommended multiple times → keep the earliest entry, remove later ones**; **generic-name fix: rename entries titled by anchor fragments ("a tool") to the actual thing ("Earth.fm") — LLM-assistable from blurb+URL**; stats page (most-recommended, per-year), per-issue pages, OG images, RSS feed of the archive itself |
+| 7 | Duplicate collapsing (done 2026-08-03) | Repeat recommendations render as one card with an "N×" pill that expands to every mention. Grouped on canonical URL only; the card fronts the best-described mention by section rank. 4,779 recommendations resolve to 4,187 items. |
+| 8+ | Ideas parking lot | GoatCounter analytics (decided yes, wire up post-launch); **generic-name fix: 233 entries are titled by anchor fragments ("this ESR one") instead of the thing itself. 63 are YouTube links fixable via free oEmbed, 100 have a descriptive URL slug, 51 need a page-title fetch, 19 have no link at all**; blurbs that open with a stray comma where the name was stripped; stats page (most-recommended, per-year), per-issue pages, OG images, RSS feed of the archive itself |
 
 Suggested build order runs data-first (milestones 1–3 before 4): the UI is the point, but it's only as good as the dataset under it, and curation is the long pole.
 
