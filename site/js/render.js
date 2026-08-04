@@ -47,7 +47,38 @@ export function categoryIcon(cat) {
 
 function sep() { return el("span", "sep", "·"); }
 
-function rowFor(rec, issue, onTag, onDelete) {
+function issueLink(issue, label) {
+  const a = el("a", null, label);
+  a.href = issue.url || "#";
+  a.target = "_blank";
+  a.rel = "noopener";
+  a.title = issue.title;
+  return a;
+}
+
+// One row inside an expanded group: the same item as it appeared in one issue.
+function mentionRow(rec, issue, onDelete) {
+  const li = el("li", "mention");
+  const meta = el("div", "mention-meta");
+  if (onDelete) {
+    const del = el("button", "del-btn", "✕");
+    del.type = "button";
+    del.title = "Mark this mention for deletion";
+    del.addEventListener("click", () => onDelete(rec));
+    meta.append(del);
+  }
+  if (issue) meta.append(issueLink(issue, issue.number ? `No. ${issue.number}` : "Issue"), sep());
+  meta.append(el("span", null, fmtDate(rec.date)));
+  if (rec.section) meta.append(sep(), el("span", null, sectionLabel(rec.section)));
+  if (rec.recommender) meta.append(sep(), el("span", null, `via ${rec.recommender}`));
+  li.append(meta);
+  if (rec.blurb) li.append(el("p", "mention-blurb", rec.blurb));
+  return li;
+}
+
+function rowFor(group, issuesByDate, onTag, onDelete) {
+  const members = group.members;
+  const rec = group.primary || members[0]; // best-described mention fronts the card
   const li = el("li", "rec");
   const body = el("div", "rec-body");
 
@@ -74,6 +105,14 @@ function rowFor(rec, issue, onTag, onDelete) {
     badge.append(categoryIcon(rec.category), document.createTextNode(rec.category));
     head.append(badge);
   }
+  let pill = null;
+  if (members.length > 1) {
+    pill = el("button", "dupe-pill", `${members.length}×`);
+    pill.type = "button";
+    pill.setAttribute("aria-expanded", "false");
+    pill.title = `Recommended ${members.length} times — show every mention`;
+    head.append(pill);
+  }
   body.append(head);
 
   if (rec.blurb) body.append(el("p", "rec-blurb", rec.blurb));
@@ -87,13 +126,9 @@ function rowFor(rec, issue, onTag, onDelete) {
   }
   if (rec.tags.length) meta.append(sep());
 
+  const issue = issuesByDate.get(rec.date);
   if (issue) {
-    const a = el("a", null, issue.number ? `Installer No. ${issue.number}` : "Installer");
-    a.href = issue.url || "#";
-    a.target = "_blank";
-    a.rel = "noopener";
-    a.title = issue.title;
-    meta.append(a, sep());
+    meta.append(issueLink(issue, issue.number ? `Installer No. ${issue.number}` : "Installer"), sep());
   }
   meta.append(el("span", null, fmtDate(rec.date)));
   if (rec.section) {
@@ -103,6 +138,18 @@ function rowFor(rec, issue, onTag, onDelete) {
     meta.append(sep(), el("span", null, `via ${rec.recommender}`));
   }
   body.append(meta);
+
+  if (pill) {
+    const mentions = el("ul", "mentions");
+    mentions.hidden = true;
+    for (const m of members) mentions.append(mentionRow(m, issuesByDate.get(m.date), onDelete));
+    body.append(mentions);
+    pill.addEventListener("click", () => {
+      mentions.hidden = !mentions.hidden;
+      pill.setAttribute("aria-expanded", String(!mentions.hidden));
+    });
+  }
+
   li.append(body);
   return li;
 }
@@ -113,9 +160,8 @@ export function createRenderer(listEl, sentinelEl, issuesByDate, onTag, admin, o
 
   function more() {
     const frag = document.createDocumentFragment();
-    for (const rec of list.slice(shown, shown + CHUNK)) {
-      frag.append(rowFor(rec, issuesByDate.get(rec.date), onTag,
-        admin?.enabled ? onDelete : null));
+    for (const group of list.slice(shown, shown + CHUNK)) {
+      frag.append(rowFor(group, issuesByDate, onTag, admin?.enabled ? onDelete : null));
     }
     shown = Math.min(shown + CHUNK, list.length);
     listEl.append(frag);

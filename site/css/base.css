@@ -220,6 +220,36 @@ button { font: inherit; color: inherit; }
 .badge-other   { background: var(--badge-other-bg);   color: var(--badge-other-fg); }
 
 .rec-blurb { color: var(--text-muted); font-size: 14px; margin: 5px 0 7px; }
+
+/* repeat recommendations: count pill toggles the per-issue mention list */
+.dupe-pill {
+  background: none;
+  border: 1px solid var(--border-strong);
+  color: var(--text-muted);
+  border-radius: 999px;
+  padding: 1px 8px;
+  font-size: 11px; font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  cursor: pointer; white-space: nowrap;
+}
+.dupe-pill:hover { border-color: var(--accent); color: var(--accent); }
+.dupe-pill[aria-expanded="true"] {
+  background: var(--accent-soft); border-color: var(--accent); color: var(--accent);
+}
+.mentions {
+  list-style: none;
+  margin: 12px 0 2px; padding: 0 0 0 14px;
+  border-left: 2px solid var(--border);
+}
+.mention { padding: 8px 0; }
+.mention + .mention { border-top: 1px solid var(--border); }
+.mention-meta {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 6px;
+  color: var(--text-faint); font-size: 12px;
+}
+.mention-meta a { color: var(--text-faint); text-decoration: none; }
+.mention-meta a:hover { color: var(--accent); text-decoration: underline; }
+.mention-blurb { margin: 4px 0 0; color: var(--text-muted); font-size: 13px; }
 .rec-meta {
   display: flex; flex-wrap: wrap; align-items: center; gap: 6px;
   color: var(--text-faint); font-size: 12.5px;

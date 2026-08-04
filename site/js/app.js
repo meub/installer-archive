@@ -1,6 +1,6 @@
 import MiniSearch from "../vendor/minisearch.js";
-import { readState, writeState, resetState } from "./urlstate.js?v=8";
-import { CATEGORY_LABELS, SECTION_LABELS, sectionLabel, createRenderer, fmtDate, fmtNum } from "./render.js?v=8";
+import { readState, writeState, resetState } from "./urlstate.js?v=19";
+import { CATEGORY_LABELS, SECTION_LABELS, sectionLabel, createRenderer, fmtDate, fmtNum } from "./render.js?v=19";
 
 const $ = (id) => document.getElementById(id);
 const state = readState();
@@ -129,10 +129,14 @@ function buildStatBadges() {
     s.append(b, document.createTextNode(label));
     return s;
   };
-  wrap.append(statOf(data.rec_count, "recs"));
+  wrap.append(statOf(allGroups.length, "items"));
 
+  // counts follow what the list shows: unique items, not total mentions
   const catCounts = new Map();
-  for (const r of recs) if (r.category) catCounts.set(r.category, (catCounts.get(r.category) || 0) + 1);
+  for (const g of allGroups) {
+    const c = g.members[0].category;
+    if (c) catCounts.set(c, (catCounts.get(c) || 0) + 1);
+  }
   const ordered = [...catCounts.entries()]
     .filter(([key, n]) => n && key !== "other" && CATEGORY_LABELS[key])
     .sort((a, b) => b[1] - a[1]);
@@ -220,6 +224,56 @@ const renderer = createRenderer($("results"), $("sentinel"), issuesByDate,
 window.__ia = renderer; // debug handle
 let randOrder = null;
 
+// ------------------------------------------------------------- duplicates
+// The same thing gets recommended across many issues (Obsidian 11 times, say).
+// Collapse those into one card carrying every mention, keyed on the canonical
+// URL only — matching on name would wrongly merge vague titles like "a tool".
+
+const SECTION_RANK = {
+  "the-drop": 0, "signing-off": 1, "pro-tips": 2,
+  "group-project": 3, crowdsourced: 4, "screen-share": 5, intro: 6,
+};
+
+function canonUrl(u) {
+  if (!u) return null;
+  try {
+    const p = new URL(u);
+    return (p.host.toLowerCase().replace(/^www\./, "")
+      + p.pathname.replace(/\/+$/, "") + p.search).toLowerCase();
+  } catch {
+    return null;
+  }
+}
+
+function groupList(list) {
+  const out = [];
+  const byKey = new Map();
+  for (const rec of list) {
+    const key = canonUrl(rec.url);
+    const existing = key && byKey.get(key);
+    if (existing) {
+      existing.members.push(rec);
+      continue;
+    }
+    const group = { members: [rec] };
+    if (key) byKey.set(key, group);
+    out.push(group);
+  }
+  // Mentions run newest first. The card's blurb comes from the best-described
+  // mention rather than simply the newest: a Drop write-up describes the thing,
+  // while a Screen Share or Crowdsourced aside only mentions it in passing.
+  for (const g of out) {
+    if (g.members.length > 1) g.members.sort((a, b) => b.date.localeCompare(a.date));
+    g.primary = g.members.reduce(
+      (best, m) => (SECTION_RANK[m.section] ?? 9) < (SECTION_RANK[best.section] ?? 9) ? m : best,
+      g.members[0],
+    );
+  }
+  return out;
+}
+
+const allGroups = groupList(recs);
+
 function currentList() {
   let list = recs;
   if (admin.deleted.size) list = list.filter((r) => !admin.deleted.has(r.id));
@@ -258,10 +312,11 @@ function filtersActive() {
 
 function apply() {
   const list = currentList();
-  renderer.set(list);
+  const groups = groupList(list);
+  renderer.set(groups);
   $("count").textContent = filtersActive()
-    ? `${fmtNum(list.length)} of ${fmtNum(recs.length)}`
-    : `${fmtNum(recs.length)} recommendations`;
+    ? `${fmtNum(groups.length)} of ${fmtNum(allGroups.length)}`
+    : `${fmtNum(groups.length)} items · ${fmtNum(recs.length)} recommendations`;
   syncMoreFilters();
   $("empty").hidden = list.length > 0;
   $("clear-btn").hidden = !filtersActive();
