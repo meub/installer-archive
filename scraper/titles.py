@@ -39,6 +39,8 @@ JUNK_TITLE = re.compile(
     r"^(just a moment|attention required|access denied|are you a robot|"
     r"page not found|404|home|error|log in|sign in|redirecting)", re.I)
 STORE_PREFIX = re.compile(r"^(watch|listen to|stream|buy|shop|download)\s+", re.I)
+# "Name on Instagram: \"the whole caption…\"" is the post's text, not a title
+SOCIAL_DUMP = re.compile(r"\son (instagram|threads|x|facebook|tiktok|bluesky)\s*:", re.I)
 
 
 def is_vague(name: str) -> bool:
@@ -57,9 +59,57 @@ def _save_cache(cache: dict) -> None:
     CACHE_FILE.write_text(json.dumps(cache, indent=1, sort_keys=True) + "\n")
 
 
+STORE_LISTING = re.compile(r"^Amazon\.[a-z.]+\s*:\s*", re.I)
+
+
+DANGLING = re.compile(r"\s+(with|and|for|from|by|the|an?|of|in|on|at|to|feat\.?)\s*\S*$", re.I)
+
+
+def shorten(title: str, limit: int = 78) -> str:
+    """Trim a source title down to the thing's name.
+
+    Retail listings pile specs after the first comma ("Anker PowerCore Fusion
+    10K, 20W USB-C Portable Charger…"), and video titles pack the series, the
+    episode, and the channel between pipes. Cut to the part that names it.
+    """
+    raw = norm_ws(title)
+    listing = bool(STORE_LISTING.match(raw))
+    t = STORE_LISTING.sub("", raw).strip()
+    if " | " in t:
+        # the longest pipe-separated part names the thing; the rest is channel
+        t = max((p.strip() for p in t.split(" | ")), key=len)
+    if listing and "," in t:
+        head = t.split(",")[0].strip()
+        if len(head) >= 10:
+            t = head
+    # drop a short trailing publication name after a dash
+    for sep in (" — ", " – ", " - "):
+        idx = t.rfind(sep)
+        if idx >= 20 and len(t) - idx - len(sep) <= 30:
+            t = t[:idx].strip()
+            break
+    if len(t) > limit:
+        # a dash usually separates the real title from a subtitle or outlet list
+        for sep in (" — ", " – ", " - "):
+            idx = t.find(sep)
+            if 20 <= idx <= limit:
+                t = t[:idx]
+                break
+        else:
+            head = t.split(",")[0].strip()
+            if "," in t and len(head) >= 12:
+                t = head
+            if len(t) > limit:
+                t = DANGLING.sub("", t[:limit].rsplit(" ", 1)[0])
+    t = t.strip()
+    if t[:1] in '"“' and t[-1:] in '"”':  # unwrap only a matched pair
+        t = t[1:-1].strip()
+    return t.rstrip(" ,-–—:;") or raw[:limit]
+
+
 def clean_title(title: str, url: str) -> str | None:
     title = norm_ws(title).strip("|-–— ")
-    if not title or len(title) < 3 or JUNK_TITLE.match(title):
+    if not title or len(title) < 3 or JUNK_TITLE.match(title) or SOCIAL_DUMP.search(title):
         return None
     title = STORE_PREFIX.sub("", title).strip() or title
     parts = urlparse(url)
@@ -77,7 +127,7 @@ def clean_title(title: str, url: str) -> str | None:
         brand = host.split(".")[0]
         if brand[:5] in tail.replace(" ", "") or len(tail) <= 18:
             title = stripped
-    return title[:120] or None
+    return shorten(title) or None
 
 
 def fetch_title(url: str, session: requests.Session) -> str | None:

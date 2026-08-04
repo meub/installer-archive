@@ -39,6 +39,15 @@ A few issues never made it into the web archive at all. For those, save the news
 
 Adding `?admin=1` to the site URL turns on a cleanup mode with a delete button on every entry. Marks collect in the browser, export as `deletions.json`, and `python -m scraper delete --file deletions.json` applies them to the issue files.
 
+## Built with Claude Code
+
+This project was built with [Claude Code](https://claude.com/claude-code), from the
+scraper and the site through to the AWS setup. Anthropic's Claude also does work
+inside the pipeline: `scraper enrich --llm` proposes a category and tags for each
+recommendation, and `scraper titles` falls back to it when a name can't be recovered
+from the linked page. Both write proposals into the issue files for review in a git
+diff rather than applying anything silently.
+
 ## Disclaimer
 
 This is an unofficial fan project, not affiliated with The Verge or Vox Media. The archive stores names, links, and short attributed excerpts, and every entry links back to the issue it came from. Content concerns: alexmeub@gmail.com. The code is MIT licensed.
