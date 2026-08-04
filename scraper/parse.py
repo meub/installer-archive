@@ -233,7 +233,7 @@ def _fix_name(a: Tag, a_text: str, container_text: str) -> tuple[str, bool]:
 
 def _item(name, url, blurb, section, *, alt_urls=None, category=None, recommender=None):
     return {
-        "name": norm_ws(name)[:120],
+        "name": norm_ws(name).rstrip(" ,;:")[:120],
         "url": url,
         "alt_urls": alt_urls or [],
         "category": category,
