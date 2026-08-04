@@ -457,6 +457,102 @@
    "blurb": "Someone posted on r/androidapps this week asking people to share the best apps they discovered this year.",
    "section": "signing-off",
    "recommender": null
+  },
+  {
+   "id": "2024-12-08-a-search-engine-episode",
+   "name": "a Search Engine episode",
+   "url": "https://pjvogt.substack.com/p/whos-behind-these-scammy-text-messages",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "newsletter"
+   ],
+   "blurb": "“ I tracked down my WhatsApp crypto scammers.” Christophe Haubursin’s new YouTube show, “Tunnel Vision,” looks extremely up my alley.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-08-hand-tool-set",
+   "name": "Hand Tool Set",
+   "url": "https://hototools.com/products/hand-tool-set",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "Hoto stuff. Hoto makes some of the most gadgety tools you’ll ever find — Ryan emailed in and called it “the Apple of tools.” I own and love the screwdriver, but I’m also kind of in love with this tool set, too.",
+   "section": "pro-tips",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-08-kristen-radtke",
+   "name": "Kristen Radtke",
+   "url": "http://kristenradtke.com/",
+   "alt_urls": [],
+   "category": "other",
+   "tags": [],
+   "blurb": "I always suspected Kristen Radtke, The Verge ’s creative director, might be the coolest person I know.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-08-seek-you-a-journey-through-american-loneliness",
+   "name": "Seek You: A Journey Through American Loneliness",
+   "url": "https://www.penguinrandomhouse.com/books/601951/seek-you-by-kristen-radtke/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
+   "blurb": "I always suspected Kristen Radtke, The Verge ’s creative director, might be the coolest person I know.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-08-david-pierce-imdavidpierce-on-threads",
+   "name": "David Pierce (@imdavidpierce) on Threads",
+   "url": "https://www.threads.net/@imdavidpierce/post/DDM8OsxpDev?xmt=AQGzs8qofrs38PVHqTUV3U0x4uaNIuACM2Y_WmjNiXD_Zw",
+   "alt_urls": [],
+   "category": "other",
+   "tags": [
+    "social"
+   ],
+   "blurb": "Here’s what the Installer community is into this week. I want to know what you’re into right now as well! Email installer@theverge.com or message me on Signal — @davidpierce.11 — with your recommendations for anything and everything, and we’ll feature some of our favorites here every week.",
+   "section": "crowdsourced",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-08-david-pierce-davidpierce-xyz",
+   "name": "David Pierce (@davidpierce.xyz)",
+   "url": "https://bsky.app/profile/davidpierce.xyz/post/3lckzz5uclz2g",
+   "alt_urls": [],
+   "category": "other",
+   "tags": [
+    "social"
+   ],
+   "blurb": "Here’s what the Installer community is into this week. I want to know what you’re into right now as well! Email installer@theverge.com or message me on Signal — @davidpierce.11 — with your recommendations for anything and everything, and we’ll feature some of our favorites here every week.",
+   "section": "crowdsourced",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-08-privacy-policy",
+   "name": "Privacy Policy",
+   "url": "https://www.voxmedia.com/pages/privacy-policy",
+   "alt_urls": [],
+   "category": "other",
+   "tags": [],
+   "blurb": "Vox Media has affiliate partnerships. These do not influence editorial content, though Vox Media may earn commissions for products purchased via affiliate links. For more information, see our ethics policy. View our Privacy Policy and our Terms of Service.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2024-12-08-terms-of-service",
+   "name": "Terms of Service",
+   "url": "https://www.voxmedia.com/pages/terms-of-use",
+   "alt_urls": [],
+   "category": "other",
+   "tags": [],
+   "blurb": "Vox Media has affiliate partnerships. These do not influence editorial content, though Vox Media may earn commissions for products purchased via affiliate links. For more information, see our ethics policy. View our Privacy Policy and our Terms of Service.",
+   "section": "signing-off",
+   "recommender": null
   }
  ]
 }
