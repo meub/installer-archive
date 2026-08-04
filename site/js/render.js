@@ -78,7 +78,7 @@ function mentionRow(rec, issue, onDelete) {
 
 function rowFor(group, issuesByDate, onTag, onDelete) {
   const members = group.members;
-  const rec = group.primary || members[0]; // best-described mention fronts the card
+  const rec = members[0]; // the mention that sets the group's place in the sort
   const li = el("li", "rec");
   const body = el("div", "rec-body");
 

@@ -1,6 +1,6 @@
 import MiniSearch from "../vendor/minisearch.js";
-import { readState, writeState, resetState } from "./urlstate.js?v=20";
-import { CATEGORY_LABELS, SECTION_LABELS, sectionLabel, createRenderer, fmtDate, fmtNum } from "./render.js?v=20";
+import { readState, writeState, resetState } from "./urlstate.js?v=21";
+import { CATEGORY_LABELS, SECTION_LABELS, sectionLabel, createRenderer, fmtDate, fmtNum } from "./render.js?v=21";
 
 const $ = (id) => document.getElementById(id);
 const state = readState();
@@ -225,11 +225,6 @@ let randOrder = null;
 // Collapse those into one card carrying every mention, keyed on the canonical
 // URL only — matching on name would wrongly merge vague titles like "a tool".
 
-const SECTION_RANK = {
-  "the-drop": 0, "signing-off": 1, "pro-tips": 2,
-  "group-project": 3, crowdsourced: 4, "screen-share": 5, intro: 6,
-};
-
 function canonUrl(u) {
   if (!u) return null;
   try {
@@ -255,16 +250,9 @@ function groupList(list) {
     if (key) byKey.set(key, group);
     out.push(group);
   }
-  // Mentions run newest first. The card's blurb comes from the best-described
-  // mention rather than simply the newest: a Drop write-up describes the thing,
-  // while a Screen Share or Crowdsourced aside only mentions it in passing.
-  for (const g of out) {
-    if (g.members.length > 1) g.members.sort((a, b) => b.date.localeCompare(a.date));
-    g.primary = g.members.reduce(
-      (best, m) => (SECTION_RANK[m.section] ?? 9) < (SECTION_RANK[best.section] ?? 9) ? m : best,
-      g.members[0],
-    );
-  }
+  // Members stay in the sorted list's order, so a group sits at its first
+  // member's position and the card shows that same mention. Anything else
+  // makes dates jump around as you scroll a date-ordered list.
   return out;
 }
 
