@@ -262,7 +262,13 @@ def _items_from_li(li: Tag, section: str) -> dict | None:
         name, url = text.split(".")[0][:80], None
     rest = text
     if name and rest.lower().startswith(name.lower()):
-        rest = rest[len(name):].lstrip(" .:—–-")
+        tail = rest[len(name):]
+        # Only drop the name when the source wrote it as a standalone lead-in
+        # ("007 First Light. I have played…"). When it's an appositive
+        # ("Obsidian, one of my favorites, is…") removing it leaves a stray
+        # comma and a broken sentence, so keep the whole line.
+        if re.match(r"\s*[.:!?]\s+|\s*[—–]\s+|\s+-\s+", tail):
+            rest = tail.lstrip(" .:!?—–-")
     return _item(name, url, rest or text, section, alt_urls=alts)
 
 

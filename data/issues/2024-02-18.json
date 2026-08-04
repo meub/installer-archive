@@ -85,7 +85,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "Recently, for reasons I hope to someday be able to tell you about, I’ve been deep down the rabbit hole of awesome old gadgets.",
+   "blurb": "The ONE thing keeping this iconic vintage laptop from working… Recently, for reasons I hope to someday be able to tell you about, I’ve been deep down the rabbit hole of awesome old gadgets.",
    "section": "the-drop",
    "recommender": null
   },
@@ -195,7 +195,7 @@
     "mac",
     "productivity"
    ],
-   "blurb": "is where I keep my actual journal, and every month or so I export the whole thing to a PDF.",
+   "blurb": "Day One is where I keep my actual journal, and every month or so I export the whole thing to a PDF.",
    "section": "spotlight",
    "recommender": null
   },
@@ -206,13 +206,13 @@
    "alt_urls": [],
    "category": "other",
    "tags": [],
-   "blurb": "tire camera roll and Google Photos library to an external hard drive. All the other stuff goes into Google Drive, and onto that same hard drive.",
+   "blurb": "Once a year or so, when I’m feeling both bored and ambitious, I’ll back up my entire camera roll and Google Photos library to an external hard drive. All the other stuff goes into Google Drive, and onto that same hard drive.",
    "section": "spotlight",
    "recommender": null
   },
   {
    "id": "2024-02-18-this-is-an-iphone-14-i-believe",
-   "name": "This is an iPhone 14, I believe",
+   "name": "iPhone 14",
    "url": null,
    "alt_urls": [],
    "category": "gadget",
@@ -288,7 +288,7 @@
   },
   {
    "id": "2024-02-18-a-new-comedy-special-on-netflix",
-   "name": "a new comedy special on Netflix",
+   "name": "Jacqueline Novak: Get on Your Knees",
    "url": "https://www.themoviedb.org/movie/1214980-jacqueline-novak-get-on-your-knees",
    "alt_urls": [],
    "category": "media",

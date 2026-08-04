@@ -111,7 +111,7 @@
     "cross-platform",
     "subscription"
    ],
-   "blurb": "I continue to think Notion is a remarkable piece of software that is just slow and annoying enough to make me constantly want to switch. But these are really nice changes: tabs and heading upgrades, a vastly cleaner sidebar, archives in databases, and more. Hey app developers everywhere?",
+   "blurb": "Notion 3.4. I continue to think Notion is a remarkable piece of software that is just slow and annoying enough to make me constantly want to switch. But these are really nice changes: tabs and heading upgrades, a vastly cleaner sidebar, archives in databases, and more.",
    "section": "the-drop",
    "recommender": null
   },
@@ -128,7 +128,7 @@
   },
   {
    "id": "2026-03-28-a-switch-i-made-a-while-ago",
-   "name": "a switch I made a while ago",
+   "name": "A New [Home Screen] Thought Technology",
    "url": "https://www.caseyliss.com/2025/1/4/a-new-homescreen-thought-technology",
    "alt_urls": [],
    "category": "other",
@@ -363,7 +363,7 @@
   },
   {
    "id": "2026-03-28-my-work",
-   "name": "my work",
+   "name": "Accidental Tech Podcast",
    "url": "https://atp.fm/",
    "alt_urls": [],
    "category": "other",
@@ -579,7 +579,7 @@
   },
   {
    "id": "2026-03-28-an-open-source-project",
-   "name": "an open-source project",
+   "name": "Crosspoint Reader",
    "url": "https://github.com/crosspoint-reader/crosspoint-reader",
    "alt_urls": [],
    "category": "app",

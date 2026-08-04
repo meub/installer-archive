@@ -28,7 +28,7 @@
    "tags": [
     "ios"
    ],
-   "blurb": ": I hate the IMDb app and the website with the huge banner telling you about the app. Callsheet is way better: a super-fast iPhone and iPad app for looking up cast and crew in whatever you’re watching, and JustWatch integration in case you wind up finding something more interesting to watch.",
+   "blurb": "Callsheet: I hate the IMDb app and the website with the huge banner telling you about the app.",
    "section": "the-drop",
    "recommender": null
   },
@@ -41,7 +41,7 @@
    ],
    "category": "media",
    "tags": [],
-   "blurb": ": Nathan Pyle’s comic has been one of the best things on Instagram for years, and I’ve been really enjoying the new animated show as well. It has some Rick and Morty and Bojack Horseman DNA, plus a little bit of Ted Lasso vibes?",
+   "blurb": "Strange Planet on Apple TV Plus: Nathan Pyle’s comic has been one of the best things on Instagram for years, and I’ve been really enjoying the new animated show as well. It has some Rick and Morty and Bojack Horseman DNA, plus a little bit of Ted Lasso vibes?",
    "section": "the-drop",
    "recommender": null
   },
@@ -56,7 +56,7 @@
     "productivity",
     "ai"
    ],
-   "blurb": ": Goodnotes is my favorite cross-platform tool for handwritten notes, and it just got some really clever updates — including an AI tool that can learn your handwriting, correct your spelling, and even write longhand for you. Wild.",
+   "blurb": "Goodnotes 6.0: Goodnotes is my favorite cross-platform tool for handwritten notes, and it just got some really clever updates — including an AI tool that can learn your handwriting, correct your spelling, and even write longhand for you. Wild.",
    "section": "the-drop",
    "recommender": null
   },
@@ -69,7 +69,7 @@
    ],
    "category": "gadget",
    "tags": [],
-   "blurb": ": My colleague Sean Hollister called this “the best official blaster ever made,” and trust me, Sean knows his stuff. It’s the first-ever official Nerf blaster to use half-length darts, and it’s modded for outrageous firepower.",
+   "blurb": "Nerf Pro Stryfe X: My colleague Sean Hollister called this “the best official blaster ever made,” and trust me, Sean knows his stuff. It’s the first-ever official Nerf blaster to use half-length darts, and it’s modded for outrageous firepower.",
    "section": "the-drop",
    "recommender": null
   },
@@ -82,7 +82,7 @@
    "tags": [
     "movie"
    ],
-   "blurb": ": A new doc from Alex Winter about the whole story of YouTube. There’s good, there’s bad, Section 230 appears, and it doesn’t cover a huge amount of new ground, but it’s a really good dive into the nuances of the platform.",
+   "blurb": "The YouTube Effect: A new doc from Alex Winter about the whole story of YouTube. There’s good, there’s bad, Section 230 appears, and it doesn’t cover a huge amount of new ground, but it’s a really good dive into the nuances of the platform.",
    "section": "the-drop",
    "recommender": null
   },
@@ -97,7 +97,7 @@
    "tags": [
     "android"
    ],
-   "blurb": ": Shortwave is one of the few email apps I think is onto something really right. It’s a bit like Google Inbox in that it’s constantly sorting and categorizing your inbox to make it work. The Android app is a little buggy in this first iteration, but it’s still one to try.",
+   "blurb": "Shortwave for Android: Shortwave is one of the few email apps I think is onto something really right. It’s a bit like Google Inbox in that it’s constantly sorting and categorizing your inbox to make it work. The Android app is a little buggy in this first iteration, but it’s still one to try.",
    "section": "the-drop",
    "recommender": null
   },
@@ -112,7 +112,7 @@
    "tags": [
     "ios"
    ],
-   "blurb": ": Netflix has been pushing into gaming for a while now, but this is the most interesting development yet — it’s building a controller app that you use to play games on your TV. It seems super early and maybe wasn’t released intentionally at all, but keep an eye on this one.",
+   "blurb": "Netflix Game Controller: Netflix has been pushing into gaming for a while now, but this is the most interesting development yet — it’s building a controller app that you use to play games on your TV. It seems super early and maybe wasn’t released intentionally at all, but keep an eye on this one.",
    "section": "the-drop",
    "recommender": null
   },
@@ -127,7 +127,7 @@
    "tags": [
     "paid"
    ],
-   "blurb": ": I have two competing thoughts on all these incredibly cool new Lego sets. One is they are absurdly, preposterously expensive — this one is $200 and isn’t even the worst you’ll find. But the second is that I want them all so, so, so bad.",
+   "blurb": "The Lego Concorde: I have two competing thoughts on all these incredibly cool new Lego sets. One is they are absurdly, preposterously expensive — this one is $200 and isn’t even the worst you’ll find. But the second is that I want them all so, so, so bad.",
    "section": "the-drop",
    "recommender": null
   },
@@ -169,7 +169,7 @@
   },
   {
    "id": "2023-08-13-this-tiktok",
-   "name": "This TikTok",
+   "name": "Twisted Metal",
    "url": "https://www.tiktok.com/t/ZT8N1hmad/",
    "alt_urls": [],
    "category": "media",
@@ -310,7 +310,7 @@
   },
   {
    "id": "2023-08-13-a-two-hour-video",
-   "name": "a two-hour video",
+   "name": "TV Guide Channel (September 23, 2003)",
    "url": "https://www.youtube.com/watch?v=VFAOTOZaehg",
    "alt_urls": [],
    "category": "media",

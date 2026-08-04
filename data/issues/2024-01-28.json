@@ -100,7 +100,7 @@
     "podcast",
     "free"
    ],
-   "blurb": "This podcast has done a bunch of really great deep dives on tech sounds over the years, like the Netflix sound and the noises electric cars make and the omnipresent TikTok narrator. This one, on the sound you hear every time you open Hulu, is another great entrant in the series.",
+   "blurb": "Twenty Thousand Hertz: “Into The Huluverse.” This podcast has done a bunch of really great deep dives on tech sounds over the years, like the Netflix sound and the noises electric cars make and the omnipresent TikTok narrator.",
    "section": "the-drop",
    "recommender": null
   },
@@ -140,7 +140,7 @@
    "tags": [
     "travel"
    ],
-   "blurb": ", medium sized.",
+   "blurb": "An Away suitcase, medium sized.",
    "section": "setups",
    "recommender": null
   },
@@ -156,7 +156,7 @@
     "travel",
     "photography"
    ],
-   "blurb": ", with two camera cubes inside.",
+   "blurb": "The Peak Design Travel Backpack, with two camera cubes inside.",
    "section": "setups",
    "recommender": null
   },
@@ -407,7 +407,7 @@
   },
   {
    "id": "2024-01-28-this-are-na-board",
-   "name": "This Are.na board",
+   "name": "we drink light",
    "url": "https://www.are.na/a-sta/we-drink-light",
    "alt_urls": [],
    "category": "other",

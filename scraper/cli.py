@@ -163,6 +163,12 @@ def main(argv=None) -> int:
     b = sub.add_parser("build", help="validate + compile site/data/archive.json")
     b.add_argument("--allow-shrink", action="store_true")
 
+    t = sub.add_parser("titles", help="repair vague names from the linked source")
+    t.add_argument("--dry-run", action="store_true", help="report changes, write nothing")
+    t.add_argument("--no-llm", action="store_true", help="skip the blurb-inference step")
+    t.add_argument("--model", default="claude-opus-5")
+    t.add_argument("--limit", type=int)
+
     d = sub.add_parser("delete", help="remove recommendations by id (admin cleanup)")
     d.add_argument("ids", nargs="*", help="recommendation ids")
     d.add_argument("--file", help="deletions.json downloaded from the site's admin mode")
@@ -181,6 +187,11 @@ def main(argv=None) -> int:
         return cmd_parse(args)
     if args.cmd == "enrich":
         enrich.run(dates=args.date, llm=args.llm, model=args.model)
+        return 0
+    if args.cmd == "titles":
+        from scraper import titles
+        titles.run(dry_run=args.dry_run, llm=not args.no_llm,
+                   model=args.model, limit=args.limit)
         return 0
     if args.cmd == "delete":
         return cmd_delete(args)

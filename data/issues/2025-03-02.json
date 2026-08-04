@@ -199,7 +199,7 @@
   },
   {
    "id": "2025-03-02-a-udio-technica",
-   "name": "A udio Technica",
+   "name": "Turntables",
    "url": "https://www.audio-technica.com/en-us/turntables",
    "alt_urls": [
     "https://uturnaudio.com/products/orbit-basic-turntable",
@@ -230,14 +230,14 @@
   },
   {
    "id": "2025-03-02-there-is-a-strong-preference-for-streaming-audio",
-   "name": "There is a strong preference for streaming audio over Chromecast Audio, rather t",
+   "name": "Chromecast Audio",
    "url": null,
    "alt_urls": [],
    "category": "other",
    "tags": [
     "music"
    ],
-   "blurb": "han AirPlay, Bluetooth, or anything else. The quality is better, and a bunch of you told me it’s more reliable and better synced across speakers.",
+   "blurb": "There is a strong preference for streaming audio over Chromecast Audio, rather than AirPlay, Bluetooth, or anything else. The quality is better, and a bunch of you told me it’s more reliable and better synced across speakers.",
    "section": "group-project",
    "recommender": null
   },
@@ -523,7 +523,7 @@
   },
   {
    "id": "2025-03-02-another-one-on-hawk-tuah",
-   "name": "another one on Hawk Tuah",
+   "name": "You Can’t Spell Famous Without “Us”: The Rise of Hawk Tuah",
    "url": "https://www.youtube.com/watch?v=zyrooi9dAV0",
    "alt_urls": [],
    "category": "media",

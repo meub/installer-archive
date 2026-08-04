@@ -1,6 +1,6 @@
 import MiniSearch from "../vendor/minisearch.js";
-import { readState, writeState, resetState } from "./urlstate.js?v=19";
-import { CATEGORY_LABELS, SECTION_LABELS, sectionLabel, createRenderer, fmtDate, fmtNum } from "./render.js?v=19";
+import { readState, writeState, resetState } from "./urlstate.js?v=20";
+import { CATEGORY_LABELS, SECTION_LABELS, sectionLabel, createRenderer, fmtDate, fmtNum } from "./render.js?v=20";
 
 const $ = (id) => document.getElementById(id);
 const state = readState();
@@ -129,14 +129,10 @@ function buildStatBadges() {
     s.append(b, document.createTextNode(label));
     return s;
   };
-  wrap.append(statOf(allGroups.length, "items"));
+  wrap.append(statOf(recs.length, "recs"));
 
-  // counts follow what the list shows: unique items, not total mentions
   const catCounts = new Map();
-  for (const g of allGroups) {
-    const c = g.members[0].category;
-    if (c) catCounts.set(c, (catCounts.get(c) || 0) + 1);
-  }
+  for (const r of recs) if (r.category) catCounts.set(r.category, (catCounts.get(r.category) || 0) + 1);
   const ordered = [...catCounts.entries()]
     .filter(([key, n]) => n && key !== "other" && CATEGORY_LABELS[key])
     .sort((a, b) => b[1] - a[1]);
@@ -272,8 +268,6 @@ function groupList(list) {
   return out;
 }
 
-const allGroups = groupList(recs);
-
 function currentList() {
   let list = recs;
   if (admin.deleted.size) list = list.filter((r) => !admin.deleted.has(r.id));
@@ -315,8 +309,8 @@ function apply() {
   const groups = groupList(list);
   renderer.set(groups);
   $("count").textContent = filtersActive()
-    ? `${fmtNum(groups.length)} of ${fmtNum(allGroups.length)}`
-    : `${fmtNum(groups.length)} items · ${fmtNum(recs.length)} recommendations`;
+    ? `${fmtNum(list.length)} of ${fmtNum(recs.length)}`
+    : `${fmtNum(recs.length)} recommendations`;
   syncMoreFilters();
   $("empty").hidden = list.length > 0;
   $("clear-btn").hidden = !filtersActive();

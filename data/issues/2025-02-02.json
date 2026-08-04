@@ -53,7 +53,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "My favorite tech-related SNL skit in a minute — the idea of teaching things via an AI-generated bro-y podcast is barely even a joke anymore, and the cadence of the podcast is perfect. I assume the NotebookLM team is very happy about this.",
+   "blurb": "“AI Software.” My favorite tech-related SNL skit in a minute — the idea of teaching things via an AI-generated bro-y podcast is barely even a joke anymore, and the cadence of the podcast is perfect. I assume the NotebookLM team is very happy about this.",
    "section": "the-drop",
    "recommender": null
   },
@@ -94,7 +94,7 @@
    "tags": [
     "video"
    ],
-   "blurb": "” This is so interesting! Nothing got Marques Brownlee to spec out his ideal phone, and it does a really good job of running down what that phone would cost, how companies pick parts, and why it’s all more complicated than it sounds.",
+   "blurb": "“We made MKBHD’s Dream Phone. ” This is so interesting! Nothing got Marques Brownlee to spec out his ideal phone, and it does a really good job of running down what that phone would cost, how companies pick parts, and why it’s all more complicated than it sounds.",
    "section": "the-drop",
    "recommender": null
   },
@@ -403,7 +403,7 @@
   },
   {
    "id": "2025-02-02-a-great-youtube-tour",
-   "name": "a great YouTube tour",
+   "name": "Playing Alternate Shot At The TGL Stadium",
    "url": "https://www.youtube.com/watch?v=PEMU-HzSoEE",
    "alt_urls": [],
    "category": "media",

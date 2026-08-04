@@ -164,7 +164,7 @@
     "subscription",
     "cross-platform"
    ],
-   "blurb": "is the clear leader here. Apple Music was a pretty close second though, and the Apple Music users seem a lot happier than the Spotify users… The funniest thing I heard over and over was “I tried YouTube Music because I get it for free, but it’s not very good.” Which, same. I feel you.",
+   "blurb": "Spotify is the clear leader here. Apple Music was a pretty close second though, and the Apple Music users seem a lot happier than the Spotify users… The funniest thing I heard over and over was “I tried YouTube Music because I get it for free, but it’s not very good.” Which, same. I feel you.",
    "section": "group-project",
    "recommender": null
   },
@@ -214,7 +214,7 @@
     "cross-platform",
     "subscription"
    ],
-   "blurb": "and Roon both came up a lot as a way to manage and access your music collection from anywhere. ( Supersonic also has some fans.) Plexamp in particular was probably the most-recommended piece of software in my inbox this week.",
+   "blurb": "Plexamp and Roon both came up a lot as a way to manage and access your music collection from anywhere. ( Supersonic also has some fans.) Plexamp in particular was probably the most-recommended piece of software in my inbox this week.",
    "section": "group-project",
    "recommender": null
   },
@@ -264,7 +264,7 @@
     "music",
     "utilities"
    ],
-   "blurb": "and Exact Audio Copy got a lot of love as a way to rip CDs, and Mp3tag seems to be a great way to manage all kinds of tags and metadata.",
+   "blurb": "XLD and Exact Audio Copy got a lot of love as a way to rip CDs, and Mp3tag seems to be a great way to manage all kinds of tags and metadata.",
    "section": "group-project",
    "recommender": null
   },
@@ -596,7 +596,7 @@
   },
   {
    "id": "2025-02-23-this-great-half-as-interesting-video",
-   "name": "this great Half as Interesting video",
+   "name": "Why Chess Strategy Changes Every Year",
    "url": "https://www.youtube.com/watch?v=ByHOmfgaVz8",
    "alt_urls": [],
    "category": "media",

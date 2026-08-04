@@ -267,7 +267,7 @@
     "website",
     "free"
    ],
-   "blurb": ", a great site for finding ebook sales, came up a bunch. So did Chirp, its sister site for audiobooks.",
+   "blurb": "BookBub, a great site for finding ebook sales, came up a bunch. So did Chirp, its sister site for audiobooks.",
    "section": "group-project",
    "recommender": null
   },
@@ -461,7 +461,7 @@
   },
   {
    "id": "2026-07-18-this-tested-video",
-   "name": "this Tested video",
+   "name": "How IMAX 70MM Film is Projected!",
    "url": "https://www.youtube.com/watch?v=7S_geBV5bLQ",
    "alt_urls": [],
    "category": "media",
@@ -474,7 +474,7 @@
   },
   {
    "id": "2026-07-18-this-christopher-nolan-interview",
-   "name": "this Christopher Nolan interview",
+   "name": "Christopher Nolan Breaks Down Every Format to Watch The Odyssey",
    "url": "https://www.youtube.com/watch?v=xhAFHWc93nY",
    "alt_urls": [],
    "category": "media",
@@ -500,7 +500,7 @@
   },
   {
    "id": "2026-07-18-this-excellent-explainer",
-   "name": "this excellent explainer",
+   "name": "What Makes IMAX Different",
    "url": "https://www.youtube.com/watch?v=ZFVwqi8sElI",
    "alt_urls": [],
    "category": "media",

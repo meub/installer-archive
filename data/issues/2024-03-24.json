@@ -183,7 +183,7 @@
     "android",
     "utilities"
    ],
-   "blurb": "re weirder and less reliable, in my experience. If you don’t want to use an app at all, you can probably just use a folder of photos, but the apps make it all better.",
+   "blurb": "You can do some of this in Google Wallet or Apple Wallet, but those interfaces are weirder and less reliable, in my experience. If you don’t want to use an app at all, you can probably just use a folder of photos, but the apps make it all better.",
    "section": "spotlight",
    "recommender": null
   },
@@ -210,7 +210,7 @@
     "ios",
     "utilities"
    ],
-   "blurb": "t-used card. So, like, Starbucks + grocery store + parking garage, all super easy to access. (It’s also really handy on the Apple Watch.)",
+   "blurb": "Barcodes has some really great widgets, and I’d set one of them up with your most-used card. So, like, Starbucks + grocery store + parking garage, all super easy to access. (It’s also really handy on the Apple Watch.)",
    "section": "spotlight",
    "recommender": null
   },
@@ -223,7 +223,7 @@
    "tags": [
     "utilities"
    ],
-   "blurb": "that can’t quite scan a code on your phone. I haven’t had any issues yet, but maybe don’t throw away your most important cards just in case.",
+   "blurb": "I’ve seen some stories about scanners, especially old ones or ones at an angle, that can’t quite scan a code on your phone. I haven’t had any issues yet, but maybe don’t throw away your most important cards just in case.",
    "section": "spotlight",
    "recommender": null
   },
@@ -264,7 +264,7 @@
   },
   {
    "id": "2024-03-24-my-primer-on-mister-here",
-   "name": "my primer on MiSTer here",
+   "name": "MiSTer 101: A classic gaming device to rule them all",
    "url": "https://www.polygon.com/22640171/mister-project-classic-gaming-retro-fpga-board-chip-io-explainer-usb-hub",
    "alt_urls": [],
    "category": "media",
@@ -288,7 +288,7 @@
   },
   {
    "id": "2024-03-24-this-video",
-   "name": "This video",
+   "name": "A Look Inside Apple's $130 USB",
    "url": "https://www.youtube.com/watch?v=AD5aAd8Oy84",
    "alt_urls": [],
    "category": "media",
