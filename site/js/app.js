@@ -1,6 +1,6 @@
 import MiniSearch from "../vendor/minisearch.js";
-import { readState, writeState, resetState } from "./urlstate.js?v=21";
-import { CATEGORY_LABELS, SECTION_LABELS, sectionLabel, createRenderer, fmtDate, fmtNum } from "./render.js?v=21";
+import { readState, writeState, resetState } from "./urlstate.js?v=22";
+import { CATEGORY_LABELS, SECTION_LABELS, sectionLabel, createRenderer, fmtDate, fmtNum } from "./render.js?v=22";
 
 const $ = (id) => document.getElementById(id);
 const state = readState();
@@ -54,14 +54,44 @@ if (data.issues.length) $("updated").textContent = `Updated ${fmtDate(data.issue
 
 // -------------------------------------------------------------- search index
 
+// Dropped from queries only, never from the index, so a title's own "the"
+// still matches while a query's "the" doesn't drag in most of the archive.
+const STOPWORDS = new Set(["the", "of", "a", "an", "and", "or", "to", "in", "for",
+  "on", "at", "is", "it", "its", "this", "that", "with", "from", "by", "as", "be",
+  "are", "was"]);
+
+const SEARCH_OPTS = {
+  boost: { name: 3, tagstr: 2 },
+  prefix: true,
+  // MiniSearch reads a numeric `fuzzy` as a fraction of term length and rounds,
+  // so every term of four letters or more got one free edit — enough to turn
+  // "nerf" into "nerd". Short terms now match exactly; longer ones can flex.
+  fuzzy: (term) => (term.length <= 4 ? false : 0.2),
+  weights: { fuzzy: 0.2, prefix: 0.5 },
+  processTerm: (term) => {
+    const t = term.toLowerCase();
+    return STOPWORDS.has(t) ? null : t;
+  },
+};
+
 const mini = new MiniSearch({
   fields: ["name", "blurb", "tagstr", "recommender"],
   storeFields: [],
-  searchOptions: { boost: { name: 3, tagstr: 2 }, prefix: true, fuzzy: 0.15 },
+  searchOptions: SEARCH_OPTS,
 });
 mini.addAll(recs.map((r) => ({
   id: r.id, name: r.name, blurb: r.blurb, tagstr: r.tags.join(" "), recommender: r.recommender || "",
 })));
+
+// Require every term first, which keeps multi-word queries tight, then fall
+// back to any-term when that finds too little — a query like "revenge of the
+// nerfs" has no single entry holding all of it.
+function searchHits(q) {
+  const all = mini.search(q, { combineWith: "AND" });
+  if (all.length >= 5) return all;
+  const loose = mini.search(q);
+  return loose.length > all.length ? loose : all;
+}
 
 // ------------------------------------------------------------------- filters
 
@@ -267,7 +297,7 @@ function currentList() {
   let rank = null;
   const q = state.q.trim();
   if (q) {
-    rank = new Map(mini.search(q).map((res, i) => [res.id, i]));
+    rank = new Map(searchHits(q).map((res, i) => [res.id, i]));
     list = list.filter((r) => rank.has(r.id));
   }
 
