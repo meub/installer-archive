@@ -1,0 +1,286 @@
+{
+ "schema": 1,
+ "date": "2026-08-22",
+ "post_type": "issue",
+ "title": "Two great new repairable gadgets",
+ "url": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
+ "author": "Jay Peters",
+ "number": 141,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-22T14:56:01+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-08-22-the-fairphone-6-plus",
+   "name": "The Fairphone 6 Plus",
+   "url": "https://us.fairphone.com/the-fairphone-gen-6-plus",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=bRI03bLeLIA"
+   ],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
+   "blurb": "For the first time, Fairphone is selling one of its ultra-repairable smartphones directly in the US. With its better chip and bump up to 12GB of RAM, the 6 Plus looks like a nice improvement from last year’s model.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-22-frameworks-laptop-12",
+   "name": "Framework’s Laptop 12",
+   "url": "https://frame.work/laptop12",
+   "alt_urls": [
+    "https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows",
+    "https://www.theverge.com/news/824780/this-is-our-year"
+   ],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "Framework launched a second generation of its 12-inch convertible laptop, and it offers Intel’s latest Core Series 3 processors as well as options for a fingerprint reader and a backlit keyboard.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-22-sennheisers-momentum-true-wireless-5-earbuds",
+   "name": "Sennheiser’s Momentum True Wireless 5 earbuds",
+   "url": null,
+   "alt_urls": [
+    "https://www.theverge.com/tech/982216/sennheiser-momentum-true-wireless-5-earbuds-replaceable-batteries"
+   ],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "Sennheiser’s redesigned wireless earbuds and the case both have user-replaceable batteries. They also come in some slick metallic colors. Apple, take note.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-22-dartwords",
+   "name": "Dartwords",
+   "url": "https://www.dartwords.com/",
+   "alt_urls": [
+    "https://www.theverge.com/entertainment/981014/dartwords-clippy-word-game"
+   ],
+   "category": "game",
+   "tags": [
+    "web"
+   ],
+   "blurb": "This new daily puzzle game from the creators of Blaseball tasks you with getting a darts bull’s-eye by guessing the correct word. If you’re getting bored with Wordle, Dartwords is a clever twist on the word game format.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-22-mutiny",
+   "name": "Mutiny",
+   "url": "https://www.themoviedb.org/movie/1288445-mutiny?language=en-US",
+   "alt_urls": [
+    "https://www.theverge.com/entertainment/981943/amazon-prime-video-mutiny-movie-leak"
+   ],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "This movie about Jason Statham doing Jason Statham action movie stuff on a cargo ship looks like a big, dumb, and fun summer blockbuster that’s probably a blast in theaters.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-22-mortal-shell-ii",
+   "name": "Mortal Shell II",
+   "url": "https://mortalshell.com/",
+   "alt_urls": [
+    "https://kotaku.com/mortal-shell-2-the-kotaku-review-2000725071"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "I never played the first Mortal Shell, but I’m seeing a lot of praise for this new action RPG. Kotaku calls it a “third-person doom metal Soulslike,” and honestly, that’s all I need to hear.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-22-polaroids-pokemon-cameras",
+   "name": "Polaroid’s Pokémon cameras",
+   "url": "https://press.polaroid.com/268149-polaroid-unveils-pokemon-collaboration-with-nine-special-edition-pieces/",
+   "alt_urls": [
+    "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Pok%C3%A9dex"
+   ],
+   "category": "gadget",
+   "tags": [
+    "photography"
+   ],
+   "blurb": "A Polaroid camera that’s themed after a Poké Ball? This is the coolest thing for my 10-year-old self since the Pokédex toy.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-22-still-my-iphone-16-pro-i-talked-about-last-year",
+   "name": "Still my iPhone 16 Pro I talked about last year",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: Still my iPhone 16 Pro I talked about last year. I still think it’s too heavy and too big, and I still miss my iPhone 12 Mini. Next time, I’m going to buy whatever the lightest but newest iPhone is at that time.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-22-the-grayscale-mode",
+   "name": "the grayscale mode",
+   "url": "https://www.wired.com/story/grayscale-ios-android-smartphone-addiction/",
+   "alt_urls": [],
+   "category": "feature",
+   "tags": [],
+   "blurb": "I sometimes turn on the grayscale mode, too — I even have a Control Center toggle for it — but that’s a pain when I want to look at a picture of my daughter.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-22-inside-the-box",
+   "name": "Inside the Box",
+   "url": "https://www.penguinrandomhouse.com/books/737494/inside-the-box-by-david-epstein/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
+   "blurb": "My favorite book in recent memory is Inside the Box by David Epstein.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-22-moon-ball",
+   "name": "Moon Ball",
+   "url": "https://waboba.com/products/moon?variant=10356591296559",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The Moon Ball.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-22-xteink",
+   "name": "XTeink",
+   "url": "https://www.xteink.com/?srsltid=AfmBOoq4QMrCmgQ2gvjAB1iDP7Zp7WAprP86grPUuHp4KUvp-mrtBM7v",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "Reading blog posts from the Atmosphere on my XTeink reader and loving it.",
+   "section": "crowdsourced",
+   "recommender": "Tynan (reader)"
+  },
+  {
+   "id": "2026-08-22-the-incident-at-galley-house",
+   "name": "The Incident at Galley House",
+   "url": "https://galley.house/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Played / playing three excellent indie mystery games on Steam Deck: The Incident at Galley House, The Excavation of Hob’s Barrow, and The Mermaid Mask.",
+   "section": "crowdsourced",
+   "recommender": "Matt (Jay note: I cosign The Mermaid Mask .) (reader)"
+  },
+  {
+   "id": "2026-08-22-the-excavation-of-hobs-barrow",
+   "name": "The Excavation of Hob’s Barrow",
+   "url": "https://wadjeteyegames.com/games/the-excavation-of-hobs-barrow/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Played / playing three excellent indie mystery games on Steam Deck: The Incident at Galley House, The Excavation of Hob’s Barrow, and The Mermaid Mask.",
+   "section": "crowdsourced",
+   "recommender": "Matt (Jay note: I cosign The Mermaid Mask .) (reader)"
+  },
+  {
+   "id": "2026-08-22-the-mermaid-mask",
+   "name": "The Mermaid Mask",
+   "url": "https://sfbgames.com/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Played / playing three excellent indie mystery games on Steam Deck: The Incident at Galley House, The Excavation of Hob’s Barrow, and The Mermaid Mask.",
+   "section": "crowdsourced",
+   "recommender": "Matt (Jay note: I cosign The Mermaid Mask .) (reader)"
+  },
+  {
+   "id": "2026-08-22-pokopia",
+   "name": "Pokopia",
+   "url": "https://pokopia.pokemon.com/en-us/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Still playing Pokopia.",
+   "section": "crowdsourced",
+   "recommender": "Joshi (reader)"
+  },
+  {
+   "id": "2026-08-22-diy-vinyl-kit",
+   "name": "DIY vinyl kit",
+   "url": "https://teenage.engineering/products/po-80",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [
+    "music"
+   ],
+   "blurb": "Just found out that Teenage Engineering has a DIY vinyl kit and basically about to hand over all my money.",
+   "section": "crowdsourced",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-22-spaceplan",
+   "name": "Spaceplan",
+   "url": "https://store.steampowered.com/app/616110/SPACEPLAN/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I’ve been playing an ace wee app called Spaceplan. Simple and small, but tells a big story and insanely addictive. Add to that it’s cheap and there are no IAPs.",
+   "section": "crowdsourced",
+   "recommender": "Chris (reader)"
+  },
+  {
+   "id": "2026-08-22-lost-weekend",
+   "name": "Lost Weekend",
+   "url": "https://phoebebridgers.com/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "music"
+   ],
+   "blurb": "Lost Weekend, the new Phoebe Bridgers LP. It’s the ‘I’ve nicked your Dad’s copy of Vekatimest ’ to Olivia Rodrigo’s ‘I’ve nicked his Head On The Door.’",
+   "section": "crowdsourced",
+   "recommender": "Iain (reader)"
+  },
+  {
+   "id": "2026-08-22-on-september-3rd",
+   "name": "on September 3rd",
+   "url": "https://www.youtube.com/watch?v=KOWRRB9-1IQ",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "The next series of Taskmaster, a hilarious show where five comedians compete in ridiculous tasks, debuts on September 3rd.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-22-sometime-in-september",
+   "name": "sometime in September",
+   "url": "https://people.com/the-great-british-baking-show-returns-next-month-for-new-season-12062250",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "And The Great British Bake Off (aka The Great British Baking Show in the US) will also premiere sometime in September, though a specific date hasn’t been announced.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

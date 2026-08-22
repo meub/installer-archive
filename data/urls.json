@@ -568,6 +568,12 @@
   "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor": {
    "status": "rejected"
   },
+  "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash": {
+   "status": "rejected"
+  },
   "https://www.theverge.com/apps/764070/russias-national-messenger-app-max-must-be-preinstalled-on-new-devices-soon": {
    "status": "rejected"
   },
@@ -584,6 +590,9 @@
    "status": "rejected"
   },
   "https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/gadgets/982513/best-buy-gift-card-in-store-deal": {
    "status": "rejected"
   },
   "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros": {
@@ -865,6 +874,9 @@
    "file": "2025-09-14.json"
   },
   "https://www.theverge.com/press-room/2023/8/11/23827622/the-verge-launches-installer-a-newsletter-about-the-next-big-things-to-download-watch-and-explore": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control": {
    "status": "rejected"
   },
   "https://www.theverge.com/tech/704138/i-need-your-help-for-installer": {
@@ -1266,7 +1278,21 @@
    "title": "The surprise must-see movie of the summer",
    "number": 140,
    "file": "2026-08-15.json"
+  },
+  "https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
+   "date": "2026-08-22",
+   "title": "Two great new repairable gadgets",
+   "number": 141,
+   "file": "2026-08-22.json"
+  },
+  "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri": {
+   "status": "rejected"
   }
  },
- "generated_at": "2026-08-16T21:16:57+00:00"
+ "generated_at": "2026-08-22T14:56:01+00:00"
 }
