@@ -562,10 +562,28 @@
   "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music": {
    "status": "rejected"
   },
+  "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor": {
+   "status": "rejected"
+  },
   "https://www.theverge.com/apps/764070/russias-national-messenger-app-max-must-be-preinstalled-on-new-devices-soon": {
    "status": "rejected"
   },
   "https://www.theverge.com/column/972937/foldable-phones-boring-apple": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/entertainment/975917/one-night-only-sex-purge-movie-questions-tech": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/gadgets/980064/sony-a7r-vi-6-hands-on-impressions-review": {
    "status": "rejected"
   },
   "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros": {
@@ -1220,7 +1238,35 @@
   },
   "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak": {
    "status": "rejected"
+  },
+  "https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/tech/976405/apple-telegram-ban-x-app-store-violations": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
+   "date": "2026-08-08",
+   "title": "My favorite feel-good show is back",
+   "number": 139,
+   "file": "2026-08-08.json"
+  },
+  "https://www.theverge.com/tech/979850/ohsnap-snap-grip-stand-review": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/tech/980359/ground-truth-justin-blinder-housing-affordable-bike-pedal": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer",
+   "date": "2026-08-15",
+   "title": "The surprise must-see movie of the summer",
+   "number": 140,
+   "file": "2026-08-15.json"
   }
  },
- "generated_at": "2026-08-03T17:54:41+00:00"
+ "generated_at": "2026-08-16T21:16:57+00:00"
 }

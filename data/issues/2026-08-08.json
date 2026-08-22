@@ -1,0 +1,374 @@
+{
+ "schema": 1,
+ "date": "2026-08-08",
+ "post_type": "issue",
+ "title": "My favorite feel-good show is back",
+ "url": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
+ "author": "David Pierce",
+ "number": 139,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-08T13:38:01+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-08-08-ted-lasso-season-4",
+   "name": "Ted Lasso season 4",
+   "url": "https://www.themoviedb.org/tv/97546-ted-lasso?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Lots of good reviews for the new season, which is also kind of a soft reboot of the franchise. And all the bad ones are like, “why isn’t there any conflict, this show is too happy,” which I count as a good review anyway. Give me more shows that make me feel better at the end of every episode.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-08-the-peak-design-city-backpack",
+   "name": "The Peak Design City Backpack",
+   "url": "https://www.peakdesign.com/products/city-backpack?Size=15L&Color=Black",
+   "alt_urls": [
+    "https://www.theverge.com/tech/973624/peak-design-city-line-details-price"
+   ],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The whole lineup of City products — which includes totes, crossbody bags, and more — looks great, but I’m a backpack guy at heart. Love a dedicated AirTag pocket, love an integrated hook, love the mix of clean design and tons of organization. I really don’t need a new backpack, and yet…",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-08-bose-quietcomfort-headphones",
+   "name": "Bose QuietComfort headphones",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://www.bose.com/p/headphones/bose-quietcomfort-headphones-2nd-gen/QC2G-HEADPHONEARN.html?cjdata=MXxOfDB8WXww&Publisher=Vox+Media&cjevent=4d65145a919d11f182a500ec0a82b832",
+   "alt_urls": [
+    "https://www.theverge.com/tech/975643/bose-quietcomfort-wireless-headphones-anc-immersive-spatial-audio"
+   ],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "Noise-canceling headphones are like AI models, in that it seems every one’s the best until the next one comes out three days later. I’m excited about Bose’s adaptive EQ for dialogue and the improved passthrough when you want the ANC off. I also like the mint color. A lot.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-08-nothings-cmf-clip-pro",
+   "name": "Nothing’s CMF Clip Pro",
+   "url": "https://us.nothing.tech/products/cmf-clip-pro?Colour=Coral",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "More headphones! Nothing’s buds are generally hard to beat for $100. Also, open earbuds are awesome. Throw in the awesome orange color I already love in my Shokz headphones, and I’m getting alarmingly close to two headphone purchases this week.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-08-tony",
+   "name": "Tony",
+   "url": "https://www.themoviedb.org/movie/1329016-tony?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "After BlackBerry, director Matt Johnson is officially in my “I will watch anything he does” category of filmmakers. Johnson’s latest, a story about how Anthony Bourdain got his start as a chef, has gotten good reviews and is very much at the intersection of all my interests.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-08-sunbird",
+   "name": "Sunbird",
+   "url": "https://play.google.com/store/apps/details?id=com.sunbird.apps",
+   "alt_urls": [
+    "https://www.theverge.com/tech/975563/imessage-android-sunbird"
+   ],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "“iMessage for Android” is one of those ideas that just won’t quit, and now Sunbird is back with big promises about fixing its previous security issues. You should always tread super carefully with these messaging aggregators, but they really are a useful idea.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-08-notability-for-android",
+   "name": "Notability for Android",
+   "url": "https://play.google.com/store/apps/details?id=com.gingerlabs.notability",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "android"
+   ],
+   "blurb": "FINALLY. After months of promises and more months of beta tests, one of the most powerful note-taking apps is officially shipping to Android devices everywhere. I haven’t used it a ton, but so far it’s stable and fast — it’s a particularly big win if you’re the handwriting type.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-08-the-sega-dreamcast-watch",
+   "name": "The Sega Dreamcast Watch",
+   "url": "https://us.super-groupies.com/products/dreamcast-model-watch-sega-video-game-consoles",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "From Sega and SuperGroupies comes an extremely rad series of watches designed like old consoles. You can also get the Mega Drive and the Sega Saturn models, but for me there’s no beating the color pop of the Dreamcast’s controls.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-08-mors-imperator",
+   "name": "Mors Imperator",
+   "url": "https://www.theguardian.com/artanddesign/2026/mar/21/death-power-and-paranoia-painting-that-shocked-german-society-finally-returns-to-berlin",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "The wallpaper: My wallpaper is Mors Imperator (“Death Is the Ruler”), by the German artist Hermione von Preuschen.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-08-kerouac",
+   "name": "Kerouac",
+   "url": "https://www.kerouacapp.com/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [],
+   "blurb": "I definitely want to call out Kerouac (a writing studio for pro bloggers) and Post Through It (microblogging for one) which are PWAs of the apps I launched this year.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-08-post-through-it",
+   "name": "Post Through It",
+   "url": "https://postthroughit.com/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [],
+   "blurb": "I definitely want to call out Kerouac (a writing studio for pro bloggers) and Post Through It (microblogging for one) which are PWAs of the apps I launched this year.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-08-kobo",
+   "name": "Kobo",
+   "url": "https://www.kobo.com/us/en/p/apps",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [],
+   "blurb": "I keep the Kobo app in my dock so I push myself to read an actual book instead of doomscrolling; and I don’t keep any social media apps installed.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-08-buffer",
+   "name": "Buffer",
+   "url": "https://buffer.com/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [],
+   "blurb": "If I want to post, I have Buffer on my home screen, and it’s connected to my Hermes agent via MCP anyway.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-08-hermes",
+   "name": "Hermes",
+   "url": "https://hermes-agent.nousresearch.com/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [],
+   "blurb": "If I want to post, I have Buffer on my home screen, and it’s connected to my Hermes agent via MCP anyway.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-08-beeper",
+   "name": "Beeper",
+   "url": "https://www.beeper.com/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [],
+   "blurb": "I use Beeper to manage my chats across Discord, Slack, Telegram, Signal, WhatsApp, etc; it’s a fantastic tool that probably rescues me from chat hell a thousand times a day.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-08-genzd",
+   "name": "GenZD",
+   "url": "https://yoshisuga.github.io/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "GenZD and Marvel Unlimited are my favorites.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-08-marvel-unlimited",
+   "name": "Marvel Unlimited",
+   "url": "https://www.marvel.com/unlimited",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "GenZD and Marvel Unlimited are my favorites.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-08-mc-lars",
+   "name": "MC Lars",
+   "url": "https://mclars.com/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "I have rediscovered my love for MC Lars.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-08-good-for-me",
+   "name": "Good For Me by The Paradox",
+   "url": "https://www.youtube.com/watch?v=OEQITCAqyDcm",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "I recommend their track “ Good For Me,” which I think is going to be on their new EP in October.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-08-barbarians-at-the-gate-the-fall-of-rjr-nabisco",
+   "name": "Barbarians at the Gate: the Fall of RJR Nabisco",
+   "url": "https://www.harpercollins.com/products/barbarians-at-the-gate-bryan-burroughjohn-helyar?variant=40985031016482",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "I’ve been reading Barbarians at the Gate: the Fall of RJR Nabisco, by Bryan Burrough and John Helyar.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-08-daggerheart",
+   "name": "Daggerheart",
+   "url": "https://www.daggerheart.com/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "My brother has started us on a Daggerheart campaign.",
+   "section": "screen-share",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-08-madden-nfl-27-mobile",
+   "name": "Madden NFL 27 Mobile",
+   "url": "https://apps.apple.com/us/app/madden-nfl-27-mobile-football/id1512265589",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Madden NFL 27 Mobile came out! The wild part? The Apple Arcade version removes **ALL** of the recent enshittification: ads, virtual currencies, paywalls, etc. Add in the controller and Apple TV support, and it feels like playing Madden from the early 2000s, in the best way.",
+   "section": "crowdsourced",
+   "recommender": "Brian (reader)"
+  },
+  {
+   "id": "2026-08-08-retroid-pocket-nova",
+   "name": "Retroid Pocket Nova",
+   "url": "https://www.goretroid.com/products/retroid-pocket-nova-handheld",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "I’m waiting for my Retroid Pocket Nova so I can replay Rogue Squadron on GameCube and Need for Speed: Carbon on PS2, and I’m organizing my ROM library before it arrives.",
+   "section": "crowdsourced",
+   "recommender": "Josue (reader)"
+  },
+  {
+   "id": "2026-08-08-cachyos",
+   "name": "CachyOS",
+   "url": "https://cachyos.org/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [],
+   "blurb": "Moved my gaming PC to CachyOS (tried Bazzite before and got a little frustrated). So far it’s been amazing. Also, I just upgraded my PC case from an old NZXT one to a Fractal North. These cases are no joke. So well made.",
+   "section": "crowdsourced",
+   "recommender": "Kolin (reader)"
+  },
+  {
+   "id": "2026-08-08-fractal-north",
+   "name": "Fractal North",
+   "url": "https://www.fractal-design.com/products/cases/north/",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "Moved my gaming PC to CachyOS (tried Bazzite before and got a little frustrated). So far it’s been amazing. Also, I just upgraded my PC case from an old NZXT one to a Fractal North. These cases are no joke. So well made.",
+   "section": "crowdsourced",
+   "recommender": "Kolin (reader)"
+  },
+  {
+   "id": "2026-08-08-silo",
+   "name": "Silo",
+   "url": "https://www.themoviedb.org/tv/125988-silo?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Silo season three.",
+   "section": "crowdsourced",
+   "recommender": "Amanda (reader)"
+  },
+  {
+   "id": "2026-08-08-biological-war-a-scenario",
+   "name": "Biological War: A Scenario",
+   "url": "https://www.penguinrandomhouse.com/books/783250/biological-war-by-annie-jacobsen/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "Biological War: A Scenario from Annie Jacobsen, the author of Nuclear War: A Scenario. I honestly cannot believe it’s that easy to wipe us off the planet.",
+   "section": "crowdsourced",
+   "recommender": "Dawit (reader)"
+  },
+  {
+   "id": "2026-08-08-hoy",
+   "name": "Hoy",
+   "url": "https://www.heyiam.dk/hoy",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [],
+   "blurb": "Found this neat little Mac OS app, Hoy, for communicating via iCloud. Quite digging the simple UI and how it ‘sits’ nicely inside my menu bar.",
+   "section": "crowdsourced",
+   "recommender": "Julius (reader)"
+  },
+  {
+   "id": "2026-08-08-a-philosophy-of-software-design",
+   "name": "A Philosophy of Software Design",
+   "url": "https://web.stanford.edu/~ouster/cgi-bin/aposd.php",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [],
+   "blurb": "Reading John Ousterhout’s excellent A Philosophy of Software Design to get ready for a presentation I’m making at the gRPC conference next month.",
+   "section": "crowdsourced",
+   "recommender": "Tim (reader)"
+  },
+  {
+   "id": "2026-08-08-jaadugar-a-witch-in-mongolia",
+   "name": "Jaadugar: A Witch in Mongolia",
+   "url": "https://www.themoviedb.org/tv/288971-jaadugar-a-witch-in-mongolia",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Watching the anime Jaadugar: A Witch in Mongolia. I’m enjoying learning about that period of history (the show took me into a Wikipedia hole), and I’m excited to see how the magic elements come into play.",
+   "section": "crowdsourced",
+   "recommender": "J (reader)"
+  }
+ ]
+}

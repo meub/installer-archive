@@ -1,0 +1,455 @@
+{
+ "schema": 1,
+ "date": "2026-08-15",
+ "post_type": "issue",
+ "title": "The surprise must-see movie of the summer",
+ "url": "https://www.theverge.com/tech/980428/end-oak-street-pixel-11-lanterns-installer",
+ "author": "David Pierce",
+ "number": 140,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-16T21:16:57+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-08-15-the-end-of-oak-street",
+   "name": "The End of Oak Street",
+   "url": "https://www.themoviedb.org/movie/1101383-the-end-of-oak-street",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "movie"
+   ],
+   "blurb": "A little bit Wizard of Oz, a little bit Jurassic Park, a premise that nobody expected to work that apparently completely, totally, 100 percent works! This seems to be everybody’s pick for the surprise hit movie of the summer, and I cannot wait to see it.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-15-unforgetful",
+   "name": "Unforgetful",
+   "url": "https://unforgetful.app/",
+   "alt_urls": [
+    "https://marco.org/2026/08/14/unforgetful"
+   ],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
+   "blurb": "Marco Arment likes the Apple Reminders system but doesn’t like the Reminders app itself, so he built a better one — and wow is it a better one. With the better notifications and snoozing, plus a design I much prefer, I think this could be all the to-do list a lot of people need.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-15-the-google-pixel-11",
+   "name": "The Google Pixel 11",
+   "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://store.google.com/product/pixel_11?hl=en-US",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [
+    "android"
+   ],
+   "blurb": "Look, I don’t think this is the most exciting year in Pixel history. (And the Galaxy Z Fold 8 is still the most interesting phone of 2026.) But Google has the best take on Android, the most useful AI tools, and in this case some really thoughtful ideas about smartphone cameras.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-15-lanterns",
+   "name": "Lanterns",
+   "url": "https://www.themoviedb.org/tv/95350-lanterns",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Speaking of surprises! “Let’s do more Green Lantern stuff” is a sentence no one has said in a very long time.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-15-what-i-found-in-chinas-city-of-the-future",
+   "name": "What I found in China’s city of the future",
+   "url": "https://www.youtube.com/watch?v=fI3sSPFdxps",
+   "alt_urls": [
+    "https://www.youtube.com/watch?v=dgilcxWQYcs"
+   ],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "“ What I found in China’s city of the future.” Tom from Byte Review went to Shenzhen — as did Isaac from Canoopsy — and came back with interesting footage and interesting ideas about how China has embraced tech. Boy are the reasons for that complicated, and about a lot more than the tech industry.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-15-the-commodore-tac-2",
+   "name": "The Commodore TAC-2",
+   "url": "https://commodore.net/store/tac-2/",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "An all-time great joystick controller, resurrected with supposedly identical features and attention to detail, plus a little extra resilience. A lot of retro gamers still use the original model, and the new team at Commodore has done right by the old products so far… this should be great.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-15-matic-cues",
+   "name": "Matic Cues",
+   "url": "https://maticrobots.com/hey-matic",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
+   "blurb": "Matic was probably already the best robot vacuum on the planet, and this update might cement its place. Telling it where to go with your voice, or what to clean just by pointing at it? That’s the good robot stuff.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-15-bingers",
+   "name": "Bingers",
+   "url": "https://bingers.app/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "social"
+   ],
+   "blurb": "How did I miss this last week?! A new media-tracking app from the creator of TV Time, with a smart emphasis on discovery and reviews. There’s something Letterboxd-y about this app, in a great way.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-15-finalist-4",
+   "name": "Finalist 4",
+   "url": "https://www.finalist.works/4-0/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
+   "blurb": "This app has slowly but surely turned into one of the most robust and clever planner / to-do apps out there. The new update adds a note-taking feature I really like, and while I still find the design a smidge busy, I really like its ability to run your life all on one screen.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-15-its-a-samsung-galaxy-s24-ultra",
+   "name": "It’s a Samsung Galaxy S24 Ultra",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: It’s a Samsung Galaxy S24 Ultra. I feel kinda bad, what with a show on Apple TV right now, but Android is just better. I use a MacBook Air and iPad to help offset the guilt.",
+   "section": "screen-share",
+   "recommender": "Hugh"
+  },
+  {
+   "id": "2026-08-15-orca",
+   "name": "Orca",
+   "url": "https://getorca.com/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "travel"
+   ],
+   "blurb": "Orca is for navigation.",
+   "section": "screen-share",
+   "recommender": "Hugh"
+  },
+  {
+   "id": "2026-08-15-smart-fittings",
+   "name": "Smart Fittings",
+   "url": "https://www.cyclopsmarine.com/products/smartfittings-app/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "utilities"
+   ],
+   "blurb": "Smart Fittings tells me the current load in tons on the main shrouds, so we know when to put in a reef.",
+   "section": "screen-share",
+   "recommender": "Hugh"
+  },
+  {
+   "id": "2026-08-15-smartlife",
+   "name": "SmartLife",
+   "url": "https://www.lifeaiot.com/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "smart-home"
+   ],
+   "blurb": "SmartLife lets me control the hot water heaters so the batteries and Shay are both happy.",
+   "section": "screen-share",
+   "recommender": "Hugh"
+  },
+  {
+   "id": "2026-08-15-navily",
+   "name": "Navily",
+   "url": "https://www.navily.com/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "travel"
+   ],
+   "blurb": "Navily gives us reviews of anchorages and where to clear customs.",
+   "section": "screen-share",
+   "recommender": "Hugh"
+  },
+  {
+   "id": "2026-08-15-bga",
+   "name": "BGA",
+   "url": "https://boardgamearena.com/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [
+    "web"
+   ],
+   "blurb": "BGA (Board Game Arena) might be the most entertainment you can possibly have on a phone ( Ark Nova is my fav).",
+   "section": "screen-share",
+   "recommender": "Hugh"
+  },
+  {
+   "id": "2026-08-15-ark-nova",
+   "name": "Ark Nova",
+   "url": "https://en.boardgamearena.com/gamepanel?game=arknova",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [
+    "web"
+   ],
+   "blurb": "BGA (Board Game Arena) might be the most entertainment you can possibly have on a phone ( Ark Nova is my fav).",
+   "section": "screen-share",
+   "recommender": "Hugh"
+  },
+  {
+   "id": "2026-08-15-pocket-casts",
+   "name": "Pocket Casts",
+   "url": "https://pocketcasts.com/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "podcast",
+    "cross-platform"
+   ],
+   "blurb": "And Pocket Casts is by far the best podcast program ever made.",
+   "section": "screen-share",
+   "recommender": "Hugh"
+  },
+  {
+   "id": "2026-08-15-widows-bay",
+   "name": "Widow’s Bay",
+   "url": "https://www.themoviedb.org/tv/270476-widow-s-bay",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "We recently binged Widow’s Bay for the second time.",
+   "section": "screen-share",
+   "recommender": "Hugh"
+  },
+  {
+   "id": "2026-08-15-omnibus",
+   "name": "Omnibus",
+   "url": "https://www.omnibusproject.com/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "podcast"
+   ],
+   "blurb": "My longtime podcast obsession is Omnibus, where Ken Jennings and John Roderick try to talk about an esoteric topic but mostly stray and ramble in the best way possible.",
+   "section": "screen-share",
+   "recommender": "Hugh"
+  },
+  {
+   "id": "2026-08-15-neo",
+   "name": "Neo",
+   "url": "https://hughhowey.com/introducing-neo/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "productivity"
+   ],
+   "blurb": "An app that’s keeping me busy these days is Neo, a novel-writing piece of software I created.",
+   "section": "screen-share",
+   "recommender": "Hugh"
+  },
+  {
+   "id": "2026-08-15-tin-can",
+   "name": "Tin Can",
+   "url": "https://tincan.kids/",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "I’ve had a chat with my coworker about the Tin Can phone for kids. Looks retro cool.",
+   "section": "crowdsourced",
+   "recommender": "Bart (reader)"
+  },
+  {
+   "id": "2026-08-15-guildrun",
+   "name": "Guildrun",
+   "url": "https://www.playguildrun.com/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Guildrun, the best demo for a game I’ve ever played.",
+   "section": "crowdsourced",
+   "recommender": "Adam (reader)"
+  },
+  {
+   "id": "2026-08-15-cheermyrun",
+   "name": "CheerMyRun",
+   "url": "https://live.cheermyrun.com/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "fitness"
+   ],
+   "blurb": "I’m training for the Berlin Marathon next month and I downloaded an app called CheerMyRun. My family and friends will be able to send me audio messages that will play at specific miles during the race. I told them it could be encouraging, or just shouting expletives at me. Should be fun!",
+   "section": "crowdsourced",
+   "recommender": "Brian (reader)"
+  },
+  {
+   "id": "2026-08-15-servant",
+   "name": "Servant",
+   "url": "https://www.themoviedb.org/tv/88055-servant?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "After a three-year break, I’m watching the final season of Servant. Penultimate episode.",
+   "section": "crowdsourced",
+   "recommender": "Simon (reader)"
+  },
+  {
+   "id": "2026-08-15-big-walk",
+   "name": "Big Walk",
+   "url": "https://bigwalk.game/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Big Walk. A game that naturally turns into just hanging out with friends. I’d use it instead of Zoom if I could.",
+   "section": "crowdsourced",
+   "recommender": "BTTK (reader)"
+  },
+  {
+   "id": "2026-08-15-8bitdo-flippad",
+   "name": "8BitDo FlipPad",
+   "url": "https://www.8bitdo.com/flippad/",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "Just wanted to shout out the new 8BitDo FlipPad. Being able to carry around classic games on your phone is amazing, but on-screen controls for these can die a very hot death in a very hot fire.",
+   "section": "crowdsourced",
+   "recommender": "Ryan (reader)"
+  },
+  {
+   "id": "2026-08-15-spider-noir",
+   "name": "Spider-Noir",
+   "url": "https://www.themoviedb.org/tv/220102-spider-noir?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Watching Spider-Noir. In black & white, of course.",
+   "section": "crowdsourced",
+   "recommender": "DHRME (reader)"
+  },
+  {
+   "id": "2026-08-15-standard-reader",
+   "name": "Standard Reader",
+   "url": "https://standard-reader.app/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [],
+   "blurb": "Been enjoying Standard Reader as a reading app for blogs on the ATmosphere.",
+   "section": "crowdsourced",
+   "recommender": "Tynan (reader)"
+  },
+  {
+   "id": "2026-08-15-the-dream-hotel",
+   "name": "The Dream Hotel",
+   "url": "https://www.penguinrandomhouse.com/books/717465/the-dream-hotel-by-laila-lalami/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
+   "blurb": "Just read The Dream Hotel by Laila Lalami, set in a slightly-distant future where people can have ‘dreamsaver’ technology implanted in their heads. Upside: more restful, restorative sleep in less time. Downside: the government harvests and surveils dreams to identify ‘risky’ citizens.",
+   "section": "crowdsourced",
+   "recommender": "Jennifer (reader)"
+  },
+  {
+   "id": "2026-08-15-truxton-extreme",
+   "name": "Truxton Extreme",
+   "url": "https://truxtonextreme.com/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "Games like Truxton Extreme don’t always get the spotlight, but I am a shmup fan through and through and it is a decent shmup that tries its best to pay tribute to its predecessors.",
+   "section": "crowdsourced",
+   "recommender": "Vin (reader)"
+  },
+  {
+   "id": "2026-08-15-the-social-reckoning",
+   "name": "The Social Reckoning",
+   "url": "https://www.youtube.com/watch?v=gM4LkaXwGuY&t=1s",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "Okay, so all the stuff we’re learning about The Social Reckoning suggests it might not be a great movie.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-15-a-jeremy-strong-press-tour",
+   "name": "a Jeremy Strong press tour",
+   "url": "https://www.gq.com/story/jeremy-strong-sept-cover-story-the-social-reckoning",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
+   "blurb": "It has already given us two great things: a Jeremy Strong press tour that is going to be one of the all-time method actor moments, and this really fabulous interview with Aaron Sorkin about writing, humanity, social networks, AI, and much more.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-15-this-really-fabulous-interview",
+   "name": "this really fabulous interview",
+   "url": "https://www.youtube.com/watch?v=1Mu5RAfhECk",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "video"
+   ],
+   "blurb": "It has already given us two great things: a Jeremy Strong press tour that is going to be one of the all-time method actor moments, and this really fabulous interview with Aaron Sorkin about writing, humanity, social networks, AI, and much more.",
+   "section": "signing-off",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-15-sports-night",
+   "name": "Sports Night",
+   "url": "https://www.themoviedb.org/tv/2003-sports-night",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Here’s a hotter one: Sports Night is the best show he’s ever written.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}
