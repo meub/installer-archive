@@ -1,0 +1,337 @@
+{
+ "schema": 1,
+ "date": "2026-08-30",
+ "post_type": "issue",
+ "title": "Two new small, powerful Macs",
+ "url": "https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera",
+ "author": "Jay Peters",
+ "number": 142,
+ "sections_found": [
+  "intro",
+  "the-drop",
+  "screen-share",
+  "crowdsourced",
+  "signing-off"
+ ],
+ "source": "web",
+ "scraped_at": "2026-08-30T13:55:58+00:00",
+ "parser_version": 1,
+ "needs_review": true,
+ "recommendations": [
+  {
+   "id": "2026-08-30-the-m6-and-m5-pro-mac-mini",
+   "name": "The M6 and M5 Pro Mac Mini",
+   "url": "https://www.apple.com/mac-mini",
+   "alt_urls": [
+    "https://www.apple.com/mac-studio"
+   ],
+   "category": "gadget",
+   "tags": [
+    "mac"
+   ],
+   "blurb": "Apple updated its tiny computer this week, and you can preorder it with a new M6 chip or an M5 Pro. Unfortunately, they have starting prices that are $100 more expensive than the previous generation, and the new model won’t be released until September 22nd.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-30-star-wars-zero-company",
+   "name": "Star Wars: Zero Company",
+   "url": "https://www.ea.com/games/starwars/zero-company",
+   "alt_urls": [
+    "https://www.ign.com/articles/star-wars-zero-company-review",
+    "https://www.pcgamer.com/games/strategy/star-wars-zero-company-review/"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "This strategy game set in the Star Wars universe has been getting rave reviews. Gotta find some time to squeeze this in with all of the other big games coming out soon.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-30-hmds-nokia-300-charge",
+   "name": "HMD’s Nokia 300 Charge",
+   "url": "https://www.hmd.com/en_int/nokia-300-charge?sku=AHM2490ARGCCC4B",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "HMD made an old-school, candybar-style Nokia dumbphone that doubles as a power bank. It also has a 3.5mm headphone jack. Who needs a foldable iPhone when you can have this?",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-30-wyzes-indoor-cam-pan",
+   "name": "Wyze’s Indoor Cam Pan",
+   "url": "https://www.wyze.com/products/wyze-indoor-cam-pan?srsltid=AfmBOoorEYOExSKh_FtRwgF_w53AVFcdC8Nc33o7TV4845q7bB3-xWoq",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [
+    "smart-home"
+   ],
+   "blurb": "This new $39.98 security camera can tilt 360 degrees around and 103 degrees vertically, but it also has a privacy mode that tilts the lens fully downward into the body of the camera so that it can’t see anything. Great feature.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-30-garmins-fenix-9-smartwatches",
+   "name": "Garmin’s Fenix 9 smartwatches",
+   "url": "https://www.kqzyfj.com/click-8836598-15205098?url=https%3A%2F%2Fwww.garmin.com%2Fen-US%2Fplay-harder%2F",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [
+    "fitness"
+   ],
+   "blurb": "The Fenix 9 and 9 Pro have OLED screens, 64GB of storage, and for the two bigger sizes of the 9 Pro, the option to get solar-charging displays. The watches aren’t cheap, though: The Fenix 9 starts at $999.99, while the Pro starts at $1,099.99.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-30-elden-ring-tarnished-edition",
+   "name": "Elden Ring: Tarnished Edition",
+   "url": "https://en.bandainamcoent.eu/elden-ring/elden-ring-tarnished-edition",
+   "alt_urls": [
+    "https://www.theverge.com/entertainment/983307/elden-ring-nintendo-switch-2-review",
+    "https://www.theverge.com/games/805381/elden-ring-tarnished-edition-nintendo-switch-2-delay"
+   ],
+   "category": "game",
+   "tags": [],
+   "blurb": "The Switch 2 version of FromSoftware’s all-time classic is apparently worth the wait after a big delay. Do I need yet another excuse to get lost in The Lands Between? Probably not, but I’m tempted.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-30-whoops-meridian-band",
+   "name": "Whoop’s Meridian Band",
+   "url": "https://shop.whoop.com/us/en/categories/meridian",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [
+    "fitness"
+   ],
+   "blurb": "This $149 band is made from Milanese mesh, comes in gold, rose gold, silver, and black, and makes your fifth-gen Whoop tracker look super fancy. But one part isn’t so fancy: You can’t charge your Whoop while it’s in the Meridian Band.",
+   "section": "the-drop",
+   "recommender": null
+  },
+  {
+   "id": "2026-08-30-iphone-17-pro-deep-blue-1-tb-of-which-only-200-g",
+   "name": "iPhone 17 Pro, deep blue, 1 TB (of which only 200 GB is used, but that won’t sto",
+   "url": null,
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "The phone: iPhone 17 Pro, deep blue, 1 TB (of which only 200 GB is used, but that won’t stop me from wasting money on a 1 TB model this year too).",
+   "section": "screen-share",
+   "recommender": "John"
+  },
+  {
+   "id": "2026-08-30-unforgetful",
+   "name": "Unforgetful",
+   "url": "https://unforgetful.app/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
+   "blurb": "The apps: I’ve currently got three todo/task apps on the homescreen, which I can’t recommend, but it’s currently working for me: Unforgetful, Finalist, and Due. (The red “1” badge on Unforgetful is for a reminder to send you this email and the screenshot of my homescreen.)",
+   "section": "screen-share",
+   "recommender": "John"
+  },
+  {
+   "id": "2026-08-30-finalist",
+   "name": "Finalist",
+   "url": "https://www.finalist.works/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
+   "blurb": "The apps: I’ve currently got three todo/task apps on the homescreen, which I can’t recommend, but it’s currently working for me: Unforgetful, Finalist, and Due. (The red “1” badge on Unforgetful is for a reminder to send you this email and the screenshot of my homescreen.)",
+   "section": "screen-share",
+   "recommender": "John"
+  },
+  {
+   "id": "2026-08-30-due",
+   "name": "Due",
+   "url": "https://www.dueapp.com/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "productivity"
+   ],
+   "blurb": "The apps: I’ve currently got three todo/task apps on the homescreen, which I can’t recommend, but it’s currently working for me: Unforgetful, Finalist, and Due. (The red “1” badge on Unforgetful is for a reminder to send you this email and the screenshot of my homescreen.)",
+   "section": "screen-share",
+   "recommender": "John"
+  },
+  {
+   "id": "2026-08-30-tot",
+   "name": "Tot",
+   "url": "https://tot.rocks/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "mac",
+    "productivity"
+   ],
+   "blurb": "The apps: I’ve currently got three todo/task apps on the homescreen, which I can’t recommend, but it’s currently working for me: Unforgetful, Finalist, and Due. (The red “1” badge on Unforgetful is for a reminder to send you this email and the screenshot of my homescreen.)",
+   "section": "screen-share",
+   "recommender": "John"
+  },
+  {
+   "id": "2026-08-30-mosaic",
+   "name": "Mosaic",
+   "url": "https://sixcolors.com/post/2026/08/mlb-hires-indie-mosaic-app-developer/",
+   "alt_urls": [],
+   "category": "app",
+   "tags": [
+    "ios",
+    "beta"
+   ],
+   "blurb": "Mosaic is a TestFlight-only alternative to the official MLB app, which has a great story behind it.",
+   "section": "screen-share",
+   "recommender": "John"
+  },
+  {
+   "id": "2026-08-30-i-wrote-about-it-on-daring-fireball-a-while-ago",
+   "name": "I wrote about it on Daring Fireball a while ago",
+   "url": "https://daringfireball.net/linked/2018/06/19/kotoba",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "article"
+   ],
+   "blurb": "I wrote about it on Daring Fireball a while ago.",
+   "section": "screen-share",
+   "recommender": "John"
+  },
+  {
+   "id": "2026-08-30-a-shortcut-that-jumps-me-right-to-the-list-of-ap",
+   "name": "a shortcut that jumps me right to the list of apps with pending updates to install",
+   "url": "https://daringfireball.net/linked/2026/03/26/jump-right-to-updates-screen-in-app-store",
+   "alt_urls": [],
+   "category": "feature",
+   "tags": [
+    "ios"
+   ],
+   "blurb": "Oh, and my App Store app icon isn’t the actual App Store app, but instead a shortcut that jumps me right to the list of apps with pending updates to install.",
+   "section": "screen-share",
+   "recommender": "John"
+  },
+  {
+   "id": "2026-08-30-the-agency",
+   "name": "The Agency",
+   "url": "https://www.themoviedb.org/tv/219971-the-agency?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "One show whose second season just finished: The Agency, on Paramount+.",
+   "section": "screen-share",
+   "recommender": "John"
+  },
+  {
+   "id": "2026-08-30-slow-horses",
+   "name": "Slow Horses",
+   "url": "https://www.themoviedb.org/tv/95480-slow-horses?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "One show whose sixth season is about to begin: Slow Horses, on Apple TV.",
+   "section": "screen-share",
+   "recommender": "John"
+  },
+  {
+   "id": "2026-08-30-its-always-sunny-in-philadelphia",
+   "name": "It’s Always Sunny in Philadelphia",
+   "url": "https://www.themoviedb.org/tv/2710-it-s-always-sunny-in-philadelphia?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Third, It’s Always Sunny in Philadelphia, whose 18th season just started; it’s the best and most realistic show set in Philadelphia ever made.",
+   "section": "screen-share",
+   "recommender": "John"
+  },
+  {
+   "id": "2026-08-30-a-la-card",
+   "name": "A la Card",
+   "url": "https://store.steampowered.com/app/3180680/A_la_Card/",
+   "alt_urls": [],
+   "category": "game",
+   "tags": [],
+   "blurb": "I’ve been playing A la Card and REALLY enjoying my time with it. It’s an indie roguelike deck builder game that feels like Slay the Spire and Balatro said ‘Let’s go out for food from a food truck.’ All cards can be mutated and changed via the events — their values, their effect, what triggers them.",
+   "section": "crowdsourced",
+   "recommender": "Tom (reader)"
+  },
+  {
+   "id": "2026-08-30-emo-revival",
+   "name": "Emo Revival",
+   "url": "https://www.clashbooks.com/new-products-2/emo-revival-andrew-sacher-signed-preorder",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
+   "blurb": "My preorder shipped early so I’ve been reading Emo Revival by Andrew Sacher and it’s a 10/10 so far.",
+   "section": "crowdsourced",
+   "recommender": "@thoughtlesskyle.bsky.social (reader)"
+  },
+  {
+   "id": "2026-08-30-empire-of-ai",
+   "name": "Empire of AI",
+   "url": "https://www.penguinrandomhouse.com/books/743569/empire-of-ai-by-karen-hao/",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "book",
+    "ai"
+   ],
+   "blurb": "Empire of AI, Karen Hao. Recently translated to PT-BR:)",
+   "section": "crowdsourced",
+   "recommender": "Milena (reader)"
+  },
+  {
+   "id": "2026-08-30-house-of-guinness",
+   "name": "House of Guinness",
+   "url": "https://www.themoviedb.org/tv/250988-house-of-guinness?language=en-US",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "tv"
+   ],
+   "blurb": "Tonight I’m going to finish House of Guinness. It’s a fine show but even better if you drink when watching it.",
+   "section": "crowdsourced",
+   "recommender": "Nick (reader)"
+  },
+  {
+   "id": "2026-08-30-berserker",
+   "name": "Berserker",
+   "url": "https://www.berserker.com/FredsBerserkers.html",
+   "alt_urls": [],
+   "category": "media",
+   "tags": [
+    "book"
+   ],
+   "blurb": "I’ve been on a kick reading older sci-fi novels recently and came across Berserker by Fred Saberhagen (1967). Fantastic book but surprisingly hard to find a physical copy. Ended up purchasing an ePub. Highly recommend!",
+   "section": "crowdsourced",
+   "recommender": "Nathan (reader)"
+  },
+  {
+   "id": "2026-08-30-in-a-phone-pocket",
+   "name": "in a phone pocket",
+   "url": "https://bellroy.com/products/all-conditions-phone-pocket?color=ink&material=leather_ripstop&size=standard#slide-0",
+   "alt_urls": [],
+   "category": "gadget",
+   "tags": [],
+   "blurb": "Another reader suggested zipping up their phone in a phone pocket.",
+   "section": "signing-off",
+   "recommender": null
+  }
+ ]
+}

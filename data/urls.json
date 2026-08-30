@@ -586,6 +586,9 @@
   "https://www.theverge.com/entertainment/980635/marvel-new-x-men-movie-cast": {
    "status": "rejected"
   },
+  "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai": {
+   "status": "rejected"
+  },
   "https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on": {
    "status": "rejected"
   },
@@ -599,6 +602,15 @@
    "status": "rejected"
   },
   "https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices": {
    "status": "rejected"
   },
   "https://www.theverge.com/installer-newsletter/604192/bookshop-spider-man-mythic-quest-installer": {
@@ -1292,7 +1304,18 @@
   },
   "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri": {
    "status": "rejected"
+  },
+  "https://www.theverge.com/tech/986033/samsung-galaxy-z-flip-8-review": {
+   "status": "rejected"
+  },
+  "https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera": {
+   "status": "confirmed",
+   "canonical": "https://www.theverge.com/tech/986280/mac-mini-studio-star-wars-zero-company-wyze-camera",
+   "date": "2026-08-30",
+   "title": "Two new small, powerful Macs",
+   "number": 142,
+   "file": "2026-08-30.json"
   }
  },
- "generated_at": "2026-08-22T14:56:01+00:00"
+ "generated_at": "2026-08-30T13:55:58+00:00"
 }
